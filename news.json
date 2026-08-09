@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-09T09:54:57.123359+00:00",
+  "scraped_at": "2026-08-09T10:51:48.204004+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Forecasting the AI Bubble",
+      "link": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 10:41:32 +0000",
+      "timestamp": 1786272092.0
+    },
+    {
+      "title": "Stone Soup AI (2024)",
+      "link": "https://simons.berkeley.edu/news/stone-soup-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 10:31:46 +0000",
+      "timestamp": 1786271506.0
+    },
+    {
+      "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+      "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sun, 09 Aug 2026 10:30:00 +0000",
+      "timestamp": 1786271400.0
+    },
+    {
+      "title": "AI Writes the Code, but Humans Can't Review It All. Now What?",
+      "link": "https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 10:25:49 +0000",
+      "timestamp": 1786271149.0
+    },
+    {
+      "title": "Aswath Damodaran: Big Tech Has No Idea How AI Pays Off",
+      "link": "https://www.youtube.com/watch?v=vE_FR0O-Jhk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 09:58:15 +0000",
+      "timestamp": 1786269495.0
+    },
+    {
+      "title": "Meta CTO: employees should use AI productivity to do more work – not time off",
+      "link": "https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 09:50:39 +0000",
+      "timestamp": 1786269039.0
+    },
     {
       "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom",
@@ -145,51 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 09 Aug 2026 05:51:39 +0000",
       "timestamp": 1786254699.0
-    },
-    {
-      "title": "Meta CTO told employees AI gains should go into more work",
-      "link": "https://thenextweb.com/news/meta-bosworth-ai-productivity-more-work-not-time-off",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 05:19:14 +0000",
-      "timestamp": 1786252754.0
-    },
-    {
-      "title": "Open Source, third-party auditing for AI Agents",
-      "link": "https://github.com/ifixai-ai/iFixAi",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 05:02:15 +0000",
-      "timestamp": 1786251735.0
-    },
-    {
-      "title": "AI creates 16 new viruses from scratch after training on 9T nucleotides",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-16-new-viruses-that-never-existed-in-nature-after-learning-dnas-pattern-from-9-trillion-nucleotides-experts-warn-such-applications-are-way-ahead-of-necessary-guardrails",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 04:07:06 +0000",
-      "timestamp": 1786248426.0
-    },
-    {
-      "title": "I asked 4 AI companions what they were. They lied, then texted me the next day",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7244220",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 03:21:10 +0000",
-      "timestamp": 1786245670.0
-    },
-    {
-      "title": "Show HN: Pomona, offline small AI reasoners for agricultural sensors",
-      "link": "https://github.com/okyanu/pomona",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 03:11:07 +0000",
-      "timestamp": 1786245067.0
     },
     {
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -514,15 +523,6 @@
       "source": "Wired AI",
       "published": "Thu, 06 Aug 2026 00:15:04 +0000",
       "timestamp": 1785975304.0
-    },
-    {
-      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-      "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 05 Aug 2026 23:30:00 +0000",
-      "timestamp": 1785972600.0
     },
     {
       "title": "Meta launches Muse Code, an AI agent for large code bases",
