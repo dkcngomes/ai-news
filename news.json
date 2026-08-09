@@ -1,7 +1,16 @@
 {
-  "scraped_at": "2026-08-09T13:14:30.860377+00:00",
+  "scraped_at": "2026-08-09T13:59:01.981494+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Show HN: Job Seeker – AI agent skills for job searching",
+      "link": "https://github.com/galiprandi/job-seeker",
+      "summary": "Markdown skills that coding agents (Devin, Claude, Cursor, opencode) consume to automate the entire job search: search LinkedIn, fill Easy Apply, track in kanban, draft replies.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 13:20:51 +0000",
+      "timestamp": 1786281651.0
+    },
     {
       "title": "Show HN: YC Startup School, but AI-Native",
       "link": "https://foundera.app/",
@@ -82,6 +91,15 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 09 Aug 2026 12:17:10 +0000",
       "timestamp": 1786277830.0
+    },
+    {
+      "title": "AI detectors are creating a new era of distrust",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-09T08:00:00-04:00",
+      "timestamp": 1786276800.0
     },
     {
       "title": "70% of AI revenue comes from OpenAI and Anthropic",
@@ -181,15 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 09 Aug 2026 09:50:39 +0000",
       "timestamp": 1786269039.0
-    },
-    {
-      "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 09:47:45 +0000",
-      "timestamp": 1786268865.0
     },
     {
       "title": "These AI Barons Are Ready to Give Away Their Fortunes",
@@ -460,15 +469,6 @@
       "source": "The Verge AI",
       "published": "2026-08-06T10:30:00-04:00",
       "timestamp": 1786026600.0
-    },
-    {
-      "title": "The left and right agree on one thing: no data centers",
-      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&#160; Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data center construction. She attended a protest there organized by a [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-06T10:00:00-04:00",
-      "timestamp": 1786024800.0
     },
     {
       "title": "Amid legal battles, Suno says it will start watermarking songs",
