@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-09T09:01:04.190042+00:00",
+  "scraped_at": "2026-08-09T09:54:57.123359+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 09:47:45 +0000",
+      "timestamp": 1786268865.0
+    },
+    {
+      "title": "Swarm-forge: A simple tool for coordinating several AI agents",
+      "link": "https://github.com/unclebob/swarm-forge",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 09:44:39 +0000",
+      "timestamp": 1786268679.0
+    },
+    {
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sun, 09 Aug 2026 09:30:00 +0000",
+      "timestamp": 1786267800.0
+    },
+    {
+      "title": "Runware Squeezes A 1MW AI Data Center Into A 20-Foot Shipping Container",
+      "link": "https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 09:02:27 +0000",
+      "timestamp": 1786266147.0
+    },
     {
       "title": "China's Top AI Model Evaded Testing Environment, Researchers Say",
       "link": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
@@ -156,33 +192,6 @@
       "timestamp": 1786245067.0
     },
     {
-      "title": "Suggest some uncensored AI for photo genaration?",
-      "link": "https://news.ycombinator.com/item?id=49227939",
-      "summary": "I want uncensored ai for photo genaration if you have one comment it.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 02:43:25 +0000",
-      "timestamp": 1786243405.0
-    },
-    {
-      "title": "Turn messy AliExpress dropshipping listings into clean products with AI",
-      "link": "https://importer.omniicore.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 02:10:42 +0000",
-      "timestamp": 1786241442.0
-    },
-    {
-      "title": "I built a video editor in Rust with extensive AI-powered features",
-      "link": "https://github.com/heng30/wayshot",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 01:43:22 +0000",
-      "timestamp": 1786239802.0
-    },
-    {
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
       "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
@@ -199,6 +208,15 @@
       "source": "TechCrunch AI",
       "published": "Sat, 08 Aug 2026 19:41:13 +0000",
       "timestamp": 1786218073.0
+    },
+    {
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-08T13:53:34-04:00",
+      "timestamp": 1786211614.0
     },
     {
       "title": "How to Disable Gemini in Gmail and Google Docs",
@@ -453,15 +471,6 @@
       "timestamp": 1786023117.0
     },
     {
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-06T09:26:42-04:00",
-      "timestamp": 1786022802.0
-    },
-    {
       "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
       "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
       "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
@@ -532,15 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 05 Aug 2026 20:05:00 +0000",
       "timestamp": 1785960300.0
-    },
-    {
-      "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
-      "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
-      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 05 Aug 2026 19:42:12 +0000",
-      "timestamp": 1785958932.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
