@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-09T20:50:30.905122+00:00",
-  "count": 65,
+  "scraped_at": "2026-08-09T21:46:43.221484+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "AI Agent Qubitz",
+      "link": "https://github.com/Gabrieliam42/AI-Agent-Qubitz",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 21:42:27 +0000",
+      "timestamp": 1786311747.0
+    },
+    {
+      "title": "Lawyers using \"AI\" could face sanctions including costs for fake citations",
+      "link": "https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 21:36:16 +0000",
+      "timestamp": 1786311376.0
+    },
+    {
+      "title": "Ask HN: How has AI helped your personal algorithmic trading strategy?",
+      "link": "https://news.ycombinator.com/item?id=49236035",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 21:20:29 +0000",
+      "timestamp": 1786310429.0
+    },
+    {
+      "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
+      "link": "https://pacslate.com/",
+      "summary": "I didn't want to buy a standalone computer or repurpose a laptop to run constantly so I could maintain a system to sync my LLMs, so I built this. It's a simple overview of my system, laid out in a way easy to unpack and replicate for yourself. The project is meant to be configured individually, and uniquely, since one solution might not be what's best for another. If anything, maybe it gives you some ideas on how to implement things for your own project. Best wishes, Ryan.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 21:04:02 +0000",
+      "timestamp": 1786309442.0
+    },
+    {
+      "title": "Show HN: Wardline, a Go proxy that auto-blocks compromised AI agents",
+      "link": "https://github.com/kabirnarang39/wardline",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 21:03:50 +0000",
+      "timestamp": 1786309430.0
+    },
+    {
+      "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+      "link": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 21:01:31 +0000",
+      "timestamp": 1786309291.0
+    },
     {
       "title": "Codreo AI Mail – AI Outlook Email Assistant",
       "link": "https://codreo.az/products/codreo-ai-mail/",
@@ -136,51 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 09 Aug 2026 17:26:58 +0000",
       "timestamp": 1786296418.0
-    },
-    {
-      "title": "Show HN: Open-source playground to red-team AI agents against public prompts",
-      "link": "https://playground.fabraix.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 17:26:32 +0000",
-      "timestamp": 1786296392.0
-    },
-    {
-      "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
-      "link": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 17:22:53 +0000",
-      "timestamp": 1786296173.0
-    },
-    {
-      "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
-      "link": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 17:13:06 +0000",
-      "timestamp": 1786295586.0
-    },
-    {
-      "title": "Show HN: RunOnMine – local policy and approvals for AI access to your machine",
-      "link": "https://github.com/ademisler/RunOnMine",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 17:05:08 +0000",
-      "timestamp": 1786295108.0
-    },
-    {
-      "title": "Show HN: GlyPho – Generate editable SVGs from simple AI prompts",
-      "link": "https://www.glypho.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 16:57:35 +0000",
-      "timestamp": 1786294655.0
     },
     {
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
