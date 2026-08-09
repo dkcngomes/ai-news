@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-09T13:59:01.981494+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-09T14:51:38.438791+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "timestamp": 1786285800.0
+    },
+    {
+      "title": "I8 Engine Swap Project: AI CAN bus reverse engineering [video]",
+      "link": "https://www.youtube.com/watch?v=aVKROmuXSN0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 14:26:46 +0000",
+      "timestamp": 1786285606.0
+    },
+    {
+      "title": "Charity Majors on AI, Determinism, Instrumentation, & Eating Your Broccoli",
+      "link": "https://redmonk.com/videos/charity-majors/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 14:22:52 +0000",
+      "timestamp": 1786285372.0
+    },
+    {
+      "title": "Captaining your AI: new human-agent UX paradigm",
+      "link": "https://everythingengineer.substack.com/p/captains-read-the-outputs-a-better-human-agent-ux",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 14:05:45 +0000",
+      "timestamp": 1786284345.0
+    },
+    {
+      "title": "Why climate, fertility collapse, and AI compute share the same bottleneck?",
+      "link": "https://bytepith.com/article/slow-squeeze-climate-demographics-and-state-power",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 13:33:59 +0000",
+      "timestamp": 1786282439.0
+    },
     {
       "title": "Show HN: Job Seeker – AI agent skills for job searching",
       "link": "https://github.com/galiprandi/job-seeker",
@@ -147,24 +192,6 @@
       "timestamp": 1786272618.0
     },
     {
-      "title": "Forecasting the AI Bubble",
-      "link": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 10:41:32 +0000",
-      "timestamp": 1786272092.0
-    },
-    {
-      "title": "Stone Soup AI (2024)",
-      "link": "https://simons.berkeley.edu/news/stone-soup-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 10:31:46 +0000",
-      "timestamp": 1786271506.0
-    },
-    {
       "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
       "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
       "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
@@ -172,33 +199,6 @@
       "source": "Wired AI",
       "published": "Sun, 09 Aug 2026 10:30:00 +0000",
       "timestamp": 1786271400.0
-    },
-    {
-      "title": "AI Writes the Code, but Humans Can't Review It All. Now What?",
-      "link": "https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 10:25:49 +0000",
-      "timestamp": 1786271149.0
-    },
-    {
-      "title": "Aswath Damodaran: Big Tech Has No Idea How AI Pays Off",
-      "link": "https://www.youtube.com/watch?v=vE_FR0O-Jhk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 09:58:15 +0000",
-      "timestamp": 1786269495.0
-    },
-    {
-      "title": "Meta CTO: employees should use AI productivity to do more work – not time off",
-      "link": "https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 09:50:39 +0000",
-      "timestamp": 1786269039.0
     },
     {
       "title": "These AI Barons Are Ready to Give Away Their Fortunes",
@@ -532,15 +532,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 05 Aug 2026 21:21:28 +0000",
       "timestamp": 1785964888.0
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 05 Aug 2026 20:05:00 +0000",
-      "timestamp": 1785960300.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
