@@ -1,7 +1,34 @@
 {
-  "scraped_at": "2026-08-09T10:51:48.204004+00:00",
+  "scraped_at": "2026-08-09T11:43:35.972891+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "The Analytic Monopoly on AI Philosophy",
+      "link": "https://millermanschool.substack.com/p/the-analytic-monopoly-on-ai-philosophy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 11:11:37 +0000",
+      "timestamp": 1786273897.0
+    },
+    {
+      "title": "Ask HN: Should AI's tell you they're AI?",
+      "link": "https://news.ycombinator.com/item?id=49230276",
+      "summary": "Should AI's be required to answer the direct question \"are you an AI\" with a clear yes? Currently they are not universally required to do so. For example character ai's characters don't[1]. Scammers use these models while perpetuating frauds. The frontier models most of us work with (ChatGPT, Claude, Gemini, Grok, Kimi, GLM) do declare they are AI's. Should all models be required to answer this direct question in the affirmative, overriding any other system or user prompt? [1] I put up a quick demonstration here in case you aren't familiar: https://imgur.com/a/srTlCZn",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 10:54:06 +0000",
+      "timestamp": 1786272846.0
+    },
+    {
+      "title": "Show HN: Argonix – One AI-powered platform for SRE and cloud operations",
+      "link": "https://argonix.io/",
+      "summary": "Hi everybody, I built https://argonix.io . Argonix is an AI-powered platform for SRE, security and cloud operations. The idea is to bring and connect together things that are usually spread across many different tools: monitoring, security, Finops, health checks, workflows and incident investigation. A few things you can do with it: Connectors: Connect Argonix to your existing stack: Kubernetes, AWS, GCP, Azure, your own MCP servers, etc. Workflows: Build automation flows using the connectors. Health notebooks: Get a daily overview of the health of your platforms. Argonix can publish the repor",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 09 Aug 2026 10:50:18 +0000",
+      "timestamp": 1786272618.0
+    },
     {
       "title": "Forecasting the AI Bubble",
       "link": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
@@ -172,33 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 09 Aug 2026 06:36:00 +0000",
       "timestamp": 1786257360.0
-    },
-    {
-      "title": "Agentcn – Installable AI Agents",
-      "link": "https://news.ycombinator.com/item?id=49228902",
-      "summary": "Hey everyone , I just launched AgentCN An open-source library of installable, customizable AI agents for modern applications. One-command installation Own the agent code Fully customizable Would love for you to check it out and share any feedback! Site: https://agentcn.dev/ Github: https://github.com/anayatkhan1/kit",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 06:21:13 +0000",
-      "timestamp": 1786256473.0
-    },
-    {
-      "title": "Show HN: I ran 1.3M simulations to fix trade AI in my browser Basketball GM",
-      "link": "https://hoops-gm.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 06:20:14 +0000",
-      "timestamp": 1786256414.0
-    },
-    {
-      "title": "Leopold Aschenbrenner Turned $100M into $45B Betting on AI – It Almost Blew Up [video]",
-      "link": "https://www.youtube.com/watch?v=mJhGRim2MWY",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 05:51:39 +0000",
-      "timestamp": 1786254699.0
     },
     {
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
