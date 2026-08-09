@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI News — Latest AI headlines</title>
+<style>
+  :root {
+    --bg: #0b0f17;
+    --panel: #121826;
+    --panel2: #1a2233;
+    --border: #24304a;
+    --text: #e6edf7;
+    --muted: #8b98b0;
+    --accent: #4f8cff;
+    --accent2: #7c5cff;
+    --badge: #2a3a5f;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+    line-height: 1.5;
+  }
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: rgba(11, 15, 23, 0.9);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 24px;
+    display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+  }
+  .logo {
+    font-size: 20px; font-weight: 700;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+    white-space: nowrap;
+  }
+  .logo span { color: var(--muted); font-weight: 400; font-size: 13px; -webkit-text-fill-color: var(--muted); }
+  .controls { display: flex; gap: 10px; align-items: center; margin-left: auto; flex-wrap: wrap; }
+  input[type="search"], select {
+    background: var(--panel2); color: var(--text);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 8px 12px; font-size: 14px; outline: none;
+  }
+  input[type="search"]:focus, select:focus { border-color: var(--accent); }
+  button {
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+    color: #fff; border: none; border-radius: 8px;
+    padding: 8px 16px; font-size: 14px; font-weight: 600; cursor: pointer;
+  }
+  button:disabled { opacity: 0.6; cursor: wait; }
+  .meta { color: var(--muted); font-size: 13px; }
+  main { max-width: 960px; margin: 0 auto; padding: 24px; }
+  #grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+  .card {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 12px; overflow: hidden; display: flex; flex-direction: column;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+  }
+  .card:hover { transform: translateY(-3px); border-color: var(--accent); }
+  .card img { width: 100%; height: 150px; object-fit: cover; background: var(--panel2); }
+  .card .body { padding: 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .card h2 { font-size: 15px; font-weight: 600; line-height: 1.35; }
+  .card h2 a { color: var(--text); text-decoration: none; }
+  .card h2 a:hover { color: var(--accent); }
+  .card p { color: var(--muted); font-size: 13px; flex: 1; }
+  .card .foot {
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 12px; color: var(--muted);
+  }
+  .badge {
+    background: var(--badge); color: var(--text);
+    border-radius: 999px; padding: 2px 10px; font-size: 11px; font-weight: 600;
+  }
+  #status { text-align: center; padding: 40px; color: var(--muted); }
+  #empty { display: none; text-align: center; padding: 40px; color: var(--muted); }
+  .error { color: #ff6b6b; }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">⚡ AI News <span>latest headlines</span></div>
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search headlines..." autocomplete="off">
+    <select id="source-filter"><option value="">All sources</option></select>
+    <span class="meta" id="updated-badge" title="Auto-refreshes hourly via GitHub Actions">● auto-updates hourly</span>
+  </div>
+</header>
+
+<main>
+  <div id="status">Loading…</div>
+  <div id="empty">No articles match your filters.</div>
+  <div id="grid"></div>
+  <footer>
+    <span id="meta" class="meta"></span>
+    <div class="meta" style="margin-top:6px">Auto-updates hourly via GitHub Actions · served by GitHub Pages</div>
+  </footer>
+</main>
+
+<script>
+const grid = document.getElementById("grid");
+const statusEl = document.getElementById("status");
+const emptyEl = document.getElementById("empty");
+const searchEl = document.getElementById("search");
+const sourceEl = document.getElementById("source-filter");
+const metaEl = document.getElementById("meta");
+
+let news = [];
+
+function timeAgo(ts) {
+  if (!ts) return "";
+  const diff = Date.now() / 1000 - ts;
+  if (diff < 60) return "just now";
+  if (diff < 3600) return Math.floor(diff / 60) + "m ago";
+  if (diff < 86400) return Math.floor(diff / 3600) + "h ago";
+  if (diff < 86400 * 7) return Math.floor(diff / 86400) + "d ago";
+  return new Date(ts * 1000).toLocaleDateString();
+}
+
+function render() {
+  const q = searchEl.value.trim().toLowerCase();
+  const src = sourceEl.value;
+  const all = news.items || [];
+  const items = all.filter(it =>
+    (!q || (it.title + " " + (it.summary || "")).toLowerCase().includes(q)) &&
+    (!src || it.source === src)
+  );
+  grid.innerHTML = "";
+  statusEl.style.display = "none";
+  emptyEl.style.display = items.length ? "none" : "block";
+
+  for (const it of items) {
+    const card = document.createElement("article");
+    card.className = "card";
+    const img = it.image
+      ? `<img src="${it.image}" alt="" loading="lazy" onerror="this.remove()">`
+      : "";
+    card.innerHTML = `
+      ${img}
+      <div class="body">
+        <h2><a href="${it.link}" target="_blank" rel="noopener noreferrer">${escapeHtml(it.title)}</a></h2>
+        ${it.summary ? `<p>${escapeHtml(it.summary)}</p>` : ""}
+        <div class="foot">
+          <span class="badge">${escapeHtml(it.source)}</span>
+          <span>${timeAgo(it.timestamp)}</span>
+        </div>
+      </div>`;
+    grid.appendChild(card);
+  }
+  metaEl.textContent = items.length
+    ? `Showing ${items.length} article${items.length === 1 ? "" : "s"} · scraped ${news.scraped_at ? new Date(news.scraped_at).toLocaleString() : "—"}`
+    : "";
+}
+
+function escapeHtml(s) {
+  return s.replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+async function load() {
+  const res = await fetch("news.json");
+  news = await res.json();
+  const sources = [...new Set(news.items.map(it => it.source))].sort();
+  const current = sourceEl.value;
+  sourceEl.innerHTML = '<option value="">All sources</option>' +
+    sources.map(s => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join("");
+  sourceEl.value = current;
+  render();
+}
+
+searchEl.addEventListener("input", render);
+sourceEl.addEventListener("change", render);
+
+load().catch(e => {
+  statusEl.style.display = "block";
+  statusEl.className = "error";
+  statusEl.textContent = "Failed to load news: " + e.message;
+});
+
+// Pick up freshly scraped data (news.json is committed hourly by GitHub Actions)
+setInterval(() => { load().catch(() => {}); }, 5 * 60 * 1000);
+</script>
+</body>
+</html>
