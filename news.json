@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-10T21:57:02.869755+00:00",
+  "scraped_at": "2026-08-10T22:55:29.366470+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Bernie Sanders calls for AI development pause",
+      "link": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 22:35:23 +0000",
+      "timestamp": 1786401323.0
+    },
+    {
+      "title": "Catholic expert: \"Security issues show AI needs greater human oversight\"",
+      "link": "https://www.detroitcatholic.com/news/security-issues-show-ai-needs-greater-human-oversight-say-catholic-experts",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 22:24:18 +0000",
+      "timestamp": 1786400658.0
+    },
+    {
+      "title": "Nvidia AI Factory Compute Is Becoming an Investable Asset Class",
+      "link": "https://twitter.com/JensenHuang/status/2086934705207959965",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 22:20:21 +0000",
+      "timestamp": 1786400421.0
+    },
+    {
+      "title": "Wall Street giants partner with Nvidia on $500B AI financing deal",
+      "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 22:14:44 +0000",
+      "timestamp": 1786400084.0
+    },
+    {
+      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+      "link": "https://github.com/leog/ai-pulse",
+      "summary": "Hi HN! I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There's a hardware gadget I liked (called SidePulse.io) so before waiting to get my shipment I built the software version instead :D I hope you like it and find it useful as I do!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 22:07:41 +0000",
+      "timestamp": 1786399661.0
+    },
+    {
+      "title": "AI framework rooted in cognitive science could complete tasks more efficiently",
+      "link": "https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 22:04:39 +0000",
+      "timestamp": 1786399479.0
+    },
+    {
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-10T18:00:00-04:00",
+      "timestamp": 1786399200.0
+    },
     {
       "title": "How Claude marks AI-generated content",
       "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
@@ -145,60 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 10 Aug 2026 19:32:46 +0000",
       "timestamp": 1786390366.0
-    },
-    {
-      "title": "Nvidia is pulling Wall Street into the AI buildout",
-      "link": "https://thenextweb.com/news/nvidia-500-billion-wall-street-ai-infrastructure-funding-package",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 19:25:07 +0000",
-      "timestamp": 1786389907.0
-    },
-    {
-      "title": "Bower: AI-powered tool to find educators for homeschool learning pods",
-      "link": "https://educateprivately.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 19:24:09 +0000",
-      "timestamp": 1786389849.0
-    },
-    {
-      "title": "I spent $200 in API credits asking AI agents to scaffold a Next.js starter",
-      "link": "https://codapult.dev/blog/why-cloning-beats-prompting-ai-saas",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 19:20:39 +0000",
-      "timestamp": 1786389639.0
-    },
-    {
-      "title": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500B",
-      "link": "https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 19:17:12 +0000",
-      "timestamp": 1786389432.0
-    },
-    {
-      "title": "AMD Catches the Agentic AI Wave and Will Ride It Up Masterfully",
-      "link": "https://www.nextplatform.com/compute/2026/08/05/amd-catches-the-agentic-ai-wave-and-will-ride-it-up-masterfully/5283468",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 19:08:56 +0000",
-      "timestamp": 1786388936.0
-    },
-    {
-      "title": "The bureaucratic AI arms-race is mutually assured destruction",
-      "link": "https://pluralistic.net/2026/08/10/deep-state-wopr/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 19:00:55 +0000",
-      "timestamp": 1786388455.0
     },
     {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
@@ -487,15 +496,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 06 Aug 2026 22:43:53 +0000",
       "timestamp": 1786056233.0
-    },
-    {
-      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-06T16:55:39-04:00",
-      "timestamp": 1786049739.0
     },
     {
       "title": "Why Normal People Aren’t Using AI Agents",
