@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-10T16:09:52.869646+00:00",
+  "scraped_at": "2026-08-10T17:07:32.039493+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Just how big is the hidden leverage of AI hyperscalers?",
+      "link": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 16:39:24 +0000",
+      "timestamp": 1786379964.0
+    },
+    {
+      "title": "Show HN: Is your AI hallucinating? The big labs won't tell you but we will",
+      "link": "https://www.telluvian.ai/blog/is-your-ai-hallucinating",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 16:36:49 +0000",
+      "timestamp": 1786379809.0
+    },
+    {
+      "title": "Mcmaster.ai",
+      "link": "https://www.mcmaster.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 16:35:52 +0000",
+      "timestamp": 1786379752.0
+    },
+    {
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "link": "https://www.stoaexchange.com",
+      "summary": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa ( https://www.stoaexchange.com ), a marketplace for new and used GPUs and AI servers. GPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use the compute. If that company is a hyperscaler, the financing can look investment grade. If it’s a smaller cloud or startup, terms get expensive fast, even with the same hardware as collateral. The lender’s problem is pretty reasonable. If the borrower defaults and we need to sell these servers, what can w",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 16:35:27 +0000",
+      "timestamp": 1786379727.0
+    },
+    {
+      "title": "The Day the AI Act Grew Teeth: GPAI Enforcement Goes Live",
+      "link": "https://simonroses.com/2026/08/the-day-the-ai-act-grew-teeth-gpai-enforcement-goes-live/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 16:34:51 +0000",
+      "timestamp": 1786379691.0
+    },
+    {
+      "title": "Five ways to evaluate AI agent orchestration platforms",
+      "link": "https://www.infoworld.com/article/4204665/five-ways-to-evaluate-ai-agent-orchestration-platforms.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 16:25:05 +0000",
+      "timestamp": 1786379105.0
+    },
+    {
+      "title": "More than half of AI-generated patches are broken",
+      "link": "https://cyberscoop.com/ai-code-patching-security-risks/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 16:23:16 +0000",
+      "timestamp": 1786378996.0
+    },
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 10 Aug 2026 16:20:13 +0000",
+      "timestamp": 1786378813.0
+    },
+    {
+      "title": "China Bets on AI Stocks as It Races Against US for Chip, Tech Dominance",
+      "link": "https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 16:07:02 +0000",
+      "timestamp": 1786378022.0
+    },
     {
       "title": "Why Open Source Matters for AI: Models should be infrastructure, not appliances",
       "link": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
@@ -120,79 +201,7 @@
       "timestamp": 1786372700.0
     },
     {
-      "title": "We removed ALL fees from our AI gateway",
-      "link": "https://concentrate.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 14:32:17 +0000",
-      "timestamp": 1786372337.0
-    },
-    {
-      "title": "China releases powerful DNA-screening AI tool free to help fight rare diseases",
-      "link": "https://www.scmp.com/news/china/science/article/3363246/china-releases-powerful-dna-screening-ai-tool-free-help-fight-rare-diseases",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 14:30:38 +0000",
-      "timestamp": 1786372238.0
-    },
-    {
-      "title": "Achieving Local AI Inference with Go 1.27's SIMD Package",
-      "link": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 14:22:23 +0000",
-      "timestamp": 1786371743.0
-    },
-    {
-      "title": "Why can't Chinese AI companies raise more money?",
-      "link": "https://www.the-substrate.net/p/why-cant-chinese-ai-companies-raise",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 14:20:51 +0000",
-      "timestamp": 1786371651.0
-    },
-    {
-      "title": "New AI-based program is a shrink ray for proteins",
-      "link": "https://cen.acs.org/physical-chemistry/protein-folding/New-AI-based-program-shrink/104/web/2026/07",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 14:18:22 +0000",
-      "timestamp": 1786371502.0
-    },
-    {
-      "title": "Show HN: Neolabs.fyi – 100 new AI labs by research area, valuation, and more",
-      "link": "https://neolabs.fyi/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 14:18:09 +0000",
-      "timestamp": 1786371489.0
-    },
-    {
-      "title": "Peer review is overwhelmed-can it survive in the AI era?",
-      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 14:14:24 +0000",
-      "timestamp": 1786371264.0
-    },
-    {
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 14:06:22 +0000",
-      "timestamp": 1786370782.0
-    },
-    {
-      "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+      "title": "What happens to Bose when headphones become AI?",
       "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
       "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
       "image": null,
@@ -532,15 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 06 Aug 2026 13:31:57 +0000",
       "timestamp": 1786023117.0
-    },
-    {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "timestamp": 1786021200.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
