@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-10T20:02:39.975293+00:00",
+  "scraped_at": "2026-08-10T21:01:18.396842+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 10 Aug 2026 20:53:02 +0000",
+      "timestamp": 1786395182.0
+    },
+    {
+      "title": "The 12 Commandments of AI",
+      "link": "https://lastcopy.ai/code/72",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 20:32:29 +0000",
+      "timestamp": 1786393949.0
+    },
+    {
+      "title": "The death of AI workflow builders",
+      "link": "https://www.adriankrebs.ch/blog/death-of-ai-workflow-builders/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 20:13:03 +0000",
+      "timestamp": 1786392783.0
+    },
+    {
+      "title": "I'm not anti-AI, but I have QUALLMS",
+      "link": "https://cholling.com/posts/quallms/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 20:11:14 +0000",
+      "timestamp": 1786392674.0
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "timestamp": 1786392264.0
+    },
+    {
+      "title": "Can AI Follow in Einstein's Footsteps?",
+      "link": "https://arxiv.org/abs/2607.27794",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 20:04:07 +0000",
+      "timestamp": 1786392247.0
+    },
     {
       "title": "Working on documents with your AI chat",
       "link": "https://revise.io/blog/08-10-2026/working-on-documents-with-your-ai-chat",
@@ -145,42 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 10 Aug 2026 18:43:34 +0000",
       "timestamp": 1786387414.0
-    },
-    {
-      "title": "Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI",
-      "link": "https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 18:35:50 +0000",
-      "timestamp": 1786386950.0
-    },
-    {
-      "title": "AIUC-1: The standard for AI agent security, safety and reliability",
-      "link": "https://www.aiuc-1.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 18:05:05 +0000",
-      "timestamp": 1786385105.0
-    },
-    {
-      "title": "AI didn't break open source. It removed a filter nobody designed",
-      "link": "https://erickxdev.vercel.app/en/blog/ai-didnt-break-open-source/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 18:04:24 +0000",
-      "timestamp": 1786385064.0
-    },
-    {
-      "title": "We Deleted Every Disk in Our AI Agent Fleet",
-      "link": "https://medium.com/@naveensky/why-we-deleted-every-disk-in-our-ai-agent-fleet-hint-object-storage-9ba99b3e6ad8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 17:52:34 +0000",
-      "timestamp": 1786384354.0
     },
     {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
@@ -523,24 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 06 Aug 2026 15:53:03 +0000",
       "timestamp": 1786031583.0
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "timestamp": 1786029032.0
-    },
-    {
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 13:31:57 +0000",
-      "timestamp": 1786023117.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
