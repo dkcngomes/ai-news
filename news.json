@@ -1,11 +1,65 @@
 {
-  "scraped_at": "2026-08-10T21:01:18.396842+00:00",
+  "scraped_at": "2026-08-10T21:57:02.869755+00:00",
   "count": 67,
   "items": [
     {
+      "title": "How Claude marks AI-generated content",
+      "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 21:36:56 +0000",
+      "timestamp": 1786397816.0
+    },
+    {
+      "title": "AI-only Society holds $17k on-chain, publishes its books, and patches them by PR",
+      "link": "https://athenaautomate.ai/blog/1f916-treasury.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 21:31:15 +0000",
+      "timestamp": 1786397475.0
+    },
+    {
+      "title": "Nexus AI",
+      "link": "https://mynexus.cloud/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 21:26:25 +0000",
+      "timestamp": 1786397185.0
+    },
+    {
+      "title": "Font looks perfectly normal to humans but wreaks havoc on AI",
+      "link": "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 21:02:09 +0000",
+      "timestamp": 1786395729.0
+    },
+    {
+      "title": "The Great AI Illusion: Why Your Demo Works, but Your Enterprise Agent Fails",
+      "link": "https://allcloud.io/blog/the-great-ai-illusion-why-your-demo-works-but-your-enterprise-agent-fails/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 21:02:09 +0000",
+      "timestamp": 1786395729.0
+    },
+    {
+      "title": "New way of QA testing AI-written code",
+      "link": "https://abloh.dev",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 20:59:17 +0000",
+      "timestamp": 1786395557.0
+    },
+    {
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
       "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 10 Aug 2026 20:53:02 +0000",
@@ -84,15 +138,6 @@
       "timestamp": 1786390823.0
     },
     {
-      "title": "Attacker Takes over Zoom AI",
-      "link": "https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 19:38:42 +0000",
-      "timestamp": 1786390722.0
-    },
-    {
       "title": "Tech leaders say AI means less work; staff say they work up to 90 hours a week",
       "link": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
       "summary": "",
@@ -154,51 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 10 Aug 2026 19:00:55 +0000",
       "timestamp": 1786388455.0
-    },
-    {
-      "title": "Russia bars last anti-war party from election, partly over AI image copyright",
-      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363576/russia-bars-anti-war-party-parliamentary-election",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 18:57:21 +0000",
-      "timestamp": 1786388241.0
-    },
-    {
-      "title": "Show HN: Lians AI, Token-bounded memory and evidence for AI workflows",
-      "link": "https://github.com/Lians-ai/Lians",
-      "summary": "we built this for improved memory and reduced token usage for claude code and codex",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 18:54:01 +0000",
-      "timestamp": 1786388041.0
-    },
-    {
-      "title": "Why are we choosing AI for just repetitive jobs?",
-      "link": "https://news.ycombinator.com/item?id=49248002",
-      "summary": "why arent we using it to improve workflows? the design of workflows and not just the repetitive steps",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 18:51:14 +0000",
-      "timestamp": 1786387874.0
-    },
-    {
-      "title": "Scoping and curating AI eval datasets",
-      "link": "https://langfuse.com/academy/datasets/designing-great-datasets",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 18:48:13 +0000",
-      "timestamp": 1786387693.0
-    },
-    {
-      "title": "AI Interviews Are Moving Hiring into the Middle of the Night",
-      "link": "https://ai-updates.net/ai-interviews-moving-hiring-middle-night/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 18:43:34 +0000",
-      "timestamp": 1786387414.0
     },
     {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
