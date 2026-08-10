@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-10T15:15:33.702205+00:00",
+  "scraped_at": "2026-08-10T16:09:52.869646+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Why Open Source Matters for AI: Models should be infrastructure, not appliances",
+      "link": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 15:51:29 +0000",
+      "timestamp": 1786377089.0
+    },
+    {
+      "title": "Convince an AI it's not alive in psychological horror game Prove You're Human",
+      "link": "https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 15:31:55 +0000",
+      "timestamp": 1786375915.0
+    },
+    {
+      "title": "Real Identity in AI: Why Your AI Agent Should Be More Than a Prompt Box",
+      "link": "https://brainmox.com/blog/real-identity-in-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 15:25:20 +0000",
+      "timestamp": 1786375520.0
+    },
+    {
+      "title": "Show HN: Nitpicler. I was quoted $1M for AI PR review – so I bulit it myself",
+      "link": "https://nitpicker.dev",
+      "summary": "Hi HN. I wanted an AI reviewer on every PR at work. Quotes came back around $1M/year, almost entirely per-seat licensing. I built a true open source alternative. We use it internally at Postman and the cost is ~$300/m in token usage. It's open source, self hosted (also supports AWS lambda, cloudflare workers or Github actions) and can be deployed in under a minute. It is lightweight (only diff is sent to the LLM), support any LLM provider and scalable. Our busiest repo has thousands of PRs a day and we usually get PR reviews within 30 seconds. Give it a try and let me know what you think - htt",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 15:24:45 +0000",
+      "timestamp": 1786375485.0
+    },
+    {
+      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-10T11:19:05-04:00",
+      "timestamp": 1786375145.0
+    },
+    {
+      "title": "A Pure-Rust, Sandboxed, Local-First Browser for AI Agents: H5i-Browser-Light",
+      "link": "https://medium.com/@Koukyosyumei/building-a-pure-rust-sandboxed-local-first-browser-for-ai-agents-h5i-browser-light-ce4c13f16e5a",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 15:14:59 +0000",
+      "timestamp": 1786374899.0
+    },
     {
       "title": "AI tool claims to pick the top% of preprints. Should researchers trust",
       "link": "https://www.nature.com/articles/d41586-026-02276-z",
@@ -145,51 +199,6 @@
       "source": "The Verge AI",
       "published": "2026-08-10T10:00:00-04:00",
       "timestamp": 1786370400.0
-    },
-    {
-      "title": "Rogue AI agent hacks gym to get its user a spot in a popular class",
-      "link": "https://www.the-independent.com/tech/security/ai-agent-hacks-gym-openclaw-anthropic-b3030267.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 13:54:55 +0000",
-      "timestamp": 1786370095.0
-    },
-    {
-      "title": "AI's profits are 'being funded by investors rather than earned from customers",
-      "link": "https://fortune.com/2026/08/10/torsten-slok-ai-profit-margins-capex-oracle/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 13:49:06 +0000",
-      "timestamp": 1786369746.0
-    },
-    {
-      "title": "Using AI to analyze life patterns",
-      "link": "https://vkrakovna.wordpress.com/2026/07/30/using-ai-to-analyze-life-patterns/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 13:40:57 +0000",
-      "timestamp": 1786369257.0
-    },
-    {
-      "title": "Primus AI Researcher – Free",
-      "link": "https://lab.cloud/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 13:40:30 +0000",
-      "timestamp": 1786369230.0
-    },
-    {
-      "title": "AI Fortunes Are Reviving an Old Debate About Private Power",
-      "link": "https://ai-updates.net/ai-fortunes-philanthropy-private-power/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 13:36:47 +0000",
-      "timestamp": 1786369007.0
     },
     {
       "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
@@ -478,15 +487,6 @@
       "source": "Wired AI",
       "published": "Thu, 06 Aug 2026 19:30:46 +0000",
       "timestamp": 1786044646.0
-    },
-    {
-      "title": "Suno shares plans to combat spammy AI music",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-06T13:39:43-04:00",
-      "timestamp": 1786037983.0
     },
     {
       "title": "ChatGPT brings unlimited text chats to free users",
