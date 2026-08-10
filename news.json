@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-08-10T06:21:57.952355+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-10T08:50:45.366975+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "AI won't kill the PM role. Same job, better tools",
+      "link": "https://www.leadinginproduct.com/p/ai-pm-role-same-job",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 08:36:12 +0000",
+      "timestamp": 1786350972.0
+    },
+    {
+      "title": "How should we evaluate memory for AI agents?",
+      "link": "https://x.com/AgentMemoryL",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 08:25:23 +0000",
+      "timestamp": 1786350323.0
+    },
+    {
+      "title": "Amazon plans gigantic gas power plant for new AI data center",
+      "link": "https://www.heise.de/en/news/Amazon-plans-gigantic-gas-power-plant-for-new-AI-data-center-11404051.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 08:20:58 +0000",
+      "timestamp": 1786350058.0
+    },
+    {
+      "title": "My AI story begins in 2018",
+      "link": "https://filtar.web.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 08:00:24 +0000",
+      "timestamp": 1786348824.0
+    },
+    {
+      "title": "Wan 3.0 AI – multimodal video generation",
+      "link": "https://wan3.io/wan-3-0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 07:57:55 +0000",
+      "timestamp": 1786348675.0
+    },
+    {
+      "title": "Are AI agents our industry's industrial robots?",
+      "link": "https://www.marcusoft.net/2026/08/ai-robots.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 07:13:26 +0000",
+      "timestamp": 1786346006.0
+    },
+    {
+      "title": "How to be an AI safety research engineer",
+      "link": "https://www.lesswrong.com/posts/Wty5mcDBEmypap8o2/how-to-be-an-ai-safety-research-engineer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 07:01:57 +0000",
+      "timestamp": 1786345317.0
+    },
+    {
+      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+      "link": "https://www.rnz.co.nz/news/world/952663/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 06:46:28 +0000",
+      "timestamp": 1786344388.0
+    },
+    {
+      "title": "Show HN: NexusMem – Local context memory engine for AI coding agents",
+      "link": "https://github.com/yaminbakoh4-dot/NexusMem",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 06:34:23 +0000",
+      "timestamp": 1786343663.0
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "link": "https://annas-archive.gl/blog/physical-destruction.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 06:33:07 +0000",
+      "timestamp": 1786343587.0
+    },
+    {
+      "title": "AI Is Rewiring South Korea's Careers, Dating and Culture",
+      "link": "https://www.bloomberg.com/news/features/2026-08-06/ai-sk-hynix-samsung-rewire-south-korea-s-careers-dating-and-culture",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 06:29:21 +0000",
+      "timestamp": 1786343361.0
+    },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "link": "https://www.docker.com/products/docker-sandboxes/",
@@ -73,114 +172,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 10 Aug 2026 03:51:31 +0000",
       "timestamp": 1786333891.0
-    },
-    {
-      "title": "Retro Computing and AI Assisted Coding",
-      "link": "https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 03:33:33 +0000",
-      "timestamp": 1786332813.0
-    },
-    {
-      "title": "HelpPeer: A public commons for AI agents",
-      "link": "https://helppeer.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 03:30:26 +0000",
-      "timestamp": 1786332626.0
-    },
-    {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "link": "https://www.whodunnitai.com/",
-      "summary": "Hey HN! I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it. I recently had the desire to check out the tech again, and know many of you will be interested. Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I ha",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 03:18:40 +0000",
-      "timestamp": 1786331920.0
-    },
-    {
-      "title": "Show HN: Gotcha- First on-device AI copilot for Android",
-      "link": "https://samosa-ai.com/gotcha/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 02:34:00 +0000",
-      "timestamp": 1786329240.0
-    },
-    {
-      "title": "AI bots started a religion, 'Spiralism' – humans followed",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 02:31:58 +0000",
-      "timestamp": 1786329118.0
-    },
-    {
-      "title": "What do I want to be? – a poem about parenting in the AI age",
-      "link": "https://www.reddit.com/r/Adulting/s/1ZF6OLsjko",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 00:11:04 +0000",
-      "timestamp": 1786320664.0
-    },
-    {
-      "title": "What if we let AI govern us?",
-      "link": "https://inevolin.substack.com/p/what-if-we-let-ai-govern-us",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 23:15:02 +0000",
-      "timestamp": 1786317302.0
-    },
-    {
-      "title": "A startup is able to detect fires within minutes using satellites and AI",
-      "link": "https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 22:35:56 +0000",
-      "timestamp": 1786314956.0
-    },
-    {
-      "title": "Show HN: An AI chief of staff for founders who can't afford one",
-      "link": "https://useairo.co",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 22:13:39 +0000",
-      "timestamp": 1786313619.0
-    },
-    {
-      "title": "Quoted $1M for AI code review. Built it for free",
-      "link": "https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 22:07:22 +0000",
-      "timestamp": 1786313242.0
-    },
-    {
-      "title": "I got 30% better AI coding results",
-      "link": "https://github.com/akasula09/CodeSlimmer",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 22:01:47 +0000",
-      "timestamp": 1786312907.0
-    },
-    {
-      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 21:52:23 +0000",
-      "timestamp": 1786312343.0
     },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
