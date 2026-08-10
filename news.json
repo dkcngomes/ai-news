@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-10T08:50:45.366975+00:00",
+  "scraped_at": "2026-08-10T10:35:29.200430+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "The Rise of the 1 am Job Interview",
+      "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 10 Aug 2026 10:30:00 +0000",
+      "timestamp": 1786357800.0
+    },
+    {
+      "title": "Linus Torvalds says AI has made Linux kernel updates the new normal",
+      "link": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 10:24:10 +0000",
+      "timestamp": 1786357450.0
+    },
+    {
+      "title": "The Future Is for Everyone – The Path to a Positive AI Future",
+      "link": "https://www.meta.com/thefutureisforeveryone/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 10:15:55 +0000",
+      "timestamp": 1786356955.0
+    },
+    {
+      "title": "Study Finds Short AI Chats Reduced Belief in New Conspiracies",
+      "link": "https://aiunderstanding.org/news/ai-chats-emerging-conspiracy-beliefs-study",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 09:54:55 +0000",
+      "timestamp": 1786355695.0
+    },
+    {
+      "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+      "link": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 09:53:37 +0000",
+      "timestamp": 1786355617.0
+    },
+    {
+      "title": "Claude Code, AI Slop, and the Death of the Art?",
+      "link": "https://vladthe.dev/blog/claude-code-ai-slop-and-the-death-of-the-art",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 09:49:52 +0000",
+      "timestamp": 1786355392.0
+    },
+    {
+      "title": "Show HN: OptiQra – Open-source AI website optimization and intelligence platform",
+      "link": "https://github.com/armin5872/OptiQra",
+      "summary": "Hi HN, I've been building OptiQra for quite a while, and I finally finished the desktop version. OptiQra is an open-source website intelligence and optimization platform. It can crawl and analyze websites or local projects, identify SEO/AEO/GEO, accessibility, performance and technical issues, explain them with AI, and automatically fix them. The desktop version is where the project gets particularly interesting. It can run locally, work with local projects, operate offline for analysis that doesn't require cloud services, and run scheduled scans in the background. The workflow is roughly: URL",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 10 Aug 2026 09:13:54 +0000",
+      "timestamp": 1786353234.0
+    },
     {
       "title": "AI won't kill the PM role. Same job, better tools",
       "link": "https://www.leadinginproduct.com/p/ai-pm-role-same-job",
@@ -118,60 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 10 Aug 2026 05:06:05 +0000",
       "timestamp": 1786338365.0
-    },
-    {
-      "title": "AI Coding Clients Are Reading Each Other's Personal Instructions",
-      "link": "https://runtimewire.com/article/ai-coding-clients-are-reading-each-other-s-personal-instructions",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 04:48:43 +0000",
-      "timestamp": 1786337323.0
-    },
-    {
-      "title": "Take-home assessments to be banned in school AI overhaul",
-      "link": "https://www.smh.com.au/national/nsw/take-home-assessments-to-be-banned-in-radical-hsc-overhaul-20260806-p60m44.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 04:43:08 +0000",
-      "timestamp": 1786336988.0
-    },
-    {
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 04:35:24 +0000",
-      "timestamp": 1786336524.0
-    },
-    {
-      "title": "As AI grips world, the thrill of collecting vintage computers is growing",
-      "link": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 04:22:15 +0000",
-      "timestamp": 1786335735.0
-    },
-    {
-      "title": "New AI models still reproduce racial and gender stereotypes in medicine",
-      "link": "https://news.flinders.edu.au/blog/2026/08/09/new-ai-models-still-reproduce-racial-and-gender-stereotypes-in-medicine/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 04:12:06 +0000",
-      "timestamp": 1786335126.0
-    },
-    {
-      "title": "Horolog – a self-hosted, open-source alternative to Reclaim.ai",
-      "link": "https://github.com/ujjwalredd/horolog",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 03:51:31 +0000",
-      "timestamp": 1786333891.0
     },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -523,15 +532,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 06 Aug 2026 13:00:00 +0000",
       "timestamp": 1786021200.0
-    },
-    {
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 06 Aug 2026 00:15:04 +0000",
-      "timestamp": 1785975304.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
