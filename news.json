@@ -1,186 +1,240 @@
 {
-  "scraped_at": "2026-08-11T16:11:37.316842+00:00",
+  "scraped_at": "2026-08-11T18:05:59.026853+00:00",
   "count": 67,
   "items": [
     {
-      "title": "Show HN: VitCam – Self-hosted, open-source NVR with on-device AI detection",
-      "link": "https://github.com/scwsoft/vitcam",
+      "title": "AI spend observability down to individual User ID's and routes",
+      "link": "https://kalaa.cc/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:54:26 +0000",
-      "timestamp": 1786463666.0
+      "published": "Tue, 11 Aug 2026 17:50:42 +0000",
+      "timestamp": 1786470642.0
     },
     {
-      "title": "Bernie Sanders calls on Silicon Valley to 'pause AI development'",
-      "link": "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter",
+      "title": "Another OpenAI executive takes off",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what would stand [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T13:50:01-04:00",
+      "timestamp": 1786470601.0
+    },
+    {
+      "title": "OpenSSH 10.5 released, AI fixes now welcome",
+      "link": "https://www.openssh.org/releasenotes.html#10.5",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:54:17 +0000",
-      "timestamp": 1786463657.0
+      "published": "Tue, 11 Aug 2026 17:49:37 +0000",
+      "timestamp": 1786470577.0
     },
     {
-      "title": "Show HN: Kessa, a verifiable delegation and attestation system for AI agents",
-      "link": "https://github.com/Gneiss-Group/Kessa",
+      "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
+      "link": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:53:05 +0000",
-      "timestamp": 1786463585.0
+      "published": "Tue, 11 Aug 2026 17:43:55 +0000",
+      "timestamp": 1786470235.0
     },
     {
-      "title": "Show HN: My Anti AI Computer",
-      "link": "https://punkx.org/jackdoe/home.html",
+      "title": "Ask HN: What are your thoughts on E2E software development using AI agents?",
+      "link": "https://news.ycombinator.com/item?id=49261790",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:49:57 +0000",
-      "timestamp": 1786463397.0
+      "published": "Tue, 11 Aug 2026 17:43:11 +0000",
+      "timestamp": 1786470191.0
     },
     {
-      "title": "Hexis: Git-backed skills, tools and context for AI agents",
-      "link": "https://github.com/Bevel-Software/Hexis",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "summary": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 17:41:34 +0000",
+      "timestamp": 1786470094.0
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 17:41:22 +0000",
+      "timestamp": 1786470082.0
+    },
+    {
+      "title": "Spotify to Label AI 'Artists'",
+      "link": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:46:35 +0000",
-      "timestamp": 1786463195.0
+      "published": "Tue, 11 Aug 2026 17:36:31 +0000",
+      "timestamp": 1786469791.0
     },
     {
-      "title": "Show HN: Pickle – token efficient AI agent browser with policy-gated actions",
-      "link": "https://picklebrowser.com/",
-      "summary": "I use agents for a lot of my own work, but whenever they access my browser they end up wasting a lot of tokens reading HTML, so I tried building a browser that simplifies webpage content for them. Pickle is an agent browser and it has all the features a regular browser has (tabs, search history, bookmarks, etc.), but pages load as compact structured data instead of raw HTML to reduce token usage. Overview for those curious: It's policy-gated (blocked domains, actions that need approval like purchases) and every action is logged, so you're always able to see what your agent is doing and can tak",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:43:55 +0000",
-      "timestamp": 1786463035.0
-    },
-    {
-      "title": "We built our own status page with AI, replacing a $65k SaaS product",
-      "link": "https://www.fivetran.com/blog/we-built-our-own-status-page-with-ai-replacing-a-65k-saas-product",
+      "title": "Sphere packing, AI, and mathematical beauty",
+      "link": "https://www.empirical.health/blog/ai-math-sphere-packing/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:41:52 +0000",
-      "timestamp": 1786462912.0
+      "published": "Tue, 11 Aug 2026 17:36:17 +0000",
+      "timestamp": 1786469777.0
     },
     {
-      "title": "AI Is Accelerating Vulnerability Discovery",
-      "link": "https://ai-updates.net/ai-accelerating-vulnerability-discovery-inventory/",
+      "title": "AI Loop Engineering in 2026: How to Build a Gauntlet Loop",
+      "link": "https://www.thepromptindex.com/ai-loop-engineering-gauntlet-loop-guide.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:38:32 +0000",
-      "timestamp": 1786462712.0
+      "published": "Tue, 11 Aug 2026 17:25:55 +0000",
+      "timestamp": 1786469155.0
     },
     {
-      "title": "Scrunch: Rewriting the Web for AI",
-      "link": "https://www.decibel.vc/articles/scrunch-rewriting-the-web-for-ai",
+      "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+      "link": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:38:27 +0000",
-      "timestamp": 1786462707.0
+      "published": "Tue, 11 Aug 2026 17:23:58 +0000",
+      "timestamp": 1786469038.0
     },
     {
-      "title": "The Vertical AI Bubble: We Keep Forgetting That LLMs Roll Dice",
-      "link": "https://medium.com/@MirArshadTalpur/the-vertical-ai-bubble-we-keep-forgetting-that-llms-roll-dice-2ac707f91c61",
+      "title": "OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues",
+      "link": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:36:45 +0000",
-      "timestamp": 1786462605.0
+      "published": "Tue, 11 Aug 2026 17:22:45 +0000",
+      "timestamp": 1786468965.0
     },
     {
-      "title": "Share What You Learned, Not Just Your AI Conversation",
-      "link": "https://vcfg.me/writing/share-what-you-learned-not-just-your-ai-conversation/",
+      "title": "Mitchell Hashimoto's daily schedule given Superlogical, second kid, and AI usage",
+      "link": "https://twitter.com/mitchellh/status/2087227139154448436",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:36:28 +0000",
-      "timestamp": 1786462588.0
+      "published": "Tue, 11 Aug 2026 17:22:23 +0000",
+      "timestamp": 1786468943.0
     },
     {
-      "title": "Free tokens for sale: How fake signups drive AI fraud",
-      "link": "https://www.okta.com/blog/threat-intelligence/free_tokens_for_sale/",
+      "title": "Signing and verifying AI outputs with revocable trust",
+      "link": "https://www.youtube.com/watch?v=8OF1gS5jn3w",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:35:30 +0000",
-      "timestamp": 1786462530.0
+      "published": "Tue, 11 Aug 2026 17:14:23 +0000",
+      "timestamp": 1786468463.0
     },
     {
-      "title": "Leanroute Is Live One AI Gateway for Models and Tools",
-      "link": "https://news.ycombinator.com/item?id=49259812",
-      "summary": "Hi all, We built Leanroute - it's One AI Gateway for LLM and Tools. Market is flooded with LLM Gateways, so I wanted to build an AI Gateway for LLM and MCP traffic. Thats the next evolution of AI Gateways! Please support - https://www.producthunt.com/products/leanroute Real product lives here - https://leanroute.dev",
+      "title": "Show HN: I used AI to filter AI-focused content from HN",
+      "link": "https://www.unslop.news",
+      "summary": "Source: https://github.com/leiDnedyA/hn-without-ai",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:23:52 +0000",
-      "timestamp": 1786461832.0
+      "published": "Tue, 11 Aug 2026 17:13:11 +0000",
+      "timestamp": 1786468391.0
     },
     {
-      "title": "Show HN: Remarc – Your feedback layer for AI collaboration",
-      "link": "https://github.com/metedata/Remarc",
-      "summary": "Hey HN, Mete here Today I released Remarc - the missing feedback layer between you and your coding agent. Point at anything on your Mac - text, screenshots, web elements, or voice - and your agent reads and resolves your comments over MCP. Think of it like Google doc commenting for anything on your screen. It's also completely free, local, and open-source. As a detail-obsessed designer who now builds daily with AI, feedback is a core part of my creative process. AI made it incredibly easy to get from zero to 90%, but it’s the last 10% that sets your product apart from the pack. The unglamorous",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:16:15 +0000",
-      "timestamp": 1786461375.0
-    },
-    {
-      "title": "I do read AI code",
-      "link": "https://dmitriid.com/adding-to-i-dont-read-ai-code-discourse",
+      "title": "Verifrog – a Verilog/SystemVerilog testing framework an AI agent can drive",
+      "link": "https://github.com/bryancostanich/verifrog",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:13:54 +0000",
-      "timestamp": 1786461234.0
+      "published": "Tue, 11 Aug 2026 17:08:12 +0000",
+      "timestamp": 1786468092.0
     },
     {
-      "title": "The death of AI workflow builders",
-      "link": "https://www.adriankrebs.ch/blog/death-of-ai-workflow-builders/",
+      "title": "AI Changes the Economics of JIT Compilers",
+      "link": "https://malisper.me/how-ai-changes-the-economics-of-jit-compilers/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:12:24 +0000",
-      "timestamp": 1786461144.0
+      "published": "Tue, 11 Aug 2026 17:03:51 +0000",
+      "timestamp": 1786467831.0
     },
     {
-      "title": "Show HN: Add the official EU AI-content labels to images and videos",
-      "link": "https://github.com/Run-Labs-com/agent-skills/tree/main",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifti",
+      "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:08:02 +0000",
-      "timestamp": 1786460882.0
+      "published": "Tue, 11 Aug 2026 17:01:01 +0000",
+      "timestamp": 1786467661.0
     },
     {
-      "title": "AI's potential climate benefits outweighed by role in boosting fossil fuels",
-      "link": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T13:00:00-04:00",
+      "timestamp": 1786467600.0
+    },
+    {
+      "title": "Why Open Source Matters for AI",
+      "link": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:07:06 +0000",
-      "timestamp": 1786460826.0
+      "published": "Tue, 11 Aug 2026 16:58:06 +0000",
+      "timestamp": 1786467486.0
     },
     {
-      "title": "I coded myself into a corner with AI, this is how I wrote myself out",
-      "link": "https://medium.com/@daniel-payne-keldan-systems/i-coded-myself-into-a-corner-with-ai-this-is-how-i-wrote-myself-out-e977a9afcfb5",
+      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:04:50 +0000",
-      "timestamp": 1786460690.0
+      "published": "Tue, 11 Aug 2026 16:57:09 +0000",
+      "timestamp": 1786467429.0
     },
     {
-      "title": "Relevare: Self-driving AI enablement and modernization for non-technical teams",
-      "link": "https://relevare.tech",
+      "title": "Can Claude Code in a loop improve an enterprise AI agent with $10,745 of budget?",
+      "link": "https://jeremytian.substack.com/p/can-claude-code-in-a-loop-improve",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:03:33 +0000",
-      "timestamp": 1786460613.0
+      "published": "Tue, 11 Aug 2026 16:56:34 +0000",
+      "timestamp": 1786467394.0
+    },
+    {
+      "title": "Feedback on landing page for fosbury.ai (Team Chat)?",
+      "link": "https://fosbury.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 16:53:00 +0000",
+      "timestamp": 1786467180.0
+    },
+    {
+      "title": "River AI Raises $1.1B Led by General Catalyst and AMP PBC to Build Open AI Stack",
+      "link": "https://www.morningstar.com/news/business-wire/20260811845258/river-ai-raises-11b-led-by-general-catalyst-and-amp-pbc-to-build-open-ai-stack",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 16:52:43 +0000",
+      "timestamp": 1786467163.0
+    },
+    {
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 16:25:20 +0000",
+      "timestamp": 1786465520.0
+    },
+    {
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T12:19:15-04:00",
+      "timestamp": 1786465155.0
     },
     {
       "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
@@ -345,15 +399,6 @@
       "timestamp": 1786375145.0
     },
     {
-      "title": "What happens to Bose when headphones become AI?",
-      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-10T10:00:00-04:00",
-      "timestamp": 1786370400.0
-    },
-    {
       "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
       "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
       "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
@@ -370,15 +415,6 @@
       "source": "Wired AI",
       "published": "Mon, 10 Aug 2026 11:30:00 +0000",
       "timestamp": 1786361400.0
-    },
-    {
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-10T07:00:00-04:00",
-      "timestamp": 1786359600.0
     },
     {
       "title": "The Rise of the 1 am Job Interview",
@@ -424,15 +460,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 09 Aug 2026 14:30:00 +0000",
       "timestamp": 1786285800.0
-    },
-    {
-      "title": "AI detectors are creating a new era of distrust",
-      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-09T08:00:00-04:00",
-      "timestamp": 1786276800.0
     },
     {
       "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
@@ -507,15 +534,6 @@
       "timestamp": 1786119369.0
     },
     {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 07 Aug 2026 14:22:49 +0000",
-      "timestamp": 1786112569.0
-    },
-    {
       "title": "Scientists Used AI to Create 16 New Viruses",
       "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
       "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
@@ -523,24 +541,6 @@
       "source": "Wired AI",
       "published": "Fri, 07 Aug 2026 14:13:57 +0000",
       "timestamp": 1786112037.0
-    },
-    {
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old “town hall in your pocket” or&#160;Anthropic&#8217;s Claude constitution,&#160;it&#8217;s&#160;a theory that&#160;doesn&#8217;t&#160;paint Silicon Valley in a very flattering light.&#160;&#160; In&#160;Lepore&#8217;s&#160;upcoming book,&#160;The Rise and Fall of the Artificial State, the&#160;Pulitzer [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "timestamp": 1786111200.0
-    },
-    {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "summary": "Meta's total fine has racked up to $942 million in this case.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 07 Aug 2026 11:40:37 +0000",
-      "timestamp": 1786102837.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
