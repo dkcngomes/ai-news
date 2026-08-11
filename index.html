@@ -4,6 +4,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI News — Latest AI headlines</title>
+<script>
+// Apply saved/system theme before first paint to avoid flash
+(function () {
+  try {
+    var t = localStorage.getItem("theme");
+    if (t !== "dark" && t !== "light") {
+      t = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }
+    document.documentElement.setAttribute("data-theme", t);
+  } catch (e) {}
+})();
+</script>
 <style>
   :root {
     --bg: #f3f6fb;
@@ -15,6 +27,19 @@
     --accent: #2563eb;
     --accent2: #7c3aed;
     --badge: #e8eefb;
+    --header-bg: rgba(255, 255, 255, 0.92);
+  }
+  [data-theme="dark"] {
+    --bg: #0b1220;
+    --panel: #111a2c;
+    --panel2: #1a2540;
+    --border: #24334f;
+    --text: #e2e8f0;
+    --muted: #94a3b8;
+    --accent: #60a5fa;
+    --accent2: #a78bfa;
+    --badge: #1e2a45;
+    --header-bg: rgba(10, 18, 32, 0.92);
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
@@ -25,7 +50,7 @@
   }
   header {
     position: sticky; top: 0; z-index: 10;
-    background: rgba(255, 255, 255, 0.92);
+    background: var(--header-bg);
     backdrop-filter: blur(8px);
     border-bottom: 1px solid var(--border);
     padding: 14px 24px;
@@ -51,6 +76,12 @@
     padding: 8px 16px; font-size: 14px; font-weight: 600; cursor: pointer;
   }
   button:disabled { opacity: 0.6; cursor: wait; }
+  .theme-toggle {
+    background: var(--panel2); color: var(--text);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 8px 10px; font-size: 14px; line-height: 1; cursor: pointer;
+  }
+  .theme-toggle:hover { border-color: var(--accent); }
   .meta { color: var(--muted); font-size: 13px; }
   main { max-width: 960px; margin: 0 auto; padding: 24px; }
   #grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
@@ -87,6 +118,7 @@
   <div class="controls">
     <input type="search" id="search" placeholder="Search headlines..." autocomplete="off">
     <select id="source-filter"><option value="">All sources</option></select>
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark/light mode">🌙</button>
     <span class="meta" id="updated-badge" title="Auto-refreshes hourly via GitHub Actions">● auto-updates hourly</span>
   </div>
 </header>
@@ -176,6 +208,22 @@ async function load() {
 
 searchEl.addEventListener("input", render);
 sourceEl.addEventListener("change", render);
+
+// --- Dark / light theme toggle ---
+const themeToggle = document.getElementById("theme-toggle");
+const rootEl = document.documentElement;
+function applyTheme(theme) {
+  rootEl.setAttribute("data-theme", theme);
+  themeToggle.textContent = theme === "dark" ? "☀️" : "🌙";
+  themeToggle.setAttribute("title", theme === "dark" ? "Switch to light mode" : "Switch to dark mode");
+  themeToggle.setAttribute("aria-label", theme === "dark" ? "Switch to light mode" : "Switch to dark mode");
+}
+applyTheme(rootEl.getAttribute("data-theme") === "dark" ? "dark" : "light");
+themeToggle.addEventListener("click", () => {
+  const next = rootEl.getAttribute("data-theme") === "dark" ? "light" : "dark";
+  applyTheme(next);
+  try { localStorage.setItem("theme", next); } catch (e) {}
+});
 
 load().catch(e => {
   statusEl.style.display = "block";
