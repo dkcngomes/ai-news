@@ -1,7 +1,124 @@
 {
-  "scraped_at": "2026-08-11T06:03:16.670496+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-11T07:35:23.984739+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "helppeer.ai",
+      "link": "https://helppeer.ai/llms.txt",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 07:10:40 +0000",
+      "timestamp": 1786432240.0
+    },
+    {
+      "title": "AI Slop Backlash Is Starting to Change Platform Policy",
+      "link": "https://ai-updates.net/ai-slop-backlash-changing-platform-policy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 07:05:39 +0000",
+      "timestamp": 1786431939.0
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 07:02:08 +0000",
+      "timestamp": 1786431728.0
+    },
+    {
+      "title": "The Water Footprint of AI",
+      "link": "https://doi.org/10.1016/j.watres.2026.125866",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 07:00:57 +0000",
+      "timestamp": 1786431657.0
+    },
+    {
+      "title": "Show HN: Langkast – One workspace for every AI model, agents, and your files",
+      "link": "https://langkast.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 06:56:03 +0000",
+      "timestamp": 1786431363.0
+    },
+    {
+      "title": "Sentience and AI – First Argument",
+      "link": "https://medium.com/luminasticity/on-sentience-ai-first-argument-7b3b17a05ad4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 06:47:20 +0000",
+      "timestamp": 1786430840.0
+    },
+    {
+      "title": "Show HN: Traceseal – signed, offline-verifiable receipts for AI agent runs",
+      "link": "https://traceseal.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 06:45:53 +0000",
+      "timestamp": 1786430753.0
+    },
+    {
+      "title": "The AI Revolution – History Repeating Itself – On Economics",
+      "link": "https://www.alanbonnici.com/2026/07/the-ai-revolution-history-repeating_01939218328.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 06:42:06 +0000",
+      "timestamp": 1786430526.0
+    },
+    {
+      "title": "Nvidia gets $500B from major investors to develop AI infrastructure",
+      "link": "https://www.bbc.com/news/articles/c78gr0jv0mdo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 06:40:59 +0000",
+      "timestamp": 1786430459.0
+    },
+    {
+      "title": "AI is approving our pull requests",
+      "link": "https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 06:30:27 +0000",
+      "timestamp": 1786429827.0
+    },
+    {
+      "title": "Superintelligence is a dragon: What Mark Zuckerberg misunderstands about AI",
+      "link": "https://www.platformer.news/zuckerberg-ai-manifesto-dragons/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 06:16:15 +0000",
+      "timestamp": 1786428975.0
+    },
+    {
+      "title": "Se-harness – portable, tool-agnostic AI coding harness generator",
+      "link": "https://github.com/manuuuel/seh",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 06:14:29 +0000",
+      "timestamp": 1786428869.0
+    },
+    {
+      "title": "ASD Has Handed Australian and New Zealand Boards 16 Questions on Frontier AI",
+      "link": "https://insiconcyber.com/blog/asd-frontier-ai-board-considerations",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 06:07:59 +0000",
+      "timestamp": 1786428479.0
+    },
     {
       "title": "The AI threat to India's IT jobs machine",
       "link": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4",
@@ -66,96 +183,6 @@
       "timestamp": 1786420393.0
     },
     {
-      "title": "Call centres using AI to 'whiten' Indian accents (2025)",
-      "link": "https://tech.yahoo.com/ai/articles/call-centres-using-ai-whiten-090000847.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 03:24:09 +0000",
-      "timestamp": 1786418649.0
-    },
-    {
-      "title": "Portail – Sovereign Rust AI Gateway and BitNet B1.58 SIMD Tensor Engine",
-      "link": "https://portail-vaked-dev.pages.dev/showcase",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 02:39:32 +0000",
-      "timestamp": 1786415972.0
-    },
-    {
-      "title": "Claude will watermark AI-generated text and images",
-      "link": "https://tokenstead.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 02:03:37 +0000",
-      "timestamp": 1786413817.0
-    },
-    {
-      "title": "Show HN: SendPage – turn AI-generated HTML into a shareable link",
-      "link": "https://sendpageapp.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 01:43:59 +0000",
-      "timestamp": 1786412639.0
-    },
-    {
-      "title": "Sprout – easily build an app with AI, share it, and use other apps",
-      "link": "https://sprout.monkeyai.io/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 01:29:02 +0000",
-      "timestamp": 1786411742.0
-    },
-    {
-      "title": "Predicting AI Job Exposure",
-      "link": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 01:16:21 +0000",
-      "timestamp": 1786410981.0
-    },
-    {
-      "title": "Google's AI Team Tells Job Seekers Its HR Filters Are Unreliable",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 01:14:41 +0000",
-      "timestamp": 1786410881.0
-    },
-    {
-      "title": "Using AI while exercising your critical thinking",
-      "link": "https://swiftrocks.com/using-ai-without-losing-critical-thinking",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 00:45:29 +0000",
-      "timestamp": 1786409129.0
-    },
-    {
-      "title": "AI Coding and Its Discontents",
-      "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 00:33:09 +0000",
-      "timestamp": 1786408389.0
-    },
-    {
-      "title": "Training AI to Govern for Us",
-      "link": "https://freesystems.substack.com/p/training-ai-to-govern-for-us",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 00:16:59 +0000",
-      "timestamp": 1786407419.0
-    },
-    {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
       "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
       "summary": "San Francisco's housing market is in trouble again.",
@@ -165,15 +192,6 @@
       "timestamp": 1786406598.0
     },
     {
-      "title": "Unifying Workers AI and AI Gateway into a Single AI Control Plane",
-      "link": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 00:01:46 +0000",
-      "timestamp": 1786406506.0
-    },
-    {
       "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
       "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
       "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
@@ -181,15 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 10 Aug 2026 23:56:15 +0000",
       "timestamp": 1786406175.0
-    },
-    {
-      "title": "People don't hate AI because of Zuck. They hate the version TechCrunch sells",
-      "link": "https://runtimewire.com/article/people-don-t-hate-ai-because-of-zuckerberg-they-hate-the-version-techcrunch-sell",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 23:39:53 +0000",
-      "timestamp": 1786405193.0
     },
     {
       "title": "Mark Zuckerberg doesn’t understand how to live",
