@@ -41,6 +41,7 @@
     --badge: #1e2a45;
     --header-bg: rgba(10, 18, 32, 0.92);
   }
+  html { font-size: 110%; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     background: var(--bg);
@@ -57,29 +58,29 @@
     display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
   }
   .logo {
-    font-size: 20px; font-weight: 700;
+    font-size: 1.25rem; font-weight: 700;
     background: linear-gradient(90deg, var(--accent), var(--accent2));
     -webkit-background-clip: text; background-clip: text; color: transparent;
     white-space: nowrap;
   }
-  .logo span { color: var(--muted); font-weight: 400; font-size: 13px; -webkit-text-fill-color: var(--muted); }
+  .logo span { color: var(--muted); font-weight: 400; font-size: 0.8125rem; -webkit-text-fill-color: var(--muted); }
   .controls { display: flex; gap: 10px; align-items: center; margin-left: auto; flex-wrap: wrap; }
   input[type="search"], select {
     background: var(--panel2); color: var(--text);
     border: 1px solid var(--border); border-radius: 8px;
-    padding: 8px 12px; font-size: 14px; outline: none;
+    padding: 8px 12px; font-size: 0.875rem; outline: none;
   }
   input[type="search"]:focus, select:focus { border-color: var(--accent); }
   button {
     background: linear-gradient(90deg, var(--accent), var(--accent2));
     color: #fff; border: none; border-radius: 8px;
-    padding: 8px 16px; font-size: 14px; font-weight: 600; cursor: pointer;
+    padding: 8px 16px; font-size: 0.875rem; font-weight: 600; cursor: pointer;
   }
   button:disabled { opacity: 0.6; cursor: wait; }
   .theme-toggle {
     background: var(--panel2); color: var(--text);
     border: 1px solid var(--border); border-radius: 8px;
-    padding: 8px 10px; font-size: 14px; line-height: 1; cursor: pointer;
+    padding: 8px 10px; font-size: 0.875rem; line-height: 1; cursor: pointer;
   }
   .theme-toggle:hover { border-color: var(--accent); }
 
@@ -88,7 +89,7 @@
     display: inline-flex; align-items: center; gap: 6px;
     background: var(--panel2); border: 1px solid var(--border);
     border-radius: 999px; padding: 4px 12px;
-    font-size: 11px; font-weight: 700; letter-spacing: 0.08em; color: var(--muted);
+    font-size: 0.6875rem; font-weight: 700; letter-spacing: 0.08em; color: var(--muted);
     text-transform: uppercase;
   }
   .live-badge .dot {
@@ -123,10 +124,10 @@
   }
   .ticker span {
     display: inline-block; padding: 0 28px;
-    font-size: 12.5px; color: var(--muted);
+    font-size: 0.78125rem; color: var(--muted);
   }
   .ticker span::before {
-    content: "●"; color: var(--accent); margin-right: 8px; font-size: 8px;
+    content: "●"; color: var(--accent); margin-right: 8px; font-size: 0.5rem;
     vertical-align: middle;
   }
   @keyframes ticker-scroll {
@@ -164,7 +165,7 @@
     border-radius: 50%; border: 1px dashed var(--border);
   }
   @keyframes spin { to { transform: rotate(360deg); } }
-  .scanner .scan-msg { font-size: 13px; }
+  .scanner .scan-msg { font-size: 0.8125rem; }
 
   /* --- Skeleton loaders --- */
   .skeleton {
@@ -211,7 +212,7 @@
     }
   }
 
-  .meta { color: var(--muted); font-size: 13px; }
+  .meta { color: var(--muted); font-size: 0.8125rem; }
   main { max-width: 960px; margin: 0 auto; padding: 24px; }
   #grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
   .card {
@@ -223,22 +224,22 @@
   .card:hover { transform: translateY(-3px); border-color: var(--accent); box-shadow: 0 8px 20px rgba(15, 23, 42, 0.10); }
   .card img { width: 100%; height: 150px; object-fit: cover; background: var(--panel2); }
   .card .body { padding: 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
-  .card h2 { font-size: 15px; font-weight: 600; line-height: 1.35; }
+  .card h2 { font-size: 0.9375rem; font-weight: 600; line-height: 1.35; }
   .card h2 a { color: var(--text); text-decoration: none; }
   .card h2 a:hover { color: var(--accent); }
-  .card p { color: var(--muted); font-size: 13px; flex: 1; }
+  .card p { color: var(--muted); font-size: 0.8125rem; flex: 1; }
   .card .foot {
     display: flex; justify-content: space-between; align-items: center;
-    font-size: 12px; color: var(--muted);
+    font-size: 0.75rem; color: var(--muted);
   }
   .badge {
     background: var(--badge); color: var(--text);
-    border-radius: 999px; padding: 2px 10px; font-size: 11px; font-weight: 600;
+    border-radius: 999px; padding: 2px 10px; font-size: 0.6875rem; font-weight: 600;
   }
   #status { text-align: center; padding: 40px; color: var(--muted); }
   #empty { display: none; text-align: center; padding: 40px; color: var(--muted); }
   .error { color: #ff6b6b; }
-  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px; }
+  footer { text-align: center; color: var(--muted); font-size: 0.75rem; padding: 24px; }
 </style>
 </head>
 <body>
