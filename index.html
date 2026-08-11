@@ -103,16 +103,24 @@
 
   /* --- News ticker --- */
   .ticker-wrap {
+    position: relative;
     border-bottom: 1px solid var(--border);
     background: var(--panel2);
     overflow: hidden; white-space: nowrap;
     padding: 6px 0;
   }
+  .ticker-wrap::before,
+  .ticker-wrap::after {
+    content: ""; position: absolute; top: 0; bottom: 0;
+    width: 56px; z-index: 1; pointer-events: none;
+  }
+  .ticker-wrap::before { left: 0; background: linear-gradient(90deg, var(--panel2), transparent); }
+  .ticker-wrap::after { right: 0; background: linear-gradient(270deg, var(--panel2), transparent); }
   .ticker {
     display: inline-block;
+    will-change: transform;
     animation: ticker-scroll 60s linear infinite;
   }
-  .ticker:hover { animation-play-state: paused; }
   .ticker span {
     display: inline-block; padding: 0 28px;
     font-size: 12.5px; color: var(--muted);
@@ -380,6 +388,9 @@ function buildTicker(items) {
   const html = items.map(it => `<span>${escapeHtml(it.title)}</span>`).join("");
   tickerEl.innerHTML = html + html;
   tickerWrapEl.hidden = false;
+  // Steady TV-news pace (~140px/s) regardless of how many headlines there are
+  const half = tickerEl.scrollWidth / 2;
+  if (half > 0) tickerEl.style.animationDuration = (half / 140) + "s";
 }
 
 async function load(showFullScrape) {
