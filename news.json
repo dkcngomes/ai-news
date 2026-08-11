@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-08-11T18:05:59.026853+00:00",
+  "scraped_at": "2026-08-11T19:18:39.802510+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 19:15:35 +0000",
+      "timestamp": 1786475735.0
+    },
+    {
+      "title": "Can you trust what AI tells you? [video]",
+      "link": "https://www.youtube.com/watch?v=cIMlBw2nqfA",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 18:52:19 +0000",
+      "timestamp": 1786474339.0
+    },
+    {
+      "title": "Google’s Gemini app surges to one billion users",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 18:49:12 +0000",
+      "timestamp": 1786474152.0
+    },
+    {
+      "title": "Show HN: HeyDeacon, AI customer support agent for SaaS founders",
+      "link": "https://heydeacon.com",
+      "summary": "If you're launching a new webapp, pretty quickly you'll need a way to manage customer queries, onboarding, collate user feedback and track actions with analytics. Deacon is a drop in SDK that does that for you. You can now speak with every site visitor, collate qualitative feedback and use it to iterate and grow faster. Let me know what you think",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 18:41:37 +0000",
+      "timestamp": 1786473697.0
+    },
+    {
+      "title": "AI and the Delusions of Increasing Productivity",
+      "link": "http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 18:40:00 +0000",
+      "timestamp": 1786473600.0
+    },
+    {
+      "title": "AI generated profile not allowed on X",
+      "link": "https://help.x.com/en/rules-and-policies/authenticity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 18:39:00 +0000",
+      "timestamp": 1786473540.0
+    },
+    {
+      "title": "AI Boot Camps Surge as Workers Race to Learn New Skills",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-08/ai-training-boom-sends-colleges-racing-to-offer-credentials",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 18:36:03 +0000",
+      "timestamp": 1786473363.0
+    },
+    {
+      "title": "Understanding an AI agent's memory through Harry Potter",
+      "link": "https://squidler.io/blog/agent-memory-harry-potter",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 18:22:26 +0000",
+      "timestamp": 1786472546.0
+    },
+    {
+      "title": "Show HN: SmokeOps – describe a flow, get checks you rerun without AI",
+      "link": "https://github.com/gate3/SmokeOps",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 18:12:40 +0000",
+      "timestamp": 1786471960.0
+    },
+    {
+      "title": "Sam's News – Free AI News Aggregator",
+      "link": "https://samnews.news/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 18:10:12 +0000",
+      "timestamp": 1786471812.0
+    },
+    {
+      "title": "Nvidia building 1T-parameter Nemotron 4 to rival open AI models",
+      "link": "https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 18:09:46 +0000",
+      "timestamp": 1786471786.0
+    },
     {
       "title": "AI spend observability down to individual User ID's and routes",
       "link": "https://kalaa.cc/",
@@ -19,15 +118,6 @@
       "source": "The Verge AI",
       "published": "2026-08-11T13:50:01-04:00",
       "timestamp": 1786470601.0
-    },
-    {
-      "title": "OpenSSH 10.5 released, AI fixes now welcome",
-      "link": "https://www.openssh.org/releasenotes.html#10.5",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:49:37 +0000",
-      "timestamp": 1786470577.0
     },
     {
       "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
@@ -50,7 +140,7 @@
     {
       "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
       "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "summary": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 17:41:34 +0000",
@@ -138,33 +228,6 @@
       "timestamp": 1786468391.0
     },
     {
-      "title": "Verifrog – a Verilog/SystemVerilog testing framework an AI agent can drive",
-      "link": "https://github.com/bryancostanich/verifrog",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:08:12 +0000",
-      "timestamp": 1786468092.0
-    },
-    {
-      "title": "AI Changes the Economics of JIT Compilers",
-      "link": "https://malisper.me/how-ai-changes-the-economics-of-jit-compilers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:03:51 +0000",
-      "timestamp": 1786467831.0
-    },
-    {
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifti",
-      "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:01:01 +0000",
-      "timestamp": 1786467661.0
-    },
-    {
       "title": "Made by Google 2026: all the Pixel news and announcements",
       "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
       "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it [&#8230;]",
@@ -172,51 +235,6 @@
       "source": "The Verge AI",
       "published": "2026-08-11T13:00:00-04:00",
       "timestamp": 1786467600.0
-    },
-    {
-      "title": "Why Open Source Matters for AI",
-      "link": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 16:58:06 +0000",
-      "timestamp": 1786467486.0
-    },
-    {
-      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 16:57:09 +0000",
-      "timestamp": 1786467429.0
-    },
-    {
-      "title": "Can Claude Code in a loop improve an enterprise AI agent with $10,745 of budget?",
-      "link": "https://jeremytian.substack.com/p/can-claude-code-in-a-loop-improve",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 16:56:34 +0000",
-      "timestamp": 1786467394.0
-    },
-    {
-      "title": "Feedback on landing page for fosbury.ai (Team Chat)?",
-      "link": "https://fosbury.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 16:53:00 +0000",
-      "timestamp": 1786467180.0
-    },
-    {
-      "title": "River AI Raises $1.1B Led by General Catalyst and AMP PBC to Build Open AI Stack",
-      "link": "https://www.morningstar.com/news/business-wire/20260811845258/river-ai-raises-11b-led-by-general-catalyst-and-amp-pbc-to-build-open-ai-stack",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 16:52:43 +0000",
-      "timestamp": 1786467163.0
     },
     {
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
@@ -514,24 +532,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 07 Aug 2026 22:48:24 +0000",
       "timestamp": 1786142904.0
-    },
-    {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "timestamp": 1786138211.0
-    },
-    {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "timestamp": 1786119369.0
     },
     {
       "title": "Scientists Used AI to Create 16 New Viruses",
