@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-11T21:02:43.138806+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-11T22:03:13.175945+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Hacktoberfest 2026: Building with AI; not PRs",
+      "link": "https://hacktoberfest.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:50:22 +0000",
+      "timestamp": 1786485022.0
+    },
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "timestamp": 1786484351.0
+    },
+    {
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "link": "https://www.suzanne3d.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:28:26 +0000",
+      "timestamp": 1786483706.0
+    },
+    {
+      "title": "Towards Expert-Level Medical AI for Real-Time Video Consultations",
+      "link": "https://arxiv.org/abs/2608.09861",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:21:43 +0000",
+      "timestamp": 1786483303.0
+    },
+    {
+      "title": "Asked AI to do a mini math breakthrough. It did a mini breakthrough",
+      "link": "https://github.com/learademacher/ai-refines-ai-zeta-bound",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:17:08 +0000",
+      "timestamp": 1786483028.0
+    },
+    {
+      "title": "Show HN: Log-decisions – an append-only decision journal for AI agents",
+      "link": "https://github.com/swe-workflow/log-decisions",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:15:55 +0000",
+      "timestamp": 1786482955.0
+    },
+    {
+      "title": "AI Is Solving CTF Challenges in Minutes",
+      "link": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:13:44 +0000",
+      "timestamp": 1786482824.0
+    },
+    {
+      "title": "The Necklace Puzzle Solved: 0.5 XMR Prize Claimed After 1 Year – By AI",
+      "link": "https://aillia.substack.com/p/the-necklace-puzzle-solved-05-xmr",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:10:07 +0000",
+      "timestamp": 1786482607.0
+    },
     {
       "title": "Show HN: Personal AI Policy Directory",
       "link": "https://howiai.directory/",
@@ -120,9 +192,9 @@
       "timestamp": 1786474339.0
     },
     {
-      "title": "Google’s Gemini app surges to one billion users",
+      "title": "Google’s Gemini app surges to 1 billion users",
       "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 18:49:12 +0000",
@@ -136,78 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 11 Aug 2026 18:41:37 +0000",
       "timestamp": 1786473697.0
-    },
-    {
-      "title": "AI and the Delusions of Increasing Productivity",
-      "link": "http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 18:40:00 +0000",
-      "timestamp": 1786473600.0
-    },
-    {
-      "title": "AI generated profile not allowed on X",
-      "link": "https://help.x.com/en/rules-and-policies/authenticity",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 18:39:00 +0000",
-      "timestamp": 1786473540.0
-    },
-    {
-      "title": "AI Boot Camps Surge as Workers Race to Learn New Skills",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-08/ai-training-boom-sends-colleges-racing-to-offer-credentials",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 18:36:03 +0000",
-      "timestamp": 1786473363.0
-    },
-    {
-      "title": "Understanding an AI agent's memory through Harry Potter",
-      "link": "https://squidler.io/blog/agent-memory-harry-potter",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 18:22:26 +0000",
-      "timestamp": 1786472546.0
-    },
-    {
-      "title": "Show HN: SmokeOps – describe a flow, get checks you rerun without AI",
-      "link": "https://github.com/gate3/SmokeOps",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 18:12:40 +0000",
-      "timestamp": 1786471960.0
-    },
-    {
-      "title": "Sam's News – Free AI News Aggregator",
-      "link": "https://samnews.news/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 18:10:12 +0000",
-      "timestamp": 1786471812.0
-    },
-    {
-      "title": "Nvidia building 1T-parameter Nemotron 4 to rival open AI models",
-      "link": "https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 18:09:46 +0000",
-      "timestamp": 1786471786.0
-    },
-    {
-      "title": "AI spend observability down to individual User ID's and routes",
-      "link": "https://kalaa.cc/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:50:42 +0000",
-      "timestamp": 1786470642.0
     },
     {
       "title": "Another OpenAI executive takes off",
@@ -523,15 +523,6 @@
       "source": "Wired AI",
       "published": "Sat, 08 Aug 2026 10:00:00 +0000",
       "timestamp": 1786183200.0
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "timestamp": 1786142904.0
     },
     {
       "title": "Scientists Used AI to Create 16 New Viruses",
