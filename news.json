@@ -1,60 +1,195 @@
 {
-  "scraped_at": "2026-08-11T13:41:19.650157+00:00",
+  "scraped_at": "2026-08-11T15:15:25.724400+00:00",
   "count": 65,
   "items": [
     {
-      "title": "Show HN: AI Village: AI security, tested in public.",
-      "link": "https://aivillage.org/",
+      "title": "The death of AI workflow builders",
+      "link": "https://www.adriankrebs.ch/blog/death-of-ai-workflow-builders/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 13:28:33 +0000",
-      "timestamp": 1786454913.0
+      "published": "Tue, 11 Aug 2026 15:12:24 +0000",
+      "timestamp": 1786461144.0
     },
     {
-      "title": "Spotify to Label AI Artists on the Platform with New 'AI Persona' Badge",
-      "link": "https://www.billboard.com/pro/spotify-label-identify-ai-artists/",
+      "title": "Show HN: Add the official EU AI-content labels to images and videos",
+      "link": "https://github.com/Run-Labs-com/agent-skills/tree/main",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 13:24:24 +0000",
-      "timestamp": 1786454664.0
+      "published": "Tue, 11 Aug 2026 15:08:02 +0000",
+      "timestamp": 1786460882.0
     },
     {
-      "title": "The Open Source AI Popularity Leaderboard from Scarf",
-      "link": "https://app.scarf.sh/ai-leaderboard",
+      "title": "AI's potential climate benefits outweighed by role in boosting fossil fuels",
+      "link": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 13:18:54 +0000",
-      "timestamp": 1786454334.0
+      "published": "Tue, 11 Aug 2026 15:07:06 +0000",
+      "timestamp": 1786460826.0
     },
     {
-      "title": "News outlets AI fact-checker cannot read",
-      "link": "https://korniienko.dev/blog/news-outlets-ai-cannot-read/",
+      "title": "I coded myself into a corner with AI, this is how I wrote myself out",
+      "link": "https://medium.com/@daniel-payne-keldan-systems/i-coded-myself-into-a-corner-with-ai-this-is-how-i-wrote-myself-out-e977a9afcfb5",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 13:09:44 +0000",
-      "timestamp": 1786453784.0
+      "published": "Tue, 11 Aug 2026 15:04:50 +0000",
+      "timestamp": 1786460690.0
     },
     {
-      "title": "Show HN: Alchemize – Review AI Slop PRs Faster",
-      "link": "https://tryalchemize.com/",
-      "summary": "Hey HN, we’re Robert and Sam. We’re building Alchemize, a code review platform that simplifies PRs to help you ship faster. Here’s a demo video: https://www.tella.tv/video/simplify-pr-reviews-with-alchemiz... Sample to try: https://app.tryalchemize.com/example Agentic coding has 10x’d code output. Teams are opening larger PRs more frequently, but the current tools don’t support this new coding paradigm. GitHub still presents files without structure. As engineers reviewing these massive diffs more frequently, we spent hours painstakingly reconstructing where changes began, mapping out data flow",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 13:06:48 +0000",
-      "timestamp": 1786453608.0
-    },
-    {
-      "title": "Show HN: Verity – Permission-aware memory for AI agents",
-      "link": "https://github.com/RunAlphaLoop/verity",
+      "title": "Relevare: Self-driving AI enablement and modernization for non-technical teams",
+      "link": "https://relevare.tech",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 13:06:34 +0000",
-      "timestamp": 1786453594.0
+      "published": "Tue, 11 Aug 2026 15:03:33 +0000",
+      "timestamp": 1786460613.0
+    },
+    {
+      "title": "A page where every AI claim is paired with a public probe you can rerun",
+      "link": "https://nxtg.ai/insights/artifacts-you-can-verify-publicly",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:00:00 +0000",
+      "timestamp": 1786460400.0
+    },
+    {
+      "title": "A Post-AI CTF Format Could Be a Research Retreat",
+      "link": "https://jessicaruan.com/posts/save-ctfs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 14:54:30 +0000",
+      "timestamp": 1786460070.0
+    },
+    {
+      "title": "Show HN: Atlan, Your Mobile-Focused AI Agent",
+      "link": "https://github.com/Atlansdaddy/atlan",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 14:50:55 +0000",
+      "timestamp": 1786459855.0
+    },
+    {
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T10:45:44-04:00",
+      "timestamp": 1786459544.0
+    },
+    {
+      "title": "Show HN: SquadCue – local-first mission control for AI CLI agents",
+      "link": "https://github.com/hsienchuc/squadcue",
+      "summary": "History: I started getting involved with AI in the middle of last year, from finding answers through chat to using Claude Cowork to control specific folders on my computer to complete tasks, and now using CLIs through the terminal to complete all my daily tasks. The most painful part has been management. My computer has more than ten terminal windows open at a time, and both the main screen and external monitors are full of CLIs. It's a headache to manage and switch between them every time. So I came up with the idea of managing these CLIs through a UI interface. The main features of this tool",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 14:31:01 +0000",
+      "timestamp": 1786458661.0
+    },
+    {
+      "title": "Show HN: Atlarix – local-first AI coding agent that runs on grep, no index",
+      "link": "https://www.atlarix.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 14:28:33 +0000",
+      "timestamp": 1786458513.0
+    },
+    {
+      "title": "Show HN: Auracommit – Token-efficient AI Git commit generation from Git diff",
+      "link": "https://github.com/tigerlang/auracommit",
+      "summary": "Hi HN, auracommit is the tool to use when you need to quickly create commits without blowing through your API limits. Interactively, file by file, the AI will create commits for the features you’ve implemented or the bugs you’ve fixed—instead of a single monolithic commit like “added n1, n2, ...” Currently supports OpenAI, OpenRouter, Anthropic, and Groq APIs. You can also install the utility via npm: npm install -g auracommit",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 14:18:02 +0000",
+      "timestamp": 1786457882.0
+    },
+    {
+      "title": "AI/Data job market tracker for the DACH region",
+      "link": "https://github.com/Chrisinho8/DACH-data-job-market",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 14:17:43 +0000",
+      "timestamp": 1786457863.0
+    },
+    {
+      "title": "NBER: AI Financial Advice [pdf]",
+      "link": "https://www.nber.org/system/files/working_papers/w35574/w35574.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 14:15:00 +0000",
+      "timestamp": 1786457700.0
+    },
+    {
+      "title": "Show HN: A capable AI assistant with its own inbox",
+      "link": "https://www.hellodeck.ai",
+      "summary": "Hey all, I'm Stasia, founder of Deck. Deck is an AI teammate for busy operators, professionals, and teams that is constantly working in the background. You can email it, use it in the app, sign it up for services you use, email alerts/newsletters, or set it up to run recurring work. It can read project files, summarize messy context, generate or edit decks/memos/sheets, answer questions over your knowledge base, and proactively surface things that need attention. Importantly, it doesn't require blanket inbox authorization to be effective and only emails you. We made email a first-class interfa",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 14:07:40 +0000",
+      "timestamp": 1786457260.0
+    },
+    {
+      "title": "Tech experts warn against using AI clone of murdered woman's voice in court",
+      "link": "https://www.ksl.com/article/51608219/tech-experts-warn-against-using-ai-clone-of-murdered-womans-voice-in-court",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 14:01:02 +0000",
+      "timestamp": 1786456862.0
+    },
+    {
+      "title": "NubirOS AI Business Operating System",
+      "link": "https://ncsouth.com/nubiros",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 13:56:35 +0000",
+      "timestamp": 1786456595.0
+    },
+    {
+      "title": "The 2 Days my AI Assistant built a government instead of training a model",
+      "link": "https://medium.com/@cmitre/the-two-days-my-ai-assistant-built-a-government-instead-of-training-a-model-a22e42430019",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 13:55:04 +0000",
+      "timestamp": 1786456504.0
+    },
+    {
+      "title": "New Orleans is using AI to triage 911 calls in case of backlog",
+      "link": "https://consumerrights.wiki/w/User:Louis/New_Orleans_AI_911_call_triage",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 13:52:34 +0000",
+      "timestamp": 1786456354.0
+    },
+    {
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T09:27:20-04:00",
+      "timestamp": 1786454840.0
+    },
+    {
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 13:00:00 +0000",
+      "timestamp": 1786453200.0
     },
     {
       "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
@@ -66,42 +201,6 @@
       "timestamp": 1786453200.0
     },
     {
-      "title": "Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI",
-      "link": "https://journals.sagepub.com/doi/10.1177/00220027261463443",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 12:58:45 +0000",
-      "timestamp": 1786453125.0
-    },
-    {
-      "title": "Show HN: Porcupine, a terminal AI agent built for safe autonomy",
-      "link": "https://github.com/Abd0r/porcupineai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 12:52:27 +0000",
-      "timestamp": 1786452747.0
-    },
-    {
-      "title": "Show HN: OpenCorp – paste a URL, AI finds competing products and Reddit threads",
-      "link": "https://opencorp.live/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 12:47:03 +0000",
-      "timestamp": 1786452423.0
-    },
-    {
-      "title": "AI agent hacks gym to get its owner spot in pilates class",
-      "link": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 12:43:53 +0000",
-      "timestamp": 1786452233.0
-    },
-    {
       "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
       "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
       "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
@@ -109,15 +208,6 @@
       "source": "Wired AI",
       "published": "Tue, 11 Aug 2026 12:37:12 +0000",
       "timestamp": 1786451832.0
-    },
-    {
-      "title": "Show HN: Implay AI – Lightweight suite of browser tools for text, images, & code",
-      "link": "https://implay.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 12:28:29 +0000",
-      "timestamp": 1786451309.0
     },
     {
       "title": "Claude will apply invisible watermarks to AI text and images",
@@ -129,15 +219,6 @@
       "timestamp": 1786450940.0
     },
     {
-      "title": "AI Maps Schizophrenia as a Network of 766 Genes",
-      "link": "https://ai-updates.net/ai-maps-schizophrenia-network-766-genes/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 12:19:11 +0000",
-      "timestamp": 1786450751.0
-    },
-    {
       "title": "Anthropic says it will watermark text generated by its AI models",
       "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
       "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
@@ -145,60 +226,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 12:13:47 +0000",
       "timestamp": 1786450427.0
-    },
-    {
-      "title": "Frags framework for precision in AI agents",
-      "link": "https://github.com/theirish81/frags",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 12:11:51 +0000",
-      "timestamp": 1786450311.0
-    },
-    {
-      "title": "GPU AI workloads with a Ruby on Rails monolith",
-      "link": "https://www.docuseal.com/blog/gpu-ai-workloads-with-a-ruby-on-rails-monolith",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 12:08:58 +0000",
-      "timestamp": 1786450138.0
-    },
-    {
-      "title": "Show HN: The Rotten Tomatoes for AI films, ranked by the tools that made them",
-      "link": "https://popcorn.movie/",
-      "summary": "I wanted a rotten tomatoes for ai film, hence popcorn.movie, because AI films need a critical and technical review that's different to movies, and we're in the 1895-1920's of ai movies right now. Many festivals, people, industries, sites reject or suppress ai, for many great reasons (slop), and of course slopscrolling and other sites have the slop problem, as does this - the idea is to look past the slop to the real stories and technically great content, with an view that ai is a tool. \"is this stuff actually getting good, and which models are doing it?\". Hot or slop. My personal interest in a",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 12:07:05 +0000",
-      "timestamp": 1786450025.0
-    },
-    {
-      "title": "How the government is using AI to speed up the planning system",
-      "link": "https://takes.jamesomalley.co.uk/p/build-gemini-build",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 11:50:18 +0000",
-      "timestamp": 1786449018.0
-    },
-    {
-      "title": "AI Horde A free, community-powered generation service",
-      "link": "https://stablehorde.net/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 11:36:37 +0000",
-      "timestamp": 1786448197.0
-    },
-    {
-      "title": "How to get AI to generate more ideas by itself",
-      "link": "https://bymorning.ai/journal/idea-mode-collapse",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 11:35:51 +0000",
-      "timestamp": 1786448151.0
     },
     {
       "title": "The AI takeover of mathematics has begun",
@@ -426,15 +453,6 @@
       "timestamp": 1786218073.0
     },
     {
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received significant investment from Amazon and, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-08T13:53:34-04:00",
-      "timestamp": 1786211614.0
-    },
-    {
       "title": "How to Disable Gemini in Gmail and Google Docs",
       "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
       "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
@@ -460,15 +478,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 07 Aug 2026 21:30:11 +0000",
       "timestamp": 1786138211.0
-    },
-    {
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-07T16:01:51-04:00",
-      "timestamp": 1786132911.0
     },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -514,15 +523,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 07 Aug 2026 11:40:37 +0000",
       "timestamp": 1786102837.0
-    },
-    {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 22:43:53 +0000",
-      "timestamp": 1786056233.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
