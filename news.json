@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-08-11T15:15:25.724400+00:00",
-  "count": 65,
+  "scraped_at": "2026-08-11T16:11:37.316842+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "Show HN: VitCam – Self-hosted, open-source NVR with on-device AI detection",
+      "link": "https://github.com/scwsoft/vitcam",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:54:26 +0000",
+      "timestamp": 1786463666.0
+    },
+    {
+      "title": "Bernie Sanders calls on Silicon Valley to 'pause AI development'",
+      "link": "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:54:17 +0000",
+      "timestamp": 1786463657.0
+    },
+    {
+      "title": "Show HN: Kessa, a verifiable delegation and attestation system for AI agents",
+      "link": "https://github.com/Gneiss-Group/Kessa",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:53:05 +0000",
+      "timestamp": 1786463585.0
+    },
+    {
+      "title": "Show HN: My Anti AI Computer",
+      "link": "https://punkx.org/jackdoe/home.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:49:57 +0000",
+      "timestamp": 1786463397.0
+    },
+    {
+      "title": "Hexis: Git-backed skills, tools and context for AI agents",
+      "link": "https://github.com/Bevel-Software/Hexis",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:46:35 +0000",
+      "timestamp": 1786463195.0
+    },
+    {
+      "title": "Show HN: Pickle – token efficient AI agent browser with policy-gated actions",
+      "link": "https://picklebrowser.com/",
+      "summary": "I use agents for a lot of my own work, but whenever they access my browser they end up wasting a lot of tokens reading HTML, so I tried building a browser that simplifies webpage content for them. Pickle is an agent browser and it has all the features a regular browser has (tabs, search history, bookmarks, etc.), but pages load as compact structured data instead of raw HTML to reduce token usage. Overview for those curious: It's policy-gated (blocked domains, actions that need approval like purchases) and every action is logged, so you're always able to see what your agent is doing and can tak",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:43:55 +0000",
+      "timestamp": 1786463035.0
+    },
+    {
+      "title": "We built our own status page with AI, replacing a $65k SaaS product",
+      "link": "https://www.fivetran.com/blog/we-built-our-own-status-page-with-ai-replacing-a-65k-saas-product",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:41:52 +0000",
+      "timestamp": 1786462912.0
+    },
+    {
+      "title": "AI Is Accelerating Vulnerability Discovery",
+      "link": "https://ai-updates.net/ai-accelerating-vulnerability-discovery-inventory/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:38:32 +0000",
+      "timestamp": 1786462712.0
+    },
+    {
+      "title": "Scrunch: Rewriting the Web for AI",
+      "link": "https://www.decibel.vc/articles/scrunch-rewriting-the-web-for-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:38:27 +0000",
+      "timestamp": 1786462707.0
+    },
+    {
+      "title": "The Vertical AI Bubble: We Keep Forgetting That LLMs Roll Dice",
+      "link": "https://medium.com/@MirArshadTalpur/the-vertical-ai-bubble-we-keep-forgetting-that-llms-roll-dice-2ac707f91c61",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:36:45 +0000",
+      "timestamp": 1786462605.0
+    },
+    {
+      "title": "Share What You Learned, Not Just Your AI Conversation",
+      "link": "https://vcfg.me/writing/share-what-you-learned-not-just-your-ai-conversation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:36:28 +0000",
+      "timestamp": 1786462588.0
+    },
+    {
+      "title": "Free tokens for sale: How fake signups drive AI fraud",
+      "link": "https://www.okta.com/blog/threat-intelligence/free_tokens_for_sale/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:35:30 +0000",
+      "timestamp": 1786462530.0
+    },
+    {
+      "title": "Leanroute Is Live One AI Gateway for Models and Tools",
+      "link": "https://news.ycombinator.com/item?id=49259812",
+      "summary": "Hi all, We built Leanroute - it's One AI Gateway for LLM and Tools. Market is flooded with LLM Gateways, so I wanted to build an AI Gateway for LLM and MCP traffic. Thats the next evolution of AI Gateways! Please support - https://www.producthunt.com/products/leanroute Real product lives here - https://leanroute.dev",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:23:52 +0000",
+      "timestamp": 1786461832.0
+    },
+    {
+      "title": "Show HN: Remarc – Your feedback layer for AI collaboration",
+      "link": "https://github.com/metedata/Remarc",
+      "summary": "Hey HN, Mete here Today I released Remarc - the missing feedback layer between you and your coding agent. Point at anything on your Mac - text, screenshots, web elements, or voice - and your agent reads and resolves your comments over MCP. Think of it like Google doc commenting for anything on your screen. It's also completely free, local, and open-source. As a detail-obsessed designer who now builds daily with AI, feedback is a core part of my creative process. AI made it incredibly easy to get from zero to 90%, but it’s the last 10% that sets your product apart from the pack. The unglamorous",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:16:15 +0000",
+      "timestamp": 1786461375.0
+    },
+    {
+      "title": "I do read AI code",
+      "link": "https://dmitriid.com/adding-to-i-dont-read-ai-code-discourse",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 15:13:54 +0000",
+      "timestamp": 1786461234.0
+    },
     {
       "title": "The death of AI workflow builders",
       "link": "https://www.adriankrebs.ch/blog/death-of-ai-workflow-builders/",
@@ -48,33 +183,6 @@
       "timestamp": 1786460613.0
     },
     {
-      "title": "A page where every AI claim is paired with a public probe you can rerun",
-      "link": "https://nxtg.ai/insights/artifacts-you-can-verify-publicly",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 15:00:00 +0000",
-      "timestamp": 1786460400.0
-    },
-    {
-      "title": "A Post-AI CTF Format Could Be a Research Retreat",
-      "link": "https://jessicaruan.com/posts/save-ctfs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 14:54:30 +0000",
-      "timestamp": 1786460070.0
-    },
-    {
-      "title": "Show HN: Atlan, Your Mobile-Focused AI Agent",
-      "link": "https://github.com/Atlansdaddy/atlan",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 14:50:55 +0000",
-      "timestamp": 1786459855.0
-    },
-    {
       "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
       "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
       "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
@@ -82,96 +190,6 @@
       "source": "The Verge AI",
       "published": "2026-08-11T10:45:44-04:00",
       "timestamp": 1786459544.0
-    },
-    {
-      "title": "Show HN: SquadCue – local-first mission control for AI CLI agents",
-      "link": "https://github.com/hsienchuc/squadcue",
-      "summary": "History: I started getting involved with AI in the middle of last year, from finding answers through chat to using Claude Cowork to control specific folders on my computer to complete tasks, and now using CLIs through the terminal to complete all my daily tasks. The most painful part has been management. My computer has more than ten terminal windows open at a time, and both the main screen and external monitors are full of CLIs. It's a headache to manage and switch between them every time. So I came up with the idea of managing these CLIs through a UI interface. The main features of this tool",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 14:31:01 +0000",
-      "timestamp": 1786458661.0
-    },
-    {
-      "title": "Show HN: Atlarix – local-first AI coding agent that runs on grep, no index",
-      "link": "https://www.atlarix.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 14:28:33 +0000",
-      "timestamp": 1786458513.0
-    },
-    {
-      "title": "Show HN: Auracommit – Token-efficient AI Git commit generation from Git diff",
-      "link": "https://github.com/tigerlang/auracommit",
-      "summary": "Hi HN, auracommit is the tool to use when you need to quickly create commits without blowing through your API limits. Interactively, file by file, the AI will create commits for the features you’ve implemented or the bugs you’ve fixed—instead of a single monolithic commit like “added n1, n2, ...” Currently supports OpenAI, OpenRouter, Anthropic, and Groq APIs. You can also install the utility via npm: npm install -g auracommit",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 14:18:02 +0000",
-      "timestamp": 1786457882.0
-    },
-    {
-      "title": "AI/Data job market tracker for the DACH region",
-      "link": "https://github.com/Chrisinho8/DACH-data-job-market",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 14:17:43 +0000",
-      "timestamp": 1786457863.0
-    },
-    {
-      "title": "NBER: AI Financial Advice [pdf]",
-      "link": "https://www.nber.org/system/files/working_papers/w35574/w35574.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 14:15:00 +0000",
-      "timestamp": 1786457700.0
-    },
-    {
-      "title": "Show HN: A capable AI assistant with its own inbox",
-      "link": "https://www.hellodeck.ai",
-      "summary": "Hey all, I'm Stasia, founder of Deck. Deck is an AI teammate for busy operators, professionals, and teams that is constantly working in the background. You can email it, use it in the app, sign it up for services you use, email alerts/newsletters, or set it up to run recurring work. It can read project files, summarize messy context, generate or edit decks/memos/sheets, answer questions over your knowledge base, and proactively surface things that need attention. Importantly, it doesn't require blanket inbox authorization to be effective and only emails you. We made email a first-class interfa",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 14:07:40 +0000",
-      "timestamp": 1786457260.0
-    },
-    {
-      "title": "Tech experts warn against using AI clone of murdered woman's voice in court",
-      "link": "https://www.ksl.com/article/51608219/tech-experts-warn-against-using-ai-clone-of-murdered-womans-voice-in-court",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 14:01:02 +0000",
-      "timestamp": 1786456862.0
-    },
-    {
-      "title": "NubirOS AI Business Operating System",
-      "link": "https://ncsouth.com/nubiros",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 13:56:35 +0000",
-      "timestamp": 1786456595.0
-    },
-    {
-      "title": "The 2 Days my AI Assistant built a government instead of training a model",
-      "link": "https://medium.com/@cmitre/the-two-days-my-ai-assistant-built-a-government-instead-of-training-a-model-a22e42430019",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 13:55:04 +0000",
-      "timestamp": 1786456504.0
-    },
-    {
-      "title": "New Orleans is using AI to triage 911 calls in case of backlog",
-      "link": "https://consumerrights.wiki/w/User:Louis/New_Orleans_AI_911_call_triage",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 13:52:34 +0000",
-      "timestamp": 1786456354.0
     },
     {
       "title": "Why your Amazon order confirmation emails have become so unhelpful",
