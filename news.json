@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-08-11T23:01:31.299128+00:00",
-  "count": 47,
+  "scraped_at": "2026-08-11T23:58:13.845576+00:00",
+  "count": 65,
   "items": [
+    {
+      "title": "Open AI models hacked into HuggingFace",
+      "link": "https://www.instagram.com/p/DbGS8_0FmKx/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 23:54:07 +0000",
+      "timestamp": 1786492447.0
+    },
+    {
+      "title": "Geoffrey Hinton's Bad AI Prediction Became a Legend [video]",
+      "link": "https://www.youtube.com/watch?v=mv4EAR0jAUU",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 23:48:28 +0000",
+      "timestamp": 1786492108.0
+    },
+    {
+      "title": "Watching Roku's AI channel is like eating from a trough",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 23:34:11 +0000",
+      "timestamp": 1786491251.0
+    },
+    {
+      "title": "AI Adoption Is a Myth",
+      "link": "https://twitter.com/vasuman/status/2085806422072418632",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 23:23:28 +0000",
+      "timestamp": 1786490608.0
+    },
+    {
+      "title": "LLM Model-Swapping Trick Can Expose AI Reasoning Traces",
+      "link": "https://ai-updates.net/model-swapping-exposes-ai-reasoning-traces/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 22:57:53 +0000",
+      "timestamp": 1786489073.0
+    },
+    {
+      "title": "TSMC Sales Jump 45% YoY on Strong AI Chip Demand but Investors Shrug",
+      "link": "https://www.investors.com/news/technology/tsm-stock-tsmc-july-sales-sox-index/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 22:51:50 +0000",
+      "timestamp": 1786488710.0
+    },
+    {
+      "title": "AI vibe coded game projects suck",
+      "link": "https://asecretarea.com/2026/08/10/ai-vibe-coded-game-projects-suck/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 22:36:03 +0000",
+      "timestamp": 1786487763.0
+    },
+    {
+      "title": "A Simple Answer to AI Job Loss: Tax Capital, Not Labor",
+      "link": "https://www.wsj.com/tech/ai/a-simple-answer-to-ai-job-loss-tax-capital-not-labor-cb900e62",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 22:35:17 +0000",
+      "timestamp": 1786487717.0
+    },
+    {
+      "title": "Anthropic Posts 'How Claude Marks AI-Generated Content' Without Explaining How",
+      "link": "https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 22:30:45 +0000",
+      "timestamp": 1786487445.0
+    },
+    {
+      "title": "Human vs. AI vs. Human and AI: Who Does Better Work?",
+      "link": "https://rafaelresearch.com/research/human-vs-ai-vs-human-plus-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 22:02:10 +0000",
+      "timestamp": 1786485730.0
+    },
+    {
+      "title": "Hacktoberfest 2026: Building with AI; not PRs",
+      "link": "https://hacktoberfest.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:50:22 +0000",
+      "timestamp": 1786485022.0
+    },
     {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
       "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
@@ -10,6 +109,69 @@
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 21:39:11 +0000",
       "timestamp": 1786484351.0
+    },
+    {
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "link": "https://www.suzanne3d.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:28:26 +0000",
+      "timestamp": 1786483706.0
+    },
+    {
+      "title": "Towards Expert-Level Medical AI for Real-Time Video Consultations",
+      "link": "https://arxiv.org/abs/2608.09861",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:21:43 +0000",
+      "timestamp": 1786483303.0
+    },
+    {
+      "title": "Asked AI to do a mini math breakthrough. It did a mini breakthrough",
+      "link": "https://github.com/learademacher/ai-refines-ai-zeta-bound",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:17:08 +0000",
+      "timestamp": 1786483028.0
+    },
+    {
+      "title": "Show HN: Log-decisions – an append-only decision journal for AI agents",
+      "link": "https://github.com/swe-workflow/log-decisions",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:15:55 +0000",
+      "timestamp": 1786482955.0
+    },
+    {
+      "title": "AI Is Solving CTF Challenges in Minutes",
+      "link": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:13:44 +0000",
+      "timestamp": 1786482824.0
+    },
+    {
+      "title": "The Necklace Puzzle Solved: 0.5 XMR Prize Claimed After 1 Year – By AI",
+      "link": "https://aillia.substack.com/p/the-necklace-puzzle-solved-05-xmr",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 21:10:07 +0000",
+      "timestamp": 1786482607.0
+    },
+    {
+      "title": "Show HN: Personal AI Policy Directory",
+      "link": "https://howiai.directory/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 20:11:37 +0000",
+      "timestamp": 1786479097.0
     },
     {
       "title": "ChatGPT and Gemini both just passed 1 billion users",
