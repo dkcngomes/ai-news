@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-11T04:38:41.844268+00:00",
+  "scraped_at": "2026-08-11T06:03:16.670496+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "The AI threat to India's IT jobs machine",
+      "link": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 05:42:28 +0000",
+      "timestamp": 1786426948.0
+    },
+    {
+      "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+      "link": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 05:30:24 +0000",
+      "timestamp": 1786426224.0
+    },
+    {
+      "title": "Show HN: NiceShot AI – The analytics layer competitive games forgot to add",
+      "link": "https://github.com/karimm-ai/NiceShot_AI",
+      "summary": "I've been working on NiceShot AI for the last 26 months as a way to experiment with computer vision for gameplay analysis. The basic idea is to take a recorded long gameplay session and automatically turn it into structured gameplay information and highlights. Bridging the performance analysis gap between match stats (too short) & lifetime stats (too long). The current pipeline is: Gameplay video → YOLO detection → event tracking → OCR/context filtering → event timestamps → clips → highlight compilation → session statistics For example, I can fine-tune a YOLO model to recognize game-specific H",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 05:18:28 +0000",
+      "timestamp": 1786425508.0
+    },
+    {
+      "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 05:07:18 +0000",
+      "timestamp": 1786424838.0
+    },
+    {
+      "title": "Study: AI is better at reading than listening",
+      "link": "https://viterbischool.usc.edu/news/2026/08/can-ai-read-the-room-usc-study-finds-ai-is-better-at-reading-than-listening/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 05:05:23 +0000",
+      "timestamp": 1786424723.0
+    },
     {
       "title": "Folding Prion Protein with AI",
       "link": "https://blog.georeactor.com/prionbio-1",
@@ -145,51 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 10 Aug 2026 23:39:53 +0000",
       "timestamp": 1786405193.0
-    },
-    {
-      "title": "VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers",
-      "link": "https://github.com/MaximiH-86/GridPulse_Production_Server",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 23:29:57 +0000",
-      "timestamp": 1786404597.0
-    },
-    {
-      "title": "Text AI watermarks will always be trivial to remove",
-      "link": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 23:12:00 +0000",
-      "timestamp": 1786403520.0
-    },
-    {
-      "title": "Wanno – AI builder, cloud agent and infra for your apps",
-      "link": "https://wanno.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 23:11:58 +0000",
-      "timestamp": 1786403518.0
-    },
-    {
-      "title": "Show HN: AI-powered App Store replies that sound like you",
-      "link": "https://www.replyargus.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 23:03:36 +0000",
-      "timestamp": 1786403016.0
-    },
-    {
-      "title": "Bernie Sanders calls for AI development pause",
-      "link": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 22:35:23 +0000",
-      "timestamp": 1786401323.0
     },
     {
       "title": "Mark Zuckerberg doesn’t understand how to live",
