@@ -82,6 +82,127 @@
     padding: 8px 10px; font-size: 14px; line-height: 1; cursor: pointer;
   }
   .theme-toggle:hover { border-color: var(--accent); }
+
+  /* --- Live badge --- */
+  .live-badge {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: var(--panel2); border: 1px solid var(--border);
+    border-radius: 999px; padding: 4px 12px;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.08em; color: var(--muted);
+    text-transform: uppercase;
+  }
+  .live-badge .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: #22c55e; box-shadow: 0 0 6px rgba(34, 197, 94, 0.8);
+    animation: pulse-dot 1.6s ease-in-out infinite;
+  }
+  @keyframes pulse-dot {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.5); opacity: 0.55; }
+  }
+
+  /* --- News ticker --- */
+  .ticker-wrap {
+    border-bottom: 1px solid var(--border);
+    background: var(--panel2);
+    overflow: hidden; white-space: nowrap;
+    padding: 6px 0;
+  }
+  .ticker {
+    display: inline-block;
+    animation: ticker-scroll 60s linear infinite;
+  }
+  .ticker:hover { animation-play-state: paused; }
+  .ticker span {
+    display: inline-block; padding: 0 28px;
+    font-size: 12.5px; color: var(--muted);
+  }
+  .ticker span::before {
+    content: "●"; color: var(--accent); margin-right: 8px; font-size: 8px;
+    vertical-align: middle;
+  }
+  @keyframes ticker-scroll {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+
+  /* --- Scanning line under header --- */
+  #refresh-progress {
+    height: 3px;
+    background: linear-gradient(90deg, transparent, var(--accent), var(--accent2), transparent);
+    background-size: 200% 100%;
+    animation: scanline 2.4s linear infinite;
+    opacity: 0.7;
+  }
+  @keyframes scanline {
+    from { background-position: 200% 0; }
+    to { background-position: -200% 0; }
+  }
+
+  /* --- Scanner status --- */
+  .scanner { display: inline-block; }
+  .scanner .radar {
+    position: relative; width: 72px; height: 72px; margin: 0 auto 16px;
+    border-radius: 50%; border: 2px solid var(--border);
+    overflow: hidden; background: var(--panel2);
+  }
+  .scanner .radar::before {
+    content: ""; position: absolute; inset: 0;
+    background: conic-gradient(from 0deg, color-mix(in srgb, var(--accent) 45%, transparent) 0deg, transparent 75deg);
+    animation: spin 1.2s linear infinite;
+  }
+  .scanner .radar::after {
+    content: ""; position: absolute; inset: 18%;
+    border-radius: 50%; border: 1px dashed var(--border);
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .scanner .scan-msg { font-size: 13px; }
+
+  /* --- Skeleton loaders --- */
+  .skeleton {
+    border-radius: 12px; overflow: hidden;
+    background: var(--panel); border: 1px solid var(--border);
+  }
+  .sk-img {
+    height: 150px;
+    background: linear-gradient(90deg, var(--panel2) 25%, var(--border) 50%, var(--panel2) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.4s infinite;
+  }
+  .sk-body { padding: 14px; display: flex; flex-direction: column; gap: 10px; }
+  .sk-line {
+    height: 12px; border-radius: 6px;
+    background: linear-gradient(90deg, var(--panel2) 25%, var(--border) 50%, var(--panel2) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.4s infinite;
+  }
+  .sk-line.short { width: 60%; }
+  @keyframes shimmer { to { background-position: -200% 0; } }
+
+  /* --- Card entrance + NEW badge --- */
+  .card { animation: fadeUp 0.45s ease both; }
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .badge-new {
+    background: linear-gradient(90deg, #22c55e, #16a34a);
+    color: #fff;
+    animation: badge-pulse 1.6s ease-in-out infinite;
+  }
+  @keyframes badge-pulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.5); }
+    50% { box-shadow: 0 0 0 6px rgba(34, 197, 94, 0); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
   .meta { color: var(--muted); font-size: 13px; }
   main { max-width: 960px; margin: 0 auto; padding: 24px; }
   #grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
@@ -115,6 +236,7 @@
 <body>
 <header>
   <div class="logo">⚡ AI News <span>latest headlines</span></div>
+  <div class="live-badge" title="Feed is live — scrapes hourly via GitHub Actions"><span class="dot"></span> Live</div>
   <div class="controls">
     <input type="search" id="search" placeholder="Search headlines..." autocomplete="off">
     <select id="source-filter"><option value="">All sources</option></select>
@@ -123,8 +245,16 @@
   </div>
 </header>
 
+<div class="ticker-wrap" id="ticker-wrap" hidden><div class="ticker" id="ticker"></div></div>
+<div id="refresh-progress"></div>
+
 <main>
-  <div id="status">Loading…</div>
+  <div id="status">
+    <div class="scanner">
+      <div class="radar"></div>
+      <div class="scan-msg" id="scan-msg">Connecting to sources…</div>
+    </div>
+  </div>
   <div id="empty">No articles match your filters.</div>
   <div id="grid"></div>
   <footer>
@@ -141,6 +271,10 @@ const emptyEl = document.getElementById("empty");
 const searchEl = document.getElementById("search");
 const sourceEl = document.getElementById("source-filter");
 const metaEl = document.getElementById("meta");
+const tickerWrapEl = document.getElementById("ticker-wrap");
+const tickerEl = document.getElementById("ticker");
+const updatedBadgeEl = document.getElementById("updated-badge");
+const scanMsgEl = document.getElementById("scan-msg");
 
 let news = [];
 
@@ -166,12 +300,15 @@ function render() {
   statusEl.style.display = "none";
   emptyEl.style.display = items.length ? "none" : "block";
 
-  for (const it of items) {
+  for (let idx = 0; idx < items.length; idx++) {
+    const it = items[idx];
     const card = document.createElement("article");
     card.className = "card";
+    card.style.animationDelay = Math.min(idx * 40, 480) + "ms";
     const img = it.image
       ? `<img src="${it.image}" alt="" loading="lazy" onerror="this.remove()">`
       : "";
+    const fresh = it.timestamp && (Date.now() / 1000 - it.timestamp) < 3600;
     card.innerHTML = `
       ${img}
       <div class="body">
@@ -179,7 +316,7 @@ function render() {
         ${it.summary ? `<p>${escapeHtml(it.summary)}</p>` : ""}
         <div class="foot">
           <span class="badge">${escapeHtml(it.source)}</span>
-          <span>${timeAgo(it.timestamp)}</span>
+          <span>${fresh ? '<span class="badge badge-new">NEW</span> ' : ''}${timeAgo(it.timestamp)}</span>
         </div>
       </div>`;
     grid.appendChild(card);
@@ -195,7 +332,58 @@ function escapeHtml(s) {
   }[c]));
 }
 
-async function load() {
+const SCRAPE_MSGS = [
+  "Connecting to sources",
+  "Fetching RSS feeds",
+  "Parsing headlines",
+  "Extracting summaries",
+  "Indexing articles",
+  "Finalizing feed"
+];
+let scrapeTimer = null;
+
+function formatTime(s) {
+  return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
+}
+
+function showScanner() {
+  statusEl.style.display = "block";
+  statusEl.className = "";
+  emptyEl.style.display = "none";
+  let i = 0;
+  scanMsgEl.textContent = SCRAPE_MSGS[0] + "…";
+  clearInterval(scrapeTimer);
+  scrapeTimer = setInterval(() => {
+    i = (i + 1) % SCRAPE_MSGS.length;
+    scanMsgEl.textContent = SCRAPE_MSGS[i] + "…";
+  }, 380);
+}
+
+function hideScanner() {
+  clearInterval(scrapeTimer);
+  statusEl.style.display = "none";
+}
+
+function showSkeletons(n) {
+  grid.innerHTML = "";
+  for (let i = 0; i < n; i++) {
+    const s = document.createElement("div");
+    s.className = "skeleton";
+    s.innerHTML = '<div class="sk-img"></div><div class="sk-body">' +
+      '<div class="sk-line"></div><div class="sk-line short"></div><div class="sk-line"></div></div>';
+    grid.appendChild(s);
+  }
+}
+
+function buildTicker(items) {
+  if (!items.length) { tickerWrapEl.hidden = true; return; }
+  const html = items.map(it => `<span>${escapeHtml(it.title)}</span>`).join("");
+  tickerEl.innerHTML = html + html;
+  tickerWrapEl.hidden = false;
+}
+
+async function load(showFullScrape) {
+  if (showFullScrape) { showScanner(); showSkeletons(8); }
   const res = await fetch("news.json");
   news = await res.json();
   const sources = [...new Set(news.items.map(it => it.source))].sort();
@@ -204,6 +392,8 @@ async function load() {
     sources.map(s => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join("");
   sourceEl.value = current;
   render();
+  buildTicker(news.items || []);
+  if (showFullScrape) hideScanner();
 }
 
 searchEl.addEventListener("input", render);
@@ -225,14 +415,25 @@ themeToggle.addEventListener("click", () => {
   try { localStorage.setItem("theme", next); } catch (e) {}
 });
 
-load().catch(e => {
+load(true).catch(e => {
+  hideScanner();
   statusEl.style.display = "block";
   statusEl.className = "error";
   statusEl.textContent = "Failed to load news: " + e.message;
 });
 
-// Pick up freshly scraped data (news.json is committed hourly by GitHub Actions)
-setInterval(() => { load().catch(() => {}); }, 5 * 60 * 1000);
+// Countdown + pick up freshly scraped data (news.json committed hourly by GitHub Actions)
+const REFRESH_SECONDS = 300;
+let refreshLeft = REFRESH_SECONDS;
+updatedBadgeEl.textContent = "⏳ next scrape in " + formatTime(refreshLeft);
+setInterval(() => {
+  refreshLeft--;
+  if (refreshLeft <= 0) {
+    refreshLeft = REFRESH_SECONDS;
+    load(false).catch(() => {});
+  }
+  updatedBadgeEl.textContent = "⏳ next scrape in " + formatTime(refreshLeft);
+}, 1000);
 </script>
 </body>
 </html>
