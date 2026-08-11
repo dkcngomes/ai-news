@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-11T07:35:23.984739+00:00",
+  "scraped_at": "2026-08-11T09:12:47.815909+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
+      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 11 Aug 2026 09:00:00 +0000",
+      "timestamp": 1786438800.0
+    },
+    {
+      "title": "French lawyers are being told to use open source AI models for confidential data",
+      "link": "https://huggingface.co/blog/jedisct1/lawyers-and-local-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 08:59:50 +0000",
+      "timestamp": 1786438790.0
+    },
+    {
+      "title": "I was accused of using AI in my dissertation but I wrote it all myself",
+      "link": "https://www.bbc.com/news/articles/crelev8gw5xo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 08:46:49 +0000",
+      "timestamp": 1786438009.0
+    },
+    {
+      "title": "Text AI watermarks will always be trivial to remove",
+      "link": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 08:04:52 +0000",
+      "timestamp": 1786435492.0
+    },
+    {
+      "title": "Anthropic's New Tool Could Expose AI-Written Novels",
+      "link": "https://www.businessinsider.com/anthropic-watermarking-feature-stops-undetected-ai-generated-writing-2026-8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 07:37:44 +0000",
+      "timestamp": 1786433864.0
+    },
+    {
+      "title": "CortexBrain: A monitoring pipeline that integrates with your AI agents",
+      "link": "https://github.com/CortexFlow/CortexBrain",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 07:37:15 +0000",
+      "timestamp": 1786433835.0
+    },
     {
       "title": "helppeer.ai",
       "link": "https://helppeer.ai/llms.txt",
@@ -136,51 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 11 Aug 2026 05:30:24 +0000",
       "timestamp": 1786426224.0
-    },
-    {
-      "title": "Show HN: NiceShot AI – The analytics layer competitive games forgot to add",
-      "link": "https://github.com/karimm-ai/NiceShot_AI",
-      "summary": "I've been working on NiceShot AI for the last 26 months as a way to experiment with computer vision for gameplay analysis. The basic idea is to take a recorded long gameplay session and automatically turn it into structured gameplay information and highlights. Bridging the performance analysis gap between match stats (too short) & lifetime stats (too long). The current pipeline is: Gameplay video → YOLO detection → event tracking → OCR/context filtering → event timestamps → clips → highlight compilation → session statistics For example, I can fine-tune a YOLO model to recognize game-specific H",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 05:18:28 +0000",
-      "timestamp": 1786425508.0
-    },
-    {
-      "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 05:07:18 +0000",
-      "timestamp": 1786424838.0
-    },
-    {
-      "title": "Study: AI is better at reading than listening",
-      "link": "https://viterbischool.usc.edu/news/2026/08/can-ai-read-the-room-usc-study-finds-ai-is-better-at-reading-than-listening/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 05:05:23 +0000",
-      "timestamp": 1786424723.0
-    },
-    {
-      "title": "Folding Prion Protein with AI",
-      "link": "https://blog.georeactor.com/prionbio-1",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 04:22:31 +0000",
-      "timestamp": 1786422151.0
-    },
-    {
-      "title": "'We Did Our Best': Metaphors of Parenting and AI",
-      "link": "https://www.nybooks.com/articles/2026/06/25/we-did-our-best-ai-meghan-ogieblyn/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 03:53:13 +0000",
-      "timestamp": 1786420393.0
     },
     {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -523,15 +532,6 @@
       "source": "Wired AI",
       "published": "Thu, 06 Aug 2026 19:55:45 +0000",
       "timestamp": 1786046145.0
-    },
-    {
-      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-      "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-      "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 06 Aug 2026 19:30:46 +0000",
-      "timestamp": 1786044646.0
     },
     {
       "title": "ChatGPT brings unlimited text chats to free users",
