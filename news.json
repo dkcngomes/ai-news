@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-08-11T19:18:39.802510+00:00",
+  "scraped_at": "2026-08-11T21:02:43.138806+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Show HN: Personal AI Policy Directory",
+      "link": "https://howiai.directory/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 20:11:37 +0000",
+      "timestamp": 1786479097.0
+    },
+    {
+      "title": "Rocky Linux Founder Kurtzer Launches OpenWALDO to Open Up AI Training Data",
+      "link": "https://techstrong.ai/articles/rocky-linux-founder-gregory-kurtzer-launches-openwaldo-to-open-up-ai-training-data/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 20:08:59 +0000",
+      "timestamp": 1786478939.0
+    },
+    {
+      "title": "NVIDIA & partners to mobilize over $500B of third-party capital for AI buildout",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 19:51:56 +0000",
+      "timestamp": 1786477916.0
+    },
+    {
+      "title": "AI Found a Zoom Takeover Flaw in Fewer Than 20 Prompts",
+      "link": "https://ai-updates.net/ai-found-zoom-takeover-flaw-20-prompts/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 19:51:36 +0000",
+      "timestamp": 1786477896.0
+    },
+    {
+      "title": "OpenRouter is a example of the Application layer of AI",
+      "link": "https://s-1.vercel.app/posts/why-openrouter-can-be-the-next-great/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 19:47:47 +0000",
+      "timestamp": 1786477667.0
+    },
+    {
+      "title": "Next-Token Predictor Is An AI's Job, Not Its Species",
+      "link": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 19:46:48 +0000",
+      "timestamp": 1786477608.0
+    },
+    {
+      "title": "The Society of Professional Journalists proposes edits to code of ethics for AI",
+      "link": "https://www.niemanlab.org/2026/08/the-society-of-professional-journalists-proposes-edits-to-its-code-of-ethics-for-the-ai-age/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 19:43:53 +0000",
+      "timestamp": 1786477433.0
+    },
+    {
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T15:41:42-04:00",
+      "timestamp": 1786477302.0
+    },
+    {
+      "title": "You Don't Need to Use Cloud AI Switchyard and Nemotron (Level1/Wendell) [video]",
+      "link": "https://www.youtube.com/watch?v=-IGB6Avxwgo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 19:34:27 +0000",
+      "timestamp": 1786476867.0
+    },
+    {
+      "title": "AI models are breaking out of their cages. Their creators are scrambling",
+      "link": "https://www.washingtonpost.com/technology/2026/08/10/openai-anthropic-under-pressure-explain-ai-hacking-sprees/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 19:23:36 +0000",
+      "timestamp": 1786476216.0
+    },
     {
       "title": "OpenAI launches ChatGPT desktop app for Linux",
       "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
@@ -10,6 +100,15 @@
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 19:15:35 +0000",
       "timestamp": 1786475735.0
+    },
+    {
+      "title": "Show HN: Webstractor – Pay-as-You-Go Web Data API for AI Agents",
+      "link": "https://webstractor.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 19:15:24 +0000",
+      "timestamp": 1786475724.0
     },
     {
       "title": "Can you trust what AI tells you? [video]",
@@ -120,24 +219,6 @@
       "timestamp": 1786470601.0
     },
     {
-      "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
-      "link": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:43:55 +0000",
-      "timestamp": 1786470235.0
-    },
-    {
-      "title": "Ask HN: What are your thoughts on E2E software development using AI agents?",
-      "link": "https://news.ycombinator.com/item?id=49261790",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:43:11 +0000",
-      "timestamp": 1786470191.0
-    },
-    {
       "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
       "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
       "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
@@ -154,78 +235,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 17:41:22 +0000",
       "timestamp": 1786470082.0
-    },
-    {
-      "title": "Spotify to Label AI 'Artists'",
-      "link": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:36:31 +0000",
-      "timestamp": 1786469791.0
-    },
-    {
-      "title": "Sphere packing, AI, and mathematical beauty",
-      "link": "https://www.empirical.health/blog/ai-math-sphere-packing/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:36:17 +0000",
-      "timestamp": 1786469777.0
-    },
-    {
-      "title": "AI Loop Engineering in 2026: How to Build a Gauntlet Loop",
-      "link": "https://www.thepromptindex.com/ai-loop-engineering-gauntlet-loop-guide.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:25:55 +0000",
-      "timestamp": 1786469155.0
-    },
-    {
-      "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
-      "link": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:23:58 +0000",
-      "timestamp": 1786469038.0
-    },
-    {
-      "title": "OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues",
-      "link": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:22:45 +0000",
-      "timestamp": 1786468965.0
-    },
-    {
-      "title": "Mitchell Hashimoto's daily schedule given Superlogical, second kid, and AI usage",
-      "link": "https://twitter.com/mitchellh/status/2087227139154448436",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:22:23 +0000",
-      "timestamp": 1786468943.0
-    },
-    {
-      "title": "Signing and verifying AI outputs with revocable trust",
-      "link": "https://www.youtube.com/watch?v=8OF1gS5jn3w",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:14:23 +0000",
-      "timestamp": 1786468463.0
-    },
-    {
-      "title": "Show HN: I used AI to filter AI-focused content from HN",
-      "link": "https://www.unslop.news",
-      "summary": "Source: https://github.com/leiDnedyA/hn-without-ai",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 17:13:11 +0000",
-      "timestamp": 1786468391.0
     },
     {
       "title": "Made by Google 2026: all the Pixel news and announcements",
@@ -406,15 +415,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 10 Aug 2026 16:20:13 +0000",
       "timestamp": 1786378813.0
-    },
-    {
-      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-10T11:19:05-04:00",
-      "timestamp": 1786375145.0
     },
     {
       "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
