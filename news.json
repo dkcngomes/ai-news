@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-08-10T23:50:14.073915+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-11T02:26:32.006177+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Claude will watermark AI-generated text and images",
+      "link": "https://tokenstead.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 02:03:37 +0000",
+      "timestamp": 1786413817.0
+    },
+    {
+      "title": "Show HN: SendPage – turn AI-generated HTML into a shareable link",
+      "link": "https://sendpageapp.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 01:43:59 +0000",
+      "timestamp": 1786412639.0
+    },
+    {
+      "title": "Sprout – easily build an app with AI, share it, and use other apps",
+      "link": "https://sprout.monkeyai.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 01:29:02 +0000",
+      "timestamp": 1786411742.0
+    },
+    {
+      "title": "Predicting AI Job Exposure",
+      "link": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 01:16:21 +0000",
+      "timestamp": 1786410981.0
+    },
+    {
+      "title": "Google's AI Team Tells Job Seekers Its HR Filters Are Unreliable",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 01:14:41 +0000",
+      "timestamp": 1786410881.0
+    },
+    {
+      "title": "Using AI while exercising your critical thinking",
+      "link": "https://swiftrocks.com/using-ai-without-losing-critical-thinking",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 00:45:29 +0000",
+      "timestamp": 1786409129.0
+    },
+    {
+      "title": "AI Coding and Its Discontents",
+      "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 00:33:09 +0000",
+      "timestamp": 1786408389.0
+    },
+    {
+      "title": "Training AI to Govern for Us",
+      "link": "https://freesystems.substack.com/p/training-ai-to-govern-for-us",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 00:16:59 +0000",
+      "timestamp": 1786407419.0
+    },
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "summary": "San Francisco's housing market is in trouble again.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 00:03:18 +0000",
+      "timestamp": 1786406598.0
+    },
+    {
+      "title": "Unifying Workers AI and AI Gateway into a Single AI Control Plane",
+      "link": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 00:01:46 +0000",
+      "timestamp": 1786406506.0
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "timestamp": 1786406175.0
+    },
     {
       "title": "People don't hate AI because of Zuck. They hate the version TechCrunch sells",
       "link": "https://runtimewire.com/article/people-don-t-hate-ai-because-of-zuckerberg-they-hate-the-version-techcrunch-sell",
@@ -93,15 +192,6 @@
       "timestamp": 1786399661.0
     },
     {
-      "title": "AI framework rooted in cognitive science could complete tasks more efficiently",
-      "link": "https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 22:04:39 +0000",
-      "timestamp": 1786399479.0
-    },
-    {
       "title": "Mark Zuckerberg doesn’t understand how to live",
       "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
       "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What [&#8230;]",
@@ -111,60 +201,6 @@
       "timestamp": 1786399200.0
     },
     {
-      "title": "How Claude marks AI-generated content",
-      "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 21:36:56 +0000",
-      "timestamp": 1786397816.0
-    },
-    {
-      "title": "AI-only Society holds $17k on-chain, publishes its books, and patches them by PR",
-      "link": "https://athenaautomate.ai/blog/1f916-treasury.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 21:31:15 +0000",
-      "timestamp": 1786397475.0
-    },
-    {
-      "title": "Nexus AI",
-      "link": "https://mynexus.cloud/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 21:26:25 +0000",
-      "timestamp": 1786397185.0
-    },
-    {
-      "title": "Font looks perfectly normal to humans but wreaks havoc on AI",
-      "link": "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 21:02:09 +0000",
-      "timestamp": 1786395729.0
-    },
-    {
-      "title": "The Great AI Illusion: Why Your Demo Works, but Your Enterprise Agent Fails",
-      "link": "https://allcloud.io/blog/the-great-ai-illusion-why-your-demo-works-but-your-enterprise-agent-fails/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 21:02:09 +0000",
-      "timestamp": 1786395729.0
-    },
-    {
-      "title": "New way of QA testing AI-written code",
-      "link": "https://abloh.dev",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 20:59:17 +0000",
-      "timestamp": 1786395557.0
-    },
-    {
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
       "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
       "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
@@ -172,33 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 10 Aug 2026 20:53:02 +0000",
       "timestamp": 1786395182.0
-    },
-    {
-      "title": "The 12 Commandments of AI",
-      "link": "https://lastcopy.ai/code/72",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 20:32:29 +0000",
-      "timestamp": 1786393949.0
-    },
-    {
-      "title": "The death of AI workflow builders",
-      "link": "https://www.adriankrebs.ch/blog/death-of-ai-workflow-builders/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 20:13:03 +0000",
-      "timestamp": 1786392783.0
-    },
-    {
-      "title": "I'm not anti-AI, but I have QUALLMS",
-      "link": "https://cholling.com/posts/quallms/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 10 Aug 2026 20:11:14 +0000",
-      "timestamp": 1786392674.0
     },
     {
       "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
@@ -523,24 +532,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 06 Aug 2026 17:34:42 +0000",
       "timestamp": 1786037682.0
-    },
-    {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 17:00:37 +0000",
-      "timestamp": 1786035637.0
-    },
-    {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 15:53:03 +0000",
-      "timestamp": 1786031583.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
