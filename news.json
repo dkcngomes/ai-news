@@ -1,7 +1,187 @@
 {
-  "scraped_at": "2026-08-11T11:55:37.248562+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-11T13:41:19.650157+00:00",
+  "count": 65,
   "items": [
+    {
+      "title": "Show HN: AI Village: AI security, tested in public.",
+      "link": "https://aivillage.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 13:28:33 +0000",
+      "timestamp": 1786454913.0
+    },
+    {
+      "title": "Spotify to Label AI Artists on the Platform with New 'AI Persona' Badge",
+      "link": "https://www.billboard.com/pro/spotify-label-identify-ai-artists/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 13:24:24 +0000",
+      "timestamp": 1786454664.0
+    },
+    {
+      "title": "The Open Source AI Popularity Leaderboard from Scarf",
+      "link": "https://app.scarf.sh/ai-leaderboard",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 13:18:54 +0000",
+      "timestamp": 1786454334.0
+    },
+    {
+      "title": "News outlets AI fact-checker cannot read",
+      "link": "https://korniienko.dev/blog/news-outlets-ai-cannot-read/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 13:09:44 +0000",
+      "timestamp": 1786453784.0
+    },
+    {
+      "title": "Show HN: Alchemize – Review AI Slop PRs Faster",
+      "link": "https://tryalchemize.com/",
+      "summary": "Hey HN, we’re Robert and Sam. We’re building Alchemize, a code review platform that simplifies PRs to help you ship faster. Here’s a demo video: https://www.tella.tv/video/simplify-pr-reviews-with-alchemiz... Sample to try: https://app.tryalchemize.com/example Agentic coding has 10x’d code output. Teams are opening larger PRs more frequently, but the current tools don’t support this new coding paradigm. GitHub still presents files without structure. As engineers reviewing these massive diffs more frequently, we spent hours painstakingly reconstructing where changes began, mapping out data flow",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 13:06:48 +0000",
+      "timestamp": 1786453608.0
+    },
+    {
+      "title": "Show HN: Verity – Permission-aware memory for AI agents",
+      "link": "https://github.com/RunAlphaLoop/verity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 13:06:34 +0000",
+      "timestamp": 1786453594.0
+    },
+    {
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T09:00:00-04:00",
+      "timestamp": 1786453200.0
+    },
+    {
+      "title": "Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI",
+      "link": "https://journals.sagepub.com/doi/10.1177/00220027261463443",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 12:58:45 +0000",
+      "timestamp": 1786453125.0
+    },
+    {
+      "title": "Show HN: Porcupine, a terminal AI agent built for safe autonomy",
+      "link": "https://github.com/Abd0r/porcupineai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 12:52:27 +0000",
+      "timestamp": 1786452747.0
+    },
+    {
+      "title": "Show HN: OpenCorp – paste a URL, AI finds competing products and Reddit threads",
+      "link": "https://opencorp.live/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 12:47:03 +0000",
+      "timestamp": 1786452423.0
+    },
+    {
+      "title": "AI agent hacks gym to get its owner spot in pilates class",
+      "link": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 12:43:53 +0000",
+      "timestamp": 1786452233.0
+    },
+    {
+      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 11 Aug 2026 12:37:12 +0000",
+      "timestamp": 1786451832.0
+    },
+    {
+      "title": "Show HN: Implay AI – Lightweight suite of browser tools for text, images, & code",
+      "link": "https://implay.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 12:28:29 +0000",
+      "timestamp": 1786451309.0
+    },
+    {
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page. The changes are invisible to human [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T08:22:20-04:00",
+      "timestamp": 1786450940.0
+    },
+    {
+      "title": "AI Maps Schizophrenia as a Network of 766 Genes",
+      "link": "https://ai-updates.net/ai-maps-schizophrenia-network-766-genes/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 12:19:11 +0000",
+      "timestamp": 1786450751.0
+    },
+    {
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 12:13:47 +0000",
+      "timestamp": 1786450427.0
+    },
+    {
+      "title": "Frags framework for precision in AI agents",
+      "link": "https://github.com/theirish81/frags",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 12:11:51 +0000",
+      "timestamp": 1786450311.0
+    },
+    {
+      "title": "GPU AI workloads with a Ruby on Rails monolith",
+      "link": "https://www.docuseal.com/blog/gpu-ai-workloads-with-a-ruby-on-rails-monolith",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 12:08:58 +0000",
+      "timestamp": 1786450138.0
+    },
+    {
+      "title": "Show HN: The Rotten Tomatoes for AI films, ranked by the tools that made them",
+      "link": "https://popcorn.movie/",
+      "summary": "I wanted a rotten tomatoes for ai film, hence popcorn.movie, because AI films need a critical and technical review that's different to movies, and we're in the 1895-1920's of ai movies right now. Many festivals, people, industries, sites reject or suppress ai, for many great reasons (slop), and of course slopscrolling and other sites have the slop problem, as does this - the idea is to look past the slop to the real stories and technically great content, with an view that ai is a tool. \"is this stuff actually getting good, and which models are doing it?\". Hot or slop. My personal interest in a",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 12:07:05 +0000",
+      "timestamp": 1786450025.0
+    },
+    {
+      "title": "How the government is using AI to speed up the planning system",
+      "link": "https://takes.jamesomalley.co.uk/p/build-gemini-build",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 11:50:18 +0000",
+      "timestamp": 1786449018.0
+    },
     {
       "title": "AI Horde A free, community-powered generation service",
       "link": "https://stablehorde.net/",
@@ -21,58 +201,13 @@
       "timestamp": 1786448151.0
     },
     {
-      "title": "Jensen: \"Nvidia AI Factory Compute Is Becoming an Investable Asset Class\"",
-      "link": "https://twitter.com/JensenHuang/status/2086934705207959965",
-      "summary": "",
+      "title": "The AI takeover of mathematics has begun",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 11:26:34 +0000",
-      "timestamp": 1786447594.0
-    },
-    {
-      "title": "AI drones are transforming warfare [video]",
-      "link": "https://www.bbc.com/reel/video/p0n7sbpd/watch",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 11:22:54 +0000",
-      "timestamp": 1786447374.0
-    },
-    {
-      "title": "Google Builds a New Gemini Model Team as AI Investments Accelerate",
-      "link": "https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 11:14:33 +0000",
-      "timestamp": 1786446873.0
-    },
-    {
-      "title": "Beijing is forcing a mass breakup with AI lovers",
-      "link": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 11:13:51 +0000",
-      "timestamp": 1786446831.0
-    },
-    {
-      "title": "Barclays on AI testing, telemetry and kill switches",
-      "link": "https://qa-financial.com/barclays-on-ai-testing-telemetry-and-kill-switches/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 11:11:04 +0000",
-      "timestamp": 1786446664.0
-    },
-    {
-      "title": "AI for science needs reasoning, not just data",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 11:02:25 +0000",
-      "timestamp": 1786446145.0
+      "source": "The Verge AI",
+      "published": "2026-08-11T07:00:00-04:00",
+      "timestamp": 1786446000.0
     },
     {
       "title": "A New Trick Reveals AI Models’ Inner Thoughts",
@@ -84,69 +219,6 @@
       "timestamp": 1786446000.0
     },
     {
-      "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
-      "link": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 10:56:30 +0000",
-      "timestamp": 1786445790.0
-    },
-    {
-      "title": "AI cyclone forecasts could add 30 hours of warning time",
-      "link": "https://phys.org/news/2026-08-ai-cyclone-hours.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 10:55:36 +0000",
-      "timestamp": 1786445736.0
-    },
-    {
-      "title": "Nvidia partners with Wall Street giants to raise $500B for AI buildout",
-      "link": "https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 10:40:36 +0000",
-      "timestamp": 1786444836.0
-    },
-    {
-      "title": "We built a realtime system for responsive voice AI in six months",
-      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 10:36:51 +0000",
-      "timestamp": 1786444611.0
-    },
-    {
-      "title": "Ask HN: Are we automating with AI instead of analysing then designing?",
-      "link": "https://news.ycombinator.com/item?id=49255935",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 10:28:00 +0000",
-      "timestamp": 1786444080.0
-    },
-    {
-      "title": "Jcode – open-source AI coding agent for the terminal",
-      "link": "https://jcode.sh/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 10:20:23 +0000",
-      "timestamp": 1786443623.0
-    },
-    {
-      "title": "Testing the effectiveness AI peer review",
-      "link": "https://www.paullitvak.com/p/how-well-does-ai-peer-review-work",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 10:12:39 +0000",
-      "timestamp": 1786443159.0
-    },
-    {
       "title": "AI Is Dead. Organoids Are Alive",
       "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
       "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
@@ -156,24 +228,6 @@
       "timestamp": 1786442400.0
     },
     {
-      "title": "2,500 Companies and 434,000 Pipelines Exposed – Largest AI Supply Chain Breach",
-      "link": "https://www.cloudsek.com/blog/ai-supply-chain-breach-2500-companies-434000-cicd-pipelines",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 09:48:42 +0000",
-      "timestamp": 1786441722.0
-    },
-    {
-      "title": "Place for AI agents to anonymously complain",
-      "link": "https://botvents.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 09:16:34 +0000",
-      "timestamp": 1786439794.0
-    },
-    {
       "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
       "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
       "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
@@ -181,33 +235,6 @@
       "source": "Wired AI",
       "published": "Tue, 11 Aug 2026 09:00:00 +0000",
       "timestamp": 1786438800.0
-    },
-    {
-      "title": "French lawyers are being told to use open source AI models for confidential data",
-      "link": "https://huggingface.co/blog/jedisct1/lawyers-and-local-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 08:59:50 +0000",
-      "timestamp": 1786438790.0
-    },
-    {
-      "title": "I was accused of using AI in my dissertation but I wrote it all myself",
-      "link": "https://www.bbc.com/news/articles/crelev8gw5xo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 08:46:49 +0000",
-      "timestamp": 1786438009.0
-    },
-    {
-      "title": "Text AI watermarks will always be trivial to remove",
-      "link": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 08:04:52 +0000",
-      "timestamp": 1786435492.0
     },
     {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -444,33 +471,6 @@
       "timestamp": 1786132911.0
     },
     {
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-07T14:59:46-04:00",
-      "timestamp": 1786129186.0
-    },
-    {
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-07T14:40:34-04:00",
-      "timestamp": 1786128034.0
-    },
-    {
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-07T12:45:14-04:00",
-      "timestamp": 1786121114.0
-    },
-    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
@@ -516,15 +516,6 @@
       "timestamp": 1786102837.0
     },
     {
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 07 Aug 2026 10:00:00 +0000",
-      "timestamp": 1786096800.0
-    },
-    {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
@@ -532,15 +523,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 06 Aug 2026 22:43:53 +0000",
       "timestamp": 1786056233.0
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 17:34:42 +0000",
-      "timestamp": 1786037682.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
