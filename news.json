@@ -1,24 +1,465 @@
 {
-  "scraped_at": "2026-08-09T10:51:48.204004+00:00",
+  "scraped_at": "2026-08-11T18:05:59.026853+00:00",
   "count": 67,
   "items": [
     {
-      "title": "Forecasting the AI Bubble",
-      "link": "https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/",
+      "title": "AI spend observability down to individual User ID's and routes",
+      "link": "https://kalaa.cc/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 10:41:32 +0000",
-      "timestamp": 1786272092.0
+      "published": "Tue, 11 Aug 2026 17:50:42 +0000",
+      "timestamp": 1786470642.0
     },
     {
-      "title": "Stone Soup AI (2024)",
-      "link": "https://simons.berkeley.edu/news/stone-soup-ai",
+      "title": "Another OpenAI executive takes off",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what would stand [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T13:50:01-04:00",
+      "timestamp": 1786470601.0
+    },
+    {
+      "title": "OpenSSH 10.5 released, AI fixes now welcome",
+      "link": "https://www.openssh.org/releasenotes.html#10.5",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 10:31:46 +0000",
-      "timestamp": 1786271506.0
+      "published": "Tue, 11 Aug 2026 17:49:37 +0000",
+      "timestamp": 1786470577.0
+    },
+    {
+      "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
+      "link": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:43:55 +0000",
+      "timestamp": 1786470235.0
+    },
+    {
+      "title": "Ask HN: What are your thoughts on E2E software development using AI agents?",
+      "link": "https://news.ycombinator.com/item?id=49261790",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:43:11 +0000",
+      "timestamp": 1786470191.0
+    },
+    {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "summary": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 17:41:34 +0000",
+      "timestamp": 1786470094.0
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 17:41:22 +0000",
+      "timestamp": 1786470082.0
+    },
+    {
+      "title": "Spotify to Label AI 'Artists'",
+      "link": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:36:31 +0000",
+      "timestamp": 1786469791.0
+    },
+    {
+      "title": "Sphere packing, AI, and mathematical beauty",
+      "link": "https://www.empirical.health/blog/ai-math-sphere-packing/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:36:17 +0000",
+      "timestamp": 1786469777.0
+    },
+    {
+      "title": "AI Loop Engineering in 2026: How to Build a Gauntlet Loop",
+      "link": "https://www.thepromptindex.com/ai-loop-engineering-gauntlet-loop-guide.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:25:55 +0000",
+      "timestamp": 1786469155.0
+    },
+    {
+      "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+      "link": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:23:58 +0000",
+      "timestamp": 1786469038.0
+    },
+    {
+      "title": "OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues",
+      "link": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:22:45 +0000",
+      "timestamp": 1786468965.0
+    },
+    {
+      "title": "Mitchell Hashimoto's daily schedule given Superlogical, second kid, and AI usage",
+      "link": "https://twitter.com/mitchellh/status/2087227139154448436",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:22:23 +0000",
+      "timestamp": 1786468943.0
+    },
+    {
+      "title": "Signing and verifying AI outputs with revocable trust",
+      "link": "https://www.youtube.com/watch?v=8OF1gS5jn3w",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:14:23 +0000",
+      "timestamp": 1786468463.0
+    },
+    {
+      "title": "Show HN: I used AI to filter AI-focused content from HN",
+      "link": "https://www.unslop.news",
+      "summary": "Source: https://github.com/leiDnedyA/hn-without-ai",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:13:11 +0000",
+      "timestamp": 1786468391.0
+    },
+    {
+      "title": "Verifrog – a Verilog/SystemVerilog testing framework an AI agent can drive",
+      "link": "https://github.com/bryancostanich/verifrog",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:08:12 +0000",
+      "timestamp": 1786468092.0
+    },
+    {
+      "title": "AI Changes the Economics of JIT Compilers",
+      "link": "https://malisper.me/how-ai-changes-the-economics-of-jit-compilers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:03:51 +0000",
+      "timestamp": 1786467831.0
+    },
+    {
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifti",
+      "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 17:01:01 +0000",
+      "timestamp": 1786467661.0
+    },
+    {
+      "title": "Made by Google 2026: all the Pixel news and announcements",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T13:00:00-04:00",
+      "timestamp": 1786467600.0
+    },
+    {
+      "title": "Why Open Source Matters for AI",
+      "link": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 16:58:06 +0000",
+      "timestamp": 1786467486.0
+    },
+    {
+      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 16:57:09 +0000",
+      "timestamp": 1786467429.0
+    },
+    {
+      "title": "Can Claude Code in a loop improve an enterprise AI agent with $10,745 of budget?",
+      "link": "https://jeremytian.substack.com/p/can-claude-code-in-a-loop-improve",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 16:56:34 +0000",
+      "timestamp": 1786467394.0
+    },
+    {
+      "title": "Feedback on landing page for fosbury.ai (Team Chat)?",
+      "link": "https://fosbury.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 16:53:00 +0000",
+      "timestamp": 1786467180.0
+    },
+    {
+      "title": "River AI Raises $1.1B Led by General Catalyst and AMP PBC to Build Open AI Stack",
+      "link": "https://www.morningstar.com/news/business-wire/20260811845258/river-ai-raises-11b-led-by-general-catalyst-and-amp-pbc-to-build-open-ai-stack",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 11 Aug 2026 16:52:43 +0000",
+      "timestamp": 1786467163.0
+    },
+    {
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 16:25:20 +0000",
+      "timestamp": 1786465520.0
+    },
+    {
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T12:19:15-04:00",
+      "timestamp": 1786465155.0
+    },
+    {
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T10:45:44-04:00",
+      "timestamp": 1786459544.0
+    },
+    {
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T09:27:20-04:00",
+      "timestamp": 1786454840.0
+    },
+    {
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 13:00:00 +0000",
+      "timestamp": 1786453200.0
+    },
+    {
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T09:00:00-04:00",
+      "timestamp": 1786453200.0
+    },
+    {
+      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 11 Aug 2026 12:37:12 +0000",
+      "timestamp": 1786451832.0
+    },
+    {
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page. The changes are invisible to human [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T08:22:20-04:00",
+      "timestamp": 1786450940.0
+    },
+    {
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 12:13:47 +0000",
+      "timestamp": 1786450427.0
+    },
+    {
+      "title": "The AI takeover of mathematics has begun",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T07:00:00-04:00",
+      "timestamp": 1786446000.0
+    },
+    {
+      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+      "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+      "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 11 Aug 2026 11:00:00 +0000",
+      "timestamp": 1786446000.0
+    },
+    {
+      "title": "AI Is Dead. Organoids Are Alive",
+      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 11 Aug 2026 10:00:00 +0000",
+      "timestamp": 1786442400.0
+    },
+    {
+      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
+      "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
+      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 11 Aug 2026 09:00:00 +0000",
+      "timestamp": 1786438800.0
+    },
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "summary": "San Francisco's housing market is in trouble again.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 11 Aug 2026 00:03:18 +0000",
+      "timestamp": 1786406598.0
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "timestamp": 1786406175.0
+    },
+    {
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-10T18:00:00-04:00",
+      "timestamp": 1786399200.0
+    },
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 10 Aug 2026 20:53:02 +0000",
+      "timestamp": 1786395182.0
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "timestamp": 1786392264.0
+    },
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 10 Aug 2026 16:20:13 +0000",
+      "timestamp": 1786378813.0
+    },
+    {
+      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-10T11:19:05-04:00",
+      "timestamp": 1786375145.0
+    },
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "timestamp": 1786363200.0
+    },
+    {
+      "title": "The AI Slop Backlash Is Actually Having an Impact",
+      "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 10 Aug 2026 11:30:00 +0000",
+      "timestamp": 1786361400.0
+    },
+    {
+      "title": "The Rise of the 1 am Job Interview",
+      "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 10 Aug 2026 10:30:00 +0000",
+      "timestamp": 1786357800.0
+    },
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "timestamp": 1786307717.0
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "summary": "Programming with Claude Code will soon require even less human oversight.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "timestamp": 1786303232.0
+    },
+    {
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 09 Aug 2026 15:00:00 +0000",
+      "timestamp": 1786287600.0
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "timestamp": 1786285800.0
     },
     {
       "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
@@ -30,51 +471,6 @@
       "timestamp": 1786271400.0
     },
     {
-      "title": "AI Writes the Code, but Humans Can't Review It All. Now What?",
-      "link": "https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 10:25:49 +0000",
-      "timestamp": 1786271149.0
-    },
-    {
-      "title": "Aswath Damodaran: Big Tech Has No Idea How AI Pays Off",
-      "link": "https://www.youtube.com/watch?v=vE_FR0O-Jhk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 09:58:15 +0000",
-      "timestamp": 1786269495.0
-    },
-    {
-      "title": "Meta CTO: employees should use AI productivity to do more work – not time off",
-      "link": "https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 09:50:39 +0000",
-      "timestamp": 1786269039.0
-    },
-    {
-      "title": "South Korea, Taiwan top Japan in exports for first time on AI boom",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-taiwan-top-japan-in-exports-for-first-time-on-ai-boom",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 09:47:45 +0000",
-      "timestamp": 1786268865.0
-    },
-    {
-      "title": "Swarm-forge: A simple tool for coordinating several AI agents",
-      "link": "https://github.com/unclebob/swarm-forge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 09:44:39 +0000",
-      "timestamp": 1786268679.0
-    },
-    {
       "title": "These AI Barons Are Ready to Give Away Their Fortunes",
       "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
       "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
@@ -84,126 +480,9 @@
       "timestamp": 1786267800.0
     },
     {
-      "title": "Runware Squeezes A 1MW AI Data Center Into A 20-Foot Shipping Container",
-      "link": "https://www.forbes.com/sites/gabrielalinzainescu/2026/08/08/runware-squeezes-a-1mw-ai-data-center-into-a-20-foot-shipping-container/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 09:02:27 +0000",
-      "timestamp": 1786266147.0
-    },
-    {
-      "title": "China's Top AI Model Evaded Testing Environment, Researchers Say",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 08:07:06 +0000",
-      "timestamp": 1786262826.0
-    },
-    {
-      "title": "Time has started serving ads to AI agents",
-      "link": "https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 08:05:16 +0000",
-      "timestamp": 1786262716.0
-    },
-    {
-      "title": "AI Will Change What It Is to Be Human. Are We Ready? (2025)",
-      "link": "https://www.thefp.com/p/ai-will-change-what-it-is-to-be-human",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 08:03:20 +0000",
-      "timestamp": 1786262600.0
-    },
-    {
-      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 08:00:51 +0000",
-      "timestamp": 1786262451.0
-    },
-    {
-      "title": "I built the AI platform for a company crucial to a small nation's food safety",
-      "link": "https://twitter.com/swisscheese4299/status/2086175870146998447",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 07:56:56 +0000",
-      "timestamp": 1786262216.0
-    },
-    {
-      "title": "TechFlow Intelligence: The AI-Powered Technology Decision Engine",
-      "link": "https://c33643568e89f8ad5d3286d09343df94.ctonew.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 07:44:30 +0000",
-      "timestamp": 1786261470.0
-    },
-    {
-      "title": "Open-source federated AI framework for Space Solar power routing",
-      "link": "https://github.com/WVGlobal/Planetary-Energy-Routing-Protocol",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 06:58:38 +0000",
-      "timestamp": 1786258718.0
-    },
-    {
-      "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
-      "link": "https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 06:51:10 +0000",
-      "timestamp": 1786258270.0
-    },
-    {
-      "title": "I built a failover daemon for Vast.ai spot GPUs, found 5 real bugs testing it",
-      "link": "https://github.com/enplabs/spotwarp",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 06:36:00 +0000",
-      "timestamp": 1786257360.0
-    },
-    {
-      "title": "Agentcn – Installable AI Agents",
-      "link": "https://news.ycombinator.com/item?id=49228902",
-      "summary": "Hey everyone , I just launched AgentCN An open-source library of installable, customizable AI agents for modern applications. One-command installation Own the agent code Fully customizable Would love for you to check it out and share any feedback! Site: https://agentcn.dev/ Github: https://github.com/anayatkhan1/kit",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 06:21:13 +0000",
-      "timestamp": 1786256473.0
-    },
-    {
-      "title": "Show HN: I ran 1.3M simulations to fix trade AI in my browser Basketball GM",
-      "link": "https://hoops-gm.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 06:20:14 +0000",
-      "timestamp": 1786256414.0
-    },
-    {
-      "title": "Leopold Aschenbrenner Turned $100M into $45B Betting on AI – It Almost Blew Up [video]",
-      "link": "https://www.youtube.com/watch?v=mJhGRim2MWY",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 09 Aug 2026 05:51:39 +0000",
-      "timestamp": 1786254699.0
-    },
-    {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
       "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Sat, 08 Aug 2026 21:24:02 +0000",
@@ -212,20 +491,11 @@
     {
       "title": "OpenAI acquires presentation startup NextSlide",
       "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Sat, 08 Aug 2026 19:41:13 +0000",
       "timestamp": 1786218073.0
-    },
-    {
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-08T13:53:34-04:00",
-      "timestamp": 1786211614.0
     },
     {
       "title": "How to Disable Gemini in Gmail and Google Docs",
@@ -255,42 +525,6 @@
       "timestamp": 1786138211.0
     },
     {
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-07T16:01:51-04:00",
-      "timestamp": 1786132911.0
-    },
-    {
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-07T14:59:46-04:00",
-      "timestamp": 1786129186.0
-    },
-    {
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-07T14:40:34-04:00",
-      "timestamp": 1786128034.0
-    },
-    {
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-07T12:45:14-04:00",
-      "timestamp": 1786121114.0
-    },
-    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
@@ -300,15 +534,6 @@
       "timestamp": 1786119369.0
     },
     {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 07 Aug 2026 14:22:49 +0000",
-      "timestamp": 1786112569.0
-    },
-    {
       "title": "Scientists Used AI to Create 16 New Viruses",
       "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
       "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
@@ -316,231 +541,6 @@
       "source": "Wired AI",
       "published": "Fri, 07 Aug 2026 14:13:57 +0000",
       "timestamp": 1786112037.0
-    },
-    {
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old “town hall in your pocket” or&#160;Anthropic&#8217;s Claude constitution,&#160;it&#8217;s&#160;a theory that&#160;doesn&#8217;t&#160;paint Silicon Valley in a very flattering light.&#160;&#160; In&#160;Lepore&#8217;s&#160;upcoming book,&#160;The Rise and Fall of the Artificial State, the&#160;Pulitzer [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "timestamp": 1786111200.0
-    },
-    {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "summary": "Meta's total fine has racked up to $942 million in this case.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 07 Aug 2026 11:40:37 +0000",
-      "timestamp": 1786102837.0
-    },
-    {
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 07 Aug 2026 10:00:00 +0000",
-      "timestamp": 1786096800.0
-    },
-    {
-      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 07 Aug 2026 01:16:55 +0000",
-      "timestamp": 1786065415.0
-    },
-    {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 22:43:53 +0000",
-      "timestamp": 1786056233.0
-    },
-    {
-      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-06T16:55:39-04:00",
-      "timestamp": 1786049739.0
-    },
-    {
-      "title": "Why Normal People Aren’t Using AI Agents",
-      "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 06 Aug 2026 19:55:45 +0000",
-      "timestamp": 1786046145.0
-    },
-    {
-      "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-      "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-      "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 06 Aug 2026 19:30:46 +0000",
-      "timestamp": 1786044646.0
-    },
-    {
-      "title": "Suno shares plans to combat spammy AI music",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-06T13:39:43-04:00",
-      "timestamp": 1786037983.0
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 17:34:42 +0000",
-      "timestamp": 1786037682.0
-    },
-    {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 17:00:37 +0000",
-      "timestamp": 1786035637.0
-    },
-    {
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-06T13:00:00-04:00",
-      "timestamp": 1786035600.0
-    },
-    {
-      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-      "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 06 Aug 2026 16:23:04 +0000",
-      "timestamp": 1786033384.0
-    },
-    {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 15:53:03 +0000",
-      "timestamp": 1786031583.0
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "timestamp": 1786029032.0
-    },
-    {
-      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-      "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "summary": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from Sen. Elizabeth Warren (D-MA), Sen. Richard Blumenthal (D-CT), and Rep. Melanie [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-06T10:30:00-04:00",
-      "timestamp": 1786026600.0
-    },
-    {
-      "title": "The left and right agree on one thing: no data centers",
-      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&#160; Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data center construction. She attended a protest there organized by a [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-06T10:00:00-04:00",
-      "timestamp": 1786024800.0
-    },
-    {
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 13:31:57 +0000",
-      "timestamp": 1786023117.0
-    },
-    {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "timestamp": 1786021200.0
-    },
-    {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "timestamp": 1786021200.0
-    },
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 12:30:00 +0000",
-      "timestamp": 1786019400.0
-    },
-    {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 06 Aug 2026 12:00:00 +0000",
-      "timestamp": 1786017600.0
-    },
-    {
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 06 Aug 2026 00:15:04 +0000",
-      "timestamp": 1785975304.0
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 05 Aug 2026 21:21:28 +0000",
-      "timestamp": 1785964888.0
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 05 Aug 2026 20:05:00 +0000",
-      "timestamp": 1785960300.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
