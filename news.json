@@ -1,7 +1,160 @@
 {
-  "scraped_at": "2026-08-12T16:08:56.320721+00:00",
+  "scraped_at": "2026-08-12T17:10:52.700228+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Some of tech's CEO suite is cloning itself with AI. What happens next?",
+      "link": "https://www.bbc.com/future/article/20260811-what-its-like-to-meet-an-ai-clone",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 17:04:36 +0000",
+      "timestamp": 1786554276.0
+    },
+    {
+      "title": "Stop being skeptical about AI for development",
+      "link": "https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 17:02:54 +0000",
+      "timestamp": 1786554174.0
+    },
+    {
+      "title": "Ask HN: What's your team's SDLC look like in this AI world?",
+      "link": "https://news.ycombinator.com/item?id=49275494",
+      "summary": "Our company is changing its Software Development Lifecycle (SDLC). Curious to hear from others what theirs looks like overall + bottlenecks. Ours: - 1 week planning/retro, 6 weeks implementation (basically six 1-week sprints). - Standup now mainly demoing what Engineering/Design is working on, getting quick feedback from teammates. - Meetings are recorded/transcribed. Agents generate Product Requirement + System Design docs from those meetings. - Push to have non-engineers be able to commit code, but engineering still responsible for shipping it. Unsolved issues/bottlenecks: - Ephemeral test e",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 17:02:20 +0000",
+      "timestamp": 1786554140.0
+    },
+    {
+      "title": "AI 'productivity pollution': the hidden tax on everyone",
+      "link": "https://www.machinesociety.ai/p/productivitypollution",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:58:09 +0000",
+      "timestamp": 1786553889.0
+    },
+    {
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 12 Aug 2026 16:57:58 +0000",
+      "timestamp": 1786553878.0
+    },
+    {
+      "title": "A few strong opinions about AI",
+      "link": "https://noisydeadlines.net/a-few-strong-opinions-about-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:54:43 +0000",
+      "timestamp": 1786553683.0
+    },
+    {
+      "title": "Can AI do novel security research? Meet the HTTP Terminator",
+      "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:52:28 +0000",
+      "timestamp": 1786553548.0
+    },
+    {
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 12 Aug 2026 16:46:02 +0000",
+      "timestamp": 1786553162.0
+    },
+    {
+      "title": "Beijing is forcing a mass breakup with AI lovers",
+      "link": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:42:34 +0000",
+      "timestamp": 1786552954.0
+    },
+    {
+      "title": "Shaping AI",
+      "link": "https://www.shapingai.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:32:23 +0000",
+      "timestamp": 1786552343.0
+    },
+    {
+      "title": "Show HN: Tanchi – Open-source AI prospecting agent that only automates email",
+      "link": "https://github.com/tanchihq/tanchi",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:28:30 +0000",
+      "timestamp": 1786552110.0
+    },
+    {
+      "title": "AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025",
+      "link": "https://lovable.dev/blog/series-c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:20:34 +0000",
+      "timestamp": 1786551634.0
+    },
+    {
+      "title": "Some Simple Economics of Open versus Closed AI",
+      "link": "https://www.a16z.news/p/some-simple-economics-of-open-versus",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:17:59 +0000",
+      "timestamp": 1786551479.0
+    },
+    {
+      "title": "Show HN: CrewScore – coverage check for AI agent prompts (0.6.11)",
+      "link": "https://crewscore.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:17:31 +0000",
+      "timestamp": 1786551451.0
+    },
+    {
+      "title": "Show HN: Dynobox – A test runner for AI agent skills and workflows",
+      "link": "https://github.com/dynobox/dynobox",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:14:42 +0000",
+      "timestamp": 1786551282.0
+    },
+    {
+      "title": "RL Environments Explained: How AI Agents Learn Real-World Work [video]",
+      "link": "https://www.youtube.com/watch?v=a00xIn5kwhM",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:10:14 +0000",
+      "timestamp": 1786551014.0
+    },
+    {
+      "title": "IO Factory: Simulating AI-Enabled Influence Campaigns at Scale [pdf]",
+      "link": "https://arxiv.org/abs/2608.10920",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:04:35 +0000",
+      "timestamp": 1786550675.0
+    },
     {
       "title": "Lovable confirms new $13.3B valuation, raises another $400M",
       "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
@@ -10,6 +163,15 @@
       "source": "TechCrunch AI",
       "published": "Wed, 12 Aug 2026 16:04:27 +0000",
       "timestamp": 1786550667.0
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is 'not healthy'",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 16:04:15 +0000",
+      "timestamp": 1786550655.0
     },
     {
       "title": "Archer OS: draft spec for AI agents operating apps under OS authority",
@@ -66,148 +228,13 @@
       "timestamp": 1786549496.0
     },
     {
-      "title": "China-linked hackers hit Taiwan in unprecedented 'autonomous' AI cyber attack",
-      "link": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
-      "summary": "",
+      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+      "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 15:31:55 +0000",
-      "timestamp": 1786548715.0
-    },
-    {
-      "title": "Roku Introduces Fairground AI Creator TV",
-      "link": "https://fairground.tv/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 15:31:24 +0000",
-      "timestamp": 1786548684.0
-    },
-    {
-      "title": "Why AI models love Japan",
-      "link": "https://utkarshx.substack.com/p/why-ai-models-love-japan",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 15:28:01 +0000",
-      "timestamp": 1786548481.0
-    },
-    {
-      "title": "Roku's AI slop channel is worse than expected",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/aug/12/roku-ai-slop-fairground-creator-tv-channel",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 15:21:00 +0000",
-      "timestamp": 1786548060.0
-    },
-    {
-      "title": "Ask HN: How do you envision the AI Software Factory?",
-      "link": "https://news.ycombinator.com/item?id=49273667",
-      "summary": "Is this an over-hyped concept and we just connect the harness via MCP to Slack / Jira / ... or do you envision completely new systems like GasTown for how we produce code in the future?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 15:12:36 +0000",
-      "timestamp": 1786547556.0
-    },
-    {
-      "title": "Reflections on AI",
-      "link": "https://blog.greg.technology/2026/08/11/reflections-on-ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 15:08:24 +0000",
-      "timestamp": 1786547304.0
-    },
-    {
-      "title": "AI in Immigration Practice: What Attorneys Are Required to Do",
-      "link": "https://rafaelresearch.com/research/ai-in-immigration-practice",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 15:04:57 +0000",
-      "timestamp": 1786547097.0
-    },
-    {
-      "title": "AI Broke Code Review and It's Breaking Your Team",
-      "link": "https://ref.tools/blog/ai-broke-alignment",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 15:04:39 +0000",
-      "timestamp": 1786547079.0
-    },
-    {
-      "title": "AI-assisted grant proposals may win more often–while narrowing research ideas",
-      "link": "https://phys.org/news/2026-08-ai-grant-narrowing-ideas.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 15:03:05 +0000",
-      "timestamp": 1786546985.0
-    },
-    {
-      "title": "The Datamaxxers Feeding Their Every Health Move to AI",
-      "link": "https://www.wsj.com/tech/ai/the-datamaxxers-feeding-their-every-health-move-to-ai-df0af9b5",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 14:53:24 +0000",
-      "timestamp": 1786546404.0
-    },
-    {
-      "title": "AI Startup Cognition in New Funding Talks at $40B Value",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-12/ai-startup-cognition-in-new-funding-talks-at-40-billion-value",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 14:48:26 +0000",
-      "timestamp": 1786546106.0
-    },
-    {
-      "title": "The Odyssey as AI Allegory",
-      "link": "https://unherd.com/2026/08/the-odyssey-as-an-ai-allegory/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 14:46:44 +0000",
-      "timestamp": 1786546004.0
-    },
-    {
-      "title": "I built an AI website in 3 hours, got 562 sign-ups, and felt lost",
-      "link": "https://medium.com/@kakuxwn/i-built-an-ai-website-in-3-hours-it-got-562-sign-ups-in-8-hours-and-left-me-more-lost-aef1c283124a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 14:41:00 +0000",
-      "timestamp": 1786545660.0
-    },
-    {
-      "title": "Show HN: TokenMaxxer – Create AI spend leaderboards with your friends",
-      "link": "https://tokenmaxxer.xyz",
-      "summary": "Hi Hacker News! I've been working on the most requested feature on TokenMaxxer, and I can finally say it's here! You can now create custom and private leaderboards with your friends and colleagues to compete and track everyone's usage. Thank you for stopping by. Feedback is appreciated!",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 14:38:19 +0000",
-      "timestamp": 1786545499.0
-    },
-    {
-      "title": "I wrote an AI textbook – how long until AI can do it better?",
-      "link": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 14:34:29 +0000",
-      "timestamp": 1786545269.0
-    },
-    {
-      "title": "A Built AI-Powered MVP – Available as a One-Time Opportunity",
-      "link": "https://www.indiehackers.com/post/a-fully-built-ai-powered-mvp-available-as-a-one-time-opportunity-4e3da1fa6f",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 14:28:31 +0000",
-      "timestamp": 1786544911.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 12 Aug 2026 14:22:00 +0000",
+      "timestamp": 1786544520.0
     },
     {
       "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
@@ -498,15 +525,6 @@
       "timestamp": 1786378813.0
     },
     {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "timestamp": 1786363200.0
-    },
-    {
       "title": "The AI Slop Backlash Is Actually Having an Impact",
       "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
       "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
@@ -523,24 +541,6 @@
       "source": "Wired AI",
       "published": "Mon, 10 Aug 2026 10:30:00 +0000",
       "timestamp": 1786357800.0
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "summary": "The AI-focused hedge fund is still making some big bets.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "timestamp": 1786307717.0
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "summary": "Programming with Claude Code will soon require even less human oversight.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 09 Aug 2026 19:20:32 +0000",
-      "timestamp": 1786303232.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
