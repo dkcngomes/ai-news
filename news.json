@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-08-11T23:58:13.845576+00:00",
-  "count": 65,
+  "scraped_at": "2026-08-12T02:42:47.426464+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "What job postings say about AI at work – Live report",
+      "link": "https://corvi.careers/reports/ai-job-trends/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 02:39:01 +0000",
+      "timestamp": 1786502341.0
+    },
+    {
+      "title": "Ask HN: Could DNA be represented as \"an embedding\" in an AI model?",
+      "link": "https://news.ycombinator.com/item?id=49267234",
+      "summary": "Where each Array element is a numerical value that corresponds to the order of TCAG chemicals on the crossbar of the helix of a DNA strand? Has anyone modeled many DNA strands in this way? If it was done, what kinds of problems could we solve using AI - assuming we could model any known DNA, and predict out generations?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 02:38:18 +0000",
+      "timestamp": 1786502298.0
+    },
+    {
+      "title": "What happens when the AI bubble pops?",
+      "link": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 02:27:35 +0000",
+      "timestamp": 1786501655.0
+    },
+    {
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 02:05:42 +0000",
+      "timestamp": 1786500342.0
+    },
+    {
+      "title": "Numbat by Perplexity: Endpoint visibility into AI agent activity",
+      "link": "https://github.com/perplexityai/numbat",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 02:00:26 +0000",
+      "timestamp": 1786500026.0
+    },
+    {
+      "title": "4Chan Chuds Used AI to Clothe Her. She Fought Back (2024)",
+      "link": "https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 01:57:47 +0000",
+      "timestamp": 1786499867.0
+    },
+    {
+      "title": "Advanced AI Sycophancy",
+      "link": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 01:38:06 +0000",
+      "timestamp": 1786498686.0
+    },
+    {
+      "title": "I built a failover daemon for Vast.ai spot GPUs, found 5 real bugs testing it",
+      "link": "https://github.com/enplabs/spotwarp",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 01:34:47 +0000",
+      "timestamp": 1786498487.0
+    },
+    {
+      "title": "Xirp – Spotify's macOS app for running AI coding agents",
+      "link": "https://xirp.spotify.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 00:56:09 +0000",
+      "timestamp": 1786496169.0
+    },
+    {
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T20:39:26-04:00",
+      "timestamp": 1786495166.0
+    },
+    {
+      "title": "Diabetes charity capitalises on AI technology",
+      "link": "https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 00:19:06 +0000",
+      "timestamp": 1786493946.0
+    },
     {
       "title": "Open AI models hacked into HuggingFace",
       "link": "https://www.instagram.com/p/DbGS8_0FmKx/",
@@ -84,24 +183,6 @@
       "timestamp": 1786487445.0
     },
     {
-      "title": "Human vs. AI vs. Human and AI: Who Does Better Work?",
-      "link": "https://rafaelresearch.com/research/human-vs-ai-vs-human-plus-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 22:02:10 +0000",
-      "timestamp": 1786485730.0
-    },
-    {
-      "title": "Hacktoberfest 2026: Building with AI; not PRs",
-      "link": "https://hacktoberfest.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 21:50:22 +0000",
-      "timestamp": 1786485022.0
-    },
-    {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
       "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
       "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
@@ -109,69 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 21:39:11 +0000",
       "timestamp": 1786484351.0
-    },
-    {
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "link": "https://www.suzanne3d.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 21:28:26 +0000",
-      "timestamp": 1786483706.0
-    },
-    {
-      "title": "Towards Expert-Level Medical AI for Real-Time Video Consultations",
-      "link": "https://arxiv.org/abs/2608.09861",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 21:21:43 +0000",
-      "timestamp": 1786483303.0
-    },
-    {
-      "title": "Asked AI to do a mini math breakthrough. It did a mini breakthrough",
-      "link": "https://github.com/learademacher/ai-refines-ai-zeta-bound",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 21:17:08 +0000",
-      "timestamp": 1786483028.0
-    },
-    {
-      "title": "Show HN: Log-decisions – an append-only decision journal for AI agents",
-      "link": "https://github.com/swe-workflow/log-decisions",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 21:15:55 +0000",
-      "timestamp": 1786482955.0
-    },
-    {
-      "title": "AI Is Solving CTF Challenges in Minutes",
-      "link": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 21:13:44 +0000",
-      "timestamp": 1786482824.0
-    },
-    {
-      "title": "The Necklace Puzzle Solved: 0.5 XMR Prize Claimed After 1 Year – By AI",
-      "link": "https://aillia.substack.com/p/the-necklace-puzzle-solved-05-xmr",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 21:10:07 +0000",
-      "timestamp": 1786482607.0
-    },
-    {
-      "title": "Show HN: Personal AI Policy Directory",
-      "link": "https://howiai.directory/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 20:11:37 +0000",
-      "timestamp": 1786479097.0
     },
     {
       "title": "ChatGPT and Gemini both just passed 1 billion users",
@@ -370,15 +388,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 10 Aug 2026 23:56:15 +0000",
       "timestamp": 1786406175.0
-    },
-    {
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-10T18:00:00-04:00",
-      "timestamp": 1786399200.0
     },
     {
       "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
