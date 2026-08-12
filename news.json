@@ -1,51 +1,204 @@
 {
-  "scraped_at": "2026-08-12T11:57:03.157716+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-12T13:44:31.829718+00:00",
+  "count": 66,
   "items": [
     {
-      "title": "Hybrid-retrieval memory layer for AI agents",
-      "link": "https://github.com/deepmemteam/deepmem",
+      "title": "I pointed my AI security plugin at my own prod app – it refused to invent a bug",
+      "link": "https://github.com/kenjichristopherv-del/securitymaxxing",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 11:14:59 +0000",
-      "timestamp": 1786533299.0
+      "published": "Wed, 12 Aug 2026 13:36:46 +0000",
+      "timestamp": 1786541806.0
     },
     {
-      "title": "Never Trust Your AI Agent's Own Sandbox",
-      "link": "https://badshah.io/blog/never-trust-your-ai-agents-sandbox/",
+      "title": "Show HN: Talkform.org, Turn voice inputs into structured data using front end AI",
+      "link": "https://talkform.org",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 11:02:25 +0000",
-      "timestamp": 1786532545.0
+      "published": "Wed, 12 Aug 2026 13:22:28 +0000",
+      "timestamp": 1786540948.0
     },
     {
-      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-      "link": "https://www.coinbase.com/en-ca/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
+      "title": "AI is removing the middle class of software engineering",
+      "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 10:55:50 +0000",
-      "timestamp": 1786532150.0
+      "published": "Wed, 12 Aug 2026 13:20:05 +0000",
+      "timestamp": 1786540805.0
     },
     {
-      "title": "The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+      "title": "Nvidia Exemplar Cloud: Lessons for Unlocking Performance on AI Infrastructure",
+      "link": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 13:19:35 +0000",
+      "timestamp": 1786540775.0
+    },
+    {
+      "title": "Building infrastructure for financially autonomous AI agents",
+      "link": "https://squidbank.xyz/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 13:10:43 +0000",
+      "timestamp": 1786540243.0
+    },
+    {
+      "title": "The future is for billionaires – the rest of us will get open weight AI, maybe",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/the-future-is-for-billionaires-the-rest-of-us-will-get-open-weight-ai-models-maybe/5285690",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 13:05:52 +0000",
+      "timestamp": 1786539952.0
+    },
+    {
+      "title": "Wall Street giants hand Nvidia $500B to fund boom in AI projects",
+      "link": "https://www.bbc.com/news/articles/c78gr0jv0mdo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 13:04:17 +0000",
+      "timestamp": 1786539857.0
+    },
+    {
+      "title": "Why Overkill Skills Lead to AI Workslop Instead of Deep Work",
+      "link": "https://dupflo.dev/blog/why-overkill-skills-lead-to-ai-workslop/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 13:00:44 +0000",
+      "timestamp": 1786539644.0
+    },
+    {
+      "title": "Google AI Overview thinks Sam Altman has died",
+      "link": "https://www.reddit.com/r/GeminiAI/comments/1vmd4m7/google_intelligence_right_now/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 12:57:21 +0000",
+      "timestamp": 1786539441.0
+    },
+    {
+      "title": "Notes on Chess and AI; or How I Learned to Stop Worrying and Love the Bomb",
+      "link": "https://awonder676.substack.com/p/notes-on-chess-and-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 12:50:57 +0000",
+      "timestamp": 1786539057.0
+    },
+    {
+      "title": "Experts are warning: our AI arms race is putting humanity at risk",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 12:41:18 +0000",
+      "timestamp": 1786538478.0
+    },
+    {
+      "title": "Retrieval vs. Memory in Agentic AI Systems",
+      "link": "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 12:37:08 +0000",
+      "timestamp": 1786538228.0
+    },
+    {
+      "title": "Show HN: AI 3D pop-out videos for Reels, Shorts and ads",
+      "link": "https://videopopy.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 12:36:17 +0000",
+      "timestamp": 1786538177.0
+    },
+    {
+      "title": "AI was supposed to destroy jobs. Where's the carnage?",
+      "link": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 12:24:12 +0000",
+      "timestamp": 1786537452.0
+    },
+    {
+      "title": "I built a personal AI agent in Swift on top of what macOS ships",
+      "link": "https://github.com/ivan-magda/swift-claw",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 12:23:50 +0000",
+      "timestamp": 1786537430.0
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-12T08:09:34-04:00",
+      "timestamp": 1786536574.0
+    },
+    {
+      "title": "Nvidia's $500B Bet to Make AI Compute Wall Street's Next Asset Class",
+      "link": "https://www.forbes.com/sites/robertszczerba/2026/08/10/nvidias-500b-bet-to-make-ai-compute-wall-streets-next-asset-class/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 12:05:42 +0000",
+      "timestamp": 1786536342.0
+    },
+    {
+      "title": "AI compute power becoming tradable asset class as CME launches futures contracts",
+      "link": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 12:03:23 +0000",
+      "timestamp": 1786536203.0
+    },
+    {
+      "title": "Electricity Pricing in the Age of AI",
+      "link": "https://power2026.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 12:00:28 +0000",
+      "timestamp": 1786536028.0
+    },
+    {
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-12T07:58:54-04:00",
+      "timestamp": 1786535934.0
+    },
+    {
+      "title": "Cross-Examine – replay base behavior against an AI-generated PR",
+      "link": "https://github.com/stefbuilds/cross-examine",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 11:56:28 +0000",
+      "timestamp": 1786535788.0
+    },
+    {
+      "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
       "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
       "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
       "image": null,
       "source": "Wired AI",
       "published": "Wed, 12 Aug 2026 10:45:00 +0000",
       "timestamp": 1786531500.0
-    },
-    {
-      "title": "AI Coding and Its Discontents",
-      "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 10:30:05 +0000",
-      "timestamp": 1786530605.0
     },
     {
       "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
@@ -57,42 +210,6 @@
       "timestamp": 1786530600.0
     },
     {
-      "title": "The Missing Public-Policy Ecosystem Behind Expensive AI Tokens",
-      "link": "https://zrainbow.substack.com/p/the-missing-public-policy-ecosystem",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 10:08:43 +0000",
-      "timestamp": 1786529323.0
-    },
-    {
-      "title": "GrokImage – AI Visual Generator Integrating Grok, Gemini and Nano Banana",
-      "link": "https://grokimage.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 09:58:16 +0000",
-      "timestamp": 1786528696.0
-    },
-    {
-      "title": "TriageBox – quick Gmail checker, sorting and AI summaries",
-      "link": "https://triagebox.pfa87.cc/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 09:58:06 +0000",
-      "timestamp": 1786528686.0
-    },
-    {
-      "title": "Why 'open' AI systems are closed, and why this matters (2024)",
-      "link": "https://www.nature.com/articles/s41586-024-08141-1",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 09:53:23 +0000",
-      "timestamp": 1786528403.0
-    },
-    {
       "title": "You’re Thinking About Online Trends All Wrong",
       "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
       "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
@@ -100,114 +217,6 @@
       "source": "Wired AI",
       "published": "Wed, 12 Aug 2026 09:30:00 +0000",
       "timestamp": 1786527000.0
-    },
-    {
-      "title": "AI Infrastructure Leadership Summit",
-      "link": "https://rafay.swoogo.com/inquiry/12744303",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 09:21:01 +0000",
-      "timestamp": 1786526461.0
-    },
-    {
-      "title": "AlphaLab.ai – Run your own AI quant lab",
-      "link": "https://www.alphalab.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 09:17:08 +0000",
-      "timestamp": 1786526228.0
-    },
-    {
-      "title": "Show HN: SoundGate – Real-time note detection and AI tutor for guitar",
-      "link": "https://soundgate.ai/product/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 08:59:38 +0000",
-      "timestamp": 1786525178.0
-    },
-    {
-      "title": "When the AI Bubble Bursts, Who Will Be Left Holding the Bag?",
-      "link": "https://cepr.net/publications/when-the-ai-bubble-bursts-who-will-be-left-holding-the-bag/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 08:53:43 +0000",
-      "timestamp": 1786524823.0
-    },
-    {
-      "title": "A New Label for AI-Generated Artist Identities on Spotify",
-      "link": "https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 08:45:55 +0000",
-      "timestamp": 1786524355.0
-    },
-    {
-      "title": "Do We Need a New Programming Language for the AI Era?",
-      "link": "https://mfallah.com/blog/do-we-need-a-new-programming-language-for-the-ai-era/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 08:37:55 +0000",
-      "timestamp": 1786523875.0
-    },
-    {
-      "title": "Creating a niche AI Benchmark with token anxiety",
-      "link": "https://thijsbrits.nl/blog/20260804/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 08:27:11 +0000",
-      "timestamp": 1786523231.0
-    },
-    {
-      "title": "New AI chip mimics the human brain's capacity for split-second motor control",
-      "link": "https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 08:11:09 +0000",
-      "timestamp": 1786522269.0
-    },
-    {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "link": "https://discoveredmaterials.com/research/",
-      "summary": "Hey HN, we're Advaith and Akash from Discovered Materials ( https://discoveredmaterials.com/ ). We build AI agents that discover new materials for the semiconductor industry. GPUs today have a heat problem. Nvidia & AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Blackwell (2024) gives out 1.2 kW and Rubin (2026) gives out at 2.3 kW of heat. This trend is expected to continue, and getting rid of this heat is one of the major reasons datacenters consume so much power and water today - they need it to keep chips cool",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 07:51:20 +0000",
-      "timestamp": 1786521080.0
-    },
-    {
-      "title": "Turkey's AI dilemma, the impact on entry level jobs for game development",
-      "link": "https://www.windowscentral.com/gaming/ai-game-development-turkey-junior-roles-xbox-layoffs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 07:38:41 +0000",
-      "timestamp": 1786520321.0
-    },
-    {
-      "title": "Mistral to host Z.ai's GLM-5.2",
-      "link": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 07:28:06 +0000",
-      "timestamp": 1786519686.0
-    },
-    {
-      "title": "Building an AI music tool taught me the model wasn't the hard part",
-      "link": "https://www.musegen.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 07:21:04 +0000",
-      "timestamp": 1786519264.0
     },
     {
       "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
@@ -354,15 +363,6 @@
       "timestamp": 1786451832.0
     },
     {
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page. The changes are invisible to human [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-11T08:22:20-04:00",
-      "timestamp": 1786450940.0
-    },
-    {
       "title": "Anthropic says it will watermark text generated by its AI models",
       "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
       "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
@@ -370,15 +370,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 12:13:47 +0000",
       "timestamp": 1786450427.0
-    },
-    {
-      "title": "The AI takeover of mathematics has begun",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-11T07:00:00-04:00",
-      "timestamp": 1786446000.0
     },
     {
       "title": "A New Trick Reveals AI Models’ Inner Thoughts",
