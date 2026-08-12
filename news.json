@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-12T02:42:47.426464+00:00",
+  "scraped_at": "2026-08-12T05:00:58.476128+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Supreme Computation – Fail-closed governance for AI execution",
+      "link": "https://github.com/KnowledgeeKZA3224/scqos-reference-implementation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 03:24:27 +0000",
+      "timestamp": 1786505067.0
+    },
+    {
+      "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
+      "link": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 03:05:07 +0000",
+      "timestamp": 1786503907.0
+    },
+    {
+      "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
+      "link": "https://github.com/JamelHammoud/crew",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 03:00:03 +0000",
+      "timestamp": 1786503603.0
+    },
+    {
+      "title": "The 7T AI Gamble Is Failing. Big Tech Is Trapped",
+      "link": "https://www.youtube.com/watch?v=OunJtLnyPT4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 02:57:11 +0000",
+      "timestamp": 1786503431.0
+    },
     {
       "title": "What job postings say about AI at work – Live report",
       "link": "https://corvi.careers/reports/ai-job-trends/",
@@ -14,7 +50,7 @@
     {
       "title": "Ask HN: Could DNA be represented as \"an embedding\" in an AI model?",
       "link": "https://news.ycombinator.com/item?id=49267234",
-      "summary": "Where each Array element is a numerical value that corresponds to the order of TCAG chemicals on the crossbar of the helix of a DNA strand? Has anyone modeled many DNA strands in this way? If it was done, what kinds of problems could we solve using AI - assuming we could model any known DNA, and predict out generations?",
+      "summary": "Where each Array element is a numerical value that corresponds to the order of TCAG chemicals on the crossbar of the helix of a DNA strand? Has anyone modeled many DNA strands in this way? If it was done, what kinds of problems could we solve using AI - assuming we could model any known DNA, and predict out generations? ----- I guess there are at least a couple options: 1) Model an entire DNA strand as 1 model, with each gene (section of DNA) being a vector. So you'd have, say, a C. elegans model. You could play with that species in an AI sandbox. 2) Model all of DNA (the way we model all of l",
       "image": null,
       "source": "Hacker News (AI)",
       "published": "Wed, 12 Aug 2026 02:38:18 +0000",
@@ -145,42 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 11 Aug 2026 22:57:53 +0000",
       "timestamp": 1786489073.0
-    },
-    {
-      "title": "TSMC Sales Jump 45% YoY on Strong AI Chip Demand but Investors Shrug",
-      "link": "https://www.investors.com/news/technology/tsm-stock-tsmc-july-sales-sox-index/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 22:51:50 +0000",
-      "timestamp": 1786488710.0
-    },
-    {
-      "title": "AI vibe coded game projects suck",
-      "link": "https://asecretarea.com/2026/08/10/ai-vibe-coded-game-projects-suck/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 22:36:03 +0000",
-      "timestamp": 1786487763.0
-    },
-    {
-      "title": "A Simple Answer to AI Job Loss: Tax Capital, Not Labor",
-      "link": "https://www.wsj.com/tech/ai/a-simple-answer-to-ai-job-loss-tax-capital-not-labor-cb900e62",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 22:35:17 +0000",
-      "timestamp": 1786487717.0
-    },
-    {
-      "title": "Anthropic Posts 'How Claude Marks AI-Generated Content' Without Explaining How",
-      "link": "https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 22:30:45 +0000",
-      "timestamp": 1786487445.0
     },
     {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
