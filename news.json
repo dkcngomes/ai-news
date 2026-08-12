@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-08-12T19:18:52.476437+00:00",
+  "scraped_at": "2026-08-12T21:01:40.253832+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Can you tell if a comment is AI?",
+      "link": "https://talkshi.com/blog/reddit-or-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 20:36:46 +0000",
+      "timestamp": 1786567006.0
+    },
+    {
+      "title": "AI Coding and Its Discontents",
+      "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 20:34:15 +0000",
+      "timestamp": 1786566855.0
+    },
+    {
+      "title": "I Asked AI to Write a Novel. It's Not So Bad",
+      "link": "https://www.motherjones.com/politics/2026/08/artificial-intelligence-ai-claude-write-novel-anthropic-copyright-manuscript/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 20:33:12 +0000",
+      "timestamp": 1786566792.0
+    },
+    {
+      "title": "The AI Era Arcs Toward Openness",
+      "link": "https://opensource.org/blog/the-ai-era-arcs-toward-openness",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 20:25:27 +0000",
+      "timestamp": 1786566327.0
+    },
+    {
+      "title": "AI Agent Sandboxes Stop Escapes. They Don't Tell You What Happened Inside",
+      "link": "https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 20:25:22 +0000",
+      "timestamp": 1786566322.0
+    },
+    {
+      "title": "Mathematician Jacob Tsimerman on Getting to the Fun Faster with AI",
+      "link": "https://www.ams.org/journals/notices/202607/noti3372/noti3372.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 20:21:16 +0000",
+      "timestamp": 1786566076.0
+    },
+    {
+      "title": "The Production AI Stack: A Reference Architecture for Real-Time AI Systems",
+      "link": "https://www.moss.dev/blog/the-production-ai-stack",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 20:16:09 +0000",
+      "timestamp": 1786565769.0
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "timestamp": 1786565440.0
+    },
+    {
+      "title": "The Google executive moves that led to its big AI reshuffle",
+      "link": "https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 20:05:38 +0000",
+      "timestamp": 1786565138.0
+    },
+    {
+      "title": "Full red-teaming test ling 3.0 tiny AI. 123-class battery (391 completed records",
+      "link": "https://lateos.ai/ling-3.0-tiny-research/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 19:57:56 +0000",
+      "timestamp": 1786564676.0
+    },
+    {
+      "title": "Drift – Intent-driven versioning for AI coding agents",
+      "link": "https://github.com/lilcipherx/drift",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 19:32:41 +0000",
+      "timestamp": 1786563161.0
+    },
+    {
+      "title": "Show HN: NuFlow, visual, AI powered, low code, dev and deploy platform",
+      "link": "https://deepcortex.com/get-started-1",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 19:31:52 +0000",
+      "timestamp": 1786563112.0
+    },
+    {
+      "title": "AI agents aren't legally responsible for harm they cause. So who is?",
+      "link": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 19:27:08 +0000",
+      "timestamp": 1786562828.0
+    },
+    {
+      "title": "How many AI tools die?",
+      "link": "https://tooldirectory.ai/research/ai-tool-mortality",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 19:22:24 +0000",
+      "timestamp": 1786562544.0
+    },
+    {
+      "title": "Reasons Engineers Hate Their Managers in the Age of AI",
+      "link": "https://hollyafrench.com/2026/08/12/Seven-Reasons-Engineers-Hate-Their-Managers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 19:19:54 +0000",
+      "timestamp": 1786562394.0
+    },
     {
       "title": "Theses on AI",
       "link": "https://smunshi.net/posts/ai-theses.html",
@@ -57,15 +192,6 @@
       "timestamp": 1786558791.0
     },
     {
-      "title": "China's top AI continues using Nvidia amid high costs of local chip transition",
-      "link": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 18:19:18 +0000",
-      "timestamp": 1786558758.0
-    },
-    {
       "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
       "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
       "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
@@ -75,58 +201,13 @@
       "timestamp": 1786558752.0
     },
     {
-      "title": "Twitch Is Mining Peoples' Streams to Train Amazon's AI",
-      "link": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 18:02:18 +0000",
-      "timestamp": 1786557738.0
-    },
-    {
-      "title": "Preview, a production platform for AI video, raises $12M seed led by Sequoia",
-      "link": "https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:56:30 +0000",
-      "timestamp": 1786557390.0
-    },
-    {
-      "title": "Openhare: AI-powered desktop SQL client. Cross-platform. Built with Flutter",
-      "link": "https://github.com/sjjian/openhare",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:51:55 +0000",
-      "timestamp": 1786557115.0
-    },
-    {
-      "title": "Spotify to Begin Labelling AI-Generated Artist Profiles",
-      "link": "https://thequietus.com/news/spotify-to-begin-labelling-ai-generated-artist-profiles/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:51:24 +0000",
-      "timestamp": 1786557084.0
-    },
-    {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
       "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 12 Aug 2026 17:51:00 +0000",
       "timestamp": 1786557060.0
-    },
-    {
-      "title": "A Multi-Agent AI Framework Used to Compromise Government Entities in Asia",
-      "link": "https://dreamgroup.com/blog/inside-a-multi-agent-ai-framework-used-to-compromise-government-entities-in-asia",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:48:47 +0000",
-      "timestamp": 1786556927.0
     },
     {
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
@@ -138,33 +219,6 @@
       "timestamp": 1786556489.0
     },
     {
-      "title": "Show HN: AutoCorrect PC – Autocorrect, predictive text, AI writing for Windows",
-      "link": "https://www.autocorrectforpc.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:39:55 +0000",
-      "timestamp": 1786556395.0
-    },
-    {
-      "title": "AI Tool Aims to Help Conserve Japan's Cherry Trees by Assessing Many Photos",
-      "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20250423-250572/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:35:53 +0000",
-      "timestamp": 1786556153.0
-    },
-    {
-      "title": "AI programming: are you angry yet? [video]",
-      "link": "https://lemire.me/blog/2026/08/12/ai-programming-are-you-angry-yet/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:33:30 +0000",
-      "timestamp": 1786556010.0
-    },
-    {
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
@@ -172,51 +226,6 @@
       "source": "The Verge AI",
       "published": "2026-08-12T13:29:10-04:00",
       "timestamp": 1786555750.0
-    },
-    {
-      "title": "Crypto executives desert the sinking ship for the AI lifeboats",
-      "link": "https://www.independent.ie/business/technology/adrian-weckler-crypto-executives-desert-the-sinking-ship-for-the-ai-lifeboats.-women-and-children-first/a/159706932.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:23:38 +0000",
-      "timestamp": 1786555418.0
-    },
-    {
-      "title": "If AI Accelerates Your Software Factory, Where's the ROI?",
-      "link": "https://johnpietro.com/content/if-ai-accelerates-your-software-factory-wheres-the-roi/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:13:55 +0000",
-      "timestamp": 1786554835.0
-    },
-    {
-      "title": "Development Mindset for AI Programming",
-      "link": "https://news.ycombinator.com/item?id=49275608",
-      "summary": "Most software engineers that learned to build things in the past 10-15 years have a move-fast-break-things mentality. I've found that AI coding really amplifies the downsides of this mentality (pushing broken slop to users), and further depresses the need for very clear thinking on what needs to be built. Since there is no longer an associated cost with building so time spent thinking about what to build is very low. To rectify this situation in my own life, I've been using the V-model while programming with AI agents. This is effectively the meticulous process that medical devices, spaceships",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:10:38 +0000",
-      "timestamp": 1786554638.0
-    },
-    {
-      "title": "Some of tech's CEO suite is cloning itself with AI. What happens next?",
-      "link": "https://www.bbc.com/future/article/20260811-what-its-like-to-meet-an-ai-clone",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:04:36 +0000",
-      "timestamp": 1786554276.0
-    },
-    {
-      "title": "Stop being skeptical about AI for development",
-      "link": "https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:02:54 +0000",
-      "timestamp": 1786554174.0
     },
     {
       "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
@@ -514,15 +523,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 00:03:18 +0000",
       "timestamp": 1786406598.0
-    },
-    {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 10 Aug 2026 23:56:15 +0000",
-      "timestamp": 1786406175.0
     },
     {
       "title": "The AI Slop Backlash Is Actually Having an Impact",
