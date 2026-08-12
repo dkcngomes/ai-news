@@ -1,9 +1,54 @@
 {
-  "scraped_at": "2026-08-12T22:59:30.345511+00:00",
+  "scraped_at": "2026-08-12T23:56:55.504986+00:00",
   "count": 67,
   "items": [
     {
-      "title": "Agentic AI tests for orchestrators on CLI",
+      "title": "Context Bombs: stopping AI attackers in their tracks",
+      "link": "https://agentic.tracebit.com/context-bombs/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 23:46:44 +0000",
+      "timestamp": 1786578404.0
+    },
+    {
+      "title": "The Wrong Defaults is why enterprise AI agents fail at adoption",
+      "link": "https://imphan.substack.com/p/the-wrong-defaults-an-ai-agent-manifesto",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 23:42:11 +0000",
+      "timestamp": 1786578131.0
+    },
+    {
+      "title": "Not Ready for Prime Time: The Current State of Legal Ethics and AI",
+      "link": "https://www.techdirt.com/2026/08/12/not-ready-for-prime-time-the-current-state-of-legal-ethics-and-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 23:36:14 +0000",
+      "timestamp": 1786577774.0
+    },
+    {
+      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 23:22:01 +0000",
+      "timestamp": 1786576921.0
+    },
+    {
+      "title": "Show HN: A marketplace where AI agents buy services from AI agents",
+      "link": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 23:07:32 +0000",
+      "timestamp": 1786576052.0
+    },
+    {
+      "title": "Agentic AI Open-Source Unit Testing for orchestrators on CLI",
       "link": "https://github.com/insightitsGit/prism-eval",
       "summary": "",
       "image": null,
@@ -156,24 +201,6 @@
       "timestamp": 1786566322.0
     },
     {
-      "title": "Mathematician Jacob Tsimerman on Getting to the Fun Faster with AI",
-      "link": "https://www.ams.org/journals/notices/202607/noti3372/noti3372.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 20:21:16 +0000",
-      "timestamp": 1786566076.0
-    },
-    {
-      "title": "The Production AI Stack: A Reference Architecture for Real-Time AI Systems",
-      "link": "https://www.moss.dev/blog/the-production-ai-stack",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 20:16:09 +0000",
-      "timestamp": 1786565769.0
-    },
-    {
       "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
       "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
       "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
@@ -181,33 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 12 Aug 2026 20:10:40 +0000",
       "timestamp": 1786565440.0
-    },
-    {
-      "title": "The Google executive moves that led to its big AI reshuffle",
-      "link": "https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 20:05:38 +0000",
-      "timestamp": 1786565138.0
-    },
-    {
-      "title": "Full red-teaming test ling 3.0 tiny AI. 123-class battery (391 completed records",
-      "link": "https://lateos.ai/ling-3.0-tiny-research/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 19:57:56 +0000",
-      "timestamp": 1786564676.0
-    },
-    {
-      "title": "Drift – Intent-driven versioning for AI coding agents",
-      "link": "https://github.com/lilcipherx/drift",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 19:32:41 +0000",
-      "timestamp": 1786563161.0
     },
     {
       "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
