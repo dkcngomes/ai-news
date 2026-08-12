@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-12T21:01:40.253832+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-12T22:01:36.146997+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "IBM Let Me Inside the Machine Nobody's Watching in the AI Race [video]",
+      "link": "https://www.youtube.com/watch?v=SH00Rso79Gg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 21:51:37 +0000",
+      "timestamp": 1786571497.0
+    },
+    {
+      "title": "AI Course for Golang incorrectly generates content about the Go board game",
+      "link": "https://github.com/nilbuild/developer-roadmap/issues/10226",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 21:38:34 +0000",
+      "timestamp": 1786570714.0
+    },
+    {
+      "title": "Show HN: Remove AI Watermark from Text",
+      "link": "https://nomark.me/#text-watermark",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 21:38:20 +0000",
+      "timestamp": 1786570700.0
+    },
+    {
+      "title": "Rubber Chicken AI",
+      "link": "https://teambuildingschool.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 21:08:36 +0000",
+      "timestamp": 1786568916.0
+    },
+    {
+      "title": "The White House Is Going to Expand Its AI Policy",
+      "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 12 Aug 2026 21:00:00 +0000",
+      "timestamp": 1786568400.0
+    },
+    {
+      "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom",
+      "link": "https://www.wsj.com/tech/ai/why-wall-street-and-nvidia-are-building-an-exotic-money-pipeline-for-the-ai-boom-346ba482",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 20:59:26 +0000",
+      "timestamp": 1786568366.0
+    },
     {
       "title": "Can you tell if a comment is AI?",
       "link": "https://talkshi.com/blog/reddit-or-ai",
@@ -147,24 +201,6 @@
       "timestamp": 1786561794.0
     },
     {
-      "title": "We started tracking which AI model wrote every line, and you should too",
-      "link": "https://twitter.com/lifeofjer/status/2087608101293916466",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 19:05:17 +0000",
-      "timestamp": 1786561517.0
-    },
-    {
-      "title": "Zitron on CNBC talking Nvidia, unprofitable AI labs, and the Greater AI Bubble [video]",
-      "link": "https://www.youtube.com/watch?v=8GWPjTDPVIM",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 18:52:27 +0000",
-      "timestamp": 1786560747.0
-    },
-    {
       "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
       "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
       "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
@@ -172,24 +208,6 @@
       "source": "Wired AI",
       "published": "Wed, 12 Aug 2026 18:45:00 +0000",
       "timestamp": 1786560300.0
-    },
-    {
-      "title": "Adults have struggled to set rules for AI in school. These teens figured it out",
-      "link": "https://text.npr.org/nx-s1-5853571",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 18:21:09 +0000",
-      "timestamp": 1786558869.0
-    },
-    {
-      "title": "I'm Done Using AI",
-      "link": "https://brettcodes.com/im-done-using-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 18:19:51 +0000",
-      "timestamp": 1786558791.0
     },
     {
       "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
@@ -523,15 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 00:03:18 +0000",
       "timestamp": 1786406598.0
-    },
-    {
-      "title": "The AI Slop Backlash Is Actually Having an Impact",
-      "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 10 Aug 2026 11:30:00 +0000",
-      "timestamp": 1786361400.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
