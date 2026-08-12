@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-08-12T06:41:26.154867+00:00",
+  "scraped_at": "2026-08-12T08:38:46.284989+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Creating a niche AI Benchmark with token anxiety",
+      "link": "https://thijsbrits.nl/blog/20260804/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 08:27:11 +0000",
+      "timestamp": 1786523231.0
+    },
+    {
+      "title": "New AI chip mimics the human brain's capacity for split-second motor control",
+      "link": "https://www.livescience.com/technology/electronics/new-ai-chip-mimics-the-human-brains-capacity-for-split-second-motor-control-it-solved-problems-using-10-000-times-fewer-calculations",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 08:11:09 +0000",
+      "timestamp": 1786522269.0
+    },
+    {
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "link": "https://discoveredmaterials.com/research/",
+      "summary": "Hey HN, we're Advaith and Akash from Discovered Materials ( https://discoveredmaterials.com/ ). We build AI agents that discover new materials for the semiconductor industry. GPUs today have a heat problem. Nvidia & AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Blackwell (2024) gives out 1.2 kW and Rubin (2026) gives out at 2.3 kW of heat. This trend is expected to continue, and getting rid of this heat is one of the major reasons datacenters consume so much power and water today - they need it to keep chips cool",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 07:51:20 +0000",
+      "timestamp": 1786521080.0
+    },
+    {
+      "title": "Turkey's AI dilemma, the impact on entry level jobs for game development",
+      "link": "https://www.windowscentral.com/gaming/ai-game-development-turkey-junior-roles-xbox-layoffs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 07:38:41 +0000",
+      "timestamp": 1786520321.0
+    },
+    {
+      "title": "Mistral to host Z.ai's GLM-5.2",
+      "link": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 07:28:06 +0000",
+      "timestamp": 1786519686.0
+    },
+    {
+      "title": "Building an AI music tool taught me the model wasn't the hard part",
+      "link": "https://www.musegen.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 07:21:04 +0000",
+      "timestamp": 1786519264.0
+    },
+    {
+      "title": "A Politician Built an AI Version of His Rival. It Didn't Go as Planned",
+      "link": "https://ai-updates.net/a-politician-built-an-ai-version-of-his-rival-it-didnt-go-as-planned/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 07:09:37 +0000",
+      "timestamp": 1786518577.0
+    },
+    {
+      "title": "Thesis for AI Recursion",
+      "link": "https://news.ycombinator.com/item?id=49268808",
+      "summary": "I have created a thesis on AI recursion using AI, and need critiques.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 07:08:45 +0000",
+      "timestamp": 1786518525.0
+    },
+    {
+      "title": "AI and quantum computers will be frenemies",
+      "link": "https://www.economist.com/science-and-technology/2026/07/29/ai-and-quantum-computers-will-be-frenemies",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 07:02:51 +0000",
+      "timestamp": 1786518171.0
+    },
+    {
+      "title": "Show HN: Execution Intelligence AI Accelerator",
+      "link": "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 07:01:50 +0000",
+      "timestamp": 1786518110.0
+    },
+    {
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "link": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 06:53:17 +0000",
+      "timestamp": 1786517597.0
+    },
     {
       "title": "AI agents ran an autonomous cyberattack on Taiwan",
       "link": "https://www.threads.com/?injected_media_ids=%5B%223961847099071291455%22%5D",
@@ -82,105 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 12 Aug 2026 05:30:12 +0000",
       "timestamp": 1786512612.0
-    },
-    {
-      "title": "Supreme Computation – Fail-closed governance for AI execution",
-      "link": "https://github.com/KnowledgeeKZA3224/scqos-reference-implementation",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 03:24:27 +0000",
-      "timestamp": 1786505067.0
-    },
-    {
-      "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
-      "link": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 03:05:07 +0000",
-      "timestamp": 1786503907.0
-    },
-    {
-      "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
-      "link": "https://github.com/JamelHammoud/crew",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 03:00:03 +0000",
-      "timestamp": 1786503603.0
-    },
-    {
-      "title": "The 7T AI Gamble Is Failing. Big Tech Is Trapped",
-      "link": "https://www.youtube.com/watch?v=OunJtLnyPT4",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 02:57:11 +0000",
-      "timestamp": 1786503431.0
-    },
-    {
-      "title": "What job postings say about AI at work – Live report",
-      "link": "https://corvi.careers/reports/ai-job-trends/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 02:39:01 +0000",
-      "timestamp": 1786502341.0
-    },
-    {
-      "title": "Ask HN: Could DNA be represented as \"an embedding\" in an AI model?",
-      "link": "https://news.ycombinator.com/item?id=49267234",
-      "summary": "Where each Array element is a numerical value that corresponds to the order of TCAG chemicals on the crossbar of the helix of a DNA strand? Has anyone modeled many DNA strands in this way? If it was done, what kinds of problems could we solve using AI - assuming we could model any known DNA, and predict out generations? ----- I guess there are at least a couple options: 1) Model an entire DNA strand as 1 model, with each gene (section of DNA) being a vector. So you'd have, say, a C. elegans model. You could play with that species in an AI sandbox. 2) Model all of DNA (the way we model all of l",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 02:38:18 +0000",
-      "timestamp": 1786502298.0
-    },
-    {
-      "title": "What happens when the AI bubble pops?",
-      "link": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 02:27:35 +0000",
-      "timestamp": 1786501655.0
-    },
-    {
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 02:05:42 +0000",
-      "timestamp": 1786500342.0
-    },
-    {
-      "title": "Numbat by Perplexity: Endpoint visibility into AI agent activity",
-      "link": "https://github.com/perplexityai/numbat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 02:00:26 +0000",
-      "timestamp": 1786500026.0
-    },
-    {
-      "title": "4Chan Chuds Used AI to Clothe Her. She Fought Back (2024)",
-      "link": "https://www.rollingstone.com/culture/culture-news/dignifai-4chan-shame-women-1234961851/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 01:57:47 +0000",
-      "timestamp": 1786499867.0
-    },
-    {
-      "title": "Advanced AI Sycophancy",
-      "link": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 01:38:06 +0000",
-      "timestamp": 1786498686.0
     },
     {
       "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
