@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-12T05:00:58.476128+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-12T06:41:26.154867+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "AI agents ran an autonomous cyberattack on Taiwan",
+      "link": "https://www.threads.com/?injected_media_ids=%5B%223961847099071291455%22%5D",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 06:33:04 +0000",
+      "timestamp": 1786516384.0
+    },
+    {
+      "title": "Swiss public broadcaster to block AI scrapers – except Swiss model Apertus",
+      "link": "https://www.nzz.ch/feuilleton/wir-muessen-uns-verteidigen-warum-susanne-wille-sich-gerade-mit-der-eth-verbuendet-ld.10018097",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 06:28:59 +0000",
+      "timestamp": 1786516139.0
+    },
+    {
+      "title": "China bans AI companions, forcing millions to break up with virtual partners",
+      "link": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 06:21:59 +0000",
+      "timestamp": 1786515719.0
+    },
+    {
+      "title": "Nvidia AI Factory Compute Is Becoming an Investable Asset Class",
+      "link": "https://twitter.com/jensenhuang/status/2086934705207959965",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 05:59:57 +0000",
+      "timestamp": 1786514397.0
+    },
+    {
+      "title": "Studying AI welfare empirically [pdf]",
+      "link": "https://nonhumanminds.org/wp-content/uploads/2026/07/Studying-AI-Welfare-Empirically.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 05:57:53 +0000",
+      "timestamp": 1786514273.0
+    },
+    {
+      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+      "link": "https://www.coinbase.com/en-gb/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 05:54:18 +0000",
+      "timestamp": 1786514058.0
+    },
+    {
+      "title": "Open-source harness builder for AI coding",
+      "link": "https://github.com/coleam00/Archon",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 05:52:54 +0000",
+      "timestamp": 1786513974.0
+    },
+    {
+      "title": "I'm Done Using AI",
+      "link": "https://brettcodes.com/im-done-using-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 05:42:42 +0000",
+      "timestamp": 1786513362.0
+    },
+    {
+      "title": "Show HN: Pragma – Stop copying context between AI agents",
+      "link": "https://github.com/pqpo/pragma",
+      "summary": "I’m currently subscribed to Codex Pro 5x and Gemini, and I also use the DeepSeek API. I have to constantly switch between different CLIs, manually pass context around, and each agent has its own isolated memory. To solve this, I built Pragma: a single interface for interacting with multiple agents. Under the hood, it automatically calls different harnesses and models, passes context between them, and consolidates memory into one shared system. What do you think?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 05:30:12 +0000",
+      "timestamp": 1786512612.0
+    },
     {
       "title": "Supreme Computation – Fail-closed governance for AI execution",
       "link": "https://github.com/KnowledgeeKZA3224/scqos-reference-implementation",
@@ -102,24 +183,6 @@
       "timestamp": 1786498686.0
     },
     {
-      "title": "I built a failover daemon for Vast.ai spot GPUs, found 5 real bugs testing it",
-      "link": "https://github.com/enplabs/spotwarp",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 01:34:47 +0000",
-      "timestamp": 1786498487.0
-    },
-    {
-      "title": "Xirp – Spotify's macOS app for running AI coding agents",
-      "link": "https://xirp.spotify.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 00:56:09 +0000",
-      "timestamp": 1786496169.0
-    },
-    {
       "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
       "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
       "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
@@ -127,60 +190,6 @@
       "source": "The Verge AI",
       "published": "2026-08-11T20:39:26-04:00",
       "timestamp": 1786495166.0
-    },
-    {
-      "title": "Diabetes charity capitalises on AI technology",
-      "link": "https://www.royalgazette.com/health/news/article/20260811/diabetes-charity-capitalises-on-ai-technology/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 00:19:06 +0000",
-      "timestamp": 1786493946.0
-    },
-    {
-      "title": "Open AI models hacked into HuggingFace",
-      "link": "https://www.instagram.com/p/DbGS8_0FmKx/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 23:54:07 +0000",
-      "timestamp": 1786492447.0
-    },
-    {
-      "title": "Geoffrey Hinton's Bad AI Prediction Became a Legend [video]",
-      "link": "https://www.youtube.com/watch?v=mv4EAR0jAUU",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 23:48:28 +0000",
-      "timestamp": 1786492108.0
-    },
-    {
-      "title": "Watching Roku's AI channel is like eating from a trough",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 23:34:11 +0000",
-      "timestamp": 1786491251.0
-    },
-    {
-      "title": "AI Adoption Is a Myth",
-      "link": "https://twitter.com/vasuman/status/2085806422072418632",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 23:23:28 +0000",
-      "timestamp": 1786490608.0
-    },
-    {
-      "title": "LLM Model-Swapping Trick Can Expose AI Reasoning Traces",
-      "link": "https://ai-updates.net/model-swapping-exposes-ai-reasoning-traces/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 11 Aug 2026 22:57:53 +0000",
-      "timestamp": 1786489073.0
     },
     {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
