@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-12T18:06:01.006885+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-12T19:18:52.476437+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Theses on AI",
+      "link": "https://smunshi.net/posts/ai-theses.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 19:09:54 +0000",
+      "timestamp": 1786561794.0
+    },
+    {
+      "title": "We started tracking which AI model wrote every line, and you should too",
+      "link": "https://twitter.com/lifeofjer/status/2087608101293916466",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 19:05:17 +0000",
+      "timestamp": 1786561517.0
+    },
+    {
+      "title": "Zitron on CNBC talking Nvidia, unprofitable AI labs, and the Greater AI Bubble [video]",
+      "link": "https://www.youtube.com/watch?v=8GWPjTDPVIM",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 18:52:27 +0000",
+      "timestamp": 1786560747.0
+    },
+    {
+      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 12 Aug 2026 18:45:00 +0000",
+      "timestamp": 1786560300.0
+    },
+    {
+      "title": "Adults have struggled to set rules for AI in school. These teens figured it out",
+      "link": "https://text.npr.org/nx-s1-5853571",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 18:21:09 +0000",
+      "timestamp": 1786558869.0
+    },
+    {
+      "title": "I'm Done Using AI",
+      "link": "https://brettcodes.com/im-done-using-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 18:19:51 +0000",
+      "timestamp": 1786558791.0
+    },
+    {
+      "title": "China's top AI continues using Nvidia amid high costs of local chip transition",
+      "link": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 12 Aug 2026 18:19:18 +0000",
+      "timestamp": 1786558758.0
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 12 Aug 2026 18:19:12 +0000",
+      "timestamp": 1786558752.0
+    },
     {
       "title": "Twitch Is Mining Peoples' Streams to Train Amazon's AI",
       "link": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
@@ -59,7 +131,7 @@
     {
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 12 Aug 2026 17:41:29 +0000",
@@ -147,49 +219,13 @@
       "timestamp": 1786554174.0
     },
     {
-      "title": "Ask HN: What's your team's SDLC look like in this AI world?",
-      "link": "https://news.ycombinator.com/item?id=49275494",
-      "summary": "Our company is changing its Software Development Lifecycle (SDLC). Curious to hear from others what theirs looks like overall + bottlenecks. Ours: - 1 week planning/retro, 6 weeks implementation (basically six 1-week sprints). - Standup now mainly demoing what Engineering/Design is working on, getting quick feedback from teammates. - Meetings are recorded/transcribed. Agents generate Product Requirement + System Design docs from those meetings. - Push to have non-engineers be able to commit code, but engineering still responsible for shipping it. Unsolved issues/bottlenecks: - Ephemeral test e",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 17:02:20 +0000",
-      "timestamp": 1786554140.0
-    },
-    {
-      "title": "AI 'productivity pollution': the hidden tax on everyone",
-      "link": "https://www.machinesociety.ai/p/productivitypollution",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 16:58:09 +0000",
-      "timestamp": 1786553889.0
-    },
-    {
       "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
       "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 12 Aug 2026 16:57:58 +0000",
       "timestamp": 1786553878.0
-    },
-    {
-      "title": "A few strong opinions about AI",
-      "link": "https://noisydeadlines.net/a-few-strong-opinions-about-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 16:54:43 +0000",
-      "timestamp": 1786553683.0
-    },
-    {
-      "title": "Can AI do novel security research? Meet the HTTP Terminator",
-      "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 16:52:28 +0000",
-      "timestamp": 1786553548.0
     },
     {
       "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
@@ -199,33 +235,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 12 Aug 2026 16:46:02 +0000",
       "timestamp": 1786553162.0
-    },
-    {
-      "title": "Beijing is forcing a mass breakup with AI lovers",
-      "link": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 16:42:34 +0000",
-      "timestamp": 1786552954.0
-    },
-    {
-      "title": "Shaping AI",
-      "link": "https://www.shapingai.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 16:32:23 +0000",
-      "timestamp": 1786552343.0
-    },
-    {
-      "title": "Show HN: Tanchi – Open-source AI prospecting agent that only automates email",
-      "link": "https://github.com/tanchihq/tanchi",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 12 Aug 2026 16:28:30 +0000",
-      "timestamp": 1786552110.0
     },
     {
       "title": "Lovable confirms new $13.3B valuation, raises another $400M",
@@ -516,15 +525,6 @@
       "timestamp": 1786406175.0
     },
     {
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 10 Aug 2026 20:53:02 +0000",
-      "timestamp": 1786395182.0
-    },
-    {
       "title": "The AI Slop Backlash Is Actually Having an Impact",
       "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
       "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
@@ -532,15 +532,6 @@
       "source": "Wired AI",
       "published": "Mon, 10 Aug 2026 11:30:00 +0000",
       "timestamp": 1786361400.0
-    },
-    {
-      "title": "The Rise of the 1 am Job Interview",
-      "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
-      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 10 Aug 2026 10:30:00 +0000",
-      "timestamp": 1786357800.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
