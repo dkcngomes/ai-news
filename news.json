@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-13T08:42:35.360393+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-13T10:21:11.086061+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "Google's AI Doctor Experiment Separates Conversation from Clinical Reasoning",
+      "link": "https://ai-updates.net/google-video-doctor-separates-conversation-clinical-reasoning/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 10:18:14 +0000",
+      "timestamp": 1786616294.0
+    },
+    {
+      "title": "What we're learning about AI memory (and why most of it doesn't work yet)",
+      "link": "https://www.reddit.com/r/staynimble/s/XKEYgCpwln",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 10:13:07 +0000",
+      "timestamp": 1786615987.0
+    },
+    {
+      "title": "Sherlock – AI Face Search",
+      "link": "https://play.google.com/store/apps/details?id=com.popyakter.sherlock&hl=en",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 10:12:46 +0000",
+      "timestamp": 1786615966.0
+    },
+    {
+      "title": "AI 2027 Tracker: Tracking predictions from the AI 2027 scenario against reality",
+      "link": "https://ai2027-tracker.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 09:46:53 +0000",
+      "timestamp": 1786614413.0
+    },
+    {
+      "title": "Affordable AI+human insight helped us close 40yr sporadic group Galois problem",
+      "link": "https://www.shaowuzhang.com/files/how-we-found-m23.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 09:37:04 +0000",
+      "timestamp": 1786613824.0
+    },
+    {
+      "title": "Twitch now uses your channel to train generative AI by default",
+      "link": "https://twitter.com/zachbussey/status/2087573860929478785",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 09:14:31 +0000",
+      "timestamp": 1786612471.0
+    },
+    {
+      "title": "Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching",
+      "link": "https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 09:12:23 +0000",
+      "timestamp": 1786612343.0
+    },
+    {
+      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+      "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "timestamp": 1786611600.0
+    },
+    {
+      "title": "AI Agents Enable Adaptive Computer Worms",
+      "link": "https://arxiv.org/abs/2606.03811",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 08:52:44 +0000",
+      "timestamp": 1786611164.0
+    },
     {
       "title": "I built an AI video upscaler that runs the heavy GPU work in the cloud",
       "link": "https://videoupscaler.com",
@@ -109,69 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Thu, 13 Aug 2026 06:32:49 +0000",
       "timestamp": 1786602769.0
-    },
-    {
-      "title": "AI translates 5k-year-old cuneiform tablets instantly – Big Think",
-      "link": "https://bigthink.com/the-future/ai-translates-cuneiform/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 06:29:24 +0000",
-      "timestamp": 1786602564.0
-    },
-    {
-      "title": "My AI agents shipped 128 releases of a product no one ever used",
-      "link": "https://bramo.ai/blog/01-post-mortem",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 06:26:55 +0000",
-      "timestamp": 1786602415.0
-    },
-    {
-      "title": "Over 70% of Americans oppose AI data centers; US protests intensify",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 06:12:07 +0000",
-      "timestamp": 1786601527.0
-    },
-    {
-      "title": "Chinese censorship is leaking into answers from American AI",
-      "link": "https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 06:02:42 +0000",
-      "timestamp": 1786600962.0
-    },
-    {
-      "title": "AIPass – AI agents with persistent identity, memory, and email",
-      "link": "https://github.com/AIOSAI/AIPass",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 05:46:04 +0000",
-      "timestamp": 1786599964.0
-    },
-    {
-      "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
-      "link": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 05:27:51 +0000",
-      "timestamp": 1786598871.0
-    },
-    {
-      "title": "Watermarks-remover: Strip multi-vendor AI provenance marks",
-      "link": "https://github.com/guillaumemeyer/watermarks-remover",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 05:21:36 +0000",
-      "timestamp": 1786598496.0
     },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
@@ -523,15 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 11 Aug 2026 10:00:00 +0000",
       "timestamp": 1786442400.0
-    },
-    {
-      "title": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
-      "link": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
-      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 11 Aug 2026 09:00:00 +0000",
-      "timestamp": 1786438800.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
