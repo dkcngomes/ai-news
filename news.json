@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-13T05:02:57.458958+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-13T06:44:00.134832+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "SPAR – Fall 2026 AI Safety Research Projects",
+      "link": "https://sparai.org/projects/f26/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 06:32:49 +0000",
+      "timestamp": 1786602769.0
+    },
+    {
+      "title": "AI translates 5k-year-old cuneiform tablets instantly – Big Think",
+      "link": "https://bigthink.com/the-future/ai-translates-cuneiform/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 06:29:24 +0000",
+      "timestamp": 1786602564.0
+    },
+    {
+      "title": "My AI agents shipped 128 releases of a product no one ever used",
+      "link": "https://bramo.ai/blog/01-post-mortem",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 06:26:55 +0000",
+      "timestamp": 1786602415.0
+    },
+    {
+      "title": "Over 70% of Americans oppose AI data centers; US protests intensify",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 06:12:07 +0000",
+      "timestamp": 1786601527.0
+    },
+    {
+      "title": "Chinese censorship is leaking into answers from American AI",
+      "link": "https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 06:02:42 +0000",
+      "timestamp": 1786600962.0
+    },
+    {
+      "title": "AIPass – AI agents with persistent identity, memory, and email",
+      "link": "https://github.com/AIOSAI/AIPass",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 05:46:04 +0000",
+      "timestamp": 1786599964.0
+    },
+    {
+      "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+      "link": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 05:27:51 +0000",
+      "timestamp": 1786598871.0
+    },
+    {
+      "title": "Watermarks-remover: Strip multi-vendor AI provenance marks",
+      "link": "https://github.com/guillaumemeyer/watermarks-remover",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 05:21:36 +0000",
+      "timestamp": 1786598496.0
+    },
+    {
+      "title": "How do I self-host a good-looking AI generated website",
+      "link": "https://news.ycombinator.com/item?id=49281976",
+      "summary": "I'm happy to use a service, but most come with hosting plans, and I just want the code so I can host it on my own website. I'm a long-term software developer of the type that isn't good at UI/UX (i.e. scroll bars are the devil, and the mouse isn't much better). I'm soon to do UI as part of my masters degree as part of my redemption arc, but I need something in the meantime, and I'm trying to be efficient with my search :)",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 05:08:48 +0000",
+      "timestamp": 1786597728.0
+    },
     {
       "title": "Lossless codec for AI agent messages – 36% fewer tokens, overhead counted",
       "link": "https://github.com/reh8n/a2acompress",
@@ -91,96 +172,6 @@
       "source": "Hacker News (AI)",
       "published": "Thu, 13 Aug 2026 02:37:27 +0000",
       "timestamp": 1786588647.0
-    },
-    {
-      "title": "Doable: Self-hosted AI app builder for teams",
-      "link": "https://github.com/doable-me/Doable",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 02:33:07 +0000",
-      "timestamp": 1786588387.0
-    },
-    {
-      "title": "AI Hype Is Running into Reality",
-      "link": "https://www.nytimes.com/2026/08/12/opinion/ai-bubble-economy-crash.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 02:11:06 +0000",
-      "timestamp": 1786587066.0
-    },
-    {
-      "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 01:50:27 +0000",
-      "timestamp": 1786585827.0
-    },
-    {
-      "title": "Video game lawyer says all her clients have anti-AI contracts",
-      "link": "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 01:47:38 +0000",
-      "timestamp": 1786585658.0
-    },
-    {
-      "title": "Apple and AI: Siri the Early Years",
-      "link": "https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 01:41:19 +0000",
-      "timestamp": 1786585279.0
-    },
-    {
-      "title": "The web's newest weapon against AI scrapers is a font",
-      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 01:30:31 +0000",
-      "timestamp": 1786584631.0
-    },
-    {
-      "title": "NagaAI – Cheaper AI Aggregator (Like Poe, OpenRouter, etc.)",
-      "link": "https://naga.ac",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 01:16:07 +0000",
-      "timestamp": 1786583767.0
-    },
-    {
-      "title": "Jeff Dean has been in talks for a $10B valuation for his new AI startup",
-      "link": "https://www.businessinsider.com/former-google-exec-jeff-dean-valuation-for-new-ai-startup-2026-8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 01:09:10 +0000",
-      "timestamp": 1786583350.0
-    },
-    {
-      "title": "What is AI governance and how to operationalize it?",
-      "link": "https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 01:02:09 +0000",
-      "timestamp": 1786582929.0
-    },
-    {
-      "title": "Fenix Flexin Admits He Used AI for \"Rubberz\"",
-      "link": "https://stereogum.com/2507554/fenix-flexin-finally-admits-he-used-ai-for-rubberz/news",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 00:11:36 +0000",
-      "timestamp": 1786579896.0
     },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
