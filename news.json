@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-08-13T06:44:00.134832+00:00",
+  "scraped_at": "2026-08-13T08:42:35.360393+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "I built an AI video upscaler that runs the heavy GPU work in the cloud",
+      "link": "https://videoupscaler.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 08:29:35 +0000",
+      "timestamp": 1786609775.0
+    },
+    {
+      "title": "Twitch Now Trains Amazon's Generative AI Models on Your Channel by Default",
+      "link": "https://www.ign.com/articles/twitch-now-trains-amazons-generative-ai-models-on-your-channel-by-default",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 08:26:44 +0000",
+      "timestamp": 1786609604.0
+    },
+    {
+      "title": "Show HN: Relational-to-KV – AI maps relational models to ToplingDB/RocksDB",
+      "link": "https://github.com/rockeet/relational-to-kv",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 07:58:16 +0000",
+      "timestamp": 1786607896.0
+    },
+    {
+      "title": "Twitch CPO squirms, admits everyone hates its new AI training 'feature'",
+      "link": "https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 07:35:17 +0000",
+      "timestamp": 1786606517.0
+    },
+    {
+      "title": "Recast uses hyper-resolution AI weather model",
+      "link": "https://www.recastsystems.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 07:34:53 +0000",
+      "timestamp": 1786606493.0
+    },
+    {
+      "title": "Putting Sign Language AI into Users Hands",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 07:15:38 +0000",
+      "timestamp": 1786605338.0
+    },
+    {
+      "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+      "link": "https://comma.ai/shop/chestnut",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 07:10:08 +0000",
+      "timestamp": 1786605008.0
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 07:02:17 +0000",
+      "timestamp": 1786604537.0
+    },
+    {
+      "title": "Why Japanese firms are being so slow to use AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 06:53:53 +0000",
+      "timestamp": 1786604033.0
+    },
+    {
+      "title": "Web Scraper was translated into 50 languages with AI",
+      "link": "https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 06:45:53 +0000",
+      "timestamp": 1786603553.0
+    },
+    {
+      "title": "Samsung used AI to cut a chip-verification loop 15–30×",
+      "link": "https://www.echohive.ai/ai-engineering-acceleration",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 06:37:50 +0000",
+      "timestamp": 1786603070.0
+    },
     {
       "title": "SPAR – Fall 2026 AI Safety Research Projects",
       "link": "https://sparai.org/projects/f26/",
@@ -73,105 +172,6 @@
       "source": "Hacker News (AI)",
       "published": "Thu, 13 Aug 2026 05:21:36 +0000",
       "timestamp": 1786598496.0
-    },
-    {
-      "title": "How do I self-host a good-looking AI generated website",
-      "link": "https://news.ycombinator.com/item?id=49281976",
-      "summary": "I'm happy to use a service, but most come with hosting plans, and I just want the code so I can host it on my own website. I'm a long-term software developer of the type that isn't good at UI/UX (i.e. scroll bars are the devil, and the mouse isn't much better). I'm soon to do UI as part of my masters degree as part of my redemption arc, but I need something in the meantime, and I'm trying to be efficient with my search :)",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 05:08:48 +0000",
-      "timestamp": 1786597728.0
-    },
-    {
-      "title": "Lossless codec for AI agent messages – 36% fewer tokens, overhead counted",
-      "link": "https://github.com/reh8n/a2acompress",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 04:33:28 +0000",
-      "timestamp": 1786595608.0
-    },
-    {
-      "title": "AI to Kids by Letting Them Tweak Local Chatbots [video]",
-      "link": "https://www.youtube.com/watch?v=fNkt41q7eqs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 04:13:50 +0000",
-      "timestamp": 1786594430.0
-    },
-    {
-      "title": "16GB EGPU for AI Inference, $699",
-      "link": "https://www.amazon.com/GIGABYTE-Graphics-128-bit-Server-Grade-Thunderbolt/dp/B0GKFHSPN8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 03:54:29 +0000",
-      "timestamp": 1786593269.0
-    },
-    {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "link": "https://openai.com/index/how-enterprises-put-ai-to-work/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 03:29:19 +0000",
-      "timestamp": 1786591759.0
-    },
-    {
-      "title": "Examples for use of AI and especially LLMs in major mathematical developments",
-      "link": "https://mathoverflow.net/questions/502120/examples-for-the-use-of-ai-and-especially-llms-in-major-mathematical-development",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 03:14:34 +0000",
-      "timestamp": 1786590874.0
-    },
-    {
-      "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
-      "link": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
-      "summary": "We just released the first public results from the Agent Memory Leaderboard (AML). The first evaluation focuses on Text Memory across two tracks: - Open-source Methods - Commercial Products 136 teams registered, and 69 representative memory frameworks completed the first evaluation. Commercial Products — Text Memory: 1. MemoraX — 58.02 2. MemOS — 45.89 3. NTES-MEMORY-SMART — 44.21 The benchmark uses a common evaluation framework and a clearer system boundary: Memory system: Add → Search Benchmark: Answer → Eval The goal is to make memory-system results more comparable and reproducible.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 03:09:45 +0000",
-      "timestamp": 1786590585.0
-    },
-    {
-      "title": "Show HN: I'm tired replying my social media visitors, I let AI agent handle it",
-      "link": "https://www.agle.app/",
-      "summary": "Agle answers questions, handles complaints, completes tasks, books meetings, and routes important issues to me — automatically, 24/7.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 03:03:13 +0000",
-      "timestamp": 1786590193.0
-    },
-    {
-      "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
-      "link": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 02:50:02 +0000",
-      "timestamp": 1786589402.0
-    },
-    {
-      "title": "When Will AI Take My Job?",
-      "link": "https://www.whenwillaitakemyjob.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 02:47:22 +0000",
-      "timestamp": 1786589242.0
-    },
-    {
-      "title": "The next AI interface may not be a chatbot",
-      "link": "https://hajek.no/posts/2026/next-ai-interface-not-chatbot",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 02:37:27 +0000",
-      "timestamp": 1786588647.0
     },
     {
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
