@@ -1,7 +1,25 @@
 {
-  "scraped_at": "2026-08-13T23:00:28.956149+00:00",
+  "scraped_at": "2026-08-13T23:57:24.415347+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "How AI text watermarking works",
+      "link": "https://declaude.org/watermarking/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 23:16:55 +0000",
+      "timestamp": 1786663015.0
+    },
+    {
+      "title": "AI is learning clinical judgment by practicing on simulated patients",
+      "link": "https://www.echohive.ai/ai-clinical-residency",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 23:08:39 +0000",
+      "timestamp": 1786662519.0
+    },
     {
       "title": "An anchoring layer between facts and AI memory",
       "link": "https://github.com/Anchorstate-Lab/GMR",
@@ -199,24 +217,6 @@
       "source": "Hacker News (AI)",
       "published": "Thu, 13 Aug 2026 20:28:48 +0000",
       "timestamp": 1786652928.0
-    },
-    {
-      "title": "AI's $1.65T Hidden Debt Problem",
-      "link": "https://rubbishtalk.com/finance/ais-1-65-trillion-hidden-debt-problem/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 20:27:18 +0000",
-      "timestamp": 1786652838.0
-    },
-    {
-      "title": "Arca Sophia Open-Core–Edge AI and Scada Telemetry Filter in Docker (AGPLv3)",
-      "link": "https://github.com/Nodo9/arca-sophia-open-core",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 20:26:12 +0000",
-      "timestamp": 1786652772.0
     },
     {
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
