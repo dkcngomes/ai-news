@@ -1,7 +1,151 @@
 {
-  "scraped_at": "2026-08-13T13:45:33.707789+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-13T15:13:55.262392+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 13 Aug 2026 15:08:00 +0000",
+      "timestamp": 1786633680.0
+    },
+    {
+      "title": "The study that would tell us if faster AI coding models help doesn't exist",
+      "link": "https://viborc.com/can-faster-ai-inference-give-developers-their-flow-back/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 14:53:36 +0000",
+      "timestamp": 1786632816.0
+    },
+    {
+      "title": "Ken Thompson on AI",
+      "link": "https://www.tuhs.org/pipermail/tuhs/2026-August/034121.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 14:52:15 +0000",
+      "timestamp": 1786632735.0
+    },
+    {
+      "title": "Show HN: A Way for AI agents to support you with regulatory compliance",
+      "link": "https://rulemesh.com/how-it-works",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 14:48:03 +0000",
+      "timestamp": 1786632483.0
+    },
+    {
+      "title": "Dynatrace to Acquire AI Observability Leader Arize",
+      "link": "https://ir.dynatrace.com/news-events/press-releases/detail/435/dynatrace-to-acquire-ai-observability-leader-arize",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 14:39:13 +0000",
+      "timestamp": 1786631953.0
+    },
+    {
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 13 Aug 2026 14:34:43 +0000",
+      "timestamp": 1786631683.0
+    },
+    {
+      "title": "Show HN: SightDiff – before/after visual proof of what your AI agent changed",
+      "link": "https://sightdiff.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 14:33:37 +0000",
+      "timestamp": 1786631617.0
+    },
+    {
+      "title": "Show HN: IronBee – an AI QA engineer that tests your Vercel preview on every PR",
+      "link": "https://medium.com/@serkan_ozal/your-ai-qa-engineer-now-runs-on-every-vercel-preview-16ca2d9dc03a",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 14:27:28 +0000",
+      "timestamp": 1786631248.0
+    },
+    {
+      "title": "Memento – Shared, durable memory for multiple AI agents, with MCP access",
+      "link": "https://rcarmo.github.io/projects/memento/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 14:23:16 +0000",
+      "timestamp": 1786630996.0
+    },
+    {
+      "title": "BYOK library for tracking AI search, MIT License",
+      "link": "https://lettertrace.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 14:19:13 +0000",
+      "timestamp": 1786630753.0
+    },
+    {
+      "title": "Ask HN: Small team devs – how do you collab with UI/UX designers in the AI era?",
+      "link": "https://news.ycombinator.com/item?id=49286334",
+      "summary": "Running a 2 person product company, my cofounder (product designer by trade) and I are struggling to get the design/dev process right as AI transforms the way we ship. There are a couple of interrelated problems: 1. As we move faster and a higher proportion of our frontend code is AI generated it means more minor UI bugs and inconsistencies. These are generally things that could be zero-shotted by an agent but from what I've found the agentic coding tools for existing mid-sized codebases tend to be developer-focused and not easy for a designer to setup/use. 2. Everything was originally designe",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 14:16:30 +0000",
+      "timestamp": 1786630590.0
+    },
+    {
+      "title": "Does Google even want to win at AI?",
+      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-13T10:10:31-04:00",
+      "timestamp": 1786630231.0
+    },
+    {
+      "title": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
+      "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 13:57:01 +0000",
+      "timestamp": 1786629421.0
+    },
+    {
+      "title": "The Human Is the Loop – By Petar Djukic – ML and AI Ottawa [video]",
+      "link": "https://www.youtube.com/watch?v=KU_AsbMm6I0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 13:53:09 +0000",
+      "timestamp": 1786629189.0
+    },
+    {
+      "title": "Show HN: Delphi – Build your own AI trading agent in seconds",
+      "link": "https://tradewithdelphi.com/",
+      "summary": "We built a tool to help anyone trade regardless of experience level. Type a strategy, test on historical data, play with simulated money and deploy to a brokerage. You don’t have to stare at Robinhood all day or constantly check Reddit for what people are saying about a stock. Our agents do all the heavy-lifting for you.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 13:47:35 +0000",
+      "timestamp": 1786628855.0
+    },
+    {
+      "title": "Proactive AI Will Automate Organizations",
+      "link": "https://maximilianmews.com/proactive-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 13:36:48 +0000",
+      "timestamp": 1786628208.0
+    },
     {
       "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
       "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
@@ -73,114 +217,6 @@
       "source": "Hacker News (AI)",
       "published": "Thu, 13 Aug 2026 12:53:03 +0000",
       "timestamp": 1786625583.0
-    },
-    {
-      "title": "Free private memory across every AI you use on-device",
-      "link": "https://sovseal.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 12:40:44 +0000",
-      "timestamp": 1786624844.0
-    },
-    {
-      "title": "Trying to fill out a PDF with AI",
-      "link": "https://twitter.com/DanielLockyer/status/2087542891677671526",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 12:35:41 +0000",
-      "timestamp": 1786624541.0
-    },
-    {
-      "title": "Show HN: AI Flight Recorder – record, replay, and track AI session costs",
-      "link": "https://github.com/AllThingsSmitty/ai-flight-recorder",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 12:30:28 +0000",
-      "timestamp": 1786624228.0
-    },
-    {
-      "title": "A ledger of which of your own AI architectural decisions you could defend",
-      "link": "https://github.com/Dupflo/decision-ledger",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 12:26:05 +0000",
-      "timestamp": 1786623965.0
-    },
-    {
-      "title": "Show HN: RBEK – governed execution for AI agent",
-      "link": "https://github.com/rbekplatform/rbek",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 12:24:38 +0000",
-      "timestamp": 1786623878.0
-    },
-    {
-      "title": "Banning Open-Weight AI Models Could Cost America the AI Race",
-      "link": "https://www.realclearmarkets.com/articles/2026/08/13/banning_open-weight_ai_models_could_cost_america_the_ai_race_1199984.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 12:19:02 +0000",
-      "timestamp": 1786623542.0
-    },
-    {
-      "title": "Ask HN: How to deal with gen AI as an gen AI-resistant person",
-      "link": "https://news.ycombinator.com/item?id=49284799",
-      "summary": "Context: I don't like LLMs and code generators. I prefer doing things the old-fashioned way – code using my brain, write design docs while doing research. I became more flexible about vibe coding, but I still prefer to review Claude's PRs carefully. I'm a staff engineer with 10 years of experience in the industry but I caught myself not understanding a thing about agentic development, token usage, models, and I do have some FOMO but I also don't really care so much... However, to survive, I need to be up to date with that trend, no matter if I believe that the AI bubble is a PsyOp. Anyone in t",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 12:14:08 +0000",
-      "timestamp": 1786623248.0
-    },
-    {
-      "title": "Show HN: I graded 83 AI vendors on data residency, training and subprocessors",
-      "link": "https://sovereignairegistry.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 12:12:17 +0000",
-      "timestamp": 1786623137.0
-    },
-    {
-      "title": "It May Be Time to Panic About AI",
-      "link": "https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 12:08:38 +0000",
-      "timestamp": 1786622918.0
-    },
-    {
-      "title": "Ya Diktu: The Pre-Print from the AI Engineer Who Cracked Linear A",
-      "link": "https://zenodo.org/records/21903482",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 11:44:07 +0000",
-      "timestamp": 1786621447.0
-    },
-    {
-      "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 11:24:11 +0000",
-      "timestamp": 1786620251.0
-    },
-    {
-      "title": "Apple in Talks to Pay Publishers to Improve AI-Powered Siri",
-      "link": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 11:17:57 +0000",
-      "timestamp": 1786619877.0
     },
     {
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
@@ -471,15 +507,6 @@
       "timestamp": 1786470082.0
     },
     {
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "summary": "On August 12, 2026, Google revealed a bunch of new Pixel devices. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google&#8217;s Gemini AI and other features. Google also showed off its next-gen Pixel Fold featuring thinner bezels, alongside a [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-11T13:00:00-04:00",
-      "timestamp": 1786467600.0
-    },
-    {
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
       "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
       "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
@@ -489,15 +516,6 @@
       "timestamp": 1786465520.0
     },
     {
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "timestamp": 1786453200.0
-    },
-    {
       "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
       "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
       "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
@@ -505,15 +523,6 @@
       "source": "Wired AI",
       "published": "Tue, 11 Aug 2026 12:37:12 +0000",
       "timestamp": 1786451832.0
-    },
-    {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 11 Aug 2026 12:13:47 +0000",
-      "timestamp": 1786450427.0
     },
     {
       "title": "A New Trick Reveals AI Models’ Inner Thoughts",
