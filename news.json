@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-08-13T22:01:56.337997+00:00",
+  "scraped_at": "2026-08-13T23:00:28.956149+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "An anchoring layer between facts and AI memory",
+      "link": "https://github.com/Anchorstate-Lab/GMR",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 22:52:33 +0000",
+      "timestamp": 1786661553.0
+    },
+    {
+      "title": "Further Developments About Internal AI Models Hacking Things",
+      "link": "https://thezvi.substack.com/p/further-developments-about-internal",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 22:50:46 +0000",
+      "timestamp": 1786661446.0
+    },
+    {
+      "title": "Show HN: AI Slop Kitchen",
+      "link": "https://play-kitchen.netlify.app/",
+      "summary": "I've been vibe coding small games with my 3 year old. We stumbled upon this kitchen format",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 22:49:47 +0000",
+      "timestamp": 1786661387.0
+    },
+    {
+      "title": "Think of AI as a lens, not a person",
+      "link": "https://aethermug.com/posts/gen-ai-is-a-lens-into-humanity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 22:45:53 +0000",
+      "timestamp": 1786661153.0
+    },
+    {
+      "title": "The Safety Reckoning Inside OpenAI",
+      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 13 Aug 2026 22:37:19 +0000",
+      "timestamp": 1786660639.0
+    },
+    {
+      "title": "Using AI chatbots? Here are four ways to reduce the energy drain",
+      "link": "https://knowablemagazine.org/content/article/food-environment/2026/four-ways-to-reduce-energy-use-with-ai-chatbots",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 22:30:16 +0000",
+      "timestamp": 1786660216.0
+    },
+    {
+      "title": "AI Looms over Software Companies – and the Investors Who Piled into Them",
+      "link": "https://www.bloomberg.com/graphics/2026-ai-private-equity-software/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 22:26:47 +0000",
+      "timestamp": 1786660007.0
+    },
+    {
+      "title": "ParleHub – Enterprise AI Collaboration and Cost Control – Launch Today on PH",
+      "link": "https://parlehub.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 22:23:36 +0000",
+      "timestamp": 1786659816.0
+    },
+    {
+      "title": "AI #181: Astra Goes Cyber Critical",
+      "link": "https://thezvi.substack.com/p/ai-181-astra-goes-cyber-critical",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 22:12:42 +0000",
+      "timestamp": 1786659162.0
+    },
+    {
+      "title": "I Build Production Software by Directing AI",
+      "link": "https://medium.com/@chrissharp80/how-i-build-production-software-by-directing-ai-710902b4933e",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 22:06:52 +0000",
+      "timestamp": 1786658812.0
+    },
     {
       "title": "Terence Tao: Mathematics in the Age of AI (Lecture)",
       "link": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
@@ -39,7 +129,7 @@
       "timestamp": 1786655821.0
     },
     {
-      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
       "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
       "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
       "image": null,
@@ -138,60 +228,6 @@
       "timestamp": 1786652079.0
     },
     {
-      "title": "AutoProver: AI agents and formal methods for intent, specs, bugs analysis",
-      "link": "https://app.certora.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 20:02:24 +0000",
-      "timestamp": 1786651344.0
-    },
-    {
-      "title": "Forklane AI – Public Beta Launch",
-      "link": "https://forklane.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:50:05 +0000",
-      "timestamp": 1786650605.0
-    },
-    {
-      "title": "Show HN: Clixad – Free AI coding agent in the terminal, funded by an offerwall",
-      "link": "https://clixad.io/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:46:53 +0000",
-      "timestamp": 1786650413.0
-    },
-    {
-      "title": "Leveraging Requirements Engineering for AI Coding Tool Success",
-      "link": "https://cacm.acm.org/news/leveraging-requirements-engineering-for-ai-coding-tool-success/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:41:48 +0000",
-      "timestamp": 1786650108.0
-    },
-    {
-      "title": "I built a lint for AI-generated evidence",
-      "link": "https://apify.com/filipmajchrzak/ai-claim-checkpoint",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:40:38 +0000",
-      "timestamp": 1786650038.0
-    },
-    {
-      "title": "Yaak.ai Physical AI OS: copper-rs",
-      "link": "https://www.yaak.ai/blog/yaak-x-copper",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:34:29 +0000",
-      "timestamp": 1786649669.0
-    },
-    {
       "title": "OpenAI is losing its second executive this week",
       "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
       "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
@@ -201,15 +237,6 @@
       "timestamp": 1786649319.0
     },
     {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:25:38 +0000",
-      "timestamp": 1786649138.0
-    },
-    {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
       "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
@@ -217,24 +244,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 19:22:40 +0000",
       "timestamp": 1786648960.0
-    },
-    {
-      "title": "Ask HN: How much money do you spend monthly on subscriptions for AI models?",
-      "link": "https://news.ycombinator.com/item?id=49290713",
-      "summary": "Monthly total for all AI model subscriptions for personal use, with a breakdown of which models you use and for what purpose (coding side projects, AI assistants, etc.). You can also mention how much you spend monthly on AI tools for professional work that your company pays for.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:21:36 +0000",
-      "timestamp": 1786648896.0
-    },
-    {
-      "title": "Jeff Dean: The 1% Rule for Building in AI [video]",
-      "link": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:20:09 +0000",
-      "timestamp": 1786648809.0
     },
     {
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 11 Aug 2026 12:37:12 +0000",
       "timestamp": 1786451832.0
-    },
-    {
-      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-      "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-      "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 11 Aug 2026 11:00:00 +0000",
-      "timestamp": 1786446000.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
