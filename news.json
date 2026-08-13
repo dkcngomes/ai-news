@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-13T16:09:26.390806+00:00",
+  "scraped_at": "2026-08-13T17:11:11.177282+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "timestamp": 1786640833.0
+    },
+    {
+      "title": "AI isn't ready to research itself",
+      "link": "https://www.nature.com/articles/d41586-026-02494-5",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:02:18 +0000",
+      "timestamp": 1786640538.0
+    },
+    {
+      "title": "The Download: kids' thoughts on AI, and female clones of male mice",
+      "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:01:17 +0000",
+      "timestamp": 1786640477.0
+    },
+    {
+      "title": "Five European companies just agreed to buy AI compute that doesn't exist yet",
+      "link": "https://thenewstack.io/mistral-third-party-open-models/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 16:47:20 +0000",
+      "timestamp": 1786639640.0
+    },
+    {
+      "title": "Does AI save time at work?",
+      "link": "https://censuseasy.com/blog/does-ai-save-time-at-work",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 16:46:21 +0000",
+      "timestamp": 1786639581.0
+    },
+    {
+      "title": "Amazon loses US court ban on Perplexity's AI shopping tools",
+      "link": "https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 16:32:28 +0000",
+      "timestamp": 1786638748.0
+    },
+    {
+      "title": "Build more with AI while burning fewer tokens",
+      "link": "https://datapilot.justgotalead.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 16:25:47 +0000",
+      "timestamp": 1786638347.0
+    },
+    {
+      "title": "Solving the Identity Crisis for AI Agents",
+      "link": "https://www.uber.com/us/en/blog/solving-the-agent-identity-crisis/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 16:24:28 +0000",
+      "timestamp": 1786638268.0
+    },
+    {
+      "title": "We Have AI at Home Chapter 1: A Box of Scraps",
+      "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 16:22:05 +0000",
+      "timestamp": 1786638125.0
+    },
+    {
+      "title": "4-Year follow-up on buying pandemic stock dip and AI reallocation",
+      "link": "https://gmays.com/4-year-follow-up-on-buying-pandemic-stock-dip-ai-reallocation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 16:21:59 +0000",
+      "timestamp": 1786638119.0
+    },
+    {
+      "title": "Perplexity blocks Time's ads served to AI agents, calling them 'deceptive'",
+      "link": "https://digiday.com/media/perplexity-blocks-times-ads-served-to-ai-agents-calling-them-deceptive/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 16:16:54 +0000",
+      "timestamp": 1786637814.0
+    },
+    {
+      "title": "OpenCV AI Competition 2026",
+      "link": "https://opencv.org/opencv-ai-competition-2026/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 16:12:26 +0000",
+      "timestamp": 1786637546.0
+    },
     {
       "title": "Employees are replacing themselves with AI faster than management does it",
       "link": "https://www.geekbeard.dev/p/nobody-pays-100k-for-curation",
@@ -111,15 +219,6 @@
       "timestamp": 1786634184.0
     },
     {
-      "title": "Show HN: Nanosamur.ai – open-source private speech AI platform",
-      "link": "https://github.com/nanosamurai/nanosamurai",
-      "summary": "nanosamur.ai is an open-source speech AI platform for organizations that cannot send sensitive conversations to a third party. It lets you capture, transcribe, refine, and process speech entirely inside infrastructure you control. Last couple of years I have been consulting for some organizations that work with sensitive data and have to keep them in air gapped environments and based on those experiences I built and open-sourced nanosamur.ai I wanted a speech-to-text stack that could run completely inside customer-controlled infrastructure, and that would not be just a local app you install to",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:13:51 +0000",
-      "timestamp": 1786634031.0
-    },
-    {
       "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
       "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
       "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
@@ -129,69 +228,6 @@
       "timestamp": 1786633680.0
     },
     {
-      "title": "Text AI watermarks will always be trivial to remove",
-      "link": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:07:10 +0000",
-      "timestamp": 1786633630.0
-    },
-    {
-      "title": "Not so competent AI overlords",
-      "link": "https://pauljacobson.me/2026/08/12/not-so-competent-ai-overlords/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:05:48 +0000",
-      "timestamp": 1786633548.0
-    },
-    {
-      "title": "The Cloudflare AI Psychosis",
-      "link": "https://opensauce.it/cloudflare-ai-psychosis/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:05:26 +0000",
-      "timestamp": 1786633526.0
-    },
-    {
-      "title": "The study that would tell us if faster AI coding models help doesn't exist",
-      "link": "https://viborc.com/can-faster-ai-inference-give-developers-their-flow-back/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 14:53:36 +0000",
-      "timestamp": 1786632816.0
-    },
-    {
-      "title": "Ken Thompson on AI",
-      "link": "https://www.tuhs.org/pipermail/tuhs/2026-August/034121.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 14:52:15 +0000",
-      "timestamp": 1786632735.0
-    },
-    {
-      "title": "Show HN: A Way for AI agents to support you with regulatory compliance",
-      "link": "https://rulemesh.com/how-it-works",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 14:48:03 +0000",
-      "timestamp": 1786632483.0
-    },
-    {
-      "title": "Dynatrace to Acquire AI Observability Leader Arize",
-      "link": "https://ir.dynatrace.com/news-events/press-releases/detail/435/dynatrace-to-acquire-ai-observability-leader-arize",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 14:39:13 +0000",
-      "timestamp": 1786631953.0
-    },
-    {
       "title": "Apple in talks to pay publishers to provide Siri with current news: report",
       "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
       "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
@@ -199,33 +235,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 14:34:43 +0000",
       "timestamp": 1786631683.0
-    },
-    {
-      "title": "Show HN: SightDiff – before/after visual proof of what your AI agent changed",
-      "link": "https://sightdiff.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 14:33:37 +0000",
-      "timestamp": 1786631617.0
-    },
-    {
-      "title": "Show HN: IronBee – an AI QA engineer that tests your Vercel preview on every PR",
-      "link": "https://medium.com/@serkan_ozal/your-ai-qa-engineer-now-runs-on-every-vercel-preview-16ca2d9dc03a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 14:27:28 +0000",
-      "timestamp": 1786631248.0
-    },
-    {
-      "title": "Memento – Shared, durable memory for multiple AI agents, with MCP access",
-      "link": "https://rcarmo.github.io/projects/memento/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 14:23:16 +0000",
-      "timestamp": 1786630996.0
     },
     {
       "title": "Does Google even want to win at AI?",
@@ -505,15 +514,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 11 Aug 2026 17:41:34 +0000",
       "timestamp": 1786470094.0
-    },
-    {
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 11 Aug 2026 17:41:22 +0000",
-      "timestamp": 1786470082.0
     },
     {
       "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
