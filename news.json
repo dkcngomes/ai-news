@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-13T21:01:50.223896+00:00",
+  "scraped_at": "2026-08-13T22:01:56.337997+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Terence Tao: Mathematics in the Age of AI (Lecture)",
+      "link": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 21:52:50 +0000",
+      "timestamp": 1786657970.0
+    },
+    {
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-13T17:42:38-04:00",
+      "timestamp": 1786657358.0
+    },
+    {
+      "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
+      "link": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 21:40:53 +0000",
+      "timestamp": 1786657253.0
+    },
+    {
+      "title": "Mistral AI Strategy",
+      "link": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 21:17:01 +0000",
+      "timestamp": 1786655821.0
+    },
+    {
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 13 Aug 2026 21:14:43 +0000",
+      "timestamp": 1786655683.0
+    },
+    {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 13 Aug 2026 21:13:24 +0000",
+      "timestamp": 1786655604.0
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:7",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 20:59:25 +0000",
+      "timestamp": 1786654765.0
+    },
     {
       "title": "Oneiric – an open-source AI short film [video]",
       "link": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
@@ -174,15 +237,6 @@
       "timestamp": 1786648809.0
     },
     {
-      "title": "The Buzzword-Driven Development Manifesto (AI Edition)",
-      "link": "https://github.com/gabert/buzzword-driven-development",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:19:54 +0000",
-      "timestamp": 1786648794.0
-    },
-    {
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
       "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
@@ -190,33 +244,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 19:19:49 +0000",
       "timestamp": 1786648789.0
-    },
-    {
-      "title": "Intelligence CIOs Warn AI Agents Could Accelerate Cyberattacks",
-      "link": "https://govciomedia.com/intelligence-cios-warn-ai-agents-could-accelerate-cyberattacks/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:14:26 +0000",
-      "timestamp": 1786648466.0
-    },
-    {
-      "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
-      "link": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:04:52 +0000",
-      "timestamp": 1786647892.0
-    },
-    {
-      "title": "Show HN: MLTraining Free AI/ML training resources for everyone",
-      "link": "https://mltraining.org/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 19:02:59 +0000",
-      "timestamp": 1786647779.0
     },
     {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
@@ -230,7 +257,7 @@
     {
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 17:07:13 +0000",
@@ -471,24 +498,6 @@
       "timestamp": 1786536574.0
     },
     {
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-12T07:58:54-04:00",
-      "timestamp": 1786535934.0
-    },
-    {
-      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 12 Aug 2026 11:00:00 +0000",
-      "timestamp": 1786532400.0
-    },
-    {
       "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
       "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
       "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 11 Aug 2026 11:00:00 +0000",
       "timestamp": 1786446000.0
-    },
-    {
-      "title": "AI Is Dead. Organoids Are Alive",
-      "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 11 Aug 2026 10:00:00 +0000",
-      "timestamp": 1786442400.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
