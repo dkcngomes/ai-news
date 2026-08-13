@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-13T17:11:11.177282+00:00",
+  "scraped_at": "2026-08-13T18:06:09.255157+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Video: I'm Done Coding with AI",
+      "link": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:54:03 +0000",
+      "timestamp": 1786643643.0
+    },
+    {
+      "title": "We spent ten years burying the 10x engineer myth. AI is digging it back up",
+      "link": "https://maxence.maireaux.fr/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:40:15 +0000",
+      "timestamp": 1786642815.0
+    },
+    {
+      "title": "Ask HN: What's slop? what's AI written text and why read/not read?",
+      "link": "https://news.ycombinator.com/item?id=49289341",
+      "summary": "Question, I check HN often, and noticed the trend towards \"it's obvious that was written by AI so I didn't read it\", or couldn't handle it, or hate the way the prose it's written. And a similar behavior towards AI generated code, also mirrored by multiple AI policies around AI submitted patches/PRs. Now question, say you have an idea about x product, or y improvement as a patch to a OSS, or whatever where AI can help you, then you a) outsource to this team of people, local to you, same language, you can go and say hi to the person working on it, then don't review the output and put on github b",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:37:33 +0000",
+      "timestamp": 1786642653.0
+    },
+    {
+      "title": "Fundable – the AI platform for fund and asset managers",
+      "link": "https://fundableai.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:28:53 +0000",
+      "timestamp": 1786642133.0
+    },
+    {
+      "title": "Surfil On-device control plane for AI coding agents",
+      "link": "https://surfil.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:24:30 +0000",
+      "timestamp": 1786641870.0
+    },
+    {
+      "title": "Why Google killed its best argument for AI",
+      "link": "https://www.hardresetmedia.com/p/why-google-killed-its-best-argument",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:22:33 +0000",
+      "timestamp": 1786641753.0
+    },
+    {
+      "title": "Anthropic in talks to buy Decart AI for $6B",
+      "link": "https://www.reuters.com/technology/anthropic-talks-buy-decart-ai-source-says-2026-08-13/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:13:48 +0000",
+      "timestamp": 1786641228.0
+    },
+    {
+      "title": "Natural Language Processing (NLP) Explained – AI and Human Language",
+      "link": "https://bytetality.com/reviews/86-natural-language-processing-nlp-explained-ai-human-language",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:12:13 +0000",
+      "timestamp": 1786641133.0
+    },
+    {
+      "title": "Rails Is Built for AI",
+      "link": "https://rubyonrails.org/ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 17:09:24 +0000",
+      "timestamp": 1786640964.0
+    },
     {
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
@@ -111,24 +192,6 @@
       "timestamp": 1786637546.0
     },
     {
-      "title": "Employees are replacing themselves with AI faster than management does it",
-      "link": "https://www.geekbeard.dev/p/nobody-pays-100k-for-curation",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 16:04:16 +0000",
-      "timestamp": 1786637056.0
-    },
-    {
-      "title": "ApplyWise – AI tools for tailoring your CV to a specific job",
-      "link": "https://applywise.eu/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 16:00:21 +0000",
-      "timestamp": 1786636821.0
-    },
-    {
       "title": "Suno is trying to look more like a real music production tool",
       "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
       "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, [&#8230;]",
@@ -136,33 +199,6 @@
       "source": "The Verge AI",
       "published": "2026-08-13T12:00:00-04:00",
       "timestamp": 1786636800.0
-    },
-    {
-      "title": "Show HN: A open-source AI-native coding agent",
-      "link": "https://github.com/missingstudio/eva",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:55:33 +0000",
-      "timestamp": 1786636533.0
-    },
-    {
-      "title": "Turning static interfaces into interactive AI experiences",
-      "link": "https://wzrd.to",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:48:42 +0000",
-      "timestamp": 1786636122.0
-    },
-    {
-      "title": "Who Vets AI's Code? The Scale Challenge Facing Open Source Ingestion",
-      "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:34:53 +0000",
-      "timestamp": 1786635293.0
     },
     {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -181,42 +217,6 @@
       "source": "The Verge AI",
       "published": "2026-08-13T11:30:00-04:00",
       "timestamp": 1786635000.0
-    },
-    {
-      "title": "Design with a Soul: How to make your Vibe-coded site not look like AI Slop",
-      "link": "https://news.ycombinator.com/item?id=49287430",
-      "summary": "I have some tips on how to make your site / app feel real and human even if it's vibe coded. - I'm not a graphics designer but I've worked with many and deeply interested in it for 15 years. - I led a UX team in a 50K+ organisation - I've launched 6+ businesses and did countless websites. So here's how I do it -- I'm not saying THIS IS THE WAY to do it. This is HOW I DO IT. 1) Whiteboard. Sit your ass down, put some music on you find inspirational and imagine what you want your users to feel. What type of an \"ambiance\" this site should have? Energetic, calming, playful, serious? Pick 1 or 2 as",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:25:00 +0000",
-      "timestamp": 1786634700.0
-    },
-    {
-      "title": "Forward Deployed Executives – The Next Billion-Dollar AI Unblock",
-      "link": "https://www.rickmanelius.com/p/forward-deployed-executives-the-next",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:22:01 +0000",
-      "timestamp": 1786634521.0
-    },
-    {
-      "title": "AI Changes the Economics of JIT Compilers",
-      "link": "https://malisper.me/how-ai-changes-the-economics-of-jit-compilers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:18:17 +0000",
-      "timestamp": 1786634297.0
-    },
-    {
-      "title": "Prepin – AI that interviews engineers with voice and live coding",
-      "link": "https://prepin.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 15:16:24 +0000",
-      "timestamp": 1786634184.0
     },
     {
       "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
