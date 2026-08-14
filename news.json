@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-14T11:09:21.526324+00:00",
+  "scraped_at": "2026-08-14T11:56:05.525218+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output",
+      "link": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:43:38 +0000",
+      "timestamp": 1786707818.0
+    },
+    {
+      "title": "My Anti AI Computer",
+      "link": "https://punkx.org/jackdoe/home.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:37:40 +0000",
+      "timestamp": 1786707460.0
+    },
+    {
+      "title": "Model Context Protocol (MCP) Explained: How AI Agents Connect to Any Tool",
+      "link": "https://stikastudio.com/blog/what-is-model-context-protocol/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:36:38 +0000",
+      "timestamp": 1786707398.0
+    },
+    {
+      "title": "Dashboard tracking math problems being solved by AI",
+      "link": "https://vibemathed.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:33:50 +0000",
+      "timestamp": 1786707230.0
+    },
+    {
+      "title": "Show HN: LinkGravity – chat and voice bridge for AI coding agents",
+      "link": "https://github.com/dev-sseul/linkgravity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:28:38 +0000",
+      "timestamp": 1786706918.0
+    },
+    {
+      "title": "AI companies destroy physical books. Help scan rare books, with rewards",
+      "link": "https://fr.annas-archive.gl/blog/physical-destruction.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:22:13 +0000",
+      "timestamp": 1786706533.0
+    },
+    {
+      "title": "Philosophy Journal Publishes Largely AI-Authored Article – On Purpose",
+      "link": "https://dailynous.com/2026/08/13/philosophy-journal-publishes-largely-ai-authored-article-on-purpose-guest-post/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:20:47 +0000",
+      "timestamp": 1786706447.0
+    },
+    {
+      "title": "Ask HN: Does AI watermarking present a new attack vector?",
+      "link": "https://news.ycombinator.com/item?id=49297267",
+      "summary": "One thing I have not been able to determine from Claude's documentation on watermarking[0] is what kind of metadata they store in association with a given watermark. Ostensibly they could make the fingerprints as unique as they want, possibly down to the exact time, user and session. If so, this seems like hidden risk that AI users are probably not considering. Any code you write now carries information that you might not want revealed. If a bad actor gets the keys then they may be able to de-anonymous open source contributors who want to stay hidden. Or perhaps enough fingerprints across a sa",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:20:01 +0000",
+      "timestamp": 1786706401.0
+    },
     {
       "title": "Show HN: Genosyn – Automate running of companies with AI",
       "link": "https://genosyn.com",
@@ -111,15 +183,6 @@
       "timestamp": 1786699763.0
     },
     {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-14T05:21:17-04:00",
-      "timestamp": 1786699277.0
-    },
-    {
       "title": "Drift Anchor -quick access to your proven AI prompts",
       "link": "https://microsoftedge.microsoft.com/addons/detail/dpedbbcbfmpjjonjolngjjpclkgahlpm",
       "summary": "",
@@ -138,78 +201,6 @@
       "timestamp": 1786697323.0
     },
     {
-      "title": "Show HN: Security scanner for SaaS build with AI",
-      "link": "https://sentrint.com/sample",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 08:37:03 +0000",
-      "timestamp": 1786696623.0
-    },
-    {
-      "title": "Noviz AI open source code launched for ERP agent architecture",
-      "link": "https://news.ycombinator.com/item?id=49296015",
-      "summary": "Open source code for ERP agent integration open sourcecode and architecture launched",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 08:28:02 +0000",
-      "timestamp": 1786696082.0
-    },
-    {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "link": "https://openai.com/index/how-enterprises-put-ai-to-work/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 08:24:26 +0000",
-      "timestamp": 1786695866.0
-    },
-    {
-      "title": "Ask HN: Move AI news from Hacker News to somewhere else?",
-      "link": "https://news.ycombinator.com/item?id=49295962",
-      "summary": "There seems to be a real need for updated news on all the latest AI models, pricing, performance, how to self host the models and legislations. Is it really hacking or is just AI business news? Maybe it is time to move AI news to somewhere else? May be it would have been best if the Lisp/Arc developers at Y Combinator would be kind enough to implement a filter for AI news?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 08:18:54 +0000",
-      "timestamp": 1786695534.0
-    },
-    {
-      "title": "OpenAI's Hugging Face Breach Fuels Fresh Calls for AI Regulation",
-      "link": "https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 08:11:38 +0000",
-      "timestamp": 1786695098.0
-    },
-    {
-      "title": "Ask HN: How do you use AI for learning?",
-      "link": "https://news.ycombinator.com/item?id=49295839",
-      "summary": "This is an interesting use case that gets talked about much less, and potentially one that is more useful than software development. Especially now that everyone is relying heavily on AI and even forgetting things they used to know. Have you explored this yourself or found any existing workflows for mastering technologies, concepts, theory, basically everything that we have traditionally learned manually, from university onward?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 07:57:52 +0000",
-      "timestamp": 1786694272.0
-    },
-    {
-      "title": "Comma AI Introducing Chestnut",
-      "link": "https://blog.comma.ai/chestnut/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 07:56:51 +0000",
-      "timestamp": 1786694211.0
-    },
-    {
-      "title": "Connecticut judge says plaintiff hid messages for AI in court filings",
-      "link": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 07:53:24 +0000",
-      "timestamp": 1786694004.0
-    },
-    {
       "title": "The Safety Reckoning Inside OpenAI",
       "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
       "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
@@ -217,15 +208,6 @@
       "source": "Wired AI",
       "published": "Thu, 13 Aug 2026 22:37:19 +0000",
       "timestamp": 1786660639.0
-    },
-    {
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-13T17:42:38-04:00",
-      "timestamp": 1786657358.0
     },
     {
       "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
@@ -253,15 +235,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 20:14:39 +0000",
       "timestamp": 1786652079.0
-    },
-    {
-      "title": "OpenAI is losing its second executive this week",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-13T15:28:39-04:00",
-      "timestamp": 1786649319.0
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -525,6 +498,24 @@
       "timestamp": 1786543200.0
     },
     {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-12T08:09:34-04:00",
+      "timestamp": 1786536574.0
+    },
+    {
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-12T07:58:54-04:00",
+      "timestamp": 1786535934.0
+    },
+    {
       "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
       "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
       "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
@@ -541,6 +532,15 @@
       "source": "Wired AI",
       "published": "Wed, 12 Aug 2026 10:30:00 +0000",
       "timestamp": 1786530600.0
+    },
+    {
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-11T20:39:26-04:00",
+      "timestamp": 1786495166.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
