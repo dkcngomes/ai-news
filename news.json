@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-08-14T08:36:46.699390+00:00",
+  "scraped_at": "2026-08-14T10:15:53.611237+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 14 Aug 2026 10:15:00 +0000",
+      "timestamp": 1786702500.0
+    },
+    {
+      "title": "WordPress Plugin Generator with AI",
+      "link": "https://steem.dev",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 10:03:26 +0000",
+      "timestamp": 1786701806.0
+    },
+    {
+      "title": "Deep-Imager|One-Stop AI Image Generation Platform",
+      "link": "https://news.ycombinator.com/item?id=49296669",
+      "summary": "deep-imager: One-stop AI image platform.Turn text into stunning AI images. Optimize images based on the original, remove backgrounds, watermarks, text, emojis, etc. Explore templates and a gallery of AI art. Register free to create and download. https://deep-imager.com",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 10:02:17 +0000",
+      "timestamp": 1786701737.0
+    },
+    {
+      "title": "Building a software factory for AI SDK",
+      "link": "https://vercel.com/blog/building-a-software-factory-for-ai-sdk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 09:58:42 +0000",
+      "timestamp": 1786701522.0
+    },
+    {
+      "title": "EU AI Act and C2PA: What Article 50 Requires",
+      "link": "https://c2paviewer.com/articles/eu-ai-act-content-credentials",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 09:41:22 +0000",
+      "timestamp": 1786700482.0
+    },
+    {
+      "title": "Show HN: OpenComplAI – open-source EU AI Act compliance checks in CI/CD",
+      "link": "https://github.com/opencomplai/opencomplai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 09:29:23 +0000",
+      "timestamp": 1786699763.0
+    },
+    {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-14T05:21:17-04:00",
+      "timestamp": 1786699277.0
+    },
+    {
+      "title": "Drift Anchor -quick access to your proven AI prompts",
+      "link": "https://microsoftedge.microsoft.com/addons/detail/dpedbbcbfmpjjonjolngjjpclkgahlpm",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 09:17:46 +0000",
+      "timestamp": 1786699066.0
+    },
+    {
+      "title": "Are You Using AI? Do Not Forget Your Whip",
+      "link": "https://skyecleary.substack.com/p/are-you-using-ai-do-not-forget-your",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 08:48:43 +0000",
+      "timestamp": 1786697323.0
+    },
+    {
+      "title": "Show HN: Security scanner for SaaS build with AI",
+      "link": "https://sentrint.com/sample",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 08:37:03 +0000",
+      "timestamp": 1786696623.0
+    },
     {
       "title": "Noviz AI open source code launched for ERP agent architecture",
       "link": "https://news.ycombinator.com/item?id=49296015",
@@ -109,78 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 14 Aug 2026 07:26:34 +0000",
       "timestamp": 1786692394.0
-    },
-    {
-      "title": "Apple and AI: Siri the Early Years",
-      "link": "https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 07:18:51 +0000",
-      "timestamp": 1786691931.0
-    },
-    {
-      "title": "PandaOS is the local AI workspace for builders",
-      "link": "https://pandaos.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 07:10:52 +0000",
-      "timestamp": 1786691452.0
-    },
-    {
-      "title": "Noviz AI is a architecture and sourcecode for ERP AI agents",
-      "link": "https://news.ycombinator.com/item?id=49295533",
-      "summary": "Noviz AI is a complete ERP AI connector source code built for ERPNext, designed with an extensible architecture that can be adapted to connect AI agents with other ERP systems. It provides the core components for connecting AI agents to ERP business data, APIs, workflows, and operations.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 07:08:29 +0000",
-      "timestamp": 1786691309.0
-    },
-    {
-      "title": "The Body Remembers but the Doctor Cannot- Experiments with AI in Personal Health",
-      "link": "https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 06:59:53 +0000",
-      "timestamp": 1786690793.0
-    },
-    {
-      "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030",
-      "link": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 06:48:28 +0000",
-      "timestamp": 1786690108.0
-    },
-    {
-      "title": "Duxpath AI",
-      "link": "https://news.ycombinator.com/item?id=49295396",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 06:44:30 +0000",
-      "timestamp": 1786689870.0
-    },
-    {
-      "title": "Evaluating AI SRE Agents in Production (OpenSRE) – Evaluation",
-      "link": "https://one2n.io/blog/how-to-evaluate-ai-sre-agents-for-production",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 06:44:10 +0000",
-      "timestamp": 1786689850.0
-    },
-    {
-      "title": "Show HN: WinCore – Open-Source Windows Utilities for AI and PyTorch",
-      "link": "https://github.com/FWKMultiverse/WinCore",
-      "summary": "WinCore is a free and open-source Python library designed specifically to address practical problems when working with AI and PyTorch on Windows. It provides utilities for CPU/GPU management, memory handling, diagnostics, system detection, PyTorch compilation and precision, multi-GPU workflows, Windows-aware I/O, caching, and more. WinCore 0.6.3 is now publicly released. It has not yet been tested across every hardware, driver, Python, and PyTorch configuration, so I’m looking for people working with AI/PyTorch on Windows to try it out and help identify issues. If you encounter a problem or ha",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 06:26:14 +0000",
-      "timestamp": 1786688774.0
     },
     {
       "title": "The Safety Reckoning Inside OpenAI",
@@ -498,15 +516,6 @@
       "timestamp": 1786543200.0
     },
     {
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-12T08:09:34-04:00",
-      "timestamp": 1786536574.0
-    },
-    {
       "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
       "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
       "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Wed, 12 Aug 2026 09:30:00 +0000",
       "timestamp": 1786527000.0
-    },
-    {
-      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-      "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 11 Aug 2026 12:37:12 +0000",
-      "timestamp": 1786451832.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
