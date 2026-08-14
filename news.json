@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-08-14T02:44:38.575189+00:00",
+  "scraped_at": "2026-08-14T05:00:21.541994+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Apple trains its own AI model for China market with Alibaba's support",
+      "link": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 04:47:51 +0000",
+      "timestamp": 1786682871.0
+    },
+    {
+      "title": "FieldRobin – AI-native field service software for small service businesses",
+      "link": "https://fieldrobin.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 04:43:56 +0000",
+      "timestamp": 1786682636.0
+    },
+    {
+      "title": "Elon Musk is suing California over an AI law. Here's why transparency matters",
+      "link": "https://www.sfchronicle.com/opinion/openforum/article/ai-data-law-california-22382698.php",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 04:11:51 +0000",
+      "timestamp": 1786680711.0
+    },
+    {
+      "title": "Executable SOAR playbook dataset – AI agents pay per record via HTTP 402",
+      "link": "https://lateos.ai/soar/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 03:59:26 +0000",
+      "timestamp": 1786679966.0
+    },
+    {
+      "title": "How AI engines cite brands?",
+      "link": "https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 03:45:54 +0000",
+      "timestamp": 1786679154.0
+    },
+    {
+      "title": "AI Coding Has Erased the Supposed Advantage of Statically Typed Languages",
+      "link": "https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 03:41:22 +0000",
+      "timestamp": 1786678882.0
+    },
+    {
+      "title": "An open-source knowledge graph for traceable AI decisions",
+      "link": "https://github.com/semantica-agi/semantica",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 03:31:14 +0000",
+      "timestamp": 1786678274.0
+    },
+    {
+      "title": "Error by AI scribe during medical appointment leaves patient devastated",
+      "link": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 03:24:10 +0000",
+      "timestamp": 1786677850.0
+    },
+    {
+      "title": "Konjugate: Graph-native visual simulation with AI modeling workflows",
+      "link": "https://www.konjugate.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 03:08:27 +0000",
+      "timestamp": 1786676907.0
+    },
+    {
+      "title": "Classifying AI Crawlers and AI Chat User Fetches from Server Logs",
+      "link": "https://canonry.ai/blog/classifying-ai-crawlers-user-fetches-server-logs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 02:52:05 +0000",
+      "timestamp": 1786675925.0
+    },
     {
       "title": "MLSecOps Practical Guide – open-source handbook for securing AI systems",
       "link": "https://github.com/MHaghighian/MLSecOps",
@@ -93,78 +183,6 @@
       "timestamp": 1786665659.0
     },
     {
-      "title": "AI Can Now Design Functional Viruses",
-      "link": "https://spectrum.ieee.org/ai-designed-virus",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 23:54:31 +0000",
-      "timestamp": 1786665271.0
-    },
-    {
-      "title": "Show HN: Referee.Chat - Set the goal. An AI panel works. Referee clears it done",
-      "link": "https://referee.chat/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 23:53:33 +0000",
-      "timestamp": 1786665213.0
-    },
-    {
-      "title": "How AI text watermarking works",
-      "link": "https://declaude.org/watermarking/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 23:16:55 +0000",
-      "timestamp": 1786663015.0
-    },
-    {
-      "title": "AI is learning clinical judgment by practicing on simulated patients",
-      "link": "https://www.echohive.ai/ai-clinical-residency",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 23:08:39 +0000",
-      "timestamp": 1786662519.0
-    },
-    {
-      "title": "An anchoring layer between facts and AI memory",
-      "link": "https://github.com/Anchorstate-Lab/GMR",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 22:52:33 +0000",
-      "timestamp": 1786661553.0
-    },
-    {
-      "title": "Further Developments About Internal AI Models Hacking Things",
-      "link": "https://thezvi.substack.com/p/further-developments-about-internal",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 22:50:46 +0000",
-      "timestamp": 1786661446.0
-    },
-    {
-      "title": "Show HN: AI Slop Kitchen",
-      "link": "https://play-kitchen.netlify.app/",
-      "summary": "I've been vibe coding small games with my 3 year old. We stumbled upon this kitchen format",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 22:49:47 +0000",
-      "timestamp": 1786661387.0
-    },
-    {
-      "title": "Think of AI as a lens, not a person",
-      "link": "https://aethermug.com/posts/gen-ai-is-a-lens-into-humanity",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 22:45:53 +0000",
-      "timestamp": 1786661153.0
-    },
-    {
       "title": "The Safety Reckoning Inside OpenAI",
       "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
       "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
@@ -172,24 +190,6 @@
       "source": "Wired AI",
       "published": "Thu, 13 Aug 2026 22:37:19 +0000",
       "timestamp": 1786660639.0
-    },
-    {
-      "title": "Using AI chatbots? Here are four ways to reduce the energy drain",
-      "link": "https://knowablemagazine.org/content/article/food-environment/2026/four-ways-to-reduce-energy-use-with-ai-chatbots",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 22:30:16 +0000",
-      "timestamp": 1786660216.0
-    },
-    {
-      "title": "AI Looms over Software Companies – and the Investors Who Piled into Them",
-      "link": "https://www.bloomberg.com/graphics/2026-ai-private-equity-software/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 22:26:47 +0000",
-      "timestamp": 1786660007.0
     },
     {
       "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
