@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-13T23:57:24.415347+00:00",
+  "scraped_at": "2026-08-14T02:44:38.575189+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "MLSecOps Practical Guide – open-source handbook for securing AI systems",
+      "link": "https://github.com/MHaghighian/MLSecOps",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 02:33:32 +0000",
+      "timestamp": 1786674812.0
+    },
+    {
+      "title": "The next frontier in AI governance isn't stronger guardrails. It's fire brigades",
+      "link": "https://www.fastcompany.com/91583956/the-next-frontier-in-ai-governance-isnt-stronger-guardrails-its-fire-brigades-technology-ai-safety-governance",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 02:21:25 +0000",
+      "timestamp": 1786674085.0
+    },
+    {
+      "title": "Agentstow: Canonical configs, fanned out to all your AI coding agents",
+      "link": "https://agentstow.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 02:20:16 +0000",
+      "timestamp": 1786674016.0
+    },
+    {
+      "title": "Tax Law Is Funding the AI Infrastructure Boom, Not Creating It",
+      "link": "https://news.bloombergtax.com/tax-insights-and-commentary/tax-law-is-funding-the-ai-infrastructure-boom-not-creating-it",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 02:16:35 +0000",
+      "timestamp": 1786673795.0
+    },
+    {
+      "title": "Muxxy: Like Slime, for AI and Tmux",
+      "link": "https://blog.djhaskin.com/blog/muxxy-like-slime-for-ai-tmux/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 01:57:34 +0000",
+      "timestamp": 1786672654.0
+    },
+    {
+      "title": "DeepMind's Hassabis Pitched AI-Oversight Body Before Shake-Up",
+      "link": "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 01:48:38 +0000",
+      "timestamp": 1786672118.0
+    },
+    {
+      "title": "Silicon Valley's AI boom is remaking American charity",
+      "link": "https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 01:28:57 +0000",
+      "timestamp": 1786670937.0
+    },
+    {
+      "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
+      "link": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 00:40:56 +0000",
+      "timestamp": 1786668056.0
+    },
+    {
+      "title": "Agentrove: Self-hosted AI workspace for orchestrating coding agents",
+      "link": "https://github.com/Mng-dev-ai/agentrove",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 00:38:40 +0000",
+      "timestamp": 1786667920.0
+    },
+    {
+      "title": "AI Pen Testing Chrome Extension",
+      "link": "https://github.com/brianhama/in-browser-sec-audit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 00:00:59 +0000",
+      "timestamp": 1786665659.0
+    },
+    {
+      "title": "AI Can Now Design Functional Viruses",
+      "link": "https://spectrum.ieee.org/ai-designed-virus",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 23:54:31 +0000",
+      "timestamp": 1786665271.0
+    },
+    {
+      "title": "Show HN: Referee.Chat - Set the goal. An AI panel works. Referee clears it done",
+      "link": "https://referee.chat/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 13 Aug 2026 23:53:33 +0000",
+      "timestamp": 1786665213.0
+    },
     {
       "title": "How AI text watermarking works",
       "link": "https://declaude.org/watermarking/",
@@ -84,42 +192,6 @@
       "timestamp": 1786660007.0
     },
     {
-      "title": "ParleHub – Enterprise AI Collaboration and Cost Control – Launch Today on PH",
-      "link": "https://parlehub.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 22:23:36 +0000",
-      "timestamp": 1786659816.0
-    },
-    {
-      "title": "AI #181: Astra Goes Cyber Critical",
-      "link": "https://thezvi.substack.com/p/ai-181-astra-goes-cyber-critical",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 22:12:42 +0000",
-      "timestamp": 1786659162.0
-    },
-    {
-      "title": "I Build Production Software by Directing AI",
-      "link": "https://medium.com/@chrissharp80/how-i-build-production-software-by-directing-ai-710902b4933e",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 22:06:52 +0000",
-      "timestamp": 1786658812.0
-    },
-    {
-      "title": "Terence Tao: Mathematics in the Age of AI (Lecture)",
-      "link": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 21:52:50 +0000",
-      "timestamp": 1786657970.0
-    },
-    {
       "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
       "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
       "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
@@ -127,24 +199,6 @@
       "source": "The Verge AI",
       "published": "2026-08-13T17:42:38-04:00",
       "timestamp": 1786657358.0
-    },
-    {
-      "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
-      "link": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 21:40:53 +0000",
-      "timestamp": 1786657253.0
-    },
-    {
-      "title": "Mistral AI Strategy",
-      "link": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 21:17:01 +0000",
-      "timestamp": 1786655821.0
     },
     {
       "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
@@ -163,60 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 21:13:24 +0000",
       "timestamp": 1786655604.0
-    },
-    {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:7",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 20:59:25 +0000",
-      "timestamp": 1786654765.0
-    },
-    {
-      "title": "Oneiric – an open-source AI short film [video]",
-      "link": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 20:50:38 +0000",
-      "timestamp": 1786654238.0
-    },
-    {
-      "title": "A quarter of YC Fall 2025 startups are blank pages to AI crawlers",
-      "link": "https://readablebyai.com/index-report",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 20:48:43 +0000",
-      "timestamp": 1786654123.0
-    },
-    {
-      "title": "It May Be Time to Panic About AI",
-      "link": "https://www.theatlantic.com/technology/2026/08/openai-hacks-panic/688264/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 20:33:27 +0000",
-      "timestamp": 1786653207.0
-    },
-    {
-      "title": "Lululemon's AI Chief Departs Retailer After Less Than a Year",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-13/lululemon-s-ai-chief-departs-retailer-after-less-than-a-year",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 20:31:52 +0000",
-      "timestamp": 1786653112.0
-    },
-    {
-      "title": "The AI slop doctors, and the prompts instructing them to lie",
-      "link": "https://codysumter.substack.com/p/this-is-medical-advice",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 13 Aug 2026 20:28:48 +0000",
-      "timestamp": 1786652928.0
     },
     {
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
