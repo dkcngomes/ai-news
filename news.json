@@ -1,24 +1,186 @@
 {
-  "scraped_at": "2026-08-14T18:05:16.108447+00:00",
-  "count": 47,
+  "scraped_at": "2026-08-14T19:12:32.330105+00:00",
+  "count": 67,
   "items": [
     {
-      "title": "Mark Zuckerberg has an Instagzam",
-      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
+      "title": "How AI is changing how I build software with Simon Willison, on Talking Postgres",
+      "link": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison",
+      "summary": "",
       "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-14T12:54:16-04:00",
-      "timestamp": 1786726456.0
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 19:04:31 +0000",
+      "timestamp": 1786734271.0
     },
     {
-      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
+      "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
+      "link": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
+      "summary": "",
       "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-14T12:39:32-04:00",
-      "timestamp": 1786725572.0
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 18:42:57 +0000",
+      "timestamp": 1786732977.0
+    },
+    {
+      "title": "Show HN: Captain, AI Travel Agent",
+      "link": "https://www.moonlight.ng/captain/",
+      "summary": "I’m a software designer from Lagos exploring conversational interfaces and frameworks for building agents. I made Captain to help with everyday travel planning. It can explore an itinerary, check live flight prices, or watch for the right time to book. Captain is a Telegram bot powered by a generalist model (anthropic/claude-sonnet-5), with specialist models handling workflows such as trip interpretation and voice transcription. It also includes a visual workspace where users can review the agent’s work and directly manipulate their travel information. I'm building the agent to explore how con",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 18:25:20 +0000",
+      "timestamp": 1786731920.0
+    },
+    {
+      "title": "Show HN: Open-source and AI native web analytics",
+      "link": "https://github.com/OpenLabs-so/openanalytics",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 18:17:42 +0000",
+      "timestamp": 1786731462.0
+    },
+    {
+      "title": "We urgently need a coherent national AI cybersecurity policy",
+      "link": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 18:15:00 +0000",
+      "timestamp": 1786731300.0
+    },
+    {
+      "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
+      "link": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:55:36 +0000",
+      "timestamp": 1786730136.0
+    },
+    {
+      "title": "When facts change, should AI memory change?",
+      "link": "https://github.com/Anchorstate-Lab/GMR",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:46:26 +0000",
+      "timestamp": 1786729586.0
+    },
+    {
+      "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
+      "link": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:43:35 +0000",
+      "timestamp": 1786729415.0
+    },
+    {
+      "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
+      "link": "https://growtika.com/blog/reddit-ai-visibility-research",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:41:56 +0000",
+      "timestamp": 1786729316.0
+    },
+    {
+      "title": "1,1 mld USD dla River AI: Co oznacza rewolucja spersonalizowanego AI?",
+      "link": "https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:41:09 +0000",
+      "timestamp": 1786729269.0
+    },
+    {
+      "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+      "link": "https://github.com/insightitsGit/PrismManifest",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:32:07 +0000",
+      "timestamp": 1786728727.0
+    },
+    {
+      "title": "Nvidia's $500B Plan Envelops Wall Sreett in Its AI Frenzy",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:28:35 +0000",
+      "timestamp": 1786728515.0
+    },
+    {
+      "title": "Ask HN: Has anyone been fired because of an AI-driven DDoS attack?",
+      "link": "https://news.ycombinator.com/item?id=49301819",
+      "summary": "I’m curious whether anyone here has experienced the human/business impact of the recent increase in automated or AI-assisted traffic and DDoS attacks. Has anyone actually lost their job, been fired, or had their team significantly downsized after an attack caused a major outage, unexpected cloud bill, SLA breach, or other serious incident?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:24:08 +0000",
+      "timestamp": 1786728248.0
+    },
+    {
+      "title": "Training AI Scientists to Replicate Research",
+      "link": "https://inherentlabs.ai/research/training-to-replicate",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:20:01 +0000",
+      "timestamp": 1786728001.0
+    },
+    {
+      "title": "Fortunes from AI revive effective altruism after Sam Bankman-Fried turmoil",
+      "link": "https://www.ft.com/content/938b4b82-06d2-4b92-a807-38d935d7d5c5",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:07:06 +0000",
+      "timestamp": 1786727226.0
+    },
+    {
+      "title": "Why Open Source Matters for AI",
+      "link": "https://www.oreilly.com/radar/why-open-source-matters-for-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:06:09 +0000",
+      "timestamp": 1786727169.0
+    },
+    {
+      "title": "Muxel – a multi-agent terminal multiplexer for AI coding agents",
+      "link": "https://muxel.sh/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:03:35 +0000",
+      "timestamp": 1786727015.0
+    },
+    {
+      "title": "Beyond Zero: Enterprise Security for the AI Era",
+      "link": "https://queue.acm.org/detail.cfm",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:02:47 +0000",
+      "timestamp": 1786726967.0
+    },
+    {
+      "title": "Just how big is the hidden leverage of AI hyperscalers?",
+      "link": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:02:45 +0000",
+      "timestamp": 1786726965.0
+    },
+    {
+      "title": "Meta Patents AI Glasses to Use Facial Recognition to Identify People",
+      "link": "https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 16:49:44 +0000",
+      "timestamp": 1786726184.0
     },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -343,6 +505,24 @@
       "source": "TechCrunch AI",
       "published": "Wed, 12 Aug 2026 16:57:58 +0000",
       "timestamp": 1786553878.0
+    },
+    {
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-12T11:52:07-04:00",
+      "timestamp": 1786549927.0
+    },
+    {
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-12T10:00:00-04:00",
+      "timestamp": 1786543200.0
     },
     {
       "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
