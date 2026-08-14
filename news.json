@@ -1,7 +1,178 @@
 {
-  "scraped_at": "2026-08-14T06:41:33.948856+00:00",
+  "scraped_at": "2026-08-14T08:36:46.699390+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Noviz AI open source code launched for ERP agent architecture",
+      "link": "https://news.ycombinator.com/item?id=49296015",
+      "summary": "Open source code for ERP agent integration open sourcecode and architecture launched",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 08:28:02 +0000",
+      "timestamp": 1786696082.0
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 08:24:26 +0000",
+      "timestamp": 1786695866.0
+    },
+    {
+      "title": "Ask HN: Move AI news from Hacker News to somewhere else?",
+      "link": "https://news.ycombinator.com/item?id=49295962",
+      "summary": "There seems to be a real need for updated news on all the latest AI models, pricing, performance, how to self host the models and legislations. Is it really hacking or is just AI business news? Maybe it is time to move AI news to somewhere else? May be it would have been best if the Lisp/Arc developers at Y Combinator would be kind enough to implement a filter for AI news?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 08:18:54 +0000",
+      "timestamp": 1786695534.0
+    },
+    {
+      "title": "OpenAI's Hugging Face Breach Fuels Fresh Calls for AI Regulation",
+      "link": "https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 08:11:38 +0000",
+      "timestamp": 1786695098.0
+    },
+    {
+      "title": "Ask HN: How do you use AI for learning?",
+      "link": "https://news.ycombinator.com/item?id=49295839",
+      "summary": "This is an interesting use case that gets talked about much less, and potentially one that is more useful than software development. Especially now that everyone is relying heavily on AI and even forgetting things they used to know. Have you explored this yourself or found any existing workflows for mastering technologies, concepts, theory, basically everything that we have traditionally learned manually, from university onward?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:57:52 +0000",
+      "timestamp": 1786694272.0
+    },
+    {
+      "title": "Comma AI Introducing Chestnut",
+      "link": "https://blog.comma.ai/chestnut/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:56:51 +0000",
+      "timestamp": 1786694211.0
+    },
+    {
+      "title": "Connecticut judge says plaintiff hid messages for AI in court filings",
+      "link": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:53:24 +0000",
+      "timestamp": 1786694004.0
+    },
+    {
+      "title": "Show HN: Miser – Cost-Optimised AI Gateway",
+      "link": "https://github.com/rShetty/miser",
+      "summary": "AI Gateway that saves you money.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:39:14 +0000",
+      "timestamp": 1786693154.0
+    },
+    {
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:36:14 +0000",
+      "timestamp": 1786692974.0
+    },
+    {
+      "title": "The web's newest weapon against AI scrapers is a font",
+      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:33:16 +0000",
+      "timestamp": 1786692796.0
+    },
+    {
+      "title": "Claude AI Content Marks Will Go Global but Cannot Prove Authorship",
+      "link": "https://www.ainews.com/p/claude-ai-content-marks-will-go-global-but-cannot-prove-authorship",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:29:49 +0000",
+      "timestamp": 1786692589.0
+    },
+    {
+      "title": "The AI-Native Company",
+      "link": "https://danielmiessler.com/blog/the-ai-native-company",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:26:34 +0000",
+      "timestamp": 1786692394.0
+    },
+    {
+      "title": "Apple and AI: Siri the Early Years",
+      "link": "https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:18:51 +0000",
+      "timestamp": 1786691931.0
+    },
+    {
+      "title": "PandaOS is the local AI workspace for builders",
+      "link": "https://pandaos.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:10:52 +0000",
+      "timestamp": 1786691452.0
+    },
+    {
+      "title": "Noviz AI is a architecture and sourcecode for ERP AI agents",
+      "link": "https://news.ycombinator.com/item?id=49295533",
+      "summary": "Noviz AI is a complete ERP AI connector source code built for ERPNext, designed with an extensible architecture that can be adapted to connect AI agents with other ERP systems. It provides the core components for connecting AI agents to ERP business data, APIs, workflows, and operations.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 07:08:29 +0000",
+      "timestamp": 1786691309.0
+    },
+    {
+      "title": "The Body Remembers but the Doctor Cannot- Experiments with AI in Personal Health",
+      "link": "https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 06:59:53 +0000",
+      "timestamp": 1786690793.0
+    },
+    {
+      "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030",
+      "link": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 06:48:28 +0000",
+      "timestamp": 1786690108.0
+    },
+    {
+      "title": "Duxpath AI",
+      "link": "https://news.ycombinator.com/item?id=49295396",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 06:44:30 +0000",
+      "timestamp": 1786689870.0
+    },
+    {
+      "title": "Evaluating AI SRE Agents in Production (OpenSRE) – Evaluation",
+      "link": "https://one2n.io/blog/how-to-evaluate-ai-sre-agents-for-production",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 06:44:10 +0000",
+      "timestamp": 1786689850.0
+    },
     {
       "title": "Show HN: WinCore – Open-Source Windows Utilities for AI and PyTorch",
       "link": "https://github.com/FWKMultiverse/WinCore",
@@ -10,177 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 14 Aug 2026 06:26:14 +0000",
       "timestamp": 1786688774.0
-    },
-    {
-      "title": "Z.ai Security",
-      "link": "https://cvd.z.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 06:12:20 +0000",
-      "timestamp": 1786687940.0
-    },
-    {
-      "title": "China-linked hackers hit Taiwan in 'autonomous' AI cyber attack",
-      "link": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 06:07:08 +0000",
-      "timestamp": 1786687628.0
-    },
-    {
-      "title": "Watermarking AI Text Is Fundamentally Flawed",
-      "link": "https://negativestarinnovators.com/blog/watermarking-ai-text-is-fundamentally-flawed",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 05:54:31 +0000",
-      "timestamp": 1786686871.0
-    },
-    {
-      "title": "Cory Doctorow on Why AI Won't Replace Workers, but Will Crash the Economy [video]",
-      "link": "https://www.youtube.com/watch?v=rRRmUuxJolY",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 05:50:01 +0000",
-      "timestamp": 1786686601.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 05:43:28 +0000",
-      "timestamp": 1786686208.0
-    },
-    {
-      "title": "AI-driven surge in bond yields could be next risk for markets and growth",
-      "link": "https://www.reuters.com/world/asia-pacific/ai-driven-surge-bond-yields-could-be-next-risk-markets-growth-2026-08-14/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 05:33:00 +0000",
-      "timestamp": 1786685580.0
-    },
-    {
-      "title": "A desktop AI copilot for interview questions and coding screenshots",
-      "link": "https://skillcopilotai.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 05:30:58 +0000",
-      "timestamp": 1786685458.0
-    },
-    {
-      "title": "Show HN: Lexicon AI – Exam-focused vocabulary journal for SAT and IELTS prep",
-      "link": "https://lexicon-ai-journal.vercel.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 04:52:31 +0000",
-      "timestamp": 1786683151.0
-    },
-    {
-      "title": "Apple trains its own AI model for China market with Alibaba's support",
-      "link": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 04:47:51 +0000",
-      "timestamp": 1786682871.0
-    },
-    {
-      "title": "FieldRobin – AI-native field service software for small service businesses",
-      "link": "https://fieldrobin.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 04:43:56 +0000",
-      "timestamp": 1786682636.0
-    },
-    {
-      "title": "Elon Musk is suing California over an AI law. Here's why transparency matters",
-      "link": "https://www.sfchronicle.com/opinion/openforum/article/ai-data-law-california-22382698.php",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 04:11:51 +0000",
-      "timestamp": 1786680711.0
-    },
-    {
-      "title": "Executable SOAR playbook dataset – AI agents pay per record via HTTP 402",
-      "link": "https://lateos.ai/soar/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 03:59:26 +0000",
-      "timestamp": 1786679966.0
-    },
-    {
-      "title": "How AI engines cite brands?",
-      "link": "https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 03:45:54 +0000",
-      "timestamp": 1786679154.0
-    },
-    {
-      "title": "AI Coding Has Erased the Supposed Advantage of Statically Typed Languages",
-      "link": "https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 03:41:22 +0000",
-      "timestamp": 1786678882.0
-    },
-    {
-      "title": "An open-source knowledge graph for traceable AI decisions",
-      "link": "https://github.com/semantica-agi/semantica",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 03:31:14 +0000",
-      "timestamp": 1786678274.0
-    },
-    {
-      "title": "Error by AI scribe during medical appointment leaves patient devastated",
-      "link": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 03:24:10 +0000",
-      "timestamp": 1786677850.0
-    },
-    {
-      "title": "Konjugate: Graph-native visual simulation with AI modeling workflows",
-      "link": "https://www.konjugate.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 03:08:27 +0000",
-      "timestamp": 1786676907.0
-    },
-    {
-      "title": "Classifying AI Crawlers and AI Chat User Fetches from Server Logs",
-      "link": "https://canonry.ai/blog/classifying-ai-crawlers-user-fetches-server-logs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 02:52:05 +0000",
-      "timestamp": 1786675925.0
-    },
-    {
-      "title": "MLSecOps Practical Guide – open-source handbook for securing AI systems",
-      "link": "https://github.com/MHaghighian/MLSecOps",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 02:33:32 +0000",
-      "timestamp": 1786674812.0
     },
     {
       "title": "The Safety Reckoning Inside OpenAI",
