@@ -1,87 +1,186 @@
 {
-  "scraped_at": "2026-08-14T11:56:05.525218+00:00",
+  "scraped_at": "2026-08-14T13:40:50.133111+00:00",
   "count": 67,
   "items": [
     {
-      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output",
-      "link": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+      "title": "I'm done coding with AI [video]",
+      "link": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:43:38 +0000",
-      "timestamp": 1786707818.0
+      "published": "Fri, 14 Aug 2026 13:34:11 +0000",
+      "timestamp": 1786714451.0
     },
     {
-      "title": "My Anti AI Computer",
-      "link": "https://punkx.org/jackdoe/home.html",
+      "title": "The War Between Open Source, Open Weight, and Closed AI Models",
+      "link": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:37:40 +0000",
-      "timestamp": 1786707460.0
+      "published": "Fri, 14 Aug 2026 13:30:37 +0000",
+      "timestamp": 1786714237.0
     },
     {
-      "title": "Model Context Protocol (MCP) Explained: How AI Agents Connect to Any Tool",
-      "link": "https://stikastudio.com/blog/what-is-model-context-protocol/",
+      "title": "Apple Trained Own AI Model for China Market with Help from Alibaba",
+      "link": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:36:38 +0000",
-      "timestamp": 1786707398.0
+      "published": "Fri, 14 Aug 2026 13:23:48 +0000",
+      "timestamp": 1786713828.0
     },
     {
-      "title": "Dashboard tracking math problems being solved by AI",
-      "link": "https://vibemathed.com",
+      "title": "The three ways people build AI agent systems",
+      "link": "https://mozaik.jigjoy.ai/blog/the-three-ways-people-build-ai-agent-systems",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:33:50 +0000",
-      "timestamp": 1786707230.0
+      "published": "Fri, 14 Aug 2026 13:22:04 +0000",
+      "timestamp": 1786713724.0
     },
     {
-      "title": "Show HN: LinkGravity – chat and voice bridge for AI coding agents",
-      "link": "https://github.com/dev-sseul/linkgravity",
+      "title": "The Tax Code Wasn't Built for the Age of AI, Says Yale Budget Expert",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-12/the-tax-code-wasn-t-built-for-ai-says-yale-budget-expert",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:28:38 +0000",
-      "timestamp": 1786706918.0
+      "published": "Fri, 14 Aug 2026 13:21:10 +0000",
+      "timestamp": 1786713670.0
     },
     {
-      "title": "AI companies destroy physical books. Help scan rare books, with rewards",
-      "link": "https://fr.annas-archive.gl/blog/physical-destruction.html",
+      "title": "AI's Frictionless Road to Hell",
+      "link": "https://blog.joshgrey.uk/ais-frictionless-road-to-hell/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:22:13 +0000",
-      "timestamp": 1786706533.0
+      "published": "Fri, 14 Aug 2026 13:10:05 +0000",
+      "timestamp": 1786713005.0
     },
     {
-      "title": "Philosophy Journal Publishes Largely AI-Authored Article – On Purpose",
-      "link": "https://dailynous.com/2026/08/13/philosophy-journal-publishes-largely-ai-authored-article-on-purpose-guest-post/",
+      "title": "AI Arena: compare AI habits/stats across your team (privacy first/runs locally)",
+      "link": "https://superdangerous.net/demos/ai-arena/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:20:47 +0000",
-      "timestamp": 1786706447.0
+      "published": "Fri, 14 Aug 2026 13:05:21 +0000",
+      "timestamp": 1786712721.0
     },
     {
-      "title": "Ask HN: Does AI watermarking present a new attack vector?",
-      "link": "https://news.ycombinator.com/item?id=49297267",
-      "summary": "One thing I have not been able to determine from Claude's documentation on watermarking[0] is what kind of metadata they store in association with a given watermark. Ostensibly they could make the fingerprints as unique as they want, possibly down to the exact time, user and session. If so, this seems like hidden risk that AI users are probably not considering. Any code you write now carries information that you might not want revealed. If a bad actor gets the keys then they may be able to de-anonymous open source contributors who want to stay hidden. Or perhaps enough fingerprints across a sa",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:20:01 +0000",
-      "timestamp": 1786706401.0
-    },
-    {
-      "title": "Show HN: Genosyn – Automate running of companies with AI",
-      "link": "https://genosyn.com",
+      "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+      "link": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 10:45:57 +0000",
-      "timestamp": 1786704357.0
+      "published": "Fri, 14 Aug 2026 12:58:46 +0000",
+      "timestamp": 1786712326.0
+    },
+    {
+      "title": "We tested every venue in 2 Bali regions against 4 AI assistants",
+      "link": "https://arxiv.org/abs/2608.07069",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 12:57:16 +0000",
+      "timestamp": 1786712236.0
+    },
+    {
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "link": "https://hashagent.pages.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 12:57:02 +0000",
+      "timestamp": 1786712222.0
+    },
+    {
+      "title": "Yes, you still need to know fundamentals even with AI",
+      "link": "https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 12:51:57 +0000",
+      "timestamp": 1786711917.0
+    },
+    {
+      "title": "AI will converge towards intuition-guided symbolic world modeling",
+      "link": "https://twitter.com/fchollet/status/2072779641639875048",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 12:43:07 +0000",
+      "timestamp": 1786711387.0
+    },
+    {
+      "title": "SEtting up AI search rank tracking easily",
+      "link": "https://github.com/razz1000/ai-search-rank-tracking-example-repo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 12:35:44 +0000",
+      "timestamp": 1786710944.0
+    },
+    {
+      "title": "Charisma, confidence and no fear of AI taking their jobs. The personality hires",
+      "link": "https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=djem_mwnpfinance",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 12:34:39 +0000",
+      "timestamp": 1786710879.0
+    },
+    {
+      "title": "Terence Tao Lecture: Mathematics in the Age of AI [video]",
+      "link": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 12:24:23 +0000",
+      "timestamp": 1786710263.0
+    },
+    {
+      "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
+      "link": "https://gatewai.studio/artifex",
+      "summary": "Artifex is a machine-first, headless CLI runtime built for autonomous coding agents to author, validate, and render media node graphs locally. The agent talks to Artifex through a structured CLI interface. Workflows are DAGs, and each node is a plugin that can implement its own execution logic.. Each node has capability to inject logic into graph processing, WebGPU rendering, audio processing and their own SKILL.md file. Nodes can also inject their react components (not available with CLI) - which will be available with the desktop app. Execution is topological and supports checkpoint caching ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 12:15:13 +0000",
+      "timestamp": 1786709713.0
+    },
+    {
+      "title": "Open Silicon Photonics for AI Systems Initiative",
+      "link": "https://lightmatter.co/press-release/industry-leaders-formally-launch-cpo-system-architecture-initiative-within-the-open-compute-project/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:58:52 +0000",
+      "timestamp": 1786708732.0
+    },
+    {
+      "title": "Error by AI scribe during medical appointment leaves patient devastated",
+      "link": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:55:21 +0000",
+      "timestamp": 1786708521.0
+    },
+    {
+      "title": "AI Watermarks, Skill Loss and GenAI – Food for Agile Thought #557",
+      "link": "https://age-of-product.com/food-agile-thought-557-ai-watermarks/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:51:59 +0000",
+      "timestamp": 1786708319.0
+    },
+    {
+      "title": "Which GPU Is Suitable for Running Your AI Workloads?",
+      "link": "https://3hcloud.com/blog/which-gpu-is-suitable-for-your-ai-workload",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 11:49:33 +0000",
+      "timestamp": 1786708173.0
     },
     {
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
@@ -93,42 +192,6 @@
       "timestamp": 1786704300.0
     },
     {
-      "title": "Why AI-generated vulnerability patches still require expert human review",
-      "link": "https://1password.com/blog/why-ai-generated-patches-still-require-human-review",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 10:44:51 +0000",
-      "timestamp": 1786704291.0
-    },
-    {
-      "title": "Everyone talks about AI agents. This is what one looks from the inside",
-      "link": "https://pssah4.github.io/vault-operator/guides/capabilities",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 10:44:12 +0000",
-      "timestamp": 1786704252.0
-    },
-    {
-      "title": "Demoscene Report on the AI compo of Assembly 2026 [video]",
-      "link": "https://www.youtube.com/watch?v=Ob0xuGdbhPA",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 10:41:47 +0000",
-      "timestamp": 1786704107.0
-    },
-    {
-      "title": "StoryScope: Investigating Idiosyncrasies in AI Fiction",
-      "link": "https://arxiv.org/abs/2604.03136",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 10:21:40 +0000",
-      "timestamp": 1786702900.0
-    },
-    {
       "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
       "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
       "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
@@ -138,67 +201,13 @@
       "timestamp": 1786702500.0
     },
     {
-      "title": "WordPress Plugin Generator with AI",
-      "link": "https://steem.dev",
-      "summary": "",
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 10:03:26 +0000",
-      "timestamp": 1786701806.0
-    },
-    {
-      "title": "Deep-Imager|One-Stop AI Image Generation Platform",
-      "link": "https://news.ycombinator.com/item?id=49296669",
-      "summary": "deep-imager: One-stop AI image platform.Turn text into stunning AI images. Optimize images based on the original, remove backgrounds, watermarks, text, emojis, etc. Explore templates and a gallery of AI art. Register free to create and download. https://deep-imager.com",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 10:02:17 +0000",
-      "timestamp": 1786701737.0
-    },
-    {
-      "title": "Building a software factory for AI SDK",
-      "link": "https://vercel.com/blog/building-a-software-factory-for-ai-sdk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 09:58:42 +0000",
-      "timestamp": 1786701522.0
-    },
-    {
-      "title": "EU AI Act and C2PA: What Article 50 Requires",
-      "link": "https://c2paviewer.com/articles/eu-ai-act-content-credentials",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 09:41:22 +0000",
-      "timestamp": 1786700482.0
-    },
-    {
-      "title": "Show HN: OpenComplAI – open-source EU AI Act compliance checks in CI/CD",
-      "link": "https://github.com/opencomplai/opencomplai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 09:29:23 +0000",
-      "timestamp": 1786699763.0
-    },
-    {
-      "title": "Drift Anchor -quick access to your proven AI prompts",
-      "link": "https://microsoftedge.microsoft.com/addons/detail/dpedbbcbfmpjjonjolngjjpclkgahlpm",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 09:17:46 +0000",
-      "timestamp": 1786699066.0
-    },
-    {
-      "title": "Are You Using AI? Do Not Forget Your Whip",
-      "link": "https://skyecleary.substack.com/p/are-you-using-ai-do-not-forget-your",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 08:48:43 +0000",
-      "timestamp": 1786697323.0
+      "source": "The Verge AI",
+      "published": "2026-08-14T05:21:17-04:00",
+      "timestamp": 1786699277.0
     },
     {
       "title": "The Safety Reckoning Inside OpenAI",
@@ -208,6 +217,15 @@
       "source": "Wired AI",
       "published": "Thu, 13 Aug 2026 22:37:19 +0000",
       "timestamp": 1786660639.0
+    },
+    {
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-13T17:42:38-04:00",
+      "timestamp": 1786657358.0
     },
     {
       "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
@@ -235,6 +253,15 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 20:14:39 +0000",
       "timestamp": 1786652079.0
+    },
+    {
+      "title": "OpenAI is losing its second executive this week",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-13T15:28:39-04:00",
+      "timestamp": 1786649319.0
     },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -498,24 +525,6 @@
       "timestamp": 1786543200.0
     },
     {
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-12T08:09:34-04:00",
-      "timestamp": 1786536574.0
-    },
-    {
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-12T07:58:54-04:00",
-      "timestamp": 1786535934.0
-    },
-    {
       "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
       "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
       "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Wed, 12 Aug 2026 10:30:00 +0000",
       "timestamp": 1786530600.0
-    },
-    {
-      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-11T20:39:26-04:00",
-      "timestamp": 1786495166.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
