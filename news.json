@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-14T15:06:28.538738+00:00",
-  "count": 65,
+  "scraped_at": "2026-08-14T16:04:50.264891+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "AI by Hand",
+      "link": "https://www.byhand.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 15:58:59 +0000",
+      "timestamp": 1786723139.0
+    },
+    {
+      "title": "Is AI Coding Effecting Our Mental Health? [video]",
+      "link": "https://www.youtube.com/watch?v=iPUn1Fnfn0k",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 15:48:56 +0000",
+      "timestamp": 1786722536.0
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "timestamp": 1786722208.0
+    },
+    {
+      "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 15:43:10 +0000",
+      "timestamp": 1786722190.0
+    },
+    {
+      "title": "Ed Zitron Was Wrong About AI",
+      "link": "https://www.drjoshcsimmons.com/writing/ed-zitron-ai-predictions",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 15:37:54 +0000",
+      "timestamp": 1786721874.0
+    },
+    {
+      "title": "Show HN: Realistic AI Image Generator for portraits and product shots",
+      "link": "https://realisticaiimagegenerator.online/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 15:33:32 +0000",
+      "timestamp": 1786721612.0
+    },
+    {
+      "title": "European publishers are getting hit harder by AI bot scraping, report finds",
+      "link": "https://digiday.com/media/european-publishers-are-getting-hit-harder-by-ai-bot-scraping-report-finds/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 15:17:45 +0000",
+      "timestamp": 1786720665.0
+    },
+    {
+      "title": "NTU to stop using 'fundamentally unreliable' AI detector from 2027",
+      "link": "https://www.channelnewsasia.com/singapore/ntu-ai-detector-stop-using-2027-probability-scores-misconduct-6320136",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 15:16:19 +0000",
+      "timestamp": 1786720579.0
+    },
     {
       "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
       "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
@@ -12,9 +84,27 @@
       "timestamp": 1786719600.0
     },
     {
+      "title": "Show HN: Measure your AI search with BYOK and OSS (free)",
+      "link": "https://github.com/letterstory/lettertrace",
+      "summary": "Sharing something fun we made :)",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 14:57:16 +0000",
+      "timestamp": 1786719436.0
+    },
+    {
+      "title": "Does AI Improve Access to Justice?",
+      "link": "https://rafaelresearch.com/research/does-ai-improve-access-to-justice",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 14:55:35 +0000",
+      "timestamp": 1786719335.0
+    },
+    {
       "title": "Show HN: Burla – Distributed computing framework for AI agents",
       "link": "https://burla.dev/",
-      "summary": "Hi HN! Would love any thoughts on this, we built Burla to enable anyone, even total beginners to scale Python to thousands of computers in their cloud with zero hassle.",
+      "summary": "Hi HN! Would love any thoughts on this, we built Burla to enable anyone, even total beginners to scale Python to thousands of computers in their cloud with zero hassle. In a world of coding agents, this means something different than it used to, specifically that Burla requires almost no cloud permissions to get started. Anyone who has permission to boot a VM in their cloud can simply pip install burla and scale Python to 1000's of VM's. Burla uses your local aws cli credentials to boot VM's and the dashboard runs locally for you to monitor resources and jobs. All together this creates a UX wh",
       "image": null,
       "source": "Hacker News (AI)",
       "published": "Fri, 14 Aug 2026 14:52:54 +0000",
@@ -66,7 +156,7 @@
       "timestamp": 1786718089.0
     },
     {
-      "title": "AI Watermark removers can't verify themselves I built the tool that can",
+      "title": "Show HN: AI Watermark removers can't verify themselves I built the tool that can",
       "link": "https://github.com/Neeeophytee/ai-watermarks-reality-check",
       "summary": "",
       "image": null,
@@ -111,33 +201,6 @@
       "timestamp": 1786717500.0
     },
     {
-      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:22:39 +0000",
-      "timestamp": 1786717359.0
-    },
-    {
-      "title": "Show HN: We mapped AI patterns before watermark removal became a mainstream",
-      "link": "https://founderstoday.org/claude-watermark-remover",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:19:03 +0000",
-      "timestamp": 1786717143.0
-    },
-    {
-      "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
-      "link": "https://apimart.ai/register?aff=yScTCM",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:14:13 +0000",
-      "timestamp": 1786716853.0
-    },
-    {
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
@@ -147,49 +210,13 @@
       "timestamp": 1786716300.0
     },
     {
-      "title": "Accountability and AI",
-      "link": "https://authoryze.ai/blog/accountability-and-ai",
-      "summary": "",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:57:58 +0000",
-      "timestamp": 1786715878.0
-    },
-    {
-      "title": "Show HN: ApplyWise – I built an AI layer for the job application process",
-      "link": "https://applywise.eu/",
-      "summary": "t's free to try and doesn't require an account. https://applywise.eu I'm particularly interested in feedback on the core question: is a dedicated workflow like this actually better than just giving your CV and the job description to ChatGPT or Claude?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:51:27 +0000",
-      "timestamp": 1786715487.0
-    },
-    {
-      "title": "Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion",
-      "link": "https://isaidumber.today/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:50:46 +0000",
-      "timestamp": 1786715446.0
-    },
-    {
-      "title": "Decelerate AI by using Capitalism Itself, lower p(doom)",
-      "link": "https://jperla.com/blog/the-data-tax",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:50:39 +0000",
-      "timestamp": 1786715439.0
-    },
-    {
-      "title": "Show HN: GridProof – spacing/grid QA for AI-generated UIs, in the agent loop",
-      "link": "https://github.com/gridproof/gridproof",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:48:32 +0000",
-      "timestamp": 1786715312.0
+      "source": "TechCrunch AI",
+      "published": "Fri, 14 Aug 2026 14:00:00 +0000",
+      "timestamp": 1786716000.0
     },
     {
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
@@ -471,15 +498,6 @@
       "timestamp": 1786553162.0
     },
     {
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 12 Aug 2026 16:04:27 +0000",
-      "timestamp": 1786550667.0
-    },
-    {
       "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plug-ins like Autotune introducing [&#8230;]",
@@ -487,15 +505,6 @@
       "source": "The Verge AI",
       "published": "2026-08-12T11:52:07-04:00",
       "timestamp": 1786549927.0
-    },
-    {
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 12 Aug 2026 15:44:56 +0000",
-      "timestamp": 1786549496.0
     },
     {
       "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
