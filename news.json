@@ -1,186 +1,195 @@
 {
-  "scraped_at": "2026-08-14T13:40:50.133111+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-14T15:06:28.538738+00:00",
+  "count": 65,
   "items": [
     {
-      "title": "I'm done coding with AI [video]",
-      "link": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 14 Aug 2026 15:00:00 +0000",
+      "timestamp": 1786719600.0
+    },
+    {
+      "title": "Show HN: Burla – Distributed computing framework for AI agents",
+      "link": "https://burla.dev/",
+      "summary": "Hi HN! Would love any thoughts on this, we built Burla to enable anyone, even total beginners to scale Python to thousands of computers in their cloud with zero hassle.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 14:52:54 +0000",
+      "timestamp": 1786719174.0
+    },
+    {
+      "title": "Adversarial Paraphrasing: Attack for Humanizing AI-Generated Text (2025)",
+      "link": "https://arxiv.org/abs/2506.07001",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:34:11 +0000",
-      "timestamp": 1786714451.0
+      "published": "Fri, 14 Aug 2026 14:52:50 +0000",
+      "timestamp": 1786719170.0
     },
     {
-      "title": "The War Between Open Source, Open Weight, and Closed AI Models",
-      "link": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "timestamp": 1786719011.0
+    },
+    {
+      "title": "Why Japanese firms are being so slow to use AI?",
+      "link": "https://www.bbc.com/news/articles/cwymw4434v7o",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:30:37 +0000",
-      "timestamp": 1786714237.0
+      "published": "Fri, 14 Aug 2026 14:43:24 +0000",
+      "timestamp": 1786718604.0
     },
     {
-      "title": "Apple Trained Own AI Model for China Market with Help from Alibaba",
-      "link": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
+      "title": "About Z AI \"Benchmaxxing\"",
+      "link": "https://twitter.com/natolambert/status/2088272938361606397",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:23:48 +0000",
-      "timestamp": 1786713828.0
+      "published": "Fri, 14 Aug 2026 14:38:59 +0000",
+      "timestamp": 1786718339.0
     },
     {
-      "title": "The three ways people build AI agent systems",
-      "link": "https://mozaik.jigjoy.ai/blog/the-three-ways-people-build-ai-agent-systems",
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:22:04 +0000",
-      "timestamp": 1786713724.0
+      "published": "Fri, 14 Aug 2026 14:34:49 +0000",
+      "timestamp": 1786718089.0
     },
     {
-      "title": "The Tax Code Wasn't Built for the Age of AI, Says Yale Budget Expert",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-12/the-tax-code-wasn-t-built-for-ai-says-yale-budget-expert",
+      "title": "AI Watermark removers can't verify themselves I built the tool that can",
+      "link": "https://github.com/Neeeophytee/ai-watermarks-reality-check",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:21:10 +0000",
-      "timestamp": 1786713670.0
+      "published": "Fri, 14 Aug 2026 14:32:37 +0000",
+      "timestamp": 1786717957.0
     },
     {
-      "title": "AI's Frictionless Road to Hell",
-      "link": "https://blog.joshgrey.uk/ais-frictionless-road-to-hell/",
+      "title": "Ask HN: Why not expand accessibility laws to include the right to use AI?",
+      "link": "https://news.ycombinator.com/item?id=49299227",
+      "summary": "All humans are cognitively disabled in some ways when compared to modern AI. I think accessibility laws should be expanded to include the right to use AI to overcome such limitations. What do you think?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 14:31:17 +0000",
+      "timestamp": 1786717877.0
+    },
+    {
+      "title": "Fast, on Device Agentic AI with Muse Glimmer on ExecuTorch",
+      "link": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:10:05 +0000",
-      "timestamp": 1786713005.0
+      "published": "Fri, 14 Aug 2026 14:27:07 +0000",
+      "timestamp": 1786717627.0
     },
     {
-      "title": "AI Arena: compare AI habits/stats across your team (privacy first/runs locally)",
-      "link": "https://superdangerous.net/demos/ai-arena/",
+      "title": "Canva slashes valuation by $10B as AI reality bites",
+      "link": "https://www.msn.com/en-au/money/news/sobering-markdown-canva-slashes-valuation-by-10b-as-ai-reality-bites/ar-AA2a5i6F",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 13:05:21 +0000",
-      "timestamp": 1786712721.0
+      "published": "Fri, 14 Aug 2026 14:26:14 +0000",
+      "timestamp": 1786717574.0
     },
     {
-      "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
-      "link": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+      "title": "Ask HN: What's the AI Revolution \"Model T Ford\"?",
+      "link": "https://news.ycombinator.com/item?id=49299134",
+      "summary": "What upcoming innovations will redefine multiple/many domains the way the automobile changed logistics, travel, etc.?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 14:25:00 +0000",
+      "timestamp": 1786717500.0
+    },
+    {
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 12:58:46 +0000",
-      "timestamp": 1786712326.0
+      "published": "Fri, 14 Aug 2026 14:22:39 +0000",
+      "timestamp": 1786717359.0
     },
     {
-      "title": "We tested every venue in 2 Bali regions against 4 AI assistants",
-      "link": "https://arxiv.org/abs/2608.07069",
+      "title": "Show HN: We mapped AI patterns before watermark removal became a mainstream",
+      "link": "https://founderstoday.org/claude-watermark-remover",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 12:57:16 +0000",
-      "timestamp": 1786712236.0
+      "published": "Fri, 14 Aug 2026 14:19:03 +0000",
+      "timestamp": 1786717143.0
     },
     {
-      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
-      "link": "https://hashagent.pages.dev/",
+      "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+      "link": "https://apimart.ai/register?aff=yScTCM",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 12:57:02 +0000",
-      "timestamp": 1786712222.0
+      "published": "Fri, 14 Aug 2026 14:14:13 +0000",
+      "timestamp": 1786716853.0
     },
     {
-      "title": "Yes, you still need to know fundamentals even with AI",
-      "link": "https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "timestamp": 1786716300.0
+    },
+    {
+      "title": "Accountability and AI",
+      "link": "https://authoryze.ai/blog/accountability-and-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 12:51:57 +0000",
-      "timestamp": 1786711917.0
+      "published": "Fri, 14 Aug 2026 13:57:58 +0000",
+      "timestamp": 1786715878.0
     },
     {
-      "title": "AI will converge towards intuition-guided symbolic world modeling",
-      "link": "https://twitter.com/fchollet/status/2072779641639875048",
+      "title": "Show HN: ApplyWise – I built an AI layer for the job application process",
+      "link": "https://applywise.eu/",
+      "summary": "t's free to try and doesn't require an account. https://applywise.eu I'm particularly interested in feedback on the core question: is a dedicated workflow like this actually better than just giving your CV and the job description to ChatGPT or Claude?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 13:51:27 +0000",
+      "timestamp": 1786715487.0
+    },
+    {
+      "title": "Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion",
+      "link": "https://isaidumber.today/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 12:43:07 +0000",
-      "timestamp": 1786711387.0
+      "published": "Fri, 14 Aug 2026 13:50:46 +0000",
+      "timestamp": 1786715446.0
     },
     {
-      "title": "SEtting up AI search rank tracking easily",
-      "link": "https://github.com/razz1000/ai-search-rank-tracking-example-repo",
+      "title": "Decelerate AI by using Capitalism Itself, lower p(doom)",
+      "link": "https://jperla.com/blog/the-data-tax",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 12:35:44 +0000",
-      "timestamp": 1786710944.0
+      "published": "Fri, 14 Aug 2026 13:50:39 +0000",
+      "timestamp": 1786715439.0
     },
     {
-      "title": "Charisma, confidence and no fear of AI taking their jobs. The personality hires",
-      "link": "https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=djem_mwnpfinance",
+      "title": "Show HN: GridProof – spacing/grid QA for AI-generated UIs, in the agent loop",
+      "link": "https://github.com/gridproof/gridproof",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 12:34:39 +0000",
-      "timestamp": 1786710879.0
-    },
-    {
-      "title": "Terence Tao Lecture: Mathematics in the Age of AI [video]",
-      "link": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 12:24:23 +0000",
-      "timestamp": 1786710263.0
-    },
-    {
-      "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
-      "link": "https://gatewai.studio/artifex",
-      "summary": "Artifex is a machine-first, headless CLI runtime built for autonomous coding agents to author, validate, and render media node graphs locally. The agent talks to Artifex through a structured CLI interface. Workflows are DAGs, and each node is a plugin that can implement its own execution logic.. Each node has capability to inject logic into graph processing, WebGPU rendering, audio processing and their own SKILL.md file. Nodes can also inject their react components (not available with CLI) - which will be available with the desktop app. Execution is topological and supports checkpoint caching ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 12:15:13 +0000",
-      "timestamp": 1786709713.0
-    },
-    {
-      "title": "Open Silicon Photonics for AI Systems Initiative",
-      "link": "https://lightmatter.co/press-release/industry-leaders-formally-launch-cpo-system-architecture-initiative-within-the-open-compute-project/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:58:52 +0000",
-      "timestamp": 1786708732.0
-    },
-    {
-      "title": "Error by AI scribe during medical appointment leaves patient devastated",
-      "link": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:55:21 +0000",
-      "timestamp": 1786708521.0
-    },
-    {
-      "title": "AI Watermarks, Skill Loss and GenAI – Food for Agile Thought #557",
-      "link": "https://age-of-product.com/food-agile-thought-557-ai-watermarks/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:51:59 +0000",
-      "timestamp": 1786708319.0
-    },
-    {
-      "title": "Which GPU Is Suitable for Running Your AI Workloads?",
-      "link": "https://3hcloud.com/blog/which-gpu-is-suitable-for-your-ai-workload",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 11:49:33 +0000",
-      "timestamp": 1786708173.0
+      "published": "Fri, 14 Aug 2026 13:48:32 +0000",
+      "timestamp": 1786715312.0
     },
     {
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
@@ -489,24 +498,6 @@
       "timestamp": 1786549496.0
     },
     {
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 12 Aug 2026 14:22:00 +0000",
-      "timestamp": 1786544520.0
-    },
-    {
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 12 Aug 2026 14:20:33 +0000",
-      "timestamp": 1786544433.0
-    },
-    {
       "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
       "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
       "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel [&#8230;]",
@@ -532,15 +523,6 @@
       "source": "Wired AI",
       "published": "Wed, 12 Aug 2026 10:45:00 +0000",
       "timestamp": 1786531500.0
-    },
-    {
-      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-      "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 12 Aug 2026 10:30:00 +0000",
-      "timestamp": 1786530600.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
