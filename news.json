@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-14T16:04:50.264891+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-14T17:09:56.853409+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "Muxel – a multi-agent terminal multiplexer for AI coding agents",
+      "link": "https://muxel.sh/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:03:35 +0000",
+      "timestamp": 1786727015.0
+    },
+    {
+      "title": "Beyond Zero: Enterprise Security for the AI Era",
+      "link": "https://queue.acm.org/detail.cfm",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:02:47 +0000",
+      "timestamp": 1786726967.0
+    },
+    {
+      "title": "Just how big is the hidden leverage of AI hyperscalers?",
+      "link": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 17:02:45 +0000",
+      "timestamp": 1786726965.0
+    },
+    {
+      "title": "Meta Patents AI Glasses to Use Facial Recognition to Identify People",
+      "link": "https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 16:49:44 +0000",
+      "timestamp": 1786726184.0
+    },
+    {
+      "title": "Show HN: I built a tool that delegates bounded spending to an AI agent",
+      "link": "https://github.com/meyerdav24/molt",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 16:39:52 +0000",
+      "timestamp": 1786725592.0
+    },
+    {
+      "title": "My Dad Is in Prison. Here's Why I Built an AI Chatbot for His Electronic Tablet",
+      "link": "https://www.themarshallproject.org/2026/08/14/prison-ai-chatbot-nova-cj-jones",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 16:31:52 +0000",
+      "timestamp": 1786725112.0
+    },
+    {
+      "title": "Ask HN: Let's all sell our AI stocks, short Nvidia and pop the AI bubble",
+      "link": "https://news.ycombinator.com/item?id=49301029",
+      "summary": "Humans are better than AI.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 16:29:57 +0000",
+      "timestamp": 1786724997.0
+    },
+    {
+      "title": "WakeAI – an AI assistant that tells you when to leave so you're never late",
+      "link": "https://apps.apple.com/us/app/wakeai/id6755909459",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 16:27:46 +0000",
+      "timestamp": 1786724866.0
+    },
+    {
+      "title": "Software Factory with AI",
+      "link": "https://twitter.com/i/status/2088296448563503269",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 16:17:41 +0000",
+      "timestamp": 1786724261.0
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 14 Aug 2026 16:13:40 +0000",
+      "timestamp": 1786724020.0
+    },
+    {
+      "title": "NIST Seeks Blueprint for AI-Era Overhaul of National Vulnerability Database",
+      "link": "https://securityboulevard.com/2026/08/nist-seeks-blueprint-for-ai-era-overhaul-of-national-vulnerability-database/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 16:07:35 +0000",
+      "timestamp": 1786723655.0
+    },
+    {
+      "title": "AI: The Devil on My Shoulder",
+      "link": "https://myrkvi.no/ai-the-devil-on-my-shoulder/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 16:00:54 +0000",
+      "timestamp": 1786723254.0
+    },
     {
       "title": "AI by Hand",
       "link": "https://www.byhand.ai/",
@@ -30,7 +138,7 @@
       "timestamp": 1786722208.0
     },
     {
-      "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+      "title": "Google is making private AI practical with homomorphic encryption",
       "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "summary": "",
       "image": null,
@@ -102,24 +210,6 @@
       "timestamp": 1786719335.0
     },
     {
-      "title": "Show HN: Burla – Distributed computing framework for AI agents",
-      "link": "https://burla.dev/",
-      "summary": "Hi HN! Would love any thoughts on this, we built Burla to enable anyone, even total beginners to scale Python to thousands of computers in their cloud with zero hassle. In a world of coding agents, this means something different than it used to, specifically that Burla requires almost no cloud permissions to get started. Anyone who has permission to boot a VM in their cloud can simply pip install burla and scale Python to 1000's of VM's. Burla uses your local aws cli credentials to boot VM's and the dashboard runs locally for you to monitor resources and jobs. All together this creates a UX wh",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:52:54 +0000",
-      "timestamp": 1786719174.0
-    },
-    {
-      "title": "Adversarial Paraphrasing: Attack for Humanizing AI-Generated Text (2025)",
-      "link": "https://arxiv.org/abs/2506.07001",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:52:50 +0000",
-      "timestamp": 1786719170.0
-    },
-    {
       "title": "Kog is going deeper to squeeze more inference out of GPUs",
       "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
       "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
@@ -127,78 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 14 Aug 2026 14:50:11 +0000",
       "timestamp": 1786719011.0
-    },
-    {
-      "title": "Why Japanese firms are being so slow to use AI?",
-      "link": "https://www.bbc.com/news/articles/cwymw4434v7o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:43:24 +0000",
-      "timestamp": 1786718604.0
-    },
-    {
-      "title": "About Z AI \"Benchmaxxing\"",
-      "link": "https://twitter.com/natolambert/status/2088272938361606397",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:38:59 +0000",
-      "timestamp": 1786718339.0
-    },
-    {
-      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:34:49 +0000",
-      "timestamp": 1786718089.0
-    },
-    {
-      "title": "Show HN: AI Watermark removers can't verify themselves I built the tool that can",
-      "link": "https://github.com/Neeeophytee/ai-watermarks-reality-check",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:32:37 +0000",
-      "timestamp": 1786717957.0
-    },
-    {
-      "title": "Ask HN: Why not expand accessibility laws to include the right to use AI?",
-      "link": "https://news.ycombinator.com/item?id=49299227",
-      "summary": "All humans are cognitively disabled in some ways when compared to modern AI. I think accessibility laws should be expanded to include the right to use AI to overcome such limitations. What do you think?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:31:17 +0000",
-      "timestamp": 1786717877.0
-    },
-    {
-      "title": "Fast, on Device Agentic AI with Muse Glimmer on ExecuTorch",
-      "link": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:27:07 +0000",
-      "timestamp": 1786717627.0
-    },
-    {
-      "title": "Canva slashes valuation by $10B as AI reality bites",
-      "link": "https://www.msn.com/en-au/money/news/sobering-markdown-canva-slashes-valuation-by-10b-as-ai-reality-bites/ar-AA2a5i6F",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:26:14 +0000",
-      "timestamp": 1786717574.0
-    },
-    {
-      "title": "Ask HN: What's the AI Revolution \"Model T Ford\"?",
-      "link": "https://news.ycombinator.com/item?id=49299134",
-      "summary": "What upcoming innovations will redefine multiple/many domains the way the automobile changed logistics, travel, etc.?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 14:25:00 +0000",
-      "timestamp": 1786717500.0
     },
     {
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
@@ -487,15 +505,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 12 Aug 2026 16:57:58 +0000",
       "timestamp": 1786553878.0
-    },
-    {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 12 Aug 2026 16:46:02 +0000",
-      "timestamp": 1786553162.0
     },
     {
       "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
