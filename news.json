@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-14T05:00:21.541994+00:00",
+  "scraped_at": "2026-08-14T06:41:33.948856+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Show HN: WinCore – Open-Source Windows Utilities for AI and PyTorch",
+      "link": "https://github.com/FWKMultiverse/WinCore",
+      "summary": "WinCore is a free and open-source Python library designed specifically to address practical problems when working with AI and PyTorch on Windows. It provides utilities for CPU/GPU management, memory handling, diagnostics, system detection, PyTorch compilation and precision, multi-GPU workflows, Windows-aware I/O, caching, and more. WinCore 0.6.3 is now publicly released. It has not yet been tested across every hardware, driver, Python, and PyTorch configuration, so I’m looking for people working with AI/PyTorch on Windows to try it out and help identify issues. If you encounter a problem or ha",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 06:26:14 +0000",
+      "timestamp": 1786688774.0
+    },
+    {
+      "title": "Z.ai Security",
+      "link": "https://cvd.z.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 06:12:20 +0000",
+      "timestamp": 1786687940.0
+    },
+    {
+      "title": "China-linked hackers hit Taiwan in 'autonomous' AI cyber attack",
+      "link": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 06:07:08 +0000",
+      "timestamp": 1786687628.0
+    },
+    {
+      "title": "Watermarking AI Text Is Fundamentally Flawed",
+      "link": "https://negativestarinnovators.com/blog/watermarking-ai-text-is-fundamentally-flawed",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 05:54:31 +0000",
+      "timestamp": 1786686871.0
+    },
+    {
+      "title": "Cory Doctorow on Why AI Won't Replace Workers, but Will Crash the Economy [video]",
+      "link": "https://www.youtube.com/watch?v=rRRmUuxJolY",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 05:50:01 +0000",
+      "timestamp": 1786686601.0
+    },
+    {
+      "title": "AI Stock Research Assistant · Streamlit",
+      "link": "https://ai-stock-research-kiaan.streamlit.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 05:43:28 +0000",
+      "timestamp": 1786686208.0
+    },
+    {
+      "title": "AI-driven surge in bond yields could be next risk for markets and growth",
+      "link": "https://www.reuters.com/world/asia-pacific/ai-driven-surge-bond-yields-could-be-next-risk-markets-growth-2026-08-14/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 05:33:00 +0000",
+      "timestamp": 1786685580.0
+    },
+    {
+      "title": "A desktop AI copilot for interview questions and coding screenshots",
+      "link": "https://skillcopilotai.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 05:30:58 +0000",
+      "timestamp": 1786685458.0
+    },
+    {
+      "title": "Show HN: Lexicon AI – Exam-focused vocabulary journal for SAT and IELTS prep",
+      "link": "https://lexicon-ai-journal.vercel.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 04:52:31 +0000",
+      "timestamp": 1786683151.0
+    },
     {
       "title": "Apple trains its own AI model for China market with Alibaba's support",
       "link": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
@@ -100,87 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 14 Aug 2026 02:33:32 +0000",
       "timestamp": 1786674812.0
-    },
-    {
-      "title": "The next frontier in AI governance isn't stronger guardrails. It's fire brigades",
-      "link": "https://www.fastcompany.com/91583956/the-next-frontier-in-ai-governance-isnt-stronger-guardrails-its-fire-brigades-technology-ai-safety-governance",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 02:21:25 +0000",
-      "timestamp": 1786674085.0
-    },
-    {
-      "title": "Agentstow: Canonical configs, fanned out to all your AI coding agents",
-      "link": "https://agentstow.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 02:20:16 +0000",
-      "timestamp": 1786674016.0
-    },
-    {
-      "title": "Tax Law Is Funding the AI Infrastructure Boom, Not Creating It",
-      "link": "https://news.bloombergtax.com/tax-insights-and-commentary/tax-law-is-funding-the-ai-infrastructure-boom-not-creating-it",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 02:16:35 +0000",
-      "timestamp": 1786673795.0
-    },
-    {
-      "title": "Muxxy: Like Slime, for AI and Tmux",
-      "link": "https://blog.djhaskin.com/blog/muxxy-like-slime-for-ai-tmux/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 01:57:34 +0000",
-      "timestamp": 1786672654.0
-    },
-    {
-      "title": "DeepMind's Hassabis Pitched AI-Oversight Body Before Shake-Up",
-      "link": "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 01:48:38 +0000",
-      "timestamp": 1786672118.0
-    },
-    {
-      "title": "Silicon Valley's AI boom is remaking American charity",
-      "link": "https://economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 01:28:57 +0000",
-      "timestamp": 1786670937.0
-    },
-    {
-      "title": "The Math Superstar Who's Terrified of AI–and Just Took a Job at OpenAI",
-      "link": "https://www.wsj.com/tech/ai/openai-jacob-tsimerman-fields-medal-ai-safety-391d0f79",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 00:40:56 +0000",
-      "timestamp": 1786668056.0
-    },
-    {
-      "title": "Agentrove: Self-hosted AI workspace for orchestrating coding agents",
-      "link": "https://github.com/Mng-dev-ai/agentrove",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 00:38:40 +0000",
-      "timestamp": 1786667920.0
-    },
-    {
-      "title": "AI Pen Testing Chrome Extension",
-      "link": "https://github.com/brianhama/in-browser-sec-audit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 00:00:59 +0000",
-      "timestamp": 1786665659.0
     },
     {
       "title": "The Safety Reckoning Inside OpenAI",
