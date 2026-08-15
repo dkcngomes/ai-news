@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-15T12:57:37.765531+00:00",
+  "scraped_at": "2026-08-15T13:43:06.841682+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI Software Development – What Does the Data Say?",
+      "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 13:29:28 +0000",
+      "timestamp": 1786800568.0
+    },
+    {
+      "title": "S.A.T.U.R.D.A.Y: serf-hosted speech to text AI assistant",
+      "link": "https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 13:25:13 +0000",
+      "timestamp": 1786800313.0
+    },
+    {
+      "title": "1Password's new benchmark teaches AI agents how not to get scammed",
+      "link": "https://1password.github.io/SCAM/#",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 13:20:46 +0000",
+      "timestamp": 1786800046.0
+    },
+    {
+      "title": "AI assistance is not authorship",
+      "link": "https://twitter.com/Seltaa_/status/2088353576259314024",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 13:17:39 +0000",
+      "timestamp": 1786799859.0
+    },
+    {
+      "title": "The Reason AI Models Work [Prof. Andrew Wilson] [video]",
+      "link": "https://www.youtube.com/watch?v=M-jTeBCEGHc",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 13:02:18 +0000",
+      "timestamp": 1786798938.0
+    },
+    {
+      "title": "Meta Patents AI Glasses to Use Facial Recognition to Identify People",
+      "link": "https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 12:49:59 +0000",
+      "timestamp": 1786798199.0
+    },
+    {
+      "title": "Solvry AI-moderated anonymous peer support for teens",
+      "link": "https://solvry-repo-production.up.railway.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 12:48:29 +0000",
+      "timestamp": 1786798109.0
+    },
     {
       "title": "The Apache Lesson for AI",
       "link": "https://asimovaddendum.substack.com/p/why-open-source-matters-for-ai",
@@ -127,69 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 15 Aug 2026 08:35:23 +0000",
       "timestamp": 1786782923.0
-    },
-    {
-      "title": "Show HN: HN Without AI Stories",
-      "link": "https://hnnoai.readpipe.org/",
-      "summary": "URL: https://hnnoai.readpipe.org/",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 08:17:41 +0000",
-      "timestamp": 1786781861.0
-    },
-    {
-      "title": "Show HN: Chemistry AI – step-by-step chemistry solver",
-      "link": "https://chemistryai.chat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 08:11:48 +0000",
-      "timestamp": 1786781508.0
-    },
-    {
-      "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile",
-      "link": "https://www.kyivpost.com/post/82225",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 07:33:13 +0000",
-      "timestamp": 1786779193.0
-    },
-    {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 07:31:46 +0000",
-      "timestamp": 1786779106.0
-    },
-    {
-      "title": "AI agents aren't legally responsible for harm they cause. So who is?",
-      "link": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 07:31:43 +0000",
-      "timestamp": 1786779103.0
-    },
-    {
-      "title": "Open Commonplace – Protecting knowledge from being generalized by AI",
-      "link": "https://news.ycombinator.com/item?id=49308416",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 07:06:02 +0000",
-      "timestamp": 1786777562.0
-    },
-    {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 07:01:41 +0000",
-      "timestamp": 1786777301.0
     },
     {
       "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
