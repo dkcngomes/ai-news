@@ -1,7 +1,25 @@
 {
-  "scraped_at": "2026-08-15T10:37:21.198701+00:00",
+  "scraped_at": "2026-08-15T11:32:58.140944+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
+      "link": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 11:00:24 +0000",
+      "timestamp": 1786791624.0
+    },
+    {
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 10:39:41 +0000",
+      "timestamp": 1786790381.0
+    },
     {
       "title": "Training AI Scientists to Replicate Research",
       "link": "https://inherentlabs.ai/research/training-to-replicate",
@@ -172,24 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 15 Aug 2026 05:22:07 +0000",
       "timestamp": 1786771327.0
-    },
-    {
-      "title": "Show HN: I spent 3 months making desktop automation stop lying to AI agents",
-      "link": "https://github.com/lahfir/agent-desktop/tree/main",
-      "summary": "That's a bold claim. But I genuinely feel like I might have actually solved computer use (demo: https://x.com/mdlahfir/status/2088109763783700827?s=20 ) For context, I've been building agent-desktop (Inspired by agent-browser by Vercel Labs), an automation CLI for desktop apps. It's like Playwright but for desktops, not just native, but for Chromium apps as well. Trust me, yes, Chromium apps whose accessibility tree is dense. MacOS is GA; I'm almost close to launching for Windows and Linux! So, how did I solve it? Basically interoperability. The biggest issue with computer use is that we have ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 05:07:25 +0000",
-      "timestamp": 1786770445.0
-    },
-    {
-      "title": "Single-provider vs. multi-provider architectures for multimodal AI apps",
-      "link": "https://medium.com/@CometAPI_/how-to-architect-a-multimodal-app-for-chat-image-and-video-in-2026-770eb94952a0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 05:01:12 +0000",
-      "timestamp": 1786770072.0
     },
     {
       "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
