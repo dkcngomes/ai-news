@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-15T04:45:42.844676+00:00",
+  "scraped_at": "2026-08-15T05:39:18.901609+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Did the AI Bubble Just Pop?",
+      "link": "https://www.youtube.com/watch?v=wrFH8PvDPFE",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 05:22:07 +0000",
+      "timestamp": 1786771327.0
+    },
+    {
+      "title": "Show HN: I spent 3 months making desktop automation stop lying to AI agents",
+      "link": "https://github.com/lahfir/agent-desktop/tree/main",
+      "summary": "That's a bold claim. But I genuinely feel like I might have actually solved computer use (demo: https://x.com/mdlahfir/status/2088109763783700827?s=20 ) For context, I've been building agent-desktop (Inspired by agent-browser by Vercel Labs), an automation CLI for desktop apps. It's like Playwright but for desktops, not just native, but for Chromium apps as well. Trust me, yes, Chromium apps whose accessibility tree is dense. MacOS is GA; I'm almost close to launching for Windows and Linux! So, how did I solve it? Basically interoperability. The biggest issue with computer use is that we have ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 05:07:25 +0000",
+      "timestamp": 1786770445.0
+    },
+    {
+      "title": "Single-provider vs. multi-provider architectures for multimodal AI apps",
+      "link": "https://medium.com/@CometAPI_/how-to-architect-a-multimodal-app-for-chat-image-and-video-in-2026-770eb94952a0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 05:01:12 +0000",
+      "timestamp": 1786770072.0
+    },
+    {
+      "title": "Show HN: AI Meeting Assistant in Browser",
+      "link": "https://chatpanel.net/",
+      "summary": "chatpanel is a browser side panel that helps with in-browser meetings (Zoom, Teams, Google Meet, Webex) to capture the meeting transcription live, able to answer questions with integrated AI models, agents. Its the best way to experience meetings. All, privacy at the core of it in anonymizing data before it goes to AI models. Try it to experience the power of it.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 04:59:03 +0000",
+      "timestamp": 1786769943.0
+    },
     {
       "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
       "link": "https://www.phoronix.com/news/Comma.ai-PCIe-Gen4-USB4-Dock",
@@ -145,42 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 14 Aug 2026 22:44:34 +0000",
       "timestamp": 1786747474.0
-    },
-    {
-      "title": "US to tell partners they must pick sides in AI race with China",
-      "link": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 22:18:51 +0000",
-      "timestamp": 1786745931.0
-    },
-    {
-      "title": "Taiwan targeted in AI-driven hacking campaign",
-      "link": "https://www.taipeitimes.com/News/front/archives/2026/08/14/2003862463",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 22:09:51 +0000",
-      "timestamp": 1786745391.0
-    },
-    {
-      "title": "Show HN: WeaveScope – Elixir native observability for AI agents",
-      "link": "https://weavescope.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 21:58:16 +0000",
-      "timestamp": 1786744696.0
-    },
-    {
-      "title": "Show HN: A sandbox for AI agents using nothing but Go's standard library",
-      "link": "https://towardsdev.com/i-built-an-ai-agent-sandbox-from-the-go-standard-library-350ecac5d578?sk=f58cedafe6394788d87ecb3179f2ccbd",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 21:36:07 +0000",
-      "timestamp": 1786743367.0
     },
     {
       "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
