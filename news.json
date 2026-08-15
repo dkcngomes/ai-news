@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-15T03:52:44.887136+00:00",
+  "scraped_at": "2026-08-15T04:45:42.844676+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+      "link": "https://www.phoronix.com/news/Comma.ai-PCIe-Gen4-USB4-Dock",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 04:11:26 +0000",
+      "timestamp": 1786767086.0
+    },
+    {
+      "title": "Best AI solution to hunt for buffer overflows in open source apps?",
+      "link": "https://news.ycombinator.com/item?id=49307553",
+      "summary": "I'm an AI skeptic -- I was the type of person who made his students type out code from stack overflow, no copy and paste. (And don't get me started on this generation's lack of shitposting ability lol...) ANYWAYS - I attempted OSCP a while back, but floundered on the exploit generation portion... I think I know of a couple pieces of software that have some issues. I'd love to try to use AI to bridge that gap between theory and practice and maybe give a talk documenting my journey somewhere. (On the pentesting side, I feel pretty confident, and this way would allow me to not spend a bunch of mo",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 04:08:52 +0000",
+      "timestamp": 1786766932.0
+    },
+    {
+      "title": "People Who Will Thrive in the AI Age",
+      "link": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 03:58:17 +0000",
+      "timestamp": 1786766297.0
+    },
+    {
+      "title": "Dynatrace to buy AI observability startup Arize for $915M",
+      "link": "https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 03:49:18 +0000",
+      "timestamp": 1786765758.0
+    },
     {
       "title": "AI Driven Testing",
       "link": "https://app.deltix.ai",
@@ -147,24 +183,6 @@
       "timestamp": 1786743367.0
     },
     {
-      "title": "AI runs here. Not out there",
-      "link": "https://osaurus.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 21:32:28 +0000",
-      "timestamp": 1786743148.0
-    },
-    {
-      "title": "YeshiAI – AI for spiritual practice across five religious paths",
-      "link": "https://yeshi.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 21:15:31 +0000",
-      "timestamp": 1786742131.0
-    },
-    {
       "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
       "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
       "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
@@ -172,24 +190,6 @@
       "source": "Wired AI",
       "published": "Fri, 14 Aug 2026 20:59:03 +0000",
       "timestamp": 1786741143.0
-    },
-    {
-      "title": "Deploying and Installing SUSE AI",
-      "link": "https://documentation.suse.com/suse-ai/1.0/html/AI-deployment/index.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 20:58:40 +0000",
-      "timestamp": 1786741120.0
-    },
-    {
-      "title": "AI-Lab: Classical AI and search algorithms implemented in Python",
-      "link": "https://github.com/ob22a/ai-lab",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 20:47:57 +0000",
-      "timestamp": 1786740477.0
     },
     {
       "title": "Mark Zuckerberg has an Instagzam",
