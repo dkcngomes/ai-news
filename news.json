@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-15T17:34:06.819673+00:00",
+  "scraped_at": "2026-08-15T18:46:35.059133+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "The Three AI Pills",
+      "link": "https://thezvi.substack.com/p/the-three-ai-pills",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 18:24:27 +0000",
+      "timestamp": 1786818267.0
+    },
+    {
+      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 18:15:48 +0000",
+      "timestamp": 1786817748.0
+    },
+    {
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 18:13:02 +0000",
+      "timestamp": 1786817582.0
+    },
+    {
+      "title": "AI detectors are creating a new era of distrust",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 18:07:52 +0000",
+      "timestamp": 1786817272.0
+    },
+    {
+      "title": "Ask HN: Will AI lead to complete human irrelevance?",
+      "link": "https://news.ycombinator.com/item?id=49312559",
+      "summary": "After the recent mathematical advances in AI, it is clear that it is possible for AI to surpass the abilities of even the smartest humans in specific domains. I feel that it is thereby inevitable that AI will be able to surpass humans in any domain of economic, scientific, or otherwise practical relevance, it's just a matter of time. As a result, there will be nothing worth paying any human to do, as an AI system can do it faster, cheaper, more reliably. What is your best argument against this possibility? People were laughing at the idea of AI doing math at all a few years ago, I feel that al",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 17:41:17 +0000",
+      "timestamp": 1786815677.0
+    },
+    {
+      "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
+      "link": "https://lettertrace.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 17:35:13 +0000",
+      "timestamp": 1786815313.0
+    },
     {
       "title": "Don't let AI rob you",
       "link": "https://www.youtube.com/watch?v=-T39cM3LPk0",
@@ -136,60 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 15 Aug 2026 14:48:39 +0000",
       "timestamp": 1786805319.0
-    },
-    {
-      "title": "Paper on Architecture for AI-Assisted Software Development",
-      "link": "https://arxiv.org/abs/2606.27045",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 14:43:28 +0000",
-      "timestamp": 1786805008.0
-    },
-    {
-      "title": "Open-source wallet SDK for AI agents",
-      "link": "https://github.com/Squid-Pay/Squid-Agent-Wallet-SDK",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 14:19:20 +0000",
-      "timestamp": 1786803560.0
-    },
-    {
-      "title": "U.S. to tell partners they must pick sides in AI race with China",
-      "link": "https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 14:14:03 +0000",
-      "timestamp": 1786803243.0
-    },
-    {
-      "title": "The AI Situation in Software Development",
-      "link": "https://srikanth.ch/posts/the-ai-situation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 14:12:27 +0000",
-      "timestamp": 1786803147.0
-    },
-    {
-      "title": "Secondhand book sales are booming. Is it because of AI?",
-      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 14:08:55 +0000",
-      "timestamp": 1786802935.0
-    },
-    {
-      "title": "Model your business once – for humans and AI alike",
-      "link": "https://klr-pattern.github.io/nexusx/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 14:08:40 +0000",
-      "timestamp": 1786802920.0
     },
     {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
