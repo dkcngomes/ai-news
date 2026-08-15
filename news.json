@@ -1,7 +1,25 @@
 {
-  "scraped_at": "2026-08-15T21:34:10.295223+00:00",
+  "scraped_at": "2026-08-15T22:36:01.678571+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
+      "link": "https://fbirds5230.github.io/sentinel-scan/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 22:23:10 +0000",
+      "timestamp": 1786832590.0
+    },
+    {
+      "title": "Why AI agents need verified identity",
+      "link": "https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 21:44:48 +0000",
+      "timestamp": 1786830288.0
+    },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
@@ -10,6 +28,15 @@
       "source": "TechCrunch AI",
       "published": "Sat, 15 Aug 2026 21:29:19 +0000",
       "timestamp": 1786829359.0
+    },
+    {
+      "title": "The AI Slop Backlash Is Having an Impact",
+      "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 21:27:31 +0000",
+      "timestamp": 1786829251.0
     },
     {
       "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
@@ -84,9 +111,9 @@
       "timestamp": 1786822232.0
     },
     {
-      "title": "AI in drug discovery — what it is, where we stand and the path forward",
-      "link": "https://www.nature.com/articles/s41573-026-01496-2",
-      "summary": "",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2",
       "image": null,
       "source": "Hacker News (AI)",
       "published": "Sat, 15 Aug 2026 19:12:53 +0000",
@@ -120,7 +147,7 @@
       "timestamp": 1786817748.0
     },
     {
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "title": "AI has access to a vastly larger working memory than the human brain",
       "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "summary": "",
       "image": null,
@@ -190,33 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 15 Aug 2026 16:30:00 +0000",
       "timestamp": 1786811400.0
-    },
-    {
-      "title": "US to tell partners they must pick sides in AI race with China",
-      "link": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 16:25:14 +0000",
-      "timestamp": 1786811114.0
-    },
-    {
-      "title": "Godfather of AI: \"If you sleep well tonight...\" [video]",
-      "link": "https://www.youtube.com/watch?v=iVXerna_D4A",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 16:24:46 +0000",
-      "timestamp": 1786811086.0
-    },
-    {
-      "title": "Is AI Coding Effecting Our Mental Health? [video]",
-      "link": "https://www.youtube.com/watch?v=iPUn1Fnfn0k",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 16:21:54 +0000",
-      "timestamp": 1786810914.0
     },
     {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
