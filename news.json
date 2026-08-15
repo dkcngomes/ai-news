@@ -1,7 +1,34 @@
 {
-  "scraped_at": "2026-08-14T23:35:45.122432+00:00",
+  "scraped_at": "2026-08-15T01:48:56.691143+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
+      "link": "https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 00:44:04 +0000",
+      "timestamp": 1786754644.0
+    },
+    {
+      "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
+      "link": "https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 00:13:41 +0000",
+      "timestamp": 1786752821.0
+    },
+    {
+      "title": "Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance",
+      "link": "https://flownie.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 14 Aug 2026 23:38:09 +0000",
+      "timestamp": 1786750689.0
+    },
     {
       "title": "Talos AI Agent Super Secure",
       "link": "https://github.com/talos-kernel/talos",
@@ -163,33 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 14 Aug 2026 19:22:00 +0000",
       "timestamp": 1786735320.0
-    },
-    {
-      "title": "How AI is changing how I build software with Simon Willison, on Talking Postgres",
-      "link": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 19:04:31 +0000",
-      "timestamp": 1786734271.0
-    },
-    {
-      "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
-      "link": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 18:42:57 +0000",
-      "timestamp": 1786732977.0
-    },
-    {
-      "title": "Show HN: Captain, AI Travel Agent",
-      "link": "https://www.moonlight.ng/captain/",
-      "summary": "I’m a software designer from Lagos exploring conversational interfaces and frameworks for building agents. I made Captain to help with everyday travel planning. It can explore an itinerary, check live flight prices, or watch for the right time to book. Captain is a Telegram bot powered by a generalist model (anthropic/claude-sonnet-5), with specialist models handling workflows such as trip interpretation and voice transcription. It also includes a visual workspace where users can review the agent’s work and directly manipulate their travel information. I'm building the agent to explore how con",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 14 Aug 2026 18:25:20 +0000",
-      "timestamp": 1786731920.0
     },
     {
       "title": "Mark Zuckerberg has an Instagzam",
