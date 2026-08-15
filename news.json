@@ -1,7 +1,34 @@
 {
-  "scraped_at": "2026-08-15T08:44:15.857560+00:00",
+  "scraped_at": "2026-08-15T09:38:46.436659+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Debian has begun voting on the future of AI/LLM contributions",
+      "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 09:20:07 +0000",
+      "timestamp": 1786785607.0
+    },
+    {
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sat, 15 Aug 2026 09:00:00 +0000",
+      "timestamp": 1786784400.0
+    },
+    {
+      "title": "Show HN: AI First Virtual Linux Desktop as a Mac App",
+      "link": "https://aifcc.franzai.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 08:54:44 +0000",
+      "timestamp": 1786784084.0
+    },
     {
       "title": "Secondhand UK and Irish booksellers suspect AI firms behind strange bulk orders",
       "link": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
@@ -163,24 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 15 Aug 2026 04:08:52 +0000",
       "timestamp": 1786766932.0
-    },
-    {
-      "title": "People Who Will Thrive in the AI Age",
-      "link": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 03:58:17 +0000",
-      "timestamp": 1786766297.0
-    },
-    {
-      "title": "Dynatrace to buy AI observability startup Arize for $915M",
-      "link": "https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 03:49:18 +0000",
-      "timestamp": 1786765758.0
     },
     {
       "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
@@ -532,15 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 12 Aug 2026 16:57:58 +0000",
       "timestamp": 1786553878.0
-    },
-    {
-      "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-      "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-      "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "timestamp": 1786543200.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
