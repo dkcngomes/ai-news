@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-15T15:33:57.845390+00:00",
+  "scraped_at": "2026-08-15T16:39:14.623067+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "timestamp": 1786811400.0
+    },
+    {
+      "title": "US to tell partners they must pick sides in AI race with China",
+      "link": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 16:25:14 +0000",
+      "timestamp": 1786811114.0
+    },
+    {
+      "title": "Godfather of AI: \"If you sleep well tonight...\" [video]",
+      "link": "https://www.youtube.com/watch?v=iVXerna_D4A",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 16:24:46 +0000",
+      "timestamp": 1786811086.0
+    },
+    {
+      "title": "Is AI Coding Effecting Our Mental Health? [video]",
+      "link": "https://www.youtube.com/watch?v=iPUn1Fnfn0k",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 16:21:54 +0000",
+      "timestamp": 1786810914.0
+    },
+    {
+      "title": "Show HN: MyFirst.News – AI-generated podcast for curious kids",
+      "link": "https://myfirst.news/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 16:14:11 +0000",
+      "timestamp": 1786810451.0
+    },
+    {
+      "title": "Ask HN: How to Stay Marketable in the AI Era?",
+      "link": "https://news.ycombinator.com/item?id=49311655",
+      "summary": "I've got a CS degree and I'm working as a mid-level full stack developer. An unfortunate part of my career is being based in Iraq where almost no developer job exists, even if it did the competition would be crazy. I want to learn something new even if not software development related that should keep me marketable more than being a developer. But what!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 15:58:59 +0000",
+      "timestamp": 1786809539.0
+    },
+    {
+      "title": "SpaceX has acquired coding AI startup Cursor",
+      "link": "https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 15:57:09 +0000",
+      "timestamp": 1786809429.0
+    },
+    {
+      "title": "Mee Manga Translator: AI manga translation that preserves original artwork",
+      "link": "https://mangatranslator.me/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 15 Aug 2026 15:51:22 +0000",
+      "timestamp": 1786809082.0
+    },
     {
       "title": "AI Can Now Design Functional Viruses. Should We Worry?",
       "link": "https://spectrum.ieee.org/ai-designed-virus",
@@ -118,69 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 15 Aug 2026 13:43:46 +0000",
       "timestamp": 1786801426.0
-    },
-    {
-      "title": "Adversarial Creation and Detection of AI-Generated Social Bot Content",
-      "link": "https://arxiv.org/abs/2606.07219",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 13:40:47 +0000",
-      "timestamp": 1786801247.0
-    },
-    {
-      "title": "VictoriaMetrics: AI Policy",
-      "link": "https://docs.victoriametrics.com/victoriametrics/contributing/index.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 13:36:11 +0000",
-      "timestamp": 1786800971.0
-    },
-    {
-      "title": "GLM-5.3 – The Official Desktop Auditor for Z.AI's Cyber-Engine",
-      "link": "https://github.com/ZAI-GLM-5-3/glm-5.3",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 13:33:06 +0000",
-      "timestamp": 1786800786.0
-    },
-    {
-      "title": "AI Software Development – What Does the Data Say?",
-      "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 13:29:28 +0000",
-      "timestamp": 1786800568.0
-    },
-    {
-      "title": "S.A.T.U.R.D.A.Y: serf-hosted speech to text AI assistant",
-      "link": "https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 13:25:13 +0000",
-      "timestamp": 1786800313.0
-    },
-    {
-      "title": "1Password's new benchmark teaches AI agents how not to get scammed",
-      "link": "https://1password.github.io/SCAM/#",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 13:20:46 +0000",
-      "timestamp": 1786800046.0
-    },
-    {
-      "title": "AI assistance is not authorship",
-      "link": "https://twitter.com/Seltaa_/status/2088353576259314024",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 13:17:39 +0000",
-      "timestamp": 1786799859.0
     },
     {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
@@ -532,15 +541,6 @@
       "source": "The Verge AI",
       "published": "2026-08-12T13:29:10-04:00",
       "timestamp": 1786555750.0
-    },
-    {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 12 Aug 2026 16:57:58 +0000",
-      "timestamp": 1786553878.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
