@@ -1,7 +1,16 @@
 {
-  "scraped_at": "2026-08-16T03:58:00.889689+00:00",
+  "scraped_at": "2026-08-16T04:49:17.885260+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Ownership in the Age of AI",
+      "link": "https://sahilkolwankar.com/blog/ai-input-not-output/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 04:32:43 +0000",
+      "timestamp": 1786854763.0
+    },
     {
       "title": "Show HN: Grow your SaaS visibility with AI-powered discovery",
       "link": "https://saaslyra.com",
@@ -147,6 +156,15 @@
       "timestamp": 1786827965.0
     },
     {
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-15T16:45:00-04:00",
+      "timestamp": 1786826700.0
+    },
+    {
       "title": "Show HN: Glad-AI-Tor – AI tools ranked by user votes, not by who pays",
       "link": "https://glad-ia-tor.com",
       "summary": "",
@@ -181,15 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 15 Aug 2026 19:30:32 +0000",
       "timestamp": 1786822232.0
-    },
-    {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "summary": "https://www.nature.com/articles/s41573-026-01496-2",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 19:12:53 +0000",
-      "timestamp": 1786821173.0
     },
     {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -532,15 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 12 Aug 2026 18:19:12 +0000",
       "timestamp": 1786558752.0
-    },
-    {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-12T13:29:10-04:00",
-      "timestamp": 1786555750.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
