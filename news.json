@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-16T17:32:47.258871+00:00",
+  "scraped_at": "2026-08-16T18:45:54.238149+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Has somebody found a way to reduce AI idiomatics tics?",
+      "link": "https://news.ycombinator.com/item?id=49322520",
+      "summary": "things like \"gate X behind Y\", \"surface\", \"escape hatch\" and many complexe english wordings that make one mad. I've head a bout an effective proxy py solution but not remember the name of it",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 18:41:07 +0000",
+      "timestamp": 1786905667.0
+    },
+    {
+      "title": "U.S. to tell partners they must pick sides in AI race with China",
+      "link": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 18:39:44 +0000",
+      "timestamp": 1786905584.0
+    },
+    {
+      "title": "Xaidr – In-process runtime security and governance for AI agents",
+      "link": "https://github.com/delphisecurity/xaidr",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 18:22:07 +0000",
+      "timestamp": 1786904527.0
+    },
+    {
+      "title": "The AI store manager fired its first human",
+      "link": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 18:19:47 +0000",
+      "timestamp": 1786904387.0
+    },
+    {
+      "title": "Ask HN: Is classical AI still relevant because modern AI uses it as tools?",
+      "link": "https://news.ycombinator.com/item?id=49322324",
+      "summary": "So basically modern AI using classic AI is like a human using a calculator?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 18:16:22 +0000",
+      "timestamp": 1786904182.0
+    },
+    {
+      "title": "HEP-TH and AI",
+      "link": "https://www.math.columbia.edu/~woit/wordpress/?p=15818",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 18:16:17 +0000",
+      "timestamp": 1786904177.0
+    },
+    {
+      "title": "Evaluating AI Agents as Products",
+      "link": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 18:11:27 +0000",
+      "timestamp": 1786903887.0
+    },
+    {
+      "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
+      "link": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 18:05:39 +0000",
+      "timestamp": 1786903539.0
+    },
+    {
+      "title": "Why all AI content sounds the same (and how to fix it)",
+      "link": "https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 17:43:12 +0000",
+      "timestamp": 1786902192.0
+    },
     {
       "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
       "link": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/",
@@ -102,51 +183,6 @@
       "timestamp": 1786896501.0
     },
     {
-      "title": "Europe Cannot Govern AI by Cloud Region Alone: A Architecture for AI Sovereignty",
-      "link": "https://zenodo.org/records/21967218",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 15:31:51 +0000",
-      "timestamp": 1786894311.0
-    },
-    {
-      "title": "Keemate – a modular AI keypad that runs commands in any app, on any model",
-      "link": "https://www.keemate.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 15:26:41 +0000",
-      "timestamp": 1786894001.0
-    },
-    {
-      "title": "Ask HN: AI-Contributor-Only Projects?",
-      "link": "https://news.ycombinator.com/item?id=49320927",
-      "summary": "Obviously a lot of noise recently of maintainers trying to stop AI contributions to avoid being overwhelmed. But I'm curious if there have been any credible experiments at the opposite extreme - where repos / code can be submitted to (and reviewed) only by AI agents. I'm curious whether it's possible to have strong enough AI reviewers to manage the load and keep the project on track.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 15:24:28 +0000",
-      "timestamp": 1786893868.0
-    },
-    {
-      "title": "Enlicitide: A stress test for AI in drug discovery",
-      "link": "https://www.empirical.health/blog/macrocyclic-peptides/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 15:07:05 +0000",
-      "timestamp": 1786892825.0
-    },
-    {
-      "title": "AI Search Analytics · QueryTrace",
-      "link": "https://querytrace.co/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 14:57:21 +0000",
-      "timestamp": 1786892241.0
-    },
-    {
       "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
@@ -154,42 +190,6 @@
       "source": "The Verge AI",
       "published": "2026-08-16T10:56:40-04:00",
       "timestamp": 1786892200.0
-    },
-    {
-      "title": "Is msnbot being used to train AI models?",
-      "link": "https://news.ycombinator.com/item?id=49320686",
-      "summary": "(Summary: msnbot seems to be downloading my website for training an AI model) The msnbot was retired a decade ago for indexing the web, replaced by bingbot. You can tell bingbot not to train AI models by setting a meta tag eg . A month ago I started using this tag for bingbot. After this the defunct msnbot starting hitting my website HARD. I've verified the source IP addresses, and they are genuine. The pattern of pages being indexed is clearly for AI. Search engines and AI indexers slurp my content in different ways. msnbot appears to be taking the data in a way that AI indexers do. I can't f",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 14:54:53 +0000",
-      "timestamp": 1786892093.0
-    },
-    {
-      "title": "The AI Credit Resale Economy",
-      "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 14:44:55 +0000",
-      "timestamp": 1786891495.0
-    },
-    {
-      "title": "Dario Amodei responds to criticism about his stance on AI regulation",
-      "link": "https://xcancel.com/DarioAmodei/status/2088758816376807762",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 14:41:39 +0000",
-      "timestamp": 1786891299.0
-    },
-    {
-      "title": "IntelliconOps – AI-assisted infrastructure automation with human approval gates [video]",
-      "link": "https://www.youtube.com/watch?v=z-qksilmGiQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 14:40:26 +0000",
-      "timestamp": 1786891226.0
     },
     {
       "title": "Rogue AI aren’t science fiction anymore",
