@@ -1,7 +1,16 @@
 {
-  "scraped_at": "2026-08-16T01:56:16.087975+00:00",
+  "scraped_at": "2026-08-16T03:11:44.141168+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Has the hallucination problem in AI been solved?",
+      "link": "https://news.ycombinator.com/item?id=49316330",
+      "summary": "My understanding that all AI can, and will hallucinate. I get downvoted for saying this, but no one ever says I'm wrong or cites any source. Perhaps it's more nuanced than that? Please, enlighten me.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 02:23:52 +0000",
+      "timestamp": 1786847032.0
+    },
     {
       "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
       "link": "https://truestar.tech",
@@ -28,15 +37,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 16 Aug 2026 00:31:36 +0000",
       "timestamp": 1786840296.0
-    },
-    {
-      "title": "The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
-      "link": "https://github.com/TraceCohenTech/ai-seo-playbook",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 00:19:59 +0000",
-      "timestamp": 1786839599.0
     },
     {
       "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
