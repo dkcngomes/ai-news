@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-16T14:36:46.153633+00:00",
+  "scraped_at": "2026-08-16T15:34:24.240795+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Enlicitide: A stress test for AI in drug discovery",
+      "link": "https://www.empirical.health/blog/macrocyclic-peptides/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 15:07:05 +0000",
+      "timestamp": 1786892825.0
+    },
+    {
+      "title": "AI Search Analytics · QueryTrace",
+      "link": "https://querytrace.co/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 14:57:21 +0000",
+      "timestamp": 1786892241.0
+    },
+    {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-16T10:56:40-04:00",
+      "timestamp": 1786892200.0
+    },
+    {
+      "title": "Is msnbot being used to train AI models?",
+      "link": "https://news.ycombinator.com/item?id=49320686",
+      "summary": "(Summary: msnbot seems to be downloading my website for training an AI model) The msnbot was retired a decade ago for indexing the web, replaced by bingbot. You can tell bingbot not to train AI models by setting a meta tag eg . A month ago I started using this tag for bingbot. After this the defunct msnbot starting hitting my website HARD. I've verified the source IP addresses, and they are genuine. The pattern of pages being indexed is clearly for AI. Search engines and AI indexers slurp my content in different ways. msnbot appears to be taking the data in a way that AI indexers do. I can't f",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 14:54:53 +0000",
+      "timestamp": 1786892093.0
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 14:44:55 +0000",
+      "timestamp": 1786891495.0
+    },
+    {
+      "title": "Dario Amodei responds to criticism about his stance on AI regulation",
+      "link": "https://xcancel.com/DarioAmodei/status/2088758816376807762",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 14:41:39 +0000",
+      "timestamp": 1786891299.0
+    },
+    {
+      "title": "IntelliconOps – AI-assisted infrastructure automation with human approval gates [video]",
+      "link": "https://www.youtube.com/watch?v=z-qksilmGiQ",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 14:40:26 +0000",
+      "timestamp": 1786891226.0
+    },
     {
       "title": "Mathematicians Despair as AI Achieves Jaw-Dropping Breakthroughs",
       "link": "https://www.telegraph.co.uk/business/2026/08/16/mathematicians-despair-ai-breakthrough/",
@@ -127,60 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 16 Aug 2026 11:28:50 +0000",
       "timestamp": 1786879730.0
-    },
-    {
-      "title": "WAIC 2026: a glimpse of embodied AI innovations, humanoid robots [video]",
-      "link": "https://www.youtube.com/watch?v=rgYHEq9_SM0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 11:16:33 +0000",
-      "timestamp": 1786878993.0
-    },
-    {
-      "title": "AGCX: Why AI Agents aren't assistants",
-      "link": "https://www.agcx.org",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 11:04:59 +0000",
-      "timestamp": 1786878299.0
-    },
-    {
-      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
-      "link": "https://arxiv.org/abs/2608.13522",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 11:03:32 +0000",
-      "timestamp": 1786878212.0
-    },
-    {
-      "title": "The first anti-AI protester to be jailed has a message: 'Regain your humanity'",
-      "link": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 10:53:16 +0000",
-      "timestamp": 1786877596.0
-    },
-    {
-      "title": "The 'Country Hicks' Who Refused $26M from an AI Data Center",
-      "link": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 10:49:36 +0000",
-      "timestamp": 1786877376.0
-    },
-    {
-      "title": "AetherGrid – Distributed AI compute orchestration without K8s",
-      "link": "https://github.com/wycliffRotich-dev/aethergrid",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 10:47:04 +0000",
-      "timestamp": 1786877224.0
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -469,15 +478,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 14:34:43 +0000",
       "timestamp": 1786631683.0
-    },
-    {
-      "title": "Does Google even want to win at AI?",
-      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-13T10:10:31-04:00",
-      "timestamp": 1786630231.0
     },
     {
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
