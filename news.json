@@ -1,11 +1,47 @@
 {
-  "scraped_at": "2026-08-16T18:45:54.238149+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-16T19:31:44.922940+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
+      "link": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 19:19:53 +0000",
+      "timestamp": 1786907993.0
+    },
+    {
+      "title": "Mathematics in the Age of AI – Terence Tao",
+      "link": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 19:19:00 +0000",
+      "timestamp": 1786907940.0
+    },
+    {
+      "title": "AI Stock Research Assistant · Streamlit",
+      "link": "https://ai-stock-research-kiaan.streamlit.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 19:12:42 +0000",
+      "timestamp": 1786907562.0
+    },
+    {
+      "title": "Low-regret recommendations for AI policy",
+      "link": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 19:05:26 +0000",
+      "timestamp": 1786907126.0
+    },
     {
       "title": "Has somebody found a way to reduce AI idiomatics tics?",
       "link": "https://news.ycombinator.com/item?id=49322520",
-      "summary": "things like \"gate X behind Y\", \"surface\", \"escape hatch\" and many complexe english wordings that make one mad. I've head a bout an effective proxy py solution but not remember the name of it",
+      "summary": "So much to read, even for a simple fix or feature. Things like \"gate X behind Y\", \"surface\", \"escape hatch\" and many complexe english wordings that make one mad. I've head a bout an effective proxy py solution but not remember the name of it",
       "image": null,
       "source": "Hacker News (AI)",
       "published": "Sun, 16 Aug 2026 18:41:07 +0000",
@@ -154,42 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 16 Aug 2026 16:47:40 +0000",
       "timestamp": 1786898860.0
-    },
-    {
-      "title": "Ask HN: What tools are you using for human code review of AI-assisted code?",
-      "link": "https://news.ycombinator.com/item?id=49321400",
-      "summary": "A good proportion of us and our colleagues are now churning out agent-assisted code at an incredible rate, with some of it that is actually good, and a lot that is not so good. I'm personally finding that the real quality gate for our projects is now how thoroughly the generated code was human reviewed to ensure that it is not just correct, but architecturally sensible. AI code review tools like coderabbit and copilot, or even pointing claude code at a PR are all generally pretty good at finding bugs and style nits, but less good at finding duplicate code, module cross coupling, bad separation",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 16:20:45 +0000",
-      "timestamp": 1786897245.0
-    },
-    {
-      "title": "Show HN: Rungraph – See your AI coding-agent runs as a graph",
-      "link": "https://github.com/fayzan123/rungraph",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 16:18:51 +0000",
-      "timestamp": 1786897131.0
-    },
-    {
-      "title": "Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
-      "link": "https://huggingface.co/blog/FINAL-Bench/open-discovery-challenge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 16:08:21 +0000",
-      "timestamp": 1786896501.0
-    },
-    {
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-16T10:56:40-04:00",
-      "timestamp": 1786892200.0
     },
     {
       "title": "Rogue AI aren’t science fiction anymore",
@@ -487,6 +487,15 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 14:34:43 +0000",
       "timestamp": 1786631683.0
+    },
+    {
+      "title": "Does Google even want to win at AI?",
+      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-13T10:10:31-04:00",
+      "timestamp": 1786630231.0
     },
     {
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
