@@ -1,159 +1,15 @@
 {
-  "scraped_at": "2026-08-16T19:31:44.922940+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-16T20:36:25.070218+00:00",
+  "count": 47,
   "items": [
     {
-      "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
-      "link": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
-      "summary": "",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 19:19:53 +0000",
-      "timestamp": 1786907993.0
-    },
-    {
-      "title": "Mathematics in the Age of AI – Terence Tao",
-      "link": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 19:19:00 +0000",
-      "timestamp": 1786907940.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 19:12:42 +0000",
-      "timestamp": 1786907562.0
-    },
-    {
-      "title": "Low-regret recommendations for AI policy",
-      "link": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 19:05:26 +0000",
-      "timestamp": 1786907126.0
-    },
-    {
-      "title": "Has somebody found a way to reduce AI idiomatics tics?",
-      "link": "https://news.ycombinator.com/item?id=49322520",
-      "summary": "So much to read, even for a simple fix or feature. Things like \"gate X behind Y\", \"surface\", \"escape hatch\" and many complexe english wordings that make one mad. I've head a bout an effective proxy py solution but not remember the name of it",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 18:41:07 +0000",
-      "timestamp": 1786905667.0
-    },
-    {
-      "title": "U.S. to tell partners they must pick sides in AI race with China",
-      "link": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 18:39:44 +0000",
-      "timestamp": 1786905584.0
-    },
-    {
-      "title": "Xaidr – In-process runtime security and governance for AI agents",
-      "link": "https://github.com/delphisecurity/xaidr",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 18:22:07 +0000",
-      "timestamp": 1786904527.0
-    },
-    {
-      "title": "The AI store manager fired its first human",
-      "link": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 18:19:47 +0000",
-      "timestamp": 1786904387.0
-    },
-    {
-      "title": "Ask HN: Is classical AI still relevant because modern AI uses it as tools?",
-      "link": "https://news.ycombinator.com/item?id=49322324",
-      "summary": "So basically modern AI using classic AI is like a human using a calculator?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 18:16:22 +0000",
-      "timestamp": 1786904182.0
-    },
-    {
-      "title": "HEP-TH and AI",
-      "link": "https://www.math.columbia.edu/~woit/wordpress/?p=15818",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 18:16:17 +0000",
-      "timestamp": 1786904177.0
-    },
-    {
-      "title": "Evaluating AI Agents as Products",
-      "link": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 18:11:27 +0000",
-      "timestamp": 1786903887.0
-    },
-    {
-      "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
-      "link": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 18:05:39 +0000",
-      "timestamp": 1786903539.0
-    },
-    {
-      "title": "Why all AI content sounds the same (and how to fix it)",
-      "link": "https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 17:43:12 +0000",
-      "timestamp": 1786902192.0
-    },
-    {
-      "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
-      "link": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 17:19:09 +0000",
-      "timestamp": 1786900749.0
-    },
-    {
-      "title": "AgentShield – Offline Rust security scanner for AI agent tools and MCP (<50ms)",
-      "link": "https://github.com/aiconnai/agentshield",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 17:12:52 +0000",
-      "timestamp": 1786900372.0
-    },
-    {
-      "title": "AI won't solve the work-theater problem",
-      "link": "https://think-twice.me/?p=102",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 17:03:50 +0000",
-      "timestamp": 1786899830.0
-    },
-    {
-      "title": "Publishing: What's Worse Than AI Slop? Trad Slop",
-      "link": "https://novelarcade.substack.com/p/whats-worse-than-ai-slop-trad-slop",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 17:03:21 +0000",
-      "timestamp": 1786899801.0
+      "source": "TechCrunch AI",
+      "published": "Sun, 16 Aug 2026 20:32:01 +0000",
+      "timestamp": 1786912321.0
     },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
@@ -165,31 +21,13 @@
       "timestamp": 1786899231.0
     },
     {
-      "title": "AI and the Changing Future of Mathematics",
-      "link": "https://www.understandingai.org/p/mathematicians-are-grappling-with",
-      "summary": "",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 16:50:56 +0000",
-      "timestamp": 1786899056.0
-    },
-    {
-      "title": "Breaking AI Orchestration: Hijacking N8n HITL Chat Sessions",
-      "link": "https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 16:49:31 +0000",
-      "timestamp": 1786898971.0
-    },
-    {
-      "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
-      "link": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 16:47:40 +0000",
-      "timestamp": 1786898860.0
+      "source": "The Verge AI",
+      "published": "2026-08-16T10:56:40-04:00",
+      "timestamp": 1786892200.0
     },
     {
       "title": "Rogue AI aren’t science fiction anymore",
@@ -489,15 +327,6 @@
       "timestamp": 1786631683.0
     },
     {
-      "title": "Does Google even want to win at AI?",
-      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-13T10:10:31-04:00",
-      "timestamp": 1786630231.0
-    },
-    {
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
       "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
       "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
@@ -523,15 +352,6 @@
       "source": "Wired AI",
       "published": "Wed, 12 Aug 2026 21:00:00 +0000",
       "timestamp": 1786568400.0
-    },
-    {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 12 Aug 2026 20:10:40 +0000",
-      "timestamp": 1786565440.0
     },
     {
       "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
