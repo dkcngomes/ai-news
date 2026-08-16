@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-16T10:37:53.484672+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-16T11:33:03.992312+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "WAIC 2026: a glimpse of embodied AI innovations, humanoid robots [video]",
+      "link": "https://www.youtube.com/watch?v=rgYHEq9_SM0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 11:16:33 +0000",
+      "timestamp": 1786878993.0
+    },
+    {
+      "title": "AGCX: Why AI Agents aren't assistants",
+      "link": "https://www.agcx.org",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 11:04:59 +0000",
+      "timestamp": 1786878299.0
+    },
+    {
+      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+      "link": "https://arxiv.org/abs/2608.13522",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 11:03:32 +0000",
+      "timestamp": 1786878212.0
+    },
+    {
+      "title": "The first anti-AI protester to be jailed has a message: 'Regain your humanity'",
+      "link": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 10:53:16 +0000",
+      "timestamp": 1786877596.0
+    },
+    {
+      "title": "The 'Country Hicks' Who Refused $26M from an AI Data Center",
+      "link": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 10:49:36 +0000",
+      "timestamp": 1786877376.0
+    },
+    {
+      "title": "AetherGrid – Distributed AI compute orchestration without K8s",
+      "link": "https://github.com/wycliffRotich-dev/aethergrid",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 10:47:04 +0000",
+      "timestamp": 1786877224.0
+    },
+    {
+      "title": "Interface for AI agents was invented in 1978",
+      "link": "https://dev.profullstack.com/~anthony/blog/011-post.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 10:46:39 +0000",
+      "timestamp": 1786877199.0
+    },
+    {
+      "title": "An AI agent can burn 100× the tokens of a chat turn",
+      "link": "https://aicharts.grok.me/c/agent-tokens",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 10:43:18 +0000",
+      "timestamp": 1786876998.0
+    },
+    {
+      "title": "AI Coding Without the Vibes",
+      "link": "https://peterbloem.nl/blog/craft-coding",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 10:31:36 +0000",
+      "timestamp": 1786876296.0
+    },
     {
       "title": "AstroUpdate – Real-time space news, 3D ISS tracking and AI briefs",
       "link": "https://www.astroupdate.space/en",
@@ -91,96 +172,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 16 Aug 2026 08:32:00 +0000",
       "timestamp": 1786869120.0
-    },
-    {
-      "title": "AI Agent Insurance Products: The New Wave",
-      "link": "https://openkoda.com/ai-agent-insurance-products/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 08:17:16 +0000",
-      "timestamp": 1786868236.0
-    },
-    {
-      "title": "AI text watermarking is not a big deal",
-      "link": "https://www.seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 08:00:38 +0000",
-      "timestamp": 1786867238.0
-    },
-    {
-      "title": "Pax Silica vs. Waico: Competing AI and Tech Blocs",
-      "link": "https://earthly.city/datasets/geoevent/naddr1qvzqqqyj3vpzpfe82g8nhe34mayaj656t2zctv0d5nsv6kjnss558wkrf4kapd30qq257vm6wddx5un4x94kkvtsf5mxkjtcd9jxg58ju7p?ms=dataset%3Aa727520f3be635df49d96a9a5a8585b1eda4e0cd5a53842943bac34d6dd0b62f%3AO3zsZjru1kk1pM6kIxidd",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 07:52:53 +0000",
-      "timestamp": 1786866773.0
-    },
-    {
-      "title": "Invisible to the Machine: auditing AI recommendation against a complete census",
-      "link": "https://arxiv.org/abs/2608.07069",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 07:49:37 +0000",
-      "timestamp": 1786866577.0
-    },
-    {
-      "title": "AI Agents have a half-life",
-      "link": "https://construct.computer/blog/agent-task-half-life/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 07:12:58 +0000",
-      "timestamp": 1786864378.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 06:45:09 +0000",
-      "timestamp": 1786862709.0
-    },
-    {
-      "title": "Beijing is forcing a mass breakup with AI lovers",
-      "link": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 06:03:21 +0000",
-      "timestamp": 1786860201.0
-    },
-    {
-      "title": "Tokencompress A sub-2ms Go CLI and MCP sidecar that prunes AI agent tool context",
-      "link": "https://github.com/dburnett11155-rgb/Tokencompress",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 05:55:12 +0000",
-      "timestamp": 1786859712.0
-    },
-    {
-      "title": "I built AIM Maps but you play AI",
-      "link": "https://www.1vs1.xyz/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 05:00:10 +0000",
-      "timestamp": 1786856410.0
-    },
-    {
-      "title": "Ownership in the Age of AI",
-      "link": "https://sahilkolwankar.com/blog/ai-input-not-output/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 04:32:43 +0000",
-      "timestamp": 1786854763.0
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
