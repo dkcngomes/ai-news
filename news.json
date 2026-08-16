@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-16T15:34:24.240795+00:00",
+  "scraped_at": "2026-08-16T16:41:10.683665+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Ask HN: What tools are you using for human code review of AI-assisted code?",
+      "link": "https://news.ycombinator.com/item?id=49321400",
+      "summary": "A good proportion of us and our colleagues are now churning out agent-assisted code at an incredible rate, with some of it that is actually good, and a lot that is not so good. I'm personally finding that the real quality gate for our projects is now how thoroughly the generated code was human reviewed to ensure that it is not just correct, but architecturally sensible. AI code review tools like coderabbit and copilot, or even pointing claude code at a PR are all generally pretty good at finding bugs and style nits, but less good at finding duplicate code, module cross coupling, bad separation",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 16:20:45 +0000",
+      "timestamp": 1786897245.0
+    },
+    {
+      "title": "Show HN: Rungraph – See your AI coding-agent runs as a graph",
+      "link": "https://github.com/fayzan123/rungraph",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 16:18:51 +0000",
+      "timestamp": 1786897131.0
+    },
+    {
+      "title": "Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+      "link": "https://huggingface.co/blog/FINAL-Bench/open-discovery-challenge",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 16:08:21 +0000",
+      "timestamp": 1786896501.0
+    },
+    {
+      "title": "Europe Cannot Govern AI by Cloud Region Alone: A Architecture for AI Sovereignty",
+      "link": "https://zenodo.org/records/21967218",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 15:31:51 +0000",
+      "timestamp": 1786894311.0
+    },
+    {
+      "title": "Keemate – a modular AI keypad that runs commands in any app, on any model",
+      "link": "https://www.keemate.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 15:26:41 +0000",
+      "timestamp": 1786894001.0
+    },
+    {
+      "title": "Ask HN: AI-Contributor-Only Projects?",
+      "link": "https://news.ycombinator.com/item?id=49320927",
+      "summary": "Obviously a lot of noise recently of maintainers trying to stop AI contributions to avoid being overwhelmed. But I'm curious if there have been any credible experiments at the opposite extreme - where repos / code can be submitted to (and reviewed) only by AI agents. I'm curious whether it's possible to have strong enough AI reviewers to manage the load and keep the project on track.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 15:24:28 +0000",
+      "timestamp": 1786893868.0
+    },
     {
       "title": "Enlicitide: A stress test for AI in drug discovery",
       "link": "https://www.empirical.health/blog/macrocyclic-peptides/",
@@ -129,42 +183,6 @@
       "timestamp": 1786884871.0
     },
     {
-      "title": "Show HN: A pre-execution guard that stops AI agents running destructive commands",
-      "link": "https://github.com/vandith1/agent-guard",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 12:53:51 +0000",
-      "timestamp": 1786884831.0
-    },
-    {
-      "title": "AI-Prepped Paper Passed Peer Review. Now What?",
-      "link": "https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 12:30:06 +0000",
-      "timestamp": 1786883406.0
-    },
-    {
-      "title": "Measuring Autonomous AI Research",
-      "link": "https://www.primeintellect.ai/blog/measuring-autonomous-research",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 12:16:20 +0000",
-      "timestamp": 1786882580.0
-    },
-    {
-      "title": "Show HN: Who is using AI? A daily tracker, 1,600+ city heatmap, DOI dataset",
-      "link": "https://whoisusingai.com/tracker",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 12:01:34 +0000",
-      "timestamp": 1786881694.0
-    },
-    {
       "title": "Rogue AI aren’t science fiction anymore",
       "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents [&#8230;]",
@@ -172,24 +190,6 @@
       "source": "The Verge AI",
       "published": "2026-08-16T08:00:00-04:00",
       "timestamp": 1786881600.0
-    },
-    {
-      "title": "US warns allied nations: Side with us in the AI race",
-      "link": "https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 11:49:53 +0000",
-      "timestamp": 1786880993.0
-    },
-    {
-      "title": "Show HN: Remove AI voice from AI writings",
-      "link": "https://unslopai.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 11:28:50 +0000",
-      "timestamp": 1786879730.0
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
