@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-16T08:45:46.340736+00:00",
+  "scraped_at": "2026-08-16T09:40:38.102789+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Show HN: BuzzRadr – an MCP server for AI trend signals, no API key",
+      "link": "https://news.ycombinator.com/item?id=49318428",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 09:34:00 +0000",
+      "timestamp": 1786872840.0
+    },
+    {
+      "title": "The Economist Who Predicted 2008 Crash Says AI Bubble Bursts Soon – Steve Keen [video]",
+      "link": "https://www.youtube.com/watch?v=nx5FiWfD5U4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 09:23:51 +0000",
+      "timestamp": 1786872231.0
+    },
+    {
+      "title": "Show HN: RNet – AI token service provider",
+      "link": "https://news.ycombinator.com/item?id=49318304",
+      "summary": "I built rNet. Why I built ? : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the deployment agent. To keep using it, I either had to wait for credits to reset or upgrade to a higher subscription or buy tokens. At the same time, I already had a subscription for the IDE, but I could not use those credits on Hostinger. simply despite having credits, we cannot use them. The basic idea is simple: users buy credits once on our platform and then use those credits across different AI applications. (It sound like OpenRouter, but the two platforms are ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 09:11:32 +0000",
+      "timestamp": 1786871492.0
+    },
+    {
+      "title": "AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]",
+      "link": "https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 09:04:02 +0000",
+      "timestamp": 1786871042.0
+    },
     {
       "title": "NamingCube – AI name generator that checks if you can use the name",
       "link": "https://www.namingcube.com/",
@@ -145,42 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 16 Aug 2026 01:23:52 +0000",
       "timestamp": 1786843432.0
-    },
-    {
-      "title": "Snap Chart AI",
-      "link": "https://www.snap-chart.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 00:59:15 +0000",
-      "timestamp": 1786841955.0
-    },
-    {
-      "title": "The AI Bubble Is on Its Last Legs",
-      "link": "https://www.youtube.com/watch?v=szK9LIGvW1o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 00:31:36 +0000",
-      "timestamp": 1786840296.0
-    },
-    {
-      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 23:10:56 +0000",
-      "timestamp": 1786835456.0
-    },
-    {
-      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "link": "https://arxiv.org/abs/2608.13122",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 15 Aug 2026 22:41:51 +0000",
-      "timestamp": 1786833711.0
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
