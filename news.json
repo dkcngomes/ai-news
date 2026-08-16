@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-08-16T20:36:25.070218+00:00",
-  "count": 47,
+  "scraped_at": "2026-08-16T21:33:14.717262+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Show HN: VocalCode – push-to-talk dictation for AI coding agents, on-device",
+      "link": "https://vocalcode.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 21:20:54 +0000",
+      "timestamp": 1786915254.0
+    },
+    {
+      "title": "Show HN: Remarc – provide more contextual and structured feedback to AI agents",
+      "link": "https://github.com/metedata/Remarc",
+      "summary": "Like any side project, Remarc started with my own problem: there was no good way to give AI coding agents contextual feedback on their own output. There are plenty of tools for collaborating with humans, but surprisingly few for collaborating with AI. Chat was not cutting it for the feedback I wanted to give: This thing in the implementation plan? Change it to that. What did you mean here? See this button? Here is a screenshot. I circled it because it is missing a hover state. This sentence in the third paragraph? Rephrase it. If you are an opinionated builder, this gets clunky quickly. You ei",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 21:14:57 +0000",
+      "timestamp": 1786914897.0
+    },
+    {
+      "title": "AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]",
+      "link": "https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 21:01:17 +0000",
+      "timestamp": 1786914077.0
+    },
+    {
+      "title": "Show HN: Conw.ai – Independent local AI platform and developer API",
+      "link": "https://conw.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 21:00:47 +0000",
+      "timestamp": 1786914047.0
+    },
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "timestamp": 1786913824.0
+    },
+    {
+      "title": "Do people care if articles are written by AI?",
+      "link": "https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 20:47:20 +0000",
+      "timestamp": 1786913240.0
+    },
+    {
+      "title": "Beautiful UI for AI-native interfaces",
+      "link": "https://www.beautifului.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 20:42:52 +0000",
+      "timestamp": 1786912972.0
+    },
+    {
+      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
+      "link": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 20:38:41 +0000",
+      "timestamp": 1786912721.0
+    },
+    {
+      "title": "ScreenForm – circle anything on your screen, get an AI answer",
+      "link": "https://screenform.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 20:35:21 +0000",
+      "timestamp": 1786912521.0
+    },
+    {
+      "title": "Rounds of AI telephone with an egg. The word \"chicken\" lost on round 10",
+      "link": "https://twitter.com/geno_spot/status/2089086269087166694",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 20:35:10 +0000",
+      "timestamp": 1786912510.0
+    },
     {
       "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
       "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
@@ -10,6 +100,96 @@
       "source": "TechCrunch AI",
       "published": "Sun, 16 Aug 2026 20:32:01 +0000",
       "timestamp": 1786912321.0
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 20:31:16 +0000",
+      "timestamp": 1786912276.0
+    },
+    {
+      "title": "Show HN: AI activity discovery that brings all activities to one platform",
+      "link": "https://hyp-e.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 20:04:37 +0000",
+      "timestamp": 1786910677.0
+    },
+    {
+      "title": "Red queen hypothesis – a new way forward for self-improving AI",
+      "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 20:01:13 +0000",
+      "timestamp": 1786910473.0
+    },
+    {
+      "title": "Stripe Nears Deal to Buy AI Firm OpenRouter for over $7B",
+      "link": "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 19:47:34 +0000",
+      "timestamp": 1786909654.0
+    },
+    {
+      "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
+      "link": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 19:19:53 +0000",
+      "timestamp": 1786907993.0
+    },
+    {
+      "title": "Mathematics in the Age of AI – Terence Tao",
+      "link": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 19:19:00 +0000",
+      "timestamp": 1786907940.0
+    },
+    {
+      "title": "AI Stock Research Assistant · Streamlit",
+      "link": "https://ai-stock-research-kiaan.streamlit.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 19:12:42 +0000",
+      "timestamp": 1786907562.0
+    },
+    {
+      "title": "Low-regret recommendations for AI policy",
+      "link": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 19:05:26 +0000",
+      "timestamp": 1786907126.0
+    },
+    {
+      "title": "Has somebody found a way to reduce AI idiomatics tics?",
+      "link": "https://news.ycombinator.com/item?id=49322520",
+      "summary": "So much to read, even for a simple fix or feature. Things like \"gate X behind Y\", \"surface\", \"escape hatch\" and many complexe english wordings that make one mad. I've head a bout an effective proxy py solution but not remember the name of it",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 18:41:07 +0000",
+      "timestamp": 1786905667.0
+    },
+    {
+      "title": "U.S. to tell partners they must pick sides in AI race with China",
+      "link": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 18:39:44 +0000",
+      "timestamp": 1786905584.0
     },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
@@ -334,15 +514,6 @@
       "source": "Wired AI",
       "published": "Thu, 13 Aug 2026 09:00:00 +0000",
       "timestamp": 1786611600.0
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 12 Aug 2026 22:26:37 +0000",
-      "timestamp": 1786573597.0
     },
     {
       "title": "The White House Is Going to Expand Its AI Policy",
