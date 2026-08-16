@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-16T22:35:30.964133+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-16T23:33:01.389387+00:00",
+  "count": 65,
   "items": [
+    {
+      "title": "AI Slop Is Real",
+      "link": "https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 22:52:39 +0000",
+      "timestamp": 1786920759.0
+    },
+    {
+      "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+      "link": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 22:50:38 +0000",
+      "timestamp": 1786920638.0
+    },
+    {
+      "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says",
+      "link": "https://www.kyivpost.com/post/82225",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 22:33:03 +0000",
+      "timestamp": 1786919583.0
+    },
+    {
+      "title": "Smarter – open-source, declarative AI authoring platform (Django, K8s-inspired)",
+      "link": "https://github.com/smarter-sh/smarter",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 22:25:17 +0000",
+      "timestamp": 1786919117.0
+    },
     {
       "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
       "link": "https://github.com/gmhoward9289-ops/legbar",
@@ -154,51 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 16 Aug 2026 20:04:37 +0000",
       "timestamp": 1786910677.0
-    },
-    {
-      "title": "Red queen hypothesis – a new way forward for self-improving AI",
-      "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 20:01:13 +0000",
-      "timestamp": 1786910473.0
-    },
-    {
-      "title": "Stripe Nears Deal to Buy AI Firm OpenRouter for over $7B",
-      "link": "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 19:47:34 +0000",
-      "timestamp": 1786909654.0
-    },
-    {
-      "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
-      "link": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 19:19:53 +0000",
-      "timestamp": 1786907993.0
-    },
-    {
-      "title": "Mathematics in the Age of AI – Terence Tao",
-      "link": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 19:19:00 +0000",
-      "timestamp": 1786907940.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 19:12:42 +0000",
-      "timestamp": 1786907562.0
     },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
