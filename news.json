@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-16T11:33:03.992312+00:00",
+  "scraped_at": "2026-08-16T12:59:12.597127+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "AI-Prepped Paper Passed Peer Review. Now What?",
+      "link": "https://cacm.acm.org/news/ai-prepped-paper-passed-peer-review-now-what/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 12:30:06 +0000",
+      "timestamp": 1786883406.0
+    },
+    {
+      "title": "Measuring Autonomous AI Research",
+      "link": "https://www.primeintellect.ai/blog/measuring-autonomous-research",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 12:16:20 +0000",
+      "timestamp": 1786882580.0
+    },
+    {
+      "title": "Show HN: Who is using AI? A daily tracker, 1,600+ city heatmap, DOI dataset",
+      "link": "https://whoisusingai.com/tracker",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 12:01:34 +0000",
+      "timestamp": 1786881694.0
+    },
+    {
+      "title": "Rogue AI aren’t science fiction anymore",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-16T08:00:00-04:00",
+      "timestamp": 1786881600.0
+    },
+    {
+      "title": "US warns allied nations: Side with us in the AI race",
+      "link": "https://www.neowin.net/news/us-warns-allied-nations-side-with-us-in-the-ai-race-against-china-or-face-the-consequences/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 11:49:53 +0000",
+      "timestamp": 1786880993.0
+    },
+    {
+      "title": "Show HN: Remove AI voice from AI writings",
+      "link": "https://unslopai.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 11:28:50 +0000",
+      "timestamp": 1786879730.0
+    },
     {
       "title": "WAIC 2026: a glimpse of embodied AI innovations, humanoid robots [video]",
       "link": "https://www.youtube.com/watch?v=rgYHEq9_SM0",
@@ -127,51 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 16 Aug 2026 10:04:10 +0000",
       "timestamp": 1786874650.0
-    },
-    {
-      "title": "Young people don't trust AI – or the billionaires that tell us we should love AI",
-      "link": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 09:42:05 +0000",
-      "timestamp": 1786873325.0
-    },
-    {
-      "title": "The Economist Who Predicted 2008 Crash Says AI Bubble Bursts Soon – Steve Keen [video]",
-      "link": "https://www.youtube.com/watch?v=nx5FiWfD5U4",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 09:23:51 +0000",
-      "timestamp": 1786872231.0
-    },
-    {
-      "title": "Show HN: RNet – AI token service provider",
-      "link": "https://news.ycombinator.com/item?id=49318304",
-      "summary": "I built rNet. Why I built ? : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the deployment agent. To keep using it, I either had to wait for credits to reset or upgrade to a higher subscription or buy tokens. At the same time, I already had a subscription for the IDE, but I could not use those credits on Hostinger. simply despite having credits, we cannot use them. The basic idea is simple: users buy credits once on our platform and then use those credits across different AI applications. (It sound like OpenRouter, but the two platforms are ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 09:11:32 +0000",
-      "timestamp": 1786871492.0
-    },
-    {
-      "title": "AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]",
-      "link": "https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 09:04:02 +0000",
-      "timestamp": 1786871042.0
-    },
-    {
-      "title": "NamingCube – AI name generator that checks if you can use the name",
-      "link": "https://www.namingcube.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 08:32:00 +0000",
-      "timestamp": 1786869120.0
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -469,15 +478,6 @@
       "source": "The Verge AI",
       "published": "2026-08-13T10:10:31-04:00",
       "timestamp": 1786630231.0
-    },
-    {
-      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "summary": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Microsoft Copilot\" name but features an updated app icon. The single [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-13T09:30:00-04:00",
-      "timestamp": 1786627800.0
     },
     {
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
