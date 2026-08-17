@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-17T22:39:14.068297+00:00",
+  "scraped_at": "2026-08-17T23:35:17.574759+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Show HN: AI-generated music box version of any song (for baby)",
+      "link": "https://lullabyconverter.com",
+      "summary": "title basically covers it. project #2 from my paternity leave. My partner & I got frustrated with hearing Brahm's Lullaby and Wheels On The Bus repeatedly. I also stand by that babies can enjoy adult music just as easily as they can enjoy \"kids music\". But most adult music is too dense/complex for babies to understand, so I created this to generate baby-friendly, slowed down versions of songs that we like to play for our baby & sing along with. Uses BS-roformer for stemming out the input audio + spotify Basic Pitch for transposing to midi. Still needs some work, kinda sounds like a drunk littl",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 23:14:35 +0000",
+      "timestamp": 1787008475.0
+    },
+    {
+      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
+      "link": "https://github.com/couldbeme/holdline",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 23:11:48 +0000",
+      "timestamp": 1787008308.0
+    },
+    {
+      "title": "Ask HN: Can you still tell AI-generated text apart in your own language?",
+      "link": "https://news.ycombinator.com/item?id=49338865",
+      "summary": "I'm Japanese, and I can still usually spot AI-generated Japanese by its word choice. Some words, like 実務 (practical work) and 帳簿 (a ledger), turn up far more often than they should. Casual ones like 効く (to work well, to be effective) and 刺さる (to pierce > to resonate, to hit home) get used where another word would normally be the first choice. They're the Japanese equivalent of \"delve.\" I'm not a native English speaker, but my impression is that AI-generated English has improved a lot recently and is harder to pick out than it used to be. Does that match what English native speakers see? What a",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 22:59:37 +0000",
+      "timestamp": 1787007577.0
+    },
+    {
+      "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
+      "link": "https://github.com/rysh-ai/rysh-cli-code",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 22:51:16 +0000",
+      "timestamp": 1787007076.0
+    },
+    {
+      "title": "Building an AI Text Detector from Scratch",
+      "link": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 22:50:03 +0000",
+      "timestamp": 1787007003.0
+    },
+    {
+      "title": "Cumora, a cross-platform team chat where AI agents work alongside humans",
+      "link": "https://github.com/yetone/cumora",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 22:46:00 +0000",
+      "timestamp": 1787006760.0
+    },
+    {
+      "title": "AI writes dead code – the Go team's deadcode tool finds it in one command",
+      "link": "https://towardsdev.com/how-to-find-and-remove-the-dead-code-your-agent-wrote-752eb1e738d0?sk=283d17fe49cb51c9936d99371e7a9d2a",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 22:36:06 +0000",
+      "timestamp": 1787006166.0
+    },
     {
       "title": "Agentic AI in a Smolbox",
       "link": "https://remyhax.xyz/posts/smolbox/",
@@ -127,69 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 20:30:35 +0000",
       "timestamp": 1786998635.0
-    },
-    {
-      "title": "Should You Use AI for a Task? Here's a Simple Way to Decide",
-      "link": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 20:25:37 +0000",
-      "timestamp": 1786998337.0
-    },
-    {
-      "title": "Data Loading for AI/ML: A Comprehensive Guide",
-      "link": "https://www.lancedb.com/blog/data-loading-guide",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 20:17:24 +0000",
-      "timestamp": 1786997844.0
-    },
-    {
-      "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
-      "link": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 20:14:20 +0000",
-      "timestamp": 1786997660.0
-    },
-    {
-      "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
-      "link": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 20:10:00 +0000",
-      "timestamp": 1786997400.0
-    },
-    {
-      "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
-      "link": "https://github.com/fu351/Doberman-Core",
-      "summary": "Landing Page: https://www.trydoberman.dev/ The Problem: AI guardrails only protect against 89% of dangerous commands. This may seem pretty good until you think of it as a lock that lets 1 in 9 intruders in. What is Doberman: Doberman is a two layer security system wrapped around your LLM monitoring every input, output and tool call. The first layer is deterministic based on state of the art security guidelines, the second layer is dynamic, learning from your use and personal preferences. How is Doberman different: It is a dynamic two-layer security system that sits at runtime and monitors ever",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 20:03:00 +0000",
-      "timestamp": 1786996980.0
-    },
-    {
-      "title": "Is reviewing AI even possible?",
-      "link": "https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 20:00:30 +0000",
-      "timestamp": 1786996830.0
-    },
-    {
-      "title": "AI;DR (AI; Didn't Read)",
-      "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 19:47:15 +0000",
-      "timestamp": 1786996035.0
     },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
