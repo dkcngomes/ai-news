@@ -1,7 +1,133 @@
 {
-  "scraped_at": "2026-08-17T15:36:56.058202+00:00",
+  "scraped_at": "2026-08-17T16:44:27.343143+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "timestamp": 1786984724.0
+    },
+    {
+      "title": "AI Text Watermarking Playground",
+      "link": "https://watermark.keito.me/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 16:36:41 +0000",
+      "timestamp": 1786984601.0
+    },
+    {
+      "title": "AI Native, Without the Badge",
+      "link": "https://x.com/compose/articles/edit/2089227511054155776",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 16:22:39 +0000",
+      "timestamp": 1786983759.0
+    },
+    {
+      "title": "AI text watermarking is not a big deal",
+      "link": "https://www.seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 16:21:22 +0000",
+      "timestamp": 1786983682.0
+    },
+    {
+      "title": "Has AI started improving itself? RSI depeneds on what \"itself\" means",
+      "link": "https://viborc.com/what-recursive-self-improvement-actually-means/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 16:17:40 +0000",
+      "timestamp": 1786983460.0
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
+      "timestamp": 1786983312.0
+    },
+    {
+      "title": "AI Terms Explained with Simple Examples Using a Dosa Analogy",
+      "link": "https://qainsights.com/ai-terms-explained-with-simple-examples-using-a-dosa-analogy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:55:41 +0000",
+      "timestamp": 1786982141.0
+    },
+    {
+      "title": "AI scrapers use bogus URL tracking tags to make website visits seem legit",
+      "link": "https://disassociated.com/ai-scraper-bogus-url-tracking-tags/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:51:47 +0000",
+      "timestamp": 1786981907.0
+    },
+    {
+      "title": "Show HN: AI-Generated Flash Fiction Arena",
+      "link": "https://worldsenoughstudios.com/flash-fight/",
+      "summary": "Which model will win at writing ~500 word short stories?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:49:50 +0000",
+      "timestamp": 1786981790.0
+    },
+    {
+      "title": "Show HN: An AI-produced news podcast for curious kids",
+      "link": "https://myfirst.news/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:47:16 +0000",
+      "timestamp": 1786981636.0
+    },
+    {
+      "title": "Well done AI, that's the end of the honest boxes",
+      "link": "https://benfrain.com/well-done-ai-thats-the-end-of-the-honest-boxes/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:45:35 +0000",
+      "timestamp": 1786981535.0
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "link": "https://speko.ai/",
+      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://youtu.be/no2LY2gRh-c Link: https://speko.ai/?utm_source=hn Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS. Each of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to anoth",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:36:18 +0000",
+      "timestamp": 1786980978.0
+    },
+    {
+      "title": "The Endpoint Wars Just Restarted (Rise of the AI Agents)",
+      "link": "https://www.techoperators.com/insights/the-endpoint-wars-just-restarted",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:36:12 +0000",
+      "timestamp": 1786980972.0
+    },
+    {
+      "title": "The Unexpected AI Stack: C# + .NET (Part 1)",
+      "link": "https://chrlschn.dev/blog/2026/08/the-unexpected-ai-stack-csharp-dotnet-part-1/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:31:51 +0000",
+      "timestamp": 1786980711.0
+    },
     {
       "title": "Why Big Tech's AI Spending Is $3T Higher Than It Seems",
       "link": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
@@ -73,114 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 15:10:07 +0000",
       "timestamp": 1786979407.0
-    },
-    {
-      "title": "Sainsbury's branch pauses AI cameras use after shopper ejected",
-      "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:08:37 +0000",
-      "timestamp": 1786979317.0
-    },
-    {
-      "title": "Best Enterprise AI Gateway for Scalability and Cost Control",
-      "link": "https://medium.com/@sebuzdugan/best-enterprise-ai-gateway-for-scalability-and-cost-control-837680527e51",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 14:56:21 +0000",
-      "timestamp": 1786978581.0
-    },
-    {
-      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-      "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 14:30:09 +0000",
-      "timestamp": 1786977009.0
-    },
-    {
-      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 14:18:38 +0000",
-      "timestamp": 1786976318.0
-    },
-    {
-      "title": "Using AI in 2026 (Coding, Writing, Learning, Assistant-Ing)",
-      "link": "https://blog.sshh.io/p/how-i-use-ai-in-2026-coding-writing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 14:11:01 +0000",
-      "timestamp": 1786975861.0
-    },
-    {
-      "title": "How to disable or avoid intrusive AI",
-      "link": "https://www.librarian.net/notoai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 14:07:56 +0000",
-      "timestamp": 1786975676.0
-    },
-    {
-      "title": "What 15M Gemini conversations tell us about AI at work",
-      "link": "https://leaddev.com/ai/what-15-million-gemini-conversations-tell-us-about-ai-at-work",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 14:05:00 +0000",
-      "timestamp": 1786975500.0
-    },
-    {
-      "title": "AI-Induced Psychosis. A Look at Some Academic Papers",
-      "link": "https://read.misalignedmag.com/ai-induced-psychosis-a-look-at-some-academic-papers-7143e60bb7d7",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 14:02:25 +0000",
-      "timestamp": 1786975345.0
-    },
-    {
-      "title": "On AI Coding and Its Discontents",
-      "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:55:03 +0000",
-      "timestamp": 1786974903.0
-    },
-    {
-      "title": "Ask HN: How are teams sharing AI/agent setups internally?",
-      "link": "https://news.ycombinator.com/item?id=49330900",
-      "summary": "We have a local setup with shared context, skills, workflows, mcps and connections to internal tools. We currently just used Github as SOT and sharing. Two pain points keep coming up: 1. Onboarding non technical users: Git, cloning, gh auth, credentials, local config. 2. Sync: one person updates context, has to push, everyone else has to pull. How are others handling this? Shared VM? Internal platform? Something else?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:53:08 +0000",
-      "timestamp": 1786974788.0
-    },
-    {
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:44:23 +0000",
-      "timestamp": 1786974263.0
-    },
-    {
-      "title": "Should you use AI for a task? Here's a simple way to decide",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:42:50 +0000",
-      "timestamp": 1786974170.0
     },
     {
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
@@ -487,24 +505,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 18:28:14 +0000",
       "timestamp": 1786645694.0
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 13 Aug 2026 17:07:13 +0000",
-      "timestamp": 1786640833.0
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 13 Aug 2026 15:30:52 +0000",
-      "timestamp": 1786635052.0
     },
     {
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
