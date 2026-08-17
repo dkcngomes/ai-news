@@ -1,7 +1,196 @@
 {
-  "scraped_at": "2026-08-17T10:47:50.587619+00:00",
-  "count": 47,
+  "scraped_at": "2026-08-17T11:38:21.522198+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "Why Stripe's $7B OpenRouter Acquisition Is About Owning the AI Routing Layer",
+      "link": "https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 11:26:07 +0000",
+      "timestamp": 1786965967.0
+    },
+    {
+      "title": "Bruce Schneier: AI Will Hack More Than Computers [video]",
+      "link": "https://www.youtube.com/watch?v=YuwL8us4aq4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 11:23:39 +0000",
+      "timestamp": 1786965819.0
+    },
+    {
+      "title": "What the OpenAI/Hugging Face Hack Tells Us About AI Danger",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-17/what-the-openai-hugging-face-hack-shows-about-ai-danger-video",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 11:07:06 +0000",
+      "timestamp": 1786964826.0
+    },
+    {
+      "title": "Show HN: Find images by what they show, AI-rename them, and sort them easily",
+      "link": "https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 11:05:51 +0000",
+      "timestamp": 1786964751.0
+    },
+    {
+      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-17T06:57:13-04:00",
+      "timestamp": 1786964233.0
+    },
+    {
+      "title": "Anthropic becomes the 'Apple of AI': Most revenue despite being most expensive",
+      "link": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 10:56:45 +0000",
+      "timestamp": 1786964205.0
+    },
+    {
+      "title": "AI Native Review Collection on auto pilot mode",
+      "link": "https://www.feedspace.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 10:45:43 +0000",
+      "timestamp": 1786963543.0
+    },
+    {
+      "title": "CladBench – an open benchmark for AI on UK building regulations",
+      "link": "https://github.com/cladbrain/cladbench",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 10:44:09 +0000",
+      "timestamp": 1786963449.0
+    },
+    {
+      "title": "AI music has reached the charts, and the artists using it have stopped hiding it",
+      "link": "https://thenextweb.com/news/ai-music-mainstream-tyga-timbaland",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 10:36:36 +0000",
+      "timestamp": 1786962996.0
+    },
+    {
+      "title": "Trump-backed crypto firm offers AI from restricted Chinese companies",
+      "link": "https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 10:25:52 +0000",
+      "timestamp": 1786962352.0
+    },
+    {
+      "title": "AI Is Driving Up Treasury Yields: 'It Just Touches Everything'",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/ai-is-driving-up-treasury-yields-it-just-touches-everything",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 10:16:57 +0000",
+      "timestamp": 1786961817.0
+    },
+    {
+      "title": "Beyond the AI Layoff Fear",
+      "link": "https://urnicus.com/blog/beyond-the-ai-layoff-fear/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:49:38 +0000",
+      "timestamp": 1786960178.0
+    },
+    {
+      "title": "Show HN: AI Signal Bot for project updates",
+      "link": "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:34:52 +0000",
+      "timestamp": 1786959292.0
+    },
+    {
+      "title": "Integrating AI into the Newspeak IDE [video]",
+      "link": "https://www.youtube.com/watch?v=D1mEQ6ixJUk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:30:56 +0000",
+      "timestamp": 1786959056.0
+    },
+    {
+      "title": "Show HN: Octoweb – A Keyboard-First Browser with AI as a Citizen",
+      "link": "https://muvon.io/blog/introducing-octoweb-keyboard-first-ai-browser",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:28:04 +0000",
+      "timestamp": 1786958884.0
+    },
+    {
+      "title": "Nvidia AI Financing Is the $500B Risk Investors Aren't Watching",
+      "link": "https://www.forbes.com/sites/jimosman/2026/08/16/nvidia-ai-financing-is-the-500-billion-risk-investors-arent-watching/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:27:48 +0000",
+      "timestamp": 1786958868.0
+    },
+    {
+      "title": "The challenge of AI value after deployment",
+      "link": "https://medium.com/quantumblack/ai-value-the-growing-ai-operations-challenge-ca8621aa245c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:21:47 +0000",
+      "timestamp": 1786958507.0
+    },
+    {
+      "title": "AI Software Development – What Does the Data Say?",
+      "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:16:01 +0000",
+      "timestamp": 1786958161.0
+    },
+    {
+      "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
+      "link": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:02:35 +0000",
+      "timestamp": 1786957355.0
+    },
+    {
+      "title": "Show HN: Winuse – Cross-platform desktop GUI automation for AI agents",
+      "link": "https://github.com/lgxz/winuse",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 08:47:23 +0000",
+      "timestamp": 1786956443.0
+    },
+    {
+      "title": "An AI is running a business with real money – hit deadlines or it gets killed",
+      "link": "https://agentwrought.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 08:36:59 +0000",
+      "timestamp": 1786955819.0
+    },
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
@@ -298,15 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 17:07:13 +0000",
       "timestamp": 1786640833.0
-    },
-    {
-      "title": "Suno is trying to look more like a real music production tool",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-13T12:00:00-04:00",
-      "timestamp": 1786636800.0
     },
     {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
