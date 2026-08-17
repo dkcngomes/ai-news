@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-08-17T14:42:57.535483+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-17T15:36:56.058202+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Why Big Tech's AI Spending Is $3T Higher Than It Seems",
+      "link": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:25:40 +0000",
+      "timestamp": 1786980340.0
+    },
+    {
+      "title": "Ahmad on X: \"Anthropic's War on open source AI\" / X",
+      "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:24:34 +0000",
+      "timestamp": 1786980274.0
+    },
+    {
+      "title": "Recently I've received lots of AI emails asking for my feedback",
+      "link": "https://bsky.app/profile/carlbergstrom.com/post/3mtbboq46qc23",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:19:45 +0000",
+      "timestamp": 1786979985.0
+    },
+    {
+      "title": "Show HN: Curia – Personal Radio and AI Podcasts",
+      "link": "https://curia.surge.sh/",
+      "summary": "hi everyone I've made this personalised audio app called Curia, that turns articles & links, into audio shows. You can customize the show format, to fit different moments of the day. Would love for people to try out and share feedback. My long term vision is to make the personal media company, where user is co-author or co-programmer of their feed, shifting the role away from the algorithm that works in favour of the platform and not the user.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:19:38 +0000",
+      "timestamp": 1786979978.0
+    },
+    {
+      "title": "Agentic AI costs set to balloon fivefold by 2028",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:17:10 +0000",
+      "timestamp": 1786979830.0
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 17 Aug 2026 15:16:24 +0000",
+      "timestamp": 1786979784.0
+    },
+    {
+      "title": "The cure for AI mansplaining",
+      "link": "https://blog.dait.ro/post/ai-mansplaining",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:13:18 +0000",
+      "timestamp": 1786979598.0
+    },
+    {
+      "title": "Show HN: The AI Reputation Manager",
+      "link": "https://moregoodreviews.com/ai",
+      "summary": "Hey folks, I bootstrapped \"More Good Reviews\" to $170,000 in sales before building this. I just launched an MCP for AI reputation and review management. You can find it in Claude's connector directory: https://claude.ai/directory/more-good-reviews Connect your Google Business Listing and get reports with action items on what your customers are saying and what you need to fix. It comes complete with over 40 tools, prompts, and skills: https://github.com/moregoodreviews/mgr-skills With an account, you can do a lot more: - Schedule review requests over email or sms to your customers - Reply to yo",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:10:07 +0000",
+      "timestamp": 1786979407.0
+    },
+    {
+      "title": "Sainsbury's branch pauses AI cameras use after shopper ejected",
+      "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 15:08:37 +0000",
+      "timestamp": 1786979317.0
+    },
+    {
+      "title": "Best Enterprise AI Gateway for Scalability and Cost Control",
+      "link": "https://medium.com/@sebuzdugan/best-enterprise-ai-gateway-for-scalability-and-cost-control-837680527e51",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 14:56:21 +0000",
+      "timestamp": 1786978581.0
+    },
     {
       "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
       "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
@@ -93,78 +183,6 @@
       "timestamp": 1786974170.0
     },
     {
-      "title": "Leaf 5 released: a PHP framework built for humans and AI agents",
-      "link": "https://blog.leafphp.dev/posts/leaf-5",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:39:06 +0000",
-      "timestamp": 1786973946.0
-    },
-    {
-      "title": "Two API calls exposed AI's hidden reasoning [video]",
-      "link": "https://www.youtube.com/watch?v=P1v1-2CCKD0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:38:56 +0000",
-      "timestamp": 1786973936.0
-    },
-    {
-      "title": "Dario Amodei admits AI Suffers from a Crisis of Trust...",
-      "link": "https://fortune.com/2026/08/16/dario-amodei-anthropic-ai-trust-crisis-regulation-frontier-open-models-negative-views/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:32:10 +0000",
-      "timestamp": 1786973530.0
-    },
-    {
-      "title": "Firefox 154 Now Available with \"Manage AI\" Quick Action",
-      "link": "https://www.phoronix.com/news/Firefox-154-Released",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:31:33 +0000",
-      "timestamp": 1786973493.0
-    },
-    {
-      "title": "Ask HN: Is classical AI research still being done because it helps modern AI?",
-      "link": "https://news.ycombinator.com/item?id=49330503",
-      "summary": "That is, classical AI has turned into tools to be used by LLMs as the need arises? So classical AI research is still continuing?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:28:24 +0000",
-      "timestamp": 1786973304.0
-    },
-    {
-      "title": "I built an AI that outputs real, editable PowerPoint files",
-      "link": "https://www.slaide.de",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:27:09 +0000",
-      "timestamp": 1786973229.0
-    },
-    {
-      "title": "AI Agents Made Me Rethink Leadership",
-      "link": "https://allen.bargi.org/notes/leadership-management-and-supervision/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:23:45 +0000",
-      "timestamp": 1786973025.0
-    },
-    {
-      "title": "AI slop is swamping a House office that drafts US laws",
-      "link": "https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:15:00 +0000",
-      "timestamp": 1786972500.0
-    },
-    {
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
       "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
       "summary": "Wispr’s total funding is now over $361 million.",
@@ -172,24 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 17 Aug 2026 13:10:05 +0000",
       "timestamp": 1786972205.0
-    },
-    {
-      "title": "Show HN: Sokoban AI Solver",
-      "link": "https://mkornreich.me/projects/sokoban/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:07:00 +0000",
-      "timestamp": 1786972020.0
-    },
-    {
-      "title": "A config file made an AI code auditor skip the file with the bug, 10/10 runs",
-      "link": "https://richardjamieson.co.za/writing/clean-report-problem.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:06:22 +0000",
-      "timestamp": 1786971982.0
     },
     {
       "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
@@ -505,15 +505,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 15:30:52 +0000",
       "timestamp": 1786635052.0
-    },
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 13 Aug 2026 15:08:00 +0000",
-      "timestamp": 1786633680.0
     },
     {
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
