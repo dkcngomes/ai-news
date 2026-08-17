@@ -1,7 +1,169 @@
 {
-  "scraped_at": "2026-08-17T04:01:14.429288+00:00",
-  "count": 47,
+  "scraped_at": "2026-08-17T04:56:43.848215+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "AI Stock Research Assistant · Streamlit",
+      "link": "https://ai-stock-research-kiaan.streamlit.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 04:31:55 +0000",
+      "timestamp": 1786941115.0
+    },
+    {
+      "title": "Idea for Expository AI",
+      "link": "https://news.ycombinator.com/item?id=49326422",
+      "summary": "I've heard some complaints about the frontier models still be bad at explaining math and was thinking of an RL environment that would help might be to: -Take very hard math problem with a verifiable answer -Have frontier model explain to a tiny model like (0.5-1B params and provably bad score on the problem) how to solve but not the solution, and reward the frontier model for prompts/explanations that helped the tiny model solve the problem Obviously some amount of human supervision is needed to weed out it giving too much information",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 03:57:19 +0000",
+      "timestamp": 1786939039.0
+    },
+    {
+      "title": "AI Is Helping Patients Solve Medical Mysteries",
+      "link": "https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 03:25:40 +0000",
+      "timestamp": 1786937140.0
+    },
+    {
+      "title": "Level1Techs Can't Disprove Google's GDPR AI Studio Violation",
+      "link": "https://forum.level1techs.com/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/253945",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 03:13:51 +0000",
+      "timestamp": 1786936431.0
+    },
+    {
+      "title": "Design of the HTTPS Layer for AI Governance",
+      "link": "https://zenodo.org/records/21967859",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 03:06:10 +0000",
+      "timestamp": 1786935970.0
+    },
+    {
+      "title": "BlockArena: AI-Generated FPS Game",
+      "link": "https://blockarena.puter.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 01:32:48 +0000",
+      "timestamp": 1786930368.0
+    },
+    {
+      "title": "AI Agent Safety Is Still Thinking Like Permissions",
+      "link": "https://jeffreyflynt02.medium.com/ai-agent-safety-is-still-thinking-like-permissions-45878337bd98",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 01:32:23 +0000",
+      "timestamp": 1786930343.0
+    },
+    {
+      "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 01:25:44 +0000",
+      "timestamp": 1786929944.0
+    },
+    {
+      "title": "The CLI your AI agent drives to manage your knowledge graph",
+      "link": "https://useokf.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 00:32:08 +0000",
+      "timestamp": 1786926728.0
+    },
+    {
+      "title": "With OpenRouter, Is Stripe Becoming the Amazon of AI",
+      "link": "https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 23:47:45 +0000",
+      "timestamp": 1786924065.0
+    },
+    {
+      "title": "BanProof – AI that scans TikTok Shop videos for violation points before you post",
+      "link": "https://banproof.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 23:29:12 +0000",
+      "timestamp": 1786922952.0
+    },
+    {
+      "title": "AI Slop Is Real",
+      "link": "https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 22:52:39 +0000",
+      "timestamp": 1786920759.0
+    },
+    {
+      "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+      "link": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 22:50:38 +0000",
+      "timestamp": 1786920638.0
+    },
+    {
+      "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says",
+      "link": "https://www.kyivpost.com/post/82225",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 22:33:03 +0000",
+      "timestamp": 1786919583.0
+    },
+    {
+      "title": "Smarter – open-source, declarative AI authoring platform (Django, K8s-inspired)",
+      "link": "https://github.com/smarter-sh/smarter",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 22:25:17 +0000",
+      "timestamp": 1786919117.0
+    },
+    {
+      "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
+      "link": "https://github.com/gmhoward9289-ops/legbar",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 22:06:14 +0000",
+      "timestamp": 1786917974.0
+    },
+    {
+      "title": "AI #176 Part 2: Plan B",
+      "link": "https://thezvi.substack.com/p/ai-176-part-2-plan-b",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 21:34:40 +0000",
+      "timestamp": 1786916080.0
+    },
+    {
+      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 21:34:06 +0000",
+      "timestamp": 1786916046.0
+    },
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
@@ -10,6 +172,15 @@
       "source": "The Verge AI",
       "published": "2026-08-16T17:32:56-04:00",
       "timestamp": 1786915976.0
+    },
+    {
+      "title": "Show HN: VocalCode – push-to-talk dictation for AI coding agents, on-device",
+      "link": "https://vocalcode.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 16 Aug 2026 21:20:54 +0000",
+      "timestamp": 1786915254.0
     },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
