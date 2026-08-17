@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-17T18:56:18.609967+00:00",
+  "scraped_at": "2026-08-17T19:40:42.433385+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "The People Building a Way to Slow Down the AI Race",
+      "link": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 19:31:26 +0000",
+      "timestamp": 1786995086.0
+    },
+    {
+      "title": "A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators",
+      "link": "https://arxiv.org/abs/2608.13757",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 19:25:31 +0000",
+      "timestamp": 1786994731.0
+    },
+    {
+      "title": "The AI Reset",
+      "link": "https://medium.com/@alanscottencinas/ai-as-a-crutch-what-the-watermark-era-is-about-to-expose-3bdf6031d546",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 19:21:45 +0000",
+      "timestamp": 1786994505.0
+    },
+    {
+      "title": "AI is transforming politics–-and how we understand it",
+      "link": "https://freesystems.substack.com/p/ai-is-transforming-politics-and-how",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 19:21:09 +0000",
+      "timestamp": 1786994469.0
+    },
+    {
+      "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 19:10:24 +0000",
+      "timestamp": 1786993824.0
+    },
+    {
+      "title": "AirTag reveals Amazon is trashing rare books to train AI",
+      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 19:06:11 +0000",
+      "timestamp": 1786993571.0
+    },
+    {
+      "title": "Morte.ai – code and deploy post mortem",
+      "link": "https://morte.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 19:03:28 +0000",
+      "timestamp": 1786993408.0
+    },
+    {
+      "title": "'Godfather of AI' Geoffrey Hinton Warns of Mass Unemployment",
+      "link": "https://in.mashable.com/tech/112942/will-ai-take-your-job-godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:51:45 +0000",
+      "timestamp": 1786992705.0
+    },
     {
       "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
       "link": "https://saor.io",
@@ -100,78 +172,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 17:57:30 +0000",
       "timestamp": 1786989450.0
-    },
-    {
-      "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-      "link": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:55:50 +0000",
-      "timestamp": 1786989350.0
-    },
-    {
-      "title": "I wrote 300k+ lines of code this month, thanks AI",
-      "link": "https://nmn.gl/blog/how-i-actually-write-10000-lines",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:53:56 +0000",
-      "timestamp": 1786989236.0
-    },
-    {
-      "title": "San Francisco Street Artists vs. AI Startup Ads",
-      "link": "https://docpop.org/2025/12/san-francisco-street-artists-vs-ai-startup-ads/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:52:45 +0000",
-      "timestamp": 1786989165.0
-    },
-    {
-      "title": "Show HN: Tesana – An AI game engine that builds quality games end-to-end",
-      "link": "https://tesana.ai/en",
-      "summary": "Hey HN! I built https://tesana.ai/en , a game generation platform that allows anyone to create full games with graphics, game logic, and animations from a simple text prompt - without coding. Tesana has three key features 1. describe your game idea and have Tesana write a game plan for you 2. Build the game iteratively with AI, or let AI self-build the game in a build LOOP. 3) Launch the game on the web, without setting up an engine Tesana has 250 000 builders on the platform today I believe the democratization of game making is a good thing, and hopefully Tesana can help more people bring the",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:39:02 +0000",
-      "timestamp": 1786988342.0
-    },
-    {
-      "title": "About AI and how we publish",
-      "link": "https://mathoverflow.net/questions/514380/about-ai-and-how-we-publish",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:38:41 +0000",
-      "timestamp": 1786988321.0
-    },
-    {
-      "title": "AI Inference chips will end the same as Crypto Mining ASICs",
-      "link": "https://twitter.com/josefchen/status/2089367836745449952",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:38:22 +0000",
-      "timestamp": 1786988302.0
-    },
-    {
-      "title": "The AI Data-Centre Bust Will Look Like a Boom",
-      "link": "https://josef.cn/blog/asic",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:37:09 +0000",
-      "timestamp": 1786988229.0
-    },
-    {
-      "title": "Canva cuts internal value by $10B amid AI market fears",
-      "link": "https://www.smh.com.au/technology/sobering-markdown-canva-slashes-valuation-by-10b-as-ai-reality-bites-20260814-p60of9.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:28:45 +0000",
-      "timestamp": 1786987725.0
     },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
