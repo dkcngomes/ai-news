@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-17T13:51:52.583933+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-17T14:42:57.535483+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+      "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 14:30:09 +0000",
+      "timestamp": 1786977009.0
+    },
+    {
+      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 14:18:38 +0000",
+      "timestamp": 1786976318.0
+    },
+    {
+      "title": "Using AI in 2026 (Coding, Writing, Learning, Assistant-Ing)",
+      "link": "https://blog.sshh.io/p/how-i-use-ai-in-2026-coding-writing",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 14:11:01 +0000",
+      "timestamp": 1786975861.0
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "link": "https://www.librarian.net/notoai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 14:07:56 +0000",
+      "timestamp": 1786975676.0
+    },
+    {
+      "title": "What 15M Gemini conversations tell us about AI at work",
+      "link": "https://leaddev.com/ai/what-15-million-gemini-conversations-tell-us-about-ai-at-work",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 14:05:00 +0000",
+      "timestamp": 1786975500.0
+    },
+    {
+      "title": "AI-Induced Psychosis. A Look at Some Academic Papers",
+      "link": "https://read.misalignedmag.com/ai-induced-psychosis-a-look-at-some-academic-papers-7143e60bb7d7",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 14:02:25 +0000",
+      "timestamp": 1786975345.0
+    },
+    {
+      "title": "On AI Coding and Its Discontents",
+      "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 13:55:03 +0000",
+      "timestamp": 1786974903.0
+    },
+    {
+      "title": "Ask HN: How are teams sharing AI/agent setups internally?",
+      "link": "https://news.ycombinator.com/item?id=49330900",
+      "summary": "We have a local setup with shared context, skills, workflows, mcps and connections to internal tools. We currently just used Github as SOT and sharing. Two pain points keep coming up: 1. Onboarding non technical users: Git, cloning, gh auth, credentials, local config. 2. Sync: one person updates context, has to push, everyone else has to pull. How are others handling this? Shared VM? Internal platform? Something else?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 13:53:08 +0000",
+      "timestamp": 1786974788.0
+    },
     {
       "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
       "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
@@ -19,15 +91,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 13:42:50 +0000",
       "timestamp": 1786974170.0
-    },
-    {
-      "title": "Show HN: An AI market analyst that must cite evidence for every line it draws",
-      "link": "https://github.com/maddogfinance/dsh-trading",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:39:47 +0000",
-      "timestamp": 1786973987.0
     },
     {
       "title": "Leaf 5 released: a PHP framework built for humans and AI agents",
@@ -127,60 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 13:06:22 +0000",
       "timestamp": 1786971982.0
-    },
-    {
-      "title": "You can make your AI Agents EU AI ACT compliant",
-      "link": "https://medium.com/@MirArshadTalpur/how-you-can-make-your-ai-agents-eu-ai-act-compliant-1e132e9e4a52",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 13:01:05 +0000",
-      "timestamp": 1786971665.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 12:58:19 +0000",
-      "timestamp": 1786971499.0
-    },
-    {
-      "title": "Measuring Autonomous AI Research",
-      "link": "https://www.primeintellect.ai/blog/measuring-autonomous-research",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 12:58:14 +0000",
-      "timestamp": 1786971494.0
-    },
-    {
-      "title": "Who's doing what with watermarking AI content?",
-      "link": "https://dilpreet.co/blog/2026/8/17/whos-doing-what-with-watermarking-ai-content",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 12:46:03 +0000",
-      "timestamp": 1786970763.0
-    },
-    {
-      "title": "A local-first scanner for hidden Unicode in AI-generated text",
-      "link": "https://cyzanfar.github.io/text-watermark-remover/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 12:46:00 +0000",
-      "timestamp": 1786970760.0
-    },
-    {
-      "title": "A Test for AI Consciousness",
-      "link": "https://gruhn.me/blog/2026-08-16/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 12:21:40 +0000",
-      "timestamp": 1786969300.0
     },
     {
       "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
