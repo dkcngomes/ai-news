@@ -1,7 +1,124 @@
 {
-  "scraped_at": "2026-08-17T11:38:21.522198+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-17T13:04:27.603151+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "AI Stock Research Assistant · Streamlit",
+      "link": "https://ai-stock-research-kiaan.streamlit.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 12:58:19 +0000",
+      "timestamp": 1786971499.0
+    },
+    {
+      "title": "Measuring Autonomous AI Research",
+      "link": "https://www.primeintellect.ai/blog/measuring-autonomous-research",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 12:58:14 +0000",
+      "timestamp": 1786971494.0
+    },
+    {
+      "title": "Who's doing what with watermarking AI content?",
+      "link": "https://dilpreet.co/blog/2026/8/17/whos-doing-what-with-watermarking-ai-content",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 12:46:03 +0000",
+      "timestamp": 1786970763.0
+    },
+    {
+      "title": "A local-first scanner for hidden Unicode in AI-generated text",
+      "link": "https://cyzanfar.github.io/text-watermark-remover/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 12:46:00 +0000",
+      "timestamp": 1786970760.0
+    },
+    {
+      "title": "A Test for AI Consciousness",
+      "link": "https://gruhn.me/blog/2026-08-16/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 12:21:40 +0000",
+      "timestamp": 1786969300.0
+    },
+    {
+      "title": "Who Owns Intelligence? Jensen Huang and the Battle for Open-Weight AI",
+      "link": "https://aiengineerhub.com/who-owns-intelligence-open-weight-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 12:17:46 +0000",
+      "timestamp": 1786969066.0
+    },
+    {
+      "title": "Am I better because of AI?",
+      "link": "https://bytecode.news/posts/2026/08/am-i-better-because-of-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 12:11:45 +0000",
+      "timestamp": 1786968705.0
+    },
+    {
+      "title": "AI market correction is coming, ECB blog predicts",
+      "link": "https://www.reuters.com/business/autos-transportation/ai-market-correction-is-coming-ecb-blog-predicts-2026-08-17/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 12:00:15 +0000",
+      "timestamp": 1786968015.0
+    },
+    {
+      "title": "Argument AI App on iOS and Android",
+      "link": "https://argumentapp.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 11:58:21 +0000",
+      "timestamp": 1786967901.0
+    },
+    {
+      "title": "What happens when an AI agent stops being a disposable session?",
+      "link": "https://www.dropstone.io/blog/dropstone-sdk-1-0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 11:57:20 +0000",
+      "timestamp": 1786967840.0
+    },
+    {
+      "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+      "link": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 11:50:12 +0000",
+      "timestamp": 1786967412.0
+    },
+    {
+      "title": "We built AI accelerators to reduce the time from AI prototype to production",
+      "link": "https://geekyants.com/ai-accelerator",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 11:48:19 +0000",
+      "timestamp": 1786967299.0
+    },
+    {
+      "title": "Vetted AI code is hard to justify",
+      "link": "https://amoffat.github.io/blog/vetting-burnout.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 11:36:40 +0000",
+      "timestamp": 1786966600.0
+    },
     {
       "title": "Why Stripe's $7B OpenRouter Acquisition Is About Owning the AI Routing Layer",
       "link": "https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488",
@@ -64,132 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 10:45:43 +0000",
       "timestamp": 1786963543.0
-    },
-    {
-      "title": "CladBench – an open benchmark for AI on UK building regulations",
-      "link": "https://github.com/cladbrain/cladbench",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 10:44:09 +0000",
-      "timestamp": 1786963449.0
-    },
-    {
-      "title": "AI music has reached the charts, and the artists using it have stopped hiding it",
-      "link": "https://thenextweb.com/news/ai-music-mainstream-tyga-timbaland",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 10:36:36 +0000",
-      "timestamp": 1786962996.0
-    },
-    {
-      "title": "Trump-backed crypto firm offers AI from restricted Chinese companies",
-      "link": "https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 10:25:52 +0000",
-      "timestamp": 1786962352.0
-    },
-    {
-      "title": "AI Is Driving Up Treasury Yields: 'It Just Touches Everything'",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/ai-is-driving-up-treasury-yields-it-just-touches-everything",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 10:16:57 +0000",
-      "timestamp": 1786961817.0
-    },
-    {
-      "title": "Beyond the AI Layoff Fear",
-      "link": "https://urnicus.com/blog/beyond-the-ai-layoff-fear/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 09:49:38 +0000",
-      "timestamp": 1786960178.0
-    },
-    {
-      "title": "Show HN: AI Signal Bot for project updates",
-      "link": "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 09:34:52 +0000",
-      "timestamp": 1786959292.0
-    },
-    {
-      "title": "Integrating AI into the Newspeak IDE [video]",
-      "link": "https://www.youtube.com/watch?v=D1mEQ6ixJUk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 09:30:56 +0000",
-      "timestamp": 1786959056.0
-    },
-    {
-      "title": "Show HN: Octoweb – A Keyboard-First Browser with AI as a Citizen",
-      "link": "https://muvon.io/blog/introducing-octoweb-keyboard-first-ai-browser",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 09:28:04 +0000",
-      "timestamp": 1786958884.0
-    },
-    {
-      "title": "Nvidia AI Financing Is the $500B Risk Investors Aren't Watching",
-      "link": "https://www.forbes.com/sites/jimosman/2026/08/16/nvidia-ai-financing-is-the-500-billion-risk-investors-arent-watching/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 09:27:48 +0000",
-      "timestamp": 1786958868.0
-    },
-    {
-      "title": "The challenge of AI value after deployment",
-      "link": "https://medium.com/quantumblack/ai-value-the-growing-ai-operations-challenge-ca8621aa245c",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 09:21:47 +0000",
-      "timestamp": 1786958507.0
-    },
-    {
-      "title": "AI Software Development – What Does the Data Say?",
-      "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 09:16:01 +0000",
-      "timestamp": 1786958161.0
-    },
-    {
-      "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
-      "link": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 09:02:35 +0000",
-      "timestamp": 1786957355.0
-    },
-    {
-      "title": "Show HN: Winuse – Cross-platform desktop GUI automation for AI agents",
-      "link": "https://github.com/lgxz/winuse",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 08:47:23 +0000",
-      "timestamp": 1786956443.0
-    },
-    {
-      "title": "An AI is running a business with real money – hit deadlines or it gets killed",
-      "link": "https://agentwrought.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 08:36:59 +0000",
-      "timestamp": 1786955819.0
     },
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
