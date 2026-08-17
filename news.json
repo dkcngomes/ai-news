@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-17T20:42:36.784030+00:00",
+  "scraped_at": "2026-08-17T21:39:02.386311+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "summary": "Relay, which offered businesses workflow automation, will stop operating next month. Its CEO and some of its staff plan to get to work on Google Chrome next.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "timestamp": 1787002025.0
+    },
+    {
+      "title": "AI systems out-persuade expert humans",
+      "link": "https://arxiv.org/abs/2606.16475",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 21:08:33 +0000",
+      "timestamp": 1787000913.0
+    },
+    {
+      "title": "Show HN: Personal AI tutor that builds and probes your understanding",
+      "link": "https://github.com/grandimam/suki",
+      "summary": "I used to learn from books and courses. But I kept realising I hadn't built a real mental model. I always needed an LLM on the side to fill in what the books skipped. So, I stopped using books as my direct source of truth and started using LLMs itself: to design the curriculum and probe whether I understood the topic. Suki - it's opensource. Given a topic it builds a curriculum from beginner to advanced, then probes your understanding chapter by chapter. Link - https://github.com/grandimam/suki Let me know what you guys think about it.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 21:04:38 +0000",
+      "timestamp": 1787000678.0
+    },
+    {
+      "title": "Alternatives to Open Source Software Tainted by AI",
+      "link": "https://codeberg.org/ethical-foss/open-slopware",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 21:03:05 +0000",
+      "timestamp": 1787000585.0
+    },
+    {
+      "title": "Evaluating AI Agents as Products",
+      "link": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:57:59 +0000",
+      "timestamp": 1787000279.0
+    },
+    {
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:46:10 +0000",
+      "timestamp": 1786999570.0
+    },
+    {
+      "title": "Alberta's AI data centre gamble: Big investment or local burden?",
+      "link": "https://financialpost.com/technology/alberta-ai-data-centre-investment-local-burden",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:36:06 +0000",
+      "timestamp": 1786998966.0
+    },
     {
       "title": "Show HN: Slaunt – control what AI agents can access, do, and execute",
       "link": "https://slaunt.ai",
@@ -129,60 +192,6 @@
       "timestamp": 1786994505.0
     },
     {
-      "title": "AI is transforming politics–-and how we understand it",
-      "link": "https://freesystems.substack.com/p/ai-is-transforming-politics-and-how",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 19:21:09 +0000",
-      "timestamp": 1786994469.0
-    },
-    {
-      "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 19:10:24 +0000",
-      "timestamp": 1786993824.0
-    },
-    {
-      "title": "AirTag reveals Amazon is trashing rare books to train AI",
-      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 19:06:11 +0000",
-      "timestamp": 1786993571.0
-    },
-    {
-      "title": "Morte.ai – code and deploy post mortem",
-      "link": "https://morte.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 19:03:28 +0000",
-      "timestamp": 1786993408.0
-    },
-    {
-      "title": "'Godfather of AI' Geoffrey Hinton Warns of Mass Unemployment",
-      "link": "https://in.mashable.com/tech/112942/will-ai-take-your-job-godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:51:45 +0000",
-      "timestamp": 1786992705.0
-    },
-    {
-      "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
-      "link": "https://saor.io",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:47:36 +0000",
-      "timestamp": 1786992456.0
-    },
-    {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
@@ -212,7 +221,7 @@
     {
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
       "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "summary": "Wispr’s total funding is now over $361 million.",
+      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 17 Aug 2026 13:10:05 +0000",
@@ -505,15 +514,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 19:22:40 +0000",
       "timestamp": 1786648960.0
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "timestamp": 1786648789.0
     },
     {
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
