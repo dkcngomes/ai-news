@@ -1,124 +1,7 @@
 {
-  "scraped_at": "2026-08-17T03:12:07.125809+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-17T04:01:14.429288+00:00",
+  "count": 47,
   "items": [
-    {
-      "title": "BlockArena: AI-Generated FPS Game",
-      "link": "https://blockarena.puter.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 01:32:48 +0000",
-      "timestamp": 1786930368.0
-    },
-    {
-      "title": "AI Agent Safety Is Still Thinking Like Permissions",
-      "link": "https://jeffreyflynt02.medium.com/ai-agent-safety-is-still-thinking-like-permissions-45878337bd98",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 01:32:23 +0000",
-      "timestamp": 1786930343.0
-    },
-    {
-      "title": "Why Chinese Citizens Are More Optimistic About AI Than Americans",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-14/why-ai-optimism-is-so-much-higher-in-china-than-the-us",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 01:25:44 +0000",
-      "timestamp": 1786929944.0
-    },
-    {
-      "title": "The CLI your AI agent drives to manage your knowledge graph",
-      "link": "https://useokf.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 00:32:08 +0000",
-      "timestamp": 1786926728.0
-    },
-    {
-      "title": "With OpenRouter, Is Stripe Becoming the Amazon of AI",
-      "link": "https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 23:47:45 +0000",
-      "timestamp": 1786924065.0
-    },
-    {
-      "title": "BanProof – AI that scans TikTok Shop videos for violation points before you post",
-      "link": "https://banproof.io/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 23:29:12 +0000",
-      "timestamp": 1786922952.0
-    },
-    {
-      "title": "AI Slop Is Real",
-      "link": "https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 22:52:39 +0000",
-      "timestamp": 1786920759.0
-    },
-    {
-      "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
-      "link": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 22:50:38 +0000",
-      "timestamp": 1786920638.0
-    },
-    {
-      "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says",
-      "link": "https://www.kyivpost.com/post/82225",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 22:33:03 +0000",
-      "timestamp": 1786919583.0
-    },
-    {
-      "title": "Smarter – open-source, declarative AI authoring platform (Django, K8s-inspired)",
-      "link": "https://github.com/smarter-sh/smarter",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 22:25:17 +0000",
-      "timestamp": 1786919117.0
-    },
-    {
-      "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
-      "link": "https://github.com/gmhoward9289-ops/legbar",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 22:06:14 +0000",
-      "timestamp": 1786917974.0
-    },
-    {
-      "title": "AI #176 Part 2: Plan B",
-      "link": "https://thezvi.substack.com/p/ai-176-part-2-plan-b",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 21:34:40 +0000",
-      "timestamp": 1786916080.0
-    },
-    {
-      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-      "link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 21:34:06 +0000",
-      "timestamp": 1786916046.0
-    },
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
@@ -129,42 +12,6 @@
       "timestamp": 1786915976.0
     },
     {
-      "title": "Show HN: VocalCode – push-to-talk dictation for AI coding agents, on-device",
-      "link": "https://vocalcode.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 21:20:54 +0000",
-      "timestamp": 1786915254.0
-    },
-    {
-      "title": "Show HN: Remarc – provide more contextual and structured feedback to AI agents",
-      "link": "https://github.com/metedata/Remarc",
-      "summary": "Like any side project, Remarc started with my own problem: there was no good way to give AI coding agents contextual feedback on their own output. There are plenty of tools for collaborating with humans, but surprisingly few for collaborating with AI. Chat was not cutting it for the feedback I wanted to give: This thing in the implementation plan? Change it to that. What did you mean here? See this button? Here is a screenshot. I circled it because it is missing a hover state. This sentence in the third paragraph? Rephrase it. If you are an opinionated builder, this gets clunky quickly. You ei",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 21:14:57 +0000",
-      "timestamp": 1786914897.0
-    },
-    {
-      "title": "AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]",
-      "link": "https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 21:01:17 +0000",
-      "timestamp": 1786914077.0
-    },
-    {
-      "title": "Show HN: Conw.ai – Independent local AI platform and developer API",
-      "link": "https://conw.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 21:00:47 +0000",
-      "timestamp": 1786914047.0
-    },
-    {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
@@ -172,24 +19,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 16 Aug 2026 20:57:04 +0000",
       "timestamp": 1786913824.0
-    },
-    {
-      "title": "Do people care if articles are written by AI?",
-      "link": "https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 20:47:20 +0000",
-      "timestamp": 1786913240.0
-    },
-    {
-      "title": "Beautiful UI for AI-native interfaces",
-      "link": "https://www.beautifului.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 16 Aug 2026 20:42:52 +0000",
-      "timestamp": 1786912972.0
     },
     {
       "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
