@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-17T08:59:26.688065+00:00",
+  "scraped_at": "2026-08-17T09:56:15.740377+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Beyond the AI Layoff Fear",
+      "link": "https://urnicus.com/blog/beyond-the-ai-layoff-fear/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:49:38 +0000",
+      "timestamp": 1786960178.0
+    },
+    {
+      "title": "Show HN: AI Signal Bot for project updates",
+      "link": "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:34:52 +0000",
+      "timestamp": 1786959292.0
+    },
+    {
+      "title": "Integrating AI into the Newspeak IDE [video]",
+      "link": "https://www.youtube.com/watch?v=D1mEQ6ixJUk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:30:56 +0000",
+      "timestamp": 1786959056.0
+    },
+    {
+      "title": "Show HN: Octoweb – A Keyboard-First Browser with AI as a Citizen",
+      "link": "https://muvon.io/blog/introducing-octoweb-keyboard-first-ai-browser",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:28:04 +0000",
+      "timestamp": 1786958884.0
+    },
+    {
+      "title": "Nvidia AI Financing Is the $500B Risk Investors Aren't Watching",
+      "link": "https://www.forbes.com/sites/jimosman/2026/08/16/nvidia-ai-financing-is-the-500-billion-risk-investors-arent-watching/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:27:48 +0000",
+      "timestamp": 1786958868.0
+    },
+    {
+      "title": "The challenge of AI value after deployment",
+      "link": "https://medium.com/quantumblack/ai-value-the-growing-ai-operations-challenge-ca8621aa245c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:21:47 +0000",
+      "timestamp": 1786958507.0
+    },
+    {
+      "title": "AI Software Development – What Does the Data Say?",
+      "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:16:01 +0000",
+      "timestamp": 1786958161.0
+    },
+    {
+      "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
+      "link": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 09:02:35 +0000",
+      "timestamp": 1786957355.0
+    },
     {
       "title": "Show HN: Winuse – Cross-platform desktop GUI automation for AI agents",
       "link": "https://github.com/lgxz/winuse",
@@ -109,78 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 06:18:48 +0000",
       "timestamp": 1786947528.0
-    },
-    {
-      "title": "Paitify – authorization layer so AI agents can't overspend",
-      "link": "https://paitify.io",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 06:05:30 +0000",
-      "timestamp": 1786946730.0
-    },
-    {
-      "title": "The AI Competence/Judgement Gap",
-      "link": "https://itamargilad.com/artificial-competence/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 05:58:47 +0000",
-      "timestamp": 1786946327.0
-    },
-    {
-      "title": "How to Use AI as a Language Learner",
-      "link": "https://vocably.pro/ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 05:47:26 +0000",
-      "timestamp": 1786945646.0
-    },
-    {
-      "title": "Why Big Tech's AI Spending Is $3T Higher Than It Seems",
-      "link": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 05:31:49 +0000",
-      "timestamp": 1786944709.0
-    },
-    {
-      "title": "Zalvion AI",
-      "link": "https://zalvionai.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 05:24:19 +0000",
-      "timestamp": 1786944259.0
-    },
-    {
-      "title": "AI wins landmark Fair Work Commission case for Macquarie academic",
-      "link": "https://www.afr.com/work-and-careers/workplace/ai-wins-landmark-fair-work-commission-case-for-macquarie-academic-20260813-p60o1m",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 05:21:39 +0000",
-      "timestamp": 1786944099.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 04:31:55 +0000",
-      "timestamp": 1786941115.0
-    },
-    {
-      "title": "Idea for Expository AI",
-      "link": "https://news.ycombinator.com/item?id=49326422",
-      "summary": "I've heard some complaints about the frontier models still be bad at explaining math and was thinking of an RL environment that would help might be to: -Take very hard math problem with a verifiable answer -Have frontier model explain to a tiny model like (0.5-1B params and provably bad score on the problem) how to solve but not the solution, and reward the frontier model for prompts/explanations that helped the tiny model solve the problem Obviously some amount of human supervision is needed to weed out it giving too much information",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 03:57:19 +0000",
-      "timestamp": 1786939039.0
     },
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
