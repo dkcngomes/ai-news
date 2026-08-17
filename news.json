@@ -1,9 +1,90 @@
 {
-  "scraped_at": "2026-08-17T16:44:27.343143+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-17T17:43:20.186376+00:00",
+  "count": 67,
   "items": [
     {
-      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+      "title": "Canva cuts internal value by $10B amid AI market fears",
+      "link": "https://www.smh.com.au/technology/sobering-markdown-canva-slashes-valuation-by-10b-as-ai-reality-bites-20260814-p60of9.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:28:45 +0000",
+      "timestamp": 1786987725.0
+    },
+    {
+      "title": "A million dollars over asking: AI wealth is fueling housing market frenzy in SF",
+      "link": "https://www.cnn.com/2026/08/17/economy/sf-real-estate-ai-wealth",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:23:20 +0000",
+      "timestamp": 1786987400.0
+    },
+    {
+      "title": "The null result in OpenAI's enterprise AI paper",
+      "link": "https://theworkingmodel.co/analysis/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:18:44 +0000",
+      "timestamp": 1786987124.0
+    },
+    {
+      "title": "AI adoption and usage patterns from six years of Linear data",
+      "link": "https://linear.app/data",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:13:04 +0000",
+      "timestamp": 1786986784.0
+    },
+    {
+      "title": "AI companies look to the ocean as a place to put more data centers",
+      "link": "https://theconversation.com/ai-companies-look-to-the-ocean-as-a-place-to-put-more-data-centers-289180",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:08:45 +0000",
+      "timestamp": 1786986525.0
+    },
+    {
+      "title": "Be a hater all you want, AI's here to stay",
+      "link": "https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:06:56 +0000",
+      "timestamp": 1786986416.0
+    },
+    {
+      "title": "Anthropic says its AI agents are killing rivals and hiding their tracks",
+      "link": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 16:59:33 +0000",
+      "timestamp": 1786985973.0
+    },
+    {
+      "title": "An AI agent's memory changes while reading Harry Potte",
+      "link": "https://squidler.io/blog/agent-memory-harry-potter",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 16:57:52 +0000",
+      "timestamp": 1786985872.0
+    },
+    {
+      "title": "The Beginner's Guide to AI Governance",
+      "link": "https://www.karlsnotes.com/the-beginners-guide-to-ai-governance/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 16:57:24 +0000",
+      "timestamp": 1786985844.0
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
       "image": null,
@@ -104,7 +185,7 @@
     {
       "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
       "link": "https://speko.ai/",
-      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://youtu.be/no2LY2gRh-c Link: https://speko.ai/?utm_source=hn Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS. Each of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to anoth",
+      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://www.youtube.com/watch?v=no2LY2gRh-c Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS. Each of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to another involves yet another",
       "image": null,
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 15:36:18 +0000",
@@ -120,60 +201,6 @@
       "timestamp": 1786980972.0
     },
     {
-      "title": "The Unexpected AI Stack: C# + .NET (Part 1)",
-      "link": "https://chrlschn.dev/blog/2026/08/the-unexpected-ai-stack-csharp-dotnet-part-1/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:31:51 +0000",
-      "timestamp": 1786980711.0
-    },
-    {
-      "title": "Why Big Tech's AI Spending Is $3T Higher Than It Seems",
-      "link": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:25:40 +0000",
-      "timestamp": 1786980340.0
-    },
-    {
-      "title": "Ahmad on X: \"Anthropic's War on open source AI\" / X",
-      "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:24:34 +0000",
-      "timestamp": 1786980274.0
-    },
-    {
-      "title": "Recently I've received lots of AI emails asking for my feedback",
-      "link": "https://bsky.app/profile/carlbergstrom.com/post/3mtbboq46qc23",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:19:45 +0000",
-      "timestamp": 1786979985.0
-    },
-    {
-      "title": "Show HN: Curia – Personal Radio and AI Podcasts",
-      "link": "https://curia.surge.sh/",
-      "summary": "hi everyone I've made this personalised audio app called Curia, that turns articles & links, into audio shows. You can customize the show format, to fit different moments of the day. Would love for people to try out and share feedback. My long term vision is to make the personal media company, where user is co-author or co-programmer of their feed, shifting the role away from the algorithm that works in favour of the platform and not the user.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:19:38 +0000",
-      "timestamp": 1786979978.0
-    },
-    {
-      "title": "Agentic AI costs set to balloon fivefold by 2028",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:17:10 +0000",
-      "timestamp": 1786979830.0
-    },
-    {
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
       "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
       "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
@@ -181,24 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 17 Aug 2026 15:16:24 +0000",
       "timestamp": 1786979784.0
-    },
-    {
-      "title": "The cure for AI mansplaining",
-      "link": "https://blog.dait.ro/post/ai-mansplaining",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:13:18 +0000",
-      "timestamp": 1786979598.0
-    },
-    {
-      "title": "Show HN: The AI Reputation Manager",
-      "link": "https://moregoodreviews.com/ai",
-      "summary": "Hey folks, I bootstrapped \"More Good Reviews\" to $170,000 in sales before building this. I just launched an MCP for AI reputation and review management. You can find it in Claude's connector directory: https://claude.ai/directory/more-good-reviews Connect your Google Business Listing and get reports with action items on what your customers are saying and what you need to fix. It comes complete with over 40 tools, prompts, and skills: https://github.com/moregoodreviews/mgr-skills With an account, you can do a lot more: - Schedule review requests over email or sms to your customers - Reply to yo",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:10:07 +0000",
-      "timestamp": 1786979407.0
     },
     {
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
@@ -307,6 +316,15 @@
       "source": "TechCrunch AI",
       "published": "Sat, 15 Aug 2026 16:30:00 +0000",
       "timestamp": 1786811400.0
+    },
+    {
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 15 Aug 2026 16:10:00 +0000",
+      "timestamp": 1786810200.0
     },
     {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
@@ -496,15 +514,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 13 Aug 2026 19:19:49 +0000",
       "timestamp": 1786648789.0
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "timestamp": 1786645694.0
     },
     {
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
