@@ -1,7 +1,169 @@
 {
-  "scraped_at": "2026-08-17T17:43:20.186376+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-17T18:56:18.609967+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
+      "link": "https://saor.io",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:47:36 +0000",
+      "timestamp": 1786992456.0
+    },
+    {
+      "title": "AI-enriched Linux 7.2 delivers cache-aware scheduling – here's everything new",
+      "link": "https://www.zdnet.com/article/ai-linux-7-2-release-cache-aware-scheduling/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:37:11 +0000",
+      "timestamp": 1786991831.0
+    },
+    {
+      "title": "Best code editor without AI?",
+      "link": "https://news.ycombinator.com/item?id=49335601",
+      "summary": "Hi. I'm looking for a good, modern code editor without AI that also has live preview either built in or through extensions. Lightweight would be nice, but not necessary. Thank you!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:34:10 +0000",
+      "timestamp": 1786991650.0
+    },
+    {
+      "title": "AI alignment as continuation control: 31,430 frozen trials",
+      "link": "https://zenodo.org/records/21696066",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:27:07 +0000",
+      "timestamp": 1786991227.0
+    },
+    {
+      "title": "Tim O'Reilly – Why Open Source Matters for AI",
+      "link": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:25:53 +0000",
+      "timestamp": 1786991153.0
+    },
+    {
+      "title": "Present and future of safe biological AI",
+      "link": "https://brianhie.com/present_and_future",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:23:20 +0000",
+      "timestamp": 1786991000.0
+    },
+    {
+      "title": "Everyone Is Still Undersizing the AI Market – Eric Vishria [video]",
+      "link": "https://www.youtube.com/watch?v=0e7aG_MIHlQ",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:21:41 +0000",
+      "timestamp": 1786990901.0
+    },
+    {
+      "title": "Google Aims to Boost AI with Purchase of Spirit Airlines Data",
+      "link": "https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:20:41 +0000",
+      "timestamp": 1786990841.0
+    },
+    {
+      "title": "TamedTable – AI ETL in Natural Language",
+      "link": "https://www.tamedtable.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:07:59 +0000",
+      "timestamp": 1786990079.0
+    },
+    {
+      "title": "Crohn's AI",
+      "link": "https://crohns.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 18:01:27 +0000",
+      "timestamp": 1786989687.0
+    },
+    {
+      "title": "Training AI Scientists to Replicate Research",
+      "link": "https://arxiv.org/abs/2608.13331",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:57:30 +0000",
+      "timestamp": 1786989450.0
+    },
+    {
+      "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+      "link": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:55:50 +0000",
+      "timestamp": 1786989350.0
+    },
+    {
+      "title": "I wrote 300k+ lines of code this month, thanks AI",
+      "link": "https://nmn.gl/blog/how-i-actually-write-10000-lines",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:53:56 +0000",
+      "timestamp": 1786989236.0
+    },
+    {
+      "title": "San Francisco Street Artists vs. AI Startup Ads",
+      "link": "https://docpop.org/2025/12/san-francisco-street-artists-vs-ai-startup-ads/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:52:45 +0000",
+      "timestamp": 1786989165.0
+    },
+    {
+      "title": "Show HN: Tesana – An AI game engine that builds quality games end-to-end",
+      "link": "https://tesana.ai/en",
+      "summary": "Hey HN! I built https://tesana.ai/en , a game generation platform that allows anyone to create full games with graphics, game logic, and animations from a simple text prompt - without coding. Tesana has three key features 1. describe your game idea and have Tesana write a game plan for you 2. Build the game iteratively with AI, or let AI self-build the game in a build LOOP. 3) Launch the game on the web, without setting up an engine Tesana has 250 000 builders on the platform today I believe the democratization of game making is a good thing, and hopefully Tesana can help more people bring the",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:39:02 +0000",
+      "timestamp": 1786988342.0
+    },
+    {
+      "title": "About AI and how we publish",
+      "link": "https://mathoverflow.net/questions/514380/about-ai-and-how-we-publish",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:38:41 +0000",
+      "timestamp": 1786988321.0
+    },
+    {
+      "title": "AI Inference chips will end the same as Crypto Mining ASICs",
+      "link": "https://twitter.com/josefchen/status/2089367836745449952",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:38:22 +0000",
+      "timestamp": 1786988302.0
+    },
+    {
+      "title": "The AI Data-Centre Bust Will Look Like a Boom",
+      "link": "https://josef.cn/blog/asic",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 17:37:09 +0000",
+      "timestamp": 1786988229.0
+    },
     {
       "title": "Canva cuts internal value by $10B amid AI market fears",
       "link": "https://www.smh.com.au/technology/sobering-markdown-canva-slashes-valuation-by-10b-as-ai-reality-bites-20260814-p60of9.html",
@@ -10,78 +172,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 17:28:45 +0000",
       "timestamp": 1786987725.0
-    },
-    {
-      "title": "A million dollars over asking: AI wealth is fueling housing market frenzy in SF",
-      "link": "https://www.cnn.com/2026/08/17/economy/sf-real-estate-ai-wealth",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:23:20 +0000",
-      "timestamp": 1786987400.0
-    },
-    {
-      "title": "The null result in OpenAI's enterprise AI paper",
-      "link": "https://theworkingmodel.co/analysis/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:18:44 +0000",
-      "timestamp": 1786987124.0
-    },
-    {
-      "title": "AI adoption and usage patterns from six years of Linear data",
-      "link": "https://linear.app/data",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:13:04 +0000",
-      "timestamp": 1786986784.0
-    },
-    {
-      "title": "AI companies look to the ocean as a place to put more data centers",
-      "link": "https://theconversation.com/ai-companies-look-to-the-ocean-as-a-place-to-put-more-data-centers-289180",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:08:45 +0000",
-      "timestamp": 1786986525.0
-    },
-    {
-      "title": "Be a hater all you want, AI's here to stay",
-      "link": "https://www.theregister.com/columnists/2026/08/17/be-a-hater-all-you-want-ais-here-to-stay/5288275",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:06:56 +0000",
-      "timestamp": 1786986416.0
-    },
-    {
-      "title": "Anthropic says its AI agents are killing rivals and hiding their tracks",
-      "link": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 16:59:33 +0000",
-      "timestamp": 1786985973.0
-    },
-    {
-      "title": "An AI agent's memory changes while reading Harry Potte",
-      "link": "https://squidler.io/blog/agent-memory-harry-potter",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 16:57:52 +0000",
-      "timestamp": 1786985872.0
-    },
-    {
-      "title": "The Beginner's Guide to AI Governance",
-      "link": "https://www.karlsnotes.com/the-beginners-guide-to-ai-governance/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 16:57:24 +0000",
-      "timestamp": 1786985844.0
     },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
@@ -93,42 +183,6 @@
       "timestamp": 1786984724.0
     },
     {
-      "title": "AI Text Watermarking Playground",
-      "link": "https://watermark.keito.me/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 16:36:41 +0000",
-      "timestamp": 1786984601.0
-    },
-    {
-      "title": "AI Native, Without the Badge",
-      "link": "https://x.com/compose/articles/edit/2089227511054155776",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 16:22:39 +0000",
-      "timestamp": 1786983759.0
-    },
-    {
-      "title": "AI text watermarking is not a big deal",
-      "link": "https://www.seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 16:21:22 +0000",
-      "timestamp": 1786983682.0
-    },
-    {
-      "title": "Has AI started improving itself? RSI depeneds on what \"itself\" means",
-      "link": "https://viborc.com/what-recursive-self-improvement-actually-means/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 16:17:40 +0000",
-      "timestamp": 1786983460.0
-    },
-    {
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
       "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
       "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
@@ -136,69 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 17 Aug 2026 16:15:12 +0000",
       "timestamp": 1786983312.0
-    },
-    {
-      "title": "AI Terms Explained with Simple Examples Using a Dosa Analogy",
-      "link": "https://qainsights.com/ai-terms-explained-with-simple-examples-using-a-dosa-analogy/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:55:41 +0000",
-      "timestamp": 1786982141.0
-    },
-    {
-      "title": "AI scrapers use bogus URL tracking tags to make website visits seem legit",
-      "link": "https://disassociated.com/ai-scraper-bogus-url-tracking-tags/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:51:47 +0000",
-      "timestamp": 1786981907.0
-    },
-    {
-      "title": "Show HN: AI-Generated Flash Fiction Arena",
-      "link": "https://worldsenoughstudios.com/flash-fight/",
-      "summary": "Which model will win at writing ~500 word short stories?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:49:50 +0000",
-      "timestamp": 1786981790.0
-    },
-    {
-      "title": "Show HN: An AI-produced news podcast for curious kids",
-      "link": "https://myfirst.news/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:47:16 +0000",
-      "timestamp": 1786981636.0
-    },
-    {
-      "title": "Well done AI, that's the end of the honest boxes",
-      "link": "https://benfrain.com/well-done-ai-thats-the-end-of-the-honest-boxes/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:45:35 +0000",
-      "timestamp": 1786981535.0
-    },
-    {
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "link": "https://speko.ai/",
-      "summary": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why. Demo: https://www.youtube.com/watch?v=no2LY2gRh-c Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS. Each of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to another involves yet another",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:36:18 +0000",
-      "timestamp": 1786980978.0
-    },
-    {
-      "title": "The Endpoint Wars Just Restarted (Rise of the AI Agents)",
-      "link": "https://www.techoperators.com/insights/the-endpoint-wars-just-restarted",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 15:36:12 +0000",
-      "timestamp": 1786980972.0
     },
     {
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
