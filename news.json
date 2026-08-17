@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-08-17T19:40:42.433385+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-17T20:42:36.784030+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "Show HN: Slaunt – control what AI agents can access, do, and execute",
+      "link": "https://slaunt.ai",
+      "summary": "Hey HN, wanted to silently launch what I've building for a bit. Lmk.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:33:01 +0000",
+      "timestamp": 1786998781.0
+    },
+    {
+      "title": "Ask HN: AI-Haters and AI-Usage",
+      "link": "https://news.ycombinator.com/item?id=49337191",
+      "summary": "Hey HN, so I got a few friends that completely hate on AI, which I partially get, AI-Art is taking jobs and looks ugly, but what is too much for you and how much AI do y'all use? Id like to understand the people that hate on AI, but most of the time their arguments are water usage, tho they all eat meat and buy new clothes which can be read about here https://bryantresearch.co.uk/insight-items/comparing-water-footprint-ai/ Also another question would be if being vegan/vegetarian would make AI usage less 'bad', or if its just a general hate",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:30:35 +0000",
+      "timestamp": 1786998635.0
+    },
+    {
+      "title": "Should You Use AI for a Task? Here's a Simple Way to Decide",
+      "link": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:25:37 +0000",
+      "timestamp": 1786998337.0
+    },
+    {
+      "title": "Data Loading for AI/ML: A Comprehensive Guide",
+      "link": "https://www.lancedb.com/blog/data-loading-guide",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:17:24 +0000",
+      "timestamp": 1786997844.0
+    },
+    {
+      "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+      "link": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:14:20 +0000",
+      "timestamp": 1786997660.0
+    },
+    {
+      "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+      "link": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:10:00 +0000",
+      "timestamp": 1786997400.0
+    },
+    {
+      "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
+      "link": "https://github.com/fu351/Doberman-Core",
+      "summary": "Landing Page: https://www.trydoberman.dev/ The Problem: AI guardrails only protect against 89% of dangerous commands. This may seem pretty good until you think of it as a lock that lets 1 in 9 intruders in. What is Doberman: Doberman is a two layer security system wrapped around your LLM monitoring every input, output and tool call. The first layer is deterministic based on state of the art security guidelines, the second layer is dynamic, learning from your use and personal preferences. How is Doberman different: It is a dynamic two-layer security system that sits at runtime and monitors ever",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:03:00 +0000",
+      "timestamp": 1786996980.0
+    },
+    {
+      "title": "Is reviewing AI even possible?",
+      "link": "https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 20:00:30 +0000",
+      "timestamp": 1786996830.0
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 19:47:15 +0000",
+      "timestamp": 1786996035.0
+    },
+    {
+      "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
+      "link": "https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 19:43:18 +0000",
+      "timestamp": 1786995798.0
+    },
+    {
+      "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
+      "link": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 17 Aug 2026 19:33:39 +0000",
+      "timestamp": 1786995219.0
+    },
     {
       "title": "The People Building a Way to Slow Down the AI Race",
       "link": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/",
@@ -82,96 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 18:47:36 +0000",
       "timestamp": 1786992456.0
-    },
-    {
-      "title": "AI-enriched Linux 7.2 delivers cache-aware scheduling – here's everything new",
-      "link": "https://www.zdnet.com/article/ai-linux-7-2-release-cache-aware-scheduling/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:37:11 +0000",
-      "timestamp": 1786991831.0
-    },
-    {
-      "title": "Best code editor without AI?",
-      "link": "https://news.ycombinator.com/item?id=49335601",
-      "summary": "Hi. I'm looking for a good, modern code editor without AI that also has live preview either built in or through extensions. Lightweight would be nice, but not necessary. Thank you!",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:34:10 +0000",
-      "timestamp": 1786991650.0
-    },
-    {
-      "title": "AI alignment as continuation control: 31,430 frozen trials",
-      "link": "https://zenodo.org/records/21696066",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:27:07 +0000",
-      "timestamp": 1786991227.0
-    },
-    {
-      "title": "Tim O'Reilly – Why Open Source Matters for AI",
-      "link": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:25:53 +0000",
-      "timestamp": 1786991153.0
-    },
-    {
-      "title": "Present and future of safe biological AI",
-      "link": "https://brianhie.com/present_and_future",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:23:20 +0000",
-      "timestamp": 1786991000.0
-    },
-    {
-      "title": "Everyone Is Still Undersizing the AI Market – Eric Vishria [video]",
-      "link": "https://www.youtube.com/watch?v=0e7aG_MIHlQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:21:41 +0000",
-      "timestamp": 1786990901.0
-    },
-    {
-      "title": "Google Aims to Boost AI with Purchase of Spirit Airlines Data",
-      "link": "https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:20:41 +0000",
-      "timestamp": 1786990841.0
-    },
-    {
-      "title": "TamedTable – AI ETL in Natural Language",
-      "link": "https://www.tamedtable.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:07:59 +0000",
-      "timestamp": 1786990079.0
-    },
-    {
-      "title": "Crohn's AI",
-      "link": "https://crohns.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 18:01:27 +0000",
-      "timestamp": 1786989687.0
-    },
-    {
-      "title": "Training AI Scientists to Replicate Research",
-      "link": "https://arxiv.org/abs/2608.13331",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 17:57:30 +0000",
-      "timestamp": 1786989450.0
     },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
