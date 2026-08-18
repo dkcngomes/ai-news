@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-18T21:36:45.492851+00:00",
+  "scraped_at": "2026-08-18T22:40:11.441443+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Who owns the code? AI code == no author == no copyright",
+      "link": "https://whoownsthecode.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 22:21:30 +0000",
+      "timestamp": 1787091690.0
+    },
+    {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
+      "timestamp": 1787091265.0
+    },
+    {
+      "title": "Tail: A 0–5 scale for how much AI wrote this",
+      "link": "https://beaucronin.com/tail/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 22:11:35 +0000",
+      "timestamp": 1787091095.0
+    },
+    {
+      "title": "AI usage patterns in software teams",
+      "link": "https://linear.app/data",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 22:08:07 +0000",
+      "timestamp": 1787090887.0
+    },
+    {
+      "title": "Silicon Valley's AI boom is remaking American charity",
+      "link": "https://www.economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 21:50:58 +0000",
+      "timestamp": 1787089858.0
+    },
+    {
+      "title": "Show HN: HashNotch – Premium AI Integrated Dynamic Island for the Mac OS",
+      "link": "https://news.ycombinator.com/item?id=49353148",
+      "summary": "Hash made the Dynamic Island every Mac user deserves. See the unseen. What's playing, how fast your internet is, what your battery is doing, how hot the chip is running, what you have spent on AI today — all of it a glance away. No account. No telemetry. Nothing about you ever leaves your Mac.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 21:45:48 +0000",
+      "timestamp": 1787089548.0
+    },
+    {
+      "title": "Google Moves A2A Under Agentic AI Foundation",
+      "link": "https://techstrong.ai/articles/google-moves-a2a-under-agentic-ai-foundation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 21:45:41 +0000",
+      "timestamp": 1787089541.0
+    },
     {
       "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
       "link": "https://chatoss.ai",
@@ -145,60 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 18 Aug 2026 19:13:40 +0000",
       "timestamp": 1787080420.0
-    },
-    {
-      "title": "U.S. to tell partners they must pick sides in AI race with China",
-      "link": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 19:09:00 +0000",
-      "timestamp": 1787080140.0
-    },
-    {
-      "title": "Africa Is Not Waiting for AI. We're Building the Infrastructure to Use It",
-      "link": "https://medium.com/@SamuelMbugua254/africa-is-not-waiting-for-ai-were-building-the-infrastructure-to-use-it-dc5e92e3ca1c",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 19:07:42 +0000",
-      "timestamp": 1787080062.0
-    },
-    {
-      "title": "Show HN: Sealed evidence record of an AI agent run – broken twice, credited",
-      "link": "https://github.com/cjchanh/aaap-challenge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 19:07:02 +0000",
-      "timestamp": 1787080022.0
-    },
-    {
-      "title": "I Turned AI to the Dark Side",
-      "link": "https://spectrum.ieee.org/jailbreaking-llms",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 19:06:57 +0000",
-      "timestamp": 1787080017.0
-    },
-    {
-      "title": "AI Is Upending One of Finance's Cushiest Jobs",
-      "link": "https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 18:59:38 +0000",
-      "timestamp": 1787079578.0
-    },
-    {
-      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
-      "link": "https://pantheongpu.com/",
-      "summary": "Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should? A GPU can show normal temperatures and utilization and still be underperforming, unstable under certain workloads, or have memory, PCIe, or configuration issues. PantheonGPU actively tests the GPU instead of only monitoring telemetry. It currently includes 45+ tests covering compute, tensor workloads, memory, cache, PCIe, thermals, stability, and AI/LLM inference. It supports both NVIDIA CUDA and AMD ROCm. I’m also exploring a larger use case: run",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 18:47:51 +0000",
-      "timestamp": 1787078871.0
     },
     {
       "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
@@ -478,15 +487,6 @@
       "source": "Wired AI",
       "published": "Fri, 14 Aug 2026 20:59:03 +0000",
       "timestamp": 1786741143.0
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 14 Aug 2026 16:13:40 +0000",
-      "timestamp": 1786724020.0
     },
     {
       "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
