@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-18T19:39:46.961827+00:00",
+  "scraped_at": "2026-08-18T20:39:04.369702+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Fact check: How do I spot AI-generated images?",
+      "link": "https://www.dw.com/en/fact-check-how-do-i-spot-ai-generated-images/a-65252602",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 20:29:59 +0000",
+      "timestamp": 1787084999.0
+    },
+    {
+      "title": "AI detection tools are proliferating. Here's why they won't last.",
+      "link": "https://www.washingtonpost.com/opinions/2026/08/18/ai-detection-tools-are-proliferating-here-why-they-wont-last/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 20:29:31 +0000",
+      "timestamp": 1787084971.0
+    },
+    {
+      "title": "Has any one ever used Strands – the AI Agent SDK by AWS",
+      "link": "https://strandsagents.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 20:20:40 +0000",
+      "timestamp": 1787084440.0
+    },
+    {
+      "title": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
+      "link": "https://www.reuters.com/world/middle-east/blind-egyptian-entrepreneurs-ai-app-helps-others-see-world-2026-08-18/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 20:03:28 +0000",
+      "timestamp": 1787083408.0
+    },
+    {
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-18T15:48:26-04:00",
+      "timestamp": 1787082506.0
+    },
+    {
+      "title": "OpenAI Is Slowing Down Its AI Training",
+      "link": "https://time.com/article/2026/08/18/openai-slowing-training/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:46:28 +0000",
+      "timestamp": 1787082388.0
+    },
+    {
+      "title": "Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+      "link": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:45:48 +0000",
+      "timestamp": 1787082348.0
+    },
     {
       "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
@@ -12,7 +75,16 @@
       "timestamp": 1787081310.0
     },
     {
-      "title": "llms.txt is an agent-docs convention, not an AI search signal",
+      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+      "link": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:28:09 +0000",
+      "timestamp": 1787081289.0
+    },
+    {
+      "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
       "link": "https://geojacker.com/llms-txt",
       "summary": "",
       "image": null,
@@ -136,69 +208,6 @@
       "source": "Wired AI",
       "published": "Tue, 18 Aug 2026 18:33:11 +0000",
       "timestamp": 1787077991.0
-    },
-    {
-      "title": "Show HN: Deft Writing, an AI lab for non-slop LLMs",
-      "link": "https://deftwriting.com",
-      "summary": "Announcing Deft, a new AI lab for better writing Currently, 86% of user queries are fully human according to pangram. This is still a small beta model and it might make mistakes. We are launching our public beta now to get more feedback before scaling up. Tips for better performance: - Add more details to your prompt. If you just provide a short sentence prompt, it will likely get detected as AI. - Try changing the style in \"advanced options\" - Deft currently works better for some use cases like Analysis/Essays, Creative writing, and Rewrites. It works less well for Marketing copy and news art",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 18:33:05 +0000",
-      "timestamp": 1787077985.0
-    },
-    {
-      "title": "Show HN: Clad9 – AI wardrobe app that dresses you from your own closet",
-      "link": "https://clad9.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 18:29:14 +0000",
-      "timestamp": 1787077754.0
-    },
-    {
-      "title": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
-      "link": "https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 18:24:50 +0000",
-      "timestamp": 1787077490.0
-    },
-    {
-      "title": "OpenAI Partnering with CodeAI to prepare the first AI (human) generation",
-      "link": "https://openai.com/index/partnering-with-codeai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 18:24:03 +0000",
-      "timestamp": 1787077443.0
-    },
-    {
-      "title": "Google is buying all of Spirit Airlines' data to feed its AI models",
-      "link": "https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 18:23:48 +0000",
-      "timestamp": 1787077428.0
-    },
-    {
-      "title": "Everyone wants to be the AI gateway",
-      "link": "https://getlago.substack.com/p/everyone-wants-to-be-the-ai-gateway",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 18:21:44 +0000",
-      "timestamp": 1787077304.0
-    },
-    {
-      "title": "David Chalmers asks: When we talk to AI, what are we talking to?",
-      "link": "https://www.youtube.com/watch?v=uUjJOMcNU9w",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 18:02:33 +0000",
-      "timestamp": 1787076153.0
     },
     {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
@@ -415,15 +424,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 16 Aug 2026 16:53:51 +0000",
       "timestamp": 1786899231.0
-    },
-    {
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-16T10:56:40-04:00",
-      "timestamp": 1786892200.0
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
