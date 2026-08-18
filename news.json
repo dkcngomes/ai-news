@@ -1,7 +1,124 @@
 {
-  "scraped_at": "2026-08-18T13:06:14.613482+00:00",
+  "scraped_at": "2026-08-18T13:55:30.420896+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 18 Aug 2026 13:50:30 +0000",
+      "timestamp": 1787061030.0
+    },
+    {
+      "title": "Show HN: A stupid simple way to manage and publish ANY AI agents artifacts",
+      "link": "https://docstash.ai/",
+      "summary": "DocStash. The home for what your AI makes. Built this entirely solo. You can stash HTML, Markdown, PDF, Word, XLSX and Static apps built on React, Vue etc directly from your agent. You get a single stable URL, and all your artifacts live as webpages. Unlike Netlify and other drag and drop hosts, your artifacts are private by default, and you can publish them with one click. (And search indexing is off by default too) Basically like Google Drive and Vercel made sweet love to each other and had a baby. It's completely agent agnostic, which means you can easily iterate on any document, no matter ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:49:35 +0000",
+      "timestamp": 1787060975.0
+    },
+    {
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 18 Aug 2026 13:45:40 +0000",
+      "timestamp": 1787060740.0
+    },
+    {
+      "title": "Hacking your life with AI can get you hacked – Research",
+      "link": "https://www.endorlabs.com/learn/hacking-your-life-with-ai-can-get-you-hacked",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:41:59 +0000",
+      "timestamp": 1787060519.0
+    },
+    {
+      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+      "link": "https://www.bbc.com/news/articles/c62em5lpvnjo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:36:30 +0000",
+      "timestamp": 1787060190.0
+    },
+    {
+      "title": "AI Alignment as a Thought-Terminating Cliche",
+      "link": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:33:28 +0000",
+      "timestamp": 1787060008.0
+    },
+    {
+      "title": "Show HN: I wrapped iOS 27's on-device AI into an offline live captioning app",
+      "link": "https://testflight.apple.com/join/pQKnQgZZ",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:32:56 +0000",
+      "timestamp": 1787059976.0
+    },
+    {
+      "title": "Is there room for an AI-powered webmail service built on a single-letter domain?",
+      "link": "https://news.ycombinator.com/item?id=49345378",
+      "summary": "Hi HN, I’m a solo, non-technical founder working on W, an AI-powered webmail service built on a premium single-letter domain (https://w.xyz). I secured the domain and used AI agents to build out a functional proof-of-concept for the client. To handle infrastructure, I routed the application logic through Mailgun. Internally, the prototype is fully operational — emails successfully send and receive from @w.xyz handles. W combines a highly optimized interface with built-in AI capabilities like Spam Scanning, Smart Reply and Text Summaries. I currently have a 30+ organic waitlist as I finish the ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:30:42 +0000",
+      "timestamp": 1787059842.0
+    },
+    {
+      "title": "Patens – Stop tab-thrashing: clip research directly into local AI/IDE memory",
+      "link": "https://patens.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:24:57 +0000",
+      "timestamp": 1787059497.0
+    },
+    {
+      "title": "Ask HN: Good content on using AI to modernize professional services delivery",
+      "link": "https://news.ycombinator.com/item?id=49345255",
+      "summary": "I'm curious if the HN community has a good resources (blogs, podcasts, other content) on practical uses of SOTA AI to improve professional services (e.g. outsourced finance, etc.) I've read a fair amount of what people think should be done (theory) but haven't found a ton of content from people who actually have done it (practice)",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:21:38 +0000",
+      "timestamp": 1787059298.0
+    },
+    {
+      "title": "AI agent that learns from real-world experiences",
+      "link": "https://alloomi.ai/blogs/the-new-frontier-of-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:18:09 +0000",
+      "timestamp": 1787059089.0
+    },
+    {
+      "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+      "link": "https://github.com/mukundzha/avouch",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:13:17 +0000",
+      "timestamp": 1787058797.0
+    },
+    {
+      "title": "Show HN: PhysiClaw – an AI agent that physically operates an iPhone",
+      "link": "https://github.com/physiclaw/PhysiClaw",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:05:32 +0000",
+      "timestamp": 1787058332.0
+    },
     {
       "title": "Show HN: Engrava – a local graph memory database for AI agents (SQLite, MIT)",
       "link": "https://github.com/sovantica/engrava",
@@ -12,7 +129,16 @@
       "timestamp": 1787058068.0
     },
     {
-      "title": "Krystal Loop Protocol – a bounded worker/critic loop for AI coding agents",
+      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-18T09:00:00-04:00",
+      "timestamp": 1787058000.0
+    },
+    {
+      "title": "Show HN: Krystal Loop Protocol–a bounded worker/critic loop for AI coding agents",
       "link": "https://github.com/KrystalUnity/krystal-loop-protocol",
       "summary": "",
       "image": null,
@@ -84,24 +210,6 @@
       "timestamp": 1787055052.0
     },
     {
-      "title": "Can autocomplete play chess blindfolded? A journey into applied AI research",
-      "link": "https://alfredvc.no/blog/chess-as-autocomplete",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 12:09:44 +0000",
-      "timestamp": 1787054984.0
-    },
-    {
-      "title": "Show HN: AI Resume Optimization Tool for Specific Job Positions",
-      "link": "https://aiomniu.top/services/resume-builder",
-      "summary": "Hi HN, I've been watching everyone's presentations as an observer, and today I can finally showcase my product! It helps users: - Organize roles, projects, skills, and achievements - Transform vague descriptions into clearer, more professional language - Adjust the focus according to different target positions - Check resumes before submission to the ATS system Its core principle is: AI should enhance expressiveness, not fabricate experience or create false achievements. Relatively speaking, this isn't my proudest achievement, as resume optimization isn't a new tool, but it's part of my main p",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 12:02:25 +0000",
-      "timestamp": 1787054545.0
-    },
-    {
       "title": "Google&#8217;s Pet Memory forgot who my cats are",
       "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
       "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
@@ -109,69 +217,6 @@
       "source": "The Verge AI",
       "published": "2026-08-18T08:01:29-04:00",
       "timestamp": 1787054489.0
-    },
-    {
-      "title": "Vercel AI Gateway: GPT-5.6 Sol is 50% off for the next month",
-      "link": "https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 11:57:37 +0000",
-      "timestamp": 1787054257.0
-    },
-    {
-      "title": "Show HN: H2AI Chat – multi-AI debate you can self-host with local models (AGPL)",
-      "link": "https://github.com/Tonterias/h2aichat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 11:47:04 +0000",
-      "timestamp": 1787053624.0
-    },
-    {
-      "title": "Don't Paste the AI, Please",
-      "link": "https://dontpastetheai.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 11:40:43 +0000",
-      "timestamp": 1787053243.0
-    },
-    {
-      "title": "AI Does Not Change Goodhart or the Folly of Tokenmaxxing",
-      "link": "https://www.scrum.org/resources/blog/folly-tokenmaxxing-or-reinventing-wheel",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 11:38:48 +0000",
-      "timestamp": 1787053128.0
-    },
-    {
-      "title": "Rewriting a production compiler's IR with AI agents in five weeks",
-      "link": "https://github.com/CommanderTvis/writing/tree/main/rr-truffle-rewrite",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 11:35:21 +0000",
-      "timestamp": 1787052921.0
-    },
-    {
-      "title": "AI Used to Verify Toughest Mathematics Proof Yet",
-      "link": "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 11:10:44 +0000",
-      "timestamp": 1787051444.0
-    },
-    {
-      "title": "We still don't know how people are using AI",
-      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 11:01:43 +0000",
-      "timestamp": 1787050903.0
     },
     {
       "title": "Elon Musk made flying even worse so Palantir could profit",
@@ -190,24 +235,6 @@
       "source": "The Verge AI",
       "published": "2026-08-18T07:00:00-04:00",
       "timestamp": 1787050800.0
-    },
-    {
-      "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 10:40:27 +0000",
-      "timestamp": 1787049627.0
-    },
-    {
-      "title": "Tell HN: Use AI to music score your books",
-      "link": "https://news.ycombinator.com/item?id=49343693",
-      "summary": "Not many people read books but AI is under rated for the ability to theme your experience. If you ask Gemini to create a youtube music playlist for you for a specific book the result is amazing and I wanted to share this with others because it changed my book reading to an actual audio visual experience. There are some apps that do that but the songs are not on point, too \"theme like\". Gemini can find real songs that are a super fit.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 10:34:44 +0000",
-      "timestamp": 1787049284.0
     },
     {
       "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
@@ -363,15 +390,6 @@
       "timestamp": 1786829359.0
     },
     {
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-15T16:45:00-04:00",
-      "timestamp": 1786826700.0
-    },
-    {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
       "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
@@ -505,24 +523,6 @@
       "source": "Wired AI",
       "published": "Thu, 13 Aug 2026 21:14:43 +0000",
       "timestamp": 1786655683.0
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 13 Aug 2026 21:13:24 +0000",
-      "timestamp": 1786655604.0
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 13 Aug 2026 20:14:39 +0000",
-      "timestamp": 1786652079.0
     },
     {
       "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
