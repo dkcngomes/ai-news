@@ -1,7 +1,151 @@
 {
-  "scraped_at": "2026-08-18T11:38:49.819889+00:00",
+  "scraped_at": "2026-08-18T13:06:14.613482+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Show HN: Engrava – a local graph memory database for AI agents (SQLite, MIT)",
+      "link": "https://github.com/sovantica/engrava",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 13:01:08 +0000",
+      "timestamp": 1787058068.0
+    },
+    {
+      "title": "Krystal Loop Protocol – a bounded worker/critic loop for AI coding agents",
+      "link": "https://github.com/KrystalUnity/krystal-loop-protocol",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 12:58:38 +0000",
+      "timestamp": 1787057918.0
+    },
+    {
+      "title": "Show HN: AI tool to correct TikTok's Matcha filter in under 30s",
+      "link": "https://matchafilterremover.site/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 12:58:06 +0000",
+      "timestamp": 1787057886.0
+    },
+    {
+      "title": "AI Stock Research Assistant · Streamlit",
+      "link": "https://ai-stock-research-kiaan.streamlit.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 12:49:03 +0000",
+      "timestamp": 1787057343.0
+    },
+    {
+      "title": "Reddit's AI is turning posts into podcasts and short videos",
+      "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 12:47:43 +0000",
+      "timestamp": 1787057263.0
+    },
+    {
+      "title": "Capitalizing Untethered AI Agents",
+      "link": "https://soniafpearson.substack.com/p/capitalizing-untethered-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 12:42:17 +0000",
+      "timestamp": 1787056937.0
+    },
+    {
+      "title": "OneShot Zero-ambiguity precision specifications for AI coding agents",
+      "link": "https://sudolaps.top/oneshot/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 12:33:05 +0000",
+      "timestamp": 1787056385.0
+    },
+    {
+      "title": "State Farm defense lawyers admit AI generated fake cases in LA lawsuit",
+      "link": "https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 12:15:15 +0000",
+      "timestamp": 1787055315.0
+    },
+    {
+      "title": "Taxing AI to Help Workers Sounds Good, but Public Deserves More",
+      "link": "https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 12:10:52 +0000",
+      "timestamp": 1787055052.0
+    },
+    {
+      "title": "Can autocomplete play chess blindfolded? A journey into applied AI research",
+      "link": "https://alfredvc.no/blog/chess-as-autocomplete",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 12:09:44 +0000",
+      "timestamp": 1787054984.0
+    },
+    {
+      "title": "Show HN: AI Resume Optimization Tool for Specific Job Positions",
+      "link": "https://aiomniu.top/services/resume-builder",
+      "summary": "Hi HN, I've been watching everyone's presentations as an observer, and today I can finally showcase my product! It helps users: - Organize roles, projects, skills, and achievements - Transform vague descriptions into clearer, more professional language - Adjust the focus according to different target positions - Check resumes before submission to the ATS system Its core principle is: AI should enhance expressiveness, not fabricate experience or create false achievements. Relatively speaking, this isn't my proudest achievement, as resume optimization isn't a new tool, but it's part of my main p",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 12:02:25 +0000",
+      "timestamp": 1787054545.0
+    },
+    {
+      "title": "Google&#8217;s Pet Memory forgot who my cats are",
+      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-18T08:01:29-04:00",
+      "timestamp": 1787054489.0
+    },
+    {
+      "title": "Vercel AI Gateway: GPT-5.6 Sol is 50% off for the next month",
+      "link": "https://vercel.com/changelog/gpt-5-6-sol-is-50-off-on-ai-gateway-for-the-next-month",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 11:57:37 +0000",
+      "timestamp": 1787054257.0
+    },
+    {
+      "title": "Show HN: H2AI Chat – multi-AI debate you can self-host with local models (AGPL)",
+      "link": "https://github.com/Tonterias/h2aichat",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 11:47:04 +0000",
+      "timestamp": 1787053624.0
+    },
+    {
+      "title": "Don't Paste the AI, Please",
+      "link": "https://dontpastetheai.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 11:40:43 +0000",
+      "timestamp": 1787053243.0
+    },
+    {
+      "title": "AI Does Not Change Goodhart or the Folly of Tokenmaxxing",
+      "link": "https://www.scrum.org/resources/blog/folly-tokenmaxxing-or-reinventing-wheel",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 11:38:48 +0000",
+      "timestamp": 1787053128.0
+    },
     {
       "title": "Rewriting a production compiler's IR with AI agents in five weeks",
       "link": "https://github.com/CommanderTvis/writing/tree/main/rr-truffle-rewrite",
@@ -66,69 +210,6 @@
       "timestamp": 1787049284.0
     },
     {
-      "title": "AI automation: Lock in payroll savings or reinvest capacity into growth",
-      "link": "https://urnicus.com/blog/the-quiet-cost/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 10:18:49 +0000",
-      "timestamp": 1787048329.0
-    },
-    {
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 10:13:28 +0000",
-      "timestamp": 1787048008.0
-    },
-    {
-      "title": "MacBook Is Now an AI Workstation: Run Qwen 3.8 Locally",
-      "link": "https://suyash-joshi.medium.com/your-macbook-is-now-an-ai-workstation-run-qwen-3-8-locally-d1e103ada11d",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 10:10:37 +0000",
-      "timestamp": 1787047837.0
-    },
-    {
-      "title": "Kraubex AI",
-      "link": "https://www.kraubex.de/product",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 09:25:45 +0000",
-      "timestamp": 1787045145.0
-    },
-    {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "link": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 09:09:39 +0000",
-      "timestamp": 1787044179.0
-    },
-    {
-      "title": "Arctype – An AI workspace that builds documents, apps, and handles email",
-      "link": "https://arctype.org/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 09:07:44 +0000",
-      "timestamp": 1787044064.0
-    },
-    {
-      "title": "I'm done coding with AI [video]",
-      "link": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 09:03:39 +0000",
-      "timestamp": 1787043819.0
-    },
-    {
       "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
       "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
       "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
@@ -145,78 +226,6 @@
       "source": "Wired AI",
       "published": "Tue, 18 Aug 2026 09:00:00 +0000",
       "timestamp": 1787043600.0
-    },
-    {
-      "title": "Breakthrough as scientists use AI to predict how breast cancer could progress",
-      "link": "https://www.independent.co.uk/news/health/breast-cancer-diagnosis-cure-ai-symptoms-b3034278.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 08:58:41 +0000",
-      "timestamp": 1787043521.0
-    },
-    {
-      "title": "What if the AI capex bubble may not be a bubble after all?",
-      "link": "https://www.afr.com/technology/sam-altman-is-being-proved-right-about-the-economics-of-ai-20260817-p60p1k",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 08:33:01 +0000",
-      "timestamp": 1787041981.0
-    },
-    {
-      "title": "The End-State Fallacy: Where Is AI Security Headed?",
-      "link": "https://endstatefallacy.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 08:01:48 +0000",
-      "timestamp": 1787040108.0
-    },
-    {
-      "title": "Creator of TypeScript: 10x Faster TypeScript, Why AI Won't Replace SWEs [video]",
-      "link": "https://www.youtube.com/watch?v=cywK3XYYJ2o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 07:55:43 +0000",
-      "timestamp": 1787039743.0
-    },
-    {
-      "title": "AI is like farming. (and the purpose behind what I'm building)",
-      "link": "https://news.ycombinator.com/item?id=49342690",
-      "summary": "I was watching a documentary on bronze ages last night. A line stuck with me. After the invention of bronze tools farming got more efficient and people had more time on their hands. They used it to BUILD cities (and everything in it). That's the true human spirit that can't be diminished. Are transitions usually violent (also economically and politically)? Yes. Bigger the technological advancement, bigger are the transitions. We are going to be witnessing a massive re-training of an entire workforce into working with AI. This is exactly why I'm building AISA. I believe we need to be able to me",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 07:48:09 +0000",
-      "timestamp": 1787039289.0
-    },
-    {
-      "title": "Show HN: I built an M2M payment loop where AI Agents pay for data via x402",
-      "link": "https://github.com/tianzizhiming-svg/agentbridge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 07:07:00 +0000",
-      "timestamp": 1787036820.0
-    },
-    {
-      "title": "Show HN: AiJarvi – 80 free AI tools for creators in one workspace",
-      "link": "https://aijarvi.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 07:01:43 +0000",
-      "timestamp": 1787036503.0
-    },
-    {
-      "title": "Private Scribe – 100% offline Whisper AI voice dictation for Windows",
-      "link": "https://omnitender.gumroad.com/l/private-scribe",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 06:13:16 +0000",
-      "timestamp": 1787033596.0
     },
     {
       "title": "Anthropic’s annualized revenue surges to $65B",
@@ -406,15 +415,6 @@
       "source": "Wired AI",
       "published": "Fri, 14 Aug 2026 20:59:03 +0000",
       "timestamp": 1786741143.0
-    },
-    {
-      "title": "Mark Zuckerberg has an Instagzam",
-      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-14T12:54:16-04:00",
-      "timestamp": 1786726456.0
     },
     {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
