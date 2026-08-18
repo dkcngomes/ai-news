@@ -1,7 +1,25 @@
 {
-  "scraped_at": "2026-08-18T04:50:01.217108+00:00",
+  "scraped_at": "2026-08-18T05:43:50.873752+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Goody-2, the most responsible AI model (2024)",
+      "link": "https://www.goody2.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 04:57:21 +0000",
+      "timestamp": 1787029041.0
+    },
+    {
+      "title": "Vetted AI code is hard to justify",
+      "link": "https://amoffat.github.io/blog/vetting-burnout.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 04:44:02 +0000",
+      "timestamp": 1787028242.0
+    },
     {
       "title": "AI Stock Research Assistant · Streamlit",
       "link": "https://ai-stock-research-kiaan.streamlit.app",
@@ -172,24 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 22:50:03 +0000",
       "timestamp": 1787007003.0
-    },
-    {
-      "title": "Cumora, a cross-platform team chat where AI agents work alongside humans",
-      "link": "https://github.com/yetone/cumora",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 22:46:00 +0000",
-      "timestamp": 1787006760.0
-    },
-    {
-      "title": "AI writes dead code – the Go team's deadcode tool finds it in one command",
-      "link": "https://towardsdev.com/how-to-find-and-remove-the-dead-code-your-agent-wrote-752eb1e738d0?sk=283d17fe49cb51c9936d99371e7a9d2a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 22:36:06 +0000",
-      "timestamp": 1787006166.0
     },
     {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
