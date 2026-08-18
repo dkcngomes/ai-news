@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-18T10:44:50.692466+00:00",
+  "scraped_at": "2026-08-18T11:38:49.819889+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Rewriting a production compiler's IR with AI agents in five weeks",
+      "link": "https://github.com/CommanderTvis/writing/tree/main/rr-truffle-rewrite",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 11:35:21 +0000",
+      "timestamp": 1787052921.0
+    },
+    {
+      "title": "AI Used to Verify Toughest Mathematics Proof Yet",
+      "link": "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 11:10:44 +0000",
+      "timestamp": 1787051444.0
+    },
+    {
+      "title": "We still don't know how people are using AI",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 11:01:43 +0000",
+      "timestamp": 1787050903.0
+    },
+    {
+      "title": "Elon Musk made flying even worse so Palantir could profit",
+      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-18T07:00:00-04:00",
+      "timestamp": 1787050800.0
+    },
+    {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-18T07:00:00-04:00",
+      "timestamp": 1787050800.0
+    },
+    {
+      "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 10:40:27 +0000",
+      "timestamp": 1787049627.0
+    },
+    {
+      "title": "Tell HN: Use AI to music score your books",
+      "link": "https://news.ycombinator.com/item?id=49343693",
+      "summary": "Not many people read books but AI is under rated for the ability to theme your experience. If you ask Gemini to create a youtube music playlist for you for a specific book the result is amazing and I wanted to share this with others because it changed my book reading to an actual audio visual experience. There are some apps that do that but the songs are not on point, too \"theme like\". Gemini can find real songs that are a super fit.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 10:34:44 +0000",
+      "timestamp": 1787049284.0
+    },
     {
       "title": "AI automation: Lock in payroll savings or reinvest capacity into growth",
       "link": "https://urnicus.com/blog/the-quiet-cost/",
@@ -75,7 +138,7 @@
       "timestamp": 1787043601.0
     },
     {
-      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
       "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
       "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
       "image": null,
@@ -154,51 +217,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 18 Aug 2026 06:13:16 +0000",
       "timestamp": 1787033596.0
-    },
-    {
-      "title": "Goody-2, the most responsible AI model (2024)",
-      "link": "https://www.goody2.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 04:57:21 +0000",
-      "timestamp": 1787029041.0
-    },
-    {
-      "title": "Vetted AI code is hard to justify",
-      "link": "https://amoffat.github.io/blog/vetting-burnout.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 04:44:02 +0000",
-      "timestamp": 1787028242.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 04:35:30 +0000",
-      "timestamp": 1787027730.0
-    },
-    {
-      "title": "What If I Told You Humans Are Moving Faster Than AI?",
-      "link": "https://medium.com/freedomofthought/what-if-i-told-you-humans-are-moving-faster-than-ai-833441f3fb21",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 04:01:28 +0000",
-      "timestamp": 1787025688.0
-    },
-    {
-      "title": "Why It Hasn't Happened Yet: Capable AI and Malicious Intent",
-      "link": "https://substack.norabble.com/p/why-it-hasnt-happened-yet",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 03:54:28 +0000",
-      "timestamp": 1787025268.0
     },
     {
       "title": "Anthropic’s annualized revenue surges to $65B",
@@ -399,15 +417,6 @@
       "timestamp": 1786726456.0
     },
     {
-      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-14T12:39:32-04:00",
-      "timestamp": 1786725572.0
-    },
-    {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
@@ -478,15 +487,6 @@
       "source": "Wired AI",
       "published": "Fri, 14 Aug 2026 10:15:00 +0000",
       "timestamp": 1786702500.0
-    },
-    {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-14T05:21:17-04:00",
-      "timestamp": 1786699277.0
     },
     {
       "title": "The Safety Reckoning Inside OpenAI",
