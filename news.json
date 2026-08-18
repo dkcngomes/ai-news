@@ -1,7 +1,34 @@
 {
-  "scraped_at": "2026-08-18T07:02:44.326568+00:00",
+  "scraped_at": "2026-08-18T07:52:40.778933+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI is like farming. (and the purpose behind what I'm building)",
+      "link": "https://news.ycombinator.com/item?id=49342690",
+      "summary": "I was watching a documentary on bronze ages last night. A line stuck with me. After the invention of bronze tools farming got more efficient and people had more time on their hands. They used it to BUILD cities (and everything in it). That's the true human spirit that can't be diminished. Are transitions usually violent (also economically and politically)? Yes. Bigger the technological advancement, bigger are the transitions. We are going to be witnessing a massive re-training of an entire workforce into working with AI. This is exactly why I'm building AISA. I believe we need to be able to me",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 07:48:09 +0000",
+      "timestamp": 1787039289.0
+    },
+    {
+      "title": "Show HN: I built an M2M payment loop where AI Agents pay for data via x402",
+      "link": "https://github.com/tianzizhiming-svg/agentbridge",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 07:07:00 +0000",
+      "timestamp": 1787036820.0
+    },
+    {
+      "title": "Show HN: AiJarvi – 80 free AI tools for creators in one workspace",
+      "link": "https://aijarvi.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 07:01:43 +0000",
+      "timestamp": 1787036503.0
+    },
     {
       "title": "Private Scribe – 100% offline Whisper AI voice dictation for Windows",
       "link": "https://omnitender.gumroad.com/l/private-scribe",
@@ -163,33 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 17 Aug 2026 23:14:35 +0000",
       "timestamp": 1787008475.0
-    },
-    {
-      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
-      "link": "https://github.com/couldbeme/holdline",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 23:11:48 +0000",
-      "timestamp": 1787008308.0
-    },
-    {
-      "title": "Ask HN: Can you still tell AI-generated text apart in your own language?",
-      "link": "https://news.ycombinator.com/item?id=49338865",
-      "summary": "I'm Japanese, and I can still usually spot AI-generated Japanese by its word choice. Some words, like 実務 (practical work) and 帳簿 (a ledger), turn up far more often than they should. Casual ones like 効く (to work well, to be effective) and 刺さる (to pierce > to resonate, to hit home) get used where another word would normally be the first choice. They're the Japanese equivalent of \"delve.\" I'm not a native English speaker, but my impression is that AI-generated English has improved a lot recently and is harder to pick out than it used to be. Does that match what English native speakers see? What a",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 22:59:37 +0000",
-      "timestamp": 1787007577.0
-    },
-    {
-      "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
-      "link": "https://github.com/rysh-ai/rysh-cli-code",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 22:51:16 +0000",
-      "timestamp": 1787007076.0
     },
     {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
