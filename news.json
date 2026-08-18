@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-18T01:49:29.617818+00:00",
+  "scraped_at": "2026-08-18T03:07:54.487420+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
+      "link": "https://www.youtube.com/watch?v=itovmsMwus0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 02:45:56 +0000",
+      "timestamp": 1787021156.0
+    },
+    {
+      "title": "Three different papers pushed to ArXiv proving same 1986 conjecture; all use AI",
+      "link": "https://twitter.com/Quasilocal/status/2089408301427568691",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 01:56:38 +0000",
+      "timestamp": 1787018198.0
+    },
+    {
+      "title": "Going AI-native to enhance how humans/agents access ScalarDB and ScalarDL docs",
+      "link": "https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 01:51:58 +0000",
+      "timestamp": 1787017918.0
+    },
+    {
+      "title": "Every student is cheating with AI",
+      "link": "https://ben.page/cheating",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 01:45:38 +0000",
+      "timestamp": 1787017538.0
+    },
     {
       "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
       "link": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
@@ -156,15 +192,6 @@
       "timestamp": 1787003045.0
     },
     {
-      "title": "EY turning internships into yearlong residencies as AI changes entry-level work",
-      "link": "https://www.businessinsider.com/ey-internship-residency-career-ai-skills-2026-8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 21:36:25 +0000",
-      "timestamp": 1787002585.0
-    },
-    {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
       "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
       "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
@@ -172,33 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 17 Aug 2026 21:27:05 +0000",
       "timestamp": 1787002025.0
-    },
-    {
-      "title": "AI systems out-persuade expert humans",
-      "link": "https://arxiv.org/abs/2606.16475",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 21:08:33 +0000",
-      "timestamp": 1787000913.0
-    },
-    {
-      "title": "Show HN: Personal AI tutor that builds and probes your understanding",
-      "link": "https://github.com/grandimam/suki",
-      "summary": "I used to learn from books and courses. But I kept realising I hadn't built a real mental model. I always needed an LLM on the side to fill in what the books skipped. So, I stopped using books as my direct source of truth and started using LLMs itself: to design the curriculum and probe whether I understood the topic. Suki - it's opensource. Given a topic it builds a curriculum from beginner to advanced, then probes your understanding chapter by chapter. Link - https://github.com/grandimam/suki Let me know what you guys think about it.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 21:04:38 +0000",
-      "timestamp": 1787000678.0
-    },
-    {
-      "title": "Alternatives to Open Source Software Tainted by AI",
-      "link": "https://codeberg.org/ethical-foss/open-slopware",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 21:03:05 +0000",
-      "timestamp": 1787000585.0
     },
     {
       "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
