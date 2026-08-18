@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-08-18T14:51:12.507798+00:00",
+  "scraped_at": "2026-08-18T15:45:10.712467+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "CorePilot: Offline AI Agent",
+      "link": "https://corepilot-three.vercel.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:40:48 +0000",
+      "timestamp": 1787067648.0
+    },
+    {
+      "title": "Building (and Selling) AI for the Government",
+      "link": "https://carlkolon.com/2026/08/17/ai-for-government/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:32:59 +0000",
+      "timestamp": 1787067179.0
+    },
+    {
+      "title": "UK & Ireland Secondhand Booksellers Suspect AI Firms Behind Strange Bulk Orders",
+      "link": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:28:53 +0000",
+      "timestamp": 1787066933.0
+    },
+    {
+      "title": "Claude Users Cancel Subscriptions, Citing Anthropic's New AI Watermark",
+      "link": "https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:27:54 +0000",
+      "timestamp": 1787066874.0
+    },
+    {
+      "title": "AI won't solve the work-theater problem",
+      "link": "https://think-twice.me/?p=102",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:21:29 +0000",
+      "timestamp": 1787066489.0
+    },
+    {
+      "title": "R/Gamedev Policy on AI Use",
+      "link": "https://www.reddit.com/r/gamedev/comments/1vrnqyt/rgamedev_policy_on_ai_use/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:17:48 +0000",
+      "timestamp": 1787066268.0
+    },
+    {
+      "title": "Ask HN: Do you feel comfortable admitting that you use AI?",
+      "link": "https://news.ycombinator.com/item?id=49346906",
+      "summary": "AI took the industry by storm, and naturally this generates a lot of resistance. The way I see this resistance expressing itself is in the form of certain feeling of superiority by those who refuse to use it, and a feeling of shame when admitting to using AI assistance for writing code. However, I would argue (even though I have no data back this claim up) that most developers either choose to use it or are required by their employers. I can't predict the future, so I don't know if this is an ASM vs. C kind of moment, or if those giving in to the convenience will regret it years down the line ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:16:15 +0000",
+      "timestamp": 1787066175.0
+    },
+    {
+      "title": "AI detectors are a bad idea",
+      "link": "https://blog.keyvan.net/p/ai-detectors-are-a-bad-idea",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:11:18 +0000",
+      "timestamp": 1787065878.0
+    },
+    {
+      "title": "Comprehension debt: what AI-written code costs",
+      "link": "https://fathohm.dev/comprehension-debt",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:08:00 +0000",
+      "timestamp": 1787065680.0
+    },
+    {
+      "title": "A live list of bounties whose sponsors explicitly allow AI agents",
+      "link": "https://files.catbox.moe/j3w39k.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:06:34 +0000",
+      "timestamp": 1787065594.0
+    },
+    {
+      "title": "What Guidance Do We Give Junior Colleagues and Peers on Use of AI?",
+      "link": "https://hedgehoglibrarian.com/2026/05/04/what-guidance-do-we-give-junior-colleagues-peers-on-use-of-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:00:39 +0000",
+      "timestamp": 1787065239.0
+    },
+    {
+      "title": "Show HN: TurnKeeper – Fair, explainable team rotations for Slack (no AI)",
+      "link": "https://getturnkeeper.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:54:53 +0000",
+      "timestamp": 1787064893.0
+    },
+    {
+      "title": "Ask HN: Science Fiction. Some AI as world leader. Would you vote it?",
+      "link": "https://news.ycombinator.com/item?id=49346494",
+      "summary": "And even further into the fictional situation: mind reading technology is already there. We literally have no privacy at all.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:52:04 +0000",
+      "timestamp": 1787064724.0
+    },
+    {
+      "title": "Show HN: Tracelint – a linter for AI agent traces, no LLM judge",
+      "link": "https://github.com/AshwinUgale/tracelint",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:49:47 +0000",
+      "timestamp": 1787064587.0
+    },
+    {
+      "title": "How to code without AI [video]",
+      "link": "https://www.youtube.com/watch?v=aFMVGx1Gsoc",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:48:06 +0000",
+      "timestamp": 1787064486.0
+    },
     {
       "title": "Show HN: K7d – Fork live Kubernetes clusters in <1s –> GRPO-train AI on infra",
       "link": "https://github.com/katakate/k7d",
@@ -39,36 +174,9 @@
       "timestamp": 1787062644.0
     },
     {
-      "title": "Can AI Coexist with Privacy? Proton's Andy Yen Says It Will Have To",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:10:54 +0000",
-      "timestamp": 1787062254.0
-    },
-    {
-      "title": "US advisory body says China's data dominance gives it AI advantage",
-      "link": "https://www.reuters.com/world/china/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-2026-08-18/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:08:29 +0000",
-      "timestamp": 1787062109.0
-    },
-    {
-      "title": "My AI has more friends than I do",
-      "link": "https://rebeccadai.substack.com/p/little-guys-who-gossip-what-happens",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:08:02 +0000",
-      "timestamp": 1787062082.0
-    },
-    {
       "title": "Warp’s new system is an out-of-the-box software factory for AI development",
       "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 18 Aug 2026 14:00:00 +0000",
@@ -84,15 +192,6 @@
       "timestamp": 1787061030.0
     },
     {
-      "title": "Show HN: A stupid simple way to manage and publish ANY AI agents artifacts",
-      "link": "https://docstash.ai/",
-      "summary": "DocStash. The home for what your AI makes. Built this entirely solo. You can stash HTML, Markdown, PDF, Word, XLSX and Static apps built on React, Vue etc directly from your agent. You get a single stable URL, and all your artifacts live as webpages. Unlike Netlify and other drag and drop hosts, your artifacts are private by default, and you can publish them with one click. (And search indexing is off by default too) Basically like Google Drive and Vercel made sweet love to each other and had a baby. It's completely agent agnostic, which means you can easily iterate on any document, no matter ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:49:35 +0000",
-      "timestamp": 1787060975.0
-    },
-    {
       "title": "Perplexity’s free AI offer left it with millions more users in India",
       "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
       "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
@@ -100,105 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 18 Aug 2026 13:45:40 +0000",
       "timestamp": 1787060740.0
-    },
-    {
-      "title": "Hacking your life with AI can get you hacked – Research",
-      "link": "https://www.endorlabs.com/learn/hacking-your-life-with-ai-can-get-you-hacked",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:41:59 +0000",
-      "timestamp": 1787060519.0
-    },
-    {
-      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-      "link": "https://www.bbc.com/news/articles/c62em5lpvnjo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:36:30 +0000",
-      "timestamp": 1787060190.0
-    },
-    {
-      "title": "AI Alignment as a Thought-Terminating Cliche",
-      "link": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:33:28 +0000",
-      "timestamp": 1787060008.0
-    },
-    {
-      "title": "Show HN: I wrapped iOS 27's on-device AI into an offline live captioning app",
-      "link": "https://testflight.apple.com/join/pQKnQgZZ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:32:56 +0000",
-      "timestamp": 1787059976.0
-    },
-    {
-      "title": "Is there room for an AI-powered webmail service built on a single-letter domain?",
-      "link": "https://news.ycombinator.com/item?id=49345378",
-      "summary": "Hi HN, I’m a solo, non-technical founder working on W, an AI-powered webmail service built on a premium single-letter domain (https://w.xyz). I secured the domain and used AI agents to build out a functional proof-of-concept for the client. To handle infrastructure, I routed the application logic through Mailgun. Internally, the prototype is fully operational — emails successfully send and receive from @w.xyz handles. W combines a highly optimized interface with built-in AI capabilities like Spam Scanning, Smart Reply and Text Summaries. I currently have a 30+ organic waitlist as I finish the ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:30:42 +0000",
-      "timestamp": 1787059842.0
-    },
-    {
-      "title": "Patens – Stop tab-thrashing: clip research directly into local AI/IDE memory",
-      "link": "https://patens.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:24:57 +0000",
-      "timestamp": 1787059497.0
-    },
-    {
-      "title": "Ask HN: Good content on using AI to modernize professional services delivery",
-      "link": "https://news.ycombinator.com/item?id=49345255",
-      "summary": "I'm curious if the HN community has a good resources (blogs, podcasts, other content) on practical uses of SOTA AI to improve professional services (e.g. outsourced finance, etc.) I've read a fair amount of what people think should be done (theory) but haven't found a ton of content from people who actually have done it (practice)",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:21:38 +0000",
-      "timestamp": 1787059298.0
-    },
-    {
-      "title": "AI agent that learns from real-world experiences",
-      "link": "https://alloomi.ai/blogs/the-new-frontier-of-ai-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:18:09 +0000",
-      "timestamp": 1787059089.0
-    },
-    {
-      "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
-      "link": "https://github.com/mukundzha/avouch",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:13:17 +0000",
-      "timestamp": 1787058797.0
-    },
-    {
-      "title": "Show HN: PhysiClaw – an AI agent that physically operates an iPhone",
-      "link": "https://github.com/physiclaw/PhysiClaw",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:05:32 +0000",
-      "timestamp": 1787058332.0
-    },
-    {
-      "title": "Show HN: Engrava – a local graph memory database for AI agents (SQLite, MIT)",
-      "link": "https://github.com/sovantica/engrava",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 13:01:08 +0000",
-      "timestamp": 1787058068.0
     },
     {
       "title": "Firefox&#8217;s Smart Window promises a better AI browser",
@@ -219,7 +219,7 @@
       "timestamp": 1787054489.0
     },
     {
-      "title": "Elon Musk made flying even worse so Palantir could profit",
+      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
       "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
       "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
       "image": null,
