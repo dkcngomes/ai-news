@@ -1,7 +1,151 @@
 {
-  "scraped_at": "2026-08-18T17:41:23.386376+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-18T18:54:56.317908+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Google Workspace will enable AI note-taking by default for some customers",
+      "link": "https://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:36:34 +0000",
+      "timestamp": 1787078194.0
+    },
+    {
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 18 Aug 2026 18:33:11 +0000",
+      "timestamp": 1787077991.0
+    },
+    {
+      "title": "Show HN: Deft Writing, an AI lab for non-slop LLMs",
+      "link": "https://deftwriting.com",
+      "summary": "Announcing Deft, a new AI lab for better writing Currently, 86% of user queries are fully human according to pangram. This is still a small beta model and it might make mistakes. We are launching our public beta now to get more feedback before scaling up. Tips for better performance: - Add more details to your prompt. If you just provide a short sentence prompt, it will likely get detected as AI. - Try changing the style in \"advanced options\" - Deft currently works better for some use cases like Analysis/Essays, Creative writing, and Rewrites. It works less well for Marketing copy and news art",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:33:05 +0000",
+      "timestamp": 1787077985.0
+    },
+    {
+      "title": "Show HN: Clad9 – AI wardrobe app that dresses you from your own closet",
+      "link": "https://clad9.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:29:14 +0000",
+      "timestamp": 1787077754.0
+    },
+    {
+      "title": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
+      "link": "https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:24:50 +0000",
+      "timestamp": 1787077490.0
+    },
+    {
+      "title": "OpenAI Partnering with CodeAI to prepare the first AI generation",
+      "link": "https://openai.com/index/partnering-with-codeai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:24:03 +0000",
+      "timestamp": 1787077443.0
+    },
+    {
+      "title": "Google is buying all of Spirit Airlines' data to feed its AI models",
+      "link": "https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:23:48 +0000",
+      "timestamp": 1787077428.0
+    },
+    {
+      "title": "Everyone wants to be the AI gateway",
+      "link": "https://getlago.substack.com/p/everyone-wants-to-be-the-ai-gateway",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:21:44 +0000",
+      "timestamp": 1787077304.0
+    },
+    {
+      "title": "David Chalmers asks: When we talk to AI, what are we talking to?",
+      "link": "https://www.youtube.com/watch?v=uUjJOMcNU9w",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:02:33 +0000",
+      "timestamp": 1787076153.0
+    },
+    {
+      "title": "3D Model Markets Are Being Flooded with AI Sellers, but No One's Buying",
+      "link": "https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:01:19 +0000",
+      "timestamp": 1787076079.0
+    },
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "timestamp": 1787076000.0
+    },
+    {
+      "title": "AI Watermarking, Nazi Enigmas, and Sherlock Holmes",
+      "link": "https://kolja.wawrowsky.com/posts/invisible-fingerprints/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 17:49:53 +0000",
+      "timestamp": 1787075393.0
+    },
+    {
+      "title": "Return of the Spec: Why AI agents are reviving the software specification",
+      "link": "https://caines.ca/posts/2026-08-15-return-of-the-spec/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 17:49:23 +0000",
+      "timestamp": 1787075363.0
+    },
+    {
+      "title": "A Texas University Becomes a Petri Dish for a Conservative Overhaul [Using AI]",
+      "link": "https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 17:48:11 +0000",
+      "timestamp": 1787075291.0
+    },
+    {
+      "title": "Contributors are AI-first now. Is your project?",
+      "link": "https://github.blog/open-source/maintainers/your-contributors-are-ai-",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 17:45:37 +0000",
+      "timestamp": 1787075137.0
+    },
+    {
+      "title": "IP can't save you from AI",
+      "link": "https://pluralistic.net/2026/08/18/enron-corpus/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 17:36:24 +0000",
+      "timestamp": 1787074584.0
+    },
     {
       "title": "AI chip startup Etched doubles valuation to $21B in under a month",
       "link": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
@@ -57,33 +201,6 @@
       "timestamp": 1787071401.0
     },
     {
-      "title": "The AI Slop Spiral",
-      "link": "https://nolanfrausto.com/posts/ai-slop-spiral/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:37:38 +0000",
-      "timestamp": 1787071058.0
-    },
-    {
-      "title": "Recent grads say AI is making it harder to get a job. Economists aren't sure",
-      "link": "https://text.npr.org/nx-s1-5910677",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:34:13 +0000",
-      "timestamp": 1787070853.0
-    },
-    {
-      "title": "Magnitude – Open-source AI coding agent that runs local models offline",
-      "link": "https://digitalescapetools.com/tools/tool.html?id=magnitude",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:25:35 +0000",
-      "timestamp": 1787070335.0
-    },
-    {
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
       "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
       "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
@@ -91,114 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 18 Aug 2026 16:19:10 +0000",
       "timestamp": 1787069950.0
-    },
-    {
-      "title": "Berlin artist makes people invisible to the city's first AI surveillance cameras",
-      "link": "https://simonweckert.com/digitalcamouflage.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:18:53 +0000",
-      "timestamp": 1787069933.0
-    },
-    {
-      "title": "My private practice AI policy",
-      "link": "https://jeffs.blog/p/my-private-practice-ai-policy",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:18:12 +0000",
-      "timestamp": 1787069892.0
-    },
-    {
-      "title": "Automating quality support at scale: AI and human in the loop",
-      "link": "https://www.windmill.dev/blog/support-automation",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:06:07 +0000",
-      "timestamp": 1787069167.0
-    },
-    {
-      "title": "Proofs Promptly: Proof-Oriented Programming with AI Agents (Experience Report)",
-      "link": "https://dl.acm.org/doi/10.1145/3828709",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:06:03 +0000",
-      "timestamp": 1787069163.0
-    },
-    {
-      "title": "The Mathematics of Economic Self-Destruction: Inside the \"AI Layoff Trap\"",
-      "link": "https://sylvainsaurel.substack.com/p/the-mathematics-of-economic-self",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:05:21 +0000",
-      "timestamp": 1787069121.0
-    },
-    {
-      "title": "Portland Entrepreneurs in the Age of AI Ep. 1 [video]",
-      "link": "https://www.youtube.com/watch?v=_FrRneZ7Baw",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:02:00 +0000",
-      "timestamp": 1787068920.0
-    },
-    {
-      "title": "Show HN: AI Games Prompt Atlas: a map of the games people ask to build",
-      "link": "https://rosebud.ai/prompt-atlas",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:00:26 +0000",
-      "timestamp": 1787068826.0
-    },
-    {
-      "title": "Removing Self-Verification from AI Coding Agents in Octomind",
-      "link": "https://octomind.run/blog/octomind-0-44-2-release",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:55:55 +0000",
-      "timestamp": 1787068555.0
-    },
-    {
-      "title": "Can a $5 VPS Run an AI Agent 24/7? We Tested Linode's Nanode in LAX Three Times",
-      "link": "https://webbynode.com/articles/can-a-5-vps-run-an-ai-agent-24-7-linode-nanode-lax",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:55:54 +0000",
-      "timestamp": 1787068554.0
-    },
-    {
-      "title": "Add Session Management and Trajectories to Your AI Agents",
-      "link": "https://davenporter.substack.com/p/add-telemetry-and-observability",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:42:28 +0000",
-      "timestamp": 1787067748.0
-    },
-    {
-      "title": "Building (and Selling) AI for the Government",
-      "link": "https://carlkolon.com/2026/08/17/ai-for-government/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:32:59 +0000",
-      "timestamp": 1787067179.0
-    },
-    {
-      "title": "UK & Ireland Secondhand Booksellers Suspect AI Firms Behind Strange Bulk Orders",
-      "link": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:28:53 +0000",
-      "timestamp": 1787066933.0
     },
     {
       "title": "Warp’s new system is an out-of-the-box software factory for AI development",
@@ -471,15 +480,6 @@
       "timestamp": 1786724020.0
     },
     {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "timestamp": 1786722208.0
-    },
-    {
       "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
       "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
       "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
@@ -532,15 +532,6 @@
       "source": "Wired AI",
       "published": "Thu, 13 Aug 2026 09:00:00 +0000",
       "timestamp": 1786611600.0
-    },
-    {
-      "title": "The White House Is Going to Expand Its AI Policy",
-      "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 12 Aug 2026 21:00:00 +0000",
-      "timestamp": 1786568400.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
