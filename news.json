@@ -1,15 +1,141 @@
 {
-  "scraped_at": "2026-08-18T15:45:10.712467+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-18T16:47:05.831310+00:00",
+  "count": 67,
   "items": [
     {
-      "title": "CorePilot: Offline AI Agent",
-      "link": "https://corepilot-three.vercel.app",
+      "title": "The AI Slop Spiral",
+      "link": "https://nolanfrausto.com/posts/ai-slop-spiral/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:40:48 +0000",
-      "timestamp": 1787067648.0
+      "published": "Tue, 18 Aug 2026 16:37:38 +0000",
+      "timestamp": 1787071058.0
+    },
+    {
+      "title": "Recent grads say AI is making it harder to get a job. Economists aren't sure",
+      "link": "https://text.npr.org/nx-s1-5910677",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:34:13 +0000",
+      "timestamp": 1787070853.0
+    },
+    {
+      "title": "Magnitude – Open-source AI coding agent that runs local models offline",
+      "link": "https://digitalescapetools.com/tools/tool.html?id=magnitude",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:25:35 +0000",
+      "timestamp": 1787070335.0
+    },
+    {
+      "title": "Tell HN: Cursor has a hidden terminal command for steering its desktop AI agents",
+      "link": "https://news.ycombinator.com/item?id=49348049",
+      "summary": "Looks like an upcoming feature. It's fully functional as far as I could tell. More https://runtimewire.com/article/cursor-built-a-hidden-terminal-command-for-steering-its-desktop-ai-agents",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:21:01 +0000",
+      "timestamp": 1787070061.0
+    },
+    {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 18 Aug 2026 16:19:10 +0000",
+      "timestamp": 1787069950.0
+    },
+    {
+      "title": "Berlin artist makes people invisible to the city's first AI surveillance cameras",
+      "link": "https://simonweckert.com/digitalcamouflage.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:18:53 +0000",
+      "timestamp": 1787069933.0
+    },
+    {
+      "title": "My private practice AI policy",
+      "link": "https://jeffs.blog/p/my-private-practice-ai-policy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:18:12 +0000",
+      "timestamp": 1787069892.0
+    },
+    {
+      "title": "Automating quality support at scale: AI and human in the loop",
+      "link": "https://www.windmill.dev/blog/support-automation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:06:07 +0000",
+      "timestamp": 1787069167.0
+    },
+    {
+      "title": "Proofs Promptly: Proof-Oriented Programming with AI Agents (Experience Report)",
+      "link": "https://dl.acm.org/doi/10.1145/3828709",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:06:03 +0000",
+      "timestamp": 1787069163.0
+    },
+    {
+      "title": "The Mathematics of Economic Self-Destruction: Inside the \"AI Layoff Trap\"",
+      "link": "https://sylvainsaurel.substack.com/p/the-mathematics-of-economic-self",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:05:21 +0000",
+      "timestamp": 1787069121.0
+    },
+    {
+      "title": "Portland Entrepreneurs in the Age of AI Ep. 1 [video]",
+      "link": "https://www.youtube.com/watch?v=_FrRneZ7Baw",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:02:00 +0000",
+      "timestamp": 1787068920.0
+    },
+    {
+      "title": "Show HN: AI Games Prompt Atlas: a map of the games people ask to build",
+      "link": "https://rosebud.ai/prompt-atlas",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:00:26 +0000",
+      "timestamp": 1787068826.0
+    },
+    {
+      "title": "Removing Self-Verification from AI Coding Agents in Octomind",
+      "link": "https://octomind.run/blog/octomind-0-44-2-release",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:55:55 +0000",
+      "timestamp": 1787068555.0
+    },
+    {
+      "title": "Can a $5 VPS Run an AI Agent 24/7? We Tested Linode's Nanode in LAX Three Times",
+      "link": "https://webbynode.com/articles/can-a-5-vps-run-an-ai-agent-24-7-linode-nanode-lax",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:55:54 +0000",
+      "timestamp": 1787068554.0
+    },
+    {
+      "title": "Add Session Management and Trajectories to Your AI Agents",
+      "link": "https://davenporter.substack.com/p/add-telemetry-and-observability",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 15:42:28 +0000",
+      "timestamp": 1787067748.0
     },
     {
       "title": "Building (and Selling) AI for the Government",
@@ -64,114 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 18 Aug 2026 15:16:15 +0000",
       "timestamp": 1787066175.0
-    },
-    {
-      "title": "AI detectors are a bad idea",
-      "link": "https://blog.keyvan.net/p/ai-detectors-are-a-bad-idea",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:11:18 +0000",
-      "timestamp": 1787065878.0
-    },
-    {
-      "title": "Comprehension debt: what AI-written code costs",
-      "link": "https://fathohm.dev/comprehension-debt",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:08:00 +0000",
-      "timestamp": 1787065680.0
-    },
-    {
-      "title": "A live list of bounties whose sponsors explicitly allow AI agents",
-      "link": "https://files.catbox.moe/j3w39k.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:06:34 +0000",
-      "timestamp": 1787065594.0
-    },
-    {
-      "title": "What Guidance Do We Give Junior Colleagues and Peers on Use of AI?",
-      "link": "https://hedgehoglibrarian.com/2026/05/04/what-guidance-do-we-give-junior-colleagues-peers-on-use-of-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:00:39 +0000",
-      "timestamp": 1787065239.0
-    },
-    {
-      "title": "Show HN: TurnKeeper – Fair, explainable team rotations for Slack (no AI)",
-      "link": "https://getturnkeeper.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:54:53 +0000",
-      "timestamp": 1787064893.0
-    },
-    {
-      "title": "Ask HN: Science Fiction. Some AI as world leader. Would you vote it?",
-      "link": "https://news.ycombinator.com/item?id=49346494",
-      "summary": "And even further into the fictional situation: mind reading technology is already there. We literally have no privacy at all.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:52:04 +0000",
-      "timestamp": 1787064724.0
-    },
-    {
-      "title": "Show HN: Tracelint – a linter for AI agent traces, no LLM judge",
-      "link": "https://github.com/AshwinUgale/tracelint",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:49:47 +0000",
-      "timestamp": 1787064587.0
-    },
-    {
-      "title": "How to code without AI [video]",
-      "link": "https://www.youtube.com/watch?v=aFMVGx1Gsoc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:48:06 +0000",
-      "timestamp": 1787064486.0
-    },
-    {
-      "title": "Show HN: K7d – Fork live Kubernetes clusters in <1s –> GRPO-train AI on infra",
-      "link": "https://github.com/katakate/k7d",
-      "summary": "Hey HN, Gary here. Today I want to present k7d which is an Apache 2.0, tight Rust VMM + shim enabling something not possible before: fast forking of live running virtualized multi-node k8s clusters with surviving of in-flight connections. A 3-VM nodes K8s cluster gets forked in 105ms, and a 50x fork of a 3-VM cluster in 4.1s on a 64GB RAM box. I have two goals here: 1) enable large scale GRPO/RL training of AI on Kubernetes infra, which IMO is a great playground for reasoning training, besides training a capability that's actually useful. And this requires not only fast episode reset (as you n",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:38:58 +0000",
-      "timestamp": 1787063938.0
-    },
-    {
-      "title": "Test Rocket: Rethinking the Test Pyramid for the AI Era",
-      "link": "https://news.ycombinator.com/item?id=49346264",
-      "summary": "Hey Everyone! I have been lately thinking about AI Assisted Development's impact on the Test Patterns and came with one that would be applicable in AI Era. Please have a read and would love to hear your thoughts. Article is available at https://dev.to/sudokar/test-rocket-rethinking-the-test-pyramid-for-the-ai-era-2d6n",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:37:03 +0000",
-      "timestamp": 1787063823.0
-    },
-    {
-      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:19:18 +0000",
-      "timestamp": 1787062758.0
-    },
-    {
-      "title": "AI Memory for Claude: An Honest 4-Way Comparison",
-      "link": "https://labyrinthanalyticsconsulting.com/blog/claude-memory-primitive-vs-loreconvo-vs-claude-mem-vs-mem0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 14:17:24 +0000",
-      "timestamp": 1787062644.0
     },
     {
       "title": "Warp’s new system is an out-of-the-box software factory for AI development",
@@ -469,15 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 14 Aug 2026 14:50:11 +0000",
       "timestamp": 1786719011.0
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 14 Aug 2026 14:05:00 +0000",
-      "timestamp": 1786716300.0
     },
     {
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
