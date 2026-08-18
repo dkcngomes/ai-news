@@ -1,7 +1,34 @@
 {
-  "scraped_at": "2026-08-18T07:52:40.778933+00:00",
+  "scraped_at": "2026-08-18T08:52:11.370315+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "What if the AI capex bubble may not be a bubble after all?",
+      "link": "https://www.afr.com/technology/sam-altman-is-being-proved-right-about-the-economics-of-ai-20260817-p60p1k",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 08:33:01 +0000",
+      "timestamp": 1787041981.0
+    },
+    {
+      "title": "The End-State Fallacy: Where Is AI Security Headed?",
+      "link": "https://endstatefallacy.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 08:01:48 +0000",
+      "timestamp": 1787040108.0
+    },
+    {
+      "title": "Creator of TypeScript: 10x Faster TypeScript, Why AI Won't Replace SWEs [video]",
+      "link": "https://www.youtube.com/watch?v=cywK3XYYJ2o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 07:55:43 +0000",
+      "timestamp": 1787039743.0
+    },
     {
       "title": "AI is like farming. (and the purpose behind what I'm building)",
       "link": "https://news.ycombinator.com/item?id=49342690",
@@ -156,24 +183,6 @@
       "timestamp": 1787012123.0
     },
     {
-      "title": "Whose doctor does the AI recommend? An algorithm audit of LLMs in physician",
-      "link": "https://arxiv.org/abs/2608.14399",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 00:07:06 +0000",
-      "timestamp": 1787011626.0
-    },
-    {
-      "title": "Un-AI Your Internet",
-      "link": "https://un-ai.digitalprophet.online/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 23:57:13 +0000",
-      "timestamp": 1787011033.0
-    },
-    {
       "title": "Anthropic’s annualized revenue surges to $65B",
       "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "summary": "The model maker added $18 billion in annualized revenue in two months.",
@@ -181,15 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 17 Aug 2026 23:56:26 +0000",
       "timestamp": 1787010986.0
-    },
-    {
-      "title": "Show HN: AI-generated music box version of any song (for baby)",
-      "link": "https://lullabyconverter.com",
-      "summary": "title basically covers it. project #2 from my paternity leave. My partner & I got frustrated with hearing Brahm's Lullaby and Wheels On The Bus repeatedly. I also stand by that babies can enjoy adult music just as easily as they can enjoy \"kids music\". But most adult music is too dense/complex for babies to understand, so I created this to generate baby-friendly, slowed down versions of songs that we like to play for our baby & sing along with. Uses BS-roformer for stemming out the input audio + spotify Basic Pitch for transposing to midi. Still needs some work, kinda sounds like a drunk littl",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 17 Aug 2026 23:14:35 +0000",
-      "timestamp": 1787008475.0
     },
     {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
