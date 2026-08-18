@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-18T16:47:05.831310+00:00",
+  "scraped_at": "2026-08-18T17:41:23.386376+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI chip startup Etched doubles valuation to $21B in under a month",
+      "link": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 17:23:34 +0000",
+      "timestamp": 1787073814.0
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 18 Aug 2026 17:21:58 +0000",
+      "timestamp": 1787073718.0
+    },
+    {
+      "title": "One Person State – portable personal AI system",
+      "link": "https://embassy.svit.la/p/one-person-state",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 17:11:51 +0000",
+      "timestamp": 1787073111.0
+    },
+    {
+      "title": "A 24-Year-Old Blew Up a $45B AI Fund",
+      "link": "https://rubbishtalk.com/finance/how-a-24-year-old-blew-up-a-45-billion-ai-fund/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 17:10:36 +0000",
+      "timestamp": 1787073036.0
+    },
+    {
+      "title": "The Download: how people use AI, and Flock's design choices",
+      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 17:02:11 +0000",
+      "timestamp": 1787072531.0
+    },
+    {
+      "title": "Operationalizing agentic AI: The Day 0-2 blueprint for enterprise infrastructure",
+      "link": "https://www.redhat.com/en/blog/operationalizing-agentic-ai-day-0-2-blueprint-enterprise-infrastructure",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 16:43:21 +0000",
+      "timestamp": 1787071401.0
+    },
     {
       "title": "The AI Slop Spiral",
       "link": "https://nolanfrausto.com/posts/ai-slop-spiral/",
@@ -28,15 +82,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 18 Aug 2026 16:25:35 +0000",
       "timestamp": 1787070335.0
-    },
-    {
-      "title": "Tell HN: Cursor has a hidden terminal command for steering its desktop AI agents",
-      "link": "https://news.ycombinator.com/item?id=49348049",
-      "summary": "Looks like an upcoming feature. It's fully functional as far as I could tell. More https://runtimewire.com/article/cursor-built-a-hidden-terminal-command-for-steering-its-desktop-ai-agents",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:21:01 +0000",
-      "timestamp": 1787070061.0
     },
     {
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
@@ -154,42 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 18 Aug 2026 15:28:53 +0000",
       "timestamp": 1787066933.0
-    },
-    {
-      "title": "Claude Users Cancel Subscriptions, Citing Anthropic's New AI Watermark",
-      "link": "https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:27:54 +0000",
-      "timestamp": 1787066874.0
-    },
-    {
-      "title": "AI won't solve the work-theater problem",
-      "link": "https://think-twice.me/?p=102",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:21:29 +0000",
-      "timestamp": 1787066489.0
-    },
-    {
-      "title": "R/Gamedev Policy on AI Use",
-      "link": "https://www.reddit.com/r/gamedev/comments/1vrnqyt/rgamedev_policy_on_ai_use/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:17:48 +0000",
-      "timestamp": 1787066268.0
-    },
-    {
-      "title": "Ask HN: Do you feel comfortable admitting that you use AI?",
-      "link": "https://news.ycombinator.com/item?id=49346906",
-      "summary": "AI took the industry by storm, and naturally this generates a lot of resistance. The way I see this resistance expressing itself is in the form of certain feeling of superiority by those who refuse to use it, and a feeling of shame when admitting to using AI assistance for writing code. However, I would argue (even though I have no data back this claim up) that most developers either choose to use it or are required by their employers. I can't predict the future, so I don't know if this is an ASM vs. C kind of moment, or if those giving in to the convenience will regret it years down the line ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 15:16:15 +0000",
-      "timestamp": 1787066175.0
     },
     {
       "title": "Warp’s new system is an out-of-the-box software factory for AI development",
@@ -478,15 +487,6 @@
       "source": "Wired AI",
       "published": "Fri, 14 Aug 2026 15:00:00 +0000",
       "timestamp": 1786719600.0
-    },
-    {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 14 Aug 2026 14:50:11 +0000",
-      "timestamp": 1786719011.0
     },
     {
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
