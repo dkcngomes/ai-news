@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-18T13:55:30.420896+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-18T14:51:12.507798+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Show HN: K7d – Fork live Kubernetes clusters in <1s –> GRPO-train AI on infra",
+      "link": "https://github.com/katakate/k7d",
+      "summary": "Hey HN, Gary here. Today I want to present k7d which is an Apache 2.0, tight Rust VMM + shim enabling something not possible before: fast forking of live running virtualized multi-node k8s clusters with surviving of in-flight connections. A 3-VM nodes K8s cluster gets forked in 105ms, and a 50x fork of a 3-VM cluster in 4.1s on a 64GB RAM box. I have two goals here: 1) enable large scale GRPO/RL training of AI on Kubernetes infra, which IMO is a great playground for reasoning training, besides training a capability that's actually useful. And this requires not only fast episode reset (as you n",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:38:58 +0000",
+      "timestamp": 1787063938.0
+    },
+    {
+      "title": "Test Rocket: Rethinking the Test Pyramid for the AI Era",
+      "link": "https://news.ycombinator.com/item?id=49346264",
+      "summary": "Hey Everyone! I have been lately thinking about AI Assisted Development's impact on the Test Patterns and came with one that would be applicable in AI Era. Please have a read and would love to hear your thoughts. Article is available at https://dev.to/sudokar/test-rocket-rethinking-the-test-pyramid-for-the-ai-era-2d6n",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:37:03 +0000",
+      "timestamp": 1787063823.0
+    },
+    {
+      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:19:18 +0000",
+      "timestamp": 1787062758.0
+    },
+    {
+      "title": "AI Memory for Claude: An Honest 4-Way Comparison",
+      "link": "https://labyrinthanalyticsconsulting.com/blog/claude-memory-primitive-vs-loreconvo-vs-claude-mem-vs-mem0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:17:24 +0000",
+      "timestamp": 1787062644.0
+    },
+    {
+      "title": "Can AI Coexist with Privacy? Proton's Andy Yen Says It Will Have To",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:10:54 +0000",
+      "timestamp": 1787062254.0
+    },
+    {
+      "title": "US advisory body says China's data dominance gives it AI advantage",
+      "link": "https://www.reuters.com/world/china/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-2026-08-18/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:08:29 +0000",
+      "timestamp": 1787062109.0
+    },
+    {
+      "title": "My AI has more friends than I do",
+      "link": "https://rebeccadai.substack.com/p/little-guys-who-gossip-what-happens",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 14:08:02 +0000",
+      "timestamp": 1787062082.0
+    },
+    {
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 18 Aug 2026 14:00:00 +0000",
+      "timestamp": 1787061600.0
+    },
     {
       "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
       "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
@@ -136,78 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-08-18T09:00:00-04:00",
       "timestamp": 1787058000.0
-    },
-    {
-      "title": "Show HN: Krystal Loop Protocol–a bounded worker/critic loop for AI coding agents",
-      "link": "https://github.com/KrystalUnity/krystal-loop-protocol",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 12:58:38 +0000",
-      "timestamp": 1787057918.0
-    },
-    {
-      "title": "Show HN: AI tool to correct TikTok's Matcha filter in under 30s",
-      "link": "https://matchafilterremover.site/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 12:58:06 +0000",
-      "timestamp": 1787057886.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 12:49:03 +0000",
-      "timestamp": 1787057343.0
-    },
-    {
-      "title": "Reddit's AI is turning posts into podcasts and short videos",
-      "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 12:47:43 +0000",
-      "timestamp": 1787057263.0
-    },
-    {
-      "title": "Capitalizing Untethered AI Agents",
-      "link": "https://soniafpearson.substack.com/p/capitalizing-untethered-ai-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 12:42:17 +0000",
-      "timestamp": 1787056937.0
-    },
-    {
-      "title": "OneShot Zero-ambiguity precision specifications for AI coding agents",
-      "link": "https://sudolaps.top/oneshot/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 12:33:05 +0000",
-      "timestamp": 1787056385.0
-    },
-    {
-      "title": "State Farm defense lawyers admit AI generated fake cases in LA lawsuit",
-      "link": "https://calmatters.org/economy/2026/08/state-farm-lawsuit-ai-hallucinations/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 12:15:15 +0000",
-      "timestamp": 1787055315.0
-    },
-    {
-      "title": "Taxing AI to Help Workers Sounds Good, but Public Deserves More",
-      "link": "https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 12:10:52 +0000",
-      "timestamp": 1787055052.0
     },
     {
       "title": "Google&#8217;s Pet Memory forgot who my cats are",
@@ -478,15 +478,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 14 Aug 2026 14:05:00 +0000",
       "timestamp": 1786716300.0
-    },
-    {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 14 Aug 2026 14:00:00 +0000",
-      "timestamp": 1786716000.0
     },
     {
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
