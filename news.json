@@ -1,7 +1,124 @@
 {
-  "scraped_at": "2026-08-18T18:54:56.317908+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-18T19:39:46.961827+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-18T15:28:30-04:00",
+      "timestamp": 1787081310.0
+    },
+    {
+      "title": "llms.txt is an agent-docs convention, not an AI search signal",
+      "link": "https://geojacker.com/llms-txt",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:24:35 +0000",
+      "timestamp": 1787081075.0
+    },
+    {
+      "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
+      "link": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:24:05 +0000",
+      "timestamp": 1787081045.0
+    },
+    {
+      "title": "Pace Layers and AI Integration",
+      "link": "https://aicoding.leaflet.pub/3maob46kbz22v",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:22:49 +0000",
+      "timestamp": 1787080969.0
+    },
+    {
+      "title": "VCs Pour Billions into Physical AI as the Next Wave of AI Investing Takes Shape",
+      "link": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:21:25 +0000",
+      "timestamp": 1787080885.0
+    },
+    {
+      "title": "AI;dr – AI wrote it, you shouldn't have to read it",
+      "link": "https://ronreiter.github.io/aidr/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:17:59 +0000",
+      "timestamp": 1787080679.0
+    },
+    {
+      "title": "Security checks for apps built with AI coding tools",
+      "link": "https://lukatasolutions.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:13:40 +0000",
+      "timestamp": 1787080420.0
+    },
+    {
+      "title": "U.S. to tell partners they must pick sides in AI race with China",
+      "link": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:09:00 +0000",
+      "timestamp": 1787080140.0
+    },
+    {
+      "title": "Africa Is Not Waiting for AI. We're Building the Infrastructure to Use It",
+      "link": "https://medium.com/@SamuelMbugua254/africa-is-not-waiting-for-ai-were-building-the-infrastructure-to-use-it-dc5e92e3ca1c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:07:42 +0000",
+      "timestamp": 1787080062.0
+    },
+    {
+      "title": "Show HN: Sealed evidence record of an AI agent run – broken twice, credited",
+      "link": "https://github.com/cjchanh/aaap-challenge",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:07:02 +0000",
+      "timestamp": 1787080022.0
+    },
+    {
+      "title": "I Turned AI to the Dark Side",
+      "link": "https://spectrum.ieee.org/jailbreaking-llms",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 19:06:57 +0000",
+      "timestamp": 1787080017.0
+    },
+    {
+      "title": "AI Is Upending One of Finance's Cushiest Jobs",
+      "link": "https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:59:38 +0000",
+      "timestamp": 1787079578.0
+    },
+    {
+      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+      "link": "https://pantheongpu.com/",
+      "summary": "Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should? A GPU can show normal temperatures and utilization and still be underperforming, unstable under certain workloads, or have memory, PCIe, or configuration issues. PantheonGPU actively tests the GPU instead of only monitoring telemetry. It currently includes 45+ tests covering compute, tensor workloads, memory, cache, PCIe, thermals, stability, and AI/LLM inference. It supports both NVIDIA CUDA and AMD ROCm. I’m also exploring a larger use case: run",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 18 Aug 2026 18:47:51 +0000",
+      "timestamp": 1787078871.0
+    },
     {
       "title": "Google Workspace will enable AI note-taking by default for some customers",
       "link": "https://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
@@ -48,7 +165,7 @@
       "timestamp": 1787077490.0
     },
     {
-      "title": "OpenAI Partnering with CodeAI to prepare the first AI generation",
+      "title": "OpenAI Partnering with CodeAI to prepare the first AI (human) generation",
       "link": "https://openai.com/index/partnering-with-codeai/",
       "summary": "",
       "image": null,
@@ -84,15 +201,6 @@
       "timestamp": 1787076153.0
     },
     {
-      "title": "3D Model Markets Are Being Flooded with AI Sellers, but No One's Buying",
-      "link": "https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 18:01:19 +0000",
-      "timestamp": 1787076079.0
-    },
-    {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
@@ -102,60 +210,6 @@
       "timestamp": 1787076000.0
     },
     {
-      "title": "AI Watermarking, Nazi Enigmas, and Sherlock Holmes",
-      "link": "https://kolja.wawrowsky.com/posts/invisible-fingerprints/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 17:49:53 +0000",
-      "timestamp": 1787075393.0
-    },
-    {
-      "title": "Return of the Spec: Why AI agents are reviving the software specification",
-      "link": "https://caines.ca/posts/2026-08-15-return-of-the-spec/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 17:49:23 +0000",
-      "timestamp": 1787075363.0
-    },
-    {
-      "title": "A Texas University Becomes a Petri Dish for a Conservative Overhaul [Using AI]",
-      "link": "https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 17:48:11 +0000",
-      "timestamp": 1787075291.0
-    },
-    {
-      "title": "Contributors are AI-first now. Is your project?",
-      "link": "https://github.blog/open-source/maintainers/your-contributors-are-ai-",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 17:45:37 +0000",
-      "timestamp": 1787075137.0
-    },
-    {
-      "title": "IP can't save you from AI",
-      "link": "https://pluralistic.net/2026/08/18/enron-corpus/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 17:36:24 +0000",
-      "timestamp": 1787074584.0
-    },
-    {
-      "title": "AI chip startup Etched doubles valuation to $21B in under a month",
-      "link": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 17:23:34 +0000",
-      "timestamp": 1787073814.0
-    },
-    {
       "title": "Etched’s valuation doubles to $21B in a month",
       "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
       "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
@@ -163,42 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 18 Aug 2026 17:21:58 +0000",
       "timestamp": 1787073718.0
-    },
-    {
-      "title": "One Person State – portable personal AI system",
-      "link": "https://embassy.svit.la/p/one-person-state",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 17:11:51 +0000",
-      "timestamp": 1787073111.0
-    },
-    {
-      "title": "A 24-Year-Old Blew Up a $45B AI Fund",
-      "link": "https://rubbishtalk.com/finance/how-a-24-year-old-blew-up-a-45-billion-ai-fund/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 17:10:36 +0000",
-      "timestamp": 1787073036.0
-    },
-    {
-      "title": "The Download: how people use AI, and Flock's design choices",
-      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 17:02:11 +0000",
-      "timestamp": 1787072531.0
-    },
-    {
-      "title": "Operationalizing agentic AI: The Day 0-2 blueprint for enterprise infrastructure",
-      "link": "https://www.redhat.com/en/blog/operationalizing-agentic-ai-day-0-2-blueprint-enterprise-infrastructure",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 16:43:21 +0000",
-      "timestamp": 1787071401.0
     },
     {
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
@@ -406,15 +424,6 @@
       "source": "The Verge AI",
       "published": "2026-08-16T10:56:40-04:00",
       "timestamp": 1786892200.0
-    },
-    {
-      "title": "Rogue AI aren’t science fiction anymore",
-      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-16T08:00:00-04:00",
-      "timestamp": 1786881600.0
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
