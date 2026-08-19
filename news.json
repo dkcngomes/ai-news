@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-08-19T13:07:41.722586+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-19T13:56:22.851356+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "Sainsbury's store pauses AI scanning after false shoplifting accusation",
+      "link": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:51:04 +0000",
+      "timestamp": 1787147464.0
+    },
+    {
+      "title": "Show HN: Dotproject – The project state standard for AI agents and humans",
+      "link": "https://github.com/jasonnam/dotproject",
+      "summary": "We are already getting too slow to micromanage agents on individual features. Trying to review and steer every tiny task is quickly becoming the main bottleneck. Managing at the milestone and goal level still feels like something humans can realistically keep up with—at least for now... I built the dotproject skill around this idea. Curious how others here are structuring agent workflows as execution speeds keep outpacing human oversight. Theoretically, once goals and milestones are defined and enough AI agents are attached, we should be able to track and drive progress toward them in real tim",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:46:06 +0000",
+      "timestamp": 1787147166.0
+    },
+    {
+      "title": "Show HN: Xalgorix – open-source AI pentester that proves vulnerabilities",
+      "link": "https://www.xalgorix.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:42:51 +0000",
+      "timestamp": 1787146971.0
+    },
+    {
+      "title": "Don't fall behind, keep up with latest AI news here",
+      "link": "https://www.vibeleaderboard.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:35:37 +0000",
+      "timestamp": 1787146537.0
+    },
+    {
+      "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+      "link": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:28:44 +0000",
+      "timestamp": 1787146124.0
+    },
+    {
+      "title": "Train your own AI model, even on your laptop",
+      "link": "https://news.ycombinator.com/item?id=49361322",
+      "summary": "Hey HN. I have been building TESSRAL for a while. It is a deeptech product which lets you train your own image or voice AI models with a small amount of processing power and a small dataset belonging to you. Or you may use other TESSRAL users' datasets if they let you. The point is we don't need huge datacenters in order to train AI models. No massive GPU clusters, no renting compute from someone else's cloud.Just your own hardware. If you have any questions (the technology, the models etc.) I would be happy to answer them.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:25:02 +0000",
+      "timestamp": 1787145902.0
+    },
+    {
+      "title": "Show HN: Marginal – See which customers and features drive your AI API costs",
+      "link": "https://marginalhq.com/",
+      "summary": "Demo account (shared, please be nice): https://marginalhq.com/login - email jithinlalk25+demo@gmail.com, password marginal-demo-2026. It's a seeded workspace for a fictional company; poke around Overview/Insights/Explorer. Or sign up and send real events.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:23:17 +0000",
+      "timestamp": 1787145797.0
+    },
+    {
+      "title": "AI Software Development – What Does the Data Say?",
+      "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:14:20 +0000",
+      "timestamp": 1787145260.0
+    },
+    {
+      "title": "This may be the first academic profession to see its work taken over by AI",
+      "link": "https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:13:38 +0000",
+      "timestamp": 1787145218.0
+    },
+    {
+      "title": "Why AI Output Is the New XSS",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-why-ai-output-is-the-new-xss",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:08:49 +0000",
+      "timestamp": 1787144929.0
+    },
+    {
+      "title": "I treat my AI coding agents as subcontractors",
+      "link": "https://karavox.org/devlog/agents-as-subcontractors.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:02:43 +0000",
+      "timestamp": 1787144563.0
+    },
     {
       "title": "Show HN: JobEasyApply – AI job auto-applier for LinkedIn, Greenhouse and Lever",
       "link": "https://jobeasyapply.com",
@@ -84,33 +183,6 @@
       "timestamp": 1787142546.0
     },
     {
-      "title": "I run AI coding agents as a team with AI DevKit",
-      "link": "https://codeaholicguy.com/2026/08/19/how-i-run-ai-coding-agents-as-a-team-with-ai-devkit/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:17:06 +0000",
-      "timestamp": 1787141826.0
-    },
-    {
-      "title": "Why Legacy Systems Block Real-Time AI Decision-Making",
-      "link": "https://geekyants.com/blog/why-legacy-systems-block-real-time-ai-decision-making",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:16:53 +0000",
-      "timestamp": 1787141813.0
-    },
-    {
-      "title": "Anthropic Posts First Profitable Quarter in Frontier AI",
-      "link": "https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:11:58 +0000",
-      "timestamp": 1787141518.0
-    },
-    {
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
       "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
       "summary": "It's the data, stupid.",
@@ -127,69 +199,6 @@
       "source": "The Verge AI",
       "published": "2026-08-19T08:00:00-04:00",
       "timestamp": 1787140800.0
-    },
-    {
-      "title": "YC is betting on robotics and physical AI startups",
-      "link": "https://news.ycombinator.com/item?id=49360345",
-      "summary": "Went through 208 startups from YC's Winter and Summer 2026 batches to see what they're actually funding this year. Robotics was the biggest surprise. There are 32 robotics/physical AI companies, exactly as many as AI infrastructure companies. A lot of them are working on pretty specific problems: autonomous factories, CNC machining, warehouse work, waste management, solar construction, nuclear inspection, etc. Some other numbers that stood out: 145 of the 208 companies are tagged AI. 24 are building developer/agent tools. A lot of these aren't really about helping you write code anymore. They'",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 11:59:32 +0000",
-      "timestamp": 1787140772.0
-    },
-    {
-      "title": "Show HN: Real-time argument duello game – AI judge decides who's right",
-      "link": "https://wram.chat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 11:50:17 +0000",
-      "timestamp": 1787140217.0
-    },
-    {
-      "title": "The AI storage pitch is a load balancing problem",
-      "link": "https://dev.profullstack.com/~anthony/blog/023-post.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 11:41:31 +0000",
-      "timestamp": 1787139691.0
-    },
-    {
-      "title": "AI automated hiring tools spark discrimination and secrecy lawsuits",
-      "link": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 11:36:27 +0000",
-      "timestamp": 1787139387.0
-    },
-    {
-      "title": "Common Mistakes I've Seen That AI-Generated Apps Keep Making",
-      "link": "https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 11:03:13 +0000",
-      "timestamp": 1787137393.0
-    },
-    {
-      "title": "Chinese Banks Start Lending Based on AI Computing-Power Usage",
-      "link": "https://www.globaltimes.cn/page/202608/1368315.shtml",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 10:51:26 +0000",
-      "timestamp": 1787136686.0
-    },
-    {
-      "title": "Confidential AI: Let AI Work for You Without Handing over Your Privacy",
-      "link": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 10:47:57 +0000",
-      "timestamp": 1787136477.0
     },
     {
       "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
