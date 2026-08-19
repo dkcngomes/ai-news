@@ -1,7 +1,34 @@
 {
-  "scraped_at": "2026-08-19T03:10:08.726962+00:00",
+  "scraped_at": "2026-08-19T03:57:38.679264+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Explaining AI agents is like explaining 3D printers",
+      "link": "https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 03:43:32 +0000",
+      "timestamp": 1787111012.0
+    },
+    {
+      "title": "Show HN: Control AI Agents on Your Old PC at Home from Any Device Anywhere",
+      "link": "https://github.com/elin66alpha/Relay",
+      "summary": "I built Relay around a simple idea: many of us have an unused PC server at home, or a VPS dedicated to AI-assisted coding, but the coding agents running there are still tied to that machine’s terminal, I just don't want to ssh/rdp into it every single time. Relay brings Claude Code, Codex, OpenCode, and Hermes into one interface that you can access from your phone, browser, or another computer. Sessions stay alive, so you can start work on one device and continue from another. You can upload/download files from the server, also if you are on subscription, you see your quota usage with 1 click.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 03:26:59 +0000",
+      "timestamp": 1787110019.0
+    },
+    {
+      "title": "The Recursive Economy: AI Self-Improvement and Scarcity",
+      "link": "https://recursive-economy.pages.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 03:16:21 +0000",
+      "timestamp": 1787109381.0
+    },
     {
       "title": "Agent2Agent (A2A) joins Agentic AI Foundation (AAIF)'s open agentic stack",
       "link": "https://aaif.io/blog/a2a-joins-aaif",
@@ -154,33 +181,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 18 Aug 2026 22:14:25 +0000",
       "timestamp": 1787091265.0
-    },
-    {
-      "title": "Tail: A 0–5 scale for how much AI wrote this",
-      "link": "https://beaucronin.com/tail/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 22:11:35 +0000",
-      "timestamp": 1787091095.0
-    },
-    {
-      "title": "AI usage patterns in software teams",
-      "link": "https://linear.app/data",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 22:08:07 +0000",
-      "timestamp": 1787090887.0
-    },
-    {
-      "title": "Silicon Valley's AI boom is remaking American charity",
-      "link": "https://www.economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 21:50:58 +0000",
-      "timestamp": 1787089858.0
     },
     {
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
