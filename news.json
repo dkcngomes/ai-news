@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-19T17:38:57.153930+00:00",
+  "scraped_at": "2026-08-19T18:51:56.886477+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 19 Aug 2026 18:46:14 +0000",
+      "timestamp": 1787165174.0
+    },
+    {
+      "title": "You can't stop people from using AI",
+      "link": "https://ashu1461.com/posts/you-cant-stop-people-from-using-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:35:32 +0000",
+      "timestamp": 1787164532.0
+    },
+    {
+      "title": "AI is helping patients to solve their medical mysteries",
+      "link": "https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:29:40 +0000",
+      "timestamp": 1787164180.0
+    },
+    {
+      "title": "Rare London bans AI books, asks attendees for help identifying authors using AI",
+      "link": "https://jamesrblatch.substack.com/p/is-it-me-or-is-this-sinister",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:29:16 +0000",
+      "timestamp": 1787164156.0
+    },
+    {
+      "title": "American AI May Not Survive Chinese Open-Source",
+      "link": "https://www.palladiummag.com/2026/08/19/american-ai-may-not-survive-chinese-open-source/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:27:43 +0000",
+      "timestamp": 1787164063.0
+    },
+    {
+      "title": "Founder of Z.ai and Tsinghua Professor Jie Tang on scaling LLM",
+      "link": "https://twitter.com/hsu_steve/status/2090050721307611414",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:24:31 +0000",
+      "timestamp": 1787163871.0
+    },
+    {
+      "title": "Michigan Insurance Giant Blames \"AI\" for Layoffs–But Evidence Points Overseas",
+      "link": "https://www.chrisbrunet.com/p/exclusive-michigan-insurance-giant",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:19:13 +0000",
+      "timestamp": 1787163553.0
+    },
+    {
+      "title": "Advertising Built for AI Agents",
+      "link": "https://themobian.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:18:41 +0000",
+      "timestamp": 1787163521.0
+    },
+    {
+      "title": "Show HN: CIYA – Purely Deterministic AI",
+      "link": "https://iiio.app?u=showhn",
+      "summary": "Hey HN, Before we roll out our fully deterministic compiled language model (CLM), figured I'd post CIYA's v0.02 for you to try out. At this point CIYA acts as a storage and logic engine for any of your prompting needs, and is available via API/Websocket integration. If your company/project frequently repeats the same prompts, needs to template out those (or any) prompts, or wants to keep your business logic directly on site instead of giving it away to cloud providers, CIYA can do all of that for you. Feel free to pull up the guide using the command R: guide to see the current list of availabl",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:05:38 +0000",
+      "timestamp": 1787162738.0
+    },
+    {
+      "title": "Inference Engineering: A free book on the systems behind AI inference",
+      "link": "https://www.baseten.co/inference-engineering/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:00:59 +0000",
+      "timestamp": 1787162459.0
+    },
+    {
+      "title": "How to Use Harness Engineering to Remove AI Tells",
+      "link": "https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 17:56:16 +0000",
+      "timestamp": 1787162176.0
+    },
+    {
+      "title": "The 6-Stage AI Infra Journey: Navigating the Three FinOps and Hardware Crises",
+      "link": "https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 17:35:35 +0000",
+      "timestamp": 1787160935.0
+    },
     {
       "title": "Meet the startup helping Wall Street put a price on AI compute",
       "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
@@ -111,42 +219,6 @@
       "timestamp": 1787157847.0
     },
     {
-      "title": "Can you tell which AI-generated text is watermarked?",
-      "link": "https://watermark-quiz.krishmatta.net/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 16:37:46 +0000",
-      "timestamp": 1787157466.0
-    },
-    {
-      "title": "Show HN: Naeos – an engineering system for AI coding agents",
-      "link": "https://github.com/NAEOS-foundation/naeos",
-      "summary": "NAEOS is an open-source engineering system for AI coding agents.It provides architecture, engineering standards, policies, specifications, and validation wworkflow to help agents build software within a consistent engineering context",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 16:34:02 +0000",
-      "timestamp": 1787157242.0
-    },
-    {
-      "title": "Show HN: LongTerMemory, an AI EdTech Platform",
-      "link": "https://wired.business/longtermemory",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 16:07:51 +0000",
-      "timestamp": 1787155671.0
-    },
-    {
-      "title": "H3 Video – MiniMax H3 AI Video Generator",
-      "link": "https://www.h3vid.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 15:56:22 +0000",
-      "timestamp": 1787154982.0
-    },
-    {
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
       "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
       "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
@@ -154,69 +226,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 19 Aug 2026 15:44:53 +0000",
       "timestamp": 1787154293.0
-    },
-    {
-      "title": "AI Skills for Real Engineers",
-      "link": "https://master.dev/blog/introducing-ai-skills-for-real-engineers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 15:42:54 +0000",
-      "timestamp": 1787154174.0
-    },
-    {
-      "title": "AI Used to Verify Toughest Mathematics Proof Yet",
-      "link": "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 15:40:22 +0000",
-      "timestamp": 1787154022.0
-    },
-    {
-      "title": "Knowing your robot: the fiduciary program in the age of AI",
-      "link": "https://polanyisociety.org/knowing-your-robot-the-fiduciary-program-in-the-age-of-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 15:39:58 +0000",
-      "timestamp": 1787153998.0
-    },
-    {
-      "title": "A pocketable AI agent – Tokens free to use now",
-      "link": "https://plugos.net/plugclaw/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 15:29:54 +0000",
-      "timestamp": 1787153394.0
-    },
-    {
-      "title": "Teaching AI with Quantum Data",
-      "link": "https://www.quantinuum.com/blog/teaching-ai-with-quantum-data",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 15:25:18 +0000",
-      "timestamp": 1787153118.0
-    },
-    {
-      "title": "Show HN: Grove, a formal workflow protocol for long-running AI coding agents",
-      "link": "https://github.com/alxshelepenok/grove",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 15:19:53 +0000",
-      "timestamp": 1787152793.0
-    },
-    {
-      "title": "Mathematics in the Age of AI",
-      "link": "https://arxiv.org/abs/2608.16753",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 15:14:25 +0000",
-      "timestamp": 1787152465.0
     },
     {
       "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
@@ -478,15 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 17 Aug 2026 13:10:05 +0000",
       "timestamp": 1786972205.0
-    },
-    {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 16 Aug 2026 20:57:04 +0000",
-      "timestamp": 1786913824.0
     },
     {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
