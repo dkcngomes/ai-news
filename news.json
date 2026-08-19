@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-19T03:57:38.679264+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-19T04:50:17.854280+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "AI mines 500 years of Spanish colonial records to find hidden wrecks, lost cargo",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 04:25:35 +0000",
+      "timestamp": 1787113535.0
+    },
+    {
+      "title": "Show HN: 4bit bridge between AI and humans",
+      "link": "https://github.com/YOalphabet/YOalphabet",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 04:21:26 +0000",
+      "timestamp": 1787113286.0
+    },
+    {
+      "title": "Ask HN: Are AI credits too locked to individual applications?",
+      "link": "https://news.ycombinator.com/item?id=49356667",
+      "summary": "The problem: I already had AI credits, but those credits were locked to one application. context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the deployment agent. To keep using it, I either had to wait for credits to reset or upgrade to a higher subscription or buy tokens. At the same time, I already had a subscription for the IDE, but I could not use those credits on Hostinger. simply despite having credits, we cannot use them. Is this actually a problem for other people, or is it just something that bothered me personally?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 04:08:42 +0000",
+      "timestamp": 1787112522.0
+    },
+    {
+      "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+      "link": "https://arxiv.org/abs/2608.16834",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 04:07:06 +0000",
+      "timestamp": 1787112426.0
+    },
+    {
+      "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
+      "link": "https://plugos.net/plugclaw/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 04:03:16 +0000",
+      "timestamp": 1787112196.0
+    },
+    {
+      "title": "Mathematics in the Age of AI",
+      "link": "https://arxiv.org/abs/2608.16753",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 04:01:39 +0000",
+      "timestamp": 1787112099.0
+    },
+    {
+      "title": "SERP Lens – an AI agent that does SEO work in a real browser",
+      "link": "https://serplens.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 03:55:47 +0000",
+      "timestamp": 1787111747.0
+    },
     {
       "title": "Explaining AI agents is like explaining 3D printers",
       "link": "https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/",
@@ -118,60 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 19 Aug 2026 00:14:34 +0000",
       "timestamp": 1787098474.0
-    },
-    {
-      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
-      "link": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 00:14:25 +0000",
-      "timestamp": 1787098465.0
-    },
-    {
-      "title": "Ask HN: How should I price an AI infrastructure platform?",
-      "link": "https://news.ycombinator.com/item?id=49354254",
-      "summary": "I'm building an event-driven infrastructure layer for AI agents. I may have my first customer: a consulting firm wants to build AI automation solutions for its clients using my platform and license it as part of those solutions. For example, they might sell a $20k solution to a client, with my infrastructure powering the agent system. I'm considering a flat platform fee, usage-based pricing, or a platform fee + revenue share. For those who've sold developer infrastructure through consulting/integration partners, how would you structure the first deal? I'm especially interested in what you'd do",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 23:19:22 +0000",
-      "timestamp": 1787095162.0
-    },
-    {
-      "title": "Unitree Robotics IPO: \"Embodied AI\" Valuation Bubble?",
-      "link": "https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 23:18:29 +0000",
-      "timestamp": 1787095109.0
-    },
-    {
-      "title": "My AI Agents Ship Code While I Sleep. Nobody Reviews It",
-      "link": "https://goatsquadstudios.com/blog/how-i-work-with-ai-agents-autonomously",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 23:06:19 +0000",
-      "timestamp": 1787094379.0
-    },
-    {
-      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
-      "link": "https://maritime.sh",
-      "summary": "Hi HN, my name is Maria, and I’m a co-founder of Maritime. We started Maritime at MIT to build infrastructure for companies that need to run thousands of isolated AI agents for their customers. Imagine you set up an agent like OpenClaw, or a personal assistant agent with a custom framework, and want to give a separate version of it to every customer/friend. Each customer needs their own agent running in an isolated microVM, with persistent state, secrets, triggers, and sleep/wake behavior. Building such scalable and secure infra will take you months and will cost hundreds of thousands. Also, y",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 23:02:32 +0000",
-      "timestamp": 1787094152.0
-    },
-    {
-      "title": "AI-drafted bills are swamping the House office that writes US laws",
-      "link": "https://gizmodo.com/its-absolutely-terrifying-ai-is-reportedly-slopping-up-the-bills-in-congress-2000799734",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 23:01:45 +0000",
-      "timestamp": 1787094105.0
     },
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
