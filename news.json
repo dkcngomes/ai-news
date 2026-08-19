@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-18T23:34:50.115801+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-19T01:52:05.444631+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
+      "link": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 01:06:12 +0000",
+      "timestamp": 1787101572.0
+    },
+    {
+      "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
+      "link": "https://secitbench.cribl.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 00:28:02 +0000",
+      "timestamp": 1787099282.0
+    },
+    {
+      "title": "Show HN: Monity.ai – Get notified when any website changes",
+      "link": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 00:15:24 +0000",
+      "timestamp": 1787098524.0
+    },
+    {
+      "title": "How to tame AI's voracious appetite for energy",
+      "link": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 00:14:34 +0000",
+      "timestamp": 1787098474.0
+    },
+    {
+      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+      "link": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 00:14:25 +0000",
+      "timestamp": 1787098465.0
+    },
     {
       "title": "Ask HN: How should I price an AI infrastructure platform?",
       "link": "https://news.ycombinator.com/item?id=49354254",
@@ -138,15 +183,6 @@
       "timestamp": 1787084440.0
     },
     {
-      "title": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
-      "link": "https://www.reuters.com/world/middle-east/blind-egyptian-entrepreneurs-ai-app-helps-others-see-world-2026-08-18/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 20:03:28 +0000",
-      "timestamp": 1787083408.0
-    },
-    {
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
       "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
@@ -156,24 +192,6 @@
       "timestamp": 1787082506.0
     },
     {
-      "title": "OpenAI Is Slowing Down Its AI Training",
-      "link": "https://time.com/article/2026/08/18/openai-slowing-training/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 19:46:28 +0000",
-      "timestamp": 1787082388.0
-    },
-    {
-      "title": "Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
-      "link": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 19:45:48 +0000",
-      "timestamp": 1787082348.0
-    },
-    {
       "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
       "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
@@ -181,33 +199,6 @@
       "source": "The Verge AI",
       "published": "2026-08-18T15:28:30-04:00",
       "timestamp": 1787081310.0
-    },
-    {
-      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-      "link": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 19:28:09 +0000",
-      "timestamp": 1787081289.0
-    },
-    {
-      "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
-      "link": "https://geojacker.com/llms-txt",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 19:24:35 +0000",
-      "timestamp": 1787081075.0
-    },
-    {
-      "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
-      "link": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 18 Aug 2026 19:24:05 +0000",
-      "timestamp": 1787081045.0
     },
     {
       "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
