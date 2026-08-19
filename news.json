@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-19T19:37:11.493428+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-19T20:44:22.158522+00:00",
+  "count": 64,
   "items": [
+    {
+      "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 20:30:01 +0000",
+      "timestamp": 1787171401.0
+    },
+    {
+      "title": "Squid – I built an AI meeting participant that knows when not to speak",
+      "link": "https://meet.squidhub.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 20:20:06 +0000",
+      "timestamp": 1787170806.0
+    },
+    {
+      "title": "We Can't Agree on What Counts as \"AI-Written\"",
+      "link": "https://bookriot.com/what-counts-as-ai-survey-results/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 20:08:22 +0000",
+      "timestamp": 1787170102.0
+    },
+    {
+      "title": "Show HN: I let an AI agent brick my $2.51 ESP32 on purpose",
+      "link": "https://github.com/GLechevalier/nff-core",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 19:55:23 +0000",
+      "timestamp": 1787169323.0
+    },
     {
       "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
       "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
@@ -165,60 +201,6 @@
       "timestamp": 1787163871.0
     },
     {
-      "title": "Michigan Insurance Giant Blames \"AI\" for Layoffs–But Evidence Points Overseas",
-      "link": "https://www.chrisbrunet.com/p/exclusive-michigan-insurance-giant",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 18:19:13 +0000",
-      "timestamp": 1787163553.0
-    },
-    {
-      "title": "Advertising Built for AI Agents",
-      "link": "https://themobian.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 18:18:41 +0000",
-      "timestamp": 1787163521.0
-    },
-    {
-      "title": "Show HN: CIYA – Purely Deterministic AI",
-      "link": "https://iiio.app?u=showhn",
-      "summary": "Hey HN, Before we roll out our fully deterministic compiled language model (CLM), figured I'd post CIYA's v0.02 for you to try out. At this point CIYA acts as a storage and logic engine for any of your prompting needs, and is available via API/Websocket integration. If your company/project frequently repeats the same prompts, needs to template out those (or any) prompts, or wants to keep your business logic directly on site instead of giving it away to cloud providers, CIYA can do all of that for you. Feel free to pull up the guide using the command R: guide to see the current list of availabl",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 18:05:38 +0000",
-      "timestamp": 1787162738.0
-    },
-    {
-      "title": "Inference Engineering: A free book on the systems behind AI inference",
-      "link": "https://www.baseten.co/inference-engineering/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 18:00:59 +0000",
-      "timestamp": 1787162459.0
-    },
-    {
-      "title": "How to Use Harness Engineering to Remove AI Tells",
-      "link": "https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 17:56:16 +0000",
-      "timestamp": 1787162176.0
-    },
-    {
-      "title": "The 6-Stage AI Infra Journey: Navigating the Three FinOps and Hardware Crises",
-      "link": "https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 17:35:35 +0000",
-      "timestamp": 1787160935.0
-    },
-    {
       "title": "Meet the startup helping Wall Street put a price on AI compute",
       "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
       "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
@@ -226,15 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 19 Aug 2026 17:26:48 +0000",
       "timestamp": 1787160408.0
-    },
-    {
-      "title": "A Lawyer for AI Agents",
-      "link": "https://artificialauthority.ai/p/a-lawyer-for-ai-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 17:14:25 +0000",
-      "timestamp": 1787159665.0
     },
     {
       "title": "OpenAI hit the brakes. Now what?",
