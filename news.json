@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-19T08:53:34.879799+00:00",
+  "scraped_at": "2026-08-19T09:48:11.355691+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Rune – persistent context for AI coding tools",
+      "link": "https://github.com/thecolourfoundation/rune",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 09:32:15 +0000",
+      "timestamp": 1787131935.0
+    },
+    {
+      "title": "Pander Score: How much do AI models mirror what users believe?",
+      "link": "https://sophronresearch.org/pander/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 09:32:03 +0000",
+      "timestamp": 1787131923.0
+    },
+    {
+      "title": "A multi-tenant SaaS built in a 92-hour AI-augmented engineering sprint",
+      "link": "https://fast-and-flow-production.onrender.com/case-study",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 09:22:25 +0000",
+      "timestamp": 1787131345.0
+    },
+    {
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 19 Aug 2026 09:00:00 +0000",
+      "timestamp": 1787130000.0
+    },
     {
       "title": "The Equations of Reasoning – Pathway AI",
       "link": "https://pathway.com/research/the-equations-of-reasoning",
@@ -154,33 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 19 Aug 2026 06:24:23 +0000",
       "timestamp": 1787120663.0
-    },
-    {
-      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-      "link": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 06:19:40 +0000",
-      "timestamp": 1787120380.0
-    },
-    {
-      "title": "Does AI stop children from learning?",
-      "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 06:13:31 +0000",
-      "timestamp": 1787120011.0
-    },
-    {
-      "title": "Designing AI with character: what we learned building Berd",
-      "link": "https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 05:26:26 +0000",
-      "timestamp": 1787117186.0
     },
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Thu, 13 Aug 2026 21:14:43 +0000",
       "timestamp": 1786655683.0
-    },
-    {
-      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-      "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 13 Aug 2026 09:00:00 +0000",
-      "timestamp": 1786611600.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
