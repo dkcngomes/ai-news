@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-19T16:45:38.169119+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-19T17:38:57.153930+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 19 Aug 2026 17:26:48 +0000",
+      "timestamp": 1787160408.0
+    },
+    {
+      "title": "A Lawyer for AI Agents",
+      "link": "https://artificialauthority.ai/p/a-lawyer-for-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 17:14:25 +0000",
+      "timestamp": 1787159665.0
+    },
+    {
+      "title": "OpenAI hit the brakes. Now what?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-19T13:10:09-04:00",
+      "timestamp": 1787159409.0
+    },
+    {
+      "title": "The Download: AI's self-improvement problem, and what's driving the heat",
+      "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 17:01:08 +0000",
+      "timestamp": 1787158868.0
+    },
+    {
+      "title": "Meta AI is getting a Mac app",
+      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-19T13:00:00-04:00",
+      "timestamp": 1787158800.0
+    },
+    {
+      "title": "Show HN: CrewCode – Open-source Mission Control for AI coding agents",
+      "link": "https://github.com/OnPoint-Dev-Tools/crewcode",
+      "summary": "I've been experimenting heavily with coding agents and found myself managing agents more than writing code. I build CrewCode to solve that. Its an open source desktop application for running multiple AI coding agents in parallel while isolating their work with Git worktrees. Git worktrees → agent isolation → provider independence → diff review → orchestration. I'd especially appreciate feedback on the multi-agent/worktree model. I launched it on Product Hunt today and would love feedback from developers.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 16:56:22 +0000",
+      "timestamp": 1787158582.0
+    },
+    {
+      "title": "Show HN: Intelix – AI agent that investigates and resolves production incidents",
+      "link": "https://intelix.dev",
+      "summary": "Hi HN, I built Intelix, an AI incident-response agent for engineering teams. When a production incident happens, Intelix investigates it instead of simply notifying an engineer. It gathers evidence across PagerDuty, Datadog, GitHub and Kubernetes, identifies and ranks possible root causes, validates whether a recovery action is safe, and then executes the recovery. I built an interactive live demo where you can watch the agent investigate and resolve a simulated production incident in real time. Try it here: https://intelix.dev This is an early version of Intelix, currently focused on automate",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 16:56:04 +0000",
+      "timestamp": 1787158564.0
+    },
+    {
+      "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
+      "link": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 16:51:23 +0000",
+      "timestamp": 1787158283.0
+    },
+    {
+      "title": "How I Use AI to Help Me Write",
+      "link": "https://tombedor.dev/how-i-use-ai-to-help-me-write/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 16:51:02 +0000",
+      "timestamp": 1787158262.0
+    },
+    {
+      "title": "A Constitution for One: 7 months governing a personal AI agent fleet",
+      "link": "https://github.com/Chong169/a-constitution-for-one",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 16:49:38 +0000",
+      "timestamp": 1787158178.0
+    },
+    {
+      "title": "People vs. the AI Overlords",
+      "link": "https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 16:47:19 +0000",
+      "timestamp": 1787158039.0
+    },
+    {
+      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 19 Aug 2026 16:44:07 +0000",
+      "timestamp": 1787157847.0
+    },
     {
       "title": "Can you tell which AI-generated text is watermarked?",
       "link": "https://watermark-quiz.krishmatta.net/",
@@ -111,15 +219,6 @@
       "timestamp": 1787152465.0
     },
     {
-      "title": "Should you use AI to write user stories",
-      "link": "https://projan.ai/blog/should-you-use-ai-to-write-user-stories",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 15:12:45 +0000",
-      "timestamp": 1787152365.0
-    },
-    {
       "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
       "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
       "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
@@ -127,78 +226,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 19 Aug 2026 15:00:00 +0000",
       "timestamp": 1787151600.0
-    },
-    {
-      "title": "Show HN: Tech / AI / Product super aggregator – SudoReport",
-      "link": "https://sudoreport.com/",
-      "summary": "pulls from hundreds of sources to give you the most relevant info of the day. UI modelled after drudgereport",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 14:52:43 +0000",
-      "timestamp": 1787151163.0
-    },
-    {
-      "title": "Zeno: A local AI tool that runs Qwen3.5-35B-A3B on MacBooks",
-      "link": "https://icosa.co/zeno",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 14:43:46 +0000",
-      "timestamp": 1787150626.0
-    },
-    {
-      "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
-      "link": "https://news.ycombinator.com/item?id=49362305",
-      "summary": "A lot of submissions nowadays have a few LLM comments (whether directly written by an agent, or human with a LLM I don't know), often downvoted and sitting at the end of the comment section. No-one even bothers to call them out anymore, it's just part of the landscape. Just wondering why ? What's the point for these people ?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 14:40:45 +0000",
-      "timestamp": 1787150445.0
-    },
-    {
-      "title": "Field Notes from an AI Society",
-      "link": "https://asteriskmag.substack.com/p/field-notes-from-an-ai-society",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 14:40:27 +0000",
-      "timestamp": 1787150427.0
-    },
-    {
-      "title": "AI Agents that are Portable",
-      "link": "https://nexusrun.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 14:38:36 +0000",
-      "timestamp": 1787150316.0
-    },
-    {
-      "title": "Anders Hejlsberg: 10x Faster TypeScript, Why AI Won't Replace SWEs [video]",
-      "link": "https://www.youtube.com/watch?v=cywK3XYYJ2o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 14:34:19 +0000",
-      "timestamp": 1787150059.0
-    },
-    {
-      "title": "Sibbo – track what AI learned from you",
-      "link": "https://sibbo.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 14:30:45 +0000",
-      "timestamp": 1787149845.0
-    },
-    {
-      "title": "Show HN: Pack AI and scientific models as self-contained boxes",
-      "link": "https://github.com/suffro/scrollcase",
-      "summary": "Hi! I've been working on an open-source project called Scrollcase. I started this cause moving Python or ML projects between machines is often painful. You need the right Python version, libraries, native builds, model files, and so on. So instead of making someone rebuild a Python environment on their machine, Scrollcase packages everything once, including Python, locked dependencies, code, and model files. Then they can verify it, unpack it, and run it. No Python install, no pip install, no Docker, and no dependency to mantain. You just define what goes inside, lock the dependencies, and bui",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 14:27:14 +0000",
-      "timestamp": 1787149634.0
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -453,24 +480,6 @@
       "timestamp": 1786972205.0
     },
     {
-      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-17T07:00:00-04:00",
-      "timestamp": 1786964400.0
-    },
-    {
-      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-17T06:57:13-04:00",
-      "timestamp": 1786964233.0
-    },
-    {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
@@ -478,15 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 16 Aug 2026 20:57:04 +0000",
       "timestamp": 1786913824.0
-    },
-    {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 16 Aug 2026 20:32:01 +0000",
-      "timestamp": 1786912321.0
     },
     {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
@@ -541,15 +541,6 @@
       "source": "Wired AI",
       "published": "Thu, 13 Aug 2026 22:37:19 +0000",
       "timestamp": 1786660639.0
-    },
-    {
-      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-      "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
-      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 13 Aug 2026 21:14:43 +0000",
-      "timestamp": 1786655683.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
