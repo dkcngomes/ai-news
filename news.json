@@ -1,7 +1,178 @@
 {
-  "scraped_at": "2026-08-19T13:56:22.851356+00:00",
+  "scraped_at": "2026-08-19T14:52:14.290603+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Zeno: A local AI tool that runs Qwen3.5-35B-A3B on MacBooks",
+      "link": "https://icosa.co/zeno",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:43:46 +0000",
+      "timestamp": 1787150626.0
+    },
+    {
+      "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
+      "link": "https://news.ycombinator.com/item?id=49362305",
+      "summary": "A lot of submissions nowadays have a few LLM comments (whether directly written by an agent, or human with a LLM I don't know), often downvoted and sitting at the end of the comment section. No-one even bothers to call them out anymore, it's just part of the landscape. Just wondering why ? What's the point for these people ?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:40:45 +0000",
+      "timestamp": 1787150445.0
+    },
+    {
+      "title": "Field Notes from an AI Society",
+      "link": "https://asteriskmag.substack.com/p/field-notes-from-an-ai-society",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:40:27 +0000",
+      "timestamp": 1787150427.0
+    },
+    {
+      "title": "AI Agents that are Portable",
+      "link": "https://nexusrun.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:38:36 +0000",
+      "timestamp": 1787150316.0
+    },
+    {
+      "title": "Anders Hejlsberg: 10x Faster TypeScript, Why AI Won't Replace SWEs [video]",
+      "link": "https://www.youtube.com/watch?v=cywK3XYYJ2o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:34:19 +0000",
+      "timestamp": 1787150059.0
+    },
+    {
+      "title": "Sibbo – track what AI learned from you",
+      "link": "https://sibbo.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:30:45 +0000",
+      "timestamp": 1787149845.0
+    },
+    {
+      "title": "Show HN: Pack AI and scientific models as self-contained boxes",
+      "link": "https://github.com/suffro/scrollcase",
+      "summary": "Hi! I've been working on an open-source project called Scrollcase. I started this cause moving Python or ML projects between machines is often painful. You need the right Python version, libraries, native builds, model files, and so on. So instead of making someone rebuild a Python environment on their machine, Scrollcase packages everything once, including Python, locked dependencies, code, and model files. Then they can verify it, unpack it, and run it. No Python install, no pip install, no Docker, and no dependency to mantain. You just define what goes inside, lock the dependencies, and bui",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:27:14 +0000",
+      "timestamp": 1787149634.0
+    },
+    {
+      "title": "Conversationaly – Privacy-First AI Meeting Assistant",
+      "link": "https://github.com/bykof/conversationaly/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:26:42 +0000",
+      "timestamp": 1787149602.0
+    },
+    {
+      "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
+      "link": "https://github.com/danielealbano/android-remote-control-mcp/",
+      "summary": "Hi HN, author here. Android Remote Control MCP is an MCP server that runs directly on your Android phone (no root, no ADB, no computer in the middle) and lets an AI agent drive real apps the way a human would: it reads the screen through the accessibility tree, taps, types, scrolls, optionally also screenshots. I spent a lot of time optimizing tool usage and token consumption, and making it work not only via local harnesses but also via Claude.ai / Claude Desktop and chatgpt.com (if you have the proper account, the app acts as its own OAuth server, you approve connections with a code on the ph",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:23:13 +0000",
+      "timestamp": 1787149393.0
+    },
+    {
+      "title": "The Feedback Cap: Lehman's laws in the age of AI agents",
+      "link": "https://adaptivesoftware.substack.com/p/your-ab-tests-are-limiting-what-your",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:22:48 +0000",
+      "timestamp": 1787149368.0
+    },
+    {
+      "title": "I built a 2M-pixel canvas solo, with AI as the team",
+      "link": "https://theaierahomepage.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:20:51 +0000",
+      "timestamp": 1787149251.0
+    },
+    {
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technica",
+      "image": null,
+      "source": "VentureBeat AI",
+      "published": "Wed, 19 Aug 2026 14:18:12 GMT",
+      "timestamp": 1787149092.0
+    },
+    {
+      "title": "Show HN: H2AI Chat – multi-AI debate you can self-host with local models – AGPL",
+      "link": "https://github.com/Tonterias/h2aichat`",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:17:49 +0000",
+      "timestamp": 1787149069.0
+    },
+    {
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 19 Aug 2026 14:09:39 +0000",
+      "timestamp": 1787148579.0
+    },
+    {
+      "title": "Getting set up on local AI. Here's what matters",
+      "link": "https://twitter.com/draginol/status/2089338779324543047",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 14:07:17 +0000",
+      "timestamp": 1787148437.0
+    },
+    {
+      "title": "How to Survive the AI Cyberpocalypse",
+      "link": "https://www.derekthompson.org/p/how-to-survive-the-ai-cyberpocalypse",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:59:32 +0000",
+      "timestamp": 1787147972.0
+    },
+    {
+      "title": "South Korea youth employment falls sharply in AI-exposed industries, BOK says",
+      "link": "https://www.koreajoongangdaily.com/business/94-of-job-losses-among-young-people-over-past-4-years-were-in-aiexposed-industries-bok-says/12830646",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:56:32 +0000",
+      "timestamp": 1787147792.0
+    },
+    {
+      "title": "OpenAI slows down training after its AI carried out hack",
+      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:54:04 +0000",
+      "timestamp": 1787147644.0
+    },
+    {
+      "title": "Show HN: AgentBadge – Agent Readiness Scoring for APIs (SEO for AI Agents)",
+      "link": "https://agentbadge.xyz/blog/what-is-agent-readiness",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 13:52:38 +0000",
+      "timestamp": 1787147558.0
+    },
     {
       "title": "Sainsbury's store pauses AI scanning after false shoplifting accusation",
       "link": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
@@ -28,159 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 19 Aug 2026 13:42:51 +0000",
       "timestamp": 1787146971.0
-    },
-    {
-      "title": "Don't fall behind, keep up with latest AI news here",
-      "link": "https://www.vibeleaderboard.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 13:35:37 +0000",
-      "timestamp": 1787146537.0
-    },
-    {
-      "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
-      "link": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 13:28:44 +0000",
-      "timestamp": 1787146124.0
-    },
-    {
-      "title": "Train your own AI model, even on your laptop",
-      "link": "https://news.ycombinator.com/item?id=49361322",
-      "summary": "Hey HN. I have been building TESSRAL for a while. It is a deeptech product which lets you train your own image or voice AI models with a small amount of processing power and a small dataset belonging to you. Or you may use other TESSRAL users' datasets if they let you. The point is we don't need huge datacenters in order to train AI models. No massive GPU clusters, no renting compute from someone else's cloud.Just your own hardware. If you have any questions (the technology, the models etc.) I would be happy to answer them.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 13:25:02 +0000",
-      "timestamp": 1787145902.0
-    },
-    {
-      "title": "Show HN: Marginal – See which customers and features drive your AI API costs",
-      "link": "https://marginalhq.com/",
-      "summary": "Demo account (shared, please be nice): https://marginalhq.com/login - email jithinlalk25+demo@gmail.com, password marginal-demo-2026. It's a seeded workspace for a fictional company; poke around Overview/Insights/Explorer. Or sign up and send real events.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 13:23:17 +0000",
-      "timestamp": 1787145797.0
-    },
-    {
-      "title": "AI Software Development – What Does the Data Say?",
-      "link": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 13:14:20 +0000",
-      "timestamp": 1787145260.0
-    },
-    {
-      "title": "This may be the first academic profession to see its work taken over by AI",
-      "link": "https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 13:13:38 +0000",
-      "timestamp": 1787145218.0
-    },
-    {
-      "title": "Why AI Output Is the New XSS",
-      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-why-ai-output-is-the-new-xss",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 13:08:49 +0000",
-      "timestamp": 1787144929.0
-    },
-    {
-      "title": "I treat my AI coding agents as subcontractors",
-      "link": "https://karavox.org/devlog/agents-as-subcontractors.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 13:02:43 +0000",
-      "timestamp": 1787144563.0
-    },
-    {
-      "title": "Show HN: JobEasyApply – AI job auto-applier for LinkedIn, Greenhouse and Lever",
-      "link": "https://jobeasyapply.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:53:07 +0000",
-      "timestamp": 1787143987.0
-    },
-    {
-      "title": "PulseMarkt – An AI-powered marketplace for discovering trending products",
-      "link": "https://www.pulsemarkt.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:48:50 +0000",
-      "timestamp": 1787143730.0
-    },
-    {
-      "title": "AI acts as ideological chameleon and deepen political polarization, study find",
-      "link": "https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:36:17 +0000",
-      "timestamp": 1787142977.0
-    },
-    {
-      "title": "Where are AI Agents going?",
-      "link": "https://designislove.substack.com/p/will-ai-agents-become-the-internets",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:35:32 +0000",
-      "timestamp": 1787142932.0
-    },
-    {
-      "title": "CorePilot, Offline AI Agent and Assistant",
-      "link": "https://corepilot-three.vercel.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:34:28 +0000",
-      "timestamp": 1787142868.0
-    },
-    {
-      "title": "Two API Calls Exposed AI's Hidden Reasoning [video]",
-      "link": "https://www.youtube.com/watch?v=P1v1-2CCKD0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:33:56 +0000",
-      "timestamp": 1787142836.0
-    },
-    {
-      "title": "Show HN: Starwell – give AI agents real statistics instead of made-up numbers",
-      "link": "https://starwell.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:33:29 +0000",
-      "timestamp": 1787142809.0
-    },
-    {
-      "title": "Why AI Won't Replace Your Job but Will Change How You Do It",
-      "link": "https://daydreamsinruby.com/blog/2026-04-08-ai-changing-your-job/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:29:47 +0000",
-      "timestamp": 1787142587.0
-    },
-    {
-      "title": "AI Agents Need Good Management Too",
-      "link": "https://www.danstroot.com/posts/2026-08-17-ai-needs-good-management-too",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 12:29:06 +0000",
-      "timestamp": 1787142546.0
     },
     {
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
@@ -471,15 +489,6 @@
       "timestamp": 1786829359.0
     },
     {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 15 Aug 2026 18:58:39 +0000",
-      "timestamp": 1786820319.0
-    },
-    {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
       "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
       "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
@@ -595,15 +604,6 @@
       "source": "VentureBeat AI",
       "published": "Mon, 12 Jan 2026 11:30:00 GMT",
       "timestamp": 1768217400.0
-    },
-    {
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest B200 graphics processors . The model, called NousCoder-14B , is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: Claude Code , the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year&#x27;s Day, with developer",
-      "image": null,
-      "source": "VentureBeat AI",
-      "published": "Wed, 07 Jan 2026 20:00:00 GMT",
-      "timestamp": 1767816000.0
     }
   ]
 }
