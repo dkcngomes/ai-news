@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-19T21:38:46.034224+00:00",
+  "scraped_at": "2026-08-19T22:39:46.931978+00:00",
   "count": 64,
   "items": [
+    {
+      "title": "Semantica, the Open Source Palantir for AI Agents",
+      "link": "https://github.com/semantica-agi/semantica",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 22:28:48 +0000",
+      "timestamp": 1787178528.0
+    },
+    {
+      "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
+      "link": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 22:20:14 +0000",
+      "timestamp": 1787178014.0
+    },
+    {
+      "title": "Japan to require AI firms to disclose training data",
+      "link": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 22:12:52 +0000",
+      "timestamp": 1787177572.0
+    },
+    {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 19 Aug 2026 22:10:46 +0000",
+      "timestamp": 1787177446.0
+    },
+    {
+      "title": "Node.js AI use policy and guidelines",
+      "link": "https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 22:03:24 +0000",
+      "timestamp": 1787177004.0
+    },
+    {
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 19 Aug 2026 21:51:23 +0000",
+      "timestamp": 1787176283.0
+    },
+    {
+      "title": "Vibe-Kanban-Alternative – Classic AI agent Kanban with mem0 persistent memory",
+      "link": "https://github.com/flashlan/vibe-kanban-alternative",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 21:38:25 +0000",
+      "timestamp": 1787175505.0
+    },
     {
       "title": "How much would value the domain 'cmdk.ai' and 'commandk.ai'",
       "link": "https://news.ycombinator.com/item?id=49367288",
@@ -10,24 +73,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 19 Aug 2026 21:13:49 +0000",
       "timestamp": 1787174029.0
-    },
-    {
-      "title": "AI code where are the pitfalls?",
-      "link": "https://news.ycombinator.com/item?id=49367259",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 21:11:54 +0000",
-      "timestamp": 1787173914.0
-    },
-    {
-      "title": "AI generated code is it any good?",
-      "link": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 21:11:17 +0000",
-      "timestamp": 1787173877.0
     },
     {
       "title": "Did OpenAI's AI hack Hugging Face? An evidence audit",
@@ -129,15 +174,6 @@
       "timestamp": 1787170102.0
     },
     {
-      "title": "Show HN: I let an AI agent brick my $2.51 ESP32 on purpose",
-      "link": "https://github.com/GLechevalier/nff-core",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 19:55:23 +0000",
-      "timestamp": 1787169323.0
-    },
-    {
       "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
       "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
       "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
@@ -145,24 +181,6 @@
       "source": "Wired AI",
       "published": "Wed, 19 Aug 2026 19:30:00 +0000",
       "timestamp": 1787167800.0
-    },
-    {
-      "title": "Daily Reminder to Not Listen to Google's AI Overview",
-      "link": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 19:26:46 +0000",
-      "timestamp": 1787167606.0
-    },
-    {
-      "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 19:25:10 +0000",
-      "timestamp": 1787167510.0
     },
     {
       "title": "AI was supposed to win people over by now — it hasn’t",
@@ -460,24 +478,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 17 Aug 2026 21:27:05 +0000",
       "timestamp": 1787002025.0
-    },
-    {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "timestamp": 1786984724.0
-    },
-    {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "timestamp": 1786983312.0
     },
     {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
