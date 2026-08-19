@@ -1,11 +1,119 @@
 {
-  "scraped_at": "2026-08-19T18:51:56.886477+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-19T19:37:11.493428+00:00",
+  "count": 67,
   "items": [
     {
-      "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
+      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 19 Aug 2026 19:30:00 +0000",
+      "timestamp": 1787167800.0
+    },
+    {
+      "title": "Daily Reminder to Not Listen to Google's AI Overview",
+      "link": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 19:26:46 +0000",
+      "timestamp": 1787167606.0
+    },
+    {
+      "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 19:25:10 +0000",
+      "timestamp": 1787167510.0
+    },
+    {
+      "title": "Reproducible, AI-driven large scale changes",
+      "link": "https://jeanbza.github.io/ai/infrastructure/2026/08/08/ai-det-stoch.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 19:21:00 +0000",
+      "timestamp": 1787167260.0
+    },
+    {
+      "title": "Show HN: Notula – where humans edit the Markdown your AI agents read",
+      "link": "https://notula.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 19:18:54 +0000",
+      "timestamp": 1787167134.0
+    },
+    {
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 19 Aug 2026 19:11:40 +0000",
+      "timestamp": 1787166700.0
+    },
+    {
+      "title": "Internal memo: Eight execs out at Expedia Group in AI-driven shakeup",
+      "link": "https://www.geekwire.com/2026/internal-memo-eight-execs-out-at-expedia-group-in-ai-driven-shakeup/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 19:10:55 +0000",
+      "timestamp": 1787166655.0
+    },
+    {
+      "title": "Mark Zuckerberg's AI Manifesto Shows How Little the AI Future Offers",
+      "link": "https://illegal.solutions/posts/meta_future",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 19:05:15 +0000",
+      "timestamp": 1787166315.0
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "timestamp": 1787166000.0
+    },
+    {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-19T15:00:00-04:00",
+      "timestamp": 1787166000.0
+    },
+    {
+      "title": "New term in AI search: On-site live agents",
+      "link": "https://embassia.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:52:59 +0000",
+      "timestamp": 1787165579.0
+    },
+    {
+      "title": "UC Berkeley professor admits to using AI in op-ed",
+      "link": "https://www.dailycal.org/news/campus/uc-berkeley-professor-admits-to-using-ai-in-op-ed-calling-out-students-lack-of/article_be1360f7-6e2a-42f6-ae76-f05d8cee74c4.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 18:50:37 +0000",
+      "timestamp": 1787165437.0
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
       "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 19 Aug 2026 18:46:14 +0000",
@@ -138,15 +246,6 @@
       "timestamp": 1787159409.0
     },
     {
-      "title": "The Download: AI's self-improvement problem, and what's driving the heat",
-      "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 17:01:08 +0000",
-      "timestamp": 1787158868.0
-    },
-    {
       "title": "Meta AI is getting a Mac app",
       "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
       "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
@@ -154,60 +253,6 @@
       "source": "The Verge AI",
       "published": "2026-08-19T13:00:00-04:00",
       "timestamp": 1787158800.0
-    },
-    {
-      "title": "Show HN: CrewCode – Open-source Mission Control for AI coding agents",
-      "link": "https://github.com/OnPoint-Dev-Tools/crewcode",
-      "summary": "I've been experimenting heavily with coding agents and found myself managing agents more than writing code. I build CrewCode to solve that. Its an open source desktop application for running multiple AI coding agents in parallel while isolating their work with Git worktrees. Git worktrees → agent isolation → provider independence → diff review → orchestration. I'd especially appreciate feedback on the multi-agent/worktree model. I launched it on Product Hunt today and would love feedback from developers.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 16:56:22 +0000",
-      "timestamp": 1787158582.0
-    },
-    {
-      "title": "Show HN: Intelix – AI agent that investigates and resolves production incidents",
-      "link": "https://intelix.dev",
-      "summary": "Hi HN, I built Intelix, an AI incident-response agent for engineering teams. When a production incident happens, Intelix investigates it instead of simply notifying an engineer. It gathers evidence across PagerDuty, Datadog, GitHub and Kubernetes, identifies and ranks possible root causes, validates whether a recovery action is safe, and then executes the recovery. I built an interactive live demo where you can watch the agent investigate and resolve a simulated production incident in real time. Try it here: https://intelix.dev This is an early version of Intelix, currently focused on automate",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 16:56:04 +0000",
-      "timestamp": 1787158564.0
-    },
-    {
-      "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
-      "link": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 16:51:23 +0000",
-      "timestamp": 1787158283.0
-    },
-    {
-      "title": "How I Use AI to Help Me Write",
-      "link": "https://tombedor.dev/how-i-use-ai-to-help-me-write/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 16:51:02 +0000",
-      "timestamp": 1787158262.0
-    },
-    {
-      "title": "A Constitution for One: 7 months governing a personal AI agent fleet",
-      "link": "https://github.com/Chong169/a-constitution-for-one",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 16:49:38 +0000",
-      "timestamp": 1787158178.0
-    },
-    {
-      "title": "People vs. the AI Overlords",
-      "link": "https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 16:47:19 +0000",
-      "timestamp": 1787158039.0
     },
     {
       "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
@@ -417,15 +462,6 @@
       "timestamp": 1787050800.0
     },
     {
-      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-18T05:00:01-04:00",
-      "timestamp": 1787043601.0
-    },
-    {
       "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
       "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
       "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
@@ -471,24 +507,6 @@
       "timestamp": 1786983312.0
     },
     {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "timestamp": 1786979784.0
-    },
-    {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 17 Aug 2026 13:10:05 +0000",
-      "timestamp": 1786972205.0
-    },
-    {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
       "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
       "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
@@ -532,15 +550,6 @@
       "source": "Wired AI",
       "published": "Fri, 14 Aug 2026 10:15:00 +0000",
       "timestamp": 1786702500.0
-    },
-    {
-      "title": "The Safety Reckoning Inside OpenAI",
-      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 13 Aug 2026 22:37:19 +0000",
-      "timestamp": 1786660639.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
