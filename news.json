@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-19T07:53:32.292335+00:00",
+  "scraped_at": "2026-08-19T08:53:34.879799+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "The Equations of Reasoning – Pathway AI",
+      "link": "https://pathway.com/research/the-equations-of-reasoning",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 08:37:15 +0000",
+      "timestamp": 1787128635.0
+    },
+    {
+      "title": "Thoughts about Scaling Law (from Z.ai Cofounder)",
+      "link": "https://xcancel.com/jietang/status/2089941544581403107#m",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 08:24:19 +0000",
+      "timestamp": 1787127859.0
+    },
+    {
+      "title": "Show HN: AI PR reviewer built to stay quiet – 89% of merged PRs got no comments",
+      "link": "https://github.com/Kyeom1997/pr-sage",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 08:20:28 +0000",
+      "timestamp": 1787127628.0
+    },
+    {
+      "title": "The AI Revolution – History Repeating Itself – On Economics",
+      "link": "https://www.alanbonnici.com/2026/07/the-ai-revolution-history-repeating_01939218328.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 08:04:38 +0000",
+      "timestamp": 1787126678.0
+    },
+    {
+      "title": "Show HN: Veyra - Self evolving AI agent",
+      "link": "https://github.com/iondodon/veyra",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 08:02:41 +0000",
+      "timestamp": 1787126561.0
+    },
+    {
+      "title": "Yoshua Bengio, the godfather of AI, explains the risks of AI [video]",
+      "link": "https://www.youtube.com/watch?v=fvvvtbBvh6Q",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 07:59:08 +0000",
+      "timestamp": 1787126348.0
+    },
     {
       "title": "AI Marketing Stash: a directory for discovering AI marketing tools",
       "link": "https://www.aimarketingstash.com",
@@ -127,60 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 19 Aug 2026 05:26:26 +0000",
       "timestamp": 1787117186.0
-    },
-    {
-      "title": "Get feedback on your AI slop. no accounts",
-      "link": "https://slopornot.simplicated.dev",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 05:24:28 +0000",
-      "timestamp": 1787117068.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 05:17:36 +0000",
-      "timestamp": 1787116656.0
-    },
-    {
-      "title": "Looking for an ArXiv Endorser – AI / Computer Science",
-      "link": "https://github.com/paibyun9/EGA-V9",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 05:15:32 +0000",
-      "timestamp": 1787116532.0
-    },
-    {
-      "title": "AI mines 500 years of Spanish colonial records to find hidden wrecks, lost cargo",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 04:25:35 +0000",
-      "timestamp": 1787113535.0
-    },
-    {
-      "title": "Show HN: 4bit bridge between AI and humans",
-      "link": "https://github.com/YOalphabet/YOalphabet",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 04:21:26 +0000",
-      "timestamp": 1787113286.0
-    },
-    {
-      "title": "Ask HN: Are AI credits too locked to individual applications?",
-      "link": "https://news.ycombinator.com/item?id=49356667",
-      "summary": "The problem: I already had AI credits, but those credits were locked to one application. context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the deployment agent. To keep using it, I either had to wait for credits to reset or upgrade to a higher subscription or buy tokens. At the same time, I already had a subscription for the IDE, but I could not use those credits on Hostinger. simply despite having credits, we cannot use them. Is this actually a problem for other people, or is it just something that bothered me personally?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 04:08:42 +0000",
-      "timestamp": 1787112522.0
     },
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
