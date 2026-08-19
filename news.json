@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-19T07:04:31.712504+00:00",
+  "scraped_at": "2026-08-19T07:53:32.292335+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI Marketing Stash: a directory for discovering AI marketing tools",
+      "link": "https://www.aimarketingstash.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 07:39:46 +0000",
+      "timestamp": 1787125186.0
+    },
+    {
+      "title": "Show HN: Superprez.io – Sharing and Collaboration for AI-Generated Decks",
+      "link": "https://www.superprez.io",
+      "summary": "Hi HN, I've been working on Superprez.io because of something that started bothering me more and more with AI-generated presentations. Any AI like Claude, Cursor and ChatGPT can now generate surprisingly good decks — not just visually, but with animations, interactive elements, embedded products, maps, live polling, etc. But a lot of these presentations are ultimately treated like traditional presentations: export them to PDF or PPT and send them around. And that's where a lot of what makes them interesting disappears. If the presentation is actually built with HTML, CSS and JS, why turn it ba",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 07:32:03 +0000",
+      "timestamp": 1787124723.0
+    },
+    {
+      "title": "Show HN: Open-source extension to transfer AI chats without losing context",
+      "link": "https://github.com/VC067/MoveChat",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 07:30:33 +0000",
+      "timestamp": 1787124633.0
+    },
+    {
+      "title": "AI-generated candidate proof of a causal guarantee for RACE attention [pdf]",
+      "link": "https://drive.google.com/file/d/11Jh_ITQWQbM40REfNayPbS98lyk0EUTG/view?usp=drive_link",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 07:28:15 +0000",
+      "timestamp": 1787124495.0
+    },
+    {
+      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "link": "https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 07:20:47 +0000",
+      "timestamp": 1787124047.0
+    },
+    {
+      "title": "Vetted AI code is hard to justify",
+      "link": "https://amoffat.github.io/blog/vetting-burnout.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 07:16:37 +0000",
+      "timestamp": 1787123797.0
+    },
+    {
+      "title": "AI is accelerating elder fraud. Their kids are reckoning with the fallout",
+      "link": "https://www.usatoday.com/story/life/health-wellness/2026/08/18/elder-fraud-ai-sandwich-generation-caregivers/90852035007/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 07:04:09 +0000",
+      "timestamp": 1787123049.0
+    },
+    {
+      "title": "Young adults in the US are increasingly wary of AI, concerned it will take jobs",
+      "link": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 07:03:34 +0000",
+      "timestamp": 1787123014.0
+    },
+    {
+      "title": "AI's recursive self-improvement might not come so quickly after all",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 07:01:21 +0000",
+      "timestamp": 1787122881.0
+    },
     {
       "title": "Building Shared Memory for AI Agents in Notion",
       "link": "https://www.notion.com/blog/building-shared-memory-for-ai-agents-in-notion",
@@ -100,87 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 19 Aug 2026 04:08:42 +0000",
       "timestamp": 1787112522.0
-    },
-    {
-      "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
-      "link": "https://arxiv.org/abs/2608.16834",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 04:07:06 +0000",
-      "timestamp": 1787112426.0
-    },
-    {
-      "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
-      "link": "https://plugos.net/plugclaw/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 04:03:16 +0000",
-      "timestamp": 1787112196.0
-    },
-    {
-      "title": "Mathematics in the Age of AI",
-      "link": "https://arxiv.org/abs/2608.16753",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 04:01:39 +0000",
-      "timestamp": 1787112099.0
-    },
-    {
-      "title": "SERP Lens – an AI agent that does SEO work in a real browser",
-      "link": "https://serplens.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 03:55:47 +0000",
-      "timestamp": 1787111747.0
-    },
-    {
-      "title": "Explaining AI agents is like explaining 3D printers",
-      "link": "https://www.jitbit.com/alexblog/ai-agents-and-3d-printers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 03:43:32 +0000",
-      "timestamp": 1787111012.0
-    },
-    {
-      "title": "Show HN: Control AI Agents on Your Old PC at Home from Any Device Anywhere",
-      "link": "https://github.com/elin66alpha/Relay",
-      "summary": "I built Relay around a simple idea: many of us have an unused PC server at home, or a VPS dedicated to AI-assisted coding, but the coding agents running there are still tied to that machine’s terminal, I just don't want to ssh/rdp into it every single time. Relay brings Claude Code, Codex, OpenCode, and Hermes into one interface that you can access from your phone, browser, or another computer. Sessions stay alive, so you can start work on one device and continue from another. You can upload/download files from the server, also if you are on subscription, you see your quota usage with 1 click.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 03:26:59 +0000",
-      "timestamp": 1787110019.0
-    },
-    {
-      "title": "The Recursive Economy: AI Self-Improvement and Scarcity",
-      "link": "https://recursive-economy.pages.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 03:16:21 +0000",
-      "timestamp": 1787109381.0
-    },
-    {
-      "title": "Agent2Agent (A2A) joins Agentic AI Foundation (AAIF)'s open agentic stack",
-      "link": "https://aaif.io/blog/a2a-joins-aaif",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 03:05:02 +0000",
-      "timestamp": 1787108702.0
-    },
-    {
-      "title": "Will Autonomous AI Exceed AI-Aided Physicians as the Best Medical Care?",
-      "link": "https://jamanetwork.com/journals/jama/fullarticle/2852952?guestAccessKey=562af865-a038-4425-993f-ff25e5e3a130",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 02:59:52 +0000",
-      "timestamp": 1787108392.0
     },
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
