@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-19T10:44:47.635917+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-19T11:37:58.980669+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Common Mistakes I've Seen That AI-Generated Apps Keep Making",
+      "link": "https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 11:03:13 +0000",
+      "timestamp": 1787137393.0
+    },
+    {
+      "title": "Chinese Banks Start Lending Based on AI Computing-Power Usage",
+      "link": "https://www.globaltimes.cn/page/202608/1368315.shtml",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 10:51:26 +0000",
+      "timestamp": 1787136686.0
+    },
+    {
+      "title": "Confidential AI: Let AI Work for You Without Handing over Your Privacy",
+      "link": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 10:47:57 +0000",
+      "timestamp": 1787136477.0
+    },
+    {
+      "title": "Show HN: Knownbase, an MCP server for persistent AI agent memory",
+      "link": "https://knownbase.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 19 Aug 2026 10:43:04 +0000",
+      "timestamp": 1787136184.0
+    },
     {
       "title": "AI reverse-engineered my printer. I just pressed the buttons",
       "link": "https://www.panaxeo.com/blog/ai-reverse-engineered-my-printer-i-just-pressed-the-buttons",
@@ -19,15 +55,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 19 Aug 2026 10:17:25 +0000",
       "timestamp": 1787134645.0
-    },
-    {
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 19 Aug 2026 10:00:00 +0000",
-      "timestamp": 1787133600.0
     },
     {
       "title": "Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI",
@@ -154,51 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 19 Aug 2026 07:30:33 +0000",
       "timestamp": 1787124633.0
-    },
-    {
-      "title": "AI-generated candidate proof of a causal guarantee for RACE attention [pdf]",
-      "link": "https://drive.google.com/file/d/11Jh_ITQWQbM40REfNayPbS98lyk0EUTG/view?usp=drive_link",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 07:28:15 +0000",
-      "timestamp": 1787124495.0
-    },
-    {
-      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
-      "link": "https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 07:20:47 +0000",
-      "timestamp": 1787124047.0
-    },
-    {
-      "title": "Vetted AI code is hard to justify",
-      "link": "https://amoffat.github.io/blog/vetting-burnout.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 07:16:37 +0000",
-      "timestamp": 1787123797.0
-    },
-    {
-      "title": "AI is accelerating elder fraud. Their kids are reckoning with the fallout",
-      "link": "https://www.usatoday.com/story/life/health-wellness/2026/08/18/elder-fraud-ai-sandwich-generation-caregivers/90852035007/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 07:04:09 +0000",
-      "timestamp": 1787123049.0
-    },
-    {
-      "title": "Young adults in the US are increasingly wary of AI, concerned it will take jobs",
-      "link": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 07:03:34 +0000",
-      "timestamp": 1787123014.0
     },
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -478,6 +460,15 @@
       "source": "TechCrunch AI",
       "published": "Sat, 15 Aug 2026 16:30:00 +0000",
       "timestamp": 1786811400.0
+    },
+    {
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 15 Aug 2026 16:10:00 +0000",
+      "timestamp": 1786810200.0
     },
     {
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
