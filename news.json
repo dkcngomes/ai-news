@@ -1,7 +1,25 @@
 {
-  "scraped_at": "2026-08-20T03:09:23.980816+00:00",
+  "scraped_at": "2026-08-20T03:57:06.257000+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Do We Still Need Database Management Tools When AI Can Write SQL?",
+      "link": "http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 03:24:31 +0000",
+      "timestamp": 1787196271.0
+    },
+    {
+      "title": "Show HN: AI agents can now safely write to your CRMs",
+      "link": "https://www.archron.app/",
+      "summary": "Hi HN! Just wanted to share that I've built Archron - Execution governance for AI in business. It allows agents to safely write to CRMs(starting from Salesforce and hubspot) while maintaining immutable audit logs. Demo: https://youtu.be/uUTWGwJjpdA Would love to hear your thoughts about this and feedback. We are offering 3 months free to test it in your business workflow. Feel free to reach out: rjimena@archron.app",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 03:17:08 +0000",
+      "timestamp": 1787195828.0
+    },
     {
       "title": "Does anyone find AI code review useful?",
       "link": "https://news.ycombinator.com/item?id=49369710",
@@ -183,15 +201,6 @@
       "timestamp": 1787177446.0
     },
     {
-      "title": "Node.js AI use policy and guidelines",
-      "link": "https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 22:03:24 +0000",
-      "timestamp": 1787177004.0
-    },
-    {
       "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
       "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
       "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
@@ -199,15 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 19 Aug 2026 21:51:23 +0000",
       "timestamp": 1787176283.0
-    },
-    {
-      "title": "Vibe-Kanban-Alternative – Classic AI agent Kanban with mem0 persistent memory",
-      "link": "https://github.com/flashlan/vibe-kanban-alternative",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 21:38:25 +0000",
-      "timestamp": 1787175505.0
     },
     {
       "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
