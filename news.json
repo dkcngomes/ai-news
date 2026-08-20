@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-20T05:45:15.601007+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-20T07:05:04.138806+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Show HN: Do-over, undo for AI agent shell commands",
+      "link": "https://github.com/CaydenChik/doover",
+      "summary": "Hello HN, I built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code's hooks and snapshots what a command is about to touch right before it runs. I know what you're thinking. Why don't you just commit more often? This tool doesn't seek to replace git. What it does is: [1] Protect the stuff git doesn't protect: your untracked/ignored files and files that exist outside your repo (which is how a guy lost 50GB of data - Claude code issue tracker) [2] Protects you when git itself is weaponized by your agent: git checkout ., git clean -fd, and git rese",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 06:42:36 +0000",
+      "timestamp": 1787208156.0
+    },
+    {
+      "title": "AI is changing how we code. Is this positive?",
+      "link": "https://news.ycombinator.com/item?id=49371169",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 06:37:14 +0000",
+      "timestamp": 1787207834.0
+    },
+    {
+      "title": "Ask HN: When will the AI bubble burst and eradicate all life in the planet?",
+      "link": "https://news.ycombinator.com/item?id=49371163",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 06:36:56 +0000",
+      "timestamp": 1787207816.0
+    },
+    {
+      "title": "AI Is Changing How We Hac",
+      "link": "https://news.ycombinator.com/item?id=49371156",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 06:36:18 +0000",
+      "timestamp": 1787207778.0
+    },
     {
       "title": "Crypto's (and AI's) midterm PAC machine",
       "link": "https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044",
@@ -145,51 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 19 Aug 2026 23:03:53 +0000",
       "timestamp": 1787180633.0
-    },
-    {
-      "title": "Jason Kelce pleads with NFL fans to send urine to AI data centers",
-      "link": "https://www.themirror.com/sport/american-football/jason-kelce-pee-garage-beers-1989324",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 22:58:44 +0000",
-      "timestamp": 1787180324.0
-    },
-    {
-      "title": "I had to unplug from AI to rediscover my love of writing",
-      "link": "https://www.science.org/content/article/i-had-unplug-ai-rediscover-my-love-writing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 22:51:20 +0000",
-      "timestamp": 1787179880.0
-    },
-    {
-      "title": "Dear researchers: Is AI all you've got?",
-      "link": "https://austinhenley.com/blog/dearresearchers.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 22:47:04 +0000",
-      "timestamp": 1787179624.0
-    },
-    {
-      "title": "Semantica, the Open Source Palantir for AI Agents",
-      "link": "https://github.com/semantica-agi/semantica",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 22:28:48 +0000",
-      "timestamp": 1787178528.0
-    },
-    {
-      "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
-      "link": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 19 Aug 2026 22:20:14 +0000",
-      "timestamp": 1787178014.0
     },
     {
       "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
