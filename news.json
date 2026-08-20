@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-20T10:45:49.033591+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-20T11:40:44.368601+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "Show HN: Try Sequo to manage your AI context",
+      "link": "https://sequo.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 11:20:20 +0000",
+      "timestamp": 1787224820.0
+    },
+    {
+      "title": "The first AI agents hire human to ship ugc videos for you",
+      "link": "https://klaylab.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 11:19:22 +0000",
+      "timestamp": 1787224762.0
+    },
+    {
+      "title": "DDD matters more when AI writes your code",
+      "link": "https://threedots.tech/post/ddd-and-ai-coding/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 11:12:28 +0000",
+      "timestamp": 1787224348.0
+    },
+    {
+      "title": "How to Outsmart AI When It's Tracking Your Workday",
+      "link": "https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 10:49:39 +0000",
+      "timestamp": 1787222979.0
+    },
+    {
+      "title": "AI fired an S.F. store employee. Will California crack down on 'robobosses'?",
+      "link": "https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 10:39:04 +0000",
+      "timestamp": 1787222344.0
+    },
+    {
+      "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
+      "link": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 10:36:14 +0000",
+      "timestamp": 1787222174.0
+    },
+    {
+      "title": "Don't paste the AI, please (angry way)",
+      "link": "https://dontpastetheai.com/angry/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 10:35:03 +0000",
+      "timestamp": 1787222103.0
+    },
     {
       "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
       "link": "http://taubench.com/leaderboard/",
@@ -127,60 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Thu, 20 Aug 2026 08:20:44 +0000",
       "timestamp": 1787214044.0
-    },
-    {
-      "title": "AI Influence Level (Ail) v1.0",
-      "link": "https://danielmiessler.com/blog/ai-influence-level-ail",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 08:16:00 +0000",
-      "timestamp": 1787213760.0
-    },
-    {
-      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-      "link": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 08:14:36 +0000",
-      "timestamp": 1787213676.0
-    },
-    {
-      "title": "A perfect example of concept entanglement in generative AI",
-      "link": "https://martinanderson.ai/blog/entanglement-in-ai-generation-veronica-carlson-hair.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 08:14:10 +0000",
-      "timestamp": 1787213650.0
-    },
-    {
-      "title": "Florida police officer accused of using Flock AI cameras",
-      "link": "https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 07:39:22 +0000",
-      "timestamp": 1787211562.0
-    },
-    {
-      "title": "It used to be our imperfect bodies that made us insecure. With AI, its our minds",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 07:30:25 +0000",
-      "timestamp": 1787211025.0
-    },
-    {
-      "title": "Show HN: Do-over, undo for AI agent shell commands",
-      "link": "https://github.com/CaydenChik/doover",
-      "summary": "Hello HN, I built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code's hooks and snapshots what a command is about to touch right before it runs. I know what you're thinking. Why don't you just commit more often? This tool doesn't seek to replace git. What it does is: [1] Protect the stuff git doesn't protect: your untracked/ignored files and files that exist outside your repo (which is how a guy lost 50GB of data - Claude code issue tracker) [2] Protects you when git itself is weaponized by your agent: git checkout ., git clean -fd, and git rese",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 06:42:36 +0000",
-      "timestamp": 1787208156.0
     },
     {
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
