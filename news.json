@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-20T09:49:25.240149+00:00",
+  "scraped_at": "2026-08-20T10:45:49.033591+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
+      "link": "http://taubench.com/leaderboard/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 10:24:06 +0000",
+      "timestamp": 1787221446.0
+    },
+    {
+      "title": "Structural Predictions for the AI Era",
+      "link": "https://www.newnex.io/news/12-structural-predictions-for-the-ai-era-ai-object-framework-aof",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 10:20:39 +0000",
+      "timestamp": 1787221239.0
+    },
+    {
+      "title": "Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit",
+      "link": "https://cyberupdates365.com/splunk-mcp-server-rce-patch/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 10:10:49 +0000",
+      "timestamp": 1787220649.0
+    },
+    {
+      "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 10:06:55 +0000",
+      "timestamp": 1787220415.0
+    },
+    {
+      "title": "AI is entertainment's scarlet letter",
+      "link": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 09:52:48 +0000",
+      "timestamp": 1787219568.0
+    },
+    {
+      "title": "Show HN: Data enrichment with AI for Pandas DataFrame",
+      "link": "https://github.com/mljar/enrichment",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 09:48:41 +0000",
+      "timestamp": 1787219321.0
+    },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
       "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
@@ -127,60 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Thu, 20 Aug 2026 06:42:36 +0000",
       "timestamp": 1787208156.0
-    },
-    {
-      "title": "AI is changing how we code. Is this positive?",
-      "link": "https://news.ycombinator.com/item?id=49371169",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 06:37:14 +0000",
-      "timestamp": 1787207834.0
-    },
-    {
-      "title": "Ask HN: When will the AI bubble burst and eradicate all life in the planet?",
-      "link": "https://news.ycombinator.com/item?id=49371163",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 06:36:56 +0000",
-      "timestamp": 1787207816.0
-    },
-    {
-      "title": "AI Is Changing How We Hac",
-      "link": "https://news.ycombinator.com/item?id=49371156",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 06:36:18 +0000",
-      "timestamp": 1787207778.0
-    },
-    {
-      "title": "Crypto's (and AI's) midterm PAC machine",
-      "link": "https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 03:58:56 +0000",
-      "timestamp": 1787198336.0
-    },
-    {
-      "title": "Do We Still Need Database Management Tools When AI Can Write SQL?",
-      "link": "http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 03:24:31 +0000",
-      "timestamp": 1787196271.0
-    },
-    {
-      "title": "Show HN: AI agents can now safely write to your CRMs",
-      "link": "https://www.archron.app/",
-      "summary": "Hi HN! Just wanted to share that I've built Archron - Execution governance for AI in business. It allows agents to safely write to CRMs(starting from Salesforce and hubspot) while maintaining immutable audit logs. Demo: https://youtu.be/uUTWGwJjpdA Would love to hear your thoughts about this and feedback. We are offering 3 months free to test it in your business workflow. Feel free to reach out: rjimena@archron.app",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 03:17:08 +0000",
-      "timestamp": 1787195828.0
     },
     {
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
