@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-20T22:43:51.074963+00:00",
+  "scraped_at": "2026-08-20T23:38:25.369672+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Show HN: AI tools with real pricing, submitted in 30 seconds",
+      "link": "https://worthtotry.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 23:13:26 +0000",
+      "timestamp": 1787267606.0
+    },
+    {
+      "title": "AI #182: Pause for Reflection",
+      "link": "https://thezvi.substack.com/p/ai-182-pause-for-reflection",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 23:10:13 +0000",
+      "timestamp": 1787267413.0
+    },
+    {
+      "title": "BTP v2.2 – An open, offline cryptographic trust protocol for AI agents",
+      "link": "https://github.com/ivegotahunnitonit/bartholomew",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 23:08:46 +0000",
+      "timestamp": 1787267326.0
+    },
+    {
+      "title": "OpenCyvis: An open-source AI phone agent that runs your own LLM",
+      "link": "https://github.com/opencyvis/opencyvis-phone",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 22:57:56 +0000",
+      "timestamp": 1787266676.0
+    },
+    {
+      "title": "Intelligent AI Delegation",
+      "link": "https://arxiv.org/abs/2602.11865",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 22:54:06 +0000",
+      "timestamp": 1787266446.0
+    },
     {
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
       "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
@@ -165,24 +210,6 @@
       "timestamp": 1787259646.0
     },
     {
-      "title": "Show HN: Molecule.dev is an AI-first composable package ecosystem",
-      "link": "https://github.com/molecule-dev/molecule",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:00:07 +0000",
-      "timestamp": 1787259607.0
-    },
-    {
-      "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 20:55:29 +0000",
-      "timestamp": 1787259329.0
-    },
-    {
       "title": "OK, can we actually cool data centers with our pee?",
       "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
       "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
@@ -190,33 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 20 Aug 2026 20:53:13 +0000",
       "timestamp": 1787259193.0
-    },
-    {
-      "title": "The crisis of AI-generated mathematics",
-      "link": "https://arxiv.org/abs/2608.02859",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 20:47:32 +0000",
-      "timestamp": 1787258852.0
-    },
-    {
-      "title": "The Three AI Pills",
-      "link": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 20:47:22 +0000",
-      "timestamp": 1787258842.0
-    },
-    {
-      "title": "Namo_complete: A non-obtrusive AI autocomplete for your Bash terminal",
-      "link": "https://github.com/namo-robotics/namo_complete",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 20:46:54 +0000",
-      "timestamp": 1787258814.0
     },
     {
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
