@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-20T21:41:59.316308+00:00",
+  "scraped_at": "2026-08-20T22:43:51.074963+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 20 Aug 2026 22:36:37 +0000",
+      "timestamp": 1787265397.0
+    },
+    {
+      "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
+      "link": "https://rails-agent.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 22:23:16 +0000",
+      "timestamp": 1787264596.0
+    },
+    {
+      "title": "Results from the Backblaze Generative AI Media Hackathon",
+      "link": "https://www.backblaze.com/blog/results-from-the-backblaze-generative-ai-media-hackathon/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 22:20:53 +0000",
+      "timestamp": 1787264453.0
+    },
+    {
+      "title": "Why the Future of AI Belongs to Systems That Can Self-Learn",
+      "link": "https://medium.com/@vektormemory/the-case-for-agent-memory-why-the-future-of-ai-belongs-to-systems-that-can-self-learn-198c4d7bfa6f",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 22:17:42 +0000",
+      "timestamp": 1787264262.0
+    },
+    {
+      "title": "Show HN: Zero () friction local AI for Mac",
+      "link": "https://www.basecompute.co/local",
+      "summary": "Super excited to launch our new app Local today. What we’ve learned at Base Compute over the last months is that running AI directly on your laptop or workstation gives you maximum privacy and it’s free, but it’s also a massive headache to configure. So we’ve decided what matters is making the experience completely frictionless for users. Local analyses the hardware of your laptop, optimises the AI for it, and recommends the best models for your specific device. It let’s you do what you’re doing with cloud AI already, just for free and on your own machine: Chatting with PDF’s, Recording and su",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 22:13:31 +0000",
+      "timestamp": 1787264011.0
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 20 Aug 2026 22:09:51 +0000",
+      "timestamp": 1787263791.0
+    },
+    {
+      "title": "Browser automation agents with Pydantic AI and Playwright",
+      "link": "http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 22:02:45 +0000",
+      "timestamp": 1787263365.0
+    },
+    {
+      "title": "I published 8 months of frontier-AI research, code, emails, and timestamps",
+      "link": "https://zenodo.org/records/21969180",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:54:22 +0000",
+      "timestamp": 1787262862.0
+    },
+    {
+      "title": "Protesters haul a guillotine to city council meeting about an AI data center",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:53:37 +0000",
+      "timestamp": 1787262817.0
+    },
+    {
+      "title": "Can influencers post AI ads without alienating their fans?",
+      "link": "https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:51:31 +0000",
+      "timestamp": 1787262691.0
+    },
+    {
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-20T17:50:22-04:00",
+      "timestamp": 1787262622.0
+    },
+    {
+      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:49:53 +0000",
+      "timestamp": 1787262593.0
+    },
     {
       "title": "Iceland cuts store losses by 80% with AI-powered theft detection",
       "link": "https://www.retailgazette.co.uk/blog/2026/08/iceland-cuts-store-losses-by-80-with-ai-powered-theft-detection/",
@@ -75,9 +183,9 @@
       "timestamp": 1787259329.0
     },
     {
-      "title": "Ok, can we actually cool data centers with our pee?",
+      "title": "OK, can we actually cool data centers with our pee?",
       "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 20 Aug 2026 20:53:13 +0000",
@@ -109,87 +217,6 @@
       "source": "Hacker News (AI)",
       "published": "Thu, 20 Aug 2026 20:46:54 +0000",
       "timestamp": 1787258814.0
-    },
-    {
-      "title": "BC Tribunal: Companies Liable for Information Provided by AI Chatbot (2024)",
-      "link": "https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-february/bc-tribunal-confirms-companies-remain-liable-information-provided-ai-chatbot/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 20:33:09 +0000",
-      "timestamp": 1787257989.0
-    },
-    {
-      "title": "Creating Reliable AI for an Adversarial World",
-      "link": "https://gertlabs.com/blog/adversarial-customer-service",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 20:30:36 +0000",
-      "timestamp": 1787257836.0
-    },
-    {
-      "title": "AI-Driven Development Means Test-Driven Development",
-      "link": "https://meiert.com/blog/ai-and-tdd/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 20:13:47 +0000",
-      "timestamp": 1787256827.0
-    },
-    {
-      "title": "Why.com: A $17K domain held for 27 years becomes an AI curiosity engine",
-      "link": "https://www.inc.com/sam-blum/the-17000-domain-that-could-be-worth-70-million-just-became-an-ai-chatbot-instead-people-are-asking-why/91393038",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 20:12:07 +0000",
-      "timestamp": 1787256727.0
-    },
-    {
-      "title": "System prompts are an archive of how we use AI",
-      "link": "https://salable.substack.com/p/system-prompts-are-an-archive-of",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 20:09:47 +0000",
-      "timestamp": 1787256587.0
-    },
-    {
-      "title": "Staggering 90% of biomedical papers now show signs of AI help",
-      "link": "https://www.nature.com/articles/d41586-026-02551-z",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 20:07:06 +0000",
-      "timestamp": 1787256426.0
-    },
-    {
-      "title": "Use the OSS, Commit Back – OAVL – The Open Source AI Viability License",
-      "link": "https://github.com/kenm47/oavl",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 19:56:30 +0000",
-      "timestamp": 1787255790.0
-    },
-    {
-      "title": "Introducing AI Futures",
-      "link": "https://openai.com/index/introducing-ai-futures/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 19:46:49 +0000",
-      "timestamp": 1787255209.0
-    },
-    {
-      "title": "AI-Native Services: The Definitive Guide",
-      "link": "https://www.emcap.com/ai-native-services",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 19:40:55 +0000",
-      "timestamp": 1787254855.0
     },
     {
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
@@ -426,24 +453,6 @@
       "timestamp": 1787157847.0
     },
     {
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 19 Aug 2026 15:44:53 +0000",
-      "timestamp": 1787154293.0
-    },
-    {
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 19 Aug 2026 15:00:00 +0000",
-      "timestamp": 1787151600.0
-    },
-    {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technica",
@@ -496,15 +505,6 @@
       "source": "Wired AI",
       "published": "Tue, 18 Aug 2026 18:33:11 +0000",
       "timestamp": 1787077991.0
-    },
-    {
-      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-18T09:00:00-04:00",
-      "timestamp": 1787058000.0
     },
     {
       "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
