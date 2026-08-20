@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-20T16:49:45.739935+00:00",
+  "scraped_at": "2026-08-20T17:44:03.779311+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Grok keeps sending gibberish responses to users",
+      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "summary": "Affected users told TechCrunch say they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 20 Aug 2026 17:32:16 +0000",
+      "timestamp": 1787247136.0
+    },
+    {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 20 Aug 2026 17:18:58 +0000",
+      "timestamp": 1787246338.0
+    },
+    {
+      "title": "Show HN: Validate your idea with AI before you build it",
+      "link": "https://foundera.app/",
+      "summary": "Most people are not validating their ideas before start building it! I am a 5th time tech founder, gaming included and I built & managed startup accelerator programs. I know lot of things about early stage founders and their pains as I have been there. That is why I am building Foundera. It’s an AI-Native Accelerator for tech builders. Today the problem is; most of the AI coding tools opens with a chat and asking “type your idea and start building”. This is wrong! I want to reduce the time and money spent on ideas that nobody asked for. Try it at https://foundera.app and give me your feedback ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 17:16:07 +0000",
+      "timestamp": 1787246167.0
+    },
+    {
+      "title": "How Persona AI Makes Humanoids Pay Off in Welding",
+      "link": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 17:08:30 +0000",
+      "timestamp": 1787245710.0
+    },
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 17:02:21 +0000",
+      "timestamp": 1787245341.0
+    },
+    {
+      "title": "The Women in China choosing AI boyfriends over human men",
+      "link": "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 16:58:44 +0000",
+      "timestamp": 1787245124.0
+    },
+    {
+      "title": "AI at Home Part 2: Multi-GPU Drifting",
+      "link": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 16:53:55 +0000",
+      "timestamp": 1787244835.0
+    },
+    {
+      "title": "Japan to require AI firms to disclose training data",
+      "link": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 16:50:46 +0000",
+      "timestamp": 1787244646.0
+    },
+    {
+      "title": "Show HN: Future Crew's 1993 Second Reality, rebuilt by AI agents, no emulation",
+      "link": "https://www.secondreality1993.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 16:46:48 +0000",
+      "timestamp": 1787244408.0
+    },
     {
       "title": "Ramp launches its own AI model router, called Router",
       "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
@@ -10,6 +91,24 @@
       "source": "TechCrunch AI",
       "published": "Thu, 20 Aug 2026 16:46:00 +0000",
       "timestamp": 1787244360.0
+    },
+    {
+      "title": "AI Agent Governance – a free book on AI Agent evaluation and governance",
+      "link": "https://www.proofagent.ai/book",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 16:42:20 +0000",
+      "timestamp": 1787244140.0
+    },
+    {
+      "title": "Show HN: Building Table Canon, an AI Campaign Memory Engine for TTRPGs",
+      "link": "https://tablecanon.app/",
+      "summary": "Hey HN! I built Table Canon to solve a problem my playgroup kept running into: 3-4 hour tabletop gaming sessions leave behind massive audio recordings, but standard meeting note-takers treat every session as an isolated island, butcher fantasy terms, and don't know who is speaking. I wanted an engine that tracks long-term state across months of games, so I built a pipeline to extract entity updates, open quest hooks, and character promises across sessions. The Tech Stack: * Transcription: whisper-large-v3-turbo * Diarization: pyannote for speaker embeddings & voice profile matching Extraction ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 16:40:43 +0000",
+      "timestamp": 1787244043.0
     },
     {
       "title": "Ask HN: When AI models use harnesses who liable between model/harness/user?",
@@ -138,69 +237,6 @@
       "timestamp": 1787238413.0
     },
     {
-      "title": "Code Factories Without Quality: The AI Development Blind Spot",
-      "link": "https://www.qawolf.com/blog/code-factories-without-quality",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 14:39:10 +0000",
-      "timestamp": 1787236750.0
-    },
-    {
-      "title": "I built AI tool to find the right VCs and it saved me weeks",
-      "link": "https://seedstr.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 14:27:42 +0000",
-      "timestamp": 1787236062.0
-    },
-    {
-      "title": "Passage AI: an AI trip planner that turns into a live guide when you land",
-      "link": "https://mypassage.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 14:25:01 +0000",
-      "timestamp": 1787235901.0
-    },
-    {
-      "title": "Using Genius AI Models for Important Things: Cheating at NetHack",
-      "link": "https://josephthacker.com/hacking/2026/08/20/using-genius-hacking-models-for-important-things.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 14:22:17 +0000",
-      "timestamp": 1787235737.0
-    },
-    {
-      "title": "SEO Skills AI – Universal Open-Source SEO Agent for Claude, Cursor, Windsurf",
-      "link": "https://github.com/seoskillsai/seo-skills-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 14:11:51 +0000",
-      "timestamp": 1787235111.0
-    },
-    {
-      "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
-      "link": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 14:05:13 +0000",
-      "timestamp": 1787234713.0
-    },
-    {
-      "title": "A registry and transparency log for discovering and verifying AI agents by name",
-      "link": "https://github.com/agentnameservice",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 14:03:42 +0000",
-      "timestamp": 1787234622.0
-    },
-    {
       "title": "Welcome to the AI crisis in math",
       "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
       "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
@@ -208,24 +244,6 @@
       "source": "The Verge AI",
       "published": "2026-08-20T10:00:00-04:00",
       "timestamp": 1787234400.0
-    },
-    {
-      "title": "Texas student blew the whistle on a rogue AI hacking attempt",
-      "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 13:49:00 +0000",
-      "timestamp": 1787233740.0
-    },
-    {
-      "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
-      "link": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 13:46:48 +0000",
-      "timestamp": 1787233608.0
     },
     {
       "title": "Meta AI’s new Mac app wants you to talk to your apps",
@@ -469,24 +487,6 @@
       "source": "Wired AI",
       "published": "Tue, 18 Aug 2026 18:33:11 +0000",
       "timestamp": 1787077991.0
-    },
-    {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "timestamp": 1787076000.0
-    },
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 18 Aug 2026 17:21:58 +0000",
-      "timestamp": 1787073718.0
     },
     {
       "title": "Firefox&#8217;s Smart Window promises a better AI browser",
