@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-20T11:40:44.368601+00:00",
+  "scraped_at": "2026-08-20T13:10:16.194495+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Idea to reduce AI token use at large orgs",
+      "link": "https://news.ycombinator.com/item?id=49373930",
+      "summary": "There must be many near-identical repeats of high-token tasks. Perhaps for high-token tasks, first an automated search of prior work within the firm, parsing what's already done or not done, and only prompting AI for the new components, then assembling the components before serving to the user. If lengthy components were already done. the overall output might be faster. Is this an add-on to OpenRouter, or standaloone?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 12:50:10 +0000",
+      "timestamp": 1787230210.0
+    },
+    {
+      "title": "GOP issues stark warning to AI companies",
+      "link": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 12:44:49 +0000",
+      "timestamp": 1787229889.0
+    },
+    {
+      "title": "LinkedIn cracks down on automated content with AI detection button",
+      "link": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 12:42:42 +0000",
+      "timestamp": 1787229762.0
+    },
+    {
+      "title": "Financial Times: AI hasn't gone rogue. It's worse than that",
+      "link": "https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 12:34:21 +0000",
+      "timestamp": 1787229261.0
+    },
+    {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 20 Aug 2026 12:11:57 +0000",
+      "timestamp": 1787227917.0
+    },
+    {
+      "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
+      "link": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 12:07:07 +0000",
+      "timestamp": 1787227627.0
+    },
+    {
+      "title": "Google's AI photoscanner can determine body fat through selfies",
+      "link": "https://arxiv.org/abs/2603.27017",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 12:06:37 +0000",
+      "timestamp": 1787227597.0
+    },
+    {
+      "title": "Ask HN: What AI automations have you kept running in production?",
+      "link": "https://news.ycombinator.com/item?id=49373445",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 12:03:31 +0000",
+      "timestamp": 1787227411.0
+    },
+    {
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-20T08:00:00-04:00",
+      "timestamp": 1787227200.0
+    },
+    {
+      "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
+      "link": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 11:52:42 +0000",
+      "timestamp": 1787226762.0
+    },
+    {
+      "title": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
+      "link": "https://billiondollartweets.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 11:49:24 +0000",
+      "timestamp": 1787226564.0
+    },
+    {
+      "title": "AI didn't erase the junior engineer's value, it increased it it",
+      "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 11:42:20 +0000",
+      "timestamp": 1787226140.0
+    },
     {
       "title": "Show HN: Try Sequo to manage your AI context",
       "link": "https://sequo.app",
@@ -93,33 +201,6 @@
       "timestamp": 1787220649.0
     },
     {
-      "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 10:06:55 +0000",
-      "timestamp": 1787220415.0
-    },
-    {
-      "title": "AI is entertainment's scarlet letter",
-      "link": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 09:52:48 +0000",
-      "timestamp": 1787219568.0
-    },
-    {
-      "title": "Show HN: Data enrichment with AI for Pandas DataFrame",
-      "link": "https://github.com/mljar/enrichment",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 09:48:41 +0000",
-      "timestamp": 1787219321.0
-    },
-    {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
       "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
       "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
@@ -127,69 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 20 Aug 2026 09:30:00 +0000",
       "timestamp": 1787218200.0
-    },
-    {
-      "title": "Nutrition standards for AI-designed foods across borders",
-      "link": "https://www.worldsolve.org/?view=problem&id=5047",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 09:13:06 +0000",
-      "timestamp": 1787217186.0
-    },
-    {
-      "title": "Show HN: Editor UI toolkit for building AI writing workflows",
-      "link": "https://imperavi.com/redactor/ai-assistant/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 09:09:31 +0000",
-      "timestamp": 1787216971.0
-    },
-    {
-      "title": "Show HN: Worldarchitect.ai – AI TTRPG GM with rules and campaign sharing",
-      "link": "https://worldarchitect.ai/shared/t3hKKtzBKCKlvg5vCnlW_2hxwH3UmzjFq56yi6hQN2Q",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 09:03:45 +0000",
-      "timestamp": 1787216625.0
-    },
-    {
-      "title": "A proposed browser standard for provider-agnostic AI inference",
-      "link": "https://github.com/SamSamskies/inference-provider-api",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 09:00:50 +0000",
-      "timestamp": 1787216450.0
-    },
-    {
-      "title": "At Beijing AI-themed bar, DeepSeek tokens come with the pints",
-      "link": "https://www.reuters.com/world/asia-pacific/beijing-ai-themed-bar-deepseek-tokens-come-with-pints-2026-08-17/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 08:51:39 +0000",
-      "timestamp": 1787215899.0
-    },
-    {
-      "title": "AI Coding Agents Adoption Trends",
-      "link": "https://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 08:40:25 +0000",
-      "timestamp": 1787215225.0
-    },
-    {
-      "title": "Don't Paste the AI, please",
-      "link": "https://dontpastetheai.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 08:20:44 +0000",
-      "timestamp": 1787214044.0
     },
     {
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
@@ -453,15 +471,6 @@
       "timestamp": 1787061030.0
     },
     {
-      "title": "Perplexity’s free AI offer left it with millions more users in India",
-      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 18 Aug 2026 13:45:40 +0000",
-      "timestamp": 1787060740.0
-    },
-    {
       "title": "Firefox&#8217;s Smart Window promises a better AI browser",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
       "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]",
@@ -483,15 +492,6 @@
       "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
       "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
       "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-18T07:00:00-04:00",
-      "timestamp": 1787050800.0
-    },
-    {
-      "title": "ChatGPT is getting a dedicated mode for teens",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens [&#8230;]",
       "image": null,
       "source": "The Verge AI",
       "published": "2026-08-18T07:00:00-04:00",
