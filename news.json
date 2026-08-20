@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-20T20:44:58.362017+00:00",
+  "scraped_at": "2026-08-20T21:41:59.316308+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Iceland cuts store losses by 80% with AI-powered theft detection",
+      "link": "https://www.retailgazette.co.uk/blog/2026/08/iceland-cuts-store-losses-by-80-with-ai-powered-theft-detection/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:28:24 +0000",
+      "timestamp": 1787261304.0
+    },
+    {
+      "title": "Go updates may delight diehard gophers but displease AI overlords",
+      "link": "https://www.theregister.com/devops/2026/08/20/go-updates-may-delight-diehard-gophers-but-displease-ai-overlords/5290643",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:25:20 +0000",
+      "timestamp": 1787261120.0
+    },
+    {
+      "title": "The Threat of AI to Media Archives",
+      "link": "https://ebird.org/news/threat-of-ai-to-archives",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:13:20 +0000",
+      "timestamp": 1787260400.0
+    },
+    {
+      "title": "How to Destroy AI Scam Phone Calls (Short Video)",
+      "link": "https://www.youtube.com/shorts/aa0v-24EFy0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:08:49 +0000",
+      "timestamp": 1787260129.0
+    },
+    {
+      "title": "AI Is Revolutionizing Strategic Decision-Making",
+      "link": "https://hbr.org/2026/09/ai-is-revolutionizing-strategic-decision-making",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:05:30 +0000",
+      "timestamp": 1787259930.0
+    },
+    {
+      "title": "We published 421 AI-written articles in five months. They earned 10 clicks",
+      "link": "https://blog.marketingsohigh.com/421-ai-articles-10-clicks-what-the-data-showed/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:00:46 +0000",
+      "timestamp": 1787259646.0
+    },
+    {
+      "title": "Show HN: Molecule.dev is an AI-first composable package ecosystem",
+      "link": "https://github.com/molecule-dev/molecule",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 21:00:07 +0000",
+      "timestamp": 1787259607.0
+    },
+    {
+      "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 20:55:29 +0000",
+      "timestamp": 1787259329.0
+    },
+    {
+      "title": "Ok, can we actually cool data centers with our pee?",
+      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 20 Aug 2026 20:53:13 +0000",
+      "timestamp": 1787259193.0
+    },
+    {
+      "title": "The crisis of AI-generated mathematics",
+      "link": "https://arxiv.org/abs/2608.02859",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 20:47:32 +0000",
+      "timestamp": 1787258852.0
+    },
+    {
+      "title": "The Three AI Pills",
+      "link": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 20:47:22 +0000",
+      "timestamp": 1787258842.0
+    },
+    {
+      "title": "Namo_complete: A non-obtrusive AI autocomplete for your Bash terminal",
+      "link": "https://github.com/namo-robotics/namo_complete",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 20:46:54 +0000",
+      "timestamp": 1787258814.0
+    },
     {
       "title": "BC Tribunal: Companies Liable for Information Provided by AI Chatbot (2024)",
       "link": "https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-february/bc-tribunal-confirms-companies-remain-liable-information-provided-ai-chatbot/",
@@ -84,33 +192,6 @@
       "timestamp": 1787254855.0
     },
     {
-      "title": "WooblaDub: AI dubbing that preserves the original picture, music and ambience",
-      "link": "https://woobladub.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 19:34:32 +0000",
-      "timestamp": 1787254472.0
-    },
-    {
-      "title": "With Val Kilmer's AI Twin, Is Gen AI Forcing Hollywood to the Edge?",
-      "link": "https://www.akamai.com/blog/cloud/val-kilmer-ai-twin-gen-ai-forcing-hollywood-edge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 19:33:09 +0000",
-      "timestamp": 1787254389.0
-    },
-    {
-      "title": "Is AI Entering Its NFT Era?",
-      "link": "https://aboard.com/is-ai-entering-its-nft-era/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 19:30:06 +0000",
-      "timestamp": 1787254206.0
-    },
-    {
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
       "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
       "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
@@ -118,24 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 20 Aug 2026 19:18:21 +0000",
       "timestamp": 1787253501.0
-    },
-    {
-      "title": "Show HN: Meridian(PH #1) – Automatic AI Workjournal for Devs",
-      "link": "https://github.com/Meridiona/meridian",
-      "summary": "Meridian is an open-source, local-first work journal for developers. It reconstructs your day from on-screen activity and turns it into daily summaries, standups, time reports, and draft project ticket updates. The goal is to reduce the time spent manually reconstructing unplanned work and writing status updates. Activity is stored in an encrypted database on your machine, and generated updates remain drafts until you review them. Meridian is MIT-licensed and currently supports integrations with Jira, Linear, GitHub, and Azure DevOps.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 19:16:48 +0000",
-      "timestamp": 1787253408.0
-    },
-    {
-      "title": "The poets trying to give AI taste",
-      "link": "https://www.newstatesman.com/the-weekend-report/2026/08/the-poets-trying-to-give-ai-taste",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 19:16:39 +0000",
-      "timestamp": 1787253399.0
     },
     {
       "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
@@ -147,51 +210,6 @@
       "timestamp": 1787253305.0
     },
     {
-      "title": "Study reveals that almost 40% of music released globally in July 2026 used AI",
-      "link": "https://www.euronews.com/culture/2026/08/20/alarming-study-reveals-that-almost-40-per-cent-of-music-released-globally-in-july-2026-use",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 19:15:02 +0000",
-      "timestamp": 1787253302.0
-    },
-    {
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "link": "https://www.danielvaughn.dev/posts/huzzah/",
-      "summary": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself. I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this intera",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 19:05:36 +0000",
-      "timestamp": 1787252736.0
-    },
-    {
-      "title": "OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face",
-      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 18:58:25 +0000",
-      "timestamp": 1787252305.0
-    },
-    {
-      "title": "AI Alignment as a Thought-Terminating Cliche",
-      "link": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 18:49:26 +0000",
-      "timestamp": 1787251766.0
-    },
-    {
-      "title": "Fieldmade – RPG crafting by drawing pixel art and AI",
-      "link": "https://chromagolem.itch.io/fieldmade",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 18:49:22 +0000",
-      "timestamp": 1787251762.0
-    },
-    {
       "title": "Silicon Valley Doesn't Get Why You Hate AI",
       "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
       "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
@@ -199,15 +217,6 @@
       "source": "Wired AI",
       "published": "Thu, 20 Aug 2026 18:49:07 +0000",
       "timestamp": 1787251747.0
-    },
-    {
-      "title": "Spirit Flight Attendants Fight Google's Data Bid for AI",
-      "link": "https://www.wsj.com/pro/bankruptcy/spirit-flight-attendants-fight-googles-data-bid-for-ai-e939e049",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 18:47:22 +0000",
-      "timestamp": 1787251642.0
     },
     {
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
@@ -442,15 +451,6 @@
       "source": "VentureBeat AI",
       "published": "Wed, 19 Aug 2026 14:18:12 GMT",
       "timestamp": 1787149092.0
-    },
-    {
-      "title": "Calendly throws its hat into meeting note-taker circus",
-      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 19 Aug 2026 14:09:39 +0000",
-      "timestamp": 1787148579.0
     },
     {
       "title": "Nvidia’s new financial strategy does not compute",
