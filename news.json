@@ -1,11 +1,29 @@
 {
-  "scraped_at": "2026-08-20T17:44:03.779311+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-20T18:58:03.765181+00:00",
+  "count": 47,
   "items": [
+    {
+      "title": "Silicon Valley Doesn't Get Why You Hate AI",
+      "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+      "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 20 Aug 2026 18:49:07 +0000",
+      "timestamp": 1787251747.0
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 20 Aug 2026 18:20:35 +0000",
+      "timestamp": 1787250035.0
+    },
     {
       "title": "Grok keeps sending gibberish responses to users",
       "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "summary": "Affected users told TechCrunch say they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 20 Aug 2026 17:32:16 +0000",
@@ -21,69 +39,6 @@
       "timestamp": 1787246338.0
     },
     {
-      "title": "Show HN: Validate your idea with AI before you build it",
-      "link": "https://foundera.app/",
-      "summary": "Most people are not validating their ideas before start building it! I am a 5th time tech founder, gaming included and I built & managed startup accelerator programs. I know lot of things about early stage founders and their pains as I have been there. That is why I am building Foundera. It’s an AI-Native Accelerator for tech builders. Today the problem is; most of the AI coding tools opens with a chat and asking “type your idea and start building”. This is wrong! I want to reduce the time and money spent on ideas that nobody asked for. Try it at https://foundera.app and give me your feedback ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 17:16:07 +0000",
-      "timestamp": 1787246167.0
-    },
-    {
-      "title": "How Persona AI Makes Humanoids Pay Off in Welding",
-      "link": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 17:08:30 +0000",
-      "timestamp": 1787245710.0
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 17:02:21 +0000",
-      "timestamp": 1787245341.0
-    },
-    {
-      "title": "The Women in China choosing AI boyfriends over human men",
-      "link": "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 16:58:44 +0000",
-      "timestamp": 1787245124.0
-    },
-    {
-      "title": "AI at Home Part 2: Multi-GPU Drifting",
-      "link": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 16:53:55 +0000",
-      "timestamp": 1787244835.0
-    },
-    {
-      "title": "Japan to require AI firms to disclose training data",
-      "link": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 16:50:46 +0000",
-      "timestamp": 1787244646.0
-    },
-    {
-      "title": "Show HN: Future Crew's 1993 Second Reality, rebuilt by AI agents, no emulation",
-      "link": "https://www.secondreality1993.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 16:46:48 +0000",
-      "timestamp": 1787244408.0
-    },
-    {
       "title": "Ramp launches its own AI model router, called Router",
       "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
       "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
@@ -91,60 +46,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 20 Aug 2026 16:46:00 +0000",
       "timestamp": 1787244360.0
-    },
-    {
-      "title": "AI Agent Governance – a free book on AI Agent evaluation and governance",
-      "link": "https://www.proofagent.ai/book",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 16:42:20 +0000",
-      "timestamp": 1787244140.0
-    },
-    {
-      "title": "Show HN: Building Table Canon, an AI Campaign Memory Engine for TTRPGs",
-      "link": "https://tablecanon.app/",
-      "summary": "Hey HN! I built Table Canon to solve a problem my playgroup kept running into: 3-4 hour tabletop gaming sessions leave behind massive audio recordings, but standard meeting note-takers treat every session as an isolated island, butcher fantasy terms, and don't know who is speaking. I wanted an engine that tracks long-term state across months of games, so I built a pipeline to extract entity updates, open quest hooks, and character promises across sessions. The Tech Stack: * Transcription: whisper-large-v3-turbo * Diarization: pyannote for speaker embeddings & voice profile matching Extraction ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 16:40:43 +0000",
-      "timestamp": 1787244043.0
-    },
-    {
-      "title": "Ask HN: When AI models use harnesses who liable between model/harness/user?",
-      "link": "https://news.ycombinator.com/item?id=49376952",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 16:37:20 +0000",
-      "timestamp": 1787243840.0
-    },
-    {
-      "title": "Agent Applications: A Reference Architecture for AI Agent Systems",
-      "link": "https://agentapplication.io",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 16:35:49 +0000",
-      "timestamp": 1787243749.0
-    },
-    {
-      "title": "AI for science needs reasoning, not just data – Eric Schmidt and Suhas Mahesh",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 16:26:22 +0000",
-      "timestamp": 1787243182.0
-    },
-    {
-      "title": "I'm done coding with AI [video]",
-      "link": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 16:23:25 +0000",
-      "timestamp": 1787243005.0
     },
     {
       "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
@@ -165,33 +66,6 @@
       "timestamp": 1787241600.0
     },
     {
-      "title": "DripSharp: Building a Java-to-C# source converter with AI",
-      "link": "https://www.isaksky.com/posts/dripsharp-java-to-csharp-source-converter/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 15:55:55 +0000",
-      "timestamp": 1787241355.0
-    },
-    {
-      "title": "Project management with schedule aware AI copilot",
-      "link": "https://www.criticalschedule.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 15:52:28 +0000",
-      "timestamp": 1787241148.0
-    },
-    {
-      "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
-      "link": "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 15:46:09 +0000",
-      "timestamp": 1787240769.0
-    },
-    {
       "title": "It’s Greg Brockman’s OpenAI now",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
       "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
@@ -199,42 +73,6 @@
       "source": "The Verge AI",
       "published": "2026-08-20T11:45:55-04:00",
       "timestamp": 1787240755.0
-    },
-    {
-      "title": "AI Is Undermining Leaders' Judgment. Here's What to Do About It",
-      "link": "https://hbr.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 15:33:40 +0000",
-      "timestamp": 1787240020.0
-    },
-    {
-      "title": "Ask HN: Is AI the New Spreadsheet?",
-      "link": "https://news.ycombinator.com/item?id=49376007",
-      "summary": "Spreadsheets became and still are prolific for individuals and teams to create simple “apps.” I wonder how much of that is moving over to things like cowork or codex type apps. Personally, and anecdotally, my spreadsheet use has dropped immensely since starting to use these tools. Thoughts?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 15:26:44 +0000",
-      "timestamp": 1787239604.0
-    },
-    {
-      "title": "UC Berkeley professor admits to using AI to edit op-ed on students' math skills",
-      "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 15:22:57 +0000",
-      "timestamp": 1787239377.0
-    },
-    {
-      "title": "Anti-AI fonts are useless and harmful",
-      "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 15:06:53 +0000",
-      "timestamp": 1787238413.0
     },
     {
       "title": "Welcome to the AI crisis in math",
@@ -453,15 +291,6 @@
       "timestamp": 1787130000.0
     },
     {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
-      "timestamp": 1787091265.0
-    },
-    {
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
       "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
@@ -541,15 +370,6 @@
       "source": "Wired AI",
       "published": "Fri, 14 Aug 2026 10:45:00 +0000",
       "timestamp": 1786704300.0
-    },
-    {
-      "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 14 Aug 2026 10:15:00 +0000",
-      "timestamp": 1786702500.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
