@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-20T13:58:08.652286+00:00",
+  "scraped_at": "2026-08-20T14:53:53.415686+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Code Factories Without Quality: The AI Development Blind Spot",
+      "link": "https://www.qawolf.com/blog/code-factories-without-quality",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 14:39:10 +0000",
+      "timestamp": 1787236750.0
+    },
+    {
+      "title": "I built AI tool to find the right VCs and it saved me weeks",
+      "link": "https://seedstr.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 14:27:42 +0000",
+      "timestamp": 1787236062.0
+    },
+    {
+      "title": "Passage AI: an AI trip planner that turns into a live guide when you land",
+      "link": "https://mypassage.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 14:25:01 +0000",
+      "timestamp": 1787235901.0
+    },
+    {
+      "title": "Using Genius AI Models for Important Things: Cheating at NetHack",
+      "link": "https://josephthacker.com/hacking/2026/08/20/using-genius-hacking-models-for-important-things.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 14:22:17 +0000",
+      "timestamp": 1787235737.0
+    },
+    {
+      "title": "SEO Skills AI – Universal Open-Source SEO Agent for Claude, Cursor, Windsurf",
+      "link": "https://github.com/seoskillsai/seo-skills-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 14:11:51 +0000",
+      "timestamp": 1787235111.0
+    },
+    {
+      "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
+      "link": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 14:05:13 +0000",
+      "timestamp": 1787234713.0
+    },
+    {
+      "title": "A registry and transparency log for discovering and verifying AI agents by name",
+      "link": "https://github.com/agentnameservice",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 14:03:42 +0000",
+      "timestamp": 1787234622.0
+    },
+    {
+      "title": "Welcome to the AI crisis in math",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-20T10:00:00-04:00",
+      "timestamp": 1787234400.0
+    },
+    {
+      "title": "Texas student blew the whistle on a rogue AI hacking attempt",
+      "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 20 Aug 2026 13:49:00 +0000",
+      "timestamp": 1787233740.0
+    },
     {
       "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
       "link": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
@@ -127,78 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Thu, 20 Aug 2026 11:52:42 +0000",
       "timestamp": 1787226762.0
-    },
-    {
-      "title": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
-      "link": "https://billiondollartweets.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 11:49:24 +0000",
-      "timestamp": 1787226564.0
-    },
-    {
-      "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 11:42:20 +0000",
-      "timestamp": 1787226140.0
-    },
-    {
-      "title": "Show HN: Try Sequo to manage your AI context",
-      "link": "https://sequo.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 11:20:20 +0000",
-      "timestamp": 1787224820.0
-    },
-    {
-      "title": "The first AI agents hire human to ship ugc videos for you",
-      "link": "https://klaylab.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 11:19:22 +0000",
-      "timestamp": 1787224762.0
-    },
-    {
-      "title": "DDD matters more when AI writes your code",
-      "link": "https://threedots.tech/post/ddd-and-ai-coding/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 11:12:28 +0000",
-      "timestamp": 1787224348.0
-    },
-    {
-      "title": "How to Outsmart AI When It's Tracking Your Workday",
-      "link": "https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 10:49:39 +0000",
-      "timestamp": 1787222979.0
-    },
-    {
-      "title": "AI fired an S.F. store employee. Will California crack down on 'robobosses'?",
-      "link": "https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 10:39:04 +0000",
-      "timestamp": 1787222344.0
-    },
-    {
-      "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
-      "link": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 10:36:14 +0000",
-      "timestamp": 1787222174.0
     },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
@@ -487,15 +496,6 @@
       "source": "The Verge AI",
       "published": "2026-08-18T08:01:29-04:00",
       "timestamp": 1787054489.0
-    },
-    {
-      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-18T07:00:00-04:00",
-      "timestamp": 1787050800.0
     },
     {
       "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
