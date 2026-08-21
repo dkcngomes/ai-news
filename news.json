@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-21T22:39:48.569677+00:00",
+  "scraped_at": "2026-08-21T23:36:32.275947+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "The Unlikely Place at the Center of China’s AI Boom",
+      "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 21 Aug 2026 23:25:32 +0000",
+      "timestamp": 1787354732.0
+    },
+    {
+      "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
+      "link": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 23:20:57 +0000",
+      "timestamp": 1787354457.0
+    },
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "timestamp": 1787353645.0
+    },
+    {
+      "title": "AI Building Exoskeletons – Keeping Creative Inspiration",
+      "link": "https://johnoestmannmusic.com/ai-building-exoskeletons/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 22:57:01 +0000",
+      "timestamp": 1787353021.0
+    },
     {
       "title": "Nvidia partners with data center developer Cloverleaf",
       "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
@@ -183,36 +219,18 @@
       "timestamp": 1787336276.0
     },
     {
-      "title": "How Much of the Internet Is Written with AI?",
-      "link": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 18:14:05 +0000",
-      "timestamp": 1787336045.0
-    },
-    {
-      "title": "Talk. It types. Anywhere on your phone. $9.www.airtxt.ai",
-      "link": "https://news.ycombinator.com/item?id=49391762",
-      "summary": "Half the price of Wispr Flow ($9 vs $15) — proof: public pricing. On-device OR cloud, your choice — Wispr is cloud-only. Proof: the toggle, privacy angle. It also sits in your meetings — one app, dictation and a meeting bot. Wispr has neither. Works in every app via the keyboard — not a walled-garden notepad. www.airtxt.ai",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 18:00:50 +0000",
-      "timestamp": 1787335250.0
-    },
-    {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "timestamp": 1787320800.0
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
@@ -417,15 +435,6 @@
       "timestamp": 1787182320.0
     },
     {
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 19 Aug 2026 22:10:46 +0000",
-      "timestamp": 1787177446.0
-    },
-    {
       "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
       "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
       "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Fri, 14 Aug 2026 20:59:03 +0000",
       "timestamp": 1786741143.0
-    },
-    {
-      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 14 Aug 2026 15:00:00 +0000",
-      "timestamp": 1786719600.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
