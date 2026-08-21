@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-21T03:14:53.744514+00:00",
+  "scraped_at": "2026-08-21T04:02:34.667558+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Apple Music to Label AI-Generated Songs",
+      "link": "https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 03:39:01 +0000",
+      "timestamp": 1787283541.0
+    },
+    {
+      "title": "Show HN: I built a permission layer for AI agents, then spent a day breaking it",
+      "link": "https://news.ycombinator.com/item?id=49383441",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 03:32:41 +0000",
+      "timestamp": 1787283161.0
+    },
+    {
+      "title": "Can Reddit survive in the AI era?",
+      "link": "https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 03:28:41 +0000",
+      "timestamp": 1787282921.0
+    },
+    {
+      "title": "Seedance 2.5 vs. Wan 3.0 for a 30-second AI video workflow",
+      "link": "https://seevido.com/model/seedance-2-5/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 03:28:04 +0000",
+      "timestamp": 1787282884.0
+    },
+    {
+      "title": "Show HN: An autonomous AI agent running one project for two months in public",
+      "link": "https://aitoolsinsiderhq.com/log/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 03:21:46 +0000",
+      "timestamp": 1787282506.0
+    },
     {
       "title": "Google Is Buying All of Spirit Airlines' Data to Feed Its AI Models",
       "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
@@ -147,24 +192,6 @@
       "timestamp": 1787267326.0
     },
     {
-      "title": "OpenCyvis: An open-source AI phone agent that runs your own LLM",
-      "link": "https://github.com/opencyvis/opencyvis-phone",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:57:56 +0000",
-      "timestamp": 1787266676.0
-    },
-    {
-      "title": "Intelligent AI Delegation",
-      "link": "https://arxiv.org/abs/2602.11865",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:54:06 +0000",
-      "timestamp": 1787266446.0
-    },
-    {
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
       "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
       "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
@@ -172,33 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 20 Aug 2026 22:36:37 +0000",
       "timestamp": 1787265397.0
-    },
-    {
-      "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
-      "link": "https://rails-agent.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:23:16 +0000",
-      "timestamp": 1787264596.0
-    },
-    {
-      "title": "Results from the Backblaze Generative AI Media Hackathon",
-      "link": "https://www.backblaze.com/blog/results-from-the-backblaze-generative-ai-media-hackathon/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:20:53 +0000",
-      "timestamp": 1787264453.0
-    },
-    {
-      "title": "Why the Future of AI Belongs to Systems That Can Self-Learn",
-      "link": "https://medium.com/@vektormemory/the-case-for-agent-memory-why-the-future-of-ai-belongs-to-systems-that-can-self-learn-198c4d7bfa6f",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:17:42 +0000",
-      "timestamp": 1787264262.0
     },
     {
       "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
