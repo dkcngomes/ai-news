@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-21T13:09:42.929846+00:00",
+  "scraped_at": "2026-08-21T13:57:09.411973+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "MAK4I – An open protocol for reusable AI artifacts across AI systems",
+      "link": "https://github.com/talvikai/mak4i-protocol",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 13:54:37 +0000",
+      "timestamp": 1787320477.0
+    },
+    {
+      "title": "A Texas student blew the whistle on a rogue AI hacking attempt",
+      "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 13:43:33 +0000",
+      "timestamp": 1787319813.0
+    },
+    {
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-21T09:37:52-04:00",
+      "timestamp": 1787319472.0
+    },
+    {
+      "title": "UC Berkeley professor admits to using AI to edit op-ed on students' math skills",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 13:28:49 +0000",
+      "timestamp": 1787318929.0
+    },
+    {
+      "title": "List of most important thought leaders in Agentic Engineering/AI/vibecoding",
+      "link": "https://www.vibeleaderboard.ai/vibers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 13:25:02 +0000",
+      "timestamp": 1787318702.0
+    },
+    {
+      "title": "Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
+      "link": "https://github.com/baturyilmaz/agent-office",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 13:04:59 +0000",
+      "timestamp": 1787317499.0
+    },
     {
       "title": "AI models' 'creative' output is becoming similar across providers",
       "link": "https://www.unite.ai/ai-models-creative-output-is-becoming-similar-across-providers/",
@@ -127,51 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 21 Aug 2026 11:02:05 +0000",
       "timestamp": 1787310125.0
-    },
-    {
-      "title": "Anti India Influence Machine: Troll Farms, Fake News, Algorithms and AI",
-      "link": "https://blog.himanshuanand.com/2026/08/the-anti-india-influence-machine-troll-farms-fake-news-newsrooms-algorithms-and-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 10:44:24 +0000",
-      "timestamp": 1787309064.0
-    },
-    {
-      "title": "Bexra – an AI-powered growth system for founders who don't know what to do next",
-      "link": "https://news.ycombinator.com/item?id=49386094",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 10:24:24 +0000",
-      "timestamp": 1787307864.0
-    },
-    {
-      "title": "Nouswise Review: AI Research Agent and Thinking Partner",
-      "link": "https://delavo.de/en/writing/nouswise-ai-research-agent/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 10:14:15 +0000",
-      "timestamp": 1787307255.0
-    },
-    {
-      "title": "I Tried build AI web vulnerable scanner",
-      "link": "https://github.com/tX-c0re/xss-grenade",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 10:14:11 +0000",
-      "timestamp": 1787307251.0
-    },
-    {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "link": "https://annas-archive.pk/blog/physical-destruction.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 10:05:46 +0000",
-      "timestamp": 1787306746.0
     },
     {
       "title": "The Single English County Saying No to Palantir",
@@ -487,15 +496,6 @@
       "source": "The Verge AI",
       "published": "2026-08-18T15:48:26-04:00",
       "timestamp": 1787082506.0
-    },
-    {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-18T15:28:30-04:00",
-      "timestamp": 1787081310.0
     },
     {
       "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
