@@ -1,51 +1,15 @@
 {
-  "scraped_at": "2026-08-20T23:38:25.369672+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-21T01:56:27.671029+00:00",
+  "count": 47,
   "items": [
     {
-      "title": "Show HN: AI tools with real pricing, submitted in 30 seconds",
-      "link": "https://worthtotry.com",
-      "summary": "",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 23:13:26 +0000",
-      "timestamp": 1787267606.0
-    },
-    {
-      "title": "AI #182: Pause for Reflection",
-      "link": "https://thezvi.substack.com/p/ai-182-pause-for-reflection",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 23:10:13 +0000",
-      "timestamp": 1787267413.0
-    },
-    {
-      "title": "BTP v2.2 – An open, offline cryptographic trust protocol for AI agents",
-      "link": "https://github.com/ivegotahunnitonit/bartholomew",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 23:08:46 +0000",
-      "timestamp": 1787267326.0
-    },
-    {
-      "title": "OpenCyvis: An open-source AI phone agent that runs your own LLM",
-      "link": "https://github.com/opencyvis/opencyvis-phone",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:57:56 +0000",
-      "timestamp": 1787266676.0
-    },
-    {
-      "title": "Intelligent AI Delegation",
-      "link": "https://arxiv.org/abs/2602.11865",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:54:06 +0000",
-      "timestamp": 1787266446.0
+      "source": "TechCrunch AI",
+      "published": "Fri, 21 Aug 2026 00:13:44 +0000",
+      "timestamp": 1787271224.0
     },
     {
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
@@ -57,42 +21,6 @@
       "timestamp": 1787265397.0
     },
     {
-      "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
-      "link": "https://rails-agent.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:23:16 +0000",
-      "timestamp": 1787264596.0
-    },
-    {
-      "title": "Results from the Backblaze Generative AI Media Hackathon",
-      "link": "https://www.backblaze.com/blog/results-from-the-backblaze-generative-ai-media-hackathon/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:20:53 +0000",
-      "timestamp": 1787264453.0
-    },
-    {
-      "title": "Why the Future of AI Belongs to Systems That Can Self-Learn",
-      "link": "https://medium.com/@vektormemory/the-case-for-agent-memory-why-the-future-of-ai-belongs-to-systems-that-can-self-learn-198c4d7bfa6f",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:17:42 +0000",
-      "timestamp": 1787264262.0
-    },
-    {
-      "title": "Show HN: Zero () friction local AI for Mac",
-      "link": "https://www.basecompute.co/local",
-      "summary": "Super excited to launch our new app Local today. What we’ve learned at Base Compute over the last months is that running AI directly on your laptop or workstation gives you maximum privacy and it’s free, but it’s also a massive headache to configure. So we’ve decided what matters is making the experience completely frictionless for users. Local analyses the hardware of your laptop, optimises the AI for it, and recommends the best models for your specific device. It let’s you do what you’re doing with cloud AI already, just for free and on your own machine: Chatting with PDF’s, Recording and su",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:13:31 +0000",
-      "timestamp": 1787264011.0
-    },
-    {
       "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
@@ -102,42 +30,6 @@
       "timestamp": 1787263791.0
     },
     {
-      "title": "Browser automation agents with Pydantic AI and Playwright",
-      "link": "http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 22:02:45 +0000",
-      "timestamp": 1787263365.0
-    },
-    {
-      "title": "I published 8 months of frontier-AI research, code, emails, and timestamps",
-      "link": "https://zenodo.org/records/21969180",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:54:22 +0000",
-      "timestamp": 1787262862.0
-    },
-    {
-      "title": "Protesters haul a guillotine to city council meeting about an AI data center",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:53:37 +0000",
-      "timestamp": 1787262817.0
-    },
-    {
-      "title": "Can influencers post AI ads without alienating their fans?",
-      "link": "https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:51:31 +0000",
-      "timestamp": 1787262691.0
-    },
-    {
       "title": "Google Discover is getting an AI chatbot-tuned feed",
       "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
       "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
@@ -145,69 +37,6 @@
       "source": "The Verge AI",
       "published": "2026-08-20T17:50:22-04:00",
       "timestamp": 1787262622.0
-    },
-    {
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:49:53 +0000",
-      "timestamp": 1787262593.0
-    },
-    {
-      "title": "Iceland cuts store losses by 80% with AI-powered theft detection",
-      "link": "https://www.retailgazette.co.uk/blog/2026/08/iceland-cuts-store-losses-by-80-with-ai-powered-theft-detection/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:28:24 +0000",
-      "timestamp": 1787261304.0
-    },
-    {
-      "title": "Go updates may delight diehard gophers but displease AI overlords",
-      "link": "https://www.theregister.com/devops/2026/08/20/go-updates-may-delight-diehard-gophers-but-displease-ai-overlords/5290643",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:25:20 +0000",
-      "timestamp": 1787261120.0
-    },
-    {
-      "title": "The Threat of AI to Media Archives",
-      "link": "https://ebird.org/news/threat-of-ai-to-archives",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:13:20 +0000",
-      "timestamp": 1787260400.0
-    },
-    {
-      "title": "How to Destroy AI Scam Phone Calls (Short Video)",
-      "link": "https://www.youtube.com/shorts/aa0v-24EFy0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:08:49 +0000",
-      "timestamp": 1787260129.0
-    },
-    {
-      "title": "AI Is Revolutionizing Strategic Decision-Making",
-      "link": "https://hbr.org/2026/09/ai-is-revolutionizing-strategic-decision-making",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:05:30 +0000",
-      "timestamp": 1787259930.0
-    },
-    {
-      "title": "We published 421 AI-written articles in five months. They earned 10 clicks",
-      "link": "https://blog.marketingsohigh.com/421-ai-articles-10-clicks-what-the-data-showed/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 21:00:46 +0000",
-      "timestamp": 1787259646.0
     },
     {
       "title": "OK, can we actually cool data centers with our pee?",
@@ -415,15 +244,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 19 Aug 2026 18:46:14 +0000",
       "timestamp": 1787165174.0
-    },
-    {
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 19 Aug 2026 17:26:48 +0000",
-      "timestamp": 1787160408.0
     },
     {
       "title": "OpenAI hit the brakes. Now what?",
