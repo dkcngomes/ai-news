@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-21T13:57:09.411973+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-21T14:52:36.313822+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "How HN: Naeos – an open-source engineering framework for AI coding agentsS",
+      "link": "https://github.com/NAEOS-foundation/naeos",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:39:32 +0000",
+      "timestamp": 1787323172.0
+    },
+    {
+      "title": "Seeking Work (AI developer, Germany)",
+      "link": "https://walter-a-jablonowski.github.io/cv-en/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:36:17 +0000",
+      "timestamp": 1787322977.0
+    },
+    {
+      "title": "Advanced AI Sycophancy",
+      "link": "https://www.seangoedecke.com/advanced-ai-sycophancy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:32:34 +0000",
+      "timestamp": 1787322754.0
+    },
+    {
+      "title": "Transformation Failure, POM Before AI – Food for Agile Thought 558",
+      "link": "https://age-of-product.com/food-agile-thought-558-transformation-failure/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:30:03 +0000",
+      "timestamp": 1787322603.0
+    },
+    {
+      "title": "Your Margin Is the AI Labs' Roadmap",
+      "link": "https://maxprilutskiy.com/p/your-margin-is-the-ai-labs-roadmap",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:29:41 +0000",
+      "timestamp": 1787322581.0
+    },
+    {
+      "title": "Show HN: Organizational Cognition: Why the Next AI Moat Won't Be Intelligence",
+      "link": "https://chinmayrelkar.github.io/writing/organizational-cognition.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:28:55 +0000",
+      "timestamp": 1787322535.0
+    },
+    {
+      "title": "Are We Thinking Correctly About AI Intelligence?",
+      "link": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:25:19 +0000",
+      "timestamp": 1787322319.0
+    },
+    {
+      "title": "Show HN: Parselbox – an embeddable Python sandbox for AI agents",
+      "link": "https://github.com/thesanjeetc/parselbox",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:23:56 +0000",
+      "timestamp": 1787322236.0
+    },
+    {
+      "title": "An offline, free, private AI text detector with no signup or paywall",
+      "link": "https://capytoolkit.com/tools/text/offline-private-ai-text-detector/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:22:29 +0000",
+      "timestamp": 1787322149.0
+    },
+    {
+      "title": "Show HN:Over 50 AI-assisted books on science fiction and original philosophy",
+      "link": "https://www.axiologic.net/books.html",
+      "summary": "I’ve just made public a collection of more than 50 science fiction and philosophy books written with AI assistance. The books are part of an European research project exploring how AI-assisted books can be created, evaluated, and analyzed. They are meant to be genuinely readable, and many of them develop unusual perspectives and ideas in good depth. I’d be very interested in feedback from the HN community—on the writing, the ideas, the research direction, or the project itself.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:16:55 +0000",
+      "timestamp": 1787321815.0
+    },
+    {
+      "title": "Nvidia's Switchyard router reshuffles AI models mid-task to cut task costs",
+      "link": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 14:10:29 +0000",
+      "timestamp": 1787321429.0
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "timestamp": 1787320800.0
+    },
     {
       "title": "MAK4I – An open protocol for reusable AI artifacts across AI systems",
       "link": "https://github.com/talvikai/mak4i-protocol",
@@ -91,96 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 21 Aug 2026 12:16:55 +0000",
       "timestamp": 1787314615.0
-    },
-    {
-      "title": "We burned 11.7B tokens to find the best cyber AI model",
-      "link": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 12:09:07 +0000",
-      "timestamp": 1787314147.0
-    },
-    {
-      "title": "Vertical AI Founders, You Are Going Through 3 Existential Crises",
-      "link": "https://medium.com/@MirArshadTalpur/vertical-ai-founders-you-are-going-through-3-existential-crises-and-most-of-you-dont-know-it-b3d86a386d37",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 12:04:48 +0000",
-      "timestamp": 1787313888.0
-    },
-    {
-      "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
-      "link": "https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 12:04:13 +0000",
-      "timestamp": 1787313853.0
-    },
-    {
-      "title": "I'm Becoming AI-Blind",
-      "link": "https://cymerys.com/w/im-becoming-ai-blind",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 11:48:05 +0000",
-      "timestamp": 1787312885.0
-    },
-    {
-      "title": "Delta Use AI to Cut Costs Set Diff Ticket Price–CEO Says Profits Could Rise 50%",
-      "link": "https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 11:47:08 +0000",
-      "timestamp": 1787312828.0
-    },
-    {
-      "title": "Ask HN: What is the best AI Video studio",
-      "link": "https://news.ycombinator.com/item?id=49386577",
-      "summary": "I’m learning how to make AI videos, I know there are many video models. But is there a platform that can provide professional workflow to make ai videos?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 11:35:33 +0000",
-      "timestamp": 1787312133.0
-    },
-    {
-      "title": "AI(.)DIY – Open-source AI workspace with agents, MCP and Linux in the browser",
-      "link": "https://github.com/Cubinghackerz/ai.diy",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 11:25:47 +0000",
-      "timestamp": 1787311547.0
-    },
-    {
-      "title": "Microsoft gives Task Manager another task: Watching AI workloads",
-      "link": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 11:16:03 +0000",
-      "timestamp": 1787310963.0
-    },
-    {
-      "title": "Show HN: ContextForge – context engineering platform for AI-assisted development",
-      "link": "https://github.com/waterflane/ContextForge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 11:14:08 +0000",
-      "timestamp": 1787310848.0
-    },
-    {
-      "title": "When AI designs a drug, who gets the credit?",
-      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 11:02:05 +0000",
-      "timestamp": 1787310125.0
     },
     {
       "title": "The Single English County Saying No to Palantir",
@@ -282,7 +300,7 @@
       "timestamp": 1787247136.0
     },
     {
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
       "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
       "image": null,
@@ -424,15 +442,6 @@
       "source": "The Verge AI",
       "published": "2026-08-19T15:00:00-04:00",
       "timestamp": 1787166000.0
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 19 Aug 2026 18:46:14 +0000",
-      "timestamp": 1787165174.0
     },
     {
       "title": "OpenAI hit the brakes. Now what?",
