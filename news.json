@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-21T08:56:54.170590+00:00",
+  "scraped_at": "2026-08-21T09:51:17.093346+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 09:26:56 +0000",
+      "timestamp": 1787304416.0
+    },
+    {
+      "title": "Show HN: Squid Pay – Financial infrastructure for autonomous AI agents",
+      "link": "https://www.squidpay.dev/",
+      "summary": "We’re building Squid Pay, financial infrastructure that lets AI agents interact with money while keeping humans in control. AI agents are becoming increasingly capable of taking real-world actions, but giving an agent access to a wallet creates a new problem: how much financial autonomy should it actually have?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 09:22:17 +0000",
+      "timestamp": 1787304137.0
+    },
+    {
+      "title": "I don't think AI is a bubble",
+      "link": "https://honnibal.dev/blog/ai-bubble",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 09:10:33 +0000",
+      "timestamp": 1787303433.0
+    },
+    {
+      "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 09:03:10 +0000",
+      "timestamp": 1787302990.0
+    },
+    {
+      "title": "White House tech strategy leaves open-weight AI off its critical list",
+      "link": "https://thenextweb.com/news/white-house-strategy-open-weight-ai-critical-technology-list",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 08:48:46 +0000",
+      "timestamp": 1787302126.0
+    },
     {
       "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
       "link": "https://arxiv.org/abs/2608.15888",
@@ -136,51 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 21 Aug 2026 04:21:14 +0000",
       "timestamp": 1787286074.0
-    },
-    {
-      "title": "Meta's app for creating generative AI minigames is now available in the US",
-      "link": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 04:20:24 +0000",
-      "timestamp": 1787286024.0
-    },
-    {
-      "title": "Apple Music to Label AI-Generated Songs",
-      "link": "https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 03:39:01 +0000",
-      "timestamp": 1787283541.0
-    },
-    {
-      "title": "Show HN: I built a permission layer for AI agents, then spent a day breaking it",
-      "link": "https://news.ycombinator.com/item?id=49383441",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 03:32:41 +0000",
-      "timestamp": 1787283161.0
-    },
-    {
-      "title": "Can Reddit survive in the AI era?",
-      "link": "https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 03:28:41 +0000",
-      "timestamp": 1787282921.0
-    },
-    {
-      "title": "Seedance 2.5 vs. Wan 3.0 for a 30-second AI video workflow",
-      "link": "https://seevido.com/model/seedance-2-5/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 03:28:04 +0000",
-      "timestamp": 1787282884.0
     },
     {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
