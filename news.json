@@ -1,7 +1,25 @@
 {
-  "scraped_at": "2026-08-21T20:39:44.534657+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-21T21:36:52.121202+00:00",
+  "count": 66,
   "items": [
+    {
+      "title": "Over one million people have clicked LinkedIn’s AI slop button",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-21T17:25:50-04:00",
+      "timestamp": 1787347550.0
+    },
+    {
+      "title": "Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 21:24:43 +0000",
+      "timestamp": 1787347483.0
+    },
     {
       "title": "Making Audio Stories Interactive with AI: The Story of Schmaudio",
       "link": "http://www.dennisweyland.net/blog/?p=175",
@@ -174,36 +192,18 @@
       "timestamp": 1787334930.0
     },
     {
-      "title": "Git Might Be the Best Message Forum for AI Agents",
-      "link": "https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 17:49:04 +0000",
-      "timestamp": 1787334544.0
-    },
-    {
-      "title": "The puzzling case of Britain's young people and what they think of AI",
-      "link": "https://publicfirsttech.substack.com/p/gen-ai-the-puzzling-case-of-britains",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 17:39:00 +0000",
-      "timestamp": 1787333940.0
-    },
-    {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "timestamp": 1787320800.0
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
@@ -496,15 +496,6 @@
       "source": "Wired AI",
       "published": "Wed, 19 Aug 2026 09:00:00 +0000",
       "timestamp": 1787130000.0
-    },
-    {
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-18T15:48:26-04:00",
-      "timestamp": 1787082506.0
     },
     {
       "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
