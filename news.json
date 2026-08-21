@@ -1,9 +1,27 @@
 {
-  "scraped_at": "2026-08-21T21:36:52.121202+00:00",
+  "scraped_at": "2026-08-21T22:39:48.569677+00:00",
   "count": 66,
   "items": [
     {
-      "title": "Over one million people have clicked LinkedIn’s AI slop button",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 21 Aug 2026 22:37:38 +0000",
+      "timestamp": 1787351858.0
+    },
+    {
+      "title": "80% of developers find AI coding more addictive than helpful",
+      "link": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 21:51:36 +0000",
+      "timestamp": 1787349096.0
+    },
+    {
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
       "image": null,
@@ -183,27 +201,18 @@
       "timestamp": 1787335250.0
     },
     {
-      "title": "Openly Synthetic: Building an accountable AI newsroom in the age of covert ones",
-      "link": "https://areyto.media/openly-synthetic",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 17:55:30 +0000",
-      "timestamp": 1787334930.0
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "timestamp": 1787320800.0
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
@@ -415,15 +424,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 19 Aug 2026 22:10:46 +0000",
       "timestamp": 1787177446.0
-    },
-    {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 19 Aug 2026 21:51:23 +0000",
-      "timestamp": 1787176283.0
     },
     {
       "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
