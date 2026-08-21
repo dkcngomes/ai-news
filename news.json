@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-21T05:47:13.592612+00:00",
+  "scraped_at": "2026-08-21T07:06:10.512694+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Young Americans increasingly fear AI will take their jobs",
+      "link": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 06:49:46 +0000",
+      "timestamp": 1787294986.0
+    },
+    {
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "link": "https://Argentic.network",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 06:24:16 +0000",
+      "timestamp": 1787293456.0
+    },
+    {
+      "title": "AI CMS with WebMCP tools for agents in admin panel",
+      "link": "https://aliothpress.com/cms-for-ai-agents-webmcp-built-in",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 06:20:14 +0000",
+      "timestamp": 1787293214.0
+    },
+    {
+      "title": "Schooling Has a Meaning Crisis. Paradoxically, AI Can Help",
+      "link": "https://blog.comini.in/p/schooling-has-a-meaning-crisis-paradoxically",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 06:03:57 +0000",
+      "timestamp": 1787292237.0
+    },
+    {
+      "title": "The Single English County Saying No to Palantir",
+      "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+      "summary": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 21 Aug 2026 06:00:00 +0000",
+      "timestamp": 1787292000.0
+    },
+    {
+      "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
+      "link": "https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 05:56:29 +0000",
+      "timestamp": 1787291789.0
+    },
     {
       "title": "Show HN: Just describe your idea and let AI build a playable game for you",
       "link": "https://run.ceo/coder/",
@@ -138,24 +192,6 @@
       "timestamp": 1787272913.0
     },
     {
-      "title": "How A Texas student blew the whistle on a rogue AI hacking attempt",
-      "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 00:28:01 +0000",
-      "timestamp": 1787272081.0
-    },
-    {
-      "title": "Copyright does not protect AI-generated content in EU",
-      "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 00:15:12 +0000",
-      "timestamp": 1787271312.0
-    },
-    {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
@@ -163,33 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 00:13:44 +0000",
       "timestamp": 1787271224.0
-    },
-    {
-      "title": "Ask HN: Is building military hardware and healthcare the AI-proof?",
-      "link": "https://news.ycombinator.com/item?id=49382011",
-      "summary": "As developing software as a skill becomes like flipping burgers in a fast food company, is building hardware for evergreen industries like military and healthcare the only escape for actual engineers, not prompters? Sure, it would be a lot more expensive to bring a product to market and sell, and more likely for a product to fail because of the long sale period. But at least you have a natural barrier then. You don't see some solo dev trying to compete with Apple in hardware, whereas in software nowadays there are billions of people who are your competition.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 00:12:43 +0000",
-      "timestamp": 1787271163.0
-    },
-    {
-      "title": "AI's 'middle class' has gotten dramatically better at hacking",
-      "link": "https://cyberscoop.com/mid-tier-ai-models-hacking-threat/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 23:41:35 +0000",
-      "timestamp": 1787269295.0
-    },
-    {
-      "title": "The AI Debate Is About Control, Not AI",
-      "link": "https://www.fastcompany.com/91585908/the-ai-debate-isnt-about-ai-its-about-control-technology-ai-control",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 20 Aug 2026 23:32:36 +0000",
-      "timestamp": 1787268756.0
     },
     {
       "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
@@ -541,15 +550,6 @@
       "source": "Wired AI",
       "published": "Fri, 14 Aug 2026 15:00:00 +0000",
       "timestamp": 1786719600.0
-    },
-    {
-      "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
-      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 14 Aug 2026 10:45:00 +0000",
-      "timestamp": 1786704300.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
