@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-21T17:43:33.863475+00:00",
+  "scraped_at": "2026-08-21T18:54:30.379167+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI is about to uncover a hidden world of animal communication",
+      "link": "https://twitter.com/itsolelehmann/status/2090831992200020253",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 18:44:16 +0000",
+      "timestamp": 1787337856.0
+    },
+    {
+      "title": "The Better You Are at Programming, the Worse AI Looks",
+      "link": "https://www.youtube.com/watch?v=_590TxMwvWM",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 18:34:44 +0000",
+      "timestamp": 1787337284.0
+    },
+    {
+      "title": "The Death of the Job: How AI and Robots Will Rewrite Work in the Next 10 Years",
+      "link": "https://simonroses.com/2026/08/the-death-of-the-job-how-ai-and-robots-will-rewrite-work-in-the-next-10-years/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 18:30:59 +0000",
+      "timestamp": 1787337059.0
+    },
+    {
+      "title": "America's capital crunch: Soaring debt collides with AI spending spree",
+      "link": "https://www.axios.com/2026/08/21/national-debt-deficit-ai-spending",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 18:30:04 +0000",
+      "timestamp": 1787337004.0
+    },
+    {
+      "title": "Show HN: Poorleton – AI Generated Cycling Workouts",
+      "link": "https://poorleton.fit",
+      "summary": "Hello everyone, I recently got a used Peloton a couple of months ago for $200, but I didn't use it enough to justify $50/month for classes, so I vibe coded https://poorleton.fit/ over the weekend to have AI generated cycling classes. Let me know what you think.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 18:19:16 +0000",
+      "timestamp": 1787336356.0
+    },
+    {
+      "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
+      "link": "https://twitter.com/ananayarora/status/2090742255284031537",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 18:17:56 +0000",
+      "timestamp": 1787336276.0
+    },
+    {
+      "title": "How Much of the Internet Is Written with AI?",
+      "link": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 18:14:05 +0000",
+      "timestamp": 1787336045.0
+    },
+    {
+      "title": "Talk. It types. Anywhere on your phone. $9.www.airtxt.ai",
+      "link": "https://news.ycombinator.com/item?id=49391762",
+      "summary": "Half the price of Wispr Flow ($9 vs $15) — proof: public pricing. On-device OR cloud, your choice — Wispr is cloud-only. Proof: the toggle, privacy angle. It also sits in your meetings — one app, dictation and a meeting bot. Wispr has neither. Works in every app via the keyboard — not a walled-garden notepad. www.airtxt.ai",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 18:00:50 +0000",
+      "timestamp": 1787335250.0
+    },
+    {
+      "title": "Openly Synthetic: Building an accountable AI newsroom in the age of covert ones",
+      "link": "https://areyto.media/openly-synthetic",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 17:55:30 +0000",
+      "timestamp": 1787334930.0
+    },
+    {
+      "title": "Git Might Be the Best Message Forum for AI Agents",
+      "link": "https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 17:49:04 +0000",
+      "timestamp": 1787334544.0
+    },
+    {
+      "title": "The puzzling case of Britain's young people and what they think of AI",
+      "link": "https://publicfirsttech.substack.com/p/gen-ai-the-puzzling-case-of-britains",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 17:39:00 +0000",
+      "timestamp": 1787333940.0
+    },
+    {
+      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+      "link": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 17:33:42 +0000",
+      "timestamp": 1787333622.0
+    },
     {
       "title": "IO Factory: Simulating AI-Enabled Influence Campaigns at Scale",
       "link": "https://arxiv.org/abs/2608.10920",
@@ -66,15 +174,6 @@
       "timestamp": 1787330220.0
     },
     {
-      "title": "A self hosted AI software factory",
-      "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 16:27:52 +0000",
-      "timestamp": 1787329672.0
-    },
-    {
       "title": "Show HN: Roastme.gg – Pay to get publicly roasted by AI",
       "link": "https://roastme.gg",
       "summary": "",
@@ -84,117 +183,18 @@
       "timestamp": 1787329160.0
     },
     {
-      "title": "Show HN: Caspian – Talk to Human Tool for AI Agents",
-      "link": "https://github.com/TryCaspian/caspian-sdk",
-      "summary": "Sup HN! Dipanshu and Rushant here from Caspian. One is a functional programmer and the other has been deploying AI employees. Together we realized how agents have communication bottleneck. Given the coming agentic economy, we had a thought experiment on what can be the key infrastructure for agents as they get better. Our inspiration for solving for communications infra came from our own time spent just setting up comms while we were deploying open claw for companies plus we noticed about 15%+ of issues in Openclaw and Hermes were that of comms. So we abstracted the headache of reliable commun",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 16:17:58 +0000",
-      "timestamp": 1787329078.0
-    },
-    {
-      "title": "Show HN: Whodunit? Solve a daily AI-written Mystery",
-      "link": "https://whodunit.rip",
-      "summary": "Whodunit started as a pen-and-paper game for family game night. It evolved into a web app with a new mystery every day. The mysteries are all written by LLMs. Some are better than others, but most work nicely. The web app is written in go with templ HTML templates, HTMX for on-page interactivity, SSE for content updates, and a turn-based game engine written as a Temporal workflow. Check out the mystery gen write up for more info: https://blog.apartment304.com/whodunit-llm-murder-mysteries",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 16:04:49 +0000",
-      "timestamp": 1787328289.0
-    },
-    {
-      "title": "AI Coding and Its Discontents: Cal Newport",
-      "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 16:02:47 +0000",
-      "timestamp": 1787328167.0
-    },
-    {
-      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-      "link": "https://lists.freedesktop.org/archives/dri-devel/2026-August/590630.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 15:57:39 +0000",
-      "timestamp": 1787327859.0
-    },
-    {
-      "title": "The Rise of AI and Its Implications for Entrepreneurs",
-      "link": "https://incolumitas.com/2026/08/18/the-rise-of-ai-and-its-implications-for-entrepreneurs/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 15:55:12 +0000",
-      "timestamp": 1787327712.0
-    },
-    {
-      "title": "How Frontier AI Is Changing the Economics of Cybersecurity",
-      "link": "https://corporate.comcast.com/stories/how-frontier-ai-is-changing-the-economics-of-cybersecurity",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 15:48:26 +0000",
-      "timestamp": 1787327306.0
-    },
-    {
-      "title": "Anthropic's approach to teaching and learning AI",
-      "link": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 15:48:04 +0000",
-      "timestamp": 1787327284.0
-    },
-    {
-      "title": "Block AI from installing malicious NPM packages",
-      "link": "https://prasannamestha.medium.com/a-tool-to-block-ai-from-installing-malicious-npm-packages-c82bd32ed4cc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 15:31:22 +0000",
-      "timestamp": 1787326282.0
-    },
-    {
-      "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-      "link": "https://canews24.online/?p=71",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 15:25:42 +0000",
-      "timestamp": 1787325942.0
-    },
-    {
-      "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
-      "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 15:21:10 +0000",
-      "timestamp": 1787325670.0
-    },
-    {
-      "title": "Show HN: MindShield v1.1.5 – Local AI guardrails tuned to reduce false positives",
-      "link": "https://github.com/fluryjanis/Mind-Shield",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 15:13:20 +0000",
-      "timestamp": 1787325200.0
-    },
-    {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "timestamp": 1787320800.0
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
