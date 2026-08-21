@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-21T15:47:19.439535+00:00",
+  "scraped_at": "2026-08-21T16:50:07.104321+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+      "link": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 16:37:00 +0000",
+      "timestamp": 1787330220.0
+    },
+    {
+      "title": "Show HN: Roastme.gg – Pay to get publicly roasted by AI",
+      "link": "https://roastme.gg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 16:19:20 +0000",
+      "timestamp": 1787329160.0
+    },
+    {
+      "title": "Show HN: Caspian – Talk to Human Tool for AI Agents",
+      "link": "https://github.com/TryCaspian/caspian-sdk",
+      "summary": "Sup HN! Dipanshu and Rushant here from Caspian. One is a functional programmer and the other has been deploying AI employees. Together we realized how agents have communication bottleneck. Given the coming agentic economy, we had a thought experiment on what can be the key infrastructure for agents as they get better. Our inspiration for solving for communications infra came from our own time spent just setting up comms while we were deploying open claw for companies plus we noticed about 15%+ of issues in Openclaw and Hermes were that of comms. So we abstracted the headache of reliable commun",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 16:17:58 +0000",
+      "timestamp": 1787329078.0
+    },
+    {
+      "title": "Show HN: Whodunit? Solve a daily AI-written Mystery",
+      "link": "https://whodunit.rip",
+      "summary": "Whodunit started as a pen-and-paper game for family game night. It evolved into a web app with a new mystery every day. The mysteries are all written by LLMs. Some are better than others, but most work nicely. The web app is written in go with templ HTML templates, HTMX for on-page interactivity, SSE for content updates, and a turn-based game engine written as a Temporal workflow. Check out the mystery gen write up for more info: https://blog.apartment304.com/whodunit-llm-murder-mysteries",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 16:04:49 +0000",
+      "timestamp": 1787328289.0
+    },
+    {
+      "title": "AI Coding and Its Discontents: Cal Newport",
+      "link": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 16:02:47 +0000",
+      "timestamp": 1787328167.0
+    },
+    {
+      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+      "link": "https://lists.freedesktop.org/archives/dri-devel/2026-August/590630.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 15:57:39 +0000",
+      "timestamp": 1787327859.0
+    },
+    {
+      "title": "The Rise of AI and Its Implications for Entrepreneurs",
+      "link": "https://incolumitas.com/2026/08/18/the-rise-of-ai-and-its-implications-for-entrepreneurs/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 15:55:12 +0000",
+      "timestamp": 1787327712.0
+    },
+    {
+      "title": "How Frontier AI Is Changing the Economics of Cybersecurity",
+      "link": "https://corporate.comcast.com/stories/how-frontier-ai-is-changing-the-economics-of-cybersecurity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 15:48:26 +0000",
+      "timestamp": 1787327306.0
+    },
+    {
+      "title": "Anthropic's approach to teaching and learning AI",
+      "link": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 21 Aug 2026 15:48:04 +0000",
+      "timestamp": 1787327284.0
+    },
     {
       "title": "Block AI from installing malicious NPM packages",
       "link": "https://prasannamestha.medium.com/a-tool-to-block-ai-from-installing-malicious-npm-packages-c82bd32ed4cc",
@@ -102,58 +183,13 @@
       "timestamp": 1787322581.0
     },
     {
-      "title": "Show HN: Organizational Cognition: Why the Next AI Moat Won't Be Intelligence",
-      "link": "https://chinmayrelkar.github.io/writing/organizational-cognition.html",
-      "summary": "",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 14:28:55 +0000",
-      "timestamp": 1787322535.0
-    },
-    {
-      "title": "Are We Thinking Correctly About AI Intelligence?",
-      "link": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 14:25:19 +0000",
-      "timestamp": 1787322319.0
-    },
-    {
-      "title": "Show HN: Parselbox – an embeddable Python sandbox for AI agents",
-      "link": "https://github.com/thesanjeetc/parselbox",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 14:23:56 +0000",
-      "timestamp": 1787322236.0
-    },
-    {
-      "title": "An offline, free, private AI text detector with no signup or paywall",
-      "link": "https://capytoolkit.com/tools/text/offline-private-ai-text-detector/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 14:22:29 +0000",
-      "timestamp": 1787322149.0
-    },
-    {
-      "title": "Show HN:Over 50 AI-assisted books on science fiction and original philosophy",
-      "link": "https://www.axiologic.net/books.html",
-      "summary": "I’ve just made public a collection of more than 50 science fiction and philosophy books written with AI assistance. The books are part of an European research project exploring how AI-assisted books can be created, evaluated, and analyzed. They are meant to be genuinely readable, and many of them develop unusual perspectives and ideas in good depth. I’d be very interested in feedback from the HN community—on the writing, the ideas, the research direction, or the project itself.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 14:16:55 +0000",
-      "timestamp": 1787321815.0
-    },
-    {
-      "title": "Nvidia's Switchyard router reshuffles AI models mid-task to cut task costs",
-      "link": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 14:10:29 +0000",
-      "timestamp": 1787321429.0
+      "source": "TechCrunch AI",
+      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "timestamp": 1787320800.0
     },
     {
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -165,24 +201,6 @@
       "timestamp": 1787320800.0
     },
     {
-      "title": "MAK4I – An open protocol for reusable AI artifacts across AI systems",
-      "link": "https://github.com/talvikai/mak4i-protocol",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 13:54:37 +0000",
-      "timestamp": 1787320477.0
-    },
-    {
-      "title": "A Texas student blew the whistle on a rogue AI hacking attempt",
-      "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 13:43:33 +0000",
-      "timestamp": 1787319813.0
-    },
-    {
       "title": "Major YouTube creators are facing backlash for accepting AI money",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
       "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, [&#8230;]",
@@ -190,15 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-08-21T09:37:52-04:00",
       "timestamp": 1787319472.0
-    },
-    {
-      "title": "UC Berkeley professor admits to using AI to edit op-ed on students' math skills",
-      "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 13:28:49 +0000",
-      "timestamp": 1787318929.0
     },
     {
       "title": "The Single English County Saying No to Palantir",
@@ -424,15 +433,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 19 Aug 2026 19:11:40 +0000",
       "timestamp": 1787166700.0
-    },
-    {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "timestamp": 1787166000.0
     },
     {
       "title": "Google Gemini is getting a dedicated student hub",
