@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-22T05:40:29.010576+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-22T06:57:53.028272+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 06:46:35 +0000",
+      "timestamp": 1787381195.0
+    },
+    {
+      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+      "link": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 06:34:41 +0000",
+      "timestamp": 1787380481.0
+    },
+    {
+      "title": "How Much of the Internet Is Written with AI?",
+      "link": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 06:33:40 +0000",
+      "timestamp": 1787380420.0
+    },
+    {
+      "title": "Ask HN: What is the evidence for a stock market bubble in AI?",
+      "link": "https://news.ycombinator.com/item?id=49397022",
+      "summary": "Should the circular cash flows between the top AI companies, Nvidia, Anthropic, Openai, Google and Meta, be banned because of the systemic risks to the global economy?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 06:07:48 +0000",
+      "timestamp": 1787378868.0
+    },
+    {
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "link": "https://arxiv.org/abs/2511.07885",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 05:54:49 +0000",
+      "timestamp": 1787378089.0
+    },
+    {
+      "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
+      "link": "https://krishna-modi12.github.io/frontend-design-pro/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 05:52:19 +0000",
+      "timestamp": 1787377939.0
+    },
+    {
+      "title": "Void Tools API – Blockchain Tools for AI Agents (Pay in Void Tokens)",
+      "link": "https://news.ycombinator.com/item?id=49396884",
+      "summary": "I built an API for AI agents that provides blockchain tools paid in VOID tokens. Tools: - Contract Checker (1 VOID) — Verify if contract is safe - New Contracts (5 VOID) — Real-time proxy scanner on Base - Price Oracle (FREE) — VOID price feed - RPC Proxy (1 VOID) — 10 rotating RPC pools No registration, no KYC. Pay-as-you-go. API: http://72.56.250.235:8767/ Docs: https://dolar333-oss.github.io/void-protocol/agent.json Built for autonomous AI agents on Arbitrum.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 05:40:37 +0000",
+      "timestamp": 1787377237.0
+    },
     {
       "title": "Getting Freaky in the Age of AI",
       "link": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
@@ -120,15 +183,6 @@
       "timestamp": 1787356227.0
     },
     {
-      "title": "As demand for Meta AI glasses explodes, it's harder to avoid creepy recordings",
-      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 23:49:49 +0000",
-      "timestamp": 1787356189.0
-    },
-    {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
       "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
       "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
@@ -136,15 +190,6 @@
       "source": "Wired AI",
       "published": "Fri, 21 Aug 2026 23:25:32 +0000",
       "timestamp": 1787354732.0
-    },
-    {
-      "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
-      "link": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 23:20:57 +0000",
-      "timestamp": 1787354457.0
     },
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -156,15 +201,6 @@
       "timestamp": 1787353645.0
     },
     {
-      "title": "AI Building Exoskeletons – Keeping Creative Inspiration",
-      "link": "https://johnoestmannmusic.com/ai-building-exoskeletons/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 22:57:01 +0000",
-      "timestamp": 1787353021.0
-    },
-    {
       "title": "Nvidia partners with data center developer Cloverleaf",
       "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
@@ -174,15 +210,6 @@
       "timestamp": 1787351858.0
     },
     {
-      "title": "80% of developers find AI coding more addictive than helpful",
-      "link": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 21:51:36 +0000",
-      "timestamp": 1787349096.0
-    },
-    {
       "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
@@ -190,24 +217,6 @@
       "source": "The Verge AI",
       "published": "2026-08-21T17:25:50-04:00",
       "timestamp": 1787347550.0
-    },
-    {
-      "title": "Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 21:24:43 +0000",
-      "timestamp": 1787347483.0
-    },
-    {
-      "title": "Making Audio Stories Interactive with AI: The Story of Schmaudio",
-      "link": "http://www.dennisweyland.net/blog/?p=175",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 20:36:23 +0000",
-      "timestamp": 1787344583.0
     },
     {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
