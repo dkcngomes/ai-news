@@ -1,96 +1,15 @@
 {
-  "scraped_at": "2026-08-22T18:47:42.018278+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-22T19:33:36.281621+00:00",
+  "count": 47,
   "items": [
     {
-      "title": "How messy is your AI coding workflow?",
-      "link": "https://news.ycombinator.com/item?id=49402490",
-      "summary": "I’m curious how developers are actually working with multiple AI coding agents today. If you're using things like Cursor, Claude Code, Codex, ChatGPT, etc.: How do you maintain context when switching between them? How much time do you spend moving context from one tool to another? Do you keep track of what each agent changed? Have you ever wished all your agents were available in one place? Do you ever use an expensive model for a task that could have been handled by a cheaper one? We ran into these problems ourselves and started building OpenPrompt, a control layer above AI coding tools. We'r",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 18:38:35 +0000",
-      "timestamp": 1787423915.0
-    },
-    {
-      "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
-      "link": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 18:32:51 +0000",
-      "timestamp": 1787423571.0
-    },
-    {
-      "title": "When AI art has no author: Generated images can't trace to training data (study)",
-      "link": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 17:50:30 +0000",
-      "timestamp": 1787421030.0
-    },
-    {
-      "title": "Show HN: TechSkills – Open-source skill modules for AI coding agents",
-      "link": "https://github.com/debabratasaha-dev/techskills",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 17:37:45 +0000",
-      "timestamp": 1787420265.0
-    },
-    {
-      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-      "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 17:06:04 +0000",
-      "timestamp": 1787418364.0
-    },
-    {
-      "title": "An iOS app that runs AI agents and a complete voice pipeline on the device",
-      "link": "https://github.com/hsandhu/agent",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 16:52:38 +0000",
-      "timestamp": 1787417558.0
-    },
-    {
-      "title": "Show HN: Git workflow as an AI-agent skill",
-      "link": "https://github.com/musoyangrigor/gitx-skill",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 16:50:30 +0000",
-      "timestamp": 1787417430.0
-    },
-    {
-      "title": "Show HN: I turned Apple-style scroll-video websites into a reusable AI skill",
-      "link": "https://github.com/musoyangrigor/scroll-video-website-skill",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 16:47:58 +0000",
-      "timestamp": 1787417278.0
-    },
-    {
-      "title": "Hotcrp.com – AI agents and bot accounts",
-      "link": "https://hotcrp.com/news/2026/ai-agents-202608",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 16:46:22 +0000",
-      "timestamp": 1787417182.0
-    },
-    {
-      "title": "Show HN: Namo_complete: a non-obtrusive AI autocomplete for the bash terminal",
-      "link": "https://github.com/namo-robotics/namo_complete",
-      "summary": "I created this simple AI autocomplete tool for the bash terminal. I'm sure many like it exist already, but unlike the others this one does not completely hijack your terminal and stays mostly out of the way. Contributions/feedback are welcome. One other interesting thing about it is that it's written in a custom memory-safe (aspirationally) language that I am developing.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 16:44:53 +0000",
-      "timestamp": 1787417093.0
+      "source": "TechCrunch AI",
+      "published": "Sat, 22 Aug 2026 19:00:00 +0000",
+      "timestamp": 1787425200.0
     },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
@@ -102,42 +21,6 @@
       "timestamp": 1787416234.0
     },
     {
-      "title": "Ask HN: If you dislike AI, why don't you prove it?",
-      "link": "https://news.ycombinator.com/item?id=49401293",
-      "summary": "I've seen so many people who absolutely hate AI, and want AI companies to fail, but then 2 seconds later, open up the coding tool made by frontier labs and willingly hand them money. Just recently convinced one of them to move away from the frontier lab lock-in to OpenCode and switch between models. Not saying they need to switch to non-frontier models immediately, but this approach lets them easily switch to open source when the time is right. Why don't more people do this? And shouldn't companies that use AI heavily also suggest this approach? To be clear, I like AI, and use it all the time,",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 16:28:27 +0000",
-      "timestamp": 1787416107.0
-    },
-    {
-      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 16:23:09 +0000",
-      "timestamp": 1787415789.0
-    },
-    {
-      "title": "Fintex on X: \"The Math of Why Bigger AI Keeps Getting Smarter (Scaling Laws)",
-      "link": "https://twitter.com/_yusufknl/status/2090429393139097948",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 16:18:10 +0000",
-      "timestamp": 1787415490.0
-    },
-    {
-      "title": "AI and Chauffeur Knowledge",
-      "link": "https://www.aaron-gray.com/ai-and-chauffeur-knowledge/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 16:11:50 +0000",
-      "timestamp": 1787415110.0
-    },
-    {
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
@@ -145,60 +28,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 22 Aug 2026 16:00:00 +0000",
       "timestamp": 1787414400.0
-    },
-    {
-      "title": "Show HN: AI as Cognitive Gym Equipment",
-      "link": "https://bookerapp.replit.app/book/ai-cognitive-gym/ai-as-cognitive-gym-equipment",
-      "summary": "Why AI assistance should be judged by what it does to your future thinking, not just your next answer",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 15:58:02 +0000",
-      "timestamp": 1787414282.0
-    },
-    {
-      "title": "Show HN: Find and Organize Photos with Private, Local AI",
-      "link": "https://ringlochid.me/imagesage/index.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 14:59:49 +0000",
-      "timestamp": 1787410789.0
-    },
-    {
-      "title": "Claude Watermarks AI-Generated Text",
-      "link": "https://magazine.sebastianraschka.com/p/claude-watermarking",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 14:45:00 +0000",
-      "timestamp": 1787409900.0
-    },
-    {
-      "title": "AI agents merged two dangers once kept separate: reach and judgment",
-      "link": "https://syntheticauth.ai/posts/agent-nation-03-the-threshold",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 14:35:46 +0000",
-      "timestamp": 1787409346.0
-    },
-    {
-      "title": "80% of developers find AI coding more addictive than helpful",
-      "link": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 14:14:30 +0000",
-      "timestamp": 1787408070.0
-    },
-    {
-      "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
-      "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 14:13:05 +0000",
-      "timestamp": 1787407985.0
     },
     {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
@@ -424,15 +253,6 @@
       "source": "The Verge AI",
       "published": "2026-08-20T10:00:00-04:00",
       "timestamp": 1787234400.0
-    },
-    {
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 20 Aug 2026 12:11:57 +0000",
-      "timestamp": 1787227917.0
     },
     {
       "title": "Slack is launching collaborative vibe-coding channels",
