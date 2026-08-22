@@ -1,7 +1,34 @@
 {
-  "scraped_at": "2026-08-22T01:49:00.216862+00:00",
+  "scraped_at": "2026-08-22T03:06:18.184012+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
+      "link": "https://www.anjadhe.com/demo",
+      "summary": "Hi HN, I am Ram. For the last few months I have been building Anjadhe. It is a personal AI assistant for macOS. The main idea is simple: A macOS app where AI does the job of a personal assistant for the user. Not a chat only app where user needs to dig through chats to understand today’s schedule or a project they planned with the ai last week, but a canvas where the user and AI work together around basic tools. I started building this as DYI tool for myself, but at this point I see that its truly useful for me, so sharing with others to see if it can be useful to others too. Here is a quick D",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 02:12:01 +0000",
+      "timestamp": 1787364721.0
+    },
+    {
+      "title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
+      "link": "https://github.com/ArihantDeva/heimdall",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 02:02:14 +0000",
+      "timestamp": 1787364134.0
+    },
+    {
+      "title": "Obsession with AI",
+      "link": "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 01:53:33 +0000",
+      "timestamp": 1787363613.0
+    },
     {
       "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
       "link": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
@@ -183,15 +210,6 @@
       "timestamp": 1787342704.0
     },
     {
-      "title": "The Wage Effects of Generative AI",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 19:49:16 +0000",
-      "timestamp": 1787341756.0
-    },
-    {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
@@ -199,24 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 19:43:39 +0000",
       "timestamp": 1787341419.0
-    },
-    {
-      "title": "Readers can't identify watermarked AI text",
-      "link": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 19:30:09 +0000",
-      "timestamp": 1787340609.0
-    },
-    {
-      "title": "YC co is organizing an event in SF on AI in regulated industries",
-      "link": "https://groundtruth.getsphere.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 19:22:10 +0000",
-      "timestamp": 1787340130.0
     },
     {
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
