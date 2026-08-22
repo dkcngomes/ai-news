@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-22T16:38:59.931023+00:00",
+  "scraped_at": "2026-08-22T17:34:28.612005+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+      "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 17:06:04 +0000",
+      "timestamp": 1787418364.0
+    },
+    {
+      "title": "An iOS app that runs AI agents and a complete voice pipeline on the device",
+      "link": "https://github.com/hsandhu/agent",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 16:52:38 +0000",
+      "timestamp": 1787417558.0
+    },
+    {
+      "title": "Show HN: Git workflow as an AI-agent skill",
+      "link": "https://github.com/musoyangrigor/gitx-skill",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 16:50:30 +0000",
+      "timestamp": 1787417430.0
+    },
+    {
+      "title": "Show HN: I turned Apple-style scroll-video websites into a reusable AI skill",
+      "link": "https://github.com/musoyangrigor/scroll-video-website-skill",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 16:47:58 +0000",
+      "timestamp": 1787417278.0
+    },
+    {
+      "title": "Hotcrp.com – AI agents and bot accounts",
+      "link": "https://hotcrp.com/news/2026/ai-agents-202608",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 16:46:22 +0000",
+      "timestamp": 1787417182.0
+    },
+    {
+      "title": "Show HN: Namo_complete: a non-obtrusive AI autocomplete for the bash terminal",
+      "link": "https://github.com/namo-robotics/namo_complete",
+      "summary": "I created this simple AI autocomplete tool for the bash terminal. I'm sure many like it exist already, but unlike the others this one does not completely hijack your terminal and stays mostly out of the way. Contributions/feedback are welcome. One other interesting thing about it is that it's written in a custom memory-safe (aspirationally) language that I am developing.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 16:44:53 +0000",
+      "timestamp": 1787417093.0
+    },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
@@ -14,7 +68,7 @@
     {
       "title": "Ask HN: If you dislike AI, why don't you prove it?",
       "link": "https://news.ycombinator.com/item?id=49401293",
-      "summary": "I've seen so many people who absolutely hate AI, and want AI companies to fail, but then 2 seconds later, open up the coding tool made by frontier labs and willingly hand them money. Just recently convinced one of them to move away from the frontier lab lock-in to OpenCode and switch between models. Why don't more people do this? So many people say they don't want AI to cause job loss and then the next second willingly hand over all data and money to those exact AI companies. To be clear, I like AI, and use it all the time, but I use it in a way that allows me to easily switch models and not g",
+      "summary": "I've seen so many people who absolutely hate AI, and want AI companies to fail, but then 2 seconds later, open up the coding tool made by frontier labs and willingly hand them money. Just recently convinced one of them to move away from the frontier lab lock-in to OpenCode and switch between models. Not saying they need to switch to non-frontier models immediately, but this approach lets them easily switch to open source when the time is right. Why don't more people do this? And shouldn't companies that use AI heavily also suggest this approach? To be clear, I like AI, and use it all the time,",
       "image": null,
       "source": "Hacker News (AI)",
       "published": "Sat, 22 Aug 2026 16:28:27 +0000",
@@ -145,60 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 22 Aug 2026 13:13:00 +0000",
       "timestamp": 1787404380.0
-    },
-    {
-      "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
-      "link": "https://knoku.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 13:04:13 +0000",
-      "timestamp": 1787403853.0
-    },
-    {
-      "title": "How to Fingerprint AI Models When Prompts Lie",
-      "link": "https://openrating.io/blog/current-state-of-ai-model-fingerprinting",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 12:26:50 +0000",
-      "timestamp": 1787401610.0
-    },
-    {
-      "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
-      "link": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 11:45:40 +0000",
-      "timestamp": 1787399140.0
-    },
-    {
-      "title": "Mango AI: image/video generation with Nano Banana 2, GPT Image 2, Seedance 2",
-      "link": "https://trymangoai.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 11:43:53 +0000",
-      "timestamp": 1787399033.0
-    },
-    {
-      "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
-      "link": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 11:27:29 +0000",
-      "timestamp": 1787398049.0
-    },
-    {
-      "title": "SignalWatch – AI crypto scanner and smart alerts in your pocket",
-      "link": "https://play.google.com/store/apps/details?id=com.builtwithme.signalwatch&hl=en_US",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 11:13:33 +0000",
-      "timestamp": 1787397213.0
     },
     {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
