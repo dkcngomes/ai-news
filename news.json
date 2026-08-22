@@ -1,7 +1,25 @@
 {
-  "scraped_at": "2026-08-22T03:06:18.184012+00:00",
+  "scraped_at": "2026-08-22T03:55:10.355028+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Linus: And this was a debug session from hell, enormously helped by an AI",
+      "link": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 03:39:16 +0000",
+      "timestamp": 1787369956.0
+    },
+    {
+      "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+      "link": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 03:20:33 +0000",
+      "timestamp": 1787368833.0
+    },
     {
       "title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
       "link": "https://www.anjadhe.com/demo",
@@ -190,24 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 21 Aug 2026 20:24:40 +0000",
       "timestamp": 1787343880.0
-    },
-    {
-      "title": "AgentCheck – regression testing for AI agents, with diff-aware CI reports",
-      "link": "https://github.com/rez-99/agentcheck",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 20:21:15 +0000",
-      "timestamp": 1787343675.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 20:05:04 +0000",
-      "timestamp": 1787342704.0
     },
     {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
