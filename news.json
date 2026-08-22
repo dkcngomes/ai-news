@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-22T17:34:28.612005+00:00",
+  "scraped_at": "2026-08-22T18:47:42.018278+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "How messy is your AI coding workflow?",
+      "link": "https://news.ycombinator.com/item?id=49402490",
+      "summary": "I’m curious how developers are actually working with multiple AI coding agents today. If you're using things like Cursor, Claude Code, Codex, ChatGPT, etc.: How do you maintain context when switching between them? How much time do you spend moving context from one tool to another? Do you keep track of what each agent changed? Have you ever wished all your agents were available in one place? Do you ever use an expensive model for a task that could have been handled by a cheaper one? We ran into these problems ourselves and started building OpenPrompt, a control layer above AI coding tools. We'r",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 18:38:35 +0000",
+      "timestamp": 1787423915.0
+    },
+    {
+      "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+      "link": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 18:32:51 +0000",
+      "timestamp": 1787423571.0
+    },
+    {
+      "title": "When AI art has no author: Generated images can't trace to training data (study)",
+      "link": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 17:50:30 +0000",
+      "timestamp": 1787421030.0
+    },
+    {
+      "title": "Show HN: TechSkills – Open-source skill modules for AI coding agents",
+      "link": "https://github.com/debabratasaha-dev/techskills",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 17:37:45 +0000",
+      "timestamp": 1787420265.0
+    },
     {
       "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
       "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
@@ -163,42 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 22 Aug 2026 14:13:05 +0000",
       "timestamp": 1787407985.0
-    },
-    {
-      "title": "Going out of my way to prove I'm not an AI – Ep. #1 – OG images",
-      "link": "https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 14:03:09 +0000",
-      "timestamp": 1787407389.0
-    },
-    {
-      "title": "Show HN: I make my AI agents file paperwork before they're allowed to code",
-      "link": "https://github.com/kidus-tiliksew/conveyor",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 14:01:46 +0000",
-      "timestamp": 1787407306.0
-    },
-    {
-      "title": "Show HN: Running a full AI coding agent inside Cloudflare Durable Object",
-      "link": "https://github.com/pawaca/dsh-edge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 13:58:50 +0000",
-      "timestamp": 1787407130.0
-    },
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "link": "https://ai-stock-research-kiaan.streamlit.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 13:13:00 +0000",
-      "timestamp": 1787404380.0
     },
     {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
