@@ -1,7 +1,16 @@
 {
-  "scraped_at": "2026-08-22T03:55:10.355028+00:00",
+  "scraped_at": "2026-08-22T04:47:32.743144+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Getting Freaky in the Age of AI",
+      "link": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 03:45:57 +0000",
+      "timestamp": 1787370357.0
+    },
     {
       "title": "Linus: And this was a debug session from hell, enormously helped by an AI",
       "link": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
@@ -201,15 +210,6 @@
       "timestamp": 1787344583.0
     },
     {
-      "title": "Agentic AI overwhelmed CI, and test selection cut queueing from hours to minutes",
-      "link": "https://humansystems.dudzik.co/p/when-agents-make-ci-the-bottleneck",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 20:24:40 +0000",
-      "timestamp": 1787343880.0
-    },
-    {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
@@ -219,18 +219,18 @@
       "timestamp": 1787341419.0
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "timestamp": 1787320800.0
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
