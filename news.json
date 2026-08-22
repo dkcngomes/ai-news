@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-22T15:34:15.121631+00:00",
+  "scraped_at": "2026-08-22T16:38:59.931023+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 22 Aug 2026 16:30:34 +0000",
+      "timestamp": 1787416234.0
+    },
+    {
+      "title": "Ask HN: If you dislike AI, why don't you prove it?",
+      "link": "https://news.ycombinator.com/item?id=49401293",
+      "summary": "I've seen so many people who absolutely hate AI, and want AI companies to fail, but then 2 seconds later, open up the coding tool made by frontier labs and willingly hand them money. Just recently convinced one of them to move away from the frontier lab lock-in to OpenCode and switch between models. Why don't more people do this? So many people say they don't want AI to cause job loss and then the next second willingly hand over all data and money to those exact AI companies. To be clear, I like AI, and use it all the time, but I use it in a way that allows me to easily switch models and not g",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 16:28:27 +0000",
+      "timestamp": 1787416107.0
+    },
+    {
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 16:23:09 +0000",
+      "timestamp": 1787415789.0
+    },
+    {
+      "title": "Fintex on X: \"The Math of Why Bigger AI Keeps Getting Smarter (Scaling Laws)",
+      "link": "https://twitter.com/_yusufknl/status/2090429393139097948",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 16:18:10 +0000",
+      "timestamp": 1787415490.0
+    },
+    {
+      "title": "AI and Chauffeur Knowledge",
+      "link": "https://www.aaron-gray.com/ai-and-chauffeur-knowledge/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 16:11:50 +0000",
+      "timestamp": 1787415110.0
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "timestamp": 1787414400.0
+    },
+    {
+      "title": "Show HN: AI as Cognitive Gym Equipment",
+      "link": "https://bookerapp.replit.app/book/ai-cognitive-gym/ai-as-cognitive-gym-equipment",
+      "summary": "Why AI assistance should be judged by what it does to your future thinking, not just your next answer",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 15:58:02 +0000",
+      "timestamp": 1787414282.0
+    },
     {
       "title": "Show HN: Find and Organize Photos with Private, Local AI",
       "link": "https://ringlochid.me/imagesage/index.html",
@@ -138,51 +201,6 @@
       "timestamp": 1787397213.0
     },
     {
-      "title": "AI;DR There May Be Nobody There",
-      "link": "https://yusufaytas.com/there-may-be-nobody-there",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 11:10:28 +0000",
-      "timestamp": 1787397028.0
-    },
-    {
-      "title": "AI Is Rewriting Mathematics",
-      "link": "https://nofilk.substack.com/p/ai-is-rewriting-mathematics",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 10:59:44 +0000",
-      "timestamp": 1787396384.0
-    },
-    {
-      "title": "Six principles for evaluating cognitive capabilities in AI models",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/aaai.70061",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 10:37:21 +0000",
-      "timestamp": 1787395041.0
-    },
-    {
-      "title": "The Joy of Why (podcast): Are We Thinking Correctly About AI Intelligence?",
-      "link": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 10:16:28 +0000",
-      "timestamp": 1787393788.0
-    },
-    {
-      "title": "CyberStrike – open-source AI harness for offensive security (AGPL)",
-      "link": "https://github.com/CyberStrikeus/CyberStrike",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 09:44:44 +0000",
-      "timestamp": 1787391884.0
-    },
-    {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
       "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
       "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
@@ -228,18 +246,18 @@
       "timestamp": 1787341419.0
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "timestamp": 1787320800.0
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
@@ -424,24 +442,6 @@
       "source": "The Verge AI",
       "published": "2026-08-20T08:00:00-04:00",
       "timestamp": 1787227200.0
-    },
-    {
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 20 Aug 2026 09:30:00 +0000",
-      "timestamp": 1787218200.0
-    },
-    {
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 19 Aug 2026 23:32:00 +0000",
-      "timestamp": 1787182320.0
     },
     {
       "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
