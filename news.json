@@ -1,34 +1,7 @@
 {
-  "scraped_at": "2026-08-22T22:36:31.644667+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-22T23:33:31.735466+00:00",
+  "count": 47,
   "items": [
-    {
-      "title": "AI Made Me Faster. I'm Not Sure It Made Me Better",
-      "link": "https://medium.com/freedomofthought/ai-made-me-faster-im-not-sure-it-made-me-better-b7f78db7fc66",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 22:05:01 +0000",
-      "timestamp": 1787436301.0
-    },
-    {
-      "title": "The crisis of AI-generated mathematics",
-      "link": "https://arxiv.org/abs/2608.02859",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 22:04:49 +0000",
-      "timestamp": 1787436289.0
-    },
-    {
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 21:59:05 +0000",
-      "timestamp": 1787435945.0
-    },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -39,78 +12,6 @@
       "timestamp": 1787435216.0
     },
     {
-      "title": "Contra Anthropic: AI is not 'structurally' centralizing",
-      "link": "https://12gramsofcarbon.com/p/is-ai-structurally-a-centralizing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 21:40:37 +0000",
-      "timestamp": 1787434837.0
-    },
-    {
-      "title": "Linux Network Developers Are ‘Completely Overwhelmed’ by AI Agents :)",
-      "link": "https://www.phoronix.com/news/Linux-7.3-Networking",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 21:39:39 +0000",
-      "timestamp": 1787434779.0
-    },
-    {
-      "title": "The importance of teaching students what AI can't do",
-      "link": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 21:06:27 +0000",
-      "timestamp": 1787432787.0
-    },
-    {
-      "title": "Domain Driven AI",
-      "link": "https://pedromadruga.com/blog/domain-driven-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 19:42:19 +0000",
-      "timestamp": 1787427739.0
-    },
-    {
-      "title": "Retailers Want AI to Solve Online Shopping's Biggest Problem",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/zalando-zara-use-ai-virtual-try-ons-to-tackle-clothing-returns",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 19:26:57 +0000",
-      "timestamp": 1787426817.0
-    },
-    {
-      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
-      "link": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 19:11:34 +0000",
-      "timestamp": 1787425894.0
-    },
-    {
-      "title": "If you're not using AI to attack your own systems, your adversaries will",
-      "link": "https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 19:06:45 +0000",
-      "timestamp": 1787425605.0
-    },
-    {
-      "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 19:02:54 +0000",
-      "timestamp": 1787425374.0
-    },
-    {
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
       "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
@@ -118,87 +19,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 22 Aug 2026 19:00:00 +0000",
       "timestamp": 1787425200.0
-    },
-    {
-      "title": "Can an AI agent serve at a Foreign Office?",
-      "link": "https://www.karlsnotes.com/can-an-ai-agent-serve-at-a-foreign-office/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 18:53:27 +0000",
-      "timestamp": 1787424807.0
-    },
-    {
-      "title": "Pygame Boundaries: Stop Your Player from Leaving the Screen – No AI",
-      "link": "https://www.youtube.com/watch?v=UOP_2zz30qo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 18:52:47 +0000",
-      "timestamp": 1787424767.0
-    },
-    {
-      "title": "How I Use AI to Learn Things",
-      "link": "https://www.youtube.com/watch?v=kzcI5F4tGiU",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 18:52:06 +0000",
-      "timestamp": 1787424726.0
-    },
-    {
-      "title": "Robots Will Soon See the Real World Thanks to These Next-Gen AI Models",
-      "link": "https://www.wsj.com/tech/ai/ai-world-models-robotics-33ab46cb",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 18:48:39 +0000",
-      "timestamp": 1787424519.0
-    },
-    {
-      "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
-      "link": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 18:32:51 +0000",
-      "timestamp": 1787423571.0
-    },
-    {
-      "title": "When AI art has no author: Generated images can't trace to training data (study)",
-      "link": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 17:50:30 +0000",
-      "timestamp": 1787421030.0
-    },
-    {
-      "title": "Show HN: TechSkills – Open-source skill modules for AI coding agents",
-      "link": "https://github.com/debabratasaha-dev/techskills",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 17:37:45 +0000",
-      "timestamp": 1787420265.0
-    },
-    {
-      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
-      "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 17:06:04 +0000",
-      "timestamp": 1787418364.0
-    },
-    {
-      "title": "An iOS app that runs AI agents and a complete voice pipeline on the device",
-      "link": "https://github.com/hsandhu/agent",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 16:52:38 +0000",
-      "timestamp": 1787417558.0
     },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
