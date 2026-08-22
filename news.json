@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-22T07:44:41.981151+00:00",
+  "scraped_at": "2026-08-22T08:46:31.133983+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Is \"AI slop\" now the default response to every new project?",
+      "link": "https://news.ycombinator.com/item?id=49397791",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 08:35:00 +0000",
+      "timestamp": 1787387700.0
+    },
+    {
+      "title": "Older Americans leaving workforce poses challenges for AI plans",
+      "link": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 08:24:50 +0000",
+      "timestamp": 1787387090.0
+    },
+    {
+      "title": "I turned Unix talk from 1983 into the interface for my AI",
+      "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 08:14:41 +0000",
+      "timestamp": 1787386481.0
+    },
+    {
+      "title": "Show HN: Agile AI Development Lifecycle",
+      "link": "https://valeriavg.dev/agile-ai-development-lifecycle",
+      "summary": "Schrödinger's AI-DLC Framework",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 08:08:59 +0000",
+      "timestamp": 1787386139.0
+    },
+    {
+      "title": "Show HN: Learn Leap, an AI tutor that teaches from your own material",
+      "link": "https://learnleap.xyz",
+      "summary": "I built Learn Leap because I found myself constantly asking ChatGPT questions while reading research papers. I wanted something that already understood what I was reading. With Learn Leap you can upload your own material and have an AI tutor teach directly from it. The tutor has full context on your material and can create quizzes, flashcards, and exams to test your understanding. It's still early and I'd love feedback from HN on the product and the learning experience. Cheers.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 08:07:56 +0000",
+      "timestamp": 1787386076.0
+    },
     {
       "title": "Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
@@ -136,51 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 22 Aug 2026 01:00:44 +0000",
       "timestamp": 1787360444.0
-    },
-    {
-      "title": "Show HN: Updating my wedding registry website with AI in 275 commits",
-      "link": "https://benhoyt.com/writings/updating-gifty-with-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 00:25:24 +0000",
-      "timestamp": 1787358324.0
-    },
-    {
-      "title": "Show HN: AI driven civic dashboard for Palo Alto",
-      "link": "https://paloaltocivic.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 00:17:45 +0000",
-      "timestamp": 1787357865.0
-    },
-    {
-      "title": "Linus: \"A debug session from hell, enormously helped by an AI\"",
-      "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 00:08:47 +0000",
-      "timestamp": 1787357327.0
-    },
-    {
-      "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 00:07:06 +0000",
-      "timestamp": 1787357226.0
-    },
-    {
-      "title": "What We Tell AI",
-      "link": "https://www.whatwetellai.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 21 Aug 2026 23:50:27 +0000",
-      "timestamp": 1787356227.0
     },
     {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
