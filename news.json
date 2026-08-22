@@ -1,7 +1,25 @@
 {
-  "scraped_at": "2026-08-22T12:59:28.401149+00:00",
+  "scraped_at": "2026-08-22T13:43:38.166820+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI Stock Research Assistant · Streamlit",
+      "link": "https://ai-stock-research-kiaan.streamlit.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 13:13:00 +0000",
+      "timestamp": 1787404380.0
+    },
+    {
+      "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
+      "link": "https://knoku.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 13:04:13 +0000",
+      "timestamp": 1787403853.0
+    },
     {
       "title": "How to Fingerprint AI Models When Prompts Lie",
       "link": "https://openrating.io/blog/current-state-of-ai-model-fingerprinting",
@@ -165,24 +183,6 @@
       "timestamp": 1787381195.0
     },
     {
-      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
-      "link": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 06:34:41 +0000",
-      "timestamp": 1787380481.0
-    },
-    {
-      "title": "How Much of the Internet Is Written with AI?",
-      "link": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 06:33:40 +0000",
-      "timestamp": 1787380420.0
-    },
-    {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
       "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
       "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
@@ -210,6 +210,15 @@
       "timestamp": 1787351858.0
     },
     {
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-21T17:25:50-04:00",
+      "timestamp": 1787347550.0
+    },
+    {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
@@ -217,6 +226,15 @@
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 19:43:39 +0000",
       "timestamp": 1787341419.0
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "timestamp": 1787320800.0
     },
     {
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -228,13 +246,13 @@
       "timestamp": 1787320800.0
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, [&#8230;]",
       "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "timestamp": 1787320800.0
+      "source": "The Verge AI",
+      "published": "2026-08-21T09:37:52-04:00",
+      "timestamp": 1787319472.0
     },
     {
       "title": "The Single English County Saying No to Palantir",
@@ -496,24 +514,6 @@
       "source": "Wired AI",
       "published": "Wed, 19 Aug 2026 09:00:00 +0000",
       "timestamp": 1787130000.0
-    },
-    {
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-18T15:48:26-04:00",
-      "timestamp": 1787082506.0
-    },
-    {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-18T15:28:30-04:00",
-      "timestamp": 1787081310.0
     },
     {
       "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
