@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-22T13:43:38.166820+00:00",
+  "scraped_at": "2026-08-22T14:36:20.822395+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "80% of developers find AI coding more addictive than helpful",
+      "link": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 14:14:30 +0000",
+      "timestamp": 1787408070.0
+    },
+    {
+      "title": "Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+      "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 14:13:05 +0000",
+      "timestamp": 1787407985.0
+    },
+    {
+      "title": "Going out of my way to prove I'm not an AI – Ep. #1 – OG images",
+      "link": "https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 14:03:09 +0000",
+      "timestamp": 1787407389.0
+    },
+    {
+      "title": "Show HN: I make my AI agents file paperwork before they're allowed to code",
+      "link": "https://github.com/kidus-tiliksew/conveyor",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 14:01:46 +0000",
+      "timestamp": 1787407306.0
+    },
+    {
+      "title": "Show HN: Running a full AI coding agent inside Cloudflare Durable Object",
+      "link": "https://github.com/pawaca/dsh-edge",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 22 Aug 2026 13:58:50 +0000",
+      "timestamp": 1787407130.0
+    },
     {
       "title": "AI Stock Research Assistant · Streamlit",
       "link": "https://ai-stock-research-kiaan.streamlit.app",
@@ -138,51 +183,6 @@
       "timestamp": 1787387700.0
     },
     {
-      "title": "Older Americans leaving workforce poses challenges for AI plans",
-      "link": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 08:24:50 +0000",
-      "timestamp": 1787387090.0
-    },
-    {
-      "title": "I turned Unix talk from 1983 into the interface for my AI",
-      "link": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 08:14:41 +0000",
-      "timestamp": 1787386481.0
-    },
-    {
-      "title": "Show HN: Agile AI Development Lifecycle",
-      "link": "https://valeriavg.dev/agile-ai-development-lifecycle",
-      "summary": "Schrödinger's AI-DLC Framework",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 08:08:59 +0000",
-      "timestamp": 1787386139.0
-    },
-    {
-      "title": "Show HN: Learn Leap, an AI tutor that teaches from your own material",
-      "link": "https://learnleap.xyz",
-      "summary": "I built Learn Leap because I found myself constantly asking ChatGPT questions while reading research papers. I wanted something that already understood what I was reading. With Learn Leap you can upload your own material and have an AI tutor teach directly from it. The tutor has full context on your material and can create quizzes, flashcards, and exams to test your understanding. It's still early and I'd love feedback from HN on the product and the learning experience. Cheers.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 08:07:56 +0000",
-      "timestamp": 1787386076.0
-    },
-    {
-      "title": "Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 06:46:35 +0000",
-      "timestamp": 1787381195.0
-    },
-    {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
       "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
       "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
@@ -228,18 +228,18 @@
       "timestamp": 1787341419.0
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "timestamp": 1787320800.0
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
