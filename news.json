@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-23T14:37:30.219896+00:00",
+  "scraped_at": "2026-08-23T15:35:31.437901+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 23 Aug 2026 15:30:00 +0000",
+      "timestamp": 1787499000.0
+    },
+    {
+      "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
+      "link": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 15:03:17 +0000",
+      "timestamp": 1787497397.0
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "timestamp": 1787497200.0
+    },
+    {
+      "title": "Oneiric, AI-generated, open source [video]",
+      "link": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 14:55:14 +0000",
+      "timestamp": 1787496914.0
+    },
+    {
+      "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
+      "link": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 14:53:36 +0000",
+      "timestamp": 1787496816.0
+    },
     {
       "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
       "link": "https://github.com/majesticlabs-dev/writing-eval",
@@ -154,33 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 23 Aug 2026 10:54:35 +0000",
       "timestamp": 1787482475.0
-    },
-    {
-      "title": "AI datasets (2.6k entries) – automated collection, updated daily",
-      "link": "https://huggingface.co/gemmozero",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 10:30:52 +0000",
-      "timestamp": 1787481052.0
-    },
-    {
-      "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
-      "link": "https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 10:23:45 +0000",
-      "timestamp": 1787480625.0
-    },
-    {
-      "title": "Austrian mountain town [Leoben] finds niche in AI boom",
-      "link": "https://techxplore.com/news/2026-08-austrian-mountain-town-niche-ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 10:21:58 +0000",
-      "timestamp": 1787480518.0
     },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -397,24 +415,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 20 Aug 2026 17:18:58 +0000",
       "timestamp": 1787246338.0
-    },
-    {
-      "title": "Ramp launches its own AI model router, called Router",
-      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 20 Aug 2026 16:46:00 +0000",
-      "timestamp": 1787244360.0
-    },
-    {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 20 Aug 2026 16:07:26 +0000",
-      "timestamp": 1787242046.0
     },
     {
       "title": "It’s Greg Brockman’s OpenAI now",
