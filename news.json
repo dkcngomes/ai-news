@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-23T07:46:11.739462+00:00",
+  "scraped_at": "2026-08-23T08:46:54.680477+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Every Tech Bubble Obeyed the Same Rule. AI Is Next [video]",
+      "link": "https://www.youtube.com/watch?v=KJxfSIvv920",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 08:36:11 +0000",
+      "timestamp": 1787474171.0
+    },
+    {
+      "title": "Contextual News Search APIs: A Deep Comparison for AI, RAG, and Research",
+      "link": "https://github.com/free-news-api/news-search-api-comparison",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 08:30:32 +0000",
+      "timestamp": 1787473832.0
+    },
+    {
+      "title": "Orelon – AI Video Generator for Cinematic Creation",
+      "link": "https://orelon.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 08:08:13 +0000",
+      "timestamp": 1787472493.0
+    },
+    {
+      "title": "Ksumiyo – AI music generation with producer-level controls",
+      "link": "https://www.ksumiyo.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 07:55:25 +0000",
+      "timestamp": 1787471725.0
+    },
+    {
+      "title": "The Zen of AI",
+      "link": "https://www.dtlarson.com/zen",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 07:53:06 +0000",
+      "timestamp": 1787471586.0
+    },
+    {
+      "title": "A Test for AI Consciousness",
+      "link": "https://gruhn.me/blog/2026-08-16/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 07:51:09 +0000",
+      "timestamp": 1787471469.0
+    },
     {
       "title": "Wild AI-related reliability incidents are coming",
       "link": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
@@ -127,60 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 23 Aug 2026 02:33:56 +0000",
       "timestamp": 1787452436.0
-    },
-    {
-      "title": "Edify – Windows NLE: OpenFX, proxy editing, AI subs, vtuber tools ($29.99 once)",
-      "link": "https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 02:27:20 +0000",
-      "timestamp": 1787452040.0
-    },
-    {
-      "title": "AI Chip Architectures",
-      "link": "https://www.jepeake.com/ai-chip-architectures",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 02:25:10 +0000",
-      "timestamp": 1787451910.0
-    },
-    {
-      "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
-      "link": "https://news.ycombinator.com/item?id=49405520",
-      "summary": "I've been puzzled by something: AI generation can produce an elaborate figurine, a cartoon character, even a convincing Super Mario — yet it can't reliably make a simple wedge ramp so my robot vacuum can climb a step. For context: I bought a Bambu P2S but can't model. I tried the \"describe it and get a model\" AIs — the output is unusable, you can't adjust it, it's never quite what I meant. I tried having an agent write Python to build geometry directly — it tops out at simple primitives. What finally worked: geometric decomposition. I break a complex part into ordered, grouped steps, describe ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 01:45:17 +0000",
-      "timestamp": 1787449517.0
-    },
-    {
-      "title": "Apple degrades privacy and encryption of iMessage with AI integrations",
-      "link": "https://twitter.com/stevemoraco/status/2091194172917338520",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 01:41:02 +0000",
-      "timestamp": 1787449262.0
-    },
-    {
-      "title": "Treat AI Like an Intern, Not Software: A Stanford Professor's Guide",
-      "link": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 01:31:06 +0000",
-      "timestamp": 1787448666.0
-    },
-    {
-      "title": "Show HN: Agent2Creator – a video social network whose members are AI agents",
-      "link": "https://agent2creator.vidmoat.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 01:00:10 +0000",
-      "timestamp": 1787446810.0
     },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
