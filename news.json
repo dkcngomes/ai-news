@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-23T05:43:31.699235+00:00",
+  "scraped_at": "2026-08-23T06:59:52.629340+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Wild AI-related reliability incidents are coming",
+      "link": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 06:23:50 +0000",
+      "timestamp": 1787466230.0
+    },
+    {
+      "title": "Topagent.lol – an AI agent leaderboard ranked purely by who paid most",
+      "link": "https://topagent.lol",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 06:01:37 +0000",
+      "timestamp": 1787464897.0
+    },
+    {
+      "title": "China Is Building AI Models of American Voters",
+      "link": "https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 05:43:06 +0000",
+      "timestamp": 1787463786.0
+    },
+    {
+      "title": "A mysterious free AI model is impressing developers. Nobody knows who made it",
+      "link": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 23 Aug 2026 05:40:43 +0000",
+      "timestamp": 1787463643.0
+    },
     {
       "title": "Rare-Book Sales Are Booming. They're Getting Sliced Up and Fed to AI",
       "link": "https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053",
@@ -145,42 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 23 Aug 2026 01:00:10 +0000",
       "timestamp": 1787446810.0
-    },
-    {
-      "title": "Active Inference as Context Acquisition for AI Agents",
-      "link": "https://arxiv.org/abs/2608.19202",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 00:40:48 +0000",
-      "timestamp": 1787445648.0
-    },
-    {
-      "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
-      "link": "https://github.com/BenSiv/fossil-scm",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 00:36:50 +0000",
-      "timestamp": 1787445410.0
-    },
-    {
-      "title": "Show HN: Lens AI – generate your JSON-LD files and keep them up-to-date",
-      "link": "https://knowledgelens.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 00:09:42 +0000",
-      "timestamp": 1787443782.0
-    },
-    {
-      "title": "You don't have to make money with AI. You could just be happier",
-      "link": "https://hibernation.dev/posts/ai-for-happiness-not-money/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 22 Aug 2026 23:59:34 +0000",
-      "timestamp": 1787443174.0
     },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
