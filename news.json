@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-24T15:54:50.168812+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-24T16:53:57.995127+00:00",
+  "count": 47,
   "items": [
     {
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
       "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 24 Aug 2026 15:24:18 +0000",
@@ -66,15 +66,6 @@
       "timestamp": 1787499000.0
     },
     {
-      "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
-      "link": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 15:03:17 +0000",
-      "timestamp": 1787497397.0
-    },
-    {
       "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
       "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
       "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
@@ -82,177 +73,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 23 Aug 2026 15:00:00 +0000",
       "timestamp": 1787497200.0
-    },
-    {
-      "title": "Oneiric, AI-generated, open source [video]",
-      "link": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 14:55:14 +0000",
-      "timestamp": 1787496914.0
-    },
-    {
-      "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
-      "link": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 14:53:36 +0000",
-      "timestamp": 1787496816.0
-    },
-    {
-      "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
-      "link": "https://github.com/majesticlabs-dev/writing-eval",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 14:31:16 +0000",
-      "timestamp": 1787495476.0
-    },
-    {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "link": "https://ericpardee.github.io/fire-hd-ownership/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 14:23:09 +0000",
-      "timestamp": 1787494989.0
-    },
-    {
-      "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
-      "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 14:16:47 +0000",
-      "timestamp": 1787494607.0
-    },
-    {
-      "title": "Show HN: Froging AI – image and video models in one workflow",
-      "link": "https://www.froging.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 13:30:37 +0000",
-      "timestamp": 1787491837.0
-    },
-    {
-      "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
-      "link": "https://news.ycombinator.com/item?id=49408691",
-      "summary": "One of the reasons AI is so \"good\" at software development is that it is trained on a snapshot of a large corpus of already solved software problems. In the future, wouldn't that make anyone who produces original code become more cautious of sharing it, being aware that it will just be fed into the \"hive mind\" and they'll never get any attribution or financial gain out of it? Or has the value of code, tools and software become so cheap it doesn't really matter anymore?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 13:24:59 +0000",
-      "timestamp": 1787491499.0
-    },
-    {
-      "title": "Product Owner Interview Questions for the Age of AI",
-      "link": "https://age-of-product.com/product-owner-interview-questions/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 12:31:15 +0000",
-      "timestamp": 1787488275.0
-    },
-    {
-      "title": "Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM",
-      "link": "https://github.com/marketplace/actions/prism-reviewer-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 12:22:24 +0000",
-      "timestamp": 1787487744.0
-    },
-    {
-      "title": "Show HN: Declarative, reproducible configuration materializer for AI agents",
-      "link": "https://github.com/tooppoo/enozunu",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:48:23 +0000",
-      "timestamp": 1787485703.0
-    },
-    {
-      "title": "What do you think of AI website builders?",
-      "link": "https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:44:01 +0000",
-      "timestamp": 1787485441.0
-    },
-    {
-      "title": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
-      "link": "https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:42:54 +0000",
-      "timestamp": 1787485374.0
-    },
-    {
-      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
-      "link": "https://twitter.com/AndrewYNg/status/2090840747738374568",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:28:08 +0000",
-      "timestamp": 1787484488.0
-    },
-    {
-      "title": "Why Einstein would fail today: The case for an automated AI Science Institute",
-      "link": "https://zenodo.org/records/22067050",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:24:42 +0000",
-      "timestamp": 1787484282.0
-    },
-    {
-      "title": "Publish to 15 social media channels using AI agents, free",
-      "link": "https://www.bulkpublish.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:24:17 +0000",
-      "timestamp": 1787484257.0
-    },
-    {
-      "title": "Agentic AI in a Smolbox",
-      "link": "https://remyhax.xyz/posts/smolbox/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:20:53 +0000",
-      "timestamp": 1787484053.0
-    },
-    {
-      "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
-      "link": "https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:14:58 +0000",
-      "timestamp": 1787483698.0
-    },
-    {
-      "title": "The search for consciousness inside AI",
-      "link": "https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:07:51 +0000",
-      "timestamp": 1787483271.0
-    },
-    {
-      "title": "'AI refuser' quit her dream job, and hopes others follow",
-      "link": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 10:54:35 +0000",
-      "timestamp": 1787482475.0
     },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -336,18 +156,18 @@
       "timestamp": 1787341419.0
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
       "timestamp": 1787320800.0
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
