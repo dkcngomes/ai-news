@@ -1,7 +1,124 @@
 {
-  "scraped_at": "2026-08-24T18:58:08.673232+00:00",
+  "scraped_at": "2026-08-24T19:43:37.211416+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Porsche Inks $1.5B AI Deal with India's Tata Consultancy",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 19:33:23 +0000",
+      "timestamp": 1787600003.0
+    },
+    {
+      "title": "I can't prove it, but I think AI is causing me brain damage",
+      "link": "https://news.ycombinator.com/item?id=49424762",
+      "summary": "Not sure what to do, worked in software engineering for nearly 20 years now. And the last several years of working on this stuff has caused what I can only describe as significant cognitive corrosion. Hoping to transition out of this career or into a new role as soon as I can where I can use this tech significantly less.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 19:32:39 +0000",
+      "timestamp": 1787599959.0
+    },
+    {
+      "title": "Mistral and Humain Announce Colab to Advance AI in Saudi Arabia and Regionally",
+      "link": "https://mistral.ai/news/mistral-x-humain/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 19:27:50 +0000",
+      "timestamp": 1787599670.0
+    },
+    {
+      "title": "I built 270 AI agents in an Obsidian vault – zero API costs, all open source",
+      "link": "https://gist.github.com/NenadConnor/b9bb71d56c9e70a9072c55e262885b8b",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 19:25:51 +0000",
+      "timestamp": 1787599551.0
+    },
+    {
+      "title": "Autonomous Computer: 2-GPU AI Workstation",
+      "link": "https://www.autonomous.ai/computer-2",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 19:19:09 +0000",
+      "timestamp": 1787599149.0
+    },
+    {
+      "title": "AI billing tool is fast. Is it accurate enough to pass an audit?",
+      "link": "https://www.insightits.com/products/prismclaim.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 19:10:58 +0000",
+      "timestamp": 1787598658.0
+    },
+    {
+      "title": "Nvidia customers notified about AI-related price hikes above 15%",
+      "link": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 19:06:30 +0000",
+      "timestamp": 1787598390.0
+    },
+    {
+      "title": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
+      "link": "https://news.ycombinator.com/item?id=49424263",
+      "summary": "Basically, what I’m trying to say is: software is cheap to produce now, but not necessarily easy to customize. It seems like everyone is honing in on distribution and capital as the moat. We have all these vibe-coding platforms and a flood of applications that are 90% there but not quite finished. Then everyone is trying to get that last 10% and capture the value there. The people winning so far are mostly agencies, right? Or hackers going door to door and selling custom solutions. But what’s killing them is the shenanigans around customer acquisition, growth hacking and stuff like that. I thi",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 18:53:14 +0000",
+      "timestamp": 1787597594.0
+    },
+    {
+      "title": "InvoiceFlow AI – Smarter invoicing for freelancers and businesses",
+      "link": "https://invoiceflowdesign.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 18:48:50 +0000",
+      "timestamp": 1787597330.0
+    },
+    {
+      "title": "SpaceXAI Adopts Nvidia Vera CPU to Accelerate Agentic AI at Scale",
+      "link": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 18:48:46 +0000",
+      "timestamp": 1787597326.0
+    },
+    {
+      "title": "The unprompted.au (Australian AI and Cyber) schedule is live",
+      "link": "https://unprompted.au/schedule",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 18:46:52 +0000",
+      "timestamp": 1787597212.0
+    },
+    {
+      "title": "New York AI data center fight comes to Geneva",
+      "link": "https://www.democratandchronicle.com/story/news/2026/08/24/geneva-ai-data-center-greenidge-kristen-gonzalez/91437888007/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 18:39:26 +0000",
+      "timestamp": 1787596766.0
+    },
+    {
+      "title": "It's OK. Do Your Thing. Some (reluctant) thought on our AI moment",
+      "link": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 18:30:25 +0000",
+      "timestamp": 1787596225.0
+    },
     {
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
       "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
@@ -12,13 +129,67 @@
       "timestamp": 1787594635.0
     },
     {
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "title": "Concentrate AI: an LLM gateway that charges 0%",
+      "link": "https://concentrate.ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 15:52:33 +0000",
-      "timestamp": 1787586753.0
+      "published": "Mon, 24 Aug 2026 17:48:32 +0000",
+      "timestamp": 1787593712.0
+    },
+    {
+      "title": "Ask HN: What AI companies provide human support?",
+      "link": "https://news.ycombinator.com/item?id=49423377",
+      "summary": "How can i run a small business that relies of many AI subscriptions, yet I am unable to get a human on the phone line to address an urgent concern. or do they genuinely believe that AI is the support layer?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 17:45:16 +0000",
+      "timestamp": 1787593516.0
+    },
+    {
+      "title": "Show HN: See how much your AI knows about you",
+      "link": "https://www.withcorpus.com/knows",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 17:44:57 +0000",
+      "timestamp": 1787593497.0
+    },
+    {
+      "title": "Show HN: Fake Zoom, hang out with AI coworkers and feel the synergy",
+      "link": "https://fake-zoom.pages.dev/",
+      "summary": "This is so stupid. I made a fake Zoom call with AI coworkers. I generated the videos of each coworker with my 5070 ti and Minimax H3. Click on people to hear them talk or try saying their name to hear their standup update. If you say \"STOP\" they should stop talking. Enjoy I guess",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 17:38:43 +0000",
+      "timestamp": 1787593123.0
+    },
+    {
+      "title": "Judging AI-native work: why recognition authority should stay human",
+      "link": "https://zenodo.org/records/22049566",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 17:33:16 +0000",
+      "timestamp": 1787592796.0
+    },
+    {
+      "title": "AI Is Not Alive Yet",
+      "link": "https://www.manhattanmetric.com/blog/2026/08/ai-is-not-alive",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 17:32:22 +0000",
+      "timestamp": 1787592742.0
+    },
+    {
+      "title": "Show HN: Agentize lets AI agents query your website instead of crawling it",
+      "link": "https://github.com/nicolasakf/agentize",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 17:30:22 +0000",
+      "timestamp": 1787592622.0
     },
     {
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -48,15 +219,6 @@
       "timestamp": 1787579246.0
     },
     {
-      "title": "We never use AI. For anything",
-      "link": "https://corkmac.app/our-ai-stance/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 09:32:32 +0000",
-      "timestamp": 1787563952.0
-    },
-    {
       "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
       "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
       "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
@@ -84,15 +246,6 @@
       "timestamp": 1787512448.0
     },
     {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 18:16:37 +0000",
-      "timestamp": 1787508997.0
-    },
-    {
       "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
       "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
       "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
@@ -102,15 +255,6 @@
       "timestamp": 1787499000.0
     },
     {
-      "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
-      "link": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 15:03:17 +0000",
-      "timestamp": 1787497397.0
-    },
-    {
       "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
       "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
       "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
@@ -118,150 +262,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 23 Aug 2026 15:00:00 +0000",
       "timestamp": 1787497200.0
-    },
-    {
-      "title": "Oneiric, AI-generated, open source [video]",
-      "link": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 14:55:14 +0000",
-      "timestamp": 1787496914.0
-    },
-    {
-      "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
-      "link": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 14:53:36 +0000",
-      "timestamp": 1787496816.0
-    },
-    {
-      "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
-      "link": "https://github.com/majesticlabs-dev/writing-eval",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 14:31:16 +0000",
-      "timestamp": 1787495476.0
-    },
-    {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "link": "https://ericpardee.github.io/fire-hd-ownership/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 14:23:09 +0000",
-      "timestamp": 1787494989.0
-    },
-    {
-      "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
-      "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 14:16:47 +0000",
-      "timestamp": 1787494607.0
-    },
-    {
-      "title": "Show HN: Froging AI – image and video models in one workflow",
-      "link": "https://www.froging.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 13:30:37 +0000",
-      "timestamp": 1787491837.0
-    },
-    {
-      "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
-      "link": "https://news.ycombinator.com/item?id=49408691",
-      "summary": "One of the reasons AI is so \"good\" at software development is that it is trained on a snapshot of a large corpus of already solved software problems. In the future, wouldn't that make anyone who produces original code become more cautious of sharing it, being aware that it will just be fed into the \"hive mind\" and they'll never get any attribution or financial gain out of it? Or has the value of code, tools and software become so cheap it doesn't really matter anymore?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 13:24:59 +0000",
-      "timestamp": 1787491499.0
-    },
-    {
-      "title": "Product Owner Interview Questions for the Age of AI",
-      "link": "https://age-of-product.com/product-owner-interview-questions/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 12:31:15 +0000",
-      "timestamp": 1787488275.0
-    },
-    {
-      "title": "Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM",
-      "link": "https://github.com/marketplace/actions/prism-reviewer-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 12:22:24 +0000",
-      "timestamp": 1787487744.0
-    },
-    {
-      "title": "Show HN: Declarative, reproducible configuration materializer for AI agents",
-      "link": "https://github.com/tooppoo/enozunu",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:48:23 +0000",
-      "timestamp": 1787485703.0
-    },
-    {
-      "title": "What do you think of AI website builders?",
-      "link": "https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:44:01 +0000",
-      "timestamp": 1787485441.0
-    },
-    {
-      "title": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
-      "link": "https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:42:54 +0000",
-      "timestamp": 1787485374.0
-    },
-    {
-      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
-      "link": "https://twitter.com/AndrewYNg/status/2090840747738374568",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:28:08 +0000",
-      "timestamp": 1787484488.0
-    },
-    {
-      "title": "Why Einstein would fail today: The case for an automated AI Science Institute",
-      "link": "https://zenodo.org/records/22067050",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:24:42 +0000",
-      "timestamp": 1787484282.0
-    },
-    {
-      "title": "Publish to 15 social media channels using AI agents, free",
-      "link": "https://www.bulkpublish.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:24:17 +0000",
-      "timestamp": 1787484257.0
-    },
-    {
-      "title": "Agentic AI in a Smolbox",
-      "link": "https://remyhax.xyz/posts/smolbox/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 23 Aug 2026 11:20:53 +0000",
-      "timestamp": 1787484053.0
     },
     {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -284,7 +284,7 @@
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "summary": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Sat, 22 Aug 2026 16:30:34 +0000",
