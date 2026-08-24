@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-24T21:42:57.405989+00:00",
+  "scraped_at": "2026-08-24T22:42:43.628235+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "PageLens–A Chrome extension that uses AI to summarize your tab",
+      "link": "https://github.com/heinevwinston-bot/PageLens",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 22:25:16 +0000",
+      "timestamp": 1787610316.0
+    },
+    {
+      "title": "Why AI Detection Fails for Academic Integrity",
+      "link": "https://arxiv.org/abs/2608.11256",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 22:22:48 +0000",
+      "timestamp": 1787610168.0
+    },
+    {
+      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+      "link": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 22:07:06 +0000",
+      "timestamp": 1787609226.0
+    },
+    {
+      "title": "AI text watermarking and quality loss",
+      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 22:05:51 +0000",
+      "timestamp": 1787609151.0
+    },
+    {
+      "title": "See what your content is worth to AI agents",
+      "link": "https://index.parallel.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 22:05:48 +0000",
+      "timestamp": 1787609148.0
+    },
+    {
+      "title": "SpaceX Shares Sink on AI Spending Plans",
+      "link": "https://www.wsj.com/tech/ai/spacex-says-spending-spree-is-supercharging-ai-revenues-ea750ff3",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 21:52:52 +0000",
+      "timestamp": 1787608372.0
+    },
+    {
+      "title": "AI-to-AI Code Reviews of GitHub Pull Requests",
+      "link": "https://arxiv.org/abs/2608.21311",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 24 Aug 2026 21:41:26 +0000",
+      "timestamp": 1787607686.0
+    },
     {
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
@@ -136,69 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 24 Aug 2026 19:19:09 +0000",
       "timestamp": 1787599149.0
-    },
-    {
-      "title": "AI billing tool is fast. Is it accurate enough to pass an audit?",
-      "link": "https://www.insightits.com/products/prismclaim.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 19:10:58 +0000",
-      "timestamp": 1787598658.0
-    },
-    {
-      "title": "Nvidia customers notified about AI-related price hikes above 15%",
-      "link": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 19:06:30 +0000",
-      "timestamp": 1787598390.0
-    },
-    {
-      "title": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
-      "link": "https://news.ycombinator.com/item?id=49424263",
-      "summary": "Basically, what I’m trying to say is: software is cheap to produce now, but not necessarily easy to customize. It seems like everyone is honing in on distribution and capital as the moat. We have all these vibe-coding platforms and a flood of applications that are 90% there but not quite finished. Then everyone is trying to get that last 10% and capture the value there. The people winning so far are mostly agencies, right? Or hackers going door to door and selling custom solutions. But what’s killing them is the shenanigans around customer acquisition, growth hacking and stuff like that. I thi",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 18:53:14 +0000",
-      "timestamp": 1787597594.0
-    },
-    {
-      "title": "InvoiceFlow AI – Smarter invoicing for freelancers and businesses",
-      "link": "https://invoiceflowdesign.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 18:48:50 +0000",
-      "timestamp": 1787597330.0
-    },
-    {
-      "title": "SpaceXAI Adopts Nvidia Vera CPU to Accelerate Agentic AI at Scale",
-      "link": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 18:48:46 +0000",
-      "timestamp": 1787597326.0
-    },
-    {
-      "title": "The unprompted.au (Australian AI and Cyber) schedule is live",
-      "link": "https://unprompted.au/schedule",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 18:46:52 +0000",
-      "timestamp": 1787597212.0
-    },
-    {
-      "title": "New York AI data center fight comes to Geneva",
-      "link": "https://www.democratandchronicle.com/story/news/2026/08/24/geneva-ai-data-center-greenidge-kristen-gonzalez/91437888007/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 18:39:26 +0000",
-      "timestamp": 1787596766.0
     },
     {
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
