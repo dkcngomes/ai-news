@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-25T05:46:24.393620+00:00",
+  "scraped_at": "2026-08-25T07:07:15.623256+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
+      "link": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 06:43:03 +0000",
+      "timestamp": 1787640183.0
+    },
+    {
+      "title": "New technology lets cloud AI models process your data without privacy leaks",
+      "link": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 06:11:42 +0000",
+      "timestamp": 1787638302.0
+    },
+    {
+      "title": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
+      "link": "https://www.bbc.co.uk/news/articles/cq89jpjeq7ko",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 06:11:28 +0000",
+      "timestamp": 1787638288.0
+    },
+    {
+      "title": "Show HN: CookWing, an AI chef that doesn't hallucinate quantities",
+      "link": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
+      "summary": "Hey HN! I just released Cookwing. This is an AI app that solves the biggest problem I had when I was cooking with ChatGPT : The quantities are often hallucinated. I was curious, so I even built my own cooking quantity benchmark while development, and here are the results. We're using my system, which is anchoring tables that are searched in the original country of the recipe. For example, when cooking carbonara, it's going to check for the Italian web for the anchoring table, not the English web. Benchmark results : https://cook.redwi.ng/static/blog/cookbench-v1-cooking-quant... The results we",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 05:53:45 +0000",
+      "timestamp": 1787637225.0
+    },
     {
       "title": "LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes",
       "link": "https://llmpanel.io",
@@ -145,42 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 25 Aug 2026 02:27:55 +0000",
       "timestamp": 1787624875.0
-    },
-    {
-      "title": "Sellers on Shopee, TikTok call out auto-generated AI ads that mislead customers",
-      "link": "https://www.channelnewsasia.com/singapore/ai-generated-videos-shopee-tiktok-misleading-sellers-6336961",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 02:23:16 +0000",
-      "timestamp": 1787624596.0
-    },
-    {
-      "title": "ZeroPop: AI trading card grading / pricing / ID for iOS, Android, and Web",
-      "link": "https://zeropop.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 02:20:58 +0000",
-      "timestamp": 1787624458.0
-    },
-    {
-      "title": "80% of developers find AI coding more addictive than helpful",
-      "link": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 02:09:52 +0000",
-      "timestamp": 1787623792.0
-    },
-    {
-      "title": "Enterprise AI Operating System",
-      "link": "https://devnavigator.com/2026/08/25/enterprise-ai-operating-system/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 01:25:44 +0000",
-      "timestamp": 1787621144.0
     },
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -381,9 +381,9 @@
       "timestamp": 1787341419.0
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
