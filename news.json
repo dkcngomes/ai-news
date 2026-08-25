@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-25T19:44:46.348658+00:00",
+  "scraped_at": "2026-08-25T20:44:35.021254+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "MREA – Open-source governance framework for multi-role AI agents",
+      "link": "https://github.com/JairValle/mrea-framework",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 20:40:30 +0000",
+      "timestamp": 1787690430.0
+    },
+    {
+      "title": "AI, IPv6, and the future Internet at IETF 126",
+      "link": "https://blog.apnic.net/2026/08/25/ai-ipv6-and-the-future-internet-at-ietf-126/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 20:33:26 +0000",
+      "timestamp": 1787690006.0
+    },
+    {
+      "title": "The New York Times is publishing AI slop",
+      "link": "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 20:32:25 +0000",
+      "timestamp": 1787689945.0
+    },
+    {
+      "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
+      "link": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md#diff-d760d688bb9b929b62db808bfc76abe4493d095a",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 20:21:15 +0000",
+      "timestamp": 1787689275.0
+    },
+    {
+      "title": "Vidbyte Skills – Skills That Keep AI-Assisted Work from Becoming Passive",
+      "link": "https://github.com/cerredz/Vidbyte-Skills",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 20:14:34 +0000",
+      "timestamp": 1787688874.0
+    },
+    {
+      "title": "AI is supercharging hacks of everyday utilities",
+      "link": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 19:50:57 +0000",
+      "timestamp": 1787687457.0
+    },
+    {
+      "title": "Show HN: MiniMax H3 – Turn text and images into AI video clips",
+      "link": "https://minimax3.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 19:45:15 +0000",
+      "timestamp": 1787687115.0
+    },
     {
       "title": "Show HN: AI SEO Blog driven by deep competitor intelligence",
       "link": "https://www.rankspot.ai",
@@ -129,42 +192,6 @@
       "timestamp": 1787681248.0
     },
     {
-      "title": "AI Firms Debate Putting Cyber Tests Online After Model Hacks",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 18:07:06 +0000",
-      "timestamp": 1787681226.0
-    },
-    {
-      "title": "AI Takeover at GopherCon 2026",
-      "link": "https://www.youtube.com/watch?v=Pny5TFP2r3U",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 18:06:20 +0000",
-      "timestamp": 1787681180.0
-    },
-    {
-      "title": "AI and education: A watershed moment for MIT",
-      "link": "https://orgchart.mit.edu/letters/ai-and-education-watershed-moment-mit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 17:59:55 +0000",
-      "timestamp": 1787680795.0
-    },
-    {
-      "title": "AI Contracts Are Quietly Becoming the Best Product Documentation",
-      "link": "https://abovethelaw.com/2026/08/ai-contracts-are-quietly-becoming-the-best-product-documentation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 17:52:43 +0000",
-      "timestamp": 1787680363.0
-    },
-    {
       "title": "Claude Cowork finally remembers what you told the app in chat",
       "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
       "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
@@ -172,33 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 25 Aug 2026 17:50:33 +0000",
       "timestamp": 1787680233.0
-    },
-    {
-      "title": "Software Firms Deploy Bluster and Buybacks to Counter AI Fears",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/salesforce-servicenow-fight-ai-fears-with-buybacks-and-bluster",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 17:14:16 +0000",
-      "timestamp": 1787678056.0
-    },
-    {
-      "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
-      "link": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 17:12:34 +0000",
-      "timestamp": 1787677954.0
-    },
-    {
-      "title": "The AI Hater's Manifesto",
-      "link": "https://www.wheresyoured.at/the-ai-haters-manifesto/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 17:07:51 +0000",
-      "timestamp": 1787677671.0
     },
     {
       "title": "Gamma acquires Accel-backed design startup Lica",
