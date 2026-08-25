@@ -1,7 +1,124 @@
 {
-  "scraped_at": "2026-08-25T11:42:04.151412+00:00",
+  "scraped_at": "2026-08-25T13:10:30.068713+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 13:01:22 +0000",
+      "timestamp": 1787662882.0
+    },
+    {
+      "title": "An open protocol for AI-mediated product discovery",
+      "link": "https://github.com/open-receipt-protocol/orp/blob/main/README.md",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 13:00:14 +0000",
+      "timestamp": 1787662814.0
+    },
+    {
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 25 Aug 2026 13:00:00 +0000",
+      "timestamp": 1787662800.0
+    },
+    {
+      "title": "AI for Peace Workshop – ICLR 2026",
+      "link": "https://www.youtube.com/watch?v=KHzzf0tIwDM",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 12:53:32 +0000",
+      "timestamp": 1787662412.0
+    },
+    {
+      "title": "Recent public co filings analyzed: AI not generating profit yet",
+      "link": "https://aiearnings.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 12:24:59 +0000",
+      "timestamp": 1787660699.0
+    },
+    {
+      "title": "When AI Writes the Code, Verification Is the New Implementation",
+      "link": "https://sarpex.com/2026/08-verification-is-the-new-implementation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 12:15:16 +0000",
+      "timestamp": 1787660116.0
+    },
+    {
+      "title": "Run manual QA test cases in a real browser with an AI agent",
+      "link": "https://github.com/broxhq/qpilot",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 12:07:07 +0000",
+      "timestamp": 1787659627.0
+    },
+    {
+      "title": "Show HN: Prelo – a WordPress-style admin for AI-built sites",
+      "link": "https://www.prelo.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 12:06:13 +0000",
+      "timestamp": 1787659573.0
+    },
+    {
+      "title": "Show HN: Neither HTML nor Markdown is enough: a way out of the AI doc dilemma",
+      "link": "https://news.ycombinator.com/item?id=49432443",
+      "summary": "A recent post from Anthropic's Claude Code team (\"The Unreasonable Effectiveness of HTML\", https://thariqs.github.io/html-effectiveness/) argued that with today's context windows the bottleneck is human attention — rich HTML for decision surfaces, Markdown for durable records. That split makes sense to me. What it leaves open, in my experience, is the durable record itself: what happens when that is the thing an agent must iteratively co-author? You end up picking one and paying for the other — a surface people will read, or a record you can keep — and whichever you pick, the other drifts. Mar",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 12:02:03 +0000",
+      "timestamp": 1787659323.0
+    },
+    {
+      "title": "Show HN: Unlose – Windows VSS snapshots before your AI agent deletes your files",
+      "link": "https://github.com/unlose-app/unlose",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 12:01:04 +0000",
+      "timestamp": 1787659264.0
+    },
+    {
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 25 Aug 2026 12:00:00 +0000",
+      "timestamp": 1787659200.0
+    },
+    {
+      "title": "We built a structured entity graph for an AI agent. Then we removed most of it",
+      "link": "https://blog.getcassis.com/context-engineering-for-analytics-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 11:42:59 +0000",
+      "timestamp": 1787658179.0
+    },
+    {
+      "title": "An Interesting AI Educational Animation Generator",
+      "link": "https://fogsight.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 11:36:25 +0000",
+      "timestamp": 1787657785.0
+    },
     {
       "title": "SEC reportedly subpoenas Wall St banks over AI hedge fund Situational Awareness",
       "link": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
@@ -84,51 +201,6 @@
       "timestamp": 1787653200.0
     },
     {
-      "title": "Show HN: SkillPreflight – score AI agent skills before installing them",
-      "link": "https://github.com/agent-contracts/skill-preflight",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 10:08:13 +0000",
-      "timestamp": 1787652493.0
-    },
-    {
-      "title": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026",
-      "link": "https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 09:52:58 +0000",
-      "timestamp": 1787651578.0
-    },
-    {
-      "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground",
-      "link": "https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 09:50:22 +0000",
-      "timestamp": 1787651422.0
-    },
-    {
-      "title": "Highest AI benchmarks ≠ adoption stonks",
-      "link": "https://pran.sh/blog/reliable-model-wins",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 09:35:49 +0000",
-      "timestamp": 1787650549.0
-    },
-    {
-      "title": "Ox Alpha – A mysterious new AI model",
-      "link": "https://oxalpha.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 09:31:53 +0000",
-      "timestamp": 1787650313.0
-    },
-    {
       "title": "It Should Be Harder to Apply for a Job. No, Really",
       "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
       "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
@@ -136,24 +208,6 @@
       "source": "Wired AI",
       "published": "Tue, 25 Aug 2026 09:30:00 +0000",
       "timestamp": 1787650200.0
-    },
-    {
-      "title": "Sam Altman on AI: 'We've not had the iPhone moment'",
-      "link": "https://www.youtube.com/watch?v=dktlHZOSn5o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 09:29:42 +0000",
-      "timestamp": 1787650182.0
-    },
-    {
-      "title": "Trump's tariffs risk higher prices for AI, video games, cellphones: experts",
-      "link": "https://www.cbc.ca/news/business/trump-tariff-ai-9.7318970",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 09:22:18 +0000",
-      "timestamp": 1787649738.0
     },
     {
       "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
@@ -172,42 +226,6 @@
       "source": "Wired AI",
       "published": "Tue, 25 Aug 2026 09:15:00 +0000",
       "timestamp": 1787649300.0
-    },
-    {
-      "title": "Jensen Huang: Land power and shell – The next critical resource for AI factories",
-      "link": "https://twitter.com/JensenHuang/status/2089331487342829862",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 09:13:17 +0000",
-      "timestamp": 1787649197.0
-    },
-    {
-      "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
-      "link": "https://www.abbysteele.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 09:10:19 +0000",
-      "timestamp": 1787649019.0
-    },
-    {
-      "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
-      "link": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 09:08:32 +0000",
-      "timestamp": 1787648912.0
-    },
-    {
-      "title": "Terminal-bench: benchmarks for AI agents in terminal environments",
-      "link": "https://www.tbench.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 08:38:40 +0000",
-      "timestamp": 1787647120.0
     },
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -397,24 +415,6 @@
       "source": "The Verge AI",
       "published": "2026-08-21T17:25:50-04:00",
       "timestamp": 1787347550.0
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "timestamp": 1787341419.0
-    },
-    {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "timestamp": 1787320800.0
     },
     {
       "title": "Major YouTube creators are facing backlash for accepting AI money",
