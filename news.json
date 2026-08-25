@@ -1,7 +1,34 @@
 {
-  "scraped_at": "2026-08-25T22:43:56.652580+00:00",
+  "scraped_at": "2026-08-25T23:36:11.430613+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI Disruptors: How the Next Generation of Business Is Being Built",
+      "link": "https://www.digitalocean.com/blog/ai-disruptors",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 23:22:19 +0000",
+      "timestamp": 1787700139.0
+    },
+    {
+      "title": "Hermes Agent – Open-Source AI Agent That Grows with You",
+      "link": "https://hermes-agent.nousresearch.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 23:14:41 +0000",
+      "timestamp": 1787699681.0
+    },
+    {
+      "title": "AI Home Lab for Beginners: The Deep Dive",
+      "link": "https://augmentedmind.substack.com/p/ai-home-lab-for-beginners",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 22:35:46 +0000",
+      "timestamp": 1787697346.0
+    },
     {
       "title": "New AI Agent to Autonomously Prepare and Send Docs Out for Signature",
       "link": "https://slack.com/marketplace/A095XNK8GPK-docendorse-ai-agent?nojsmode=1",
@@ -163,33 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 25 Aug 2026 18:41:21 +0000",
       "timestamp": 1787683281.0
-    },
-    {
-      "title": "Is AI slowing you down?",
-      "link": "https://news.ycombinator.com/item?id=49438590",
-      "summary": "I am genuinely curious about this question and want to understand people's experiences. I'm a principal engineer with decades of experience, I am currently working on a massive codebase that does RPA (data entry automation for old software). I can get my agents to build complex features from scratch, However, if I don't describe exactly how it needs to be built (low level specs), or if I don't know how the current codebase needs to be updated to support this change, things quickly get out of control. So in other words, if I trust the agents to make any design decisions on their own, then a lot",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 18:37:09 +0000",
-      "timestamp": 1787683029.0
-    },
-    {
-      "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
-      "link": "https://aiandeducation.mit.edu/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 18:29:18 +0000",
-      "timestamp": 1787682558.0
-    },
-    {
-      "title": "AI Grinding for Fun and Cryptanalysis",
-      "link": "https://arxiv.org/abs/2608.21986",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 18:28:55 +0000",
-      "timestamp": 1787682535.0
     },
     {
       "title": "Claude Cowork finally remembers what you told the app in chat",
