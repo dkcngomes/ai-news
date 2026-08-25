@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-25T03:58:06.005735+00:00",
+  "scraped_at": "2026-08-25T04:52:30.399853+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
+      "link": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 04:38:01 +0000",
+      "timestamp": 1787632681.0
+    },
+    {
+      "title": "Darkbloom (decentralized AI inference on Macs)-community security audit findings",
+      "link": "https://github.com/Layr-Labs/d-inference/issues/705",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 04:35:49 +0000",
+      "timestamp": 1787632549.0
+    },
+    {
+      "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
+      "link": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 04:22:30 +0000",
+      "timestamp": 1787631750.0
+    },
+    {
+      "title": "Code maintainability plummets in the AI coding era",
+      "link": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 04:21:41 +0000",
+      "timestamp": 1787631701.0
+    },
+    {
+      "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
+      "link": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 04:08:43 +0000",
+      "timestamp": 1787630923.0
+    },
+    {
+      "title": "AI algorithm for room temperature superconductor, candidate detected",
+      "link": "https://zenodo.org/records/22073633",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 03:53:04 +0000",
+      "timestamp": 1787629984.0
+    },
     {
       "title": "Nvidia Is Spending $6B to Build a Powerful U.S. Alternative to Chinese AI",
       "link": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
@@ -136,60 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 24 Aug 2026 23:43:09 +0000",
       "timestamp": 1787614989.0
-    },
-    {
-      "title": "AI Skills for Real Engineers",
-      "link": "https://blog.master.dev/introducing-ai-skills-for-real-engineers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 23:39:22 +0000",
-      "timestamp": 1787614762.0
-    },
-    {
-      "title": "What my dad taught me about AI coding in the 90s",
-      "link": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 23:23:32 +0000",
-      "timestamp": 1787613812.0
-    },
-    {
-      "title": "UK will use Ukraine battlefield data to train AI and use it againsts protesters",
-      "link": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 23:12:13 +0000",
-      "timestamp": 1787613133.0
-    },
-    {
-      "title": "Show HN: AiSyncing – Back up your AI coding assistant memories to GitHub",
-      "link": "https://github.com/DiegoSalazar/AiSyncing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 22:52:08 +0000",
-      "timestamp": 1787611928.0
-    },
-    {
-      "title": "Characterizing the spiral: potential mechanisms in AI-associated delusions",
-      "link": "https://www.nature.com/articles/s44277-026-00065-0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 22:50:05 +0000",
-      "timestamp": 1787611805.0
-    },
-    {
-      "title": "PageLens–A Chrome extension that uses AI to summarize your tab",
-      "link": "https://github.com/heinevwinston-bot/PageLens",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 22:25:16 +0000",
-      "timestamp": 1787610316.0
     },
     {
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
