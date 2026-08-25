@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-08-25T04:52:30.399853+00:00",
+  "scraped_at": "2026-08-25T05:46:24.393620+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes",
+      "link": "https://llmpanel.io",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 05:40:47 +0000",
+      "timestamp": 1787636447.0
+    },
+    {
+      "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
+      "link": "https://www.bbc.co.uk/news/articles/c2dk6wzjw23o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 05:31:24 +0000",
+      "timestamp": 1787635884.0
+    },
+    {
+      "title": "I made HACKER AI for you vibecoded app",
+      "link": "https://www.netherite.uz",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 05:27:04 +0000",
+      "timestamp": 1787635624.0
+    },
+    {
+      "title": "Show HN: When AI Decides What Matters",
+      "link": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 04:56:55 +0000",
+      "timestamp": 1787633815.0
+    },
     {
       "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
       "link": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
@@ -147,24 +183,6 @@
       "timestamp": 1787621144.0
     },
     {
-      "title": "Russian drone guided by AI kills civilians in Ukraine",
-      "link": "https://www.aerotime.aero/articles/russian-drone-guided-entirely-by-ai-kills-civilians-in-ukraine",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 01:18:25 +0000",
-      "timestamp": 1787620705.0
-    },
-    {
-      "title": "Who will decide that level AI you have access to?",
-      "link": "https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 00:34:19 +0000",
-      "timestamp": 1787618059.0
-    },
-    {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
       "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
       "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
@@ -172,24 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 25 Aug 2026 00:23:12 +0000",
       "timestamp": 1787617392.0
-    },
-    {
-      "title": "AI Is Dissolving Software Moats. China Did It to Hardware First",
-      "link": "https://mehmetmhy.com/posts/modern_moat/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 23:54:17 +0000",
-      "timestamp": 1787615657.0
-    },
-    {
-      "title": "I audited 2,475 businesses for AI-search readiness. 88% failed",
-      "link": "https://docs.google.com/document/d/1Z_RNzARxQZS9TDmQDGr7Da5mqqmbwTbbe8pWvl92tHw/edit?usp=sharing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 23:43:09 +0000",
-      "timestamp": 1787614989.0
     },
     {
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
@@ -381,9 +381,9 @@
       "timestamp": 1787341419.0
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
