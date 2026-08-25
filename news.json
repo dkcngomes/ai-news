@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-25T16:54:00.200801+00:00",
+  "scraped_at": "2026-08-25T17:44:45.746701+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Software Firms Deploy Bluster and Buybacks to Counter AI Fears",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-21/salesforce-servicenow-fight-ai-fears-with-buybacks-and-bluster",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 17:14:16 +0000",
+      "timestamp": 1787678056.0
+    },
+    {
+      "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
+      "link": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 17:12:34 +0000",
+      "timestamp": 1787677954.0
+    },
+    {
+      "title": "The AI Hater's Manifesto",
+      "link": "https://www.wheresyoured.at/the-ai-haters-manifesto/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 17:07:51 +0000",
+      "timestamp": 1787677671.0
+    },
+    {
+      "title": "The AI-coding stack: a map for a landscape that won't sit still",
+      "link": "https://mineti.dev/articles/the-ai-coding-stack/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 17:06:06 +0000",
+      "timestamp": 1787677566.0
+    },
+    {
+      "title": "Meta's custom transport protocol embraces packet chaos to boost AI throughput",
+      "link": "https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 17:02:50 +0000",
+      "timestamp": 1787677370.0
+    },
+    {
+      "title": "The Download: smarter AI in schools, and a robot \"carnival\" in Shanghai",
+      "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 17:02:23 +0000",
+      "timestamp": 1787677343.0
+    },
+    {
+      "title": "AI payment rails exist. The rules for dividing value do not (SSRN 7321561)",
+      "link": "https://ssrn.com/abstract=7321561",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 16:59:42 +0000",
+      "timestamp": 1787677182.0
+    },
+    {
+      "title": "The AI Trade Is Becoming a Macro Trade",
+      "link": "https://www.emergingtrajectories.com/lh/ai-trade-is-macro/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 16:55:57 +0000",
+      "timestamp": 1787676957.0
+    },
     {
       "title": "Portable Computer is Perplexity's new local AI agent – why it's a game changer",
       "link": "https://www.zdnet.com/article/portable-computer-perplexity-local-ai-agent/",
@@ -109,78 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 25 Aug 2026 15:47:08 +0000",
       "timestamp": 1787672828.0
-    },
-    {
-      "title": "AI Engineering Productivity Metrics: Is AI Improving Your Team?",
-      "link": "https://www.howdy.com/blog/ai-engineering-productivity-metrics",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 15:44:19 +0000",
-      "timestamp": 1787672659.0
-    },
-    {
-      "title": "Show HN: Audit AI Generated Code with Go Std Lib",
-      "link": "https://blog.devgenius.io/how-to-audit-ai-generated-code-with-the-go-standard-library-381d0f03d52e?source=friends_link&sk=ec62bd2bace50df5821234e137a95910",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 15:43:24 +0000",
-      "timestamp": 1787672604.0
-    },
-    {
-      "title": "Launching V<Benchmark> by Megaton to Measure Video AI Performance",
-      "link": "https://megaton.ai/v-benchmark",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 15:37:50 +0000",
-      "timestamp": 1787672270.0
-    },
-    {
-      "title": "Perplexity and Nvidia to launch a local AI agent with zero token costs",
-      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 15:33:45 +0000",
-      "timestamp": 1787672025.0
-    },
-    {
-      "title": "Show HN: Bay – open-source Render for AI-generated Code",
-      "link": "https://github.com/thebaycloud/bay",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 15:30:36 +0000",
-      "timestamp": 1787671836.0
-    },
-    {
-      "title": "Australia's music industry bans AI songs from charts",
-      "link": "https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 15:28:15 +0000",
-      "timestamp": 1787671695.0
-    },
-    {
-      "title": "What if AI coding agents had an engineering constitution?",
-      "link": "https://github.com/NAEOS-foundation/naeos",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 15:26:30 +0000",
-      "timestamp": 1787671590.0
-    },
-    {
-      "title": "How much of HN is AI?",
-      "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 15:23:41 +0000",
-      "timestamp": 1787671421.0
     },
     {
       "title": "Gamma acquires Accel-backed design startup Lica",
