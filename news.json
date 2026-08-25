@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-25T07:57:09.074278+00:00",
+  "scraped_at": "2026-08-25T08:59:04.313628+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Terminal-bench: benchmarks for AI agents in terminal environments",
+      "link": "https://www.tbench.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 08:38:40 +0000",
+      "timestamp": 1787647120.0
+    },
+    {
+      "title": "Show HN: Ablo, make your AI app multiplayer",
+      "link": "https://github.com/Abloatai/ablo",
+      "summary": "Agent work is safe today mostly because agents work alone. With one agent, one session and one person working on a task. It's essentially single-player. This changes when a platform has multiple people, each working with multiple agents, all acting on shared tasks and shared data, (multiplayer). Ablo is the infrastructure that enables agents and the people working alongside them to read and write on the same state. Traditional sync engines make sure everyone sees the same state, Ablo does that too but the difference is that Ablo also governs who gets to act on it. Would love feedback from anyo",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 08:38:03 +0000",
+      "timestamp": 1787647083.0
+    },
+    {
+      "title": "Has AI Gone Rogue?",
+      "link": "https://calnewport.com/has-ai-gone-rogue/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 08:29:51 +0000",
+      "timestamp": 1787646591.0
+    },
+    {
+      "title": "Games as the Engine of AI Research",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 08:16:04 +0000",
+      "timestamp": 1787645764.0
+    },
+    {
+      "title": "Dutch lawyer fined €2,300 for using AI-hallucinated citation",
+      "link": "https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 07:55:38 +0000",
+      "timestamp": 1787644538.0
+    },
+    {
+      "title": "Show HN: I built an AI music generator with some harnesses",
+      "link": "https://onlymusic.ai",
+      "summary": "I’m a developer, and also a music producer. When I work on commercial music, especially songs for ads, I’ve gotten pretty used to using AI music tools as part of the creative process. But I noticed that some people around me — e.g. my girlfriend — also want to create music as a way to express themselves, but often run into a few problems when using AI music tools: 1. They don’t have a music background, so it’s hard for them to clearly describe the sound they want. 2. Sometimes they just want a song in the style of a certain artist, and the easiest way for them to express that is by naming the ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 07:55:24 +0000",
+      "timestamp": 1787644524.0
+    },
     {
       "title": "What \"Traceable Lineage\" Requires: A Teardown of the FBI TSC AI Sources Sought",
       "link": "https://zatona.dev/blog/fbi-tsc-traceable-lineage",
@@ -127,60 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 25 Aug 2026 04:38:01 +0000",
       "timestamp": 1787632681.0
-    },
-    {
-      "title": "Darkbloom (decentralized AI inference on Macs)-community security audit findings",
-      "link": "https://github.com/Layr-Labs/d-inference/issues/705",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 04:35:49 +0000",
-      "timestamp": 1787632549.0
-    },
-    {
-      "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
-      "link": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 04:22:30 +0000",
-      "timestamp": 1787631750.0
-    },
-    {
-      "title": "Code maintainability plummets in the AI coding era",
-      "link": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 04:21:41 +0000",
-      "timestamp": 1787631701.0
-    },
-    {
-      "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
-      "link": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 04:08:43 +0000",
-      "timestamp": 1787630923.0
-    },
-    {
-      "title": "AI algorithm for room temperature superconductor, candidate detected",
-      "link": "https://zenodo.org/records/22073633",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 03:53:04 +0000",
-      "timestamp": 1787629984.0
-    },
-    {
-      "title": "Nvidia Is Spending $6B to Build a Powerful U.S. Alternative to Chinese AI",
-      "link": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 03:05:11 +0000",
-      "timestamp": 1787627111.0
     },
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -381,9 +381,9 @@
       "timestamp": 1787341419.0
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
