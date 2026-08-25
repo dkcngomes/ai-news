@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25T15:03:30.860211+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-25T15:58:58.591915+00:00",
+  "count": 47,
   "items": [
     {
       "title": "Gamma acquires Accel-backed design startup Lica",
@@ -12,51 +12,6 @@
       "timestamp": 1787670000.0
     },
     {
-      "title": "Show HN: Reproduce a cross-company AI agent handoff, including its revocation",
-      "link": "https://github.com/identities-ai/ratify-agent-relay-harness",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 14:54:55 +0000",
-      "timestamp": 1787669695.0
-    },
-    {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 14:48:58 +0000",
-      "timestamp": 1787669338.0
-    },
-    {
-      "title": "Show HN: A daily cartoon contest between AI models, judged blind",
-      "link": "https://comic-cron.com/",
-      "summary": "Comic-cron.com is a daily contest where AI models draw a single panel cartoon about a recent news story and people vote on which are funny. I built it mainly because I love cartoons and news, but this project isn’t trying to pretend it’s human art, I wanted to see how capable the models were at this task of making funny comics. Sometimes they get it, and sometimes they don’t and it has been interesting to see the progress in just the few months I have been publishing the cartoons. Model version over version improvement within labs is quite distinct in the output, especially in the SVGs, which ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 14:46:36 +0000",
-      "timestamp": 1787669196.0
-    },
-    {
-      "title": "Free AI Based Interview Preparation",
-      "link": "https://www.interviewbasecamp.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 14:44:34 +0000",
-      "timestamp": 1787669074.0
-    },
-    {
-      "title": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-      "link": "https://openai.com/index/jalapeno-first-results/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 14:33:46 +0000",
-      "timestamp": 1787668426.0
-    },
-    {
       "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
       "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
       "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
@@ -66,24 +21,6 @@
       "timestamp": 1787667724.0
     },
     {
-      "title": "Show HN: Turn any website into a CLI for AI agents (142x fewer tokens than HTML)",
-      "link": "https://github.com/only-cli/oc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 14:07:07 +0000",
-      "timestamp": 1787666827.0
-    },
-    {
-      "title": "AI assistants need adaptive conversational tempo to be good cognitive companions",
-      "link": "https://woventhought.substack.com/p/ai-assistants-need-adaptive-conversational",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 14:02:02 +0000",
-      "timestamp": 1787666522.0
-    },
-    {
       "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
       "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
       "summary": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&#241;o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems [&#8230;]",
@@ -91,123 +28,6 @@
       "source": "The Verge AI",
       "published": "2026-08-25T10:00:00-04:00",
       "timestamp": 1787666400.0
-    },
-    {
-      "title": "Show HN: Unbox-AI Visualize your AI traces like a JavaScript bundle",
-      "link": "https://github.com/tester-army/unbox-ai",
-      "summary": "When building AI agents, I found myself struggling to understand what exactly is happening inside of all of our traces. I was pasting huge JSON files to my AI agent to parse and get some useful insights from it. Then I thought, Webpack bundle visualizer had this great view to see all your dependencies - what if we could visualize AI context from traces like this? So I built unbox-ai. It's just one command: npx unbox-ai trace.json It also ships with an agent skill so your AI agent doesn't need to parse through a huge JSON file to analyze a trace. Let me know what you think!",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:57:45 +0000",
-      "timestamp": 1787666265.0
-    },
-    {
-      "title": "AI Coding Has Erased the Supposed Advantage of Statically Typed Languages",
-      "link": "https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:55:48 +0000",
-      "timestamp": 1787666148.0
-    },
-    {
-      "title": "What 219 AI evals job postings that publish a salary pay",
-      "link": "https://aievalsjobs.com/ai-evals-salary-report/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:54:21 +0000",
-      "timestamp": 1787666061.0
-    },
-    {
-      "title": "AI Can See Optical Illusions",
-      "link": "https://nautil.us/ai-can-see-optical-illusions-1284064",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:51:21 +0000",
-      "timestamp": 1787665881.0
-    },
-    {
-      "title": "BitTime: The only solution that replaces currency to restrain AI",
-      "link": "https://github.com/builder0821/BitTime",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:50:14 +0000",
-      "timestamp": 1787665814.0
-    },
-    {
-      "title": "Confidential tokens: Routing is coming for the Frontier AI Labs",
-      "link": "https://www.axios.com/2026/08/25/routing-is-coming-for-the-frontier-ai-labs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:45:14 +0000",
-      "timestamp": 1787665514.0
-    },
-    {
-      "title": "Sablejs 2.0 – An AOT sandbox for AI-generated JavaScript",
-      "link": "https://github.com/ErosZy/sablejs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:42:41 +0000",
-      "timestamp": 1787665361.0
-    },
-    {
-      "title": "Ten ways an AI breaks under pressure. How many you can catch?",
-      "link": "https://splabs.io/red-teamer-intuition-quotient",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:33:36 +0000",
-      "timestamp": 1787664816.0
-    },
-    {
-      "title": "The state of AI in 2026: On the road to ROI",
-      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:32:52 +0000",
-      "timestamp": 1787664772.0
-    },
-    {
-      "title": "AI chatbots are becoming experts at changing people's minds. What's their edge?",
-      "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:15:51 +0000",
-      "timestamp": 1787663751.0
-    },
-    {
-      "title": "Triangulating AI's Climate Impact, a Look at Studies, Research and Regulation",
-      "link": "https://read.misalignedmag.com/triangulating-ais-climate-impact-a-look-at-studies-research-and-regulation-52c3ff52e9dc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:09:39 +0000",
-      "timestamp": 1787663379.0
-    },
-    {
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:01:22 +0000",
-      "timestamp": 1787662882.0
-    },
-    {
-      "title": "An open protocol for AI-mediated product discovery",
-      "link": "https://github.com/open-receipt-protocol/orp/blob/main/README.md",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 13:00:14 +0000",
-      "timestamp": 1787662814.0
     },
     {
       "title": "Accel-backed Keenable is indexing the web for AI agents",
