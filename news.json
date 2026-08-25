@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-25T07:07:15.623256+00:00",
+  "scraped_at": "2026-08-25T07:57:09.074278+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "What \"Traceable Lineage\" Requires: A Teardown of the FBI TSC AI Sources Sought",
+      "link": "https://zatona.dev/blog/fbi-tsc-traceable-lineage",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 07:37:25 +0000",
+      "timestamp": 1787643445.0
+    },
+    {
+      "title": "Do You Still Need to Read AI Code?",
+      "link": "https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 07:30:31 +0000",
+      "timestamp": 1787643031.0
+    },
+    {
+      "title": "Free-AI-Tools-Hub.com Launch",
+      "link": "https://news.ycombinator.com/item?id=49430180",
+      "summary": "We have launch our new Free AI Tools website for common people to deal with their routine tasks and job things. From AI Chat to Ai Email writing and AI Songs lyrics, find 42+ tools on 1 website.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 07:20:46 +0000",
+      "timestamp": 1787642446.0
+    },
+    {
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 07:13:09 +0000",
+      "timestamp": 1787641989.0
+    },
+    {
+      "title": "I found an SSRF in Google's official AI tooling, and how Google reacted",
+      "link": "https://news.ycombinator.com/item?id=49429926",
+      "summary": "Earlier this year I found a server-side request forgery bug in Google's MCP Toolbox, the official server Google publishes for connecting language-model agents to databases and HTTP APIs. I reported it. Google fixed it in eight days, credited me by name, and the fix later became CVE-2026-14540 (CVSS 8.0, high). What I found: the MCP Toolbox's HTTP source makes outbound requests to a URL a caller can influence. It validated that first URL, but not where a redirect sent it next, and it did no filtering on the destination address at all. If the server you're calling answers with a redirect to 169.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 06:46:17 +0000",
+      "timestamp": 1787640377.0
+    },
     {
       "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
       "link": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
@@ -136,51 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 25 Aug 2026 03:05:11 +0000",
       "timestamp": 1787627111.0
-    },
-    {
-      "title": "Thomson Reuters Standard for High Stakes AI",
-      "link": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 02:54:21 +0000",
-      "timestamp": 1787626461.0
-    },
-    {
-      "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
-      "link": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 02:45:56 +0000",
-      "timestamp": 1787625956.0
-    },
-    {
-      "title": "Show HN: PeerPixel, community-powered AI image generation",
-      "link": "https://peerpixel.cc/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 02:32:10 +0000",
-      "timestamp": 1787625130.0
-    },
-    {
-      "title": "Is there a pending AI 'debt bomb' crisis? No. This isn't Enron 2.0",
-      "link": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 02:30:27 +0000",
-      "timestamp": 1787625027.0
-    },
-    {
-      "title": "Capture why AI wrote each commit, stored in Git-notes",
-      "link": "https://github.com/surajsrivastav/gitwhy",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 02:27:55 +0000",
-      "timestamp": 1787624875.0
     },
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -381,9 +381,9 @@
       "timestamp": 1787341419.0
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
