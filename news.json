@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-25T01:51:15.793877+00:00",
+  "scraped_at": "2026-08-25T03:11:57.138374+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Thomson Reuters Standard for High Stakes AI",
+      "link": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 02:54:21 +0000",
+      "timestamp": 1787626461.0
+    },
+    {
+      "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
+      "link": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 02:45:56 +0000",
+      "timestamp": 1787625956.0
+    },
+    {
+      "title": "Show HN: PeerPixel, community-powered AI image generation",
+      "link": "https://peerpixel.cc/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 02:32:10 +0000",
+      "timestamp": 1787625130.0
+    },
+    {
+      "title": "Is there a pending AI 'debt bomb' crisis? No. This isn't Enron 2.0",
+      "link": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 02:30:27 +0000",
+      "timestamp": 1787625027.0
+    },
+    {
+      "title": "Capture why AI wrote each commit, stored in Git-notes",
+      "link": "https://github.com/surajsrivastav/gitwhy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 02:27:55 +0000",
+      "timestamp": 1787624875.0
+    },
+    {
+      "title": "Sellers on Shopee, TikTok call out auto-generated AI ads that mislead customers",
+      "link": "https://www.channelnewsasia.com/singapore/ai-generated-videos-shopee-tiktok-misleading-sellers-6336961",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 02:23:16 +0000",
+      "timestamp": 1787624596.0
+    },
+    {
+      "title": "ZeroPop: AI trading card grading / pricing / ID for iOS, Android, and Web",
+      "link": "https://zeropop.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 02:20:58 +0000",
+      "timestamp": 1787624458.0
+    },
+    {
+      "title": "80% of developers find AI coding more addictive than helpful",
+      "link": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 02:09:52 +0000",
+      "timestamp": 1787623792.0
+    },
     {
       "title": "Enterprise AI Operating System",
       "link": "https://devnavigator.com/2026/08/25/enterprise-ai-operating-system/",
@@ -120,51 +192,6 @@
       "timestamp": 1787610168.0
     },
     {
-      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
-      "link": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 22:07:06 +0000",
-      "timestamp": 1787609226.0
-    },
-    {
-      "title": "AI text watermarking and quality loss",
-      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 22:05:51 +0000",
-      "timestamp": 1787609151.0
-    },
-    {
-      "title": "See what your content is worth to AI agents",
-      "link": "https://index.parallel.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 22:05:48 +0000",
-      "timestamp": 1787609148.0
-    },
-    {
-      "title": "SpaceX Shares Sink on AI Spending Plans",
-      "link": "https://www.wsj.com/tech/ai/spacex-says-spending-spree-is-supercharging-ai-revenues-ea750ff3",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 21:52:52 +0000",
-      "timestamp": 1787608372.0
-    },
-    {
-      "title": "AI-to-AI Code Reviews of GitHub Pull Requests",
-      "link": "https://arxiv.org/abs/2608.21311",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 21:41:26 +0000",
-      "timestamp": 1787607686.0
-    },
-    {
       "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
       "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
       "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
@@ -172,33 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 24 Aug 2026 21:24:17 +0000",
       "timestamp": 1787606657.0
-    },
-    {
-      "title": "Replace \"using AI\" with \"using computers\"",
-      "link": "https://blog.astrost.at/u/replace-using-ai-with-using-computers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 21:20:06 +0000",
-      "timestamp": 1787606406.0
-    },
-    {
-      "title": "Senior Full-Stack Platform Engineer – AI-Assisted Engineering",
-      "link": "https://dordar.zohorecruit.com/jobs/Careers/871895000000585001/Senior-Full-Stack-Platform-Engineer-AI-Assisted-Engineering?source=CareerSite",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 20:48:28 +0000",
-      "timestamp": 1787604508.0
-    },
-    {
-      "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
-      "link": "https://dactyl.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 24 Aug 2026 20:45:07 +0000",
-      "timestamp": 1787604307.0
     },
     {
       "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
