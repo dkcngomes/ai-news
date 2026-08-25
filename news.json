@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-08-25T09:50:14.873562+00:00",
+  "scraped_at": "2026-08-25T10:48:41.890476+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+      "link": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 10:38:04 +0000",
+      "timestamp": 1787654284.0
+    },
+    {
+      "title": "We open-sourced Myli: a harness for AI design agents",
+      "link": "https://github.com/EightPotions/Myli",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 10:20:00 +0000",
+      "timestamp": 1787653200.0
+    },
+    {
+      "title": "Show HN: SkillPreflight – score AI agent skills before installing them",
+      "link": "https://github.com/agent-contracts/skill-preflight",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 10:08:13 +0000",
+      "timestamp": 1787652493.0
+    },
+    {
+      "title": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026",
+      "link": "https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 09:52:58 +0000",
+      "timestamp": 1787651578.0
+    },
+    {
+      "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground",
+      "link": "https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 09:50:22 +0000",
+      "timestamp": 1787651422.0
+    },
     {
       "title": "Highest AI benchmarks ≠ adoption stonks",
       "link": "https://pran.sh/blog/reliable-model-wins",
@@ -163,51 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 25 Aug 2026 07:30:31 +0000",
       "timestamp": 1787643031.0
-    },
-    {
-      "title": "Free-AI-Tools-Hub.com Launch",
-      "link": "https://news.ycombinator.com/item?id=49430180",
-      "summary": "We have launch our new Free AI Tools website for common people to deal with their routine tasks and job things. From AI Chat to Ai Email writing and AI Songs lyrics, find 42+ tools on 1 website.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 07:20:46 +0000",
-      "timestamp": 1787642446.0
-    },
-    {
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 07:13:09 +0000",
-      "timestamp": 1787641989.0
-    },
-    {
-      "title": "I found an SSRF in Google's official AI tooling, and how Google reacted",
-      "link": "https://news.ycombinator.com/item?id=49429926",
-      "summary": "Earlier this year I found a server-side request forgery bug in Google's MCP Toolbox, the official server Google publishes for connecting language-model agents to databases and HTTP APIs. I reported it. Google fixed it in eight days, credited me by name, and the fix later became CVE-2026-14540 (CVSS 8.0, high). What I found: the MCP Toolbox's HTTP source makes outbound requests to a URL a caller can influence. It validated that first URL, but not where a redirect sent it next, and it did no filtering on the destination address at all. If the server you're calling answers with a redirect to 169.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 06:46:17 +0000",
-      "timestamp": 1787640377.0
-    },
-    {
-      "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
-      "link": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 06:43:03 +0000",
-      "timestamp": 1787640183.0
-    },
-    {
-      "title": "New technology lets cloud AI models process your data without privacy leaks",
-      "link": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 06:11:42 +0000",
-      "timestamp": 1787638302.0
     },
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
