@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-08-25T14:02:48.872403+00:00",
+  "scraped_at": "2026-08-25T15:03:30.860211+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "summary": "Lica co-founders are going to work on Gamma's new research team.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 25 Aug 2026 15:00:00 +0000",
+      "timestamp": 1787670000.0
+    },
+    {
+      "title": "Show HN: Reproduce a cross-company AI agent handoff, including its revocation",
+      "link": "https://github.com/identities-ai/ratify-agent-relay-harness",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 14:54:55 +0000",
+      "timestamp": 1787669695.0
+    },
+    {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 14:48:58 +0000",
+      "timestamp": 1787669338.0
+    },
+    {
+      "title": "Show HN: A daily cartoon contest between AI models, judged blind",
+      "link": "https://comic-cron.com/",
+      "summary": "Comic-cron.com is a daily contest where AI models draw a single panel cartoon about a recent news story and people vote on which are funny. I built it mainly because I love cartoons and news, but this project isn’t trying to pretend it’s human art, I wanted to see how capable the models were at this task of making funny comics. Sometimes they get it, and sometimes they don’t and it has been interesting to see the progress in just the few months I have been publishing the cartoons. Model version over version improvement within labs is quite distinct in the output, especially in the SVGs, which ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 14:46:36 +0000",
+      "timestamp": 1787669196.0
+    },
+    {
+      "title": "Free AI Based Interview Preparation",
+      "link": "https://www.interviewbasecamp.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 14:44:34 +0000",
+      "timestamp": 1787669074.0
+    },
+    {
+      "title": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
+      "link": "https://openai.com/index/jalapeno-first-results/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 14:33:46 +0000",
+      "timestamp": 1787668426.0
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 25 Aug 2026 14:22:04 +0000",
+      "timestamp": 1787667724.0
+    },
+    {
+      "title": "Show HN: Turn any website into a CLI for AI agents (142x fewer tokens than HTML)",
+      "link": "https://github.com/only-cli/oc",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 14:07:07 +0000",
+      "timestamp": 1787666827.0
+    },
+    {
+      "title": "AI assistants need adaptive conversational tempo to be good cognitive companions",
+      "link": "https://woventhought.substack.com/p/ai-assistants-need-adaptive-conversational",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 25 Aug 2026 14:02:02 +0000",
+      "timestamp": 1787666522.0
+    },
     {
       "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
       "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
@@ -136,69 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 25 Aug 2026 13:00:00 +0000",
       "timestamp": 1787662800.0
-    },
-    {
-      "title": "AI for Peace Workshop – ICLR 2026",
-      "link": "https://www.youtube.com/watch?v=KHzzf0tIwDM",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 12:53:32 +0000",
-      "timestamp": 1787662412.0
-    },
-    {
-      "title": "Recent public co filings analyzed: AI not generating profit yet",
-      "link": "https://aiearnings.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 12:24:59 +0000",
-      "timestamp": 1787660699.0
-    },
-    {
-      "title": "When AI Writes the Code, Verification Is the New Implementation",
-      "link": "https://sarpex.com/2026/08-verification-is-the-new-implementation",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 12:15:16 +0000",
-      "timestamp": 1787660116.0
-    },
-    {
-      "title": "Run manual QA test cases in a real browser with an AI agent",
-      "link": "https://github.com/broxhq/qpilot",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 12:07:07 +0000",
-      "timestamp": 1787659627.0
-    },
-    {
-      "title": "Show HN: Prelo – a WordPress-style admin for AI-built sites",
-      "link": "https://www.prelo.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 12:06:13 +0000",
-      "timestamp": 1787659573.0
-    },
-    {
-      "title": "Show HN: Neither HTML nor Markdown is enough: a way out of the AI doc dilemma",
-      "link": "https://news.ycombinator.com/item?id=49432443",
-      "summary": "A recent post from Anthropic's Claude Code team (\"The Unreasonable Effectiveness of HTML\", https://thariqs.github.io/html-effectiveness/) argued that with today's context windows the bottleneck is human attention — rich HTML for decision surfaces, Markdown for durable records. That split makes sense to me. What it leaves open, in my experience, is the durable record itself: what happens when that is the thing an agent must iteratively co-author? You end up picking one and paying for the other — a surface people will read, or a record you can keep — and whichever you pick, the other drifts. Mar",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 12:02:03 +0000",
-      "timestamp": 1787659323.0
-    },
-    {
-      "title": "Show HN: Unlose – Windows VSS snapshots before your AI agent deletes your files",
-      "link": "https://github.com/unlose-app/unlose",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 12:01:04 +0000",
-      "timestamp": 1787659264.0
     },
     {
       "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
@@ -397,24 +415,6 @@
       "source": "Wired AI",
       "published": "Fri, 21 Aug 2026 23:25:32 +0000",
       "timestamp": 1787354732.0
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "timestamp": 1787353645.0
-    },
-    {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 21 Aug 2026 22:37:38 +0000",
-      "timestamp": 1787351858.0
     },
     {
       "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
