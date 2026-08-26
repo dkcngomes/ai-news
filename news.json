@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-26T03:17:31.620775+00:00",
+  "scraped_at": "2026-08-26T04:54:30.937164+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Kraftapp AI – Describe it. We build it. Customers find it",
+      "link": "https://kraftapp.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 03:59:56 +0000",
+      "timestamp": 1787716796.0
+    },
+    {
+      "title": "Show HN: Hands-on Docker security labs, from CIS checks to AI context poisoning",
+      "link": "https://github.com/opscart/docker-security-practical-guide",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 03:56:32 +0000",
+      "timestamp": 1787716592.0
+    },
+    {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 03:30:00 +0000",
+      "timestamp": 1787715000.0
+    },
+    {
+      "title": "The AI founders who walked away from Bezos-backed Prometheus to model universe",
+      "link": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 03:27:52 +0000",
+      "timestamp": 1787714872.0
+    },
+    {
+      "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
+      "link": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 03:23:50 +0000",
+      "timestamp": 1787714630.0
+    },
+    {
+      "title": "What platform has the best AI CMO?",
+      "link": "https://news.ycombinator.com/item?id=49443800",
+      "summary": "I've seen heycatch and okara, maybe a few others like it... seems like they plug into reddit api and provide ai ugc tools. Does anyone have any success using tools like these? I wouldn't imagine much, but I wanted to get a temperature check. What's working, whats not?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 03:13:26 +0000",
+      "timestamp": 1787714006.0
+    },
     {
       "title": "Darkbloom (AI inference on idle Macs) – security audit with PRs submitted",
       "link": "https://gist.github.com/mudiam/1ffc898333ac3d5bdc5d7fac96d33360",
@@ -154,51 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Tue, 25 Aug 2026 20:40:30 +0000",
       "timestamp": 1787690430.0
-    },
-    {
-      "title": "AI, IPv6, and the future Internet at IETF 126",
-      "link": "https://blog.apnic.net/2026/08/25/ai-ipv6-and-the-future-internet-at-ietf-126/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 20:33:26 +0000",
-      "timestamp": 1787690006.0
-    },
-    {
-      "title": "The New York Times is publishing AI slop",
-      "link": "https://unpublishablepapers.substack.com/p/the-new-york-times-is-publishing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 20:32:25 +0000",
-      "timestamp": 1787689945.0
-    },
-    {
-      "title": "Codeberg TOS Now Rejects Predominantly AI Repos",
-      "link": "https://codeberg.org/Codeberg/org/compare/17bdb39b0c1ecd0e423f3ba592650ce57fcdfbf5..71149c7fc95ccfeae36109b5cddca339e4aa1473?files=TermsOfUse.md#diff-d760d688bb9b929b62db808bfc76abe4493d095a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 20:21:15 +0000",
-      "timestamp": 1787689275.0
-    },
-    {
-      "title": "Vidbyte Skills – Skills That Keep AI-Assisted Work from Becoming Passive",
-      "link": "https://github.com/cerredz/Vidbyte-Skills",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 20:14:34 +0000",
-      "timestamp": 1787688874.0
-    },
-    {
-      "title": "AI is supercharging hacks of everyday utilities",
-      "link": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 19:50:57 +0000",
-      "timestamp": 1787687457.0
     },
     {
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
@@ -397,15 +406,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 23 Aug 2026 15:00:00 +0000",
       "timestamp": 1787497200.0
-    },
-    {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 22 Aug 2026 21:46:56 +0000",
-      "timestamp": 1787435216.0
     },
     {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
