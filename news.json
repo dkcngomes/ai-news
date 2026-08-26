@@ -1,141 +1,222 @@
 {
-  "scraped_at": "2026-08-26T16:58:17.267048+00:00",
+  "scraped_at": "2026-08-26T19:18:55.451856+00:00",
   "count": 67,
   "items": [
     {
-      "title": "AI Lessons from Driving 200M Autonomous Miles",
-      "link": "https://waymo.com/blog/2026/08/10ailessons/",
+      "title": "Primus – AI Research Scientist",
+      "link": "https://lab.cloud/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:46:33 +0000",
-      "timestamp": 1787762793.0
+      "published": "Wed, 26 Aug 2026 19:11:26 +0000",
+      "timestamp": 1787771486.0
     },
     {
-      "title": "Gates Criticizes Tech Companies for Downplaying AI's Risks",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/bill-gates-criticizes-tech-companies-for-downplaying-ai-s-risks",
+      "title": "Disenchantment with the Post-AI Internet",
+      "link": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:45:35 +0000",
-      "timestamp": 1787762735.0
+      "published": "Wed, 26 Aug 2026 19:06:59 +0000",
+      "timestamp": 1787771219.0
     },
     {
-      "title": "Show HN: Yelp for AI Models/Products",
-      "link": "https://thevibes.dev/",
-      "summary": "Benchmarks are great but in addition to benchmarks, I thought it would be great to hear first hand reviews from vibe coders (engineers) who use AI models and subscriptions.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:40:29 +0000",
-      "timestamp": 1787762429.0
-    },
-    {
-      "title": "Show HN: FinOps-AI – Autonomous AWS Cost Optimizer and 1-Click IaC Remediator",
-      "link": "https://news.ycombinator.com/item?id=49452046",
+      "title": "Pricing proprietary AI data using Spirit Airlines' $10M sale",
+      "link": "https://tracerml.ai/research/pricing-capability/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:40:16 +0000",
-      "timestamp": 1787762416.0
+      "published": "Wed, 26 Aug 2026 19:05:27 +0000",
+      "timestamp": 1787771127.0
     },
     {
-      "title": "Patience Is Required for Local AI",
-      "link": "https://kylemcgough.com/blogs/patience-is-required-for-local-ai",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 19:05:22 +0000",
+      "timestamp": 1787771122.0
+    },
+    {
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:36:40 +0000",
-      "timestamp": 1787762200.0
+      "published": "Wed, 26 Aug 2026 19:01:51 +0000",
+      "timestamp": 1787770911.0
     },
     {
-      "title": "Show HN: airtxt – iPhone dictation with on-device STT and an AI cleanup pass",
-      "link": "https://apps.apple.com/us/app/airtxt/id6785986350",
+      "title": "Aperture GA: Building a home(lab) for agentic AI",
+      "link": "https://tailscale.com/blog/aperture-ga",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:32:53 +0000",
-      "timestamp": 1787761973.0
+      "published": "Wed, 26 Aug 2026 18:51:07 +0000",
+      "timestamp": 1787770267.0
     },
     {
-      "title": "Top AI Papers of the Week (Collection)",
-      "link": "https://academy.dair.ai/papers",
+      "title": "Show HN: AI scientist builds an open-source Codex Micro from scratch for $40",
+      "link": "https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/",
+      "summary": "A few weeks ago, we open-sourced our design for a cost-effective but full featured alternative to OpenAI x Work Louder's sold out Codex Micro macropad. And now, we're pleased to share that we've actually built them and they work! Quick recap of the I/O: - 13 assignable keys with individual LEDs - rotary encoder - joystick - touch disc - optional edge-lit LED band The cool part for us was just HOW our agent was able to do it when every other agentic skills, tools, and even commercial platforms failed. We put together a more detailed writeup in the linked blog post (plus pretty pictures!), but l",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 18:16:57 +0000",
+      "timestamp": 1787768217.0
+    },
+    {
+      "title": "AI Watermark Mandates Could Unmask Journalists Who Never Touched AI",
+      "link": "https://www.techdirt.com/2026/08/26/how-ai-watermark-mandates-could-unmask-journalists-who-never-touched-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:30:08 +0000",
-      "timestamp": 1787761808.0
+      "published": "Wed, 26 Aug 2026 18:16:21 +0000",
+      "timestamp": 1787768181.0
     },
     {
-      "title": "AI for Kids App: Learn, Create and Explore with Askie",
-      "link": "https://kidsai.app/",
+      "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
+      "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+      "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 26 Aug 2026 18:15:00 +0000",
+      "timestamp": 1787768100.0
+    },
+    {
+      "title": "This week in AI-native companies #5: Stripe buys the meter",
+      "link": "https://www.insideainative.com/p/this-week-in-ai-native-companies-b77",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:29:11 +0000",
-      "timestamp": 1787761751.0
+      "published": "Wed, 26 Aug 2026 17:55:53 +0000",
+      "timestamp": 1787766953.0
     },
     {
-      "title": "Persistent AI Experiment",
-      "link": "https://substack.com/@notch321",
+      "title": "Hacker News, Sans AI",
+      "link": "https://elijahpotter.dev/hnsansai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:28:34 +0000",
-      "timestamp": 1787761714.0
+      "published": "Wed, 26 Aug 2026 17:52:46 +0000",
+      "timestamp": 1787766766.0
     },
     {
-      "title": "The Importance of Reading (and Teaching) Cyberpunk in the Age of AI",
-      "link": "https://reactormag.com/the-importance-of-reading-and-teaching-cyberpunk-in-the-age-of-ai/",
+      "title": "America's immigration policy is driving away future AI leaders",
+      "link": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:22:29 +0000",
-      "timestamp": 1787761349.0
+      "published": "Wed, 26 Aug 2026 17:51:09 +0000",
+      "timestamp": 1787766669.0
     },
     {
-      "title": "Chrome Auto Browse: The Hard Part Isn't the AI",
-      "link": "https://bumbletap.com/blog/chrome-auto-browse-hard-part",
+      "title": "Moscow Turned AI into a Ghostwriting Machine for Global Influence",
+      "link": "https://united24media.com/world/how-moscow-turned-ai-into-a-ghostwriting-machine-for-global-influence-21980",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:15:22 +0000",
-      "timestamp": 1787760922.0
+      "published": "Wed, 26 Aug 2026 17:47:17 +0000",
+      "timestamp": 1787766437.0
     },
     {
-      "title": "Tech Lead Intelligence – Async Python Scraping Suite YC, ATS Jobs, and AI Models",
-      "link": "https://tech-scraper-suite-2ygx4en4upe5gxtqh7truy.streamlit.app/",
+      "title": "Physlint – deterministic integrity checks for physical-AI data",
+      "link": "https://github.com/pranayjoshi/physlint",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 16:07:37 +0000",
-      "timestamp": 1787760457.0
+      "published": "Wed, 26 Aug 2026 17:45:21 +0000",
+      "timestamp": 1787766321.0
     },
     {
-      "title": "Interactive AI Tutorials: Build Agent Skills",
-      "link": "https://academy.dair.ai/resources/write-your-first-agent-skill",
+      "title": "AI's Bar Mitzvah Moment? From Hope and Hype to Hard Business Questions",
+      "link": "https://aswathdamodaran.substack.com/p/ais-bar-mitzvah-moment-from-hope",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 15:56:01 +0000",
-      "timestamp": 1787759761.0
+      "published": "Wed, 26 Aug 2026 17:44:00 +0000",
+      "timestamp": 1787766240.0
     },
     {
-      "title": "The turbulent AI era is here",
-      "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "title": "Tell HN: Even HN is getting heavy traffic by AI crawlers",
+      "link": "https://news.ycombinator.com/item?id=49452907",
+      "summary": "For about half an hour I wasn't able to access HN, and then there was a message about network traffics and HN is now prioritising human logged in users. First time I have seen this. I had to reread the sentence because in the past when server was getting heavy traffic the general advice was to log out. Now it is the other way around. I wonder what sort of traffic is HN receiving now under AI crawlers. And if other have also seen the new message.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 17:35:57 +0000",
+      "timestamp": 1787765757.0
+    },
+    {
+      "title": "Perplexity partners with Nvidia to launch a local AI agent",
+      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 15:55:15 +0000",
-      "timestamp": 1787759715.0
+      "published": "Wed, 26 Aug 2026 17:32:23 +0000",
+      "timestamp": 1787765543.0
     },
     {
-      "title": "The AI-Native SDLC Playbook",
-      "link": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "title": "Best TypeScript AI Agent Frameworks for Next.js",
+      "link": "https://www.arcade.dev/blog/typescript-ai-agent-frameworks/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 15:52:32 +0000",
-      "timestamp": 1787759552.0
+      "published": "Wed, 26 Aug 2026 17:28:58 +0000",
+      "timestamp": 1787765338.0
+    },
+    {
+      "title": "Reviewing AI Media: \"Everything That Hurt You\" by Eliezer Yudkowsky",
+      "link": "https://johnqpulp.substack.com/p/reviewing-ai-media-everything-that",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 17:22:43 +0000",
+      "timestamp": 1787764963.0
+    },
+    {
+      "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+      "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 26 Aug 2026 17:13:37 +0000",
+      "timestamp": 1787764417.0
+    },
+    {
+      "title": "The sperm whale 'phonetic alphabet' revealed by AI",
+      "link": "https://www.bbc.com/future/article/20240709-the-sperm-whale-phonetic-alphabet-revealed-by-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 17:12:54 +0000",
+      "timestamp": 1787764374.0
+    },
+    {
+      "title": "Find and Organize screenshots with Private, Local AI in one place",
+      "link": "https://ringlochid.me/imagesage/index.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 17:07:48 +0000",
+      "timestamp": 1787764068.0
+    },
+    {
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 17:01:46 +0000",
+      "timestamp": 1787763706.0
+    },
+    {
+      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-26T13:00:00-04:00",
+      "timestamp": 1787763600.0
     },
     {
       "title": "Radar makes podcasts searchable — and usable by AI agents",
@@ -145,51 +226,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 26 Aug 2026 15:47:28 +0000",
       "timestamp": 1787759248.0
-    },
-    {
-      "title": "Why AI Is About to Get 1000x Cheaper",
-      "link": "https://www.youtube.com/watch?v=uyzqxIoiobU",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 15:45:38 +0000",
-      "timestamp": 1787759138.0
-    },
-    {
-      "title": "Meta's plan to restructure teams with AI imploded [video]",
-      "link": "https://www.youtube.com/watch?v=LFnu0iYwDFc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 15:43:41 +0000",
-      "timestamp": 1787759021.0
-    },
-    {
-      "title": "How to stay positive (in the age of AI)",
-      "link": "https://www.youtube.com/watch?v=GEkoGCFpY8c",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 15:37:41 +0000",
-      "timestamp": 1787758661.0
-    },
-    {
-      "title": "PlaceRoot – keyless map tools for AI agents (places, geocode, routing)",
-      "link": "https://github.com/chuofringer/placeroot",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 15:35:57 +0000",
-      "timestamp": 1787758557.0
-    },
-    {
-      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
-      "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 15:30:05 +0000",
-      "timestamp": 1787758205.0
     },
     {
       "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
@@ -417,15 +453,6 @@
       "timestamp": 1787617392.0
     },
     {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 24 Aug 2026 21:24:17 +0000",
-      "timestamp": 1787606657.0
-    },
-    {
       "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
       "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
       "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
@@ -525,24 +552,6 @@
       "timestamp": 1787167800.0
     },
     {
-      "title": "Google Gemini is getting a dedicated student hub",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-19T15:00:00-04:00",
-      "timestamp": 1787166000.0
-    },
-    {
-      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 19 Aug 2026 16:44:07 +0000",
-      "timestamp": 1787157847.0
-    },
-    {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technica",
@@ -550,15 +559,6 @@
       "source": "VentureBeat AI",
       "published": "Wed, 19 Aug 2026 14:18:12 GMT",
       "timestamp": 1787149092.0
-    },
-    {
-      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-      "link": "https://www.wired.com/story/flock-safety-os-investigate/",
-      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 19 Aug 2026 09:00:00 +0000",
-      "timestamp": 1787130000.0
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
