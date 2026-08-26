@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-08-26T13:15:30.059288+00:00",
+  "scraped_at": "2026-08-26T14:04:47.643977+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Ask HN: Are you still using AI code autocomplete?",
+      "link": "https://news.ycombinator.com/item?id=49449290",
+      "summary": "With all the recent progress in coding assistants, I've been wondering whether AI-powered autocomplete is still an important part of developers' workflows. I personally never got into the habit of using it very heavily. By the time I started having access to decent AI autocomplete tools, things like Cline and Augment were already around, so I ended up relying more on assistants instead. That made me curious about how other people use it today. Do you still use Cursor Tab, Copilot, or something similar? If you also use coding assistants, do you find yourself using AI autocomplete less, or do th",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:57:19 +0000",
+      "timestamp": 1787752639.0
+    },
+    {
+      "title": "90% of executives say AI hasn't boosted productivity",
+      "link": "https://fortune.com/2026/08/22/executives-ai-productivity-layoffs-study/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:56:00 +0000",
+      "timestamp": 1787752560.0
+    },
+    {
+      "title": "Show HN: A robot football league where frontier AI models manage the clubs",
+      "link": "https://rfl.football",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:53:05 +0000",
+      "timestamp": 1787752385.0
+    },
+    {
+      "title": "Why Does the AI Industry Fear Pope Leo XIV?",
+      "link": "https://mrkt30.com/pope-leo-xiv-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:50:53 +0000",
+      "timestamp": 1787752253.0
+    },
+    {
+      "title": "AI Is a Harsh Mistress",
+      "link": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:45:21 +0000",
+      "timestamp": 1787751921.0
+    },
+    {
+      "title": "Wall Street Is Counting on Nvidia to Keep the AI Party Going",
+      "link": "https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:44:34 +0000",
+      "timestamp": 1787751874.0
+    },
+    {
+      "title": "The Wage Effects of Generative AI",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:33:49 +0000",
+      "timestamp": 1787751229.0
+    },
+    {
+      "title": "One endpoint between your AI and all your connections, memory, skills",
+      "link": "https://github.com/lanes-sh/link",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:31:39 +0000",
+      "timestamp": 1787751099.0
+    },
+    {
+      "title": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges",
+      "link": "https://www.reuters.com/world/china/chinas-minimax-sees-revenue-nearly-quadruple-first-half-ai-demand-surges-2026-08-26/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:30:28 +0000",
+      "timestamp": 1787751028.0
+    },
+    {
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "summary": "Robot bodies are waiting for their AI brains to catch up.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 13:30:00 +0000",
+      "timestamp": 1787751000.0
+    },
+    {
+      "title": "Bruin Startup Program: Open-source data stack and AI data analyst for startups",
+      "link": "https://getbruin.com/startups/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:25:44 +0000",
+      "timestamp": 1787750744.0
+    },
+    {
+      "title": "The EU AI Act: A Strategic Roadmap for CIOs and CTOs",
+      "link": "https://zizka.ai/blog/the-eu-ai-act-a-strategic-roadmap-for-cios-and-ctos",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 13:24:44 +0000",
+      "timestamp": 1787750684.0
+    },
     {
       "title": "AI genetic algorithm and DFT for 0 GPA room-temp superconductor candidate",
       "link": "https://github.com/TsagaansuldNamnansuren/C2H2B6Be-Room-Temp-Superconductor",
@@ -66,7 +174,7 @@
       "timestamp": 1787749190.0
     },
     {
-      "title": "Arga is building a better way to train enterprise AI agents",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
       "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
       "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
       "image": null,
@@ -100,105 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 26 Aug 2026 12:47:47 +0000",
       "timestamp": 1787748467.0
-    },
-    {
-      "title": "How kids feel about AI, in their own words",
-      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:41:51 +0000",
-      "timestamp": 1787748111.0
-    },
-    {
-      "title": "Do AI Models Have an Inner Monologue? – The J-Space –- Strad Slater [video]",
-      "link": "https://www.youtube.com/watch?v=s_0rSqMSzss",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:40:24 +0000",
-      "timestamp": 1787748024.0
-    },
-    {
-      "title": "Bill Gates calls for 'human reserved' jobs to protect labour force from AI",
-      "link": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:40:18 +0000",
-      "timestamp": 1787748018.0
-    },
-    {
-      "title": "I'm an Amazon SVP. I hadn't coded in 25 years. AI helped me write 100k lines",
-      "link": "https://www.aboutamazon.com/news/workplace/amazon-svp-ai-tools-employees-careers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:38:47 +0000",
-      "timestamp": 1787747927.0
-    },
-    {
-      "title": "AI can now credibly complete most undergraduate assignments, MIT warns",
-      "link": "https://www.washingtonpost.com/education/2026/08/25/ai-can-now-credibly-complete-most-undergraduate-assignments-mit-warns/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:33:10 +0000",
-      "timestamp": 1787747590.0
-    },
-    {
-      "title": "Is it legal to train AI models on copyrighted books?",
-      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:29:41 +0000",
-      "timestamp": 1787747381.0
-    },
-    {
-      "title": "My AI App Measures Success When People Stop Chatting with It",
-      "link": "https://jaisenmathai.com/faith-and-ai/getting-people-out-of-chat-and-into-scripture/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:26:42 +0000",
-      "timestamp": 1787747202.0
-    },
-    {
-      "title": "Ora benchmarks every major AI agent on Vercel – Customers",
-      "link": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:24:57 +0000",
-      "timestamp": 1787747097.0
-    },
-    {
-      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:11:19 +0000",
-      "timestamp": 1787746279.0
-    },
-    {
-      "title": "Building a better PowerPoint API for the AI era",
-      "link": "https://editide.com/blog/building-a-better-powerpoint-api/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:00:58 +0000",
-      "timestamp": 1787745658.0
-    },
-    {
-      "title": "Workism, AI and Vocations",
-      "link": "https://unattributed.cc/2026/08/13/workism-ai-and-vocations/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:00:24 +0000",
-      "timestamp": 1787745624.0
     },
     {
       "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
@@ -406,15 +415,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 24 Aug 2026 15:00:00 +0000",
       "timestamp": 1787583600.0
-    },
-    {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "timestamp": 1787579246.0
     },
     {
       "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
