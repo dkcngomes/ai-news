@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-08-26T05:49:06.152053+00:00",
+  "scraped_at": "2026-08-26T07:07:24.652772+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Looking for people to follow designing systems to ship code with AI agents",
+      "link": "https://news.ycombinator.com/item?id=49444955",
+      "summary": "Today I watched a workshop, probably recorded by one of the people attended the Zoom call and shared over X, and I loved it. The speaker was from Cursor and talked about her own genuine experience in developing the the systems at work that ship hundred of PRs every month w/o her touching the code at all -- aside from her working on the environment, harness, constraints, rules where these agents operate. What I liked also how she actually showed it, explained it, and her communication sounded pure hands-on experience. And more importantly, throughout the video she looked really tired and but en",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 06:50:35 +0000",
+      "timestamp": 1787727035.0
+    },
+    {
+      "title": "Flow AI Video Generator",
+      "link": "https://ai-flow.video",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 06:20:20 +0000",
+      "timestamp": 1787725220.0
+    },
+    {
+      "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine",
+      "link": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 06:07:07 +0000",
+      "timestamp": 1787724427.0
+    },
+    {
+      "title": "Can AI Music Tools Replace Epidemic Sound? An Honest Look",
+      "link": "https://www.musegen.ai/blog/ai-music-vs-epidemic-sound",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 06:01:42 +0000",
+      "timestamp": 1787724102.0
+    },
+    {
+      "title": "Chinese government fears talking to AI might replace human intimacy",
+      "link": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 05:57:28 +0000",
+      "timestamp": 1787723848.0
+    },
+    {
+      "title": "GitHub denies Copilot Autofix wrote the bug Wiz's AI agent found",
+      "link": "https://ai-news.ghost.io/github-denies-copilot-autofix-wrote-the-bug-wizs-ai-agent-found/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 05:53:25 +0000",
+      "timestamp": 1787723605.0
+    },
     {
       "title": "Perplexity's Portable Computer tackling local AI services market",
       "link": "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
@@ -57,6 +111,15 @@
       "timestamp": 1787716796.0
     },
     {
+      "title": "Show HN: HandWrought – an AI editor inside your document, not a tab away",
+      "link": "https://handwrought.online/",
+      "summary": "I write a lot, and I got tired of the ChatGPT-in-a-second-tab shuffle: paste a paragraph in, describe the change, copy the answer back, lose track of what actually changed. So I built an editor where the AI suggestions show up in place — you review and accept/reject them like a diff, instead of reconciling a wall of chat text by hand. It's a chat panel next to a real editor. Ask for a rewrite, a tighter opening, a different tone — the suggestion lands as an inline, reversible edit, not a new chat bubble to copy out. Guest mode gets you 5 generations with no signup, so you can try it cold. Buil",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 03:58:27 +0000",
+      "timestamp": 1787716707.0
+    },
+    {
       "title": "Show HN: Hands-on Docker security labs, from CIS checks to AI context poisoning",
       "link": "https://github.com/opscart/docker-security-practical-guide",
       "summary": "",
@@ -84,7 +147,7 @@
       "timestamp": 1787714872.0
     },
     {
-      "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
+      "title": "Analyzing student votes across AI models for college essay help",
       "link": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
       "summary": "",
       "image": null,
@@ -138,76 +201,13 @@
       "timestamp": 1787704859.0
     },
     {
-      "title": "Microsoft's Maia 200 AI Accelerator at Hot Chips 2026",
-      "link": "https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 00:33:36 +0000",
-      "timestamp": 1787704416.0
-    },
-    {
-      "title": "AI Realist Radar:GPT‑5.6 Sol Pricing, Stripe's OpenRouter Deal",
-      "link": "https://msukhareva.substack.com/p/ai-realist-radar-gpt56-sol-pricing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 00:11:25 +0000",
-      "timestamp": 1787703085.0
-    },
-    {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
       "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 26 Aug 2026 00:06:20 +0000",
       "timestamp": 1787702780.0
-    },
-    {
-      "title": "The AI Health Agent That Will Know Me for Life",
-      "link": "https://williamtp.substack.com/p/the-ai-health-agent-that-will-know",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 23:37:46 +0000",
-      "timestamp": 1787701066.0
-    },
-    {
-      "title": "A modest but open theorem in theoretical biology proved by AI",
-      "link": "https://twitter.com/curiouswavefn/status/2092380964668534967",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 23:28:20 +0000",
-      "timestamp": 1787700500.0
-    },
-    {
-      "title": "AI Disruptors: How the Next Generation of Business Is Being Built",
-      "link": "https://www.digitalocean.com/blog/ai-disruptors",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 23:22:19 +0000",
-      "timestamp": 1787700139.0
-    },
-    {
-      "title": "Hermes Agent – Open-Source AI Agent That Grows with You",
-      "link": "https://hermes-agent.nousresearch.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 23:14:41 +0000",
-      "timestamp": 1787699681.0
-    },
-    {
-      "title": "AI Home Lab for Beginners: The Deep Dive",
-      "link": "https://augmentedmind.substack.com/p/ai-home-lab-for-beginners",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 25 Aug 2026 22:35:46 +0000",
-      "timestamp": 1787697346.0
     },
     {
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
