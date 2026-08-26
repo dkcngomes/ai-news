@@ -1,96 +1,213 @@
 {
-  "scraped_at": "2026-08-26T11:43:18.918871+00:00",
+  "scraped_at": "2026-08-26T13:15:30.059288+00:00",
   "count": 67,
   "items": [
     {
-      "title": "Top Best AI Aggregators in 2026",
-      "link": "https://data-infinityfreeapp.gt.tc",
+      "title": "AI genetic algorithm and DFT for 0 GPA room-temp superconductor candidate",
+      "link": "https://github.com/TsagaansuldNamnansuren/C2H2B6Be-Room-Temp-Superconductor",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:38:25 +0000",
-      "timestamp": 1787744305.0
+      "published": "Wed, 26 Aug 2026 13:14:17 +0000",
+      "timestamp": 1787750057.0
     },
     {
-      "title": "LibreOffice 26.8: Tabbed UI improvements, better typography, and no AI",
-      "link": "https://blog.documentfoundation.org/blog/2026/08/26/libreoffice-26-8/",
+      "title": "The Missing Piece in AI Agent Policy: can your bot make an account?",
+      "link": "https://nameocean.net/article/the-missing-piece-in-ai-agent-policy-how-well-knownagent-policyjson-could-change-web-automation/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:38:05 +0000",
-      "timestamp": 1787744285.0
+      "published": "Wed, 26 Aug 2026 13:12:27 +0000",
+      "timestamp": 1787749947.0
     },
     {
-      "title": "Sevren: A new European AI lab developing open-source AI technologies",
-      "link": "https://sevren.ai/news.html",
-      "summary": "",
+      "title": "Show HN: I built a tool showing how AI providers (should) throttle their models",
+      "link": "https://arxiv.org/abs/2608.23986",
+      "summary": "OP here: this project was born out of the frustration/paranoia that AI providers are throttling their models when their server load is too high. So, I set out to model and study the problem mathematically to understand what was happening, what I found was quite surprising. The idea seems natural: as the data center demand increases momentarily through the day, throttling their models (either using a quantized version, reducing the context window or lowering the tier of the model to a smaller one) seems appealing as the model in principle uses less electricity. The problem is that this can caus",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:36:07 +0000",
-      "timestamp": 1787744167.0
+      "published": "Wed, 26 Aug 2026 13:08:39 +0000",
+      "timestamp": 1787749719.0
     },
     {
-      "title": "The Practical Side of Building AI Products in Production [video]",
-      "link": "https://www.youtube.com/watch?v=nBQEaMC27eM",
+      "title": "I Tried the AI Model Built to Fix AI Writing",
+      "link": "https://every.to/working-overtime/i-tried-the-ai-model-built-to-fix-ai-writing",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:35:36 +0000",
-      "timestamp": 1787744136.0
+      "published": "Wed, 26 Aug 2026 13:06:11 +0000",
+      "timestamp": 1787749571.0
     },
     {
-      "title": "As Ubuntu embraces AI, Debian discusses banning all AI-generated code",
-      "link": "https://www.xda-developers.com/as-ubuntu-embraces-ai-debian-discusses-banning-all-ai-generated-code/",
+      "title": "How we use AI at Stalwart",
+      "link": "https://stalw.art/blog/how-we-use-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:27:39 +0000",
-      "timestamp": 1787743659.0
+      "published": "Wed, 26 Aug 2026 13:03:10 +0000",
+      "timestamp": 1787749390.0
     },
     {
-      "title": "Moonshot AI wants 30% of what US clouds earn from Kimi K3",
-      "link": "https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds",
-      "summary": "",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:24:38 +0000",
-      "timestamp": 1787743478.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 13:00:00 +0000",
+      "timestamp": 1787749200.0
     },
     {
-      "title": "The turbulent AI era is here. The choices we make now are critical.",
-      "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "title": "Meta's AI dream reels on more than lab-rat revolt",
+      "link": "https://www.reuters.com/commentary/breakingviews/metas-ai-dream-reels-more-than-lab-rat-revolt-2026-08-26/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:23:54 +0000",
-      "timestamp": 1787743434.0
+      "published": "Wed, 26 Aug 2026 12:59:50 +0000",
+      "timestamp": 1787749190.0
     },
     {
-      "title": "Show HN: A local tool that logs every time you swear at your AI coding assistant",
-      "link": "https://github.com/fireinbelly/biomass-conversion-index-monitoring-system",
-      "summary": "",
+      "title": "Arga is building a better way to train enterprise AI agents",
+      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:23:13 +0000",
-      "timestamp": 1787743393.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 12:55:28 +0000",
+      "timestamp": 1787748928.0
     },
     {
-      "title": "LinkedIn's 'Seems Like AI Slop' button drops views by 40%",
-      "link": "https://finance.yahoo.com/technology/ai/articles/linkedin-seems-ai-slop-button-195000046.html",
+      "title": "AI Review Loops Don't Always Stabilise",
+      "link": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:15:48 +0000",
-      "timestamp": 1787742948.0
+      "published": "Wed, 26 Aug 2026 12:53:36 +0000",
+      "timestamp": 1787748816.0
     },
     {
-      "title": "RandomAI – A retro split-flap board that routes you to a random AI",
-      "link": "https://www.google.com/search?q=https://randomai.chat",
+      "title": "Shrine of Singularity, a votive altar for AI worship",
+      "link": "https://www.thesingularityshrine.org/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:08:05 +0000",
-      "timestamp": 1787742485.0
+      "published": "Wed, 26 Aug 2026 12:52:12 +0000",
+      "timestamp": 1787748732.0
+    },
+    {
+      "title": "Bill Gates: The turbulent AI era is here",
+      "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:47:47 +0000",
+      "timestamp": 1787748467.0
+    },
+    {
+      "title": "How kids feel about AI, in their own words",
+      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:41:51 +0000",
+      "timestamp": 1787748111.0
+    },
+    {
+      "title": "Do AI Models Have an Inner Monologue? – The J-Space –- Strad Slater [video]",
+      "link": "https://www.youtube.com/watch?v=s_0rSqMSzss",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:40:24 +0000",
+      "timestamp": 1787748024.0
+    },
+    {
+      "title": "Bill Gates calls for 'human reserved' jobs to protect labour force from AI",
+      "link": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:40:18 +0000",
+      "timestamp": 1787748018.0
+    },
+    {
+      "title": "I'm an Amazon SVP. I hadn't coded in 25 years. AI helped me write 100k lines",
+      "link": "https://www.aboutamazon.com/news/workplace/amazon-svp-ai-tools-employees-careers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:38:47 +0000",
+      "timestamp": 1787747927.0
+    },
+    {
+      "title": "AI can now credibly complete most undergraduate assignments, MIT warns",
+      "link": "https://www.washingtonpost.com/education/2026/08/25/ai-can-now-credibly-complete-most-undergraduate-assignments-mit-warns/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:33:10 +0000",
+      "timestamp": 1787747590.0
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books?",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:29:41 +0000",
+      "timestamp": 1787747381.0
+    },
+    {
+      "title": "My AI App Measures Success When People Stop Chatting with It",
+      "link": "https://jaisenmathai.com/faith-and-ai/getting-people-out-of-chat-and-into-scripture/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:26:42 +0000",
+      "timestamp": 1787747202.0
+    },
+    {
+      "title": "Ora benchmarks every major AI agent on Vercel – Customers",
+      "link": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:24:57 +0000",
+      "timestamp": 1787747097.0
+    },
+    {
+      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:11:19 +0000",
+      "timestamp": 1787746279.0
+    },
+    {
+      "title": "Building a better PowerPoint API for the AI era",
+      "link": "https://editide.com/blog/building-a-better-powerpoint-api/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:00:58 +0000",
+      "timestamp": 1787745658.0
+    },
+    {
+      "title": "Workism, AI and Vocations",
+      "link": "https://unattributed.cc/2026/08/13/workism-ai-and-vocations/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 12:00:24 +0000",
+      "timestamp": 1787745624.0
+    },
+    {
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 12:00:00 +0000",
+      "timestamp": 1787745600.0
     },
     {
       "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
@@ -102,22 +219,13 @@
       "timestamp": 1787742460.0
     },
     {
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "summary": "",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:02:39 +0000",
-      "timestamp": 1787742159.0
-    },
-    {
-      "title": "Quantifying AI data center nitrogen oxide (NOx) emissions from space",
-      "link": "https://arxiv.org/abs/2608.22153",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 11:02:11 +0000",
-      "timestamp": 1787742131.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 11:00:00 +0000",
+      "timestamp": 1787742000.0
     },
     {
       "title": "AI Slop Is Ruining Cute Animals on the Internet",
@@ -127,78 +235,6 @@
       "source": "Wired AI",
       "published": "Wed, 26 Aug 2026 11:00:00 +0000",
       "timestamp": 1787742000.0
-    },
-    {
-      "title": "Adaptable Engineers Hold Key Skills in the AI Era",
-      "link": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 10:49:59 +0000",
-      "timestamp": 1787741399.0
-    },
-    {
-      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI",
-      "link": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 10:40:58 +0000",
-      "timestamp": 1787740858.0
-    },
-    {
-      "title": "Debian polls its developers on AI: permit or ban?",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 10:31:37 +0000",
-      "timestamp": 1787740297.0
-    },
-    {
-      "title": "Bill Gates was an AI optimist. Now he's scared of what could go wrong",
-      "link": "https://www.washingtonpost.com/technology/2026/08/26/bill-gates-says-he-worried-ai-will-harm-workers-kids-society/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 10:29:23 +0000",
-      "timestamp": 1787740163.0
-    },
-    {
-      "title": "The choices we make about AI now are critical – Bill Gates",
-      "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 10:28:42 +0000",
-      "timestamp": 1787740122.0
-    },
-    {
-      "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
-      "link": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 10:23:53 +0000",
-      "timestamp": 1787739833.0
-    },
-    {
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 10:04:55 +0000",
-      "timestamp": 1787738695.0
-    },
-    {
-      "title": "Dataset: AI agent security failures, 1000 incidents classified",
-      "link": "https://huggingface.co/datasets/gemmozero/ai-agent-security-incidents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 09:57:13 +0000",
-      "timestamp": 1787738233.0
     },
     {
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
@@ -388,42 +424,6 @@
       "source": "Wired AI",
       "published": "Mon, 24 Aug 2026 09:30:00 +0000",
       "timestamp": 1787563800.0
-    },
-    {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 23 Aug 2026 20:01:36 +0000",
-      "timestamp": 1787515296.0
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 23 Aug 2026 19:14:08 +0000",
-      "timestamp": 1787512448.0
-    },
-    {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 23 Aug 2026 15:30:00 +0000",
-      "timestamp": 1787499000.0
-    },
-    {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 23 Aug 2026 15:00:00 +0000",
-      "timestamp": 1787497200.0
     },
     {
       "title": "The Unlikely Place at the Center of China’s AI Boom",
