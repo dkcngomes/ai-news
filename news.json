@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-26T07:57:54.556686+00:00",
+  "scraped_at": "2026-08-26T09:00:55.202319+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "My Anti-AI Manifesto",
+      "link": "http://alessandrorosa.altervista.org/pages/my.anti.ai.manifesto.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 08:47:45 +0000",
+      "timestamp": 1787734065.0
+    },
+    {
+      "title": "What if AI were in charge of public policy and politics?",
+      "link": "https://inevolin.github.io/blog/2026/08/25/should-we-let-ai-govern-us/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 08:45:00 +0000",
+      "timestamp": 1787733900.0
+    },
+    {
+      "title": "How to Build a McKinsey-Style PowerPoint with AI: 8 Rules for Consulting Slides",
+      "link": "https://medium.com/@2315610426/how-to-build-a-mckinsey-style-powerpoint-with-ai-8-simple-rules-for-consulting-grade-slides-a58c009dcb72",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 08:36:52 +0000",
+      "timestamp": 1787733412.0
+    },
+    {
+      "title": "Bill Gates says we've passed AI's danger thresholds. Now what?",
+      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 08:32:34 +0000",
+      "timestamp": 1787733154.0
+    },
+    {
+      "title": "'This is crazy. This is insane': Bill Gates has changed his mind about AI,jobs",
+      "link": "https://www.semafor.com/article/08/25/2026/this-is-crazy-this-is-insane-bill-gates-has-changed-his-mind-about-ai-and-jobs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 08:23:40 +0000",
+      "timestamp": 1787732620.0
+    },
+    {
+      "title": "Veryfront Code, the first full-stack AI framework",
+      "link": "https://github.com/veryfront/veryfront-code",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 08:11:26 +0000",
+      "timestamp": 1787731886.0
+    },
+    {
+      "title": "How We Used AI to Bring MongoDB to DynamoDB",
+      "link": "https://www.mongodb.com/company/blog/technical/how-we-used-ai-bring-mongodb-to-dynamodb",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 07:56:12 +0000",
+      "timestamp": 1787730972.0
+    },
+    {
+      "title": "ByteDance Launches AI Office Product \"Doubao Work\"",
+      "link": "https://www.ithome.com/0/993/865.htm",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 07:48:50 +0000",
+      "timestamp": 1787730530.0
+    },
     {
       "title": "Bill Gates says world has \"no plan\" on AI in new essay",
       "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
@@ -111,24 +183,6 @@
       "timestamp": 1787720435.0
     },
     {
-      "title": "Show HN: HandWrought – an AI editor inside your document, not a tab away",
-      "link": "https://handwrought.online/",
-      "summary": "I write a lot, and I got tired of the ChatGPT-in-a-second-tab shuffle: paste a paragraph in, describe the change, copy the answer back, lose track of what actually changed. So I built an editor where the AI suggestions show up in place — you review and accept/reject them like a diff, instead of reconciling a wall of chat text by hand. It's a chat panel next to a real editor. Ask for a rewrite, a tighter opening, a different tone — the suggestion lands as an inline, reversible edit, not a new chat bubble to copy out. Guest mode gets you 5 generations with no signup, so you can try it cold. Buil",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 03:58:27 +0000",
-      "timestamp": 1787716707.0
-    },
-    {
-      "title": "Show HN: Hands-on Docker security labs, from CIS checks to AI context poisoning",
-      "link": "https://github.com/opscart/docker-security-practical-guide",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 03:56:32 +0000",
-      "timestamp": 1787716592.0
-    },
-    {
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
       "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
       "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
@@ -136,60 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 26 Aug 2026 03:30:00 +0000",
       "timestamp": 1787715000.0
-    },
-    {
-      "title": "The AI founders who walked away from Bezos-backed Prometheus to model universe",
-      "link": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 03:27:52 +0000",
-      "timestamp": 1787714872.0
-    },
-    {
-      "title": "Analyzing student votes across AI models for college essay help",
-      "link": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 03:23:50 +0000",
-      "timestamp": 1787714630.0
-    },
-    {
-      "title": "What platform has the best AI CMO?",
-      "link": "https://news.ycombinator.com/item?id=49443800",
-      "summary": "I've seen heycatch and okara, maybe a few others like it... seems like they plug into reddit api and provide ai ugc tools. Does anyone have any success using tools like these? I wouldn't imagine much, but I wanted to get a temperature check. What's working, whats not?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 03:13:26 +0000",
-      "timestamp": 1787714006.0
-    },
-    {
-      "title": "Darkbloom (AI inference on idle Macs) – security audit with PRs submitted",
-      "link": "https://gist.github.com/mudiam/1ffc898333ac3d5bdc5d7fac96d33360",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 03:03:02 +0000",
-      "timestamp": 1787713382.0
-    },
-    {
-      "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI",
-      "link": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 02:10:22 +0000",
-      "timestamp": 1787710222.0
-    },
-    {
-      "title": "Ora benchmarks every major AI agent on Vercel – Customers",
-      "link": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 01:36:23 +0000",
-      "timestamp": 1787708183.0
     },
     {
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
