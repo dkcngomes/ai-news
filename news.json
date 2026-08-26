@@ -1,87 +1,231 @@
 {
-  "scraped_at": "2026-08-26T14:04:47.643977+00:00",
+  "scraped_at": "2026-08-26T15:52:23.953446+00:00",
   "count": 67,
   "items": [
     {
-      "title": "Ask HN: Are you still using AI code autocomplete?",
-      "link": "https://news.ycombinator.com/item?id=49449290",
-      "summary": "With all the recent progress in coding assistants, I've been wondering whether AI-powered autocomplete is still an important part of developers' workflows. I personally never got into the habit of using it very heavily. By the time I started having access to decent AI autocomplete tools, things like Cline and Augment were already around, so I ended up relying more on assistants instead. That made me curious about how other people use it today. Do you still use Cursor Tab, Copilot, or something similar? If you also use coding assistants, do you find yourself using AI autocomplete less, or do th",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:57:19 +0000",
-      "timestamp": 1787752639.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 15:47:28 +0000",
+      "timestamp": 1787759248.0
     },
     {
-      "title": "90% of executives say AI hasn't boosted productivity",
-      "link": "https://fortune.com/2026/08/22/executives-ai-productivity-layoffs-study/",
+      "title": "Why AI Is About to Get 1000x Cheaper",
+      "link": "https://www.youtube.com/watch?v=uyzqxIoiobU",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:56:00 +0000",
-      "timestamp": 1787752560.0
+      "published": "Wed, 26 Aug 2026 15:45:38 +0000",
+      "timestamp": 1787759138.0
     },
     {
-      "title": "Show HN: A robot football league where frontier AI models manage the clubs",
-      "link": "https://rfl.football",
+      "title": "Meta's plan to restructure teams with AI imploded [video]",
+      "link": "https://www.youtube.com/watch?v=LFnu0iYwDFc",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:53:05 +0000",
-      "timestamp": 1787752385.0
+      "published": "Wed, 26 Aug 2026 15:43:41 +0000",
+      "timestamp": 1787759021.0
     },
     {
-      "title": "Why Does the AI Industry Fear Pope Leo XIV?",
-      "link": "https://mrkt30.com/pope-leo-xiv-ai/",
+      "title": "How to stay positive (in the age of AI)",
+      "link": "https://www.youtube.com/watch?v=GEkoGCFpY8c",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:50:53 +0000",
-      "timestamp": 1787752253.0
+      "published": "Wed, 26 Aug 2026 15:37:41 +0000",
+      "timestamp": 1787758661.0
     },
     {
-      "title": "AI Is a Harsh Mistress",
-      "link": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/",
+      "title": "PlaceRoot – keyless map tools for AI agents (places, geocode, routing)",
+      "link": "https://github.com/chuofringer/placeroot",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:45:21 +0000",
-      "timestamp": 1787751921.0
+      "published": "Wed, 26 Aug 2026 15:35:57 +0000",
+      "timestamp": 1787758557.0
     },
     {
-      "title": "Wall Street Is Counting on Nvidia to Keep the AI Party Going",
-      "link": "https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c",
+      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+      "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:44:34 +0000",
-      "timestamp": 1787751874.0
+      "published": "Wed, 26 Aug 2026 15:30:05 +0000",
+      "timestamp": 1787758205.0
     },
     {
-      "title": "The Wage Effects of Generative AI",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084",
+      "title": "Jensen Huang: Land power and shell – The next critical resource for AI factories",
+      "link": "https://twitter.com/JensenHuang/status/2089331487342829862",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:33:49 +0000",
-      "timestamp": 1787751229.0
+      "published": "Wed, 26 Aug 2026 15:29:01 +0000",
+      "timestamp": 1787758141.0
     },
     {
-      "title": "One endpoint between your AI and all your connections, memory, skills",
-      "link": "https://github.com/lanes-sh/link",
+      "title": "Kids outlearn AI–and we still don't know why",
+      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:31:39 +0000",
-      "timestamp": 1787751099.0
+      "published": "Wed, 26 Aug 2026 15:26:26 +0000",
+      "timestamp": 1787757986.0
     },
     {
-      "title": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges",
-      "link": "https://www.reuters.com/world/china/chinas-minimax-sees-revenue-nearly-quadruple-first-half-ai-demand-surges-2026-08-26/",
+      "title": "Show HN: Min – Personal AI Quant",
+      "link": "https://withmin.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:30:28 +0000",
-      "timestamp": 1787751028.0
+      "published": "Wed, 26 Aug 2026 15:22:46 +0000",
+      "timestamp": 1787757766.0
+    },
+    {
+      "title": "What building an AI-native finance function taught me",
+      "link": "https://openai.com/index/building-an-ai-native-finance-function/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 15:21:48 +0000",
+      "timestamp": 1787757708.0
+    },
+    {
+      "title": "The turbulent AI era is here. The choices we make now are critical",
+      "link": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 15:17:10 +0000",
+      "timestamp": 1787757430.0
+    },
+    {
+      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+      "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 15:02:15 +0000",
+      "timestamp": 1787756535.0
+    },
+    {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 15:00:00 +0000",
+      "timestamp": 1787756400.0
+    },
+    {
+      "title": "Beetles AI",
+      "link": "https://beetles-ai.streamlit.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 14:55:50 +0000",
+      "timestamp": 1787756150.0
+    },
+    {
+      "title": "Show HN: Neoswarm – Neovim for controlling AI agents",
+      "link": "https://neoswarm.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 14:51:31 +0000",
+      "timestamp": 1787755891.0
+    },
+    {
+      "title": "I Am Still an AI Hater",
+      "link": "https://anthonymoser.github.io/writing/ai/haterdom/2026/08/26/i-am-still-an-ai-hater.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 14:38:36 +0000",
+      "timestamp": 1787755116.0
+    },
+    {
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 14:37:01 +0000",
+      "timestamp": 1787755021.0
+    },
+    {
+      "title": "AI stock alert tool for people do not check screen all the time",
+      "link": "https://signalalert.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 14:36:31 +0000",
+      "timestamp": 1787754991.0
+    },
+    {
+      "title": "Inside The Warehouse Where Amazon Scans and Destroys Books for AI Training",
+      "link": "https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 14:30:56 +0000",
+      "timestamp": 1787754656.0
+    },
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. &quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand says. &quot;As a result, while many enterprises have adopted digital tools, very few have platforms ",
+      "image": null,
+      "source": "VentureBeat AI",
+      "published": "Wed, 26 Aug 2026 14:30:00 GMT",
+      "timestamp": 1787754600.0
+    },
+    {
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 26 Aug 2026 14:19:29 +0000",
+      "timestamp": 1787753969.0
+    },
+    {
+      "title": "Show HN: How much of Hacker News is AI?",
+      "link": "https://hnstats.com",
+      "summary": "This website counts titles containing the standalone word \"AI\", case-sensitive and word-bounded. \"OpenAI\" doesn't count. \"AI-powered\" does. There's a toggle for a wider vocabulary: artificial intelligence spelled out, LLM, GPT, and model and vendor names. Some quick stats: - 14.4% of new HN titles this year, against 10.9% in 2025. On the wider vocabulary, 21.9% and 16.1%. - First month above 1% was Oct 2016. Above 5%, Feb 2023. Above 10%, May 2025. - Over the last five years the quietest month was Jan 2022 at 0.8%. The peak was Feb 2026 at 15.9%. - 13.6% on weekdays against 12.4% at weekends. ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 14:16:05 +0000",
+      "timestamp": 1787753765.0
+    },
+    {
+      "title": "The Connections That Turned Precocious Teen into the Fallen 'Nostradamus of AI'",
+      "link": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 14:14:05 +0000",
+      "timestamp": 1787753645.0
+    },
+    {
+      "title": "Intel Crescent Island GPU Flexes 32 Xe3P Cores, 480GB LPDDR5X for Agentic AI",
+      "link": "https://hothardware.com/news/intel-crescent-island-hot-chips-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 14:13:38 +0000",
+      "timestamp": 1787753618.0
+    },
+    {
+      "title": "I Let AI Do the Easy Work. It Also Destroy Me at It",
+      "link": "https://medium.com/freedomofthought/i-let-ai-do-the-easy-work-it-also-destroy-me-at-it-6530c51c3ff3",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 14:13:31 +0000",
+      "timestamp": 1787753611.0
     },
     {
       "title": "Robot brain builders are pushing out of their GPT-2 era",
@@ -93,69 +237,6 @@
       "timestamp": 1787751000.0
     },
     {
-      "title": "Bruin Startup Program: Open-source data stack and AI data analyst for startups",
-      "link": "https://getbruin.com/startups/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:25:44 +0000",
-      "timestamp": 1787750744.0
-    },
-    {
-      "title": "The EU AI Act: A Strategic Roadmap for CIOs and CTOs",
-      "link": "https://zizka.ai/blog/the-eu-ai-act-a-strategic-roadmap-for-cios-and-ctos",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:24:44 +0000",
-      "timestamp": 1787750684.0
-    },
-    {
-      "title": "AI genetic algorithm and DFT for 0 GPA room-temp superconductor candidate",
-      "link": "https://github.com/TsagaansuldNamnansuren/C2H2B6Be-Room-Temp-Superconductor",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:14:17 +0000",
-      "timestamp": 1787750057.0
-    },
-    {
-      "title": "The Missing Piece in AI Agent Policy: can your bot make an account?",
-      "link": "https://nameocean.net/article/the-missing-piece-in-ai-agent-policy-how-well-knownagent-policyjson-could-change-web-automation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:12:27 +0000",
-      "timestamp": 1787749947.0
-    },
-    {
-      "title": "Show HN: I built a tool showing how AI providers (should) throttle their models",
-      "link": "https://arxiv.org/abs/2608.23986",
-      "summary": "OP here: this project was born out of the frustration/paranoia that AI providers are throttling their models when their server load is too high. So, I set out to model and study the problem mathematically to understand what was happening, what I found was quite surprising. The idea seems natural: as the data center demand increases momentarily through the day, throttling their models (either using a quantized version, reducing the context window or lowering the tier of the model to a smaller one) seems appealing as the model in principle uses less electricity. The problem is that this can caus",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:08:39 +0000",
-      "timestamp": 1787749719.0
-    },
-    {
-      "title": "I Tried the AI Model Built to Fix AI Writing",
-      "link": "https://every.to/working-overtime/i-tried-the-ai-model-built-to-fix-ai-writing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:06:11 +0000",
-      "timestamp": 1787749571.0
-    },
-    {
-      "title": "How we use AI at Stalwart",
-      "link": "https://stalw.art/blog/how-we-use-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 13:03:10 +0000",
-      "timestamp": 1787749390.0
-    },
-    {
       "title": "QueryStory wants you to believe what AI is telling you",
       "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
       "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
@@ -165,15 +246,6 @@
       "timestamp": 1787749200.0
     },
     {
-      "title": "Meta's AI dream reels on more than lab-rat revolt",
-      "link": "https://www.reuters.com/commentary/breakingviews/metas-ai-dream-reels-more-than-lab-rat-revolt-2026-08-26/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:59:50 +0000",
-      "timestamp": 1787749190.0
-    },
-    {
       "title": "Arga Labs is building a better way to train enterprise AI agents",
       "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
       "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
@@ -181,33 +253,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 26 Aug 2026 12:55:28 +0000",
       "timestamp": 1787748928.0
-    },
-    {
-      "title": "AI Review Loops Don't Always Stabilise",
-      "link": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:53:36 +0000",
-      "timestamp": 1787748816.0
-    },
-    {
-      "title": "Shrine of Singularity, a votive altar for AI worship",
-      "link": "https://www.thesingularityshrine.org/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:52:12 +0000",
-      "timestamp": 1787748732.0
-    },
-    {
-      "title": "Bill Gates: The turbulent AI era is here",
-      "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 12:47:47 +0000",
-      "timestamp": 1787748467.0
     },
     {
       "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
@@ -230,7 +275,7 @@
     {
       "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
       "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 26 Aug 2026 11:00:00 +0000",
@@ -379,42 +424,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 24 Aug 2026 21:24:17 +0000",
       "timestamp": 1787606657.0
-    },
-    {
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 24 Aug 2026 19:54:19 +0000",
-      "timestamp": 1787601259.0
-    },
-    {
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 24 Aug 2026 18:03:55 +0000",
-      "timestamp": 1787594635.0
-    },
-    {
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 24 Aug 2026 15:24:18 +0000",
-      "timestamp": 1787585058.0
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 24 Aug 2026 15:00:00 +0000",
-      "timestamp": 1787583600.0
     },
     {
       "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
@@ -595,15 +604,6 @@
       "source": "VentureBeat AI",
       "published": "Tue, 13 Jan 2026 13:00:00 GMT",
       "timestamp": 1768309200.0
-    },
-    {
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with OpenAI and Google in conversational AI, but with Microsoft&#x27;s Copilot in the burgeoning market for AI-powered productivity tools. &quot;Cowork lets you",
-      "image": null,
-      "source": "VentureBeat AI",
-      "published": "Mon, 12 Jan 2026 11:30:00 GMT",
-      "timestamp": 1768217400.0
     }
   ]
 }
