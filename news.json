@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-08-26T09:56:07.544931+00:00",
+  "scraped_at": "2026-08-26T10:50:39.590715+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI",
+      "link": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 10:40:58 +0000",
+      "timestamp": 1787740858.0
+    },
+    {
+      "title": "Debian polls its developers on AI: permit or ban?",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 10:31:37 +0000",
+      "timestamp": 1787740297.0
+    },
+    {
+      "title": "Bill Gates was an AI optimist. Now he's scared of what could go wrong",
+      "link": "https://www.washingtonpost.com/technology/2026/08/26/bill-gates-says-he-worried-ai-will-harm-workers-kids-society/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 10:29:23 +0000",
+      "timestamp": 1787740163.0
+    },
+    {
+      "title": "The choices we make about AI now are critical – Bill Gates",
+      "link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 10:28:42 +0000",
+      "timestamp": 1787740122.0
+    },
+    {
+      "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+      "link": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 10:23:53 +0000",
+      "timestamp": 1787739833.0
+    },
+    {
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 10:04:55 +0000",
+      "timestamp": 1787738695.0
+    },
+    {
+      "title": "Dataset: AI agent security failures, 1000 incidents classified",
+      "link": "https://huggingface.co/datasets/gemmozero/ai-agent-security-incidents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 26 Aug 2026 09:57:13 +0000",
+      "timestamp": 1787738233.0
+    },
     {
       "title": "AutoRouter – Enterprise AI gateway for every model",
       "link": "https://autorouter.top/",
@@ -46,15 +109,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 26 Aug 2026 09:28:40 +0000",
       "timestamp": 1787736520.0
-    },
-    {
-      "title": "My Anti-AI Manifesto",
-      "link": "http://alessandrorosa.altervista.org/pages/my.anti.ai.manifesto.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 08:47:45 +0000",
-      "timestamp": 1787734065.0
     },
     {
       "title": "What if AI were in charge of public policy and politics?",
@@ -127,60 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 26 Aug 2026 07:43:42 +0000",
       "timestamp": 1787730222.0
-    },
-    {
-      "title": "Looking for people to follow designing systems to ship code with AI agents",
-      "link": "https://news.ycombinator.com/item?id=49444955",
-      "summary": "Today I watched a workshop, probably recorded by one of the people attended the Zoom call and shared over X, and I loved it. The speaker was from Cursor and talked about her own genuine experience in developing the the systems at work that ship hundred of PRs every month w/o her touching the code at all -- aside from her working on the environment, harness, constraints, rules where these agents operate. What I liked also how she actually showed it, explained it, and her communication sounded pure hands-on experience. And more importantly, throughout the video she looked really tired and but en",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 06:50:35 +0000",
-      "timestamp": 1787727035.0
-    },
-    {
-      "title": "Flow AI Video Generator",
-      "link": "https://ai-flow.video",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 06:20:20 +0000",
-      "timestamp": 1787725220.0
-    },
-    {
-      "title": "Nvidia Jetson Orin-guided Russian AI drone killed three civilians in Ukraine",
-      "link": "https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 06:07:07 +0000",
-      "timestamp": 1787724427.0
-    },
-    {
-      "title": "Can AI Music Tools Replace Epidemic Sound? An Honest Look",
-      "link": "https://www.musegen.ai/blog/ai-music-vs-epidemic-sound",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 06:01:42 +0000",
-      "timestamp": 1787724102.0
-    },
-    {
-      "title": "Chinese government fears talking to AI might replace human intimacy",
-      "link": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 05:57:28 +0000",
-      "timestamp": 1787723848.0
-    },
-    {
-      "title": "GitHub denies Copilot Autofix wrote the bug Wiz's AI agent found",
-      "link": "https://ai-news.ghost.io/github-denies-copilot-autofix-wrote-the-bug-wizs-ai-agent-found/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 26 Aug 2026 05:53:25 +0000",
-      "timestamp": 1787723605.0
     },
     {
       "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
