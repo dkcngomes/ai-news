@@ -1,54 +1,225 @@
 {
-  "scraped_at": "2026-08-27T20:28:49.857692+00:00",
+  "scraped_at": "2026-08-28T05:22:10.658057+00:00",
   "count": 67,
   "items": [
     {
-      "title": "Meta memo reveals what its new 'Hatch' AI agent can do",
-      "link": "https://www.businessinsider.com/meta-hatch-personal-ai-agent-capabilities-employees-memo-2026-8",
+      "title": "A Turning Point in AI Writing",
+      "link": "https://www.theatlantic.com/technology/2026/08/wall-street-journal-ai-op-ed/688433/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 20:11:29 +0000",
-      "timestamp": 1787861489.0
+      "published": "Fri, 28 Aug 2026 04:20:36 +0000",
+      "timestamp": 1787890836.0
     },
     {
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "title": "In a divided America, left and right unite to oppose AI data centers",
+      "link": "https://apnews.com/article/data-centers-bipartisan-opposition-trump-democrats-a419be82fb6b32a8fc048ac7ffbd1de3",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 20:10:38 +0000",
-      "timestamp": 1787861438.0
+      "published": "Fri, 28 Aug 2026 04:16:13 +0000",
+      "timestamp": 1787890573.0
     },
     {
-      "title": "Show HN: Discover and share AI prompts and MCP servers",
-      "link": "https://promptic.us/",
+      "title": "MI: Measure Price Calculator – AI Pricing for Shopify",
+      "link": "https://apps.shopify.com/mi-measure-price-calculator",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 20:09:57 +0000",
-      "timestamp": 1787861397.0
+      "published": "Fri, 28 Aug 2026 04:14:14 +0000",
+      "timestamp": 1787890454.0
     },
     {
-      "title": "A Man Who Calls BS on AI: They're Lying About AI, 2027 Is When It All Breaks [video]",
-      "link": "https://www.youtube.com/watch?v=Lf5oqGOCRCM",
+      "title": "Show HN: Understudy: Scenario Testing for AI Agents",
+      "link": "https://github.com/gojiplus/understudy",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 20:06:00 +0000",
-      "timestamp": 1787861160.0
+      "published": "Fri, 28 Aug 2026 03:51:56 +0000",
+      "timestamp": 1787889116.0
     },
     {
-      "title": "AI industry says Trump plans to tax chips in the \"single dumbest way imaginable\"",
-      "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "link": "https://neilalexander.dev/2026/06/30/flooding-contributions",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:57:24 +0000",
-      "timestamp": 1787860644.0
+      "published": "Fri, 28 Aug 2026 03:49:33 +0000",
+      "timestamp": 1787888973.0
     },
     {
-      "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+      "title": "Show HN: A focused workspace for creating short AI videos with H3 Max",
+      "link": "https://h3max.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 03:18:24 +0000",
+      "timestamp": 1787887104.0
+    },
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-27T23:14:06-04:00",
+      "timestamp": 1787886846.0
+    },
+    {
+      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
+      "link": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+      "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 28 Aug 2026 03:04:14 +0000",
+      "timestamp": 1787886254.0
+    },
+    {
+      "title": "Show HN: ChessRabbit – The AI Chess Analysis Platform",
+      "link": "https://chessrabbit.co",
+      "summary": "Hi HN! I wanted to share with you a chess analysis tool that I was building for the past week. First of all I want to explain what is the problem that I'm trying to solve: Chess Engines such as stockfish are superior for us humans, but it's not self explanatory. A player can review their game by stockfish and it will tell them that some moves are very bad and losing, but why? This is the problem that we are trying to solve. ChessRabbit acts as a chess agent with stockfish evaluation tools. It takes every move that the player plays and it reasons about it, with the help, validation, and confirm",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 02:38:33 +0000",
+      "timestamp": 1787884713.0
+    },
+    {
+      "title": "Ask Me Twice – A longitudinal archive of AI chatbot responses",
+      "link": "https://wayback-api.archive.org/services/amt/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 02:26:36 +0000",
+      "timestamp": 1787883996.0
+    },
+    {
+      "title": "Alphabet stock sheds $700B as AI bills climb",
+      "link": "https://www.semafor.com/article/08/27/2026/alphabet-stock-sheds-700b-as-ai-bills-climb",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 02:23:11 +0000",
+      "timestamp": 1787883791.0
+    },
+    {
+      "title": "AI Lessons from Driving 200M Autonomous Miles",
+      "link": "https://waymo.com/blog/2026/08/10ailessons/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 02:11:11 +0000",
+      "timestamp": 1787883071.0
+    },
+    {
+      "title": "AI-Powered Tilichu VST/AU Synth Released by Butterlamp Audio",
+      "link": "https://rekkerd.org/butterlamp-audio-releases-tilichu-wavetable-synthesizer-vst3-au/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 01:57:10 +0000",
+      "timestamp": 1787882230.0
+    },
+    {
+      "title": "Has Gemini AI has altered the interpretation of Google trends?",
+      "link": "https://old.reddit.com/r/mildyinteresting/comments/1vzz8y7/my_cycle_has_been_off_this_past_month_and/p69f88q/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 01:55:01 +0000",
+      "timestamp": 1787882101.0
+    },
+    {
+      "title": "The Dirty AI lie: How the GREATEST bet in human history started to crack [video]",
+      "link": "https://www.youtube.com/watch?v=WcckBmkauBQ",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 01:49:28 +0000",
+      "timestamp": 1787881768.0
+    },
+    {
+      "title": "Awareness Local: local-first memory for AI coding agents (96% R5 on LongMemEval)",
+      "link": "https://github.com/everest-an/Awareness-Market",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 01:02:35 +0000",
+      "timestamp": 1787878955.0
+    },
+    {
+      "title": "Yet Another AI Builder But",
+      "link": "https://apps.apple.com/us/app/wanno-ai-web-app-builder/id6795772860",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 00:23:52 +0000",
+      "timestamp": 1787876632.0
+    },
+    {
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "link": "https://www.terminal-bench-science.ai/announcement",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 00:06:51 +0000",
+      "timestamp": 1787875611.0
+    },
+    {
+      "title": "Ask HN: Which class of business model is most resilient to build in the AI era?",
+      "link": "https://news.ycombinator.com/item?id=49472620",
+      "summary": "If you were to start a company today, what type of business model would you choose? Most new businesses have some form of AI in them, and this makes some sense during a gold rush, but it’s also a crapshoot. And the rate of change is so insanely fast and unpredictable that it’s becoming difficult to read the market with any confidence beyond three months. Even if you hit traction, there’s no guarantee your moat won’t evaporate. And it’s cheap for everyone to build now. Personally I think the smartest business to start right now would be an “online-to-offline” model that bridges digital and phys",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 27 Aug 2026 23:32:33 +0000",
+      "timestamp": 1787873553.0
+    },
+    {
+      "title": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning",
+      "link": "https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 27 Aug 2026 23:31:16 +0000",
+      "timestamp": 1787873476.0
+    },
+    {
+      "title": "Will AI developers be on the bench of future Nuremberg-like trials?",
+      "link": "https://news.ycombinator.com/item?id=49472607",
+      "summary": "The Nazis basically said ‘i was just following orders’ - i.e. ‘chain of authority defense’. Will ai devs follow the same pattern of defense once/if an ai swarm does something serious that harms a lot of people beyond a reasonable degree? ‘I was just coding a reward function’, ‘i was just perfecting an algorithm’, ‘i was just trying to get the work done so i could get home’ - i’m curious if new laws will have to be enacted and retroactively applied to ai devs, similarly to what happened with the Nuremberg trials",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 27 Aug 2026 23:30:53 +0000",
+      "timestamp": 1787873453.0
+    },
+    {
+      "title": "Unlimited AI calls, done sustainably",
+      "link": "https://zerocodeplex.pages.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 27 Aug 2026 23:29:18 +0000",
+      "timestamp": 1787873358.0
+    },
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 27 Aug 2026 23:16:45 +0000",
+      "timestamp": 1787872605.0
+    },
+    {
+      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+      "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+      "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 27 Aug 2026 21:08:34 +0000",
+      "timestamp": 1787864914.0
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
       "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
       "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
       "image": null,
@@ -57,121 +228,13 @@
       "timestamp": 1787860372.0
     },
     {
-      "title": "TIME100 AI 2026",
-      "link": "https://time.com/collection/time100-ai/2026/",
-      "summary": "",
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:48:53 +0000",
-      "timestamp": 1787860133.0
-    },
-    {
-      "title": "\"AI\" Centralization",
-      "link": "https://tante.cc/2026/08/27/ai-centralization/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:47:30 +0000",
-      "timestamp": 1787860050.0
-    },
-    {
-      "title": "AI populations need to be studied as populations",
-      "link": "https://baronca.substack.com/p/size-matters",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:45:54 +0000",
-      "timestamp": 1787859954.0
-    },
-    {
-      "title": "New AI Fear Unlocked as Traders Ditch Companies at Risk of Disruption",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-02-04/new-ai-fear-unlocked-as-traders-ditch-companies-at-risk-of-disruption",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:45:08 +0000",
-      "timestamp": 1787859908.0
-    },
-    {
-      "title": "AI and Chauffeur Knowledge",
-      "link": "https://www.aaron-gray.com/ai-and-chauffeur-knowledge/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:43:31 +0000",
-      "timestamp": 1787859811.0
-    },
-    {
-      "title": "Different hats I wear as an AI Engineer",
-      "link": "https://hitikadalwadi.substack.com/p/different-hats-i-wear-as-an-ai-engineer",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:32:32 +0000",
-      "timestamp": 1787859152.0
-    },
-    {
-      "title": "Ask HN: Should we disclose AI use in our work?",
-      "link": "https://news.ycombinator.com/item?id=49469914",
-      "summary": "Tim O'Reilly just published an essay arguing that AI is a medium, like photography or painting. His key line: \"I judge the output, not the means used to produce it.\" He describes his own process: a 300-word prompt becomes a 660-word draft, which he rewrites into a 3,000-word essay. Maybe 40-50 words are Claude's. He's proud of how he uses AI. He says we're still in the \"filmed stage plays\" era of AI writing, and the masters will emerge. This resonates with me. I'm an engineer, not a writer. Over the past few years, I've been using AI extensively — for drafting articles, structuring complex tec",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:21:26 +0000",
-      "timestamp": 1787858486.0
-    },
-    {
-      "title": "Show HN: Apronagents – give each AI coding agent a disposable Git remote",
-      "link": "https://github.com/Ut8v/apronagents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:17:20 +0000",
-      "timestamp": 1787858240.0
-    },
-    {
-      "title": "AI Weeds Out Job Applicants with Disabilities, Lawsuit Claims",
-      "link": "https://www.disabilityscoop.com/2026/08/25/ai-weeds-out-job-applicants-with-disabilities-lawsuit-claims/32144/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:17:11 +0000",
-      "timestamp": 1787858231.0
-    },
-    {
-      "title": "I built a long-horizon AI harness that doesn't live in the chat",
-      "link": "https://shotah.github.io/gantree/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:15:11 +0000",
-      "timestamp": 1787858111.0
-    },
-    {
-      "title": "Show HN: OpenWand – A mission to remove chat interface from working with AI",
-      "link": "https://github.com/SunnyLich/OpenWand",
-      "summary": "Hi everyone, I'm working on OpenWand, an \"LLM chat interface\" that is optimized for AI co-work. Its function is to truly integrate AI into your workflow, so no more switching windows, no more copying context, less prompt typing. You can focus on working, not prompting. You can think of it as a free Chatgpt (the interface/frontend) alternative for your everyday work. I would be very grateful for any help, testing, feedback and/or bug reports. What's shown here is just my current implementation. But with your help and feedback, we can add or adjust features to further this mission. Thank you for",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 19:04:39 +0000",
-      "timestamp": 1787857479.0
-    },
-    {
-      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-      "link": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 18:34:40 +0000",
-      "timestamp": 1787855680.0
-    },
-    {
-      "title": "The AI 'Ghosts' Contaminating Academic Publishing",
-      "link": "https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 18:24:59 +0000",
-      "timestamp": 1787855099.0
+      "source": "The Verge AI",
+      "published": "2026-08-27T15:30:00-04:00",
+      "timestamp": 1787859000.0
     },
     {
       "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
@@ -181,15 +244,6 @@
       "source": "Wired AI",
       "published": "Thu, 27 Aug 2026 18:12:17 +0000",
       "timestamp": 1787854337.0
-    },
-    {
-      "title": "AI's hacking capabilities are severely underestimated",
-      "link": "https://www.ft.com/content/3f154376-fd8b-4255-ac5b-538c5e90fc40",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 18:07:08 +0000",
-      "timestamp": 1787854028.0
     },
     {
       "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
@@ -210,15 +264,6 @@
       "timestamp": 1787852604.0
     },
     {
-      "title": "How much of a problem is AI's water use?",
-      "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 27 Aug 2026 17:42:50 +0000",
-      "timestamp": 1787852570.0
-    },
-    {
       "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
       "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
       "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
@@ -226,6 +271,15 @@
       "source": "Wired AI",
       "published": "Thu, 27 Aug 2026 16:52:42 +0000",
       "timestamp": 1787849562.0
+    },
+    {
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-27T12:15:52-04:00",
+      "timestamp": 1787847352.0
     },
     {
       "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
@@ -302,7 +356,7 @@
     {
       "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
       "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 27 Aug 2026 13:00:00 +0000",
@@ -462,15 +516,6 @@
       "timestamp": 1787768100.0
     },
     {
-      "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-      "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
-      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 26 Aug 2026 17:13:37 +0000",
-      "timestamp": 1787764417.0
-    },
-    {
       "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
       "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
       "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
@@ -523,51 +568,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 26 Aug 2026 14:19:29 +0000",
       "timestamp": 1787753969.0
-    },
-    {
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "summary": "Robot bodies are waiting for their AI brains to catch up.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 26 Aug 2026 13:30:00 +0000",
-      "timestamp": 1787751000.0
-    },
-    {
-      "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-      "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-26T07:07:40-04:00",
-      "timestamp": 1787742460.0
-    },
-    {
-      "title": "AI Slop Is Ruining Cute Animals on the Internet",
-      "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
-      "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 26 Aug 2026 11:00:00 +0000",
-      "timestamp": 1787742000.0
-    },
-    {
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "summary": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape&#241;o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-25T10:00:00-04:00",
-      "timestamp": 1787666400.0
-    },
-    {
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-25T05:15:03-04:00",
-      "timestamp": 1787649303.0
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
