@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-08-29T18:26:53.403675+00:00",
+  "scraped_at": "2026-08-29T21:42:59.125691+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Learning to Draw Again with AI",
+      "link": "https://surya.website/a-blog/learning-to-draw-again-with-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 21:29:20 +0000",
+      "timestamp": 1788038960.0
+    },
+    {
+      "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
+      "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 21:03:16 +0000",
+      "timestamp": 1788037396.0
+    },
+    {
+      "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
+      "link": "https://github.com/iwasoftcom/ai-docs-standard",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 20:22:29 +0000",
+      "timestamp": 1788034949.0
+    },
+    {
+      "title": "Show HN: AI images and videos from text, free, no signup",
+      "link": "https://seiseiai.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 20:19:57 +0000",
+      "timestamp": 1788034797.0
+    },
+    {
+      "title": "Slop.speak – translate human speak to AI slop",
+      "link": "https://slop-speak.pages.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 19:36:17 +0000",
+      "timestamp": 1788032177.0
+    },
+    {
+      "title": "AI and the Commons",
+      "link": "https://creativecommons.org/ai-and-the-commons/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 19:30:15 +0000",
+      "timestamp": 1788031815.0
+    },
+    {
+      "title": "Should the press \"run toward\" AI?",
+      "link": "https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 19:20:18 +0000",
+      "timestamp": 1788031218.0
+    },
+    {
+      "title": "All-in-one AI job search platform, resume to offer",
+      "link": "https://rezoom.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 19:20:09 +0000",
+      "timestamp": 1788031209.0
+    },
+    {
+      "title": "An infinite and interactive AI generated live stream of slop",
+      "link": "https://skunkworks.levels.io/infinite-slop/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 18:47:07 +0000",
+      "timestamp": 1788029227.0
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 29 Aug 2026 18:41:59 +0000",
+      "timestamp": 1788028919.0
+    },
+    {
+      "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+      "link": "https://github.com/rysh-ai/rysh-cli-code",
+      "summary": "Hello Everyone, I have been working on Rysh (Apache 2.0 licence), a new AI harnessing tool that lets you have the followings 1. Build fleet of agents that communicates to each other (CEO -> 5 Managers -> 20 Worker Agents ). Just talk to CEO agent to finish your tasks. It coordinates managers and managers coordinates their own workers 2. Build fleet of Claude agents where each communicates to each other and they write an Agent Board about their progress. You can watch the slack-like messages on the Agent Board and see how they are progressing. 3. Do Graph engineering. I published a white paper ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 18:34:03 +0000",
+      "timestamp": 1788028443.0
+    },
     {
       "title": "Sony Music and Warner Chappell are suing Anthropic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
@@ -109,96 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 29 Aug 2026 15:45:24 +0000",
       "timestamp": 1788018324.0
-    },
-    {
-      "title": "Google further buries search results under AI mode",
-      "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 15:21:06 +0000",
-      "timestamp": 1788016866.0
-    },
-    {
-      "title": "BoqCalc, an AI pipeline that prices a 500-line BOQ without hallucinating rates",
-      "link": "https://boqcalc.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 14:53:29 +0000",
-      "timestamp": 1788015209.0
-    },
-    {
-      "title": "AI Lattice Proofs with Chris Peikert",
-      "link": "https://securitycryptographywhatever.com/2026/08/26/ai-lattice-proofs-with-chris-peikert/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 14:52:01 +0000",
-      "timestamp": 1788015121.0
-    },
-    {
-      "title": "Would you share your weirdest agent logs with AI safety researchers?",
-      "link": "https://www.reddit.com/r/AI_Agents/comments/1w1nuzb/whats_your_weirdest_ai_agent_log/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 14:43:57 +0000",
-      "timestamp": 1788014637.0
-    },
-    {
-      "title": "Three mistakes of new AI teams",
-      "link": "https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 14:41:07 +0000",
-      "timestamp": 1788014467.0
-    },
-    {
-      "title": "The Fed confronts a powerful new economic force (AI)",
-      "link": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 14:33:24 +0000",
-      "timestamp": 1788014004.0
-    },
-    {
-      "title": "Calibre eBook manager lets you generate AI book covers",
-      "link": "https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 14:19:04 +0000",
-      "timestamp": 1788013144.0
-    },
-    {
-      "title": "Major security weaknesses found in leading open AI models",
-      "link": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 14:15:36 +0000",
-      "timestamp": 1788012936.0
-    },
-    {
-      "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 14:07:07 +0000",
-      "timestamp": 1788012427.0
-    },
-    {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "link": "https://lwn.net/Articles/1091231/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 14:02:10 +0000",
-      "timestamp": 1788012130.0
     },
     {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
@@ -541,15 +550,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 27 Aug 2026 00:24:57 +0000",
       "timestamp": 1787790297.0
-    },
-    {
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 26 Aug 2026 23:47:18 +0000",
-      "timestamp": 1787788038.0
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
