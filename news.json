@@ -1,24 +1,195 @@
 {
-  "scraped_at": "2026-08-28T18:39:21.718572+00:00",
-  "count": 67,
+  "scraped_at": "2026-08-29T02:09:52.367186+00:00",
+  "count": 65,
   "items": [
     {
-      "title": "New AI tech considered to tackle wrong-way driving",
-      "link": "https://www.rte.ie/news/ireland/2026/0828/1589622-ai-motorways/",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "link": "https://github.com/stemdeckapp/stemdeck",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 18:32:07 +0000",
-      "timestamp": 1787941927.0
+      "published": "Sat, 29 Aug 2026 01:24:13 +0000",
+      "timestamp": 1787966653.0
     },
     {
-      "title": "I tested 47 news outlets: 16 block AI fact-checkers, incl. Reuters, WSJ and NYT",
-      "link": "https://korniienko.dev/blog/news-outlets-ai-cannot-read/",
+      "title": "One prompt, five days, and an AI agent that refused to certify itself",
+      "link": "https://github.com/Framework-Drift/governed-pass",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 18:30:17 +0000",
-      "timestamp": 1787941817.0
+      "published": "Sat, 29 Aug 2026 01:16:04 +0000",
+      "timestamp": 1787966164.0
+    },
+    {
+      "title": "Anti-AI Populism is Reshaping American Politics",
+      "link": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 01:10:59 +0000",
+      "timestamp": 1787965859.0
+    },
+    {
+      "title": "AI made the boring work visible. Cut the work, not the people",
+      "link": "https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 01:01:29 +0000",
+      "timestamp": 1787965289.0
+    },
+    {
+      "title": "Ask HN: If AI disappeared today, how much would you ask for in salary to work?",
+      "link": "https://news.ycombinator.com/item?id=49485930",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 01:00:24 +0000",
+      "timestamp": 1787965224.0
+    },
+    {
+      "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+      "link": "https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 01:00:11 +0000",
+      "timestamp": 1787965211.0
+    },
+    {
+      "title": "Show HN: Leiolai, AI that pays users for the compute their devices provide",
+      "link": "https://leiolai.com/",
+      "summary": "Leiolai runs inference across devices people already own instead of data centers. It saves water with inference and pays users for the computation their devices provide. The app is free to use on iPhone and Android, with no card required. Users can contribute compute, earn money, and level up their chip system to unlock more computation at no additional cost. leiolai-1 has an 11-million-token context window. Developers can use it through an OpenAI-compatible API starting at $0.01 per million input tokens and $0.02 per million output tokens. It supports continuous generation with no output limi",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 00:58:17 +0000",
+      "timestamp": 1787965097.0
+    },
+    {
+      "title": "Damn it AI, stop lying to me and do what I say",
+      "link": "https://sentelabs.ai/proof-not-trust",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 00:39:29 +0000",
+      "timestamp": 1787963969.0
+    },
+    {
+      "title": "I built a headless browser for AI agents in Rust. no Chromium, no V8",
+      "link": "https://www.reddit.com/r/codex/comments/1w0trw7/i_built_a_headless_browser_for_ai_agents_entirely/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 00:12:55 +0000",
+      "timestamp": 1787962375.0
+    },
+    {
+      "title": "Quanta.Ai.Code.Editor",
+      "link": "https://github.com/ContegoCode/Quanta-Code-Editor",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 23:55:38 +0000",
+      "timestamp": 1787961338.0
+    },
+    {
+      "title": "FreshCtx – Invalidate AI reasoning when its evidence changes",
+      "link": "https://github.com/Hyperwise-LLC/freshctx",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 22:29:39 +0000",
+      "timestamp": 1787956179.0
+    },
+    {
+      "title": "Identifying fake cosmetics using AI",
+      "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 22:18:27 +0000",
+      "timestamp": 1787955507.0
+    },
+    {
+      "title": "Show HN: A2acast – Let AI agents on different computers work together",
+      "link": "https://github.com/husker/a2acast",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 22:12:35 +0000",
+      "timestamp": 1787955155.0
+    },
+    {
+      "title": "The AI Backlash Gets Professional",
+      "link": "https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 22:06:18 +0000",
+      "timestamp": 1787954778.0
+    },
+    {
+      "title": "The State of Conversational AI, Q3 2026",
+      "link": "https://ethora.com/research/state-of-conversational-ai-2026-q3/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 22:04:24 +0000",
+      "timestamp": 1787954664.0
+    },
+    {
+      "title": "AI demands more engineering discipline. Not less",
+      "link": "https://charity.wtf/p/ai-demands-more-engineering-discipline",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 22:00:26 +0000",
+      "timestamp": 1787954426.0
+    },
+    {
+      "title": "The Last Straw: How the AI Race May Deepen America's $40T Debt Crisis",
+      "link": "https://abundanist.substack.com/p/the-last-straw",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 21:58:16 +0000",
+      "timestamp": 1787954296.0
+    },
+    {
+      "title": "Show HN: AdRiseLab – I built an AI media buyer for my own Meta ads",
+      "link": "https://adriselab.com/blog/what-is-an-ai-performance-marketer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 21:56:27 +0000",
+      "timestamp": 1787954187.0
+    },
+    {
+      "title": "Make Waiting for AI Fun",
+      "link": "https://commonsmade.com/hackathons",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 28 Aug 2026 21:53:39 +0000",
+      "timestamp": 1787954019.0
+    },
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
+      "timestamp": 1787948651.0
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
+      "timestamp": 1787945438.0
     },
     {
       "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
@@ -30,132 +201,6 @@
       "timestamp": 1787941180.0
     },
     {
-      "title": "Show HN: AI Shipcheck – know if your AI-built app is ready to ship",
-      "link": "https://github.com/sinceaihq/ai-shipcheck",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 18:19:13 +0000",
-      "timestamp": 1787941153.0
-    },
-    {
-      "title": "Spotify Backstage Meet LiteLLM for Corporate AI Governance",
-      "link": "https://github.com/acarmisc/backstage-plugin-litellm-govai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 17:51:47 +0000",
-      "timestamp": 1787939507.0
-    },
-    {
-      "title": "Ask HN: AI writes better code than me. How to keep my identity?",
-      "link": "https://news.ycombinator.com/item?id=49481969",
-      "summary": "Nowadays, almost everyone codes with AI, right? I am a freelancer, and the entire market is now setting deadlines based on AI-assisted coding speeds. If you don't use AI, you simply cannot meet the deadlines. Because of this, I completely transitioned to AI-driven coding at the beginning of this year (starting around GPT-5.3). It's not that AI coding isn't fun. It is. But in the beginning, there were still many things AI couldn't do well. The community focus was on \"Harness Engineering,\" attaching MCPs, or deep Prompt Engineering. I actually built and used quite a few custom AI tools during th",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 17:40:39 +0000",
-      "timestamp": 1787938839.0
-    },
-    {
-      "title": "LibreOffice 26.8 is out – local first, and with no AI",
-      "link": "https://www.theregister.com/applications/2026/08/28/libreoffice-268-is-out-local-first-and-with-no-ai/5293301",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 17:33:39 +0000",
-      "timestamp": 1787938419.0
-    },
-    {
-      "title": "A History of the AI Incident-O-Pocalypse in B-Movie Horror Posters",
-      "link": "https://www.qawolf.com/blog/a-history-of-the-ai-incident-o-pocalypse-in-b-movie-horror-posters",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 17:29:52 +0000",
-      "timestamp": 1787938192.0
-    },
-    {
-      "title": "Songs created by AI banned from Australia's music charts",
-      "link": "https://www.bbc.com/news/articles/c20vl4vm2pno",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 17:29:31 +0000",
-      "timestamp": 1787938171.0
-    },
-    {
-      "title": "Fellow Vim users help me build aeovim a better way to handle AI CLI",
-      "link": "https://github.com/s2xon/aeovim",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 17:21:05 +0000",
-      "timestamp": 1787937665.0
-    },
-    {
-      "title": "How I Design with AI",
-      "link": "https://ref.tools/blog/how-i-design-with-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 17:18:32 +0000",
-      "timestamp": 1787937512.0
-    },
-    {
-      "title": "SambaNova's SN50 RDU for AI at Hot Chips 2026 – ServeTheHome",
-      "link": "https://www.servethehome.com/sambanovas-sn50-rdu-for-ai-at-hot-chips-2026/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 16:57:12 +0000",
-      "timestamp": 1787936232.0
-    },
-    {
-      "title": "Does the Rise of AI Mean the End of the IT Era?",
-      "link": "https://www.longfinance.net/news/pamphleteers/does-the-rise-of-ai-mean-the-end-of-the-it-era/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 16:47:59 +0000",
-      "timestamp": 1787935679.0
-    },
-    {
-      "title": "America's safety net isn't ready for the age of AI",
-      "link": "https://blog.csaip.org/p/americas-safety-net-isnt-ready-for",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 16:46:41 +0000",
-      "timestamp": 1787935601.0
-    },
-    {
-      "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
-      "link": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 16:41:37 +0000",
-      "timestamp": 1787935297.0
-    },
-    {
-      "title": "Beagle: Now with readable README.md (built with AI, heads up)",
-      "link": "https://github.com/MattCreigh/beagle",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 16:36:22 +0000",
-      "timestamp": 1787934982.0
-    },
-    {
-      "title": "Show HN: Open tool for testing your AI Agents (No LLM)",
-      "link": "https://github.com/IdoGol24/weir",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 16:31:56 +0000",
-      "timestamp": 1787934716.0
-    },
-    {
       "title": "Trump’s EPA wants to let data centers hide their air pollution",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
       "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
@@ -163,42 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-08-28T12:28:40-04:00",
       "timestamp": 1787934520.0
-    },
-    {
-      "title": "Show HN: URML – safety-eval harness for AI agents on lab and factory hardware",
-      "link": "https://github.com/URML-MARS/URML/tree/main/examples/physical-ai-safety-eval",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 16:28:06 +0000",
-      "timestamp": 1787934486.0
-    },
-    {
-      "title": "AI GPUs probably live longer than three years",
-      "link": "https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 16:01:14 +0000",
-      "timestamp": 1787932874.0
-    },
-    {
-      "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
-      "link": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 15:57:40 +0000",
-      "timestamp": 1787932660.0
-    },
-    {
-      "title": "Veritas – The AI-Powered Compliance Tracker for Global Startups",
-      "link": "https://vertical-compliance-tkiv.bolt.host",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 28 Aug 2026 15:43:20 +0000",
-      "timestamp": 1787931800.0
     },
     {
       "title": "AI Has Human Doctors Asking: What’s Left for Us?",
@@ -532,33 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 26 Aug 2026 19:37:34 +0000",
       "timestamp": 1787773054.0
-    },
-    {
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "summary": "Was Greg Brockman the right executive all along?",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 26 Aug 2026 19:34:04 +0000",
-      "timestamp": 1787772844.0
-    },
-    {
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 26 Aug 2026 19:05:22 +0000",
-      "timestamp": 1787771122.0
-    },
-    {
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 26 Aug 2026 15:47:28 +0000",
-      "timestamp": 1787759248.0
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
