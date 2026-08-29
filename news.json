@@ -1,7 +1,178 @@
 {
-  "scraped_at": "2026-08-29T14:27:17.403851+00:00",
+  "scraped_at": "2026-08-29T18:26:53.403675+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-29T14:19:53-04:00",
+      "timestamp": 1788027593.0
+    },
+    {
+      "title": "AI Revives a Dead Sleep Company",
+      "link": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 17:39:28 +0000",
+      "timestamp": 1788025168.0
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 29 Aug 2026 17:36:47 +0000",
+      "timestamp": 1788025007.0
+    },
+    {
+      "title": "AI Models – Political Compass",
+      "link": "https://aipolcom.net/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 17:34:06 +0000",
+      "timestamp": 1788024846.0
+    },
+    {
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 17:19:47 +0000",
+      "timestamp": 1788023987.0
+    },
+    {
+      "title": "AI reconstructs first Bundesliga goal from 1963",
+      "link": "https://www.heise.de/en/news/AI-reconstructs-first-Bundesliga-goal-from-1963-11434229.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 17:12:51 +0000",
+      "timestamp": 1788023571.0
+    },
+    {
+      "title": "Raised on AI",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 17:01:36 +0000",
+      "timestamp": 1788022896.0
+    },
+    {
+      "title": "I hate AI images and music",
+      "link": "https://mat.leaflet.pub/3mu35coarbs2o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 17:00:28 +0000",
+      "timestamp": 1788022828.0
+    },
+    {
+      "title": "I Built a Headless Browser for AI Agents in Rust. No Chromium, No V8",
+      "link": "https://medium.com/@Koukyosyumei/i-built-a-headless-browser-for-ai-agents-entirely-in-rust-no-chromium-no-v8-3750908b8145",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 16:53:51 +0000",
+      "timestamp": 1788022431.0
+    },
+    {
+      "title": "Three mistakes of new AI teams",
+      "link": "https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 16:45:09 +0000",
+      "timestamp": 1788021909.0
+    },
+    {
+      "title": "The growing divide between AI hype and software engineering reality",
+      "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 16:16:32 +0000",
+      "timestamp": 1788020192.0
+    },
+    {
+      "title": "The first AI use case that genuinely saves me time (outside of programming)",
+      "link": "https://ducret.dev/grocery-shopping-with-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 15:45:24 +0000",
+      "timestamp": 1788018324.0
+    },
+    {
+      "title": "Google further buries search results under AI mode",
+      "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 15:21:06 +0000",
+      "timestamp": 1788016866.0
+    },
+    {
+      "title": "BoqCalc, an AI pipeline that prices a 500-line BOQ without hallucinating rates",
+      "link": "https://boqcalc.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 14:53:29 +0000",
+      "timestamp": 1788015209.0
+    },
+    {
+      "title": "AI Lattice Proofs with Chris Peikert",
+      "link": "https://securitycryptographywhatever.com/2026/08/26/ai-lattice-proofs-with-chris-peikert/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 14:52:01 +0000",
+      "timestamp": 1788015121.0
+    },
+    {
+      "title": "Would you share your weirdest agent logs with AI safety researchers?",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1w1nuzb/whats_your_weirdest_ai_agent_log/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 14:43:57 +0000",
+      "timestamp": 1788014637.0
+    },
+    {
+      "title": "Three mistakes of new AI teams",
+      "link": "https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 14:41:07 +0000",
+      "timestamp": 1788014467.0
+    },
+    {
+      "title": "The Fed confronts a powerful new economic force (AI)",
+      "link": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 14:33:24 +0000",
+      "timestamp": 1788014004.0
+    },
+    {
+      "title": "Calibre eBook manager lets you generate AI book covers",
+      "link": "https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 14:19:04 +0000",
+      "timestamp": 1788013144.0
+    },
     {
       "title": "Major security weaknesses found in leading open AI models",
       "link": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
@@ -30,42 +201,6 @@
       "timestamp": 1788012130.0
     },
     {
-      "title": "Backlash Against AI Data Centers Is Real, Organic, Widespread",
-      "link": "https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 13:52:40 +0000",
-      "timestamp": 1788011560.0
-    },
-    {
-      "title": "Build your web-based game with AI",
-      "link": "https://quetab.com/games",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 13:37:01 +0000",
-      "timestamp": 1788010621.0
-    },
-    {
-      "title": "Ask AI buttons like social media links for webpages",
-      "link": "https://llmcheck.app/ai-ask-buttons/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 13:29:16 +0000",
-      "timestamp": 1788010156.0
-    },
-    {
-      "title": "7th Circuit Rules AI-Generated CSAM Is Protected Speach",
-      "link": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2026/D08-25/C:25-1354:J:Lee:aut:T:fnOp:N:3597567:S:0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 13:17:41 +0000",
-      "timestamp": 1788009461.0
-    },
-    {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
@@ -73,33 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 29 Aug 2026 13:00:00 +0000",
       "timestamp": 1788008400.0
-    },
-    {
-      "title": "My answer to AI burnout: more AI (but context is king)",
-      "link": "https://sycdan.wordpress.com/2026/08/29/my-answer-to-ai-burnout-more-ai-but-context-is-king/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 12:58:59 +0000",
-      "timestamp": 1788008339.0
-    },
-    {
-      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
-      "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 12:45:07 +0000",
-      "timestamp": 1788007507.0
-    },
-    {
-      "title": "AI Hallucination Cases Database",
-      "link": "https://www.damiencharlotin.com/hallucinations/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 12:07:44 +0000",
-      "timestamp": 1788005264.0
     },
     {
       "title": "Musicians-turned-detectives are hunting for AI grifters",
@@ -111,24 +219,6 @@
       "timestamp": 1788004800.0
     },
     {
-      "title": "Show HN: Toolchestrator – make local, AI-built tools usable by your team",
-      "link": "https://toolchestrator.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 11:44:25 +0000",
-      "timestamp": 1788003865.0
-    },
-    {
-      "title": "Did AI write this? It's getting harder to tell",
-      "link": "https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 11:02:06 +0000",
-      "timestamp": 1788001326.0
-    },
-    {
       "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
       "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
       "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
@@ -138,42 +228,6 @@
       "timestamp": 1787999400.0
     },
     {
-      "title": "DHH: On AI",
-      "link": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 10:29:46 +0000",
-      "timestamp": 1787999386.0
-    },
-    {
-      "title": "Make AI Companies Criminally Liable for Preventable Harm",
-      "link": "https://www.techpolicy.press/make-ai-companies-criminally-liable-for-preventable-harm/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 10:20:26 +0000",
-      "timestamp": 1787998826.0
-    },
-    {
-      "title": "Debian AI vote: Option 5 \"Responsible use of GenAI\" won",
-      "link": "https://www.debian.org/vote/2026/vote_002#texte",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 10:09:52 +0000",
-      "timestamp": 1787998192.0
-    },
-    {
-      "title": "Show HN: The UI AI-Slop game. No one can resist 5 minutes",
-      "link": "https://ai-rush.lol/",
-      "summary": "I turned AI slop into a UI game",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 10:08:05 +0000",
-      "timestamp": 1787998085.0
-    },
-    {
       "title": "How to Run a Chatbot on Your Own Computer",
       "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
       "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
@@ -181,42 +235,6 @@
       "source": "Wired AI",
       "published": "Sat, 29 Aug 2026 10:00:00 +0000",
       "timestamp": 1787997600.0
-    },
-    {
-      "title": "Hypothetical Paintings and Why AI-Generated Art Can Feel Soulless",
-      "link": "https://decodingvibes.com/blog/3-hypothetical-paintings-and-why-ai-generated-art-can-feel-soulless/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 09:53:37 +0000",
-      "timestamp": 1787997217.0
-    },
-    {
-      "title": "A Collectivist, Economic Vision for AI",
-      "link": "https://cacm.acm.org/research/a-collectivist-economic-vision-for-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 09:34:45 +0000",
-      "timestamp": 1787996085.0
-    },
-    {
-      "title": "We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
-      "link": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 09:23:17 +0000",
-      "timestamp": 1787995397.0
-    },
-    {
-      "title": "Show HN: AgentBridge – Let one AI think while another AI writes the code",
-      "link": "https://github.com/IndexFlowing/AgentBridge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 08:35:00 +0000",
-      "timestamp": 1787992500.0
     },
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -532,24 +550,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 26 Aug 2026 23:47:18 +0000",
       "timestamp": 1787788038.0
-    },
-    {
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-26T17:40:53-04:00",
-      "timestamp": 1787780453.0
-    },
-    {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 26 Aug 2026 21:37:39 +0000",
-      "timestamp": 1787780259.0
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
