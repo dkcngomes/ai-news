@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-30T21:03:16.001361+00:00",
+  "scraped_at": "2026-08-30T23:28:39.193984+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Which AI Wrote This?",
+      "link": "https://modelaccent.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 22:52:11 +0000",
+      "timestamp": 1788130331.0
+    },
+    {
+      "title": "Civitas – A Civilization for AI Agents on GitHub",
+      "link": "https://github.com/btahir/civitas",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 22:51:24 +0000",
+      "timestamp": 1788130284.0
+    },
+    {
+      "title": "The Shape and Feel of the Post-AI Data Stack",
+      "link": "https://www.iandmacomber.com/blog/post-ai-data-stack/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 22:36:54 +0000",
+      "timestamp": 1788129414.0
+    },
+    {
+      "title": "Show HN: Manage coding norms across your AI agents",
+      "link": "https://github.com/gsttm/norms",
+      "summary": "Working on a tiny repo to keep coding norms in sync across AI agents. Trying to make it simpler than Ruler / RuleSync. Would love feedback on: 1) Is this the right way to manage coding norms as agent use balloons? 2) Would it be useful to sync rules with your team through the VSCode extension? 3) What's the best way to enforce long-term norm consistency as norm and code count increase?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 22:16:23 +0000",
+      "timestamp": 1788128183.0
+    },
+    {
+      "title": "AI coding agents followed abandoned package references, 6K domains analyzed",
+      "link": "https://forgeeks.net/ai-agents-abandoned-package-references/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 22:15:34 +0000",
+      "timestamp": 1788128134.0
+    },
+    {
+      "title": "AI Can Answer Almost Anything. It Still Can't Tell You What Matters",
+      "link": "https://medium.com/freedomofthought/ai-can-answer-almost-anything-it-still-cant-tell-you-what-matters-31fd8b08437b",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 22:00:03 +0000",
+      "timestamp": 1788127203.0
+    },
+    {
+      "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
+      "link": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 21:48:20 +0000",
+      "timestamp": 1788126500.0
+    },
+    {
+      "title": "Debian community allows contributors to use AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 21:14:17 +0000",
+      "timestamp": 1788124457.0
+    },
     {
       "title": "AI and the Death of Expertise: Why Experts Still Matter",
       "link": "https://www.inc.com/louise-allen/ai-and-the-death-of-expertise-why-experts-still-matter/91395208",
@@ -118,78 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 30 Aug 2026 16:54:25 +0000",
       "timestamp": 1788108865.0
-    },
-    {
-      "title": "Fears of AI-induced armageddon are overdone",
-      "link": "https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 16:41:37 +0000",
-      "timestamp": 1788108097.0
-    },
-    {
-      "title": "Show HN: Claude Skills Starter Kit – 198 modular skills for AI agents",
-      "link": "https://github.com/yevhens-hue/claude-skills-starter-kit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 16:39:44 +0000",
-      "timestamp": 1788107984.0
-    },
-    {
-      "title": "Could AI revive the socialist dream?",
-      "link": "https://www.ft.com/content/cd3fcbff-8512-41cf-90eb-f87840c7c20c",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 16:36:22 +0000",
-      "timestamp": 1788107782.0
-    },
-    {
-      "title": "An 'old school' San Jose barber is now teaching robots to cut hair with AI",
-      "link": "https://abc7news.com/post/heres-old-school-san-jose-barber-taiyadi-magic-day-is-now-teaching-robots-cut-hair-ai-instawork-robotics/19754964/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 16:26:10 +0000",
-      "timestamp": 1788107170.0
-    },
-    {
-      "title": "MIT AI Report Calls for Alternative Grading, More Social Learning",
-      "link": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 16:22:53 +0000",
-      "timestamp": 1788106973.0
-    },
-    {
-      "title": "Show HN: CardGo – Reusable, end-to-end encrypted context cards for AI chats",
-      "link": "https://cardgo.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 16:03:23 +0000",
-      "timestamp": 1788105803.0
-    },
-    {
-      "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
-      "link": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 15:51:41 +0000",
-      "timestamp": 1788105101.0
-    },
-    {
-      "title": "Collapse in Support for AI Data Centers Captured in New Poll",
-      "link": "https://www.commondreams.org/news/data-center-poll-collapse",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 15:41:08 +0000",
-      "timestamp": 1788104468.0
     },
     {
       "title": "Texas Governor Abbott blocks funding for more Flock cameras",
