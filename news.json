@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-08-30T00:18:33.440406+00:00",
+  "scraped_at": "2026-08-30T06:37:43.882051+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Show HN: VelocityNote – A tiny Markdown notebook with local AI",
+      "link": "https://velocitynote.app/",
+      "summary": "Hi HN — I built VelocityNote, a compact, Markdown cross-platform notebook. The desktop app is under 100 MB. It starts quickly and remains responsive under memory pressure. VelocityNote has a built-in, pluggable AI system that can run local models: - It is a local LLM app: you can use a llama.cpp-based local agent to summarize notes and tasks. More features, including translation, are coming. - It is an intelligent screenshot app: built-in OCR extracts text, while vision models can describe your images. - It is a dictation app: with Silero VAD and speech-to-text, you can record and transcribe h",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 06:17:01 +0000",
+      "timestamp": 1788070621.0
+    },
+    {
+      "title": "Show HN: ScriptTap – no-root Android automation with an AI script contract",
+      "link": "https://play.google.com/store/apps/details?id=com.scripttap&hl=en_US",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 05:39:28 +0000",
+      "timestamp": 1788068368.0
+    },
+    {
+      "title": "Veryfront Code – Full-Stack AI Apps and Agents with TypeScript and React",
+      "link": "https://github.com/veryfront/veryfront-code",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 05:20:19 +0000",
+      "timestamp": 1788067219.0
+    },
+    {
+      "title": "The Internet Archive's Vintage AI Collection",
+      "link": "https://archive.org/details/vintageai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 05:00:51 +0000",
+      "timestamp": 1788066051.0
+    },
+    {
+      "title": "Show HN: Claypot – a block-based studio for kids to inspect AI systems",
+      "link": "https://claypot.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 04:38:16 +0000",
+      "timestamp": 1788064696.0
+    },
+    {
+      "title": "Microsoft Admits AI Training in New User Privacy Statment",
+      "link": "https://slashdot.org/submission/17350256/microsoft-admits-ai-training-in-new-user-privacy-statment",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 04:30:35 +0000",
+      "timestamp": 1788064235.0
+    },
+    {
+      "title": "Critical: Persistent back end data retention after deletion in AI Studio",
+      "link": "https://issuetracker.google.com/issues/554464766",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 04:19:35 +0000",
+      "timestamp": 1788063575.0
+    },
+    {
+      "title": "I ran out of AI tokens in one app while holding unused tokens in another",
+      "link": "https://news.ycombinator.com/item?id=49495398",
+      "summary": "The problem is simple: AI tokens are locked to individual products. context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of tokens on the deployment agent. To keep using it, I either had to wait for tokens to reset or upgrade to a higher subscription or buy tokens. So basically, I had AI tokens, but I couldn’t use them where I needed them. or despite having tokens, we cannot use them. As people start using more AI products, this could mean buying tokens again and again for different apps. do you think this is a real problem that other people face, or c",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 03:20:24 +0000",
+      "timestamp": 1788060024.0
+    },
+    {
+      "title": "China's AI Revolution and the Ideology of Xi Jinping",
+      "link": "https://kevinrudd.com/media/anu-centre-for-china-in-the-world-annual-lecture-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 03:02:28 +0000",
+      "timestamp": 1788058948.0
+    },
+    {
+      "title": "Best AI Quiz Generator?",
+      "link": "https://quizroom.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 02:42:13 +0000",
+      "timestamp": 1788057733.0
+    },
+    {
+      "title": "Meta Project OT plan to replace employees with AI agents",
+      "link": "https://www.thestreet.com/technology/mark-zuckerberg-shocking-message-meta-employee-layoffs-artificial-intelligence",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 02:01:08 +0000",
+      "timestamp": 1788055268.0
+    },
+    {
+      "title": "I feel like AI start being a reflect of the CEO behind it (his political)",
+      "link": "https://baseline-rouge-mu.vercel.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 01:20:17 +0000",
+      "timestamp": 1788052817.0
+    },
+    {
+      "title": "AI is changing religion and religions are trying to change AI",
+      "link": "https://economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 00:58:04 +0000",
+      "timestamp": 1788051484.0
+    },
+    {
+      "title": "Crbro – Local, file-based persistent memory for AI agents (MCP)",
+      "link": "https://github.com/Octonove/crbro-memory",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 00:55:12 +0000",
+      "timestamp": 1788051312.0
+    },
+    {
+      "title": "Build Your Customer Service Team with AI Agents",
+      "link": "https://aimujib.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 00:49:35 +0000",
+      "timestamp": 1788050975.0
+    },
     {
       "title": "OpenContext – Persistent, project-local memory for AI coding agents via MCP",
       "link": "https://www.opencntx.dev/",
@@ -46,141 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 29 Aug 2026 22:48:38 +0000",
       "timestamp": 1788043718.0
-    },
-    {
-      "title": "Show HN: Live AI video streams that write themselves one shot at a time",
-      "link": "https://tv.mormon.garden",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 22:43:33 +0000",
-      "timestamp": 1788043413.0
-    },
-    {
-      "title": "AI should be illegal until we figure out how to deal with its consequences",
-      "link": "https://ivanca.github.io/ai/2026/08/29/ai-should-be-illegal-until-we-figure-out-how-to-deal-with-its-consequences/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 22:40:14 +0000",
-      "timestamp": 1788043214.0
-    },
-    {
-      "title": "What does it mean for data to be AI ready?",
-      "link": "https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 22:35:25 +0000",
-      "timestamp": 1788042925.0
-    },
-    {
-      "title": "AI surveillance in schools raises safety and equity concerns",
-      "link": "https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 22:15:32 +0000",
-      "timestamp": 1788041732.0
-    },
-    {
-      "title": "Research: Why You Shouldn't Treat AI Agents Like Employees",
-      "link": "https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 22:09:47 +0000",
-      "timestamp": 1788041387.0
-    },
-    {
-      "title": "Simurg – free web search for your AI agents that aborts hallucinations",
-      "link": "https://pypi.org/project/simurg/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 21:43:31 +0000",
-      "timestamp": 1788039811.0
-    },
-    {
-      "title": "Will financing bottleneck AI compute? An Anthropic case study",
-      "link": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 21:41:20 +0000",
-      "timestamp": 1788039680.0
-    },
-    {
-      "title": "Show HN: AI Agents for Osint/Sigint",
-      "link": "https://www.makralabs.org/about",
-      "summary": "The goal was to bring down the cost at the context eng. level. We do it with Layout Memoization. Instead of dumping HTML into the context window, we have built a continual learning browser harness (read only for now). We have built an early prototype for you to try out, where you can: 1. Spins up a browser instance 2. Extract any structured or tabular data from anywhere on the open-web 3. And you can do all this at the cost of a vector search Would love to hear your thoughts on this. Thanks for taking the time to read it.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 21:39:05 +0000",
-      "timestamp": 1788039545.0
-    },
-    {
-      "title": "Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms",
-      "link": "https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 21:36:52 +0000",
-      "timestamp": 1788039412.0
-    },
-    {
-      "title": "Learning to Draw Again with AI",
-      "link": "https://surya.website/a-blog/learning-to-draw-again-with-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 21:29:20 +0000",
-      "timestamp": 1788038960.0
-    },
-    {
-      "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
-      "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 21:03:16 +0000",
-      "timestamp": 1788037396.0
-    },
-    {
-      "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
-      "link": "https://github.com/iwasoftcom/ai-docs-standard",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 20:22:29 +0000",
-      "timestamp": 1788034949.0
-    },
-    {
-      "title": "Show HN: AI images and videos from text, free, no signup",
-      "link": "https://seiseiai.io/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 20:19:57 +0000",
-      "timestamp": 1788034797.0
-    },
-    {
-      "title": "Slop.speak – translate human speak to AI slop",
-      "link": "https://slop-speak.pages.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 19:36:17 +0000",
-      "timestamp": 1788032177.0
-    },
-    {
-      "title": "AI and the Commons",
-      "link": "https://creativecommons.org/ai-and-the-commons/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 19:30:15 +0000",
-      "timestamp": 1788031815.0
     },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
