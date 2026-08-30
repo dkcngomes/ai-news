@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-08-30T17:27:56.269576+00:00",
+  "scraped_at": "2026-08-30T21:03:16.001361+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "AI and the Death of Expertise: Why Experts Still Matter",
+      "link": "https://www.inc.com/louise-allen/ai-and-the-death-of-expertise-why-experts-still-matter/91395208",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 20:34:59 +0000",
+      "timestamp": 1788122099.0
+    },
+    {
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 19:18:05 +0000",
+      "timestamp": 1788117485.0
+    },
+    {
+      "title": "We tested how AI chatbots would handle foreign propaganda",
+      "link": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 19:12:38 +0000",
+      "timestamp": 1788117158.0
+    },
+    {
+      "title": "Why shaming people about AI slop isn't enough to stop Big AI",
+      "link": "https://www.anildash.com/2026/08/21/ai-slop-and-shame/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 19:08:04 +0000",
+      "timestamp": 1788116884.0
+    },
+    {
+      "title": "Scans of 400 handwritten notes about people's relationships with AI",
+      "link": "https://www.whatwetellai.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 18:46:54 +0000",
+      "timestamp": 1788115614.0
+    },
+    {
+      "title": "Experiments with AI – Structure of Third Party Agentic Apps",
+      "link": "https://karankurani.com/writing/post/w_20260722063839_af741a/experiments-with-ai-structure-of-third-party-agentic-apps/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 18:21:56 +0000",
+      "timestamp": 1788114116.0
+    },
+    {
+      "title": "Ask HN: AI for Home Lab Infra?",
+      "link": "https://news.ycombinator.com/item?id=49501306",
+      "summary": "In these days of AI agents capable of breaking into remote systems, are there any up for the task of maintaining a home lab with public infrastructure (e.g. DNS, SMTP, etc.)? I have dozens of Linux machines scattered throughout my property that need regular updates, migrations and general maintenance. To start, I imagine cloning one into an VM and letting an agent give it a go. If the results looked good, I would give them a crack at the live system on the edge. Ultimately, I would love to have an agent handle all of my infrastructure. That said, I have been maintaining my own infrastructure f",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 18:19:24 +0000",
+      "timestamp": 1788113964.0
+    },
+    {
+      "title": "Superhuman AI coding still makes software worse",
+      "link": "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 17:28:44 +0000",
+      "timestamp": 1788110924.0
+    },
     {
       "title": "Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire",
       "link": "https://apnews.com/article/good-luck-have-fun-dont-die-review-8c9e0815b189a2395bedf58c704cc239",
@@ -120,24 +192,6 @@
       "timestamp": 1788104468.0
     },
     {
-      "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
-      "link": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 15:40:04 +0000",
-      "timestamp": 1788104404.0
-    },
-    {
-      "title": "Security scanner for AI agents, MCP servers and agent skills",
-      "link": "https://github.com/snyk/agent-scan/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 15:36:40 +0000",
-      "timestamp": 1788104200.0
-    },
-    {
       "title": "Texas Governor Abbott blocks funding for more Flock cameras",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
       "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
@@ -147,24 +201,6 @@
       "timestamp": 1788104110.0
     },
     {
-      "title": "BROCS: The framework for enterprise AI enablement",
-      "link": "https://brocs.fyi",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 15:27:35 +0000",
-      "timestamp": 1788103655.0
-    },
-    {
-      "title": "An interesting website, looks like AI companion but only voice",
-      "link": "https://hers-site.vercel.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 15:12:14 +0000",
-      "timestamp": 1788102734.0
-    },
-    {
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
       "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
@@ -172,42 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 30 Aug 2026 15:00:00 +0000",
       "timestamp": 1788102000.0
-    },
-    {
-      "title": "2027 AI Power Shortfall of 15 GW",
-      "link": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 14:52:22 +0000",
-      "timestamp": 1788101542.0
-    },
-    {
-      "title": "Free and Open-Source Web Search for Your AI Agents",
-      "link": "https://pypi.org/project/simurg/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 14:36:02 +0000",
-      "timestamp": 1788100562.0
-    },
-    {
-      "title": "Show HN: FinBridge – Korean stock market data for AI agents (MCP)",
-      "link": "https://www.gronox.kr/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 14:33:36 +0000",
-      "timestamp": 1788100416.0
-    },
-    {
-      "title": "Getting into Flow with AI Coding",
-      "link": "https://www.natashatherobot.com/p/flow-ai-coding",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 14:28:54 +0000",
-      "timestamp": 1788100134.0
     },
     {
       "title": "Why the Hottest New Wearables Want to Be Ignored",
