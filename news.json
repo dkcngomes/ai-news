@@ -1,7 +1,133 @@
 {
-  "scraped_at": "2026-08-29T21:42:59.125691+00:00",
+  "scraped_at": "2026-08-30T00:18:33.440406+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "OpenContext – Persistent, project-local memory for AI coding agents via MCP",
+      "link": "https://www.opencntx.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 23:24:44 +0000",
+      "timestamp": 1788045884.0
+    },
+    {
+      "title": "When AI Writes the Code Verification Is the New Implementation",
+      "link": "https://sarpex.com/2026/08-verification-is-the-new-implementation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 23:20:55 +0000",
+      "timestamp": 1788045655.0
+    },
+    {
+      "title": "How Big Tech Blinded Itself to the Grassroots AI Revolt",
+      "link": "https://www.wsj.com/tech/ai/how-big-tech-blinded-itself-to-the-grassroots-ai-revolt-cb6f5715",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 23:11:48 +0000",
+      "timestamp": 1788045108.0
+    },
+    {
+      "title": "Show HN: VibeGuard – security linter for AI-generated code",
+      "link": "https://github.com/zeroFhacker/vibeguard",
+      "summary": "Security linter for AI-generated code — catches what Copilot, Cursor and ChatGPT get wrong. SQL injection, hardcoded secrets, JWT bypass and 15+ more rules. Grade A–F. Zero config.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 23:04:03 +0000",
+      "timestamp": 1788044643.0
+    },
+    {
+      "title": "The issue with AI video generation",
+      "link": "https://dimension.so/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 22:48:38 +0000",
+      "timestamp": 1788043718.0
+    },
+    {
+      "title": "Show HN: Live AI video streams that write themselves one shot at a time",
+      "link": "https://tv.mormon.garden",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 22:43:33 +0000",
+      "timestamp": 1788043413.0
+    },
+    {
+      "title": "AI should be illegal until we figure out how to deal with its consequences",
+      "link": "https://ivanca.github.io/ai/2026/08/29/ai-should-be-illegal-until-we-figure-out-how-to-deal-with-its-consequences/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 22:40:14 +0000",
+      "timestamp": 1788043214.0
+    },
+    {
+      "title": "What does it mean for data to be AI ready?",
+      "link": "https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 22:35:25 +0000",
+      "timestamp": 1788042925.0
+    },
+    {
+      "title": "AI surveillance in schools raises safety and equity concerns",
+      "link": "https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 22:15:32 +0000",
+      "timestamp": 1788041732.0
+    },
+    {
+      "title": "Research: Why You Shouldn't Treat AI Agents Like Employees",
+      "link": "https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 22:09:47 +0000",
+      "timestamp": 1788041387.0
+    },
+    {
+      "title": "Simurg – free web search for your AI agents that aborts hallucinations",
+      "link": "https://pypi.org/project/simurg/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 21:43:31 +0000",
+      "timestamp": 1788039811.0
+    },
+    {
+      "title": "Will financing bottleneck AI compute? An Anthropic case study",
+      "link": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 21:41:20 +0000",
+      "timestamp": 1788039680.0
+    },
+    {
+      "title": "Show HN: AI Agents for Osint/Sigint",
+      "link": "https://www.makralabs.org/about",
+      "summary": "The goal was to bring down the cost at the context eng. level. We do it with Layout Memoization. Instead of dumping HTML into the context window, we have built a continual learning browser harness (read only for now). We have built an early prototype for you to try out, where you can: 1. Spins up a browser instance 2. Extract any structured or tabular data from anywhere on the open-web 3. And you can do all this at the cost of a vector search Would love to hear your thoughts on this. Thanks for taking the time to read it.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 21:39:05 +0000",
+      "timestamp": 1788039545.0
+    },
+    {
+      "title": "Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms",
+      "link": "https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 29 Aug 2026 21:36:52 +0000",
+      "timestamp": 1788039412.0
+    },
     {
       "title": "Learning to Draw Again with AI",
       "link": "https://surya.website/a-blog/learning-to-draw-again-with-ai",
@@ -57,33 +183,6 @@
       "timestamp": 1788031815.0
     },
     {
-      "title": "Should the press \"run toward\" AI?",
-      "link": "https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 19:20:18 +0000",
-      "timestamp": 1788031218.0
-    },
-    {
-      "title": "All-in-one AI job search platform, resume to offer",
-      "link": "https://rezoom.io/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 19:20:09 +0000",
-      "timestamp": 1788031209.0
-    },
-    {
-      "title": "An infinite and interactive AI generated live stream of slop",
-      "link": "https://skunkworks.levels.io/infinite-slop/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 18:47:07 +0000",
-      "timestamp": 1788029227.0
-    },
-    {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
@@ -91,15 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 29 Aug 2026 18:41:59 +0000",
       "timestamp": 1788028919.0
-    },
-    {
-      "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
-      "link": "https://github.com/rysh-ai/rysh-cli-code",
-      "summary": "Hello Everyone, I have been working on Rysh (Apache 2.0 licence), a new AI harnessing tool that lets you have the followings 1. Build fleet of agents that communicates to each other (CEO -> 5 Managers -> 20 Worker Agents ). Just talk to CEO agent to finish your tasks. It coordinates managers and managers coordinates their own workers 2. Build fleet of Claude agents where each communicates to each other and they write an Agent Board about their progress. You can watch the slack-like messages on the Agent Board and see how they are progressing. 3. Do Graph engineering. I published a white paper ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 18:34:03 +0000",
-      "timestamp": 1788028443.0
     },
     {
       "title": "Sony Music and Warner Chappell are suing Anthropic",
@@ -111,15 +201,6 @@
       "timestamp": 1788027593.0
     },
     {
-      "title": "AI Revives a Dead Sleep Company",
-      "link": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 17:39:28 +0000",
-      "timestamp": 1788025168.0
-    },
-    {
       "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
@@ -127,87 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 29 Aug 2026 17:36:47 +0000",
       "timestamp": 1788025007.0
-    },
-    {
-      "title": "AI Models – Political Compass",
-      "link": "https://aipolcom.net/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 17:34:06 +0000",
-      "timestamp": 1788024846.0
-    },
-    {
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 17:19:47 +0000",
-      "timestamp": 1788023987.0
-    },
-    {
-      "title": "AI reconstructs first Bundesliga goal from 1963",
-      "link": "https://www.heise.de/en/news/AI-reconstructs-first-Bundesliga-goal-from-1963-11434229.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 17:12:51 +0000",
-      "timestamp": 1788023571.0
-    },
-    {
-      "title": "Raised on AI",
-      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 17:01:36 +0000",
-      "timestamp": 1788022896.0
-    },
-    {
-      "title": "I hate AI images and music",
-      "link": "https://mat.leaflet.pub/3mu35coarbs2o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 17:00:28 +0000",
-      "timestamp": 1788022828.0
-    },
-    {
-      "title": "I Built a Headless Browser for AI Agents in Rust. No Chromium, No V8",
-      "link": "https://medium.com/@Koukyosyumei/i-built-a-headless-browser-for-ai-agents-entirely-in-rust-no-chromium-no-v8-3750908b8145",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 16:53:51 +0000",
-      "timestamp": 1788022431.0
-    },
-    {
-      "title": "Three mistakes of new AI teams",
-      "link": "https://softwaredoug.com/blog/2026/08/29/ai-team-mistakes.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 16:45:09 +0000",
-      "timestamp": 1788021909.0
-    },
-    {
-      "title": "The growing divide between AI hype and software engineering reality",
-      "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 16:16:32 +0000",
-      "timestamp": 1788020192.0
-    },
-    {
-      "title": "The first AI use case that genuinely saves me time (outside of programming)",
-      "link": "https://ducret.dev/grocery-shopping-with-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 29 Aug 2026 15:45:24 +0000",
-      "timestamp": 1788018324.0
     },
     {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
