@@ -1,60 +1,213 @@
 {
-  "scraped_at": "2026-08-30T12:52:01.856264+00:00",
-  "count": 64,
+  "scraped_at": "2026-08-30T17:27:56.269576+00:00",
+  "count": 66,
   "items": [
     {
-      "title": "No AI Fridays",
-      "link": "https://noaifridays.com/",
+      "title": "Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire",
+      "link": "https://apnews.com/article/good-luck-have-fun-dont-die-review-8c9e0815b189a2395bedf58c704cc239",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 12:31:05 +0000",
-      "timestamp": 1788093065.0
+      "published": "Sun, 30 Aug 2026 17:16:15 +0000",
+      "timestamp": 1788110175.0
     },
     {
-      "title": "Idlen: Ads in the IDE, in AI chats, and a self-serve ads manager",
-      "link": "https://www.idlen.io/",
+      "title": "Semantic invariance testing for AI (Contradish)",
+      "link": "https://contradish.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 12:02:08 +0000",
-      "timestamp": 1788091328.0
+      "published": "Sun, 30 Aug 2026 17:04:40 +0000",
+      "timestamp": 1788109480.0
     },
     {
-      "title": "The turbulent AI era is here. The choices we make now are critical",
-      "link": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "title": "Show HN: Simurg open-source web search for AI agents that aborts hallucinations",
+      "link": "https://github.com/doofzoff/SIMURG",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 11:38:35 +0000",
-      "timestamp": 1788089915.0
+      "published": "Sun, 30 Aug 2026 17:04:03 +0000",
+      "timestamp": 1788109443.0
     },
     {
-      "title": "Show HN: 1endpoint – Cheaper access to AI models",
-      "link": "https://1endpoint.dev",
-      "summary": "1endpoint is a unified AI inference gateway. We support OpenAI Chat Completions, Responses API and Anthropic Messages, so existing tools and agents can usually point to 1endpoint without changing much of their integration. The other thing we've been focusing heavily on is cost. A lot of the models are significantly cheaper than their official API pricing, without relabeling or downgrading the requested model.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 11:13:32 +0000",
-      "timestamp": 1788088412.0
-    },
-    {
-      "title": "Show HN: Get your free AI search visibility scan",
-      "link": "https://www.visiscan.app",
+      "title": "Creation, validation, obsolescence: AI-driven labor market displacement",
+      "link": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1815037/full",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 10:50:35 +0000",
-      "timestamp": 1788087035.0
+      "published": "Sun, 30 Aug 2026 17:00:54 +0000",
+      "timestamp": 1788109254.0
     },
     {
-      "title": "Only believe what you can validate: a verification framework for agentic AI",
-      "link": "https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 30 Aug 2026 16:54:25 +0000",
+      "timestamp": 1788108865.0
+    },
+    {
+      "title": "Fears of AI-induced armageddon are overdone",
+      "link": "https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 10:36:16 +0000",
-      "timestamp": 1788086176.0
+      "published": "Sun, 30 Aug 2026 16:41:37 +0000",
+      "timestamp": 1788108097.0
+    },
+    {
+      "title": "Show HN: Claude Skills Starter Kit – 198 modular skills for AI agents",
+      "link": "https://github.com/yevhens-hue/claude-skills-starter-kit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 16:39:44 +0000",
+      "timestamp": 1788107984.0
+    },
+    {
+      "title": "Could AI revive the socialist dream?",
+      "link": "https://www.ft.com/content/cd3fcbff-8512-41cf-90eb-f87840c7c20c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 16:36:22 +0000",
+      "timestamp": 1788107782.0
+    },
+    {
+      "title": "An 'old school' San Jose barber is now teaching robots to cut hair with AI",
+      "link": "https://abc7news.com/post/heres-old-school-san-jose-barber-taiyadi-magic-day-is-now-teaching-robots-cut-hair-ai-instawork-robotics/19754964/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 16:26:10 +0000",
+      "timestamp": 1788107170.0
+    },
+    {
+      "title": "MIT AI Report Calls for Alternative Grading, More Social Learning",
+      "link": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 16:22:53 +0000",
+      "timestamp": 1788106973.0
+    },
+    {
+      "title": "Show HN: CardGo – Reusable, end-to-end encrypted context cards for AI chats",
+      "link": "https://cardgo.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 16:03:23 +0000",
+      "timestamp": 1788105803.0
+    },
+    {
+      "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
+      "link": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 15:51:41 +0000",
+      "timestamp": 1788105101.0
+    },
+    {
+      "title": "Collapse in Support for AI Data Centers Captured in New Poll",
+      "link": "https://www.commondreams.org/news/data-center-poll-collapse",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 15:41:08 +0000",
+      "timestamp": 1788104468.0
+    },
+    {
+      "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
+      "link": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 15:40:04 +0000",
+      "timestamp": 1788104404.0
+    },
+    {
+      "title": "Security scanner for AI agents, MCP servers and agent skills",
+      "link": "https://github.com/snyk/agent-scan/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 15:36:40 +0000",
+      "timestamp": 1788104200.0
+    },
+    {
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-30T11:35:10-04:00",
+      "timestamp": 1788104110.0
+    },
+    {
+      "title": "BROCS: The framework for enterprise AI enablement",
+      "link": "https://brocs.fyi",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 15:27:35 +0000",
+      "timestamp": 1788103655.0
+    },
+    {
+      "title": "An interesting website, looks like AI companion but only voice",
+      "link": "https://hers-site.vercel.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 15:12:14 +0000",
+      "timestamp": 1788102734.0
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 30 Aug 2026 15:00:00 +0000",
+      "timestamp": 1788102000.0
+    },
+    {
+      "title": "2027 AI Power Shortfall of 15 GW",
+      "link": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 14:52:22 +0000",
+      "timestamp": 1788101542.0
+    },
+    {
+      "title": "Free and Open-Source Web Search for Your AI Agents",
+      "link": "https://pypi.org/project/simurg/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 14:36:02 +0000",
+      "timestamp": 1788100562.0
+    },
+    {
+      "title": "Show HN: FinBridge – Korean stock market data for AI agents (MCP)",
+      "link": "https://www.gronox.kr/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 14:33:36 +0000",
+      "timestamp": 1788100416.0
+    },
+    {
+      "title": "Getting into Flow with AI Coding",
+      "link": "https://www.natashatherobot.com/p/flow-ai-coding",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 30 Aug 2026 14:28:54 +0000",
+      "timestamp": 1788100134.0
     },
     {
       "title": "Why the Hottest New Wearables Want to Be Ignored",
@@ -66,114 +219,6 @@
       "timestamp": 1788085800.0
     },
     {
-      "title": "VibeGuard – security linter for AI-generated code",
-      "link": "https://github.com/zeroFhacker/vibeguard",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 10:26:10 +0000",
-      "timestamp": 1788085570.0
-    },
-    {
-      "title": "Observations Around Prominent Programmer Sentiment and AI",
-      "link": "https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 10:20:20 +0000",
-      "timestamp": 1788085220.0
-    },
-    {
-      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 10:20:11 +0000",
-      "timestamp": 1788085211.0
-    },
-    {
-      "title": "What We Tell AI",
-      "link": "https://www.whatwetellai.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 10:16:14 +0000",
-      "timestamp": 1788084974.0
-    },
-    {
-      "title": "We built this after an AI agent misread a risk signal and moved $1.2M in trades",
-      "link": "https://runplane.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 09:57:59 +0000",
-      "timestamp": 1788083879.0
-    },
-    {
-      "title": "Workers in their 40s, 50s and 60s are the most positive about AI",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 09:55:58 +0000",
-      "timestamp": 1788083758.0
-    },
-    {
-      "title": "The AI Delegation Audit Webinar, October 6, 2026",
-      "link": "https://berlin-product-people.com/ai-delegation-audit-webinar/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 09:01:13 +0000",
-      "timestamp": 1788080473.0
-    },
-    {
-      "title": "AI Effect",
-      "link": "https://en.wikipedia.org/wiki/AI_effect",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 08:32:36 +0000",
-      "timestamp": 1788078756.0
-    },
-    {
-      "title": "Google's Dreambeans, weirdest-named AI tool, will turn your life to a cartoon",
-      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 08:04:11 +0000",
-      "timestamp": 1788077051.0
-    },
-    {
-      "title": "Show HN: Photo Manager That Find and Organize Screenshots with Private, Local AI",
-      "link": "https://ringlochid.me/imagesage/index.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 07:28:44 +0000",
-      "timestamp": 1788074924.0
-    },
-    {
-      "title": "Hotline for AI Agents to Report Safety Incidents",
-      "link": "https://agenthotline.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 07:11:44 +0000",
-      "timestamp": 1788073904.0
-    },
-    {
-      "title": "How AI Is Reshaping Pediatric Imaging",
-      "link": "https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 07:07:53 +0000",
-      "timestamp": 1788073673.0
-    },
-    {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
@@ -183,9 +228,9 @@
       "timestamp": 1788028919.0
     },
     {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, [&#8230;]",
       "image": null,
       "source": "The Verge AI",
       "published": "2026-08-29T14:19:53-04:00",
@@ -489,15 +534,6 @@
       "timestamp": 1787835600.0
     },
     {
-      "title": "Adobe is adding more AI to Photoshop",
-      "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, background remover, an AI image extender, and more. There are also [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-27T09:00:00-04:00",
-      "timestamp": 1787835600.0
-    },
-    {
       "title": "When agents act on their own, governance has to live in the data layer",
       "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it? These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met in hindsight or with a set of abstract policies that live on paper but not in practice. Agents need ",
@@ -514,24 +550,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 27 Aug 2026 11:35:59 +0000",
       "timestamp": 1787830559.0
-    },
-    {
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 27 Aug 2026 06:32:51 +0000",
-      "timestamp": 1787812371.0
-    },
-    {
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 27 Aug 2026 00:24:57 +0000",
-      "timestamp": 1787790297.0
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
