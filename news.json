@@ -1,96 +1,195 @@
 {
-  "scraped_at": "2026-08-31T05:31:01.273948+00:00",
-  "count": 66,
+  "scraped_at": "2026-08-31T13:45:21.211955+00:00",
+  "count": 65,
   "items": [
     {
-      "title": "AI isn't sentient – the real danger lies in how easily we anthropomorphize it",
-      "link": "https://theconversation.com/ai-isnt-close-to-becoming-sentient-the-real-danger-lies-in-how-easily-were-prone-to-anthropomorphize-it-200525",
+      "title": "Show HN: KanVibe – Git worktree and tmux Kanban board for AI CLIs, now Electron",
+      "link": "https://github.com/rookedsysc/kanvibe",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 05:14:58 +0000",
-      "timestamp": 1788153298.0
+      "published": "Mon, 31 Aug 2026 13:35:19 +0000",
+      "timestamp": 1788183319.0
     },
     {
-      "title": "Vim Classic debuts with its first release as a Vim fork without AI assistance",
-      "link": "https://www.neowin.net/news/vim-classic-debuts-with-its-first-release-as-a-vim-fork-without-ai-assistance/",
+      "title": "AIByCity – live map of anonymized AI token usage by city",
+      "link": "https://aibycity.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 04:41:51 +0000",
-      "timestamp": 1788151311.0
+      "published": "Mon, 31 Aug 2026 13:28:29 +0000",
+      "timestamp": 1788182909.0
     },
     {
-      "title": "Ask HN: How do you feel about AI generated documentation?",
-      "link": "https://news.ycombinator.com/item?id=49505508",
-      "summary": "It usually feels like it wasn't written to be read. Do you have examples of good ai generated documentation ?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 04:18:44 +0000",
-      "timestamp": 1788149924.0
-    },
-    {
-      "title": "Care for a Little More AI?",
-      "link": "https://proofsandprompts.com/2026/08/30/care-for-a-little-more-ai/",
+      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 04:12:01 +0000",
-      "timestamp": 1788149521.0
+      "published": "Mon, 31 Aug 2026 13:26:43 +0000",
+      "timestamp": 1788182803.0
     },
     {
-      "title": "Ask HN: What's the most thoughtful AI product you've seen?",
-      "link": "https://news.ycombinator.com/item?id=49505429",
-      "summary": "What's the highest quality and best crafted AI product you've come across so far? Something with a great user experience, no jank or slop, that satisfies a purpose or goal seamlessly.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 04:03:33 +0000",
-      "timestamp": 1788149013.0
-    },
-    {
-      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-      "link": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+      "title": "'Headless software' signals further AI-led shake-up",
+      "link": "https://www.ft.com/content/febba6ee-9abd-47d4-bac4-3bbe8b64be7f",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 03:45:57 +0000",
-      "timestamp": 1788147957.0
+      "published": "Mon, 31 Aug 2026 13:26:32 +0000",
+      "timestamp": 1788182792.0
     },
     {
-      "title": "Show HN: Growtics – an AI growth agent that tells you what to do next",
-      "link": "https://growtics.io",
+      "title": "Dave Fletcher from LeadDev: what engineering leaders want from AI [audio]",
+      "link": "https://scalingdevtools.com/podcast/episodes/dave-fletcher-from-leaddev-what-engineering-leaders-are-buying-in-the-ai-era",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 03:00:10 +0000",
-      "timestamp": 1788145210.0
+      "published": "Mon, 31 Aug 2026 13:25:50 +0000",
+      "timestamp": 1788182750.0
     },
     {
-      "title": "Glean: Run an AI skill only over what changed since it last ran",
-      "link": "https://github.com/amalucelli/glean",
+      "title": "Show HN: JIT Skill Architecture for AI Agents (Without Context Decay)",
+      "link": "https://github.com/yevhens-hue/claude-skills-starter-kit",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 02:39:48 +0000",
-      "timestamp": 1788143988.0
+      "published": "Mon, 31 Aug 2026 13:25:50 +0000",
+      "timestamp": 1788182750.0
     },
     {
-      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-      "link": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+      "title": "A milestone in expanding access to AI",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 02:39:48 +0000",
-      "timestamp": 1788143988.0
+      "published": "Mon, 31 Aug 2026 13:07:48 +0000",
+      "timestamp": 1788181668.0
     },
     {
-      "title": "Steer: Deny or rewrite an AI agent's tool calls before they run",
-      "link": "https://github.com/amalucelli/steer",
+      "title": "Race to bottom in Indias voice AI market (0.15 cents/min)",
+      "link": "https://twitter.com/rajananandan/status/2092952143078490550",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 02:38:33 +0000",
-      "timestamp": 1788143913.0
+      "published": "Mon, 31 Aug 2026 12:59:46 +0000",
+      "timestamp": 1788181186.0
+    },
+    {
+      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 31 Aug 2026 12:56:46 +0000",
+      "timestamp": 1788181006.0
+    },
+    {
+      "title": "AI in Education Knowledge Base",
+      "link": "https://edtechdev.github.io/aied/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:48:35 +0000",
+      "timestamp": 1788180515.0
+    },
+    {
+      "title": "A new class of memory-based AI (MIRaS) published this week",
+      "link": "https://academic.oup.com/nar/article/54/16/gkag833/8769250",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:48:18 +0000",
+      "timestamp": 1788180498.0
+    },
+    {
+      "title": "AI and Employment: So Far, So Good",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:47:56 +0000",
+      "timestamp": 1788180476.0
+    },
+    {
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:41:22 +0000",
+      "timestamp": 1788180082.0
+    },
+    {
+      "title": "AI is hurting US politics. Here’s how candidates could use it for good",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:27:58 +0000",
+      "timestamp": 1788179278.0
+    },
+    {
+      "title": "An AI coding agent silently erased 92% of AI nodes in n8n's most-cited dataset",
+      "link": "https://sevenedge.pl/en/blog/an-ai-agent-erased-n8ns-ai-agent-nodes",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:16:30 +0000",
+      "timestamp": 1788178590.0
+    },
+    {
+      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+      "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:08:25 +0000",
+      "timestamp": 1788178105.0
+    },
+    {
+      "title": "Energy biz SSE smacked around in court by a guy and AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/31/energy-biz-sse-smacked-around-in-court-by-a-guy-and-ai/5293391",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:07:07 +0000",
+      "timestamp": 1788178027.0
+    },
+    {
+      "title": "Ask HN: What companies have discussed their AI/agentic workflows?",
+      "link": "https://news.ycombinator.com/item?id=49508643",
+      "summary": "Looking to learn what agentic engineering looks like in different places. My current favorite deep dive into a professional coding environment has been Wes McKinney’s “How Kenn is doing Agentic Engineering“ [1], but I’d like to know if anyone has seen similar (or debatably better) blog posts or articles from other companies and engineers discussing their stacks. Personally, I have been focusing my own effort on improving my persistent context documentation + agent queues for development, refinement, implementation, and review, where I scale the agents where I find bottlenecks in my task queues",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:05:25 +0000",
+      "timestamp": 1788177925.0
+    },
+    {
+      "title": "Advertisers are trying to influence AI bots with secret ads",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:03:18 +0000",
+      "timestamp": 1788177798.0
+    },
+    {
+      "title": "Build good decks using your AI",
+      "link": "https://github.com/kritikmodi/deckloom",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 12:00:55 +0000",
+      "timestamp": 1788177655.0
+    },
+    {
+      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+      "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 31 Aug 2026 10:30:00 +0000",
+      "timestamp": 1788172200.0
     },
     {
       "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -100,96 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 31 Aug 2026 02:34:00 +0000",
       "timestamp": 1788143640.0
-    },
-    {
-      "title": "Which AI Do You Think Will Have the Greatest Impact on the World?",
-      "link": "https://news.ycombinator.com/item?id=49504949",
-      "summary": "Is it ChatGPT, Gemini, Claude, or something else entirely? I plan to share my thoughts on that a bit later but for today, let's dive into our story. You’ve probably all noticed that beautiful, soft blue light animation that glows at the bottom the moment you open Gemini, right? Yes, it really is stunning. Not only that, but on some devices, when you send that very first message (the prompt )a gorgeous spectrum of colors animates across the screen. Yet, despite being this visually beautiful, Gemini still finds itself sitting second to ChatGPT in Play Store productivity rankings. Is it simply be",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 02:29:33 +0000",
-      "timestamp": 1788143373.0
-    },
-    {
-      "title": "The Part of Me That Doesn't Believe AI Is Fine",
-      "link": "https://danunparsed.com/p/ai-is-fine",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 02:10:10 +0000",
-      "timestamp": 1788142210.0
-    },
-    {
-      "title": "HermOS – a local-first AI agent IDE",
-      "link": "https://hermos.is-a.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 02:09:41 +0000",
-      "timestamp": 1788142181.0
-    },
-    {
-      "title": "Clips Kitty Open-source local AI video clipping and editing",
-      "link": "https://github.com/ColinGPT9/clips-studio",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 01:31:48 +0000",
-      "timestamp": 1788139908.0
-    },
-    {
-      "title": "AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI",
-      "link": "https://arxiv.org/abs/2608.26418",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 00:37:46 +0000",
-      "timestamp": 1788136666.0
-    },
-    {
-      "title": "Will anybody use AI as much as coders?",
-      "link": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 00:06:42 +0000",
-      "timestamp": 1788134802.0
-    },
-    {
-      "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
-      "link": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 00:02:21 +0000",
-      "timestamp": 1788134541.0
-    },
-    {
-      "title": "Lady Gaga is now an AI-longevity biotech founder",
-      "link": "https://www.regeneration.ai/p/lady-gaga-is-now-an-ai-longevity",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 23:44:44 +0000",
-      "timestamp": 1788133484.0
-    },
-    {
-      "title": "Show HN: What Apple's OS updates silently change in the on-device AI model",
-      "link": "https://umer9538.github.io/underfoot/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 23:41:50 +0000",
-      "timestamp": 1788133310.0
-    },
-    {
-      "title": "Which AI Wrote This?",
-      "link": "https://modelaccent.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 30 Aug 2026 22:52:11 +0000",
-      "timestamp": 1788130331.0
     },
     {
       "title": "Musk’s faster path to more gas turbines comes with pollution problem",
@@ -435,15 +444,6 @@
       "timestamp": 1787854337.0
     },
     {
-      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-      "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 27 Aug 2026 18:06:52 +0000",
-      "timestamp": 1787854012.0
-    },
-    {
       "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
       "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
@@ -532,15 +532,6 @@
       "source": "The Verge AI",
       "published": "2026-08-27T09:11:23-04:00",
       "timestamp": 1787836283.0
-    },
-    {
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 27 Aug 2026 13:00:00 +0000",
-      "timestamp": 1787835600.0
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
