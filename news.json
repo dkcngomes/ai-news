@@ -1,186 +1,267 @@
 {
-  "scraped_at": "2026-08-31T13:45:21.211955+00:00",
-  "count": 65,
+  "scraped_at": "2026-08-31T20:02:35.425348+00:00",
+  "count": 66,
   "items": [
     {
-      "title": "Show HN: KanVibe – Git worktree and tmux Kanban board for AI CLIs, now Electron",
-      "link": "https://github.com/rookedsysc/kanvibe",
+      "title": "Canaries in the Gold Mine: Early Productivity Gains from AI",
+      "link": "https://www.nber.org/papers/w35684",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 13:35:19 +0000",
-      "timestamp": 1788183319.0
+      "published": "Mon, 31 Aug 2026 19:43:24 +0000",
+      "timestamp": 1788205404.0
     },
     {
-      "title": "AIByCity – live map of anonymized AI token usage by city",
-      "link": "https://aibycity.com",
+      "title": "Show HN: Guess the AI model from its web design",
+      "link": "https://raq.com/blog/can-you-spot-ai-web-design/quiz",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 13:28:29 +0000",
-      "timestamp": 1788182909.0
+      "published": "Mon, 31 Aug 2026 19:40:25 +0000",
+      "timestamp": 1788205225.0
     },
     {
-      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+      "title": "Bank of England chief warns new AI models threaten global financial stability",
+      "link": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 13:26:43 +0000",
-      "timestamp": 1788182803.0
+      "published": "Mon, 31 Aug 2026 19:40:25 +0000",
+      "timestamp": 1788205225.0
     },
     {
-      "title": "'Headless software' signals further AI-led shake-up",
-      "link": "https://www.ft.com/content/febba6ee-9abd-47d4-bac4-3bbe8b64be7f",
+      "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
+      "link": "https://arxiv.org/abs/2606.05608",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 13:26:32 +0000",
-      "timestamp": 1788182792.0
+      "published": "Mon, 31 Aug 2026 19:37:29 +0000",
+      "timestamp": 1788205049.0
     },
     {
-      "title": "Dave Fletcher from LeadDev: what engineering leaders want from AI [audio]",
-      "link": "https://scalingdevtools.com/podcast/episodes/dave-fletcher-from-leaddev-what-engineering-leaders-are-buying-in-the-ai-era",
+      "title": "AI Is an Anti-Primary Source Machine",
+      "link": "https://www.hnn.us/article/ai-is-an-anti-primary-source-machine",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 13:25:50 +0000",
-      "timestamp": 1788182750.0
+      "published": "Mon, 31 Aug 2026 19:37:26 +0000",
+      "timestamp": 1788205046.0
     },
     {
-      "title": "Show HN: JIT Skill Architecture for AI Agents (Without Context Decay)",
-      "link": "https://github.com/yevhens-hue/claude-skills-starter-kit",
+      "title": "Reddit mod used AI to hack Star Wars Galaxies emulator over a 14-year-old grudge",
+      "link": "https://massivelyop.com/2026/08/29/a-reddit-mod-used-ai-to-hack-a-star-wars-galaxies-emulator-over-a-14-year-old-grudge/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 13:25:50 +0000",
-      "timestamp": 1788182750.0
+      "published": "Mon, 31 Aug 2026 19:34:59 +0000",
+      "timestamp": 1788204899.0
     },
     {
-      "title": "A milestone in expanding access to AI",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+      "title": "Show HN: Kiso – Publish one OKF knowledge base for humans and AI agents",
+      "link": "https://github.com/oak-invest/kiso",
+      "summary": "I’ve been working on Kiso, an open-source publishing engine for the Open Knowledge Format (OKF) and I added an MCP server in the latest release. The idea behind it is fairly simple: I think companies will increasingly need a source of truth that can be consumed both by humans and by AI agents. Peoples and agents write the markdown files and Kiso publush a website that be consumed both by humans(html) and by AI agents(markdown). Kiso doesn't introduce a database or another proprietary knowledge store, it creates static website so you can just publih it on Github pages like I did with Google Acm",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 19:28:16 +0000",
+      "timestamp": 1788204496.0
+    },
+    {
+      "title": "Perceptron AI releases Isaac 0.5: 36B, open weight, embodied foundation model",
+      "link": "https://twitter.com/perceptroninc/status/2092678357775442103",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 13:07:48 +0000",
-      "timestamp": 1788181668.0
+      "published": "Mon, 31 Aug 2026 19:18:49 +0000",
+      "timestamp": 1788203929.0
     },
     {
-      "title": "Race to bottom in Indias voice AI market (0.15 cents/min)",
-      "link": "https://twitter.com/rajananandan/status/2092952143078490550",
+      "title": "Cloudflare Unveils Adaptive Intelligence to Counter AI-Fueled Bot Attacks",
+      "link": "https://securityboulevard.com/2026/08/cloudflare-unveils-adaptive-intelligence-to-counter-ai-fueled-bot-attacks/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:59:46 +0000",
-      "timestamp": 1788181186.0
+      "published": "Mon, 31 Aug 2026 19:17:18 +0000",
+      "timestamp": 1788203838.0
     },
     {
-      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 31 Aug 2026 19:16:59 +0000",
+      "timestamp": 1788203819.0
+    },
+    {
+      "title": "'Superhuman' AI tool spots heart disease in less than 2 seconds",
+      "link": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 18:59:43 +0000",
+      "timestamp": 1788202783.0
+    },
+    {
+      "title": "Show HN: Xyzzy – AI teamwork in one Python process, with a tamper-evident log",
+      "link": "https://github.com/Project-Nexus-YR/XYZZY",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 18:58:45 +0000",
+      "timestamp": 1788202725.0
+    },
+    {
+      "title": "Show HN: PiPy semantic search MCP for AI agents",
+      "link": "https://skillfed.io/packages",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 18:49:40 +0000",
+      "timestamp": 1788202180.0
+    },
+    {
+      "title": "SlopTV: A livestream of AI slop generated from comments, Minimax H3 on 2x5090",
+      "link": "https://www.youtube.com/watch?v=EQ2RexjIEFE",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 18:48:15 +0000",
+      "timestamp": 1788202095.0
+    },
+    {
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 31 Aug 2026 18:35:11 +0000",
+      "timestamp": 1788201311.0
+    },
+    {
+      "title": "VibeCoded AI-Slop License v1.0",
+      "link": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 18:22:33 +0000",
+      "timestamp": 1788200553.0
+    },
+    {
+      "title": "Whatareyoubuilding.ai – indie builder and AI product directory",
+      "link": "https://whatareyoubuilding.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 18:19:55 +0000",
+      "timestamp": 1788200395.0
+    },
+    {
+      "title": "Is your Shopify store visible to ChatGPT? A free AI-visibility scanner",
+      "link": "https://rankinai.surge.sh/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 18:19:30 +0000",
+      "timestamp": 1788200370.0
+    },
+    {
+      "title": "The safest job from AI may be writing",
+      "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 18:12:20 +0000",
+      "timestamp": 1788199940.0
+    },
+    {
+      "title": "Show HN: 10x token savings for AI Web Scraping",
+      "link": "https://www.makralabs.org/about",
+      "summary": "I have been working on this problem for 6 months. Makra brings down the cost of web scraping by quite a lot, using novel memory and layout caching mechanisms. Currently it's web scraping, but the same can be applied with all kinds of Browser-use application. Let me know what you think. And, just FYI: benchmarks will be public soon. We're on it.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 18:11:31 +0000",
+      "timestamp": 1788199891.0
+    },
+    {
+      "title": "AGI Society: AI and Labor Market Assessment Quiz",
+      "link": "https://ask.agi-society.de/ai-labor-report-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 18:00:02 +0000",
+      "timestamp": 1788199202.0
+    },
+    {
+      "title": "In the US, Caution Rules on AI Ahead of K-12 School Year",
+      "link": "https://www.techpolicy.press/in-the-us-caution-rules-on-ai-ahead-of-k12-school-year/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 17:57:03 +0000",
+      "timestamp": 1788199023.0
+    },
+    {
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 31 Aug 2026 16:00:00 +0000",
+      "timestamp": 1788192000.0
+    },
+    {
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-31T11:34:58-04:00",
+      "timestamp": 1788190498.0
+    },
+    {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 31 Aug 2026 15:15:25 +0000",
+      "timestamp": 1788189325.0
+    },
+    {
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Meta just reached [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-31T10:00:00-04:00",
+      "timestamp": 1788184800.0
+    },
+    {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-31T09:27:36-04:00",
+      "timestamp": 1788182856.0
+    },
+    {
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-08-31T09:00:00-04:00",
+      "timestamp": 1788181200.0
+    },
+    {
+      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
       "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 31 Aug 2026 12:56:46 +0000",
       "timestamp": 1788181006.0
-    },
-    {
-      "title": "AI in Education Knowledge Base",
-      "link": "https://edtechdev.github.io/aied/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:48:35 +0000",
-      "timestamp": 1788180515.0
-    },
-    {
-      "title": "A new class of memory-based AI (MIRaS) published this week",
-      "link": "https://academic.oup.com/nar/article/54/16/gkag833/8769250",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:48:18 +0000",
-      "timestamp": 1788180498.0
-    },
-    {
-      "title": "AI and Employment: So Far, So Good",
-      "link": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:47:56 +0000",
-      "timestamp": 1788180476.0
-    },
-    {
-      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-      "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:41:22 +0000",
-      "timestamp": 1788180082.0
-    },
-    {
-      "title": "AI is hurting US politics. Here’s how candidates could use it for good",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:27:58 +0000",
-      "timestamp": 1788179278.0
-    },
-    {
-      "title": "An AI coding agent silently erased 92% of AI nodes in n8n's most-cited dataset",
-      "link": "https://sevenedge.pl/en/blog/an-ai-agent-erased-n8ns-ai-agent-nodes",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:16:30 +0000",
-      "timestamp": 1788178590.0
-    },
-    {
-      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-      "link": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:08:25 +0000",
-      "timestamp": 1788178105.0
-    },
-    {
-      "title": "Energy biz SSE smacked around in court by a guy and AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/31/energy-biz-sse-smacked-around-in-court-by-a-guy-and-ai/5293391",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:07:07 +0000",
-      "timestamp": 1788178027.0
-    },
-    {
-      "title": "Ask HN: What companies have discussed their AI/agentic workflows?",
-      "link": "https://news.ycombinator.com/item?id=49508643",
-      "summary": "Looking to learn what agentic engineering looks like in different places. My current favorite deep dive into a professional coding environment has been Wes McKinney’s “How Kenn is doing Agentic Engineering“ [1], but I’d like to know if anyone has seen similar (or debatably better) blog posts or articles from other companies and engineers discussing their stacks. Personally, I have been focusing my own effort on improving my persistent context documentation + agent queues for development, refinement, implementation, and review, where I scale the agents where I find bottlenecks in my task queues",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:05:25 +0000",
-      "timestamp": 1788177925.0
-    },
-    {
-      "title": "Advertisers are trying to influence AI bots with secret ads",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:03:18 +0000",
-      "timestamp": 1788177798.0
-    },
-    {
-      "title": "Build good decks using your AI",
-      "link": "https://github.com/kritikmodi/deckloom",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 12:00:55 +0000",
-      "timestamp": 1788177655.0
     },
     {
       "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
@@ -192,7 +273,7 @@
       "timestamp": 1788172200.0
     },
     {
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
       "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
       "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
       "image": null,
@@ -237,7 +318,7 @@
       "timestamp": 1788085800.0
     },
     {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "image": null,
@@ -255,7 +336,16 @@
       "timestamp": 1788027593.0
     },
     {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 29 Aug 2026 17:51:10 +0000",
+      "timestamp": 1788025870.0
+    },
+    {
+      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
       "image": null,
@@ -444,60 +534,6 @@
       "timestamp": 1787854337.0
     },
     {
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 27 Aug 2026 17:43:24 +0000",
-      "timestamp": 1787852604.0
-    },
-    {
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-27T12:15:52-04:00",
-      "timestamp": 1787847352.0
-    },
-    {
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "timestamp": 1787846400.0
-    },
-    {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 27 Aug 2026 14:56:52 +0000",
-      "timestamp": 1787842612.0
-    },
-    {
-      "title": "AI’s memory crunch is coming for Android apps",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 27 Aug 2026 14:27:04 +0000",
-      "timestamp": 1787840824.0
-    },
-    {
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 27 Aug 2026 14:01:42 +0000",
-      "timestamp": 1787839302.0
-    },
-    {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
       "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27;s the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do things get so opaque so quickly? Add a second agent to a system, and you&#x27;ve added one con",
@@ -505,33 +541,6 @@
       "source": "VentureBeat AI",
       "published": "Thu, 27 Aug 2026 14:01:00 GMT",
       "timestamp": 1787839260.0
-    },
-    {
-      "title": "OpenAI&#8217;s executive exodus has one big winner",
-      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president. While Sam Altman is the CEO and still OpenAI’s most public face, Brockman has amassed [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-27T10:00:00-04:00",
-      "timestamp": 1787839200.0
-    },
-    {
-      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-      "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little robot \"before Christmas 2026.\" Video demos of the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-27T09:44:00-04:00",
-      "timestamp": 1787838240.0
-    },
-    {
-      "title": "Plaud is launching AI earbuds",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includes built-in 4G to upload and process [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-27T09:11:23-04:00",
-      "timestamp": 1787836283.0
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
