@@ -1,7 +1,133 @@
 {
-  "scraped_at": "2026-08-31T23:50:11.539667+00:00",
+  "scraped_at": "2026-09-01T05:04:54.111046+00:00",
   "count": 66,
   "items": [
+    {
+      "title": "Show HN: Clippy Vision – local AI that remembers your screen across apps",
+      "link": "https://github.com/protocorn/clippy-vision/issues/53",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 04:38:36 +0000",
+      "timestamp": 1788237516.0
+    },
+    {
+      "title": "Ask HN: Why do people get mad at AI pastes",
+      "link": "https://news.ycombinator.com/item?id=49517974",
+      "summary": "If someone copy/pastes an answer from the best model in the world they pay $200/mo for - isn’t that valuable? Why are people mad when someone pastes an AI answer if it’s correct and valuable info? Who cares the source? Furthermore if it’s a $200/mo AI isn’t that like them giving you their Netflix password for 1 answer? It seems like pure value to share that Why do people get mad, downvote - HN will auto dead it. Why if it’s valuable info???",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 04:30:59 +0000",
+      "timestamp": 1788237059.0
+    },
+    {
+      "title": "ArXiv has almost 600 submissions today and most are AI slop",
+      "link": "https://arxiv.org/list/math/new",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 04:24:01 +0000",
+      "timestamp": 1788236641.0
+    },
+    {
+      "title": "Show HN: Eatheria – Self-hosted AppSec platform with AI false-positive filtering",
+      "link": "https://github.com/MartinCrespoC/Security-Team---Workspace-",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 04:21:15 +0000",
+      "timestamp": 1788236475.0
+    },
+    {
+      "title": "I Went on an AI Show. It Made Me Feel Better About Human News",
+      "link": "https://www.upstartsmedia.com/p/the-good-bad-ugly-of-24-hour-ai-news",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 04:18:26 +0000",
+      "timestamp": 1788236306.0
+    },
+    {
+      "title": "Show HN: Seatlr – We rebuilt our traveler chat into an AI-powered travel network",
+      "link": "https://www.seatlr.com/",
+      "summary": "Hey HN, I previously shared the initial version of Seatlr here. The idea was to provide a chat room for each destination, connecting travelers heading to the same city regardless of airline. Over the past few weeks, we have expanded Seatlr from destination-based chat rooms into a more comprehensive travel companion, adding an AI assistant and an alert service designed to make travel safer. Travelers enter their flight number, and Seatlr automatically connects them to their destination’s city room, where they can meet other travelers and exchange experiences and recommendations. The new version",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 03:46:11 +0000",
+      "timestamp": 1788234371.0
+    },
+    {
+      "title": "Show HN: I Built the AI command center that runs all local models in one place",
+      "link": "https://generativeide.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 03:41:48 +0000",
+      "timestamp": 1788234108.0
+    },
+    {
+      "title": "Running a personal AI agent on an old Android phone instead of a server",
+      "link": "https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 03:12:56 +0000",
+      "timestamp": 1788232376.0
+    },
+    {
+      "title": "How My Students Think About AI",
+      "link": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 02:35:58 +0000",
+      "timestamp": 1788230158.0
+    },
+    {
+      "title": "Show HN: Deslop, a skill that turns legalese and AI slop into plain English",
+      "link": "https://github.com/fayerman-source/deslop/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 02:03:52 +0000",
+      "timestamp": 1788228232.0
+    },
+    {
+      "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
+      "link": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 00:43:31 +0000",
+      "timestamp": 1788223411.0
+    },
+    {
+      "title": "Mu/TH/UR 6000 – An anonymous AI terminal styled as a 1979 mainframe",
+      "link": "https://mu7hur.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 00:21:29 +0000",
+      "timestamp": 1788222089.0
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 01 Sep 2026 00:13:00 +0000",
+      "timestamp": 1788221580.0
+    },
+    {
+      "title": "AI and Employment: So Far, So Good",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 31 Aug 2026 23:54:00 +0000",
+      "timestamp": 1788220440.0
+    },
     {
       "title": "HashCortX – AI workspace app, Now works on pre-2013 CPU windows devices",
       "link": "https://github.com/Hash-7777/HashCortX",
@@ -66,87 +192,6 @@
       "timestamp": 1788213767.0
     },
     {
-      "title": "Tell HN: On AI, Quality, and Accountability",
-      "link": "https://news.ycombinator.com/item?id=49515051",
-      "summary": "Suppose I do something myself. I reap all the benefits, but it takes a lot of time, I may not have the expertise to do a good job, and I get all the blame if something goes wrong. Suppose I go to the park and find one of several guys who would do it for free. I get all the of benefits, he might do an excellent job, but, because there's no contract, I still take all the blame. Suppose I actually hire a professional to do it. I receive fewer of the benefits. However, he's much more likely to do a good job, and the legal system provides a variety of ways to hold him accountable for the work. Supp",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 21:30:34 +0000",
-      "timestamp": 1788211834.0
-    },
-    {
-      "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
-      "link": "https://www.fenty.dev/intelligence/the-next-ai-moat-advanced-packaging",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 21:17:30 +0000",
-      "timestamp": 1788211050.0
-    },
-    {
-      "title": "The Movies That Make You Feel the Strangeness of AI",
-      "link": "https://twitter.com/jmugan/status/2094533961896931562",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 21:13:44 +0000",
-      "timestamp": 1788210824.0
-    },
-    {
-      "title": "The Shape and Feel of the Post-AI Data Stack",
-      "link": "https://www.iandmacomber.com/blog/post-ai-data-stack/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 21:09:34 +0000",
-      "timestamp": 1788210574.0
-    },
-    {
-      "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 21:04:25 +0000",
-      "timestamp": 1788210265.0
-    },
-    {
-      "title": "I attended a conference recently and AI use by academics was absurd",
-      "link": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 20:59:30 +0000",
-      "timestamp": 1788209970.0
-    },
-    {
-      "title": "Show HN: cdai – the AI-enhanced cd command",
-      "link": "https://github.com/franzenzenhofer/cdai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 20:46:51 +0000",
-      "timestamp": 1788209211.0
-    },
-    {
-      "title": "Show HN: Transform text and images into cinematic AI videos",
-      "link": "https://h3max.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 20:29:57 +0000",
-      "timestamp": 1788208197.0
-    },
-    {
-      "title": "South Korea opened bidding for a free, unlimited AI chatbot for all citizens",
-      "link": "https://thenextweb.com/news/south-korea-free-ai-chatbot-all-citizens-domestic-models",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 20:15:02 +0000",
-      "timestamp": 1788207302.0
-    },
-    {
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
       "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
@@ -154,42 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 31 Aug 2026 20:13:45 +0000",
       "timestamp": 1788207225.0
-    },
-    {
-      "title": "AI hallucinations are infiltrating Australia's parliament",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 20:07:08 +0000",
-      "timestamp": 1788206828.0
-    },
-    {
-      "title": "Canaries in the Gold Mine: Early Productivity Gains from AI",
-      "link": "https://www.nber.org/papers/w35684",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 19:43:24 +0000",
-      "timestamp": 1788205404.0
-    },
-    {
-      "title": "Show HN: Guess the AI model from its web design",
-      "link": "https://raq.com/blog/can-you-spot-ai-web-design/quiz",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 19:40:25 +0000",
-      "timestamp": 1788205225.0
-    },
-    {
-      "title": "Bank of England chief warns new AI models threaten global financial stability",
-      "link": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 31 Aug 2026 19:40:25 +0000",
-      "timestamp": 1788205225.0
     },
     {
       "title": "Instagram puts new limits on undisclosed AI profiles",
@@ -496,15 +505,6 @@
       "source": "Wired AI",
       "published": "Fri, 28 Aug 2026 03:04:14 +0000",
       "timestamp": 1787886254.0
-    },
-    {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 27 Aug 2026 23:16:45 +0000",
-      "timestamp": 1787872605.0
     },
     {
       "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
