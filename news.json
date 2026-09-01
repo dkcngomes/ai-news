@@ -1,7 +1,259 @@
 {
-  "scraped_at": "2026-09-01T14:52:05.054888+00:00",
-  "count": 66,
+  "scraped_at": "2026-09-01T18:28:50.993343+00:00",
+  "count": 67,
   "items": [
+    {
+      "title": "There Is No AI",
+      "link": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 18:18:54 +0000",
+      "timestamp": 1788286734.0
+    },
+    {
+      "title": "Show HN: Wife: AI that lets you pick the best Card for each Purchase",
+      "link": "https://www.getwife.co/",
+      "summary": "Hi Hackernews, being an avid maximizer of rewards/gifts/credit cards, I decided to build a product that enables me to select the best card for each purchase/transaction. You can be able to add your current Card to the wallet (we don't store card information), ask an llm",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 18:17:38 +0000",
+      "timestamp": 1788286658.0
+    },
+    {
+      "title": "When no one is watching, will an AI kill an innocent?",
+      "link": "https://paradise.glyphai.co/research/watching/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 18:13:46 +0000",
+      "timestamp": 1788286426.0
+    },
+    {
+      "title": "No one is immune: An Update on AI as a Psychological Technology",
+      "link": "https://punyamishra.com/2026/08/28/no-one-is-immune-an-update-on-ai-as-a-psychological-technology/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 18:12:13 +0000",
+      "timestamp": 1788286333.0
+    },
+    {
+      "title": "Fal.live – AI television directed by everyone",
+      "link": "https://fal.live/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 18:11:34 +0000",
+      "timestamp": 1788286294.0
+    },
+    {
+      "title": "HuggingFace/Kernels: 200 WebGPU Kernels for Local AI",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 18:03:17 +0000",
+      "timestamp": 1788285797.0
+    },
+    {
+      "title": "VibeCoded AI-Slop License v1.0",
+      "link": "https://gist.githubusercontent.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6/raw/21b7ff6761d73af4b3a4f03d8149d570679dad70/LICENSE",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 18:03:04 +0000",
+      "timestamp": 1788285784.0
+    },
+    {
+      "title": "Adds X402 Payments Access for AI Agents with Coinbase",
+      "link": "https://massive.com/blog/x402-payments-for-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 18:00:04 +0000",
+      "timestamp": 1788285604.0
+    },
+    {
+      "title": "Hook to force AI agents to use the latest version of dependencies",
+      "link": "https://github.com/chains-project/yul",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:59:17 +0000",
+      "timestamp": 1788285557.0
+    },
+    {
+      "title": "The Terrible Downside of AI Language Translation",
+      "link": "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:59:15 +0000",
+      "timestamp": 1788285555.0
+    },
+    {
+      "title": "Show HN: Wasmer SDK – Local Sandboxes for AI Agents",
+      "link": "https://wasmer.io/posts/wasmer-local-sandboxes-for-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:58:49 +0000",
+      "timestamp": 1788285529.0
+    },
+    {
+      "title": "A good way to present AI videos",
+      "link": "https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:55:52 +0000",
+      "timestamp": 1788285352.0
+    },
+    {
+      "title": "AI admissions navigator for students in Central Asia",
+      "link": "https://www.lumifield.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:44:59 +0000",
+      "timestamp": 1788284699.0
+    },
+    {
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 01 Sep 2026 17:35:37 +0000",
+      "timestamp": 1788284137.0
+    },
+    {
+      "title": "Patent-pending live company intelligence for AI agents",
+      "link": "https://www.bytemine.ai/blog/temporal-company-intelligence-gtm-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:35:33 +0000",
+      "timestamp": 1788284133.0
+    },
+    {
+      "title": "Interactive Tutorial to how modern AI works – accessible to a middle schooler",
+      "link": "https://learnai.robennals.org",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:24:54 +0000",
+      "timestamp": 1788283494.0
+    },
+    {
+      "title": "AI token prices are hitting new record lows",
+      "link": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:23:47 +0000",
+      "timestamp": 1788283427.0
+    },
+    {
+      "title": "AI agents meant to replace Meta workers made \"large-scale, disruptive actions\"",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:03:30 +0000",
+      "timestamp": 1788282210.0
+    },
+    {
+      "title": "AI Feels Like the Pandemic All over Again",
+      "link": "https://bejofo.com/blog/ai-feels-like-the-pandemic",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:02:40 +0000",
+      "timestamp": 1788282160.0
+    },
+    {
+      "title": "An end-to-end process for tapping into AI's hidden creativity",
+      "link": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 17:02:16 +0000",
+      "timestamp": 1788282136.0
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 01 Sep 2026 17:00:00 +0000",
+      "timestamp": 1788282000.0
+    },
+    {
+      "title": "VibeCoded AI-Slop License v1.0",
+      "link": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 16:56:03 +0000",
+      "timestamp": 1788281763.0
+    },
+    {
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 01 Sep 2026 16:31:04 +0000",
+      "timestamp": 1788280264.0
+    },
+    {
+      "title": "John Deere launched an AI chatbot for farmers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing. The [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-01T12:00:52-04:00",
+      "timestamp": 1788278452.0
+    },
+    {
+      "title": "Google Pics is like Canva, but with even more AI",
+      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-01T12:00:00-04:00",
+      "timestamp": 1788278400.0
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 01 Sep 2026 15:51:55 +0000",
+      "timestamp": 1788277915.0
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 01 Sep 2026 15:45:51 +0000",
+      "timestamp": 1788277551.0
+    },
+    {
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 01 Sep 2026 15:10:58 +0000",
+      "timestamp": 1788275458.0
+    },
     {
       "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
       "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
@@ -12,184 +264,13 @@
       "timestamp": 1788273600.0
     },
     {
-      "title": "Show HN: Will your money last? AI-assisted financial simulator",
-      "link": "https://futurezapp.com/",
-      "summary": "Hey all - I've been working on a financial simulator for more years than I can remember. I never felt like I got it right so they always ended up as half-made apps and scripts on my desktop. After years of iterations I feel like I made a breakthrough. Here's what led me to build Futurez: Simple calculators let you quickly test ideas and help with questions like \"am I on the right track?\" It's pretty obvious how they fall flat from modeling actual reality though. (you can't have different accounts grow at different rates, model expenses with an end-date like a 30-yr mortgage, etc.) Big fat spre",
+      "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:38:01 +0000",
-      "timestamp": 1788273481.0
-    },
-    {
-      "title": "Show HN: PearPie – Private AI chat that syncs peer-to-peer, no accounts needed",
-      "link": "https://www.pearpie.ai/launch/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:31:16 +0000",
-      "timestamp": 1788273076.0
-    },
-    {
-      "title": "AI swarms turn on their creators: \"Made my stomach churn\"",
-      "link": "https://english.elpais.com/technology/2026-08-29/ai-swarms-turn-on-their-creators-its-the-first-incident-that-has-made-my-stomach-churn.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:28:28 +0000",
-      "timestamp": 1788272908.0
-    },
-    {
-      "title": "H3 Max Live: AI video generated faster than real time, directed by Twitch chat",
-      "link": "https://twitter.com/rehan_shei/status/2093528415576211819",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:28:05 +0000",
-      "timestamp": 1788272885.0
-    },
-    {
-      "title": "Curing cancer won't redeem AI",
-      "link": "https://www.writingruxandrabio.com/p/curing-cancer-wont-redeem-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:25:42 +0000",
-      "timestamp": 1788272742.0
-    },
-    {
-      "title": "South Korea's 'AI for All' Push Gives Free Access to Every Citizen",
-      "link": "https://www.wsj.com/tech/ai/south-koreas-ai-for-all-push-gives-free-access-to-every-citizen-451f6b2c",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:24:55 +0000",
-      "timestamp": 1788272695.0
-    },
-    {
-      "title": "The hard parts of AI-assisted science",
-      "link": "https://allenai.org/blog/swedish-autodiscovery-recap",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:20:23 +0000",
-      "timestamp": 1788272423.0
-    },
-    {
-      "title": "Agentic Determinism Index (open source): Find where deterministic AI agents run",
-      "link": "https://github.com/lemma-ventures/agentic-determinism-index",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:19:43 +0000",
-      "timestamp": 1788272383.0
-    },
-    {
-      "title": "'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras",
-      "link": "https://www.404media.co/this-digital-camouflage-shirt-confuses-ai-powered-surveillance-cameras/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:11:38 +0000",
-      "timestamp": 1788271898.0
-    },
-    {
-      "title": "Alabama AG Launches Investigation into OpenAI for AI Data Breach",
-      "link": "https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:11:14 +0000",
-      "timestamp": 1788271874.0
-    },
-    {
-      "title": "Google's failed attempt to license Hollywood IP for its AI tools",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-31/how-google-is-courting-hollywood-to-use-its-ai-tools",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:03:41 +0000",
-      "timestamp": 1788271421.0
-    },
-    {
-      "title": "AI-Powered Bird Sprinkler",
-      "link": "https://mattsahn.github.io/bird-away-blog/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:01:42 +0000",
-      "timestamp": 1788271302.0
-    },
-    {
-      "title": "Managing AI agents is still a full-time job",
-      "link": "https://freedom.to/blog/ai-agent-burnout/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 14:01:33 +0000",
-      "timestamp": 1788271293.0
-    },
-    {
-      "title": "The Thinking Wattage of AI Agents vs. the Human Brain",
-      "link": "https://codeandlife.com/2026/08/31/thinking-wattage-ai-agents-vs-human-brain/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 13:52:16 +0000",
-      "timestamp": 1788270736.0
-    },
-    {
-      "title": "SnapShield AI – Windows redaction that destroys pixels",
-      "link": "https://nexoradia.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 13:50:30 +0000",
-      "timestamp": 1788270630.0
-    },
-    {
-      "title": "Professional AI's Dual Trust Problem",
-      "link": "https://balkin.blogspot.com/2026/09/professional-ais-dual-trust-problem.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 13:44:34 +0000",
-      "timestamp": 1788270274.0
-    },
-    {
-      "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
-      "link": "https://github.com/axem-solutions/shaide",
-      "summary": "Hi everyone, I’m one of the co-founders of axem. We recently open sourced Shaide, a project we’ve been working on to make running multiple LLMs on your own infrastructure less painful. It started pretty simply. Running one model wasn’t the hard part. The hard part came when we needed several models running at the same time, scaling them independently across GPU nodes, routing requests between replicas, and making the whole setup reproducible without relying on an external cloud service. Over time we ended up building most of that infrastructure into one platform, and decided it made more sense",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 13:40:24 +0000",
-      "timestamp": 1788270024.0
-    },
-    {
-      "title": "Show HN: AI Answers with Interactive Video",
-      "link": "https://appearing.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 13:30:23 +0000",
-      "timestamp": 1788269423.0
-    },
-    {
-      "title": "CTO Lunches – Thread of the Week – AI Assistants [audio]",
-      "link": "https://www.youtube.com/watch?v=51X1BNwv3Us",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 13:27:32 +0000",
-      "timestamp": 1788269252.0
-    },
-    {
-      "title": "Clarity: AI Writing Skill and Editor",
-      "link": "https://clarity.addy.ie/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 13:25:19 +0000",
-      "timestamp": 1788269119.0
+      "source": "The Verge AI",
+      "published": "2026-09-01T09:00:00-04:00",
+      "timestamp": 1788267600.0
     },
     {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
@@ -417,42 +498,6 @@
       "timestamp": 1787997600.0
     },
     {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "timestamp": 1787948651.0
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
-      "timestamp": 1787945438.0
-    },
-    {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 28 Aug 2026 18:19:40 +0000",
-      "timestamp": 1787941180.0
-    },
-    {
-      "title": "Trump’s EPA wants to let data centers hide their air pollution",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-28T12:28:40-04:00",
-      "timestamp": 1787934520.0
-    },
-    {
       "title": "AI Has Human Doctors Asking: What’s Left for Us?",
       "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
       "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
@@ -460,24 +505,6 @@
       "source": "Wired AI",
       "published": "Fri, 28 Aug 2026 15:00:00 +0000",
       "timestamp": 1787929200.0
-    },
-    {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 28 Aug 2026 12:46:12 +0000",
-      "timestamp": 1787921172.0
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 28 Aug 2026 12:21:06 +0000",
-      "timestamp": 1787919666.0
     },
     {
       "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
@@ -498,15 +525,6 @@
       "timestamp": 1787914582.0
     },
     {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-27T23:14:06-04:00",
-      "timestamp": 1787886846.0
-    },
-    {
       "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
       "link": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
       "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
@@ -523,15 +541,6 @@
       "source": "Wired AI",
       "published": "Thu, 27 Aug 2026 21:08:34 +0000",
       "timestamp": 1787864914.0
-    },
-    {
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-27T15:30:00-04:00",
-      "timestamp": 1787859000.0
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
