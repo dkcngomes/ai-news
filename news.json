@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-09-01T21:45:46.201363+00:00",
+  "scraped_at": "2026-09-02T00:11:57.382318+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "California lawmakers pass bill governing lawyers' use of AI",
+      "link": "https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 00:01:39 +0000",
+      "timestamp": 1788307299.0
+    },
+    {
+      "title": "Researchers use AI to 'democratize' 3D printing of crucial metal alloy",
+      "link": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 23:54:51 +0000",
+      "timestamp": 1788306891.0
+    },
+    {
+      "title": "AI and the Practical Scientist",
+      "link": "https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 23:54:12 +0000",
+      "timestamp": 1788306852.0
+    },
+    {
+      "title": "TEAS: Tracking Evolving AI and Systems – cost, accuracy, performance, energy",
+      "link": "https://www.teasbench.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 23:46:38 +0000",
+      "timestamp": 1788306398.0
+    },
+    {
+      "title": "To bot or not to bot: My personal rules of engagement with AI",
+      "link": "https://code2yugen.substack.com/p/what-i-use-ai-for-and-what-i-never",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 23:39:37 +0000",
+      "timestamp": 1788305977.0
+    },
+    {
+      "title": "New Google AI Model Said to Narrow Gap on Coding Ability (Gemini 3.8 Flash)",
+      "link": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 23:23:28 +0000",
+      "timestamp": 1788305008.0
+    },
+    {
+      "title": "Perplexity launches privacy-minded 'hybrid compute' AI feature for Mac",
+      "link": "https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 23:18:04 +0000",
+      "timestamp": 1788304684.0
+    },
+    {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-01T18:50:29-04:00",
+      "timestamp": 1788303029.0
+    },
+    {
+      "title": "Don't allow Gemini AI access to your Gmail",
+      "link": "https://tuta.com/blog/google-gemini-ai-email",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 22:49:08 +0000",
+      "timestamp": 1788302948.0
+    },
+    {
+      "title": "AI Coding Agent Skills for Real Engineers",
+      "link": "https://github.com/mattpocock/skills",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 22:48:47 +0000",
+      "timestamp": 1788302927.0
+    },
+    {
+      "title": "How to Build a Notion AI Chatbot for Your Help Center",
+      "link": "https://quickchat.ai/post/notion-ai-chatbot-help-center",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 22:44:50 +0000",
+      "timestamp": 1788302690.0
+    },
+    {
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 01 Sep 2026 22:08:24 +0000",
+      "timestamp": 1788300504.0
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "link": "https://masteranza.github.io/weedout/",
+      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos. Source for developers who want to fork or build: https://github.com/masteranza/weedout-for-youtube Pull requests are not accepted; the repository is for independent forks.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 22:06:57 +0000",
+      "timestamp": 1788300417.0
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-01T18:01:36-04:00",
+      "timestamp": 1788300096.0
+    },
+    {
+      "title": "AI is making back-office work extinct",
+      "link": "https://www.whitecollardream.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 01 Sep 2026 21:43:31 +0000",
+      "timestamp": 1788299011.0
+    },
     {
       "title": "AI trolley users rack up higher basket values and spend longer in store",
       "link": "https://www.citystgeorges.ac.uk/news-and-events/news/2026/june/smart-supermarket-trolleys-linked-to-higher-spending-and-longer-shopping-study-finds",
@@ -48,7 +183,7 @@
       "timestamp": 1788297313.0
     },
     {
-      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
       "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
       "image": null,
@@ -102,69 +237,6 @@
       "timestamp": 1788295285.0
     },
     {
-      "title": "Sosc Core to Institute AI Ban, Technology-Free Classrooms – UofChicago",
-      "link": "https://chicagomaroon.com/53262/news/sosc-core-to-institute-ai-ban-technology-free-classrooms-this-fall/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 20:36:53 +0000",
-      "timestamp": 1788295013.0
-    },
-    {
-      "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
-      "link": "https://news.ycombinator.com/item?id=49527773",
-      "summary": "In an interview with PC Gamer at Gamescom 2026, Dwarf Fortress creator Tarn Adams sharply criticizes studio executives' obsession with generative AI and the wave of layoffs across the games industry. He compares the behavior of certain CEOs to a form of \"psychosis,\" describing managers pressuring teams over AI usage and threatening to replace them with machines. He also brings up his own father, laid off from a sewage treatment plant by managers who didn't understand his job, to illustrate a pattern he sees repeating throughout the games industry. Read more: https://playstationcouch.com/post.p",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 20:32:34 +0000",
-      "timestamp": 1788294754.0
-    },
-    {
-      "title": "Explore real AI risks through the lens of pop culture",
-      "link": "https://cultural-alignment.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 20:25:43 +0000",
-      "timestamp": 1788294343.0
-    },
-    {
-      "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
-      "link": "https://indextkn.com",
-      "summary": "I've been building quite a few POCs that use LLMs at work, and something that always comes up is: \"OK, how much are we paying for X?\" Or the one that follows right after: \"If we use another model, would that be cheaper?\" So far, what we've used are hardcoded files or keeping the data in our DB. This won't hold when moving to prod. It also keeps us very limited when it comes to creating price comparisons across different models/providers. indextkn came from that. Over the past 3 weeks, I've spent a lot of time understanding more about pricing, when prices usually change, discounts (flex, batch,",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 20:17:32 +0000",
-      "timestamp": 1788293852.0
-    },
-    {
-      "title": "Dev-sandbox – One bash script to isolate AI coding agents with Podman",
-      "link": "https://github.com/kosmrljt/dev-sandbox",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 20:16:11 +0000",
-      "timestamp": 1788293771.0
-    },
-    {
-      "title": "Ask HN: AI Architecture Systems Design",
-      "link": "https://news.ycombinator.com/item?id=49527397",
-      "summary": "Are there any quality system design resources out there like https://github.com/donnemartin/system-design-primer that cover AI Architectures instead - RAG, intelligent document processing, agent pattern etc.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 20:08:01 +0000",
-      "timestamp": 1788293281.0
-    },
-    {
-      "title": "How AI Detection Works",
-      "link": "https://www.complexsystemspodcast.com/episodes/how-ai-detection-actually-works-with-pangrams-max-spero/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 20:05:03 +0000",
-      "timestamp": 1788293103.0
-    },
-    {
       "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
       "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
       "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
@@ -172,15 +244,6 @@
       "source": "Wired AI",
       "published": "Tue, 01 Sep 2026 20:00:00 +0000",
       "timestamp": 1788292800.0
-    },
-    {
-      "title": "PrismCAD – A zero-trust, local AI assistant for AutoCAD",
-      "link": "https://www.insightits.com/products/prismcad.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 19:52:44 +0000",
-      "timestamp": 1788292364.0
     },
     {
       "title": "Anthropic’s new Fable release is cheaper, less restrictive",
@@ -192,33 +255,6 @@
       "timestamp": 1788291562.0
     },
     {
-      "title": "Murphi: AI-native healthcare workflows, embedded or ready to use",
-      "link": "https://murphi.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 19:36:28 +0000",
-      "timestamp": 1788291388.0
-    },
-    {
-      "title": "Ask HN: What full workflow / process have you tried to automate with AI?",
-      "link": "https://news.ycombinator.com/item?id=49526952",
-      "summary": "I have been trying to build a full review and maybe commit management flow, but its been too token heavy. Looking for more ideas of things to try and automate",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 19:35:19 +0000",
-      "timestamp": 1788291319.0
-    },
-    {
-      "title": "Mutating every DNA letter of a genome shows the limits of AI",
-      "link": "https://www.nature.com/articles/d41586-026-02609-y",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 19:07:07 +0000",
-      "timestamp": 1788289627.0
-    },
-    {
       "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
       "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
       "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
@@ -226,15 +262,6 @@
       "source": "The Verge AI",
       "published": "2026-09-01T15:02:54-04:00",
       "timestamp": 1788289374.0
-    },
-    {
-      "title": "Building a software factory for AI SDK",
-      "link": "https://vercel.com/blog/building-a-software-factory-for-ai-sdk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 19:00:42 +0000",
-      "timestamp": 1788289242.0
     },
     {
       "title": "Apple accuses OpenAI of destroying evidence",
@@ -408,24 +435,6 @@
       "timestamp": 1788184800.0
     },
     {
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-31T09:27:36-04:00",
-      "timestamp": 1788182856.0
-    },
-    {
-      "title": "Instagram cracks down on AI accounts pretending to be human",
-      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-08-31T09:00:00-04:00",
-      "timestamp": 1788181200.0
-    },
-    {
       "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
       "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
       "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
@@ -478,15 +487,6 @@
       "source": "Wired AI",
       "published": "Sun, 30 Aug 2026 10:30:00 +0000",
       "timestamp": 1788085800.0
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 29 Aug 2026 18:41:59 +0000",
-      "timestamp": 1788028919.0
     },
     {
       "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
