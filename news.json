@@ -1,7 +1,133 @@
 {
-  "scraped_at": "2026-09-02T00:11:57.382318+00:00",
+  "scraped_at": "2026-09-02T04:30:21.926172+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI Made Writing Code Free. It Made Reading Code Expensive",
+      "link": "https://medium.com/c-sharp-programming/ai-made-writing-code-free-it-made-reading-code-expensive-ea14b3ec5c52",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 03:13:41 +0000",
+      "timestamp": 1788318821.0
+    },
+    {
+      "title": "One in three AI scribe notes carries a verified clinical error",
+      "link": "https://arxiv.org/abs/2608.31017",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 03:07:07 +0000",
+      "timestamp": 1788318427.0
+    },
+    {
+      "title": "Piloting the first double-blind AI evaluations",
+      "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 02:55:52 +0000",
+      "timestamp": 1788317752.0
+    },
+    {
+      "title": "Show HN: Markdown Gatekeeper – one current source per topic for AI agents",
+      "link": "https://github.com/nanlogic/markdown-gatekeeper",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 02:48:42 +0000",
+      "timestamp": 1788317322.0
+    },
+    {
+      "title": "EngineRed: Asymmetric AI Warfare",
+      "link": "https://sma-das.blog/blogs/enginered-asymmetric-ai-warfare",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 02:40:57 +0000",
+      "timestamp": 1788316857.0
+    },
+    {
+      "title": "Insightify – AI review analytics for Shopify",
+      "link": "https://apps.shopify.com/aireview-analyzer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 02:40:15 +0000",
+      "timestamp": 1788316815.0
+    },
+    {
+      "title": "AI wealth is creating a 'mansion shortage' upending San Francisco housing market",
+      "link": "https://text.npr.org/nx-s1-5930432",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 02:22:05 +0000",
+      "timestamp": 1788315725.0
+    },
+    {
+      "title": "What's the Right Balance in Regulating AI?",
+      "link": "https://weightythoughts.com/p/whats-the-right-balance-in-regulating",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 02:01:41 +0000",
+      "timestamp": 1788314501.0
+    },
+    {
+      "title": "Show HN: Local AI Assistants can be user friendly too",
+      "link": "https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 01:52:22 +0000",
+      "timestamp": 1788313942.0
+    },
+    {
+      "title": "AI Broke the Assumptions Behind CI",
+      "link": "https://stack72.dev/ai-broke-the-assumptions-behind-ci/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 01:49:28 +0000",
+      "timestamp": 1788313768.0
+    },
+    {
+      "title": "How much of your coding is done by AI coding agents these days?",
+      "link": "https://slashdot.org/poll/3284/how-much-of-your-coding-is-done-by-ai-coding-agents-these-days",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 01:25:28 +0000",
+      "timestamp": 1788312328.0
+    },
+    {
+      "title": "Crossplane AI Contribution Policy",
+      "link": "https://github.com/crossplane/crossplane/blob/main/AI_POLICY.md",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 01:13:45 +0000",
+      "timestamp": 1788311625.0
+    },
+    {
+      "title": "State of Local AI Report",
+      "link": "https://www.basecompute.co/stateoflocalai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 00:38:01 +0000",
+      "timestamp": 1788309481.0
+    },
+    {
+      "title": "Compilers 2.0: AI as stochastic optimizer",
+      "link": "https://twitter.com/cdleary/status/2094878051238887834",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 00:16:33 +0000",
+      "timestamp": 1788308193.0
+    },
     {
       "title": "California lawmakers pass bill governing lawyers' use of AI",
       "link": "https://www.reuters.com/legal/government/california-lawmakers-pass-bill-governing-lawyers-use-ai-2026-09-01/",
@@ -57,15 +183,6 @@
       "timestamp": 1788305008.0
     },
     {
-      "title": "Perplexity launches privacy-minded 'hybrid compute' AI feature for Mac",
-      "link": "https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 23:18:04 +0000",
-      "timestamp": 1788304684.0
-    },
-    {
       "title": "Google needs Hollywood more than the studios need AI",
       "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
       "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
@@ -73,33 +190,6 @@
       "source": "The Verge AI",
       "published": "2026-09-01T18:50:29-04:00",
       "timestamp": 1788303029.0
-    },
-    {
-      "title": "Don't allow Gemini AI access to your Gmail",
-      "link": "https://tuta.com/blog/google-gemini-ai-email",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 22:49:08 +0000",
-      "timestamp": 1788302948.0
-    },
-    {
-      "title": "AI Coding Agent Skills for Real Engineers",
-      "link": "https://github.com/mattpocock/skills",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 22:48:47 +0000",
-      "timestamp": 1788302927.0
-    },
-    {
-      "title": "How to Build a Notion AI Chatbot for Your Help Center",
-      "link": "https://quickchat.ai/post/notion-ai-chatbot-help-center",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 22:44:50 +0000",
-      "timestamp": 1788302690.0
     },
     {
       "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
@@ -111,15 +201,6 @@
       "timestamp": 1788300504.0
     },
     {
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "link": "https://masteranza.github.io/weedout/",
-      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos. Source for developers who want to fork or build: https://github.com/masteranza/weedout-for-youtube Pull requests are not accepted; the repository is for independent forks.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 22:06:57 +0000",
-      "timestamp": 1788300417.0
-    },
-    {
       "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
       "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
       "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
@@ -129,60 +210,6 @@
       "timestamp": 1788300096.0
     },
     {
-      "title": "AI is making back-office work extinct",
-      "link": "https://www.whitecollardream.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 21:43:31 +0000",
-      "timestamp": 1788299011.0
-    },
-    {
-      "title": "AI trolley users rack up higher basket values and spend longer in store",
-      "link": "https://www.citystgeorges.ac.uk/news-and-events/news/2026/june/smart-supermarket-trolleys-linked-to-higher-spending-and-longer-shopping-study-finds",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 21:36:31 +0000",
-      "timestamp": 1788298591.0
-    },
-    {
-      "title": "In-memory security gate for autonomous AI agent tools",
-      "link": "https://bartholomew.info",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 21:36:07 +0000",
-      "timestamp": 1788298567.0
-    },
-    {
-      "title": "One job ad, 1000 applicants: How do you stand out in a world of AI job hunters?",
-      "link": "https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 21:35:56 +0000",
-      "timestamp": 1788298556.0
-    },
-    {
-      "title": "The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]",
-      "link": "https://www.youtube.com/watch?v=dLTNVM1mhiU",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 21:26:08 +0000",
-      "timestamp": 1788297968.0
-    },
-    {
-      "title": "Show HN: Compilr.dev Studio – A project brain AI agents write to and people read",
-      "link": "https://studio.compilr.dev/welcome/",
-      "summary": "I built a platform to help project and product owners record vision, objectives, decisions, risks, assumptions, and requirements as a connected graph with the help of AI. So, how does it work? The platform offers a set of MCP tools so it is compatible with any AI application that lets you define a custom MCP. I use it with Claude AI on my phone or using the Claude plugin on Chrome (main Studio page on the browser with the Claude plugin chat window in the right panel). Studio also provides the skills to the AI agent to best assist the user in defining the product or the project vision, the rela",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 21:15:13 +0000",
-      "timestamp": 1788297313.0
-    },
-    {
       "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
       "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
@@ -190,15 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 01 Sep 2026 21:06:24 +0000",
       "timestamp": 1788296784.0
-    },
-    {
-      "title": "A docs page is a long and complex search query to find AI agents",
-      "link": "https://blog.val.town/aeo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 21:04:15 +0000",
-      "timestamp": 1788296655.0
     },
     {
       "title": "Google’s Android update tackles motion sickness, accessibility, and more",
@@ -217,24 +235,6 @@
       "source": "The Verge AI",
       "published": "2026-09-01T16:45:49-04:00",
       "timestamp": 1788295549.0
-    },
-    {
-      "title": "10 AI Lessons from Driving 200M+ Fully Autonomous Miles",
-      "link": "https://waymo.com/blog/2026/08/10ailessons/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 20:44:30 +0000",
-      "timestamp": 1788295470.0
-    },
-    {
-      "title": "Cutting an AI agent's network access mid-run, measured at 127 ms",
-      "link": "https://medium.com/data-science-collective/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-b4f3f7dfc15f",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 01 Sep 2026 20:41:25 +0000",
-      "timestamp": 1788295285.0
     },
     {
       "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
