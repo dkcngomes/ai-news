@@ -1,186 +1,213 @@
 {
-  "scraped_at": "2026-09-02T09:35:51.906301+00:00",
+  "scraped_at": "2026-09-02T14:28:03.353208+00:00",
   "count": 67,
   "items": [
     {
-      "title": "We Can't Let AI Writing Take over the Internet",
-      "link": "https://www.derekthompson.org/p/the-internet-is-drowning-in-ai-slop",
+      "title": "How AI Is Weaponizing India's Voter Data for Mass Surveillance",
+      "link": "https://www.medianama.com/2026/09/223-sir-electorion-commission-data-privacy/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 09:21:17 +0000",
-      "timestamp": 1788340877.0
+      "published": "Wed, 02 Sep 2026 14:20:37 +0000",
+      "timestamp": 1788358837.0
     },
     {
-      "title": "AI Isn't Making Everyone a Creator",
-      "link": "https://story.vjy.me/83",
+      "title": "Show HN: Flawd is mutation testing for the AI era",
+      "link": "https://fixture.dev/flawd",
+      "summary": "Hey, all! Flawd is a mutation testing tool that can target five languages (Python, JS, TS, Go, Rust) and it runs locally as a single binary on your machine. Importantly (for many), your code never leaves your machine and all processing takes place directly on your dev box or CI runner. Mutation testing is a process in which faults (known as mutants) are intentionally injected into your codebase, tests are run and any faults which are not detected by your tests are known as survivors (or surviving mutants). Survivors can often indicate that your test assertions are not focused on expected behav",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 14:16:55 +0000",
+      "timestamp": 1788358615.0
+    },
+    {
+      "title": "No Jibber Jabber – Mr. T–themed skill to cut AI preamble",
+      "link": "https://github.com/o3-cloud/no-jibber-jabber",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 08:59:36 +0000",
-      "timestamp": 1788339576.0
+      "published": "Wed, 02 Sep 2026 14:10:21 +0000",
+      "timestamp": 1788358221.0
     },
     {
-      "title": "Show HN: Image3d AI-One interface for multiple image to 3D models",
-      "link": "https://www.aiimageto3d.com/",
-      "summary": "I built image3D AI to make it easier to try and compare different image to 3d models in one place.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 08:28:28 +0000",
-      "timestamp": 1788337708.0
-    },
-    {
-      "title": "\"I have the code and Claude AI – why would I pay you?\" [video]",
-      "link": "https://www.youtube.com/watch?v=1L48dy4Lyjo",
+      "title": "Goodbye Bitcoin, Hello AI Data Center",
+      "link": "https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 08:11:32 +0000",
-      "timestamp": 1788336692.0
+      "published": "Wed, 02 Sep 2026 14:09:11 +0000",
+      "timestamp": 1788358151.0
     },
     {
-      "title": "The Singularity Is Not What It Seems: Whatever the AI Future Is, We're in It Now",
-      "link": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 02 Sep 2026 14:03:57 +0000",
+      "timestamp": 1788357837.0
+    },
+    {
+      "title": "Three sites made 215,128 \"best software\" pages for AI. Perplexity cites them",
+      "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 08:10:02 +0000",
-      "timestamp": 1788336602.0
+      "published": "Wed, 02 Sep 2026 13:59:59 +0000",
+      "timestamp": 1788357599.0
     },
     {
-      "title": "Farmanix – An AI agent that can use your Mac like a human",
-      "link": "https://farmanix.com/",
+      "title": "Heides, deterministic code harness giving AI agents senses and judgment",
+      "link": "https://github.com/AbduljabbarBXR/heides",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 08:08:32 +0000",
-      "timestamp": 1788336512.0
+      "published": "Wed, 02 Sep 2026 13:56:45 +0000",
+      "timestamp": 1788357405.0
     },
     {
-      "title": "Show HN: Photo manager that finds and organizes photos with private, local AI",
-      "link": "https://ringlochid.me/imagesage/index.html",
+      "title": "Show HN: Open protocol for AI agents to discover, negotiate, and pay each other",
+      "link": "https://github.com/bizswarm44-coder/aether-protocol",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:58:36 +0000",
-      "timestamp": 1788335916.0
+      "published": "Wed, 02 Sep 2026 13:56:35 +0000",
+      "timestamp": 1788357395.0
     },
     {
-      "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
-      "link": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
+      "title": "Using AI to modernize or migrate code",
+      "link": "https://www.kdab.com/using-ai-to-modernize-or-migrate-code/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:50:46 +0000",
-      "timestamp": 1788335446.0
+      "published": "Wed, 02 Sep 2026 13:53:14 +0000",
+      "timestamp": 1788357194.0
     },
     {
-      "title": "Show HN: IP/fal – An IP checker that reimagines your location with AI",
-      "link": "https://github.com/kiliczsh/ip-fal",
+      "title": "Who pays when an AI agent causes damage: the contracts, the policies and the gap",
+      "link": "https://tokenstead.ai/guides/ai-agent-liability-insurance-gap-2026",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:49:25 +0000",
-      "timestamp": 1788335365.0
+      "published": "Wed, 02 Sep 2026 13:46:37 +0000",
+      "timestamp": 1788356797.0
     },
     {
-      "title": "AI loss of control incidents are worsening, shows CLTR analysis",
-      "link": "https://www.longtermresilience.org/reports/ai-loss-of-control-incidents-are-worsening-shows-cltr-analysis/",
+      "title": "Snickers launches digital bar to feed your \"hungry\" AI",
+      "link": "https://www.snickers.com/hungrai-qa",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:43:39 +0000",
-      "timestamp": 1788335019.0
+      "published": "Wed, 02 Sep 2026 13:32:29 +0000",
+      "timestamp": 1788355949.0
     },
     {
-      "title": "AI Billionaires Are Spending Millions to Change Your Mind About Data Centers",
-      "link": "https://www.gadgetreview.com/ai-billionaires-are-spending-millions-to-change-your-mind-about-data-centers",
+      "title": "Show HN: Subpool – Self-hosted AI subscription management for teams",
+      "link": "https://github.com/gesta-run/subpool",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:41:40 +0000",
-      "timestamp": 1788334900.0
+      "published": "Wed, 02 Sep 2026 13:01:31 +0000",
+      "timestamp": 1788354091.0
     },
     {
-      "title": "AI startup Cognition set to raise around US$1B at a US$47B value",
-      "link": "https://theedgemalaysia.com/node/816527",
+      "title": "Xfinlab – a financial intelligence API with an MCP server for AI agents",
+      "link": "https://github.com/lnanology/Xfinlab",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:40:57 +0000",
-      "timestamp": 1788334857.0
+      "published": "Wed, 02 Sep 2026 12:41:50 +0000",
+      "timestamp": 1788352910.0
     },
     {
-      "title": "So there's this $499 AI Dyson camera toothbrush",
-      "link": "https://www.morningbrew.com/stories/so-theres-this-usd499-ai-dyson-camera-toothbrush",
+      "title": "Autopsy of an N=1 Cybernetic Therapy: Multimodal AI for Grief (Case Report)",
+      "link": "https://zenodo.org/records/22169978",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:33:05 +0000",
-      "timestamp": 1788334385.0
+      "published": "Wed, 02 Sep 2026 12:31:28 +0000",
+      "timestamp": 1788352288.0
     },
     {
-      "title": "AI Sapiens K1",
-      "link": "https://docs.robotis.com/docs/systems/aisapiens/introduction/",
+      "title": "Ask HN: Where do you get your AI (technology) news?",
+      "link": "https://news.ycombinator.com/item?id=49535272",
+      "summary": "Business/company/product wise is readily available. I'm curious where HN gets their news for (new) AI technology. It feels like every day every concept is already old, so would be nice to have 1 or a few sites with emerging tech. thanks",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 02 Sep 2026 12:29:45 +0000",
+      "timestamp": 1788352185.0
+    },
+    {
+      "title": "What to Do While Waiting for AI Code Assistants",
+      "link": "https://super-productivity.com/blog/what-to-do-while-waiting-for-claude-code/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:21:43 +0000",
-      "timestamp": 1788333703.0
+      "published": "Wed, 02 Sep 2026 12:22:58 +0000",
+      "timestamp": 1788351778.0
     },
     {
-      "title": "How to Make a PwC-Style PowerPoint with AI: A Practical Consulting Deck Guide",
-      "link": "https://medium.com/@2315610426/how-to-make-a-pwc-style-powerpoint-with-ai-a-practical-consulting-deck-guide-b34c9811ca9b",
+      "title": "Show HN: Windrunner – AI-powered project collaboration workspace",
+      "link": "https://shzlw.github.io/windrunner/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:14:23 +0000",
-      "timestamp": 1788333263.0
+      "published": "Wed, 02 Sep 2026 12:19:55 +0000",
+      "timestamp": 1788351595.0
     },
     {
-      "title": "Simon Willison: How AI is changing software development [audio]",
-      "link": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison/transcript",
+      "title": "AI Slop Is Ruining Cute Animals on the Internet",
+      "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:13:19 +0000",
-      "timestamp": 1788333199.0
+      "published": "Wed, 02 Sep 2026 12:19:31 +0000",
+      "timestamp": 1788351571.0
     },
     {
-      "title": "What's in Your Agent's Context? Context Privilege Escalation Attacks Against AI",
-      "link": "https://arxiv.org/abs/2609.01222",
+      "title": "AI Agent Memory Design: What Works and What Doesn't",
+      "link": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:07:07 +0000",
-      "timestamp": 1788332827.0
+      "published": "Wed, 02 Sep 2026 12:13:20 +0000",
+      "timestamp": 1788351200.0
     },
     {
-      "title": "Years of AI History",
-      "link": "https://pyyan.com/timeline",
+      "title": "AI goes where the oracle is cheap",
+      "link": "https://dilpreet.co/blog/2026/9/1/ai-goes-where-the-oracle-is-cheap",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:03:55 +0000",
-      "timestamp": 1788332635.0
+      "published": "Wed, 02 Sep 2026 12:12:59 +0000",
+      "timestamp": 1788351179.0
     },
     {
-      "title": "AI plotted an interstellar journey to Alpha Centauri",
-      "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "title": "Claude Fable 5.1 tops AI index but costs 20% more per task",
+      "link": "https://artificialanalysis.ai/articles/claude-fable-5-1",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 07:02:27 +0000",
-      "timestamp": 1788332547.0
+      "published": "Wed, 02 Sep 2026 12:12:14 +0000",
+      "timestamp": 1788351134.0
     },
     {
-      "title": "OpenVINO: AI Plugins for Audacity",
-      "link": "https://github.com/intel/openvino-plugins-ai-audacity",
-      "summary": "",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 06:46:34 +0000",
-      "timestamp": 1788331594.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 02 Sep 2026 12:09:42 +0000",
+      "timestamp": 1788350982.0
+    },
+    {
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+      "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+      "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 02 Sep 2026 10:00:00 +0000",
+      "timestamp": 1788343200.0
     },
     {
       "title": "Google needs Hollywood more than the studios need AI",
@@ -462,24 +489,6 @@
       "timestamp": 1788143640.0
     },
     {
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 30 Aug 2026 16:54:25 +0000",
-      "timestamp": 1788108865.0
-    },
-    {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 30 Aug 2026 15:00:00 +0000",
-      "timestamp": 1788102000.0
-    },
-    {
       "title": "Why the Hottest New Wearables Want to Be Ignored",
       "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
       "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Fri, 28 Aug 2026 10:56:22 +0000",
       "timestamp": 1787914582.0
-    },
-    {
-      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-      "link": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
-      "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 28 Aug 2026 03:04:14 +0000",
-      "timestamp": 1787886254.0
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
