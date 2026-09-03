@@ -1,186 +1,231 @@
 {
-  "scraped_at": "2026-09-03T09:46:43.995186+00:00",
+  "scraped_at": "2026-09-03T14:32:46.129213+00:00",
   "count": 67,
   "items": [
     {
-      "title": "Show HN: Concorde, one AI agent shared by an organization",
-      "link": "https://github.com/shutter-network/concorde",
-      "summary": "We built Concorde, an open-source framework giving an organization one shared agent that's controlled by a group, rather than just one person. This is pretty cool because shared agents can bring us closer to single entities doing what took a whole organization to do, kind of moving us in the direction of the trend of the rise of the solo founder. Saying that entire organisations could be just 1 agent might sound sort of anti-democratic, but this is the reality of where things are already heading. The \"organisation\" only exists because humans hold limited context. agents don't have that limit. ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 09:13:41 +0000",
-      "timestamp": 1788426821.0
-    },
-    {
-      "title": "Semek: Local AI hub for labelling/filtering digital content",
-      "link": "https://itdaily.com/news/software/aaltra-and-ghent-university-develop-semek-a-local-ai-hub-for-digital-content/",
+      "title": "The courtroom inside our AI",
+      "link": "https://simple.dev/blog/simple-ai-v2-answers-that-carry-their-own-proof/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 09:00:37 +0000",
-      "timestamp": 1788426037.0
+      "published": "Thu, 03 Sep 2026 14:30:09 +0000",
+      "timestamp": 1788445809.0
     },
     {
-      "title": "Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life [video]",
-      "link": "https://www.youtube.com/watch?v=oFtjKbXKqbg",
+      "title": "How do you guys keep up with the most cost-effective AI models?",
+      "link": "https://news.ycombinator.com/item?id=49550324",
+      "summary": "I see lots of post on here discussing the most cost-effective models for coding and people swapping around a lot. I use Claude Code for 20 bucks a month, but I'm interested in trying out other models. Do you guys have a website that ranks the models or do you try them out yourselves? If you try them out yourselves, what's the easiest way to quickly swap between different AI models when doing local work? Thanks for the time!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 14:24:06 +0000",
+      "timestamp": 1788445446.0
+    },
+    {
+      "title": "Legal AI Drafter, Contract Management and Datarooms",
+      "link": "https://99datarooms.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 08:46:24 +0000",
-      "timestamp": 1788425184.0
+      "published": "Thu, 03 Sep 2026 14:20:12 +0000",
+      "timestamp": 1788445212.0
     },
     {
-      "title": "Lab Policy on AI in Writing and Communication",
-      "link": "https://www.cs.columbia.edu/~johnhew/lab/ai-policy.html",
+      "title": "Industrial AI Founders Keep Solving the Wrong Problem",
+      "link": "https://deploy95.substack.com/p/the-gtm-problems-that-arent-what",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 08:33:34 +0000",
-      "timestamp": 1788424414.0
+      "published": "Thu, 03 Sep 2026 14:08:35 +0000",
+      "timestamp": 1788444515.0
     },
     {
-      "title": "35 people I know lost their tech jobs. AI was part of the reason.",
-      "link": "https://medium.com/@salari-dev/35-people-i-know-lost-their-tech-jobs-ai-was-part-of-the-reason-the-layoff-wasnt-the-worst-part-787a4ee4a5e2",
+      "title": "How AI can put out its PR dumpster fire",
+      "link": "https://www.ft.com/content/115c886f-23e4-4a8d-9656-5d7fc9480803",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 08:30:57 +0000",
-      "timestamp": 1788424257.0
+      "published": "Thu, 03 Sep 2026 14:04:30 +0000",
+      "timestamp": 1788444270.0
     },
     {
-      "title": "States defy the tech lobby on AI rules",
-      "link": "https://www.politico.com/news/2026/09/02/how-silicon-valley-lost-its-war-against-state-ai-laws-01054133",
+      "title": "RepoPolicyScore – check if a GitHub repo is ready for AI contributors",
+      "link": "https://repopolicyscore.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 08:27:57 +0000",
-      "timestamp": 1788424077.0
+      "published": "Thu, 03 Sep 2026 14:02:14 +0000",
+      "timestamp": 1788444134.0
     },
     {
-      "title": "BrainTube – Your personal AI powered knowledge base",
-      "link": "https://brain-tube.com/",
+      "title": "Why Short AI Coding Prompts Can Cost You More Time",
+      "link": "https://deanhume.com/why-short-ai-coding-prompts-can-cost-you-more-time/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 08:26:12 +0000",
-      "timestamp": 1788423972.0
+      "published": "Thu, 03 Sep 2026 13:54:18 +0000",
+      "timestamp": 1788443658.0
     },
     {
-      "title": "Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds",
-      "link": "https://www.geekwire.com/2026/kids-go-from-curious-to-frustrated-playing-with-ai-stuffed-toys-uw-study-finds/",
+      "title": "AI could have written this post",
+      "link": "https://heyjonny.dev/posts/ai-could-have-written-this-post/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 08:20:51 +0000",
-      "timestamp": 1788423651.0
+      "published": "Thu, 03 Sep 2026 13:44:28 +0000",
+      "timestamp": 1788443068.0
     },
     {
-      "title": "AI as a Stress Reliever",
-      "link": "https://multitasked.net/2026/09/03/ai-as-a-stress-releiver.html",
+      "title": "Show HN: DumbDetector – Community signals for AI tool problems",
+      "link": "https://dumbdetector.net/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 08:16:08 +0000",
-      "timestamp": 1788423368.0
+      "published": "Thu, 03 Sep 2026 13:41:41 +0000",
+      "timestamp": 1788442901.0
     },
     {
-      "title": "Nvidia-Started Open Secure AI Alliance Moves to the Linux Foundation",
-      "link": "https://www.phoronix.com/news/Open-Secure-AI-Alliance-LF",
+      "title": "An AI agent sliced through an enterprise defenses in 10 hours",
+      "link": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 08:14:13 +0000",
-      "timestamp": 1788423253.0
+      "published": "Thu, 03 Sep 2026 13:33:26 +0000",
+      "timestamp": 1788442406.0
     },
     {
-      "title": "Show HN: OpenHelper AI Chatbot – The Free and Open Source AI Chatbot",
-      "link": "https://techambient.github.io/HybridAI/",
+      "title": "Show HN: Openvurp – A wallet of AI agents that use tools and consult each other",
+      "link": "https://github.com/openvurp/openvurp",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 08:07:08 +0000",
-      "timestamp": 1788422828.0
+      "published": "Thu, 03 Sep 2026 13:25:27 +0000",
+      "timestamp": 1788441927.0
     },
     {
-      "title": "Anker's new MindBase is an AI-powered brain for your smart home",
-      "link": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "title": "Inside The Medical AI Factory",
+      "link": "https://kaiko.ai/insights-hub/ai-factory/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 07:52:45 +0000",
-      "timestamp": 1788421965.0
+      "published": "Thu, 03 Sep 2026 13:24:05 +0000",
+      "timestamp": 1788441845.0
     },
     {
-      "title": "No–AI Agents Did Not Build Secret Civilizations Stop Anthropomorphizing Malware",
-      "link": "https://internetofbugs.substack.com/p/noai-agents-did-not-build-secret",
+      "title": "Show HN: I measured resuming an AI coding session: 22,897 tokens vs. 1,013",
+      "link": "https://vericommand.net/benchmark",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 07:45:10 +0000",
-      "timestamp": 1788421510.0
+      "published": "Thu, 03 Sep 2026 13:00:37 +0000",
+      "timestamp": 1788440437.0
     },
     {
-      "title": "Corporate Data Privacy UAE: Why On-Device AI Is the Real Moat for Dubai Startups",
-      "link": "https://www.a1ho.com/2026/08/corporate-data-privacy-uae-why-on.html",
+      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "timestamp": 1788440400.0
+    },
+    {
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 03 Sep 2026 12:43:09 +0000",
+      "timestamp": 1788439389.0
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "timestamp": 1788439365.0
+    },
+    {
+      "title": "Investt in AI",
+      "link": "https://gmdmarkets.com/how-to-invest-in-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 07:36:28 +0000",
-      "timestamp": 1788420988.0
+      "published": "Thu, 03 Sep 2026 12:38:41 +0000",
+      "timestamp": 1788439121.0
     },
     {
-      "title": "ChatGPT, Grok Added to War Department's AI System Options",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options/",
+      "title": "Show HN: Hot. Dog. Bench. Mark. The AI benchmark we deserve",
+      "link": "https://hotdogbenchmark.lol/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 07:35:43 +0000",
-      "timestamp": 1788420943.0
+      "published": "Thu, 03 Sep 2026 12:28:21 +0000",
+      "timestamp": 1788438501.0
     },
     {
-      "title": "AI and the collapse of the intelligence-based hierarchy of merit",
-      "link": "https://mattbruenig.com/2026/08/31/more-thoughts-on-ai/",
+      "title": "Show HN: AI Usage Ball – Claude/Codex/Antigravity Quota as Mac Liquid Orbs",
+      "link": "https://github.com/aiusageball/ai-usage-ball",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 07:14:09 +0000",
-      "timestamp": 1788419649.0
+      "published": "Thu, 03 Sep 2026 12:25:32 +0000",
+      "timestamp": 1788438332.0
     },
     {
-      "title": "AI agents carried out every step of this ransomware attack – then left",
-      "link": "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009",
+      "title": "Show HN: Flipdot display with an AI chat that codes sandboxed animations for it",
+      "link": "https://github.com/mdbug/flipdot",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 07:07:08 +0000",
-      "timestamp": 1788419228.0
+      "published": "Thu, 03 Sep 2026 12:24:35 +0000",
+      "timestamp": 1788438275.0
     },
     {
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "title": "Skills vs. MCP tools for AI agents: when to use which",
+      "link": "https://blog.logrocket.com/skills-vs-mcp-tools-agent-guide/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 07:02:25 +0000",
-      "timestamp": 1788418945.0
+      "published": "Thu, 03 Sep 2026 12:22:48 +0000",
+      "timestamp": 1788438168.0
     },
     {
-      "title": "Chat Bots Compared: An interactive quiz to find AI companions",
-      "link": "https://chatbotscompared.com/",
+      "title": "Free OpenHelper AI Chatbot v2 Preview is coming with many features",
+      "link": "https://techambient.github.io/HybridAI/v2.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 07:02:06 +0000",
-      "timestamp": 1788418926.0
+      "published": "Thu, 03 Sep 2026 12:12:17 +0000",
+      "timestamp": 1788437537.0
     },
     {
-      "title": "An open-source design plugin that helps your AI build less generic websites",
-      "link": "https://github.com/MickeyAlton33/web-designer-plugin",
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-03T08:12:06-04:00",
+      "timestamp": 1788437526.0
+    },
+    {
+      "title": "Freelancers are getting buried with 'soulless' AI slop cleanup",
+      "link": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 06:52:26 +0000",
-      "timestamp": 1788418346.0
+      "published": "Thu, 03 Sep 2026 12:09:53 +0000",
+      "timestamp": 1788437393.0
+    },
+    {
+      "title": "This Is Flock’s AI Search Tool for Cops",
+      "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
+      "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "timestamp": 1788429600.0
     },
     {
       "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
@@ -453,15 +498,6 @@
       "timestamp": 1788295985.0
     },
     {
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-01T16:45:49-04:00",
-      "timestamp": 1788295549.0
-    },
-    {
       "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
       "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
       "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
@@ -498,15 +534,6 @@
       "timestamp": 1788282000.0
     },
     {
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 01 Sep 2026 16:31:04 +0000",
-      "timestamp": 1788280264.0
-    },
-    {
       "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
       "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
       "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
@@ -514,33 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 01 Sep 2026 14:40:00 +0000",
       "timestamp": 1788273600.0
-    },
-    {
-      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-      "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-      "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 31 Aug 2026 10:30:00 +0000",
-      "timestamp": 1788172200.0
-    },
-    {
-      "title": "Why the Hottest New Wearables Want to Be Ignored",
-      "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-      "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sun, 30 Aug 2026 10:30:00 +0000",
-      "timestamp": 1788085800.0
-    },
-    {
-      "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sat, 29 Aug 2026 10:30:00 +0000",
-      "timestamp": 1787999400.0
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
