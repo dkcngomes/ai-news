@@ -1,96 +1,186 @@
 {
-  "scraped_at": "2026-09-03T04:33:17.541514+00:00",
+  "scraped_at": "2026-09-03T09:46:43.995186+00:00",
   "count": 67,
   "items": [
     {
-      "title": "AI Can Help Plan a Bioweapon",
-      "link": "https://secondthoughts.ai/p/ai-can-help-plan-a-bioweapon-building",
-      "summary": "",
+      "title": "Show HN: Concorde, one AI agent shared by an organization",
+      "link": "https://github.com/shutter-network/concorde",
+      "summary": "We built Concorde, an open-source framework giving an organization one shared agent that's controlled by a group, rather than just one person. This is pretty cool because shared agents can bring us closer to single entities doing what took a whole organization to do, kind of moving us in the direction of the trend of the rise of the solo founder. Saying that entire organisations could be just 1 agent might sound sort of anti-democratic, but this is the reality of where things are already heading. The \"organisation\" only exists because humans hold limited context. agents don't have that limit. ",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 04:26:29 +0000",
-      "timestamp": 1788409589.0
+      "published": "Thu, 03 Sep 2026 09:13:41 +0000",
+      "timestamp": 1788426821.0
     },
     {
-      "title": "New York City Bans AI from Elementary Schools",
-      "link": "https://gizmodo.com/new-york-city-bans-ai-from-elementary-schools-2000806172",
+      "title": "Semek: Local AI hub for labelling/filtering digital content",
+      "link": "https://itdaily.com/news/software/aaltra-and-ghent-university-develop-semek-a-local-ai-hub-for-digital-content/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 04:19:05 +0000",
-      "timestamp": 1788409145.0
+      "published": "Thu, 03 Sep 2026 09:00:37 +0000",
+      "timestamp": 1788426037.0
     },
     {
-      "title": "PromptSonar – Execution path analyzer for AI agents and MCP servers",
-      "link": "https://github.com/meghal86/promptsonar",
+      "title": "Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life [video]",
+      "link": "https://www.youtube.com/watch?v=oFtjKbXKqbg",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 03:59:19 +0000",
-      "timestamp": 1788407959.0
+      "published": "Thu, 03 Sep 2026 08:46:24 +0000",
+      "timestamp": 1788425184.0
     },
     {
-      "title": "We analyzed the code published by 29 frontier AI labs. Here's the data",
-      "link": "https://opsera.ai/blog/frontier-ai-software-readiness-benchmark/",
+      "title": "Lab Policy on AI in Writing and Communication",
+      "link": "https://www.cs.columbia.edu/~johnhew/lab/ai-policy.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 03:42:28 +0000",
-      "timestamp": 1788406948.0
+      "published": "Thu, 03 Sep 2026 08:33:34 +0000",
+      "timestamp": 1788424414.0
     },
     {
-      "title": "Frontier Act – Federal oversight of the development of frontier AI",
-      "link": "https://www.congress.gov/bill/119th-congress/house-bill/9925/text",
+      "title": "35 people I know lost their tech jobs. AI was part of the reason.",
+      "link": "https://medium.com/@salari-dev/35-people-i-know-lost-their-tech-jobs-ai-was-part-of-the-reason-the-layoff-wasnt-the-worst-part-787a4ee4a5e2",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 03:24:42 +0000",
-      "timestamp": 1788405882.0
+      "published": "Thu, 03 Sep 2026 08:30:57 +0000",
+      "timestamp": 1788424257.0
     },
     {
-      "title": "AI security that assumes the attacker has root",
-      "link": "https://thenewstack.io/tide-raziel-emergent-authority/",
+      "title": "States defy the tech lobby on AI rules",
+      "link": "https://www.politico.com/news/2026/09/02/how-silicon-valley-lost-its-war-against-state-ai-laws-01054133",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 03:07:02 +0000",
-      "timestamp": 1788404822.0
+      "published": "Thu, 03 Sep 2026 08:27:57 +0000",
+      "timestamp": 1788424077.0
     },
     {
-      "title": "An embodied, privacy-first AI agent that can control mobile apps via GUI",
-      "link": "https://plugos.net/plugclaw/",
+      "title": "BrainTube – Your personal AI powered knowledge base",
+      "link": "https://brain-tube.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 02:35:59 +0000",
-      "timestamp": 1788402959.0
+      "published": "Thu, 03 Sep 2026 08:26:12 +0000",
+      "timestamp": 1788423972.0
     },
     {
-      "title": "Protocols for People: AI, the Internet and the IETF",
-      "link": "https://digitalmedusa.org/protocols-for-people-ai-the-internet-and-the-ietf/",
+      "title": "Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds",
+      "link": "https://www.geekwire.com/2026/kids-go-from-curious-to-frustrated-playing-with-ai-stuffed-toys-uw-study-finds/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 02:34:12 +0000",
-      "timestamp": 1788402852.0
+      "published": "Thu, 03 Sep 2026 08:20:51 +0000",
+      "timestamp": 1788423651.0
     },
     {
-      "title": "AI-DLC – one core, many harnesses",
-      "link": "https://github.com/awslabs/aidlc-workflows/tree/main",
+      "title": "AI as a Stress Reliever",
+      "link": "https://multitasked.net/2026/09/03/ai-as-a-stress-releiver.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 02:04:59 +0000",
-      "timestamp": 1788401099.0
+      "published": "Thu, 03 Sep 2026 08:16:08 +0000",
+      "timestamp": 1788423368.0
     },
     {
-      "title": "MemHub – Persistent shared memory for AI coding agents",
-      "link": "https://memhub.simplex.lat",
+      "title": "Nvidia-Started Open Secure AI Alliance Moves to the Linux Foundation",
+      "link": "https://www.phoronix.com/news/Open-Secure-AI-Alliance-LF",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 01:43:31 +0000",
-      "timestamp": 1788399811.0
+      "published": "Thu, 03 Sep 2026 08:14:13 +0000",
+      "timestamp": 1788423253.0
+    },
+    {
+      "title": "Show HN: OpenHelper AI Chatbot – The Free and Open Source AI Chatbot",
+      "link": "https://techambient.github.io/HybridAI/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 08:07:08 +0000",
+      "timestamp": 1788422828.0
+    },
+    {
+      "title": "Anker's new MindBase is an AI-powered brain for your smart home",
+      "link": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 07:52:45 +0000",
+      "timestamp": 1788421965.0
+    },
+    {
+      "title": "No–AI Agents Did Not Build Secret Civilizations Stop Anthropomorphizing Malware",
+      "link": "https://internetofbugs.substack.com/p/noai-agents-did-not-build-secret",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 07:45:10 +0000",
+      "timestamp": 1788421510.0
+    },
+    {
+      "title": "Corporate Data Privacy UAE: Why On-Device AI Is the Real Moat for Dubai Startups",
+      "link": "https://www.a1ho.com/2026/08/corporate-data-privacy-uae-why-on.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 07:36:28 +0000",
+      "timestamp": 1788420988.0
+    },
+    {
+      "title": "ChatGPT, Grok Added to War Department's AI System Options",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 07:35:43 +0000",
+      "timestamp": 1788420943.0
+    },
+    {
+      "title": "AI and the collapse of the intelligence-based hierarchy of merit",
+      "link": "https://mattbruenig.com/2026/08/31/more-thoughts-on-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 07:14:09 +0000",
+      "timestamp": 1788419649.0
+    },
+    {
+      "title": "AI agents carried out every step of this ransomware attack – then left",
+      "link": "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 07:07:08 +0000",
+      "timestamp": 1788419228.0
+    },
+    {
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 07:02:25 +0000",
+      "timestamp": 1788418945.0
+    },
+    {
+      "title": "Chat Bots Compared: An interactive quiz to find AI companions",
+      "link": "https://chatbotscompared.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 07:02:06 +0000",
+      "timestamp": 1788418926.0
+    },
+    {
+      "title": "An open-source design plugin that helps your AI build less generic websites",
+      "link": "https://github.com/MickeyAlton33/web-designer-plugin",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 06:52:26 +0000",
+      "timestamp": 1788418346.0
     },
     {
       "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
@@ -102,42 +192,6 @@
       "timestamp": 1788399122.0
     },
     {
-      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
-      "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 01:11:22 +0000",
-      "timestamp": 1788397882.0
-    },
-    {
-      "title": "Workplace surveillance is on the rise, spurred by AI",
-      "link": "https://knowablemagazine.org/content/article/society/2026/surveillance-at-work-is-increasing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 23:39:26 +0000",
-      "timestamp": 1788392366.0
-    },
-    {
-      "title": "Why Software Developers Are Highly Unrepresentative of Broader AI Use",
-      "link": "https://paulkedrosky.com/why-software-developers-are-hiunrepresentative-of-broader-ai-use/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 23:28:56 +0000",
-      "timestamp": 1788391736.0
-    },
-    {
-      "title": "AI-Memory 2.0 – The Best Memory System for Agents and Teams",
-      "link": "https://akitaonrails.com/en/2026/09/02/ai-memory-2-0-best-memory-system-for-agents-and-teams/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 23:03:38 +0000",
-      "timestamp": 1788390218.0
-    },
-    {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
       "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
@@ -145,24 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 02 Sep 2026 23:01:00 +0000",
       "timestamp": 1788390060.0
-    },
-    {
-      "title": "Pacman AI for controlling fusion systems makes key decisions in milliseconds",
-      "link": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 22:57:11 +0000",
-      "timestamp": 1788389831.0
-    },
-    {
-      "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
-      "link": "https://theyfell.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 22:45:39 +0000",
-      "timestamp": 1788389139.0
     },
     {
       "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
@@ -181,42 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 02 Sep 2026 22:24:09 +0000",
       "timestamp": 1788387849.0
-    },
-    {
-      "title": "US Government worried that AI companies can't innovate without legal theft",
-      "link": "https://appleinsider.com/articles/26/09/02/us-government-worried-that-ai-companies-cant-innovate-without-legal-theft",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 22:22:45 +0000",
-      "timestamp": 1788387765.0
-    },
-    {
-      "title": "Ask HN: How to get taken seriously while using AI?",
-      "link": "https://news.ycombinator.com/item?id=49543253",
-      "summary": "I have been reading lobste.rs on and off for a few months, and the anti-AI vibes have always stood out. I don’t jump in to provide a counterpoint in any of the anti-AI threads because my account there is associated with my real name, and I don’t want to grief anyone who is particularly passionate about the anti-AI rhetoric. I understand and appreciate the concerns people have about irresponsible code, or unexamined AI use, so I don’t disagree with any reasonable stances. Lately, it seems people have been getting more intense about being anti-AI, and it seems reflected in US politics as well, l",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 22:08:18 +0000",
-      "timestamp": 1788386898.0
-    },
-    {
-      "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
-      "link": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 22:05:40 +0000",
-      "timestamp": 1788386740.0
-    },
-    {
-      "title": "NYC Announced Nation's Broadest Generative AI Moratorium in Schools",
-      "link": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 21:45:48 +0000",
-      "timestamp": 1788385548.0
     },
     {
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
