@@ -1,7 +1,160 @@
 {
-  "scraped_at": "2026-09-03T18:36:57.141855+00:00",
-  "count": 65,
+  "scraped_at": "2026-09-03T21:41:48.789057+00:00",
+  "count": 58,
   "items": [
+    {
+      "title": "Show HN: Building AI agents client-side JavaScript",
+      "link": "https://news.ycombinator.com/item?id=49557409",
+      "summary": "Hey HN, most agent systems default to server-side Python inside containers and chain frameworks. I wanted to see how far we could push agent in the browser with vanilla JavaScript https://buttercup.sh The reason this is interesting is because agent loops in the browser keeps infrastructure costs low. No need for proxy or API calls. And ollama/vLLM can be used for 100% offline. Also WebLLM for embedded. We need to consider CORS, API keys for remote models, access to visual state, and handling remote tool calls. I am working on a guide with references in vanilla JS. This is a short-lived guide s",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 21:34:31 +0000",
+      "timestamp": 1788471271.0
+    },
+    {
+      "title": "AI Automation for Government Contracting",
+      "link": "https://news.ycombinator.com/item?id=49557317",
+      "summary": "i need cofounders, dont know how to break into this space at all.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 21:27:45 +0000",
+      "timestamp": 1788470865.0
+    },
+    {
+      "title": "Ask HN: Could AI Eventually Build God?",
+      "link": "https://news.ycombinator.com/item?id=49557192",
+      "summary": "If a less intelligent species, like humans, is able to create a more intelligent species (like AGI), does that mean that at some point a species will be able to build the most intelligent species possible and essentially build God?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 21:19:33 +0000",
+      "timestamp": 1788470373.0
+    },
+    {
+      "title": "To what extent is AI being used in movies and TV today?",
+      "link": "https://stephenfollows.com/p/to-what-extent-is-ai-being-used-in-movies-and-tv-today",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 20:54:27 +0000",
+      "timestamp": 1788468867.0
+    },
+    {
+      "title": "Can AI help solve the peer-review crisis? Here are its promises and pitfalls",
+      "link": "https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 20:19:23 +0000",
+      "timestamp": 1788466763.0
+    },
+    {
+      "title": "AI Financial Advisor – FiscalAI· Streamlit",
+      "link": "https://thefiscalai.streamlit.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 20:04:08 +0000",
+      "timestamp": 1788465848.0
+    },
+    {
+      "title": "AI Norms and Values, Part 2 of 3: AI for Honeycomb Engineering",
+      "link": "https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 19:55:35 +0000",
+      "timestamp": 1788465335.0
+    },
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 03 Sep 2026 19:36:29 +0000",
+      "timestamp": 1788464189.0
+    },
+    {
+      "title": "Before New York City, Norway Had Banned AI in Schools",
+      "link": "https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 19:30:31 +0000",
+      "timestamp": 1788463831.0
+    },
+    {
+      "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
+      "link": "https://news.ycombinator.com/item?id=49555417",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 19:29:28 +0000",
+      "timestamp": 1788463768.0
+    },
+    {
+      "title": "Wall Street banks push Big Law to cut fees because of AI",
+      "link": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 19:20:07 +0000",
+      "timestamp": 1788463207.0
+    },
+    {
+      "title": "Five AI systems, one message: one cloned the repo and ran the check",
+      "link": "https://github.com/LAWLESS1987/covenant/blob/main/docs/CASE_STUDY_SELF_REPORT.md",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 19:15:05 +0000",
+      "timestamp": 1788462905.0
+    },
+    {
+      "title": "Zuckerberg said national AI regulator was flawed idea in secret call with Trump",
+      "link": "https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 19:14:58 +0000",
+      "timestamp": 1788462898.0
+    },
+    {
+      "title": "Redwood: A Frontier AI Accelerator Designed from Scratch in 2 Weeks by AI",
+      "link": "https://arxiv.org/abs/2608.26418",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 18:50:45 +0000",
+      "timestamp": 1788461445.0
+    },
+    {
+      "title": "Dwarkesh Patel: I think pausing would increase the risk of AI takeover",
+      "link": "https://twitter.com/dwarkesh_sp/status/2095580145603977413",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 18:42:14 +0000",
+      "timestamp": 1788460934.0
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 03 Sep 2026 18:37:57 +0000",
+      "timestamp": 1788460677.0
+    },
+    {
+      "title": "Nvidia's Open Secure AI Alliance Moves to Linux Foundation",
+      "link": "https://techstrong.ai/articles/nvidias-open-secure-ai-alliance-moves-to-linux-foundation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 18:37:46 +0000",
+      "timestamp": 1788460666.0
+    },
     {
       "title": "A story about HTML and AI",
       "link": "https://sproutmarkup.com/view/034b2408b0a84d3892383bb0b70e4536",
@@ -14,7 +167,7 @@
     {
       "title": "Meta is paying to peek at how you use their latest AI model",
       "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "summary": "Most AI tools allow you to opt-out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it. For its new Muse Spark model, intended for operating coding and other agents, it is offering an explicit discount averaging out to about 95% [&#8230;]",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 03 Sep 2026 18:19:56 +0000",
@@ -57,15 +210,6 @@
       "timestamp": 1788458784.0
     },
     {
-      "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
-      "link": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 18:02:40 +0000",
-      "timestamp": 1788458560.0
-    },
-    {
       "title": "OpenAI launches Astra, its powerful (and controversial) new model",
       "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
       "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
@@ -84,114 +228,6 @@
       "timestamp": 1788458400.0
     },
     {
-      "title": "Climbers rescued from Mount Shasta after relying on AI chatbot to plan trip",
-      "link": "https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 17:51:42 +0000",
-      "timestamp": 1788457902.0
-    },
-    {
-      "title": "AI-Powered Data Warehouses: Architectural Lessons for Every AI Product",
-      "link": "https://twitter.com/JoshARosen/status/2095488762532745712",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 17:51:18 +0000",
-      "timestamp": 1788457878.0
-    },
-    {
-      "title": "Pause AI Development Now",
-      "link": "https://twitter.com/BernieSanders/status/2095542398084415952",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 17:34:48 +0000",
-      "timestamp": 1788456888.0
-    },
-    {
-      "title": "Judge Tells RFK Jr. To Stop Using Fake AI Studies on Teen Pregnancy",
-      "link": "https://newrepublic.com/post/215001/judge-rfk-jr-hhs-fake-ai-studies-teen-pregnancy",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 17:33:00 +0000",
-      "timestamp": 1788456780.0
-    },
-    {
-      "title": "In an Age of AI, a Physicist Seeks What Endures",
-      "link": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 17:26:21 +0000",
-      "timestamp": 1788456381.0
-    },
-    {
-      "title": "AI artifacts are coming of age – building custom interfaces to solve problems",
-      "link": "https://www.valet.dev/blog/a-document-that-can-grow",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 17:25:12 +0000",
-      "timestamp": 1788456312.0
-    },
-    {
-      "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
-      "link": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 17:20:29 +0000",
-      "timestamp": 1788456029.0
-    },
-    {
-      "title": "Meta wanted to reduce teams by 60% because of AI",
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 17:18:25 +0000",
-      "timestamp": 1788455905.0
-    },
-    {
-      "title": "Why office workers are turning against AI",
-      "link": "https://www.bloodinthemachine.com/p/why-office-workers-are-turning-against",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 17:16:53 +0000",
-      "timestamp": 1788455813.0
-    },
-    {
-      "title": "Yes, no (built-in) AI is now a feature – LibreOffice blog",
-      "link": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 17:12:50 +0000",
-      "timestamp": 1788455570.0
-    },
-    {
-      "title": "How to Build an Instagram AI Chatbot That Answers Your DMs",
-      "link": "https://quickchat.ai/post/instagram-ai-chatbot-answer-dms",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 16:51:16 +0000",
-      "timestamp": 1788454276.0
-    },
-    {
-      "title": "How to Build a Free Roleplay AI Chatbot That Stays in Character",
-      "link": "https://quickchat.ai/post/roleplay-ai-chatbot",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 16:51:06 +0000",
-      "timestamp": 1788454266.0
-    },
-    {
       "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
       "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
       "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
@@ -199,24 +235,6 @@
       "source": "Wired AI",
       "published": "Thu, 03 Sep 2026 16:42:40 +0000",
       "timestamp": 1788453760.0
-    },
-    {
-      "title": "Show HN: Engram – Shared procedural runbook memory for AI coding agents via MCP",
-      "link": "https://github.com/aiengram/engram",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 16:39:45 +0000",
-      "timestamp": 1788453585.0
-    },
-    {
-      "title": "Checking bags at the exit: detecting data exfiltration in AI agents",
-      "link": "https://yashwanthreddymali.com/blog/interlock-exfiltration-at-runtime/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 16:37:52 +0000",
-      "timestamp": 1788453472.0
     },
     {
       "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
@@ -498,15 +516,6 @@
       "timestamp": 1788357837.0
     },
     {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 02 Sep 2026 12:09:42 +0000",
-      "timestamp": 1788350982.0
-    },
-    {
       "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
       "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
       "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
@@ -514,78 +523,6 @@
       "source": "Wired AI",
       "published": "Wed, 02 Sep 2026 10:00:00 +0000",
       "timestamp": 1788343200.0
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 01 Sep 2026 22:08:24 +0000",
-      "timestamp": 1788300504.0
-    },
-    {
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27;s the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do things get so opaque so quickly? Add a second agent to a system, and you&#x27;ve added one con",
-      "image": null,
-      "source": "VentureBeat AI",
-      "published": "Thu, 27 Aug 2026 14:01:00 GMT",
-      "timestamp": 1787839260.0
-    },
-    {
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it? These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met in hindsight or with a set of abstract policies that live on paper but not in practice. Agents need ",
-      "image": null,
-      "source": "VentureBeat AI",
-      "published": "Thu, 27 Aug 2026 12:01:00 GMT",
-      "timestamp": 1787832060.0
-    },
-    {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. &quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand says. &quot;As a result, while many enterprises have adopted digital tools, very few have platforms ",
-      "image": null,
-      "source": "VentureBeat AI",
-      "published": "Wed, 26 Aug 2026 14:30:00 GMT",
-      "timestamp": 1787754600.0
-    },
-    {
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technica",
-      "image": null,
-      "source": "VentureBeat AI",
-      "published": "Wed, 19 Aug 2026 14:18:12 GMT",
-      "timestamp": 1787149092.0
-    },
-    {
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer conference , Google announced a sweeping redesign of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven conversation starter that can accept text, images, PDFs, videos, and even open Chrome tabs as inputs. The c",
-      "image": null,
-      "source": "VentureBeat AI",
-      "published": "Tue, 19 May 2026 17:45:00 GMT",
-      "timestamp": 1779212700.0
-    },
-    {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures led the round, with participation from FPV Ventures , Redpoint , and Unusual Ventures . The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity a",
-      "image": null,
-      "source": "VentureBeat AI",
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT",
-      "timestamp": 1769090400.0
-    },
-    {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve. Now, a free alternative is gaining traction. Goose , an open-source AI agent developed by Block (the financial technology company formerly known as Square), offers nearly identical functional",
-      "image": null,
-      "source": "VentureBeat AI",
-      "published": "Mon, 19 Jan 2026 14:00:00 GMT",
-      "timestamp": 1768831200.0
     }
   ]
 }
