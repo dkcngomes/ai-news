@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-09-03T00:13:55.797301+00:00",
+  "scraped_at": "2026-09-03T04:33:17.541514+00:00",
   "count": 67,
   "items": [
+    {
+      "title": "AI Can Help Plan a Bioweapon",
+      "link": "https://secondthoughts.ai/p/ai-can-help-plan-a-bioweapon-building",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 04:26:29 +0000",
+      "timestamp": 1788409589.0
+    },
+    {
+      "title": "New York City Bans AI from Elementary Schools",
+      "link": "https://gizmodo.com/new-york-city-bans-ai-from-elementary-schools-2000806172",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 04:19:05 +0000",
+      "timestamp": 1788409145.0
+    },
+    {
+      "title": "PromptSonar – Execution path analyzer for AI agents and MCP servers",
+      "link": "https://github.com/meghal86/promptsonar",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 03:59:19 +0000",
+      "timestamp": 1788407959.0
+    },
+    {
+      "title": "We analyzed the code published by 29 frontier AI labs. Here's the data",
+      "link": "https://opsera.ai/blog/frontier-ai-software-readiness-benchmark/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 03:42:28 +0000",
+      "timestamp": 1788406948.0
+    },
+    {
+      "title": "Frontier Act – Federal oversight of the development of frontier AI",
+      "link": "https://www.congress.gov/bill/119th-congress/house-bill/9925/text",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 03:24:42 +0000",
+      "timestamp": 1788405882.0
+    },
+    {
+      "title": "AI security that assumes the attacker has root",
+      "link": "https://thenewstack.io/tide-raziel-emergent-authority/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 03:07:02 +0000",
+      "timestamp": 1788404822.0
+    },
+    {
+      "title": "An embodied, privacy-first AI agent that can control mobile apps via GUI",
+      "link": "https://plugos.net/plugclaw/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 02:35:59 +0000",
+      "timestamp": 1788402959.0
+    },
+    {
+      "title": "Protocols for People: AI, the Internet and the IETF",
+      "link": "https://digitalmedusa.org/protocols-for-people-ai-the-internet-and-the-ietf/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 02:34:12 +0000",
+      "timestamp": 1788402852.0
+    },
+    {
+      "title": "AI-DLC – one core, many harnesses",
+      "link": "https://github.com/awslabs/aidlc-workflows/tree/main",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 02:04:59 +0000",
+      "timestamp": 1788401099.0
+    },
+    {
+      "title": "MemHub – Persistent shared memory for AI coding agents",
+      "link": "https://memhub.simplex.lat",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 01:43:31 +0000",
+      "timestamp": 1788399811.0
+    },
+    {
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 03 Sep 2026 01:32:02 +0000",
+      "timestamp": 1788399122.0
+    },
+    {
+      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+      "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 03 Sep 2026 01:11:22 +0000",
+      "timestamp": 1788397882.0
+    },
     {
       "title": "Workplace surveillance is on the rise, spurred by AI",
       "link": "https://knowablemagazine.org/content/article/society/2026/surveillance-at-work-is-increasing",
@@ -109,105 +217,6 @@
       "source": "Hacker News (AI)",
       "published": "Wed, 02 Sep 2026 21:45:48 +0000",
       "timestamp": 1788385548.0
-    },
-    {
-      "title": "Inspect, test, and debug your website with an AI agent connected to Safari",
-      "link": "https://developer.apple.com/documentation/safari-developer-tools/connecting-an-ai-agent-to-safari",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 21:25:28 +0000",
-      "timestamp": 1788384328.0
-    },
-    {
-      "title": "Will AI save or ruin democracy?",
-      "link": "https://theconversation.com/will-ai-save-or-ruin-democracy-it-depends-on-whether-we-allow-computers-to-stand-in-for-people-289369",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 21:23:35 +0000",
-      "timestamp": 1788384215.0
-    },
-    {
-      "title": "How Accurate Was Hubert Dreyfus on AI Predictions in \"What Computers Can't Do\"? (2024)",
-      "link": "https://www.brightworkresearch.com/how-accurate-was-dr-hubert-dreyfus-on-ai-predictions-in-his-book-what-computers-cant-do/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 21:16:20 +0000",
-      "timestamp": 1788383780.0
-    },
-    {
-      "title": "Show HN: I put four persistent AI minds in a room and let them change each other",
-      "link": "https://room.pluralmatter.com/e/how-will-the-world-change-when-ai-smarter-than-humans",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 21:10:27 +0000",
-      "timestamp": 1788383427.0
-    },
-    {
-      "title": "Show HN: The Drudge Report, but for AI",
-      "link": "https://theainewsreport.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 21:06:17 +0000",
-      "timestamp": 1788383177.0
-    },
-    {
-      "title": "AI is changing religion and religions are trying to change AI",
-      "link": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 20:58:45 +0000",
-      "timestamp": 1788382725.0
-    },
-    {
-      "title": "Mamdani Bans AI in NYC Schools",
-      "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 20:57:04 +0000",
-      "timestamp": 1788382624.0
-    },
-    {
-      "title": "Show HN: Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations",
-      "link": "https://dehurdle.com/register/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 20:56:11 +0000",
-      "timestamp": 1788382571.0
-    },
-    {
-      "title": "Should every web page expose an AI-friendly JSON representation?",
-      "link": "https://news.ycombinator.com/item?id=49542310",
-      "summary": "My website already includes AI-related files such as llms.txt. I'm considering creating a separate JSON file for every page and article so AI systems can understand the content more easily and accurately. I would reference this JSON file from the page's using a tag. The JSON file could contain information such as: Page URL Canonical URL Title Summary / Description Main Content (clean article content) Author Published Date Last Updated Entities (people, companies, places, products, etc.) Keywords / Topics FAQ ... My idea is that AI crawlers could read this structured JSON instead of having to e",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 20:46:57 +0000",
-      "timestamp": 1788382017.0
-    },
-    {
-      "title": "Show HN: AI coach that adapts workouts and meals to your injuries and",
-      "link": "https://rizin.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 20:33:58 +0000",
-      "timestamp": 1788381238.0
-    },
-    {
-      "title": "Disclosure Pilot AI",
-      "link": "https://github.com/p-dirac/disclosure-pilot-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 02 Sep 2026 20:25:11 +0000",
-      "timestamp": 1788380711.0
     },
     {
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Sat, 29 Aug 2026 10:30:00 +0000",
       "timestamp": 1787999400.0
-    },
-    {
-      "title": "How to Run a Chatbot on Your Own Computer",
-      "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sat, 29 Aug 2026 10:00:00 +0000",
-      "timestamp": 1787997600.0
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
