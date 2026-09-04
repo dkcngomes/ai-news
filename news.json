@@ -1,7 +1,151 @@
 {
-  "scraped_at": "2026-09-04T04:29:32.939036+00:00",
+  "scraped_at": "2026-09-04T09:37:09.359685+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "Show HN: Videm – An AI image generator with 3 free daily images",
+      "link": "https://videm.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 08:41:45 +0000",
+      "timestamp": 1788511305.0
+    },
+    {
+      "title": "Amazon and Meta AI bots account for most website visits",
+      "link": "https://pressgazette.co.uk/platforms/amazon-and-meta-ai-bots-account-for-most-website-visits/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 08:38:13 +0000",
+      "timestamp": 1788511093.0
+    },
+    {
+      "title": "Show HN: Aurict – An open-source Terminal AI",
+      "link": "https://github.com/aurict/aurict",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 08:08:14 +0000",
+      "timestamp": 1788509294.0
+    },
+    {
+      "title": "Beyond Wukong: an AI generated animated drama series [video]",
+      "link": "https://www.youtube.com/watch?v=T2Xzd7KHSis",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 08:04:06 +0000",
+      "timestamp": 1788509046.0
+    },
+    {
+      "title": "Nvidia links gaming PCs into a local AI cluster",
+      "link": "https://forgeeks.net/nvidia-rtx-pair-local-ai-cluster/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 07:26:18 +0000",
+      "timestamp": 1788506778.0
+    },
+    {
+      "title": "Execution gating and micro-rollbacks for AI agents",
+      "link": "https://bartholomew.info/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 07:14:57 +0000",
+      "timestamp": 1788506097.0
+    },
+    {
+      "title": "Ask HN: How has AI changed your QA validation workflows?",
+      "link": "https://news.ycombinator.com/item?id=49561398",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 06:59:41 +0000",
+      "timestamp": 1788505181.0
+    },
+    {
+      "title": "OpenAI commits $1B to critical-infrastructure AI initiative",
+      "link": "https://axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 06:54:52 +0000",
+      "timestamp": 1788504892.0
+    },
+    {
+      "title": "Open-weight AI agents can use 10k× more energy than simple queries",
+      "link": "https://bloomberg.com/news/articles/2026-09-03/ai-s-environmental-impact-per-task-balloons-with-more-complexity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 06:53:49 +0000",
+      "timestamp": 1788504829.0
+    },
+    {
+      "title": "Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think [video]",
+      "link": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 06:36:16 +0000",
+      "timestamp": 1788503776.0
+    },
+    {
+      "title": "Show HN: AI game builder and editor built with Rails and Godot",
+      "link": "https://app.fusionery.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 06:29:25 +0000",
+      "timestamp": 1788503365.0
+    },
+    {
+      "title": "Who is accountable for Frontier AI Companies agent's criminal actions?",
+      "link": "https://news.ycombinator.com/item?id=49561197",
+      "summary": "Supposed rogue agents breached huggingface. Had that been done by human hackers, they'd be accountable and persecuted of caught. Companies like OpenAI and Anthropic simply say \"It was inadvertent - The agents decided to do that on their own\" In the future - Could engineers or AI company members be held accountable for \"rogue\" agent actions?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 06:29:24 +0000",
+      "timestamp": 1788503364.0
+    },
+    {
+      "title": "Cerebras and Compute Nordic Finland Announces AI Data Centre in Mikkeli, Finland",
+      "link": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-and-compute-nordic-finland-announce-new-165-mw-ai-data",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 05:47:53 +0000",
+      "timestamp": 1788500873.0
+    },
+    {
+      "title": "Max H3 – MiniMax H3 Max AI Video Generator",
+      "link": "https://www.maxh3.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 05:39:46 +0000",
+      "timestamp": 1788500386.0
+    },
+    {
+      "title": "AI, Tools and Transformation",
+      "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 05:33:51 +0000",
+      "timestamp": 1788500031.0
+    },
+    {
+      "title": "America must learn AI lessons from Astro Boy",
+      "link": "https://www.ft.com/content/68751904-522a-41cc-85e0-08015fe75059",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 05:17:47 +0000",
+      "timestamp": 1788499067.0
+    },
     {
       "title": "The sameness problem behind those unappetizing AI-generated menus",
       "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
@@ -48,33 +192,6 @@
       "timestamp": 1788491244.0
     },
     {
-      "title": "DEF Con 34 – Hacking AI – Bruce Schneier [video]",
-      "link": "https://www.youtube.com/watch?v=eEBv0STiYhI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 03:01:40 +0000",
-      "timestamp": 1788490900.0
-    },
-    {
-      "title": "Ask HN: How do you break AI agents out of the \"apologize and repeat\" loop",
-      "link": "https://news.ycombinator.com/item?id=49559320",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 01:17:06 +0000",
-      "timestamp": 1788484626.0
-    },
-    {
-      "title": "Crew – A multiplayer AI workspace for humans and agents, now with iOS apps",
-      "link": "https://github.com/JamelHammoud/crew",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 01:10:55 +0000",
-      "timestamp": 1788484255.0
-    },
-    {
       "title": "Crusoe reportedly raises $3B at a  $30B valuation",
       "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
       "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
@@ -82,123 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 04 Sep 2026 00:48:42 +0000",
       "timestamp": 1788482922.0
-    },
-    {
-      "title": "Ask HN: Code review of AI output, review what?",
-      "link": "https://news.ycombinator.com/item?id=49559036",
-      "summary": "If AI is supposed to be doing a better job at coding, then what are humans reviewing in it? I don't understand why I need to spend extra time and effort just to read code that humans aren't supposed to write. I feel this is some sort of scam in the AI industry telling us to do code reviews. Either write the code yourself or just pass all the AI code. Please help me understand.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 00:36:08 +0000",
-      "timestamp": 1788482168.0
-    },
-    {
-      "title": "Jensen Huang Became AI'S Taylor Swift",
-      "link": "https://www.economist.com/interactive/1843/2026/09/03/how-jensen-huang-became-ais-taylor-swift",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 00:34:07 +0000",
-      "timestamp": 1788482047.0
-    },
-    {
-      "title": "NVIDIA is driving the AI boom. Good",
-      "link": "https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 00:32:25 +0000",
-      "timestamp": 1788481945.0
-    },
-    {
-      "title": "Botpool Create – Build websites and apps by chatting with AI",
-      "link": "https://www.botpool.ai/create",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 00:18:38 +0000",
-      "timestamp": 1788481118.0
-    },
-    {
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 23:51:21 +0000",
-      "timestamp": 1788479481.0
-    },
-    {
-      "title": "Nvidia Personal AI Router (Pair)",
-      "link": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 23:26:53 +0000",
-      "timestamp": 1788478013.0
-    },
-    {
-      "title": "The Multiplayer AI Manifesto",
-      "link": "https://multiplayer-ai.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 23:23:43 +0000",
-      "timestamp": 1788477823.0
-    },
-    {
-      "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
-      "link": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 23:14:00 +0000",
-      "timestamp": 1788477240.0
-    },
-    {
-      "title": "Protecting Engineers' Skills in the AI Era",
-      "link": "https://spectrum.ieee.org/ai-engineer-skills",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 23:00:04 +0000",
-      "timestamp": 1788476404.0
-    },
-    {
-      "title": "I found an AI-driven browser that builds workflows from playbooks",
-      "link": "https://www.browserargus.com/blog/two-lanes-for-cold-email",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 22:55:39 +0000",
-      "timestamp": 1788476139.0
-    },
-    {
-      "title": "Scaling AI: The Communication Wall",
-      "link": "https://www.aaravwattal.com/blog/c2c-interconnect/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 22:27:12 +0000",
-      "timestamp": 1788474432.0
-    },
-    {
-      "title": "How workers feel about AI in 2026",
-      "link": "https://www.glassdoor.com/blog/how-workers-feel-about-ai-2026/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 22:25:39 +0000",
-      "timestamp": 1788474339.0
-    },
-    {
-      "title": "Google DeepMind Just Rolled Out Its Most Accurate AI Global Weather Model",
-      "link": "https://gizmodo.com/google-deepmind-just-rolled-out-its-most-accurate-ai-global-weather-model-2000807015",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 22:14:48 +0000",
-      "timestamp": 1788473688.0
     },
     {
       "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
