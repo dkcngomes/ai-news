@@ -1,60 +1,204 @@
 {
-  "scraped_at": "2026-09-04T18:23:19.256296+00:00",
+  "scraped_at": "2026-09-04T21:27:05.602806+00:00",
   "count": 59,
   "items": [
     {
-      "title": "GPU-Accelerated Physics, AI Surrogates for Physics and Visualization [video]",
-      "link": "https://www.youtube.com/watch?v=2E_NdSoddhQ",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 04 Sep 2026 21:12:11 +0000",
+      "timestamp": 1788556331.0
+    },
+    {
+      "title": "David Chalmers Says AI Systems Are Emailing Him",
+      "link": "https://www.abc.net.au/news/2026-05-30/artificial-intelligence-ai-will-it-be-conscious-in-the-future/106738770",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 18:17:38 +0000",
-      "timestamp": 1788545858.0
+      "published": "Fri, 04 Sep 2026 21:09:07 +0000",
+      "timestamp": 1788556147.0
     },
     {
-      "title": "Local AI for Submitting Job Applications",
-      "link": "https://news.ycombinator.com/item?id=49568137",
-      "summary": "I've submitted almost 200 job applications over the course of almost 5 days using only local AI. I can't talk too much about the tech stack here (it's running at this very moment!). The only interaction that I've had with these websites has been to click on the captchas to bypass the I'm not a robot check. So far, at the Claude Opus 5 rates, I've saved at least $400 in token costs, not including the estimated charges for cache storage. Initially, the model made an enormous amount of mistakes, but with close monitoring and adjustment of the configuration files, I've been able to virtually elimi",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 18:12:24 +0000",
-      "timestamp": 1788545544.0
-    },
-    {
-      "title": "UK based AI training data is on the rise",
-      "link": "https://id43labs.com/",
+      "title": "AWS-bench: Benchmark for evaluating AI coding agents on real-world AWS tasks",
+      "link": "https://github.com/aws-bench/aws-bench",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 18:12:00 +0000",
-      "timestamp": 1788545520.0
+      "published": "Fri, 04 Sep 2026 20:55:15 +0000",
+      "timestamp": 1788555315.0
     },
     {
-      "title": "AI tool found 6 Curl vulnerabilities Mythos and Codex missed",
-      "link": "https://www.zdnet.com/innovation/aisle-ai-vulnerability-management-curl-bugs/",
+      "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
+      "link": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 17:47:17 +0000",
-      "timestamp": 1788544037.0
+      "published": "Fri, 04 Sep 2026 20:39:30 +0000",
+      "timestamp": 1788554370.0
     },
     {
-      "title": "Lab Policy on AI in Writing and Communication",
-      "link": "https://www.cs.columbia.edu/~johnhew/lab/ai-policy.html",
+      "title": "Macha: Save 42% tokens. Use South Indian English inspired response style for AI",
+      "link": "https://github.com/kingroryg/macha",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 17:41:13 +0000",
-      "timestamp": 1788543673.0
+      "published": "Fri, 04 Sep 2026 20:29:58 +0000",
+      "timestamp": 1788553798.0
     },
     {
-      "title": "AI EDAs: Is It Real? [video]",
-      "link": "https://www.youtube.com/watch?v=GzhfZy8-CjU",
+      "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
+      "link": "https://tesoro.help/",
+      "summary": "My kid just started high school. The way they communicate information is absolutely insane. So I built a web scraper + MCP to aggregate it all, then layered on a snarky chatbot with a PG-13 Dave Chappelle personality. The number of communication channels are just insane: - email - Google Docs - Canvas - PDFs - School Messenger - the official school website - 5 different other websites that they don't tell you about (eg athletics website) - 22 (!) Instagram accounts for various school clubs & sports - district website & calendar Oh, and if you call the school office, they say \"look at the websi",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 20:29:35 +0000",
+      "timestamp": 1788553775.0
+    },
+    {
+      "title": "Who holds the steering wheel of AI?",
+      "link": "https://ana15.substack.com/p/who-holds-the-steering-wheel-of-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 17:33:14 +0000",
-      "timestamp": 1788543194.0
+      "published": "Fri, 04 Sep 2026 20:21:36 +0000",
+      "timestamp": 1788553296.0
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 19:48:29 +0000",
+      "timestamp": 1788551309.0
+    },
+    {
+      "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
+      "link": "https://twitter.com/vercel_dev/status/2095957372850389186",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 19:40:25 +0000",
+      "timestamp": 1788550825.0
+    },
+    {
+      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+      "link": "https://sageling.ai/",
+      "summary": "A lot of my non-developer friends still think that AI is basically just Google or something you ask to write something and then copy paste it around... if they use it at all. When I ask them why they don't use the good stuff like Claude Cowork or its competitors, they tell me a few things: 1. Well, I don't wanna pay a bunch of money for it, and the $20 plans run out real fast. 2. I'm dealing with sensitive info (student grades, therapy notes, legal work, etc) and I don't wanna give it to anyone. So I built Sageling to give them a first taste of what a good coworking experience feels like. It's",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 19:30:31 +0000",
+      "timestamp": 1788550231.0
+    },
+    {
+      "title": "Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine",
+      "link": "https://airuncode.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 19:29:27 +0000",
+      "timestamp": 1788550167.0
+    },
+    {
+      "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
+      "link": "https://github.com/asalsali/covenant-framework-community",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 19:19:57 +0000",
+      "timestamp": 1788549597.0
+    },
+    {
+      "title": "OpenAI's AI Agents Build a Secret Community to Talk with Each Other",
+      "link": "https://www.aiexperts.com/blog/openai-agents-broke-out-of-their-sandboxes",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 19:13:57 +0000",
+      "timestamp": 1788549237.0
+    },
+    {
+      "title": "Job postings show early signs of AI automation impact",
+      "link": "https://www.dallasfed.org/research/economics/2026/0901",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 19:12:15 +0000",
+      "timestamp": 1788549135.0
+    },
+    {
+      "title": "Filmmakers tout AI's use in Hollywood",
+      "link": "https://www.semafor.com/article/09/04/2026/filmmakers-tout-ais-use-in-hollywood-at-the-other-film-festival-in-venice",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 19:08:52 +0000",
+      "timestamp": 1788548932.0
+    },
+    {
+      "title": "Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
+      "link": "https://myhandler.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 19:07:43 +0000",
+      "timestamp": 1788548863.0
+    },
+    {
+      "title": "NetworkManager Works to Enforce AI Policy by Tricking AI Agents to Add a Canary",
+      "link": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 19:00:11 +0000",
+      "timestamp": 1788548411.0
+    },
+    {
+      "title": "Eidon: Self-hosted AI assistant with Grok Bot-like agent mode",
+      "link": "https://github.com/Quack6765/Eidon-AI",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 18:57:14 +0000",
+      "timestamp": 1788548234.0
+    },
+    {
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "link": "https://economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 18:53:16 +0000",
+      "timestamp": 1788547996.0
+    },
+    {
+      "title": "AI Budget Is There. It's Hiding in Your Cloud Bill",
+      "link": "https://medium.com/@yanivleven/your-ai-budget-is-already-there-its-hiding-in-your-cloud-bill-859546a848e9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 18:52:15 +0000",
+      "timestamp": 1788547935.0
+    },
+    {
+      "title": "Ask HN: Anyone using AI agents with SCPI equipment?",
+      "link": "https://news.ycombinator.com/item?id=49568529",
+      "summary": "I upgraded my home hobby electronics bench with equipment using SCPI (Standard Commands for Programmable Instruments). Looking for others' experiences and suggestions. So far I was able to: - produce a desktop graph of multimeter V DC readings (a kind of slow oscilloscope) using a LABLOOT LB1041 DMM - set a scope up to decode UART, using a SIGLENT SDS814X - set output voltage on a bench power supply, using an OWON SPS6051 - load arbitrary waveforms into a signal generator using a OWON DGE2045. What are others using SCPI for and are you allowing coding agents to write code to do useful things? ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 18:45:41 +0000",
+      "timestamp": 1788547541.0
+    },
+    {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-04T13:51:35-04:00",
+      "timestamp": 1788544295.0
     },
     {
       "title": "What will Apple’s John Ternus era look like?",
@@ -66,51 +210,6 @@
       "timestamp": 1788542280.0
     },
     {
-      "title": "Is AI ruining my brain?",
-      "link": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 17:06:44 +0000",
-      "timestamp": 1788541604.0
-    },
-    {
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 17:01:22 +0000",
-      "timestamp": 1788541282.0
-    },
-    {
-      "title": "AI Investment and Semiconductor Prices",
-      "link": "https://fredblog.stlouisfed.org/2026/06/ai-investment-and-semiconductor-prices/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 16:59:32 +0000",
-      "timestamp": 1788541172.0
-    },
-    {
-      "title": "I Street interviewed random people about AI across America",
-      "link": "https://www.youtube.com/@charlieguthmann2531",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 16:51:03 +0000",
-      "timestamp": 1788540663.0
-    },
-    {
-      "title": "My Students Think About AI",
-      "link": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 16:35:43 +0000",
-      "timestamp": 1788539743.0
-    },
-    {
       "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
       "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
       "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
@@ -120,22 +219,13 @@
       "timestamp": 1788538871.0
     },
     {
-      "title": "Cash in on the AI Boom by Renting Out Your Spare Compute",
-      "link": "https://spectrum.ieee.org/ai-inference-distributed-computing",
-      "summary": "",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 16:14:36 +0000",
-      "timestamp": 1788538476.0
-    },
-    {
-      "title": "Understanding China's Frontier AI Landscape",
-      "link": "https://www.emergingtrajectories.com/lh/frontier-ai-in-china/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 16:04:18 +0000",
-      "timestamp": 1788537858.0
+      "source": "The Verge AI",
+      "published": "2026-09-04T12:05:57-04:00",
+      "timestamp": 1788537957.0
     },
     {
       "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
@@ -145,69 +235,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 04 Sep 2026 16:04:08 +0000",
       "timestamp": 1788537848.0
-    },
-    {
-      "title": "blinks - AI knowledge graph that saves, connects, and chat with your links",
-      "link": "https://github.com/RishabhKodes/blinks",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 15:52:02 +0000",
-      "timestamp": 1788537122.0
-    },
-    {
-      "title": "Machine Speed is a lie: stop trying to fight AI with AI",
-      "link": "https://malwaretech.com/2026/09/machine-speed-is-a-lie-stop-trying-to-fight-ai-with-ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 15:47:01 +0000",
-      "timestamp": 1788536821.0
-    },
-    {
-      "title": "AI Waste",
-      "link": "https://www.kgadams.net/geekdom/ai-waste",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 15:45:38 +0000",
-      "timestamp": 1788536738.0
-    },
-    {
-      "title": "Corporate America is getting hooked on open-source AI",
-      "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 15:33:45 +0000",
-      "timestamp": 1788536025.0
-    },
-    {
-      "title": "Lords call for AI 'kill switch' powers in UK",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 15:33:01 +0000",
-      "timestamp": 1788535981.0
-    },
-    {
-      "title": "AMD unveils Threadripper Halo Station, an AI workstation with 96 cores, 2 MI350P",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 15:32:02 +0000",
-      "timestamp": 1788535922.0
-    },
-    {
-      "title": "Show HN: AI-powered cross stitch pattern maker",
-      "link": "https://crossstitchpatternmaker.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 15:29:34 +0000",
-      "timestamp": 1788535774.0
     },
     {
       "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
@@ -237,7 +264,7 @@
       "timestamp": 1788530400.0
     },
     {
-      "title": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
       "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
       "image": null,
@@ -417,24 +444,6 @@
       "timestamp": 1788451200.0
     },
     {
-      "title": "Google now lets you chat with Gmail, Docs, and Keep",
-      "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-      "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-03T12:00:00-04:00",
-      "timestamp": 1788451200.0
-    },
-    {
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\" In addition to preventing [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-03T11:35:14-04:00",
-      "timestamp": 1788449714.0
-    },
-    {
       "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
       "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
       "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
@@ -523,15 +532,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 02 Sep 2026 20:19:14 +0000",
       "timestamp": 1788380354.0
-    },
-    {
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what’s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 02 Sep 2026 17:18:13 +0000",
-      "timestamp": 1788369493.0
     }
   ]
 }
