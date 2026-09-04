@@ -1,7 +1,124 @@
 {
-  "scraped_at": "2026-09-04T00:04:47.001170+00:00",
+  "scraped_at": "2026-09-04T04:29:32.939036+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 04 Sep 2026 04:21:03 +0000",
+      "timestamp": 1788495663.0
+    },
+    {
+      "title": "MauroPello/stop-the-slop: Spot AI-generated YouTube scripts",
+      "link": "https://github.com/MauroPello/stop-the-slop",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 04:06:05 +0000",
+      "timestamp": 1788494765.0
+    },
+    {
+      "title": "The 1990s Web vs. today's AI",
+      "link": "https://arnoldkling.substack.com/p/the-1990s-web-vs-todays-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 03:26:08 +0000",
+      "timestamp": 1788492368.0
+    },
+    {
+      "title": "The Impact of AI-Generated Text on the Internet",
+      "link": "https://ai-on-the-internet.github.io",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 03:10:33 +0000",
+      "timestamp": 1788491433.0
+    },
+    {
+      "title": "How Much of the Internet Is Written with AI?",
+      "link": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 03:07:24 +0000",
+      "timestamp": 1788491244.0
+    },
+    {
+      "title": "DEF Con 34 – Hacking AI – Bruce Schneier [video]",
+      "link": "https://www.youtube.com/watch?v=eEBv0STiYhI",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 03:01:40 +0000",
+      "timestamp": 1788490900.0
+    },
+    {
+      "title": "Ask HN: How do you break AI agents out of the \"apologize and repeat\" loop",
+      "link": "https://news.ycombinator.com/item?id=49559320",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 01:17:06 +0000",
+      "timestamp": 1788484626.0
+    },
+    {
+      "title": "Crew – A multiplayer AI workspace for humans and agents, now with iOS apps",
+      "link": "https://github.com/JamelHammoud/crew",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 01:10:55 +0000",
+      "timestamp": 1788484255.0
+    },
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 04 Sep 2026 00:48:42 +0000",
+      "timestamp": 1788482922.0
+    },
+    {
+      "title": "Ask HN: Code review of AI output, review what?",
+      "link": "https://news.ycombinator.com/item?id=49559036",
+      "summary": "If AI is supposed to be doing a better job at coding, then what are humans reviewing in it? I don't understand why I need to spend extra time and effort just to read code that humans aren't supposed to write. I feel this is some sort of scam in the AI industry telling us to do code reviews. Either write the code yourself or just pass all the AI code. Please help me understand.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 00:36:08 +0000",
+      "timestamp": 1788482168.0
+    },
+    {
+      "title": "Jensen Huang Became AI'S Taylor Swift",
+      "link": "https://www.economist.com/interactive/1843/2026/09/03/how-jensen-huang-became-ais-taylor-swift",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 00:34:07 +0000",
+      "timestamp": 1788482047.0
+    },
+    {
+      "title": "NVIDIA is driving the AI boom. Good",
+      "link": "https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 00:32:25 +0000",
+      "timestamp": 1788481945.0
+    },
+    {
+      "title": "Botpool Create – Build websites and apps by chatting with AI",
+      "link": "https://www.botpool.ai/create",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 00:18:38 +0000",
+      "timestamp": 1788481118.0
+    },
     {
       "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
       "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
@@ -84,24 +201,6 @@
       "timestamp": 1788473688.0
     },
     {
-      "title": "The Selfish AI Model",
-      "link": "https://ateliti99.substack.com/p/the-selfish-ai-model",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 22:04:38 +0000",
-      "timestamp": 1788473078.0
-    },
-    {
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 21:59:53 +0000",
-      "timestamp": 1788472793.0
-    },
-    {
       "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
       "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
       "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
@@ -111,24 +210,6 @@
       "timestamp": 1788472581.0
     },
     {
-      "title": "I built an AI development environment that runs and builds software on Android",
-      "link": "https://github.com/sedds89/StitchLabtools",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 21:51:22 +0000",
-      "timestamp": 1788472282.0
-    },
-    {
-      "title": "I used AI to connect with 30 people at a conference",
-      "link": "https://galvered.com/blog/ai4-conference/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 21:50:50 +0000",
-      "timestamp": 1788472250.0
-    },
-    {
       "title": "Prediction Market Betting Is Getting People Banned and Arrested",
       "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
       "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
@@ -136,69 +217,6 @@
       "source": "Wired AI",
       "published": "Thu, 03 Sep 2026 21:48:24 +0000",
       "timestamp": 1788472104.0
-    },
-    {
-      "title": "GitHub dipped 7%, while both AI labs were down",
-      "link": "https://claude.ai/public/artifacts/2368658e-60f2-4f51-8883-8d72738ba7ce",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 21:45:06 +0000",
-      "timestamp": 1788471906.0
-    },
-    {
-      "title": "Watermarks Track AI Generated Content [video]",
-      "link": "https://www.youtube.com/watch?v=kVXp6UNVPTo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 21:44:17 +0000",
-      "timestamp": 1788471857.0
-    },
-    {
-      "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
-      "link": "https://www.latent.space/p/astra",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 21:41:58 +0000",
-      "timestamp": 1788471718.0
-    },
-    {
-      "title": "Show HN: Building AI agents client-side JavaScript",
-      "link": "https://news.ycombinator.com/item?id=49557409",
-      "summary": "Hey HN, most agent systems default to server-side Python inside containers and chain frameworks. I wanted to see how far we could push agent in the browser with vanilla JavaScript https://buttercup.sh The reason this is interesting is because agent loops in the browser keeps infrastructure costs low. No need for proxy or API calls. And ollama/vLLM can be used for 100% offline. Also WebLLM for embedded. We need to consider CORS, API keys for remote models, access to visual state, and handling remote tool calls. I am working on a guide with references in vanilla JS. This is a short-lived guide s",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 21:34:31 +0000",
-      "timestamp": 1788471271.0
-    },
-    {
-      "title": "AI Automation for Government Contracting",
-      "link": "https://news.ycombinator.com/item?id=49557317",
-      "summary": "i need cofounders, dont know how to break into this space at all.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 21:27:45 +0000",
-      "timestamp": 1788470865.0
-    },
-    {
-      "title": "Ask HN: Could AI eventually build god?",
-      "link": "https://news.ycombinator.com/item?id=49557192",
-      "summary": "If a less intelligent species, like humans, is able to create a more intelligent species (like AGI), does that mean that at some point a species will be able to build the most intelligent species possible and essentially build God?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 21:19:33 +0000",
-      "timestamp": 1788470373.0
-    },
-    {
-      "title": "One-person startup: a Cornell postdoc wants to put AI in everyone's hands",
-      "link": "https://news.ycombinator.com/item?id=49557020",
-      "summary": "I run my own AI startup, and I've built three AI products over the past eight months, from writing the code to landing the first paying users. I did it as a solo founder. I came to AI from an unusual direction. I studied clinical medicine, then surgery, and could have become a doctor. During my PhD I turned to AI and stayed with it: I've published a fair number of papers at top AI conferences like ACL, CVPR, EMNLP, and AAAI, hold several patents, and did a postdoc at Cornell. A record like that usually points to one path: stay in academia, aim for tenure. I chose to turn research into products",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 03 Sep 2026 21:07:07 +0000",
-      "timestamp": 1788469627.0
     },
     {
       "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
@@ -514,24 +532,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 02 Sep 2026 15:01:23 +0000",
       "timestamp": 1788361283.0
-    },
-    {
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 02 Sep 2026 14:56:34 +0000",
-      "timestamp": 1788360994.0
-    },
-    {
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 02 Sep 2026 14:03:57 +0000",
-      "timestamp": 1788357837.0
     }
   ]
 }
