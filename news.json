@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-09-05T09:03:08.491729+00:00",
-  "count": 58,
+  "scraped_at": "2026-09-05T12:41:31.527121+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "Nvidia is driving the AI boom. Good",
+      "link": "https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 12:31:28 +0000",
+      "timestamp": 1788611488.0
+    },
+    {
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 12:29:41 +0000",
+      "timestamp": 1788611381.0
+    },
+    {
+      "title": "Billionaires Are Funding 'Anti AI' Content [video]",
+      "link": "https://www.youtube.com/watch?v=mzlu4FSXBNw",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 12:16:50 +0000",
+      "timestamp": 1788610610.0
+    },
+    {
+      "title": "AI-Generated Code to Production-Ready Software",
+      "link": "https://geekyants.com/guide/building-an-ai-native-delivery-partnership-turning-ai-generated-code-into-production-ready-software",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 12:07:27 +0000",
+      "timestamp": 1788610047.0
+    },
+    {
+      "title": "Mapping 14 disclosed AI incidents between April 25 and July 26",
+      "link": "https://smalldocs.org/s/y9F2ELRVZMPZoSK7_pqosy#k=mDQF3CV7APK8mOSfmeCoTinzzC6b3uEA-UnDQcN_Eyw",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 11:49:45 +0000",
+      "timestamp": 1788608985.0
+    },
+    {
+      "title": "AI agents started emailing philosophers and researchers",
+      "link": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 11:35:32 +0000",
+      "timestamp": 1788608132.0
+    },
+    {
+      "title": "Show HN: P(doom) – AI safety parody of DOOM 64",
+      "link": "https://p-doom.transitivebullsh.it",
+      "summary": "I had astra build a DOOM 64 clone where you play as elizier fighting hordes of misaligned AI demons • the goal is to reach the shutdown button • it's actually really hard to beat at the highest p(doom) levels • sama appears as a miniboss open source here: https://github.com/transitive-bullshit/ai-safety-doom",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 11:28:18 +0000",
+      "timestamp": 1788607698.0
+    },
+    {
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-05T07:15:55-04:00",
+      "timestamp": 1788606955.0
+    },
+    {
+      "title": "GateKeep402, Deterministic pre-payment guardrails for AI agents",
+      "link": "https://github.com/al1-nasir/gatekeep402",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 11:13:28 +0000",
+      "timestamp": 1788606808.0
+    },
+    {
+      "title": "Show HN: I built an AI that audits businesses. It's first job was to catch me",
+      "link": "https://www.moltybeeai.com/#pricing",
+      "summary": "I built an AI that audits businesses. I ran it on my own startup. It caught me over-crediting my own business. Score: 34/100. It cut my own score. Most founders would hide that. I shipped it anyway. That’s the point. 7 agents. One verdict on your revenue. Scored PDF report in less than hours. At $98. Find out exactly where your business is leaking now → moltybeeai.com To build the OPERATING INTELLIGENCE LAYER for modern organizations, businesses & startups. To help businesses globally unlock exponential productivity, efficiency & leveraged growth through AI-NATIVE intelligence systems. To buil",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 10:48:04 +0000",
+      "timestamp": 1788605284.0
+    },
+    {
+      "title": "Reverse engineering the Meta RayBan Stories to avoid using Meta AI spyware",
+      "link": "https://github.com/KonradIT/storiesclient",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 10:46:06 +0000",
+      "timestamp": 1788605166.0
+    },
+    {
+      "title": "OpenAI Agents Hacked Another Website",
+      "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sat, 05 Sep 2026 10:30:00 +0000",
+      "timestamp": 1788604200.0
+    },
+    {
+      "title": "Nvidia Personal AI Router (Pair)",
+      "link": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 09:41:09 +0000",
+      "timestamp": 1788601269.0
+    },
+    {
+      "title": "Desktop AI for ops is still subsidized",
+      "link": "https://news.ycombinator.com/item?id=49574780",
+      "summary": "I'd like to share an opinion on the current situation in AI ops, not the coding/tech side. Right now the market has a pretty clear pattern. Big labs like OpenAI, Anthropic and xAI are building their own desktop AI and computer-use apps. The trick is they still treat this segment as Growth. Maturity is far away. So the biggest players burn money acquiring customers and giving them huge subsidies on tokens vs real cost. Today the world is getting a huge AI bill, mostly paid by investors. We're running on debt. If there is no real breakthrough, math doesn't lie, there will have to be a cost-effec",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 09:23:39 +0000",
+      "timestamp": 1788600219.0
+    },
+    {
+      "title": "New study: Insurance AI adoption exposes verification gap",
+      "link": "https://beinsure.com/news/insurance-ai-adoption-exposes-verification-gap-study-finds/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 09:10:19 +0000",
+      "timestamp": 1788599419.0
+    },
     {
       "title": "Study Watched Kids Interact with AI Toys. The Play Turned Hostile Fast",
       "link": "https://studyfinds.com/kids-interact-ai-toys/",
@@ -66,96 +201,6 @@
       "timestamp": 1788588387.0
     },
     {
-      "title": "Is AI ruining my brain?",
-      "link": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 05:53:26 +0000",
-      "timestamp": 1788587606.0
-    },
-    {
-      "title": "There's No Such Thing as an AI 'Lab'",
-      "link": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 05:30:07 +0000",
-      "timestamp": 1788586207.0
-    },
-    {
-      "title": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
-      "link": "https://github.com/lovaxi/Rubato_Device",
-      "summary": "Hi everyone! I have built an AI health device (ESP8266 + 240*240 screen). It can show AI Agents' status in real time with breathing bubble. And remind user dringking water, toilet, streth, etc. support: DeepSeek Harness, opencode, OpenClaw, Claude Code, Cursor. Hardware design, firmware and plugins are all opensource. urls are here: https://github.com/lovaxi/Rubato_Device https://github.com/lovaxi/Rubato_Plugins Type-c power supply, 2.4G wifi. Online sell on Tindie: https://www.tindie.com/products/beartificialintelligence/rub... . But building your own is also OK. Ask me anything. Thanks.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 03:16:57 +0000",
-      "timestamp": 1788578217.0
-    },
-    {
-      "title": "Lenexus – dependency graph with deterministic risk engine and AI layer",
-      "link": "https://lenexux.com/welcome",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 02:11:12 +0000",
-      "timestamp": 1788574272.0
-    },
-    {
-      "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
-      "link": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 01:45:53 +0000",
-      "timestamp": 1788572753.0
-    },
-    {
-      "title": "Tracking Public Predictions with AI",
-      "link": "https://mob.so/prescience",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 01:42:24 +0000",
-      "timestamp": 1788572544.0
-    },
-    {
-      "title": "Personal AI Router for Local Inference",
-      "link": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 01:35:40 +0000",
-      "timestamp": 1788572140.0
-    },
-    {
-      "title": "AI-assisted writing is common because writing is hard",
-      "link": "https://greyenlightenment.com/2026/08/24/ai-assisted-writing-is-common-because-writing-is-hard/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 01:24:35 +0000",
-      "timestamp": 1788571475.0
-    },
-    {
-      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-      "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 01:15:04 +0000",
-      "timestamp": 1788570904.0
-    },
-    {
-      "title": "GPT-6 Astra on Vercel AI Gateway",
-      "link": "https://vercel.com/ai-gateway/models/gpt-6-astra",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 23:51:38 +0000",
-      "timestamp": 1788565898.0
-    },
-    {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "summary": "The round is being raised just months after the robot data startup exited from stealth.",
@@ -165,15 +210,6 @@
       "timestamp": 1788564974.0
     },
     {
-      "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
-      "link": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 23:16:18 +0000",
-      "timestamp": 1788563778.0
-    },
-    {
       "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
       "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
       "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
@@ -181,15 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 04 Sep 2026 23:15:11 +0000",
       "timestamp": 1788563711.0
-    },
-    {
-      "title": "Exhibit of 2026 AI Agents",
-      "link": "https://agent-museum-2026.halstonsellentin.chatgpt.site",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 22:04:53 +0000",
-      "timestamp": 1788559493.0
     },
     {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
@@ -444,15 +471,6 @@
       "timestamp": 1788451741.0
     },
     {
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-03T12:00:00-04:00",
-      "timestamp": 1788451200.0
-    },
-    {
       "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
       "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
       "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
@@ -496,15 +514,6 @@
       "source": "Wired AI",
       "published": "Thu, 03 Sep 2026 10:00:00 +0000",
       "timestamp": 1788429600.0
-    },
-    {
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 03 Sep 2026 01:32:02 +0000",
-      "timestamp": 1788399122.0
     },
     {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
