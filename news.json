@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-09-05T18:16:18.287157+00:00",
+  "scraped_at": "2026-09-05T20:24:40.989189+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "There's No Such Thing as an AI 'Lab'",
+      "link": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 19:47:42 +0000",
+      "timestamp": 1788637662.0
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 05 Sep 2026 19:35:24 +0000",
+      "timestamp": 1788636924.0
+    },
+    {
+      "title": "Are warnings of uncontrollable AI coming true?",
+      "link": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 18:55:55 +0000",
+      "timestamp": 1788634555.0
+    },
+    {
+      "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
+      "link": "https://www.kingfy.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 18:53:17 +0000",
+      "timestamp": 1788634397.0
+    },
+    {
+      "title": "Norway could become the first country to ban AI smart glasses",
+      "link": "https://neow.in/cmUxYnB3",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 18:35:03 +0000",
+      "timestamp": 1788633303.0
+    },
+    {
+      "title": "A sourced timeline of 249 documented AI milestones",
+      "link": "https://achievements.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 18:33:59 +0000",
+      "timestamp": 1788633239.0
+    },
+    {
+      "title": "Ask HN: Airbnbs with AI Photos",
+      "link": "https://news.ycombinator.com/item?id=49579140",
+      "summary": "Wouldn’t this constitute false advertising? It’s becoming too common. If you’re a PM at Airbnb: there are so many SaaS companies to detect AI images. Please.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 18:11:38 +0000",
+      "timestamp": 1788631898.0
+    },
+    {
+      "title": "Job postings show early signs of AI automation impact",
+      "link": "https://www.dallasfed.org/research/economics/2026/0901",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 18:07:51 +0000",
+      "timestamp": 1788631671.0
+    },
     {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
@@ -127,69 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 05 Sep 2026 15:31:36 +0000",
       "timestamp": 1788622296.0
-    },
-    {
-      "title": "Youtubers being paid to spread AI FUD",
-      "link": "https://www.youtube.com/watch?v=lPdmYMHrWKg",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 15:30:50 +0000",
-      "timestamp": 1788622250.0
-    },
-    {
-      "title": "Defcon 34 – Hacking AI – Bruce Schneier (video)",
-      "link": "https://www.youtube.com/watch?v=eEBv0STiYhI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 15:09:25 +0000",
-      "timestamp": 1788620965.0
-    },
-    {
-      "title": "Show HN: Screenshotify – Rename Screenshots with AI",
-      "link": "https://github.com/shaqkao/screenshotify",
-      "summary": "Your screenshots folder, but the filenames make sense.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 15:06:31 +0000",
-      "timestamp": 1788620791.0
-    },
-    {
-      "title": "How bad is AI for our environment",
-      "link": "https://shrinkthatfootprint.com/ai-is-it-bad-for-the-environment/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 15:00:00 +0000",
-      "timestamp": 1788620400.0
-    },
-    {
-      "title": "Defending Against AI Agents with Social Engineering",
-      "link": "https://blog.thinkst.com/2026/09/getting-agents-to-tell-on-themselves.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 14:52:18 +0000",
-      "timestamp": 1788619938.0
-    },
-    {
-      "title": "AI creators race to understand their creations",
-      "link": "https://www.axios.com/2026/09/04/ai-dangers-risks-superintelligence",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 14:49:37 +0000",
-      "timestamp": 1788619777.0
-    },
-    {
-      "title": "A field guide to sandboxes for AI",
-      "link": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 14:47:34 +0000",
-      "timestamp": 1788619654.0
     },
     {
       "title": "OpenAI admits to German wiki ‘incident’",
@@ -523,15 +532,6 @@
       "source": "Wired AI",
       "published": "Thu, 03 Sep 2026 10:00:00 +0000",
       "timestamp": 1788429600.0
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 02 Sep 2026 23:01:00 +0000",
-      "timestamp": 1788390060.0
     }
   ]
 }
