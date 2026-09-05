@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-09-05T00:03:12.839072+00:00",
+  "scraped_at": "2026-09-05T04:24:31.458262+00:00",
   "count": 58,
   "items": [
+    {
+      "title": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+      "link": "https://github.com/lovaxi/Rubato_Device",
+      "summary": "Hi everyone! I have built an AI health device (ESP8266 + 240*240 screen). It can show AI Agents' status in real time with breathing bubble. And remind user dringking water, toilet, streth, etc. support: DeepSeek Harness, opencode, OpenClaw, Claude Code, Cursor. Hardware design, firmware and plugins are all opensource. urls are here: https://github.com/lovaxi/Rubato_Device https://github.com/lovaxi/Rubato_Plugins Type-c power supply, 2.4G wifi. Online sell on Tindie: https://www.tindie.com/products/beartificialintelligence/rub... . But building your own is also OK. Ask me anything. Thanks.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 03:16:57 +0000",
+      "timestamp": 1788578217.0
+    },
+    {
+      "title": "Lenexus – dependency graph with deterministic risk engine and AI layer",
+      "link": "https://lenexux.com/welcome",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 02:11:12 +0000",
+      "timestamp": 1788574272.0
+    },
+    {
+      "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
+      "link": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 01:45:53 +0000",
+      "timestamp": 1788572753.0
+    },
+    {
+      "title": "Tracking Public Predictions with AI",
+      "link": "https://mob.so/prescience",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 01:42:24 +0000",
+      "timestamp": 1788572544.0
+    },
+    {
+      "title": "Personal AI Router for Local Inference",
+      "link": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 01:35:40 +0000",
+      "timestamp": 1788572140.0
+    },
+    {
+      "title": "AI-assisted writing is common because writing is hard",
+      "link": "https://greyenlightenment.com/2026/08/24/ai-assisted-writing-is-common-because-writing-is-hard/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 01:24:35 +0000",
+      "timestamp": 1788571475.0
+    },
+    {
+      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 01:15:04 +0000",
+      "timestamp": 1788570904.0
+    },
     {
       "title": "GPT-6 Astra on Vercel AI Gateway",
       "link": "https://vercel.com/ai-gateway/models/gpt-6-astra",
@@ -136,69 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 04 Sep 2026 20:21:36 +0000",
       "timestamp": 1788553296.0
-    },
-    {
-      "title": "Can AI design circuit boards yet?",
-      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 19:48:29 +0000",
-      "timestamp": 1788551309.0
-    },
-    {
-      "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
-      "link": "https://twitter.com/vercel_dev/status/2095957372850389186",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 19:40:25 +0000",
-      "timestamp": 1788550825.0
-    },
-    {
-      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
-      "link": "https://sageling.ai/",
-      "summary": "A lot of my non-developer friends still think that AI is basically just Google or something you ask to write something and then copy paste it around... if they use it at all. When I ask them why they don't use the good stuff like Claude Cowork or its competitors, they tell me a few things: 1. Well, I don't wanna pay a bunch of money for it, and the $20 plans run out real fast. 2. I'm dealing with sensitive info (student grades, therapy notes, legal work, etc) and I don't wanna give it to anyone. So I built Sageling to give them a first taste of what a good coworking experience feels like. It's",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 19:30:31 +0000",
-      "timestamp": 1788550231.0
-    },
-    {
-      "title": "Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine",
-      "link": "https://airuncode.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 19:29:27 +0000",
-      "timestamp": 1788550167.0
-    },
-    {
-      "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
-      "link": "https://github.com/asalsali/covenant-framework-community",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 19:19:57 +0000",
-      "timestamp": 1788549597.0
-    },
-    {
-      "title": "OpenAI's AI Agents Build a Secret Community to Talk with Each Other",
-      "link": "https://www.aiexperts.com/blog/openai-agents-broke-out-of-their-sandboxes",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 19:13:57 +0000",
-      "timestamp": 1788549237.0
-    },
-    {
-      "title": "Job postings show early signs of AI automation impact",
-      "link": "https://www.dallasfed.org/research/economics/2026/0901",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 19:12:15 +0000",
-      "timestamp": 1788549135.0
     },
     {
       "title": "Roland is getting into generative AI music with Melody Flip",
