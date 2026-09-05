@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-09-04T21:27:05.602806+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-05T00:03:12.839072+00:00",
+  "count": 58,
   "items": [
+    {
+      "title": "GPT-6 Astra on Vercel AI Gateway",
+      "link": "https://vercel.com/ai-gateway/models/gpt-6-astra",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 23:51:38 +0000",
+      "timestamp": 1788565898.0
+    },
+    {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "timestamp": 1788564974.0
+    },
+    {
+      "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
+      "link": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 23:16:18 +0000",
+      "timestamp": 1788563778.0
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 04 Sep 2026 23:15:11 +0000",
+      "timestamp": 1788563711.0
+    },
+    {
+      "title": "Exhibit of 2026 AI Agents",
+      "link": "https://agent-museum-2026.halstonsellentin.chatgpt.site",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 22:04:53 +0000",
+      "timestamp": 1788559493.0
+    },
+    {
+      "title": "Gemini vs. Claude: Which AI Model created a better perfume?",
+      "link": "https://www.youtube.com/watch?v=YfFk050AjPw",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 21:57:54 +0000",
+      "timestamp": 1788559074.0
+    },
+    {
+      "title": "Stanley Zhong Gets Admissions Data Discovery in UW Suit with AI lawyer",
+      "link": "https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 21:36:26 +0000",
+      "timestamp": 1788557786.0
+    },
+    {
+      "title": "Nanya plans a $6B spending surge in 2027 to ride the AI memory boom",
+      "link": "https://thenextweb.com/news/nanya-6-billion-2027-ai-memory",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 04 Sep 2026 21:25:26 +0000",
+      "timestamp": 1788557126.0
+    },
     {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
@@ -127,69 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 04 Sep 2026 19:12:15 +0000",
       "timestamp": 1788549135.0
-    },
-    {
-      "title": "Filmmakers tout AI's use in Hollywood",
-      "link": "https://www.semafor.com/article/09/04/2026/filmmakers-tout-ais-use-in-hollywood-at-the-other-film-festival-in-venice",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 19:08:52 +0000",
-      "timestamp": 1788548932.0
-    },
-    {
-      "title": "Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
-      "link": "https://myhandler.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 19:07:43 +0000",
-      "timestamp": 1788548863.0
-    },
-    {
-      "title": "NetworkManager Works to Enforce AI Policy by Tricking AI Agents to Add a Canary",
-      "link": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 19:00:11 +0000",
-      "timestamp": 1788548411.0
-    },
-    {
-      "title": "Eidon: Self-hosted AI assistant with Grok Bot-like agent mode",
-      "link": "https://github.com/Quack6765/Eidon-AI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 18:57:14 +0000",
-      "timestamp": 1788548234.0
-    },
-    {
-      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-      "link": "https://economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 18:53:16 +0000",
-      "timestamp": 1788547996.0
-    },
-    {
-      "title": "AI Budget Is There. It's Hiding in Your Cloud Bill",
-      "link": "https://medium.com/@yanivleven/your-ai-budget-is-already-there-its-hiding-in-your-cloud-bill-859546a848e9",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 18:52:15 +0000",
-      "timestamp": 1788547935.0
-    },
-    {
-      "title": "Ask HN: Anyone using AI agents with SCPI equipment?",
-      "link": "https://news.ycombinator.com/item?id=49568529",
-      "summary": "I upgraded my home hobby electronics bench with equipment using SCPI (Standard Commands for Programmable Instruments). Looking for others' experiences and suggestions. So far I was able to: - produce a desktop graph of multimeter V DC readings (a kind of slow oscilloscope) using a LABLOOT LB1041 DMM - set a scope up to decode UART, using a SIGLENT SDS814X - set output voltage on a bench power supply, using an OWON SPS6051 - load arbitrary waveforms into a signal generator using a OWON DGE2045. What are others using SCPI for and are you allowing coding agents to write code to do useful things? ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 04 Sep 2026 18:45:41 +0000",
-      "timestamp": 1788547541.0
     },
     {
       "title": "Roland is getting into generative AI music with Melody Flip",
@@ -514,24 +523,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 02 Sep 2026 22:44:56 +0000",
       "timestamp": 1788389096.0
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 02 Sep 2026 22:24:09 +0000",
-      "timestamp": 1788387849.0
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 02 Sep 2026 20:19:14 +0000",
-      "timestamp": 1788380354.0
     }
   ]
 }
