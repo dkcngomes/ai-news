@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-09-05T20:24:40.989189+00:00",
+  "scraped_at": "2026-09-05T22:53:28.721875+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "timestamp": 1788648595.0
+    },
+    {
+      "title": "Is AI ruining my brain?",
+      "link": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 22:25:04 +0000",
+      "timestamp": 1788647104.0
+    },
+    {
+      "title": "Good AI Slop",
+      "link": "https://blog.bilus.dev/posts/good-ai-slop/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 22:18:21 +0000",
+      "timestamp": 1788646701.0
+    },
+    {
+      "title": "StoryScope: Investigating Idiosyncrasies in AI Fiction",
+      "link": "https://arxiv.org/abs/2604.03136",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 22:18:00 +0000",
+      "timestamp": 1788646680.0
+    },
+    {
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "link": "https://github.com/okf-memory/okf-agent-memory",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 22:15:52 +0000",
+      "timestamp": 1788646552.0
+    },
+    {
+      "title": "AI push is putting banks at mercy of tech firms, warns Moody's",
+      "link": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 22:03:35 +0000",
+      "timestamp": 1788645815.0
+    },
+    {
+      "title": "America's Two Largest School Districts Impose AI Moratoriums",
+      "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 21:43:22 +0000",
+      "timestamp": 1788644602.0
+    },
+    {
+      "title": "Google AI turns on its maker in a brutally candid interview",
+      "link": "https://newatlas.com/ai-humanoids/exclusive-google-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 21:38:22 +0000",
+      "timestamp": 1788644302.0
+    },
+    {
+      "title": "The AI-Native SDLC Playbook",
+      "link": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 21:26:00 +0000",
+      "timestamp": 1788643560.0
+    },
+    {
+      "title": "How AI is breaking the British state",
+      "link": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 21:05:35 +0000",
+      "timestamp": 1788642335.0
+    },
+    {
+      "title": "Show HN: I replaced my portfolio with an AI that knows me",
+      "link": "https://xlogic.sh/",
+      "summary": "I wanted to do something \"new\". I'm not 100% sure if this is really new since I don't really check out other people their portfolio's. It's been on my \"to do\" for a long time to redo my portfolio page. Now with AI coming and stuff, I thought I might as well do it like this. The original content of my previous portfolio (projects, achievements, blog posts) are also still accessible and stuff. I would love feedback!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 21:05:21 +0000",
+      "timestamp": 1788642321.0
+    },
+    {
+      "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+      "link": "https://www.phntmcore.com/",
+      "summary": "I've spent the past several months building something I call PHNTM-One. And I am really curious what HN thinks of the idea and the product I've built. The basic concept is an AI appliance that lives on your desk, is your personal assistant and is totally local running on your own hardware with the option for a boosted mode to reach claude for more demanding tasks. The idea is to have your own local AI assistant that gets to know you and your tasks personally. The entire system runs on a Raspberry Pi5 8gb with Gemma 3 4B through Ollama, it has whisper.cpp for speech to text, piper for speech, a",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 21:03:22 +0000",
+      "timestamp": 1788642202.0
+    },
     {
       "title": "There's No Such Thing as an AI 'Lab'",
       "link": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
@@ -100,105 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 05 Sep 2026 17:56:47 +0000",
       "timestamp": 1788631007.0
-    },
-    {
-      "title": "How Much of the Internet Is Written with AI?",
-      "link": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 17:30:22 +0000",
-      "timestamp": 1788629422.0
-    },
-    {
-      "title": "Music courses are dead (tanks AI) [video]",
-      "link": "https://www.youtube.com/watch?v=PCqkJ0HuHTM",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 17:28:23 +0000",
-      "timestamp": 1788629303.0
-    },
-    {
-      "title": "Architecting memory and storage in the AI era",
-      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 17:01:25 +0000",
-      "timestamp": 1788627685.0
-    },
-    {
-      "title": "Engineer and Nam A2 and AI = Perfect and Free Valen Halen Plug-In [video]",
-      "link": "https://www.youtube.com/watch?v=drQGeK8wfNY",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 16:48:21 +0000",
-      "timestamp": 1788626901.0
-    },
-    {
-      "title": "Inside a growing movement warning AI could turn on humanity",
-      "link": "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 16:34:06 +0000",
-      "timestamp": 1788626046.0
-    },
-    {
-      "title": "Praesidias – pre-execution authorization for AI agents",
-      "link": "https://github.com/sowainat/praesidias-pabe01",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 16:07:29 +0000",
-      "timestamp": 1788624449.0
-    },
-    {
-      "title": "Kai-Fu Lee: China Will Win the AI Race for Reach",
-      "link": "https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 15:59:37 +0000",
-      "timestamp": 1788623977.0
-    },
-    {
-      "title": "ChatGPT bans campaigns from using AI to make ads. They're doing it anyway.",
-      "link": "https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 15:56:03 +0000",
-      "timestamp": 1788623763.0
-    },
-    {
-      "title": "Ask HN: Is AI a Powerdrill?",
-      "link": "https://news.ycombinator.com/item?id=49577665",
-      "summary": "Powerdrills put in the hand of a country bumpkin in the early 20th century were pretty amazing, but they wound up being just an extension of intention. A person puts their finger on the trigger. But he needs some project to apply this to (something he's building) and a screw or drill (the solution he wants to apply). If we expected powerdrills to do anything on their own, we would get disappointing results.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 15:45:48 +0000",
-      "timestamp": 1788623148.0
-    },
-    {
-      "title": "Swiftask just raised €1.55M to scale its AI agent deployment",
-      "link": "https://agence-api.ouest-france.fr/numerique/swiftask-securise-1-55-m-euros-pour-deployer-ses-agents-ia-a-grande-echelle-ae6db912-a7a0-11f1-8a27-1e0c4eb5e395",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 15:41:18 +0000",
-      "timestamp": 1788622878.0
-    },
-    {
-      "title": "Tao's reservations on future AI-only solutions to NS finite-time blowup problem",
-      "link": "https://news.ycombinator.com/item?id=49577512",
-      "summary": "https://mathstodon.xyz/@tao/117207849921390904",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 15:31:36 +0000",
-      "timestamp": 1788622296.0
     },
     {
       "title": "OpenAI admits to German wiki ‘incident’",
@@ -514,15 +523,6 @@
       "source": "Wired AI",
       "published": "Thu, 03 Sep 2026 12:43:09 +0000",
       "timestamp": 1788439389.0
-    },
-    {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 03 Sep 2026 12:42:45 +0000",
-      "timestamp": 1788439365.0
     },
     {
       "title": "This Is Flock’s AI Search Tool for Cops",
