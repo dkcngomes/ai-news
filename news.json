@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-09-05T16:03:06.396419+00:00",
+  "scraped_at": "2026-09-05T18:16:18.287157+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 05 Sep 2026 18:05:27 +0000",
+      "timestamp": 1788631527.0
+    },
+    {
+      "title": "Flathub bans AI-coded apps – with some exceptions",
+      "link": "https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 17:58:41 +0000",
+      "timestamp": 1788631121.0
+    },
+    {
+      "title": "A meme-shaped test of your post-AI SWE skills",
+      "link": "https://codeset.ai/fried/swe",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 17:56:47 +0000",
+      "timestamp": 1788631007.0
+    },
+    {
+      "title": "How Much of the Internet Is Written with AI?",
+      "link": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 17:30:22 +0000",
+      "timestamp": 1788629422.0
+    },
+    {
+      "title": "Music courses are dead (tanks AI) [video]",
+      "link": "https://www.youtube.com/watch?v=PCqkJ0HuHTM",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 17:28:23 +0000",
+      "timestamp": 1788629303.0
+    },
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 17:01:25 +0000",
+      "timestamp": 1788627685.0
+    },
+    {
+      "title": "Engineer and Nam A2 and AI = Perfect and Free Valen Halen Plug-In [video]",
+      "link": "https://www.youtube.com/watch?v=drQGeK8wfNY",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 16:48:21 +0000",
+      "timestamp": 1788626901.0
+    },
+    {
+      "title": "Inside a growing movement warning AI could turn on humanity",
+      "link": "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 16:34:06 +0000",
+      "timestamp": 1788626046.0
+    },
+    {
+      "title": "Praesidias – pre-execution authorization for AI agents",
+      "link": "https://github.com/sowainat/praesidias-pabe01",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 16:07:29 +0000",
+      "timestamp": 1788624449.0
+    },
+    {
+      "title": "Kai-Fu Lee: China Will Win the AI Race for Reach",
+      "link": "https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 15:59:37 +0000",
+      "timestamp": 1788623977.0
+    },
+    {
+      "title": "ChatGPT bans campaigns from using AI to make ads. They're doing it anyway.",
+      "link": "https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 15:56:03 +0000",
+      "timestamp": 1788623763.0
+    },
     {
       "title": "Ask HN: Is AI a Powerdrill?",
       "link": "https://news.ycombinator.com/item?id=49577665",
@@ -23,7 +122,7 @@
     {
       "title": "Tao's reservations on future AI-only solutions to NS finite-time blowup problem",
       "link": "https://news.ycombinator.com/item?id=49577512",
-      "summary": "",
+      "summary": "https://mathstodon.xyz/@tao/117207849921390904",
       "image": null,
       "source": "Hacker News (AI)",
       "published": "Sat, 05 Sep 2026 15:31:36 +0000",
@@ -91,96 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 05 Sep 2026 14:47:34 +0000",
       "timestamp": 1788619654.0
-    },
-    {
-      "title": "AI Philosophy Competition",
-      "link": "https://www.zacharygoodsell.com/ai-philosophy-competition",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 14:43:17 +0000",
-      "timestamp": 1788619397.0
-    },
-    {
-      "title": "Cash in on the AI Boom by Renting Out Your Spare Compute",
-      "link": "https://spectrum.ieee.org/ai-inference-distributed-computing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 14:31:09 +0000",
-      "timestamp": 1788618669.0
-    },
-    {
-      "title": "SpaceX is building its own gas turbine blade factory to power AI faster",
-      "link": "https://qz.com/spacex-turbine-blade-foundry-ai-data-centers-090226",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 14:29:00 +0000",
-      "timestamp": 1788618540.0
-    },
-    {
-      "title": "Almost Anyone Can Make Money Selling Electricity with AI and Batteries",
-      "link": "https://www.bloomberg.com/news/features/2026-09-03/consumers-profit-off-solar-batteries-selling-excess-energy-back-to-grid",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 14:27:10 +0000",
-      "timestamp": 1788618430.0
-    },
-    {
-      "title": "Run AI in the Browser: A Practical Guide to Transformers.js",
-      "link": "https://tighten.com/insights/run-ai-in-the-browser-a-practical-guide-to-transformers-js/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 14:22:21 +0000",
-      "timestamp": 1788618141.0
-    },
-    {
-      "title": "Turn your AI into a world-class designer",
-      "link": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 14:20:30 +0000",
-      "timestamp": 1788618030.0
-    },
-    {
-      "title": "A snapshot in time: Reflections on AI usage for vertumnus",
-      "link": "https://vertumnus.fyi/about/ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 14:04:53 +0000",
-      "timestamp": 1788617093.0
-    },
-    {
-      "title": "(available in 1 hour) AI Slopacalypse – understanding all this crap",
-      "link": "https://www.youtube.com/@robertviragh6527",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 13:54:13 +0000",
-      "timestamp": 1788616453.0
-    },
-    {
-      "title": "Structure Around Intelligence – AI Native",
-      "link": "https://news.ycombinator.com/item?id=49576482",
-      "summary": "As part of my job, I have worked across both width and depth. I have worked on the core architecture of deep learning models as well as designed large-scale machine learning systems. I have made this observation that AI Native transformation is all about who lays down a better structure around their core intelligence. Nothing else matters more. Even the context length issue can be handled through robust structure for the time being. I often term it as probabilism filled into determinism.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 13:48:20 +0000",
-      "timestamp": 1788616100.0
-    },
-    {
-      "title": "AI doesn't suck, people do",
-      "link": "https://catalins.tech/ai-fatigue/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 13:16:49 +0000",
-      "timestamp": 1788614209.0
     },
     {
       "title": "OpenAI admits to German wiki ‘incident’",
@@ -523,15 +532,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 02 Sep 2026 23:01:00 +0000",
       "timestamp": 1788390060.0
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 02 Sep 2026 22:44:56 +0000",
-      "timestamp": 1788389096.0
     }
   ]
 }
