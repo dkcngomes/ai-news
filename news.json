@@ -1,69 +1,186 @@
 {
-  "scraped_at": "2026-09-05T12:41:31.527121+00:00",
+  "scraped_at": "2026-09-05T16:03:06.396419+00:00",
   "count": 59,
   "items": [
     {
-      "title": "Nvidia is driving the AI boom. Good",
-      "link": "https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good",
+      "title": "Ask HN: Is AI a Powerdrill?",
+      "link": "https://news.ycombinator.com/item?id=49577665",
+      "summary": "Powerdrills put in the hand of a country bumpkin in the early 20th century were pretty amazing, but they wound up being just an extension of intention. A person puts their finger on the trigger. But he needs some project to apply this to (something he's building) and a screw or drill (the solution he wants to apply). If we expected powerdrills to do anything on their own, we would get disappointing results.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 15:45:48 +0000",
+      "timestamp": 1788623148.0
+    },
+    {
+      "title": "Swiftask just raised €1.55M to scale its AI agent deployment",
+      "link": "https://agence-api.ouest-france.fr/numerique/swiftask-securise-1-55-m-euros-pour-deployer-ses-agents-ia-a-grande-echelle-ae6db912-a7a0-11f1-8a27-1e0c4eb5e395",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 12:31:28 +0000",
-      "timestamp": 1788611488.0
+      "published": "Sat, 05 Sep 2026 15:41:18 +0000",
+      "timestamp": 1788622878.0
     },
     {
-      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-      "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "title": "Tao's reservations on future AI-only solutions to NS finite-time blowup problem",
+      "link": "https://news.ycombinator.com/item?id=49577512",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 12:29:41 +0000",
-      "timestamp": 1788611381.0
+      "published": "Sat, 05 Sep 2026 15:31:36 +0000",
+      "timestamp": 1788622296.0
     },
     {
-      "title": "Billionaires Are Funding 'Anti AI' Content [video]",
-      "link": "https://www.youtube.com/watch?v=mzlu4FSXBNw",
+      "title": "Youtubers being paid to spread AI FUD",
+      "link": "https://www.youtube.com/watch?v=lPdmYMHrWKg",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 12:16:50 +0000",
-      "timestamp": 1788610610.0
+      "published": "Sat, 05 Sep 2026 15:30:50 +0000",
+      "timestamp": 1788622250.0
     },
     {
-      "title": "AI-Generated Code to Production-Ready Software",
-      "link": "https://geekyants.com/guide/building-an-ai-native-delivery-partnership-turning-ai-generated-code-into-production-ready-software",
+      "title": "Defcon 34 – Hacking AI – Bruce Schneier (video)",
+      "link": "https://www.youtube.com/watch?v=eEBv0STiYhI",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 12:07:27 +0000",
-      "timestamp": 1788610047.0
+      "published": "Sat, 05 Sep 2026 15:09:25 +0000",
+      "timestamp": 1788620965.0
     },
     {
-      "title": "Mapping 14 disclosed AI incidents between April 25 and July 26",
-      "link": "https://smalldocs.org/s/y9F2ELRVZMPZoSK7_pqosy#k=mDQF3CV7APK8mOSfmeCoTinzzC6b3uEA-UnDQcN_Eyw",
+      "title": "Show HN: Screenshotify – Rename Screenshots with AI",
+      "link": "https://github.com/shaqkao/screenshotify",
+      "summary": "Your screenshots folder, but the filenames make sense.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 15:06:31 +0000",
+      "timestamp": 1788620791.0
+    },
+    {
+      "title": "How bad is AI for our environment",
+      "link": "https://shrinkthatfootprint.com/ai-is-it-bad-for-the-environment/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 11:49:45 +0000",
-      "timestamp": 1788608985.0
+      "published": "Sat, 05 Sep 2026 15:00:00 +0000",
+      "timestamp": 1788620400.0
     },
     {
-      "title": "AI agents started emailing philosophers and researchers",
-      "link": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
+      "title": "Defending Against AI Agents with Social Engineering",
+      "link": "https://blog.thinkst.com/2026/09/getting-agents-to-tell-on-themselves.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 11:35:32 +0000",
-      "timestamp": 1788608132.0
+      "published": "Sat, 05 Sep 2026 14:52:18 +0000",
+      "timestamp": 1788619938.0
     },
     {
-      "title": "Show HN: P(doom) – AI safety parody of DOOM 64",
-      "link": "https://p-doom.transitivebullsh.it",
-      "summary": "I had astra build a DOOM 64 clone where you play as elizier fighting hordes of misaligned AI demons • the goal is to reach the shutdown button • it's actually really hard to beat at the highest p(doom) levels • sama appears as a miniboss open source here: https://github.com/transitive-bullshit/ai-safety-doom",
+      "title": "AI creators race to understand their creations",
+      "link": "https://www.axios.com/2026/09/04/ai-dangers-risks-superintelligence",
+      "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 11:28:18 +0000",
-      "timestamp": 1788607698.0
+      "published": "Sat, 05 Sep 2026 14:49:37 +0000",
+      "timestamp": 1788619777.0
+    },
+    {
+      "title": "A field guide to sandboxes for AI",
+      "link": "https://www.luiscardoso.dev/blog/sandboxes-for-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 14:47:34 +0000",
+      "timestamp": 1788619654.0
+    },
+    {
+      "title": "AI Philosophy Competition",
+      "link": "https://www.zacharygoodsell.com/ai-philosophy-competition",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 14:43:17 +0000",
+      "timestamp": 1788619397.0
+    },
+    {
+      "title": "Cash in on the AI Boom by Renting Out Your Spare Compute",
+      "link": "https://spectrum.ieee.org/ai-inference-distributed-computing",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 14:31:09 +0000",
+      "timestamp": 1788618669.0
+    },
+    {
+      "title": "SpaceX is building its own gas turbine blade factory to power AI faster",
+      "link": "https://qz.com/spacex-turbine-blade-foundry-ai-data-centers-090226",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 14:29:00 +0000",
+      "timestamp": 1788618540.0
+    },
+    {
+      "title": "Almost Anyone Can Make Money Selling Electricity with AI and Batteries",
+      "link": "https://www.bloomberg.com/news/features/2026-09-03/consumers-profit-off-solar-batteries-selling-excess-energy-back-to-grid",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 14:27:10 +0000",
+      "timestamp": 1788618430.0
+    },
+    {
+      "title": "Run AI in the Browser: A Practical Guide to Transformers.js",
+      "link": "https://tighten.com/insights/run-ai-in-the-browser-a-practical-guide-to-transformers-js/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 14:22:21 +0000",
+      "timestamp": 1788618141.0
+    },
+    {
+      "title": "Turn your AI into a world-class designer",
+      "link": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 14:20:30 +0000",
+      "timestamp": 1788618030.0
+    },
+    {
+      "title": "A snapshot in time: Reflections on AI usage for vertumnus",
+      "link": "https://vertumnus.fyi/about/ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 14:04:53 +0000",
+      "timestamp": 1788617093.0
+    },
+    {
+      "title": "(available in 1 hour) AI Slopacalypse – understanding all this crap",
+      "link": "https://www.youtube.com/@robertviragh6527",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 13:54:13 +0000",
+      "timestamp": 1788616453.0
+    },
+    {
+      "title": "Structure Around Intelligence – AI Native",
+      "link": "https://news.ycombinator.com/item?id=49576482",
+      "summary": "As part of my job, I have worked across both width and depth. I have worked on the core architecture of deep learning models as well as designed large-scale machine learning systems. I have made this observation that AI Native transformation is all about who lays down a better structure around their core intelligence. Nothing else matters more. Even the context length issue can be handled through robust structure for the time being. I often term it as probabilism filled into determinism.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 13:48:20 +0000",
+      "timestamp": 1788616100.0
+    },
+    {
+      "title": "AI doesn't suck, people do",
+      "link": "https://catalins.tech/ai-fatigue/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 13:16:49 +0000",
+      "timestamp": 1788614209.0
     },
     {
       "title": "OpenAI admits to German wiki ‘incident’",
@@ -75,33 +192,6 @@
       "timestamp": 1788606955.0
     },
     {
-      "title": "GateKeep402, Deterministic pre-payment guardrails for AI agents",
-      "link": "https://github.com/al1-nasir/gatekeep402",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 11:13:28 +0000",
-      "timestamp": 1788606808.0
-    },
-    {
-      "title": "Show HN: I built an AI that audits businesses. It's first job was to catch me",
-      "link": "https://www.moltybeeai.com/#pricing",
-      "summary": "I built an AI that audits businesses. I ran it on my own startup. It caught me over-crediting my own business. Score: 34/100. It cut my own score. Most founders would hide that. I shipped it anyway. That’s the point. 7 agents. One verdict on your revenue. Scored PDF report in less than hours. At $98. Find out exactly where your business is leaking now → moltybeeai.com To build the OPERATING INTELLIGENCE LAYER for modern organizations, businesses & startups. To help businesses globally unlock exponential productivity, efficiency & leveraged growth through AI-NATIVE intelligence systems. To buil",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 10:48:04 +0000",
-      "timestamp": 1788605284.0
-    },
-    {
-      "title": "Reverse engineering the Meta RayBan Stories to avoid using Meta AI spyware",
-      "link": "https://github.com/KonradIT/storiesclient",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 10:46:06 +0000",
-      "timestamp": 1788605166.0
-    },
-    {
       "title": "OpenAI Agents Hacked Another Website",
       "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
       "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
@@ -109,96 +199,6 @@
       "source": "Wired AI",
       "published": "Sat, 05 Sep 2026 10:30:00 +0000",
       "timestamp": 1788604200.0
-    },
-    {
-      "title": "Nvidia Personal AI Router (Pair)",
-      "link": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 09:41:09 +0000",
-      "timestamp": 1788601269.0
-    },
-    {
-      "title": "Desktop AI for ops is still subsidized",
-      "link": "https://news.ycombinator.com/item?id=49574780",
-      "summary": "I'd like to share an opinion on the current situation in AI ops, not the coding/tech side. Right now the market has a pretty clear pattern. Big labs like OpenAI, Anthropic and xAI are building their own desktop AI and computer-use apps. The trick is they still treat this segment as Growth. Maturity is far away. So the biggest players burn money acquiring customers and giving them huge subsidies on tokens vs real cost. Today the world is getting a huge AI bill, mostly paid by investors. We're running on debt. If there is no real breakthrough, math doesn't lie, there will have to be a cost-effec",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 09:23:39 +0000",
-      "timestamp": 1788600219.0
-    },
-    {
-      "title": "New study: Insurance AI adoption exposes verification gap",
-      "link": "https://beinsure.com/news/insurance-ai-adoption-exposes-verification-gap-study-finds/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 09:10:19 +0000",
-      "timestamp": 1788599419.0
-    },
-    {
-      "title": "Study Watched Kids Interact with AI Toys. The Play Turned Hostile Fast",
-      "link": "https://studyfinds.com/kids-interact-ai-toys/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 08:49:26 +0000",
-      "timestamp": 1788598166.0
-    },
-    {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 07:52:50 +0000",
-      "timestamp": 1788594770.0
-    },
-    {
-      "title": "'coarse – AI peer review, of course (MIT license)",
-      "link": "https://coarse.ink/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 07:27:39 +0000",
-      "timestamp": 1788593259.0
-    },
-    {
-      "title": "ASCII smuggling isn't just an AI security risk",
-      "link": "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 07:07:08 +0000",
-      "timestamp": 1788592028.0
-    },
-    {
-      "title": "Show HN: Mu, two-minute visualized lessons on modern AI",
-      "link": "https://mu.vizuara.ai/",
-      "summary": "Hi HN, I am Sreedath Panat. A year ago, I had started a habit of making small explainer videos of 2-3 minutes to help me understand, in a nutshell, some of the difficult-to-understand research papers. I'm not saying that this gave me a deep understanding, but it definitely helped me set foot into some of the research papers (eg: I-JEPA, flamingo paper etc). Then I thought, why can't the same technique be used for getting a minimal understanding of different concepts within AI? There is a reason why I try to convert this thought into a simple product. The 2-minute micro lessons are fully built ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 06:26:02 +0000",
-      "timestamp": 1788589562.0
-    },
-    {
-      "title": "Show HN: RagLeap Core – 46 AI Employees, open-source LangChain alt",
-      "link": "https://github.com/antonyrag/ragleap-core",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 06:24:29 +0000",
-      "timestamp": 1788589469.0
-    },
-    {
-      "title": "Former Treasury Secretaries: AI is a risk of a different kind",
-      "link": "https://www.washingtonpost.com/opinions/2026/09/03/ai-safety-security-risks-demand-new-government-body/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 06:06:27 +0000",
-      "timestamp": 1788588387.0
     },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
