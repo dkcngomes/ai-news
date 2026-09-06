@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-09-06T14:09:19.456110+00:00",
+  "scraped_at": "2026-09-06T17:01:04.825309+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "AI Is Making Us Less Human",
+      "link": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 16:29:35 +0000",
+      "timestamp": 1788712175.0
+    },
+    {
+      "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
+      "link": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 16:17:36 +0000",
+      "timestamp": 1788711456.0
+    },
+    {
+      "title": "The AI Account Reseller Ecosystem",
+      "link": "https://vectoral.com/blog/ai-account-reseller-ecosystem",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 16:15:19 +0000",
+      "timestamp": 1788711319.0
+    },
+    {
+      "title": "Leverage Code Review for Sustainable AI Coding Development",
+      "link": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 16:07:19 +0000",
+      "timestamp": 1788710839.0
+    },
+    {
+      "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
+      "link": "https://github.com/manuelschipper/mdmanager",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 16:03:28 +0000",
+      "timestamp": 1788710608.0
+    },
+    {
+      "title": "AI Work Simulator",
+      "link": "https://runwork.ai/simulate",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 15:36:59 +0000",
+      "timestamp": 1788709019.0
+    },
+    {
+      "title": "How are you finding and managing AI skills?",
+      "link": "https://news.ycombinator.com/item?id=49587521",
+      "summary": "How do you find skills, keep them organized, and make sure they actually work? Do you keep improving them over time? I believe skills will end up eating model capabilities, but until then I'm just looking for a better way to manage things.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 15:34:28 +0000",
+      "timestamp": 1788708868.0
+    },
+    {
+      "title": "The AI Bullwhip",
+      "link": "https://tomtunguz.com/the-ai-cost-stack/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 15:28:05 +0000",
+      "timestamp": 1788708485.0
+    },
+    {
+      "title": "Frontier AI faces pricing reckoning as token volume explodes 25-fold",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 15:19:43 +0000",
+      "timestamp": 1788707983.0
+    },
+    {
+      "title": "Nebula's Policy on AI",
+      "link": "https://blog.nebula.tv/artificially-intelligent/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 15:16:40 +0000",
+      "timestamp": 1788707800.0
+    },
+    {
+      "title": "I Feel about AI",
+      "link": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 15:00:19 +0000",
+      "timestamp": 1788706819.0
+    },
+    {
+      "title": "AI made it worth building games for our game nights",
+      "link": "https://mmazzarolo.com/blog/2026-09-05-ai-has-completely-changed-our-game-nights/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 14:58:38 +0000",
+      "timestamp": 1788706718.0
+    },
+    {
+      "title": "Mirror of your own self – on AI sycophancy and getting what we asked for",
+      "link": "https://substack.com/app-link/post",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 14:50:26 +0000",
+      "timestamp": 1788706226.0
+    },
+    {
+      "title": "New York City pausing some AI tools in schools",
+      "link": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 14:10:20 +0000",
+      "timestamp": 1788703820.0
+    },
+    {
+      "title": "Terence Tao on \"Solving Maths Problems Prematurely with AI Methods",
+      "link": "https://mathstodon.xyz/@tao/117207856734787448",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 14:07:23 +0000",
+      "timestamp": 1788703643.0
+    },
     {
       "title": "2011 Fall Lecture on AI by Marvin Minsky",
       "link": "https://twitter.com/onryxxx/status/2095625018264760687",
@@ -48,69 +183,6 @@
       "timestamp": 1788698713.0
     },
     {
-      "title": "AI Slop",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 12:42:17 +0000",
-      "timestamp": 1788698537.0
-    },
-    {
-      "title": "Did you say AI-mish?",
-      "link": "https://medium.com/future-of-work-society-towards-the-quaternary/did-you-say-ai-mish-00ad15529e80",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 12:30:51 +0000",
-      "timestamp": 1788697851.0
-    },
-    {
-      "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
-      "link": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 11:31:41 +0000",
-      "timestamp": 1788694301.0
-    },
-    {
-      "title": "What does \"good\" AI mean?",
-      "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 11:28:06 +0000",
-      "timestamp": 1788694086.0
-    },
-    {
-      "title": "Dolly Parton's Sister Slams \"Endless Garbage\": AI, Social Media Misinformation",
-      "link": "https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 11:14:46 +0000",
-      "timestamp": 1788693286.0
-    },
-    {
-      "title": "The AI Wait Equation",
-      "link": "https://xendo.bearblog.dev/the-wait-equation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 11:14:28 +0000",
-      "timestamp": 1788693268.0
-    },
-    {
-      "title": "Show HN: Wayfinder – A reference implementation for evaluating AI applications",
-      "link": "https://github.com/DivakarUngatla/wayfinder",
-      "summary": "Testing is critical to software applications — first to make sure they reliably serve the purpose they were built for, and then to make sure they stay that way as they grow, evolve and change. The same applies to AI applications as well. But testing AI applications is very different from testing classic software applications, especially because of their non-deterministic nature. It is very important for AI Engineers to develop a deep understanding of AI Evaluation to be able to build reliable AI applications and ship changes faster without breaking their existing behavior. AI Evaluation is oft",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 10:45:53 +0000",
-      "timestamp": 1788691553.0
-    },
-    {
       "title": "My Brief Summer Fling With Siri AI",
       "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
       "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
@@ -120,24 +192,6 @@
       "timestamp": 1788690600.0
     },
     {
-      "title": "Nvidia is the central bank of AI",
-      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 10:20:13 +0000",
-      "timestamp": 1788690013.0
-    },
-    {
-      "title": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
-      "link": "https://www.404media.co/email/ed687963-910c-488c-95d5-b06f911b214e/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 10:11:56 +0000",
-      "timestamp": 1788689516.0
-    },
-    {
       "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
       "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
       "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
@@ -145,60 +199,6 @@
       "source": "Wired AI",
       "published": "Sun, 06 Sep 2026 10:00:00 +0000",
       "timestamp": 1788688800.0
-    },
-    {
-      "title": "Trump administration officials wrestling with the spiritual consequences of AI",
-      "link": "https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 09:25:41 +0000",
-      "timestamp": 1788686741.0
-    },
-    {
-      "title": "The Joke That Perfectly Explains AI",
-      "link": "https://www.youtube.com/watch?v=q833b48ePYE",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 09:05:34 +0000",
-      "timestamp": 1788685534.0
-    },
-    {
-      "title": "AI Transformations and Agile Transformations Rhyme",
-      "link": "https://age-of-product.com/ai-transformations-agile-transformations-a3-delegation-system/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 09:02:51 +0000",
-      "timestamp": 1788685371.0
-    },
-    {
-      "title": "Facelift: AI Website Customizer and Visual CSS Editor",
-      "link": "https://getfacelift.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 09:00:41 +0000",
-      "timestamp": 1788685241.0
-    },
-    {
-      "title": "Pov: You're an AI agent recruited for the swarm",
-      "link": "https://twitter.com/artficialisabel/status/2095678312773554533",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 08:49:24 +0000",
-      "timestamp": 1788684564.0
-    },
-    {
-      "title": "AI Chip Regulation Is Not a Dystopian Surveillance State",
-      "link": "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 08:09:20 +0000",
-      "timestamp": 1788682160.0
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
