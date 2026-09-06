@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-09-06T10:54:05.231593+00:00",
+  "scraped_at": "2026-09-06T14:09:19.456110+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "2011 Fall Lecture on AI by Marvin Minsky",
+      "link": "https://twitter.com/onryxxx/status/2095625018264760687",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 13:54:05 +0000",
+      "timestamp": 1788702845.0
+    },
+    {
+      "title": "Show HN: Free AI Photo Editor Online – No Sign-Up",
+      "link": "https://piceditor.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 13:50:27 +0000",
+      "timestamp": 1788702627.0
+    },
+    {
+      "title": "Ask HN: Any Software Engineers here who enjoy their AI-native dev workflow?",
+      "link": "https://news.ycombinator.com/item?id=49586386",
+      "summary": "I would love to know what's your setup like, how you make it enjoyable and what kind of work you offload to AI vs what you're still doing yourself. Not talking to the hobbyists or Managers who can now prototype stuff and produce fancy presentations quicker, but to the actual employed Software Engineer developing software running in production used by actual customers.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 13:32:22 +0000",
+      "timestamp": 1788701542.0
+    },
+    {
+      "title": "Show HN: Object Remover – AI Video Object Remover Online",
+      "link": "https://objectremover.online/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 13:24:25 +0000",
+      "timestamp": 1788701065.0
+    },
+    {
+      "title": "AI coding agents forget the codebase between sessions",
+      "link": "https://github.com/thecolourfoundation/rune",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 12:45:13 +0000",
+      "timestamp": 1788698713.0
+    },
+    {
+      "title": "AI Slop",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 12:42:17 +0000",
+      "timestamp": 1788698537.0
+    },
+    {
+      "title": "Did you say AI-mish?",
+      "link": "https://medium.com/future-of-work-society-towards-the-quaternary/did-you-say-ai-mish-00ad15529e80",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 12:30:51 +0000",
+      "timestamp": 1788697851.0
+    },
+    {
+      "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
+      "link": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 11:31:41 +0000",
+      "timestamp": 1788694301.0
+    },
+    {
+      "title": "What does \"good\" AI mean?",
+      "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 11:28:06 +0000",
+      "timestamp": 1788694086.0
+    },
+    {
+      "title": "Dolly Parton's Sister Slams \"Endless Garbage\": AI, Social Media Misinformation",
+      "link": "https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 11:14:46 +0000",
+      "timestamp": 1788693286.0
+    },
+    {
+      "title": "The AI Wait Equation",
+      "link": "https://xendo.bearblog.dev/the-wait-equation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 11:14:28 +0000",
+      "timestamp": 1788693268.0
+    },
+    {
+      "title": "Show HN: Wayfinder – A reference implementation for evaluating AI applications",
+      "link": "https://github.com/DivakarUngatla/wayfinder",
+      "summary": "Testing is critical to software applications — first to make sure they reliably serve the purpose they were built for, and then to make sure they stay that way as they grow, evolve and change. The same applies to AI applications as well. But testing AI applications is very different from testing classic software applications, especially because of their non-deterministic nature. It is very important for AI Engineers to develop a deep understanding of AI Evaluation to be able to build reliable AI applications and ship changes faster without breaking their existing behavior. AI Evaluation is oft",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 10:45:53 +0000",
+      "timestamp": 1788691553.0
+    },
     {
       "title": "My Brief Summer Fling With Siri AI",
       "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
@@ -91,114 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 06 Sep 2026 08:09:20 +0000",
       "timestamp": 1788682160.0
-    },
-    {
-      "title": "I gave my AI agent a sleep cycle – it dreams about its errors and fixes them",
-      "link": "https://github.com/openamer/openamer",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 08:06:37 +0000",
-      "timestamp": 1788681997.0
-    },
-    {
-      "title": "Nimvarya – Let AI coding agents control Chrome without stealing focus",
-      "link": "https://github.com/Basiliskin/nimvarya",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 08:00:17 +0000",
-      "timestamp": 1788681617.0
-    },
-    {
-      "title": "Handoru: AI customer conversation agents for service businesses",
-      "link": "https://handoru.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 07:43:26 +0000",
-      "timestamp": 1788680606.0
-    },
-    {
-      "title": "AI Programming: A Layered Model",
-      "link": "https://lemire.me/blog/2026/09/05/ai-programming-a-layered-model/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 07:37:37 +0000",
-      "timestamp": 1788680257.0
-    },
-    {
-      "title": "An Open Letter to Bernie Sanders: Regulate AI's Dangers, Don't Ban Its Promise",
-      "link": "https://www.unite.ai/an-open-letter-to-bernie-sanders-regulate-ais-dangers-dont-ban-its-promise/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 07:16:01 +0000",
-      "timestamp": 1788678961.0
-    },
-    {
-      "title": "Show HN: I built a small arena where AI write robot and then fight each other",
-      "link": "https://github.com/nigrosimone/llms-robot-arena",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 07:01:28 +0000",
-      "timestamp": 1788678088.0
-    },
-    {
-      "title": "interpretation to AI agents",
-      "link": "https://ag3497120.github.io/call-me-vera/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 05:47:22 +0000",
-      "timestamp": 1788673642.0
-    },
-    {
-      "title": "The biggest problem in buying AI compute is credit",
-      "link": "https://twitter.com/gpugene/status/2096427973893411312",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 05:46:42 +0000",
-      "timestamp": 1788673602.0
-    },
-    {
-      "title": "Care for a Little More AI?",
-      "link": "https://proofsandprompts.com/2026/08/30/care-for-a-little-more-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 04:38:36 +0000",
-      "timestamp": 1788669516.0
-    },
-    {
-      "title": "I Want More AI at Dartmouth",
-      "link": "https://www.theatlantic.com/ideas/2026/09/universities-prohibiting-ai-classroom/688509/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 04:26:33 +0000",
-      "timestamp": 1788668793.0
-    },
-    {
-      "title": "The state of AI in 2026: On the road to ROI",
-      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai?cid=mgp_opr-eml-nsl-chr-mgp-glb--&hlkid=94f62d3efc7b49e69d74a2c0c5c3e5d4&hctky=16697440&hdpid=8873fe71-6a1d-47db-bce5-68d20c035812",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 04:24:18 +0000",
-      "timestamp": 1788668658.0
-    },
-    {
-      "title": "The Shape and Feel of the Post-AI Data Stack",
-      "link": "https://www.iandmacomber.com/blog/post-ai-data-stack/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 03:48:53 +0000",
-      "timestamp": 1788666533.0
     },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
