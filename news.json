@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-09-05T22:53:28.721875+00:00",
+  "scraped_at": "2026-09-06T00:54:58.427095+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "DHH: Programming, AI, Vibe Coding and Linux (Lex Fridman Podcast)",
+      "link": "https://lexfridman.com/dhh-2-transcript/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 00:01:42 +0000",
+      "timestamp": 1788652902.0
+    },
+    {
+      "title": "Truckers – AI data centers as business booms",
+      "link": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 23:22:46 +0000",
+      "timestamp": 1788650566.0
+    },
+    {
+      "title": "AI and the collapse of the intelligence-based hierarchy of merit",
+      "link": "https://mattbruenig.com/2026/08/31/more-thoughts-on-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 23:14:52 +0000",
+      "timestamp": 1788650092.0
+    },
+    {
+      "title": "Workforce behind AI spans 160M workers, many in the Global South",
+      "link": "https://www.thecooldown.com/green-tech/global-south-data-workers-ai-labor-organization/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 05 Sep 2026 23:02:55 +0000",
+      "timestamp": 1788649375.0
+    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -57,7 +93,7 @@
       "timestamp": 1788645815.0
     },
     {
-      "title": "America's Two Largest School Districts Impose AI Moratoriums",
+      "title": "America's two largest school districts impose AI moratoriums",
       "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
       "summary": "",
       "image": null,
@@ -165,24 +201,6 @@
       "timestamp": 1788633239.0
     },
     {
-      "title": "Ask HN: Airbnbs with AI Photos",
-      "link": "https://news.ycombinator.com/item?id=49579140",
-      "summary": "Wouldn’t this constitute false advertising? It’s becoming too common. If you’re a PM at Airbnb: there are so many SaaS companies to detect AI images. Please.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 18:11:38 +0000",
-      "timestamp": 1788631898.0
-    },
-    {
-      "title": "Job postings show early signs of AI automation impact",
-      "link": "https://www.dallasfed.org/research/economics/2026/0901",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 18:07:51 +0000",
-      "timestamp": 1788631671.0
-    },
-    {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
@@ -190,24 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 05 Sep 2026 18:05:27 +0000",
       "timestamp": 1788631527.0
-    },
-    {
-      "title": "Flathub bans AI-coded apps – with some exceptions",
-      "link": "https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 17:58:41 +0000",
-      "timestamp": 1788631121.0
-    },
-    {
-      "title": "A meme-shaped test of your post-AI SWE skills",
-      "link": "https://codeset.ai/fried/swe",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 05 Sep 2026 17:56:47 +0000",
-      "timestamp": 1788631007.0
     },
     {
       "title": "OpenAI admits to German wiki ‘incident’",
