@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-09-06T17:01:04.825309+00:00",
+  "scraped_at": "2026-09-06T19:09:15.340646+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "Security vulnerabilities of AI data centers flagged at intelligence hearing",
+      "link": "https://insidecybersecurity.com/daily-news/security-vulnerabilities-ai-data-centers-flagged-house-intelligence-hearing",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 19:00:52 +0000",
+      "timestamp": 1788721252.0
+    },
+    {
+      "title": "Public beta: a decision-governance runtime for AI agents",
+      "link": "https://amundsenlance.github.io/pvpp-runtime-api/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 18:59:15 +0000",
+      "timestamp": 1788721155.0
+    },
+    {
+      "title": "ByteX: A Unified AI Search Engine at ByteDance",
+      "link": "https://arxiv.org/abs/2608.30607",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 18:19:06 +0000",
+      "timestamp": 1788718746.0
+    },
+    {
+      "title": "Genesis Mission: AI and Quantum Computing for Scientific Discovery",
+      "link": "https://github.com/donutloop/donutloop-genesis/blob/main/README.md",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 18:14:36 +0000",
+      "timestamp": 1788718476.0
+    },
+    {
+      "title": "Choosing a Framework Desktop for Local AI: 32GB, 64GB, and 128GB",
+      "link": "https://frame.work/pl/en/blog/choosing-a-framwork-desktop-for-local-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 17:57:29 +0000",
+      "timestamp": 1788717449.0
+    },
+    {
+      "title": "MotionSites AI – Official Premium AI Website Prompts",
+      "link": "https://motionsites.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 17:15:37 +0000",
+      "timestamp": 1788714937.0
+    },
+    {
+      "title": "Washington Post says Piker used AI generated audio but admits it has no proof",
+      "link": "https://twitter.com/washingtonpost/status/2096304873557877132",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 06 Sep 2026 16:54:19 +0000",
+      "timestamp": 1788713659.0
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 06 Sep 2026 16:45:00 +0000",
+      "timestamp": 1788713100.0
+    },
     {
       "title": "AI Is Making Us Less Human",
       "link": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
@@ -93,7 +165,7 @@
       "timestamp": 1788707800.0
     },
     {
-      "title": "I Feel about AI",
+      "title": "How I feel about AI",
       "link": "https://beza1e1.tuxen.de/ai_feelings.html",
       "summary": "",
       "image": null,
@@ -118,69 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 06 Sep 2026 14:50:26 +0000",
       "timestamp": 1788706226.0
-    },
-    {
-      "title": "New York City pausing some AI tools in schools",
-      "link": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 14:10:20 +0000",
-      "timestamp": 1788703820.0
-    },
-    {
-      "title": "Terence Tao on \"Solving Maths Problems Prematurely with AI Methods",
-      "link": "https://mathstodon.xyz/@tao/117207856734787448",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 14:07:23 +0000",
-      "timestamp": 1788703643.0
-    },
-    {
-      "title": "2011 Fall Lecture on AI by Marvin Minsky",
-      "link": "https://twitter.com/onryxxx/status/2095625018264760687",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 13:54:05 +0000",
-      "timestamp": 1788702845.0
-    },
-    {
-      "title": "Show HN: Free AI Photo Editor Online – No Sign-Up",
-      "link": "https://piceditor.org/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 13:50:27 +0000",
-      "timestamp": 1788702627.0
-    },
-    {
-      "title": "Ask HN: Any Software Engineers here who enjoy their AI-native dev workflow?",
-      "link": "https://news.ycombinator.com/item?id=49586386",
-      "summary": "I would love to know what's your setup like, how you make it enjoyable and what kind of work you offload to AI vs what you're still doing yourself. Not talking to the hobbyists or Managers who can now prototype stuff and produce fancy presentations quicker, but to the actual employed Software Engineer developing software running in production used by actual customers.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 13:32:22 +0000",
-      "timestamp": 1788701542.0
-    },
-    {
-      "title": "Show HN: Object Remover – AI Video Object Remover Online",
-      "link": "https://objectremover.online/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 13:24:25 +0000",
-      "timestamp": 1788701065.0
-    },
-    {
-      "title": "AI coding agents forget the codebase between sessions",
-      "link": "https://github.com/thecolourfoundation/rune",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 12:45:13 +0000",
-      "timestamp": 1788698713.0
     },
     {
       "title": "My Brief Summer Fling With Siri AI",
@@ -514,15 +523,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 03 Sep 2026 16:09:01 +0000",
       "timestamp": 1788451741.0
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "timestamp": 1788447600.0
     },
     {
       "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
