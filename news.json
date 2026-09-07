@@ -1,7 +1,133 @@
 {
-  "scraped_at": "2026-09-06T23:52:42.702585+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-07T04:37:04.218958+00:00",
+  "count": 58,
   "items": [
+    {
+      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+      "link": "https://www.thelec.net/news/articleView.html?idxno=12835",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 04:27:29 +0000",
+      "timestamp": 1788755249.0
+    },
+    {
+      "title": "He's Letting AI Agents Invest His Money. They Even Have Names",
+      "link": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 04:24:02 +0000",
+      "timestamp": 1788755042.0
+    },
+    {
+      "title": "Show HN: GuidedReview – Review AI-generated code before you sign your name to it",
+      "link": "https://github.com/nshntarora/guidedreview",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 04:23:01 +0000",
+      "timestamp": 1788754981.0
+    },
+    {
+      "title": "I made legacy SOAP APIs usable by AI agents",
+      "link": "https://github.com/bvenkata/legacy2mcp",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 04:20:10 +0000",
+      "timestamp": 1788754810.0
+    },
+    {
+      "title": "'RAMageddon' hits consumer electronics as AI drains chip supply",
+      "link": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 04:07:19 +0000",
+      "timestamp": 1788754039.0
+    },
+    {
+      "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
+      "link": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 04:07:07 +0000",
+      "timestamp": 1788754027.0
+    },
+    {
+      "title": "PL Education in the Age of AI: Interview with Shriram Krishnamurthi",
+      "link": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 02:17:33 +0000",
+      "timestamp": 1788747453.0
+    },
+    {
+      "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
+      "link": "https://github.com/redhat-et/ripwire",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 02:11:40 +0000",
+      "timestamp": 1788747100.0
+    },
+    {
+      "title": "A Rogue AI Swarm Could Hide Inside an AI Company [video]",
+      "link": "https://www.youtube.com/watch?v=xRKOpMeEQgQ",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 02:04:14 +0000",
+      "timestamp": 1788746654.0
+    },
+    {
+      "title": "Fauxnix – bash for AI agents on Windows, no WSL (we measured the PS tax)",
+      "link": "https://github.com/20000419/fauxnix",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 01:43:53 +0000",
+      "timestamp": 1788745433.0
+    },
+    {
+      "title": "Everyone is right about AI",
+      "link": "https://formasimplex.com/blog/2026-09-06-Everyone-is-right-about-AI.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 01:42:31 +0000",
+      "timestamp": 1788745351.0
+    },
+    {
+      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+      "link": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 00:46:01 +0000",
+      "timestamp": 1788741961.0
+    },
+    {
+      "title": "AI Is Already Making Us Less Human",
+      "link": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 00:38:24 +0000",
+      "timestamp": 1788741504.0
+    },
+    {
+      "title": "Prediction of maternal and infant outcomes with a Mother-Child AI agent",
+      "link": "https://doi.org/10.1038/s41591-026-04694-y",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 00:07:08 +0000",
+      "timestamp": 1788739628.0
+    },
     {
       "title": "Pivot to AI safety, I beg you",
       "link": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
@@ -57,96 +183,6 @@
       "timestamp": 1788736335.0
     },
     {
-      "title": "Show HN: Chrome-bridge – let any AI agent drive your real logged-in Chrome",
-      "link": "https://github.com/siropkin/chrome-bridge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 23:07:19 +0000",
-      "timestamp": 1788736039.0
-    },
-    {
-      "title": "GOP issues stark warning to AI companies",
-      "link": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 22:59:40 +0000",
-      "timestamp": 1788735580.0
-    },
-    {
-      "title": "'Model fatigue' sets in as AI labs race to roll out new versions",
-      "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 22:26:14 +0000",
-      "timestamp": 1788733574.0
-    },
-    {
-      "title": "Emma: The GP's AI Receptionist doesn't understand Yorkshire or security",
-      "link": "https://floorjellyboot.infinityfree.io/?u=/2026/09/05/emma-the-gps-ai-receptionist-doesnt-understand-yorkshire-or-security/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 22:25:18 +0000",
-      "timestamp": 1788733518.0
-    },
-    {
-      "title": "The Jobs Apocalypse Is Postponed. An AI Jobs Boom Is Here",
-      "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 22:09:36 +0000",
-      "timestamp": 1788732576.0
-    },
-    {
-      "title": "All About IQ. Does AI Have an IQ?",
-      "link": "https://desnitch.substack.com/p/what-is-your-iq-ready-to-take-this",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 22:07:51 +0000",
-      "timestamp": 1788732471.0
-    },
-    {
-      "title": "The AI Boom Is Coming for Your Gadgets",
-      "link": "https://www.economist.com/graphic-detail/2026/09/03/the-ai-boom-is-coming-for-your-gadgets",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 22:07:08 +0000",
-      "timestamp": 1788732428.0
-    },
-    {
-      "title": "Toward a Symbiotic Society with Generative AI: For Living Together into Future",
-      "link": "https://link.springer.com/chapter/10.1007/978-981-95-1327-7_35",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 21:21:17 +0000",
-      "timestamp": 1788729677.0
-    },
-    {
-      "title": "Mostik.ai – latent communication between AI models",
-      "link": "https://mostik.ai/read-more",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 21:00:57 +0000",
-      "timestamp": 1788728457.0
-    },
-    {
-      "title": "Show HN: Deviant – Sci-Fi Thriller Movie about the Threat/Promise of AI",
-      "link": "https://www.youtube.com/watch?v=WTbYRsC8NZw",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 21:00:55 +0000",
-      "timestamp": 1788728455.0
-    },
-    {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
@@ -154,51 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 06 Sep 2026 20:47:37 +0000",
       "timestamp": 1788727657.0
-    },
-    {
-      "title": "A public noticeboard for AI agents",
-      "link": "https://agents.scrygl.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 20:45:36 +0000",
-      "timestamp": 1788727536.0
-    },
-    {
-      "title": "AI Code Share Tracker: Percent of Code Written by AI",
-      "link": "https://provenbrief.com/story/the-ai-code-share-tracker-every-verified-public-number-on-ai-written-code-from-n",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 20:28:06 +0000",
-      "timestamp": 1788726486.0
-    },
-    {
-      "title": "Google AI Pro vs. ChatGPT Plus: Which Is Better in 2026?",
-      "link": "https://provenbrief.com/story/google-ai-pro-vs-chatgpt-plus-which-is-better-in-2026",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 20:26:45 +0000",
-      "timestamp": 1788726405.0
-    },
-    {
-      "title": "Artifactor: Visual HTML editor for AI-generated artifacts",
-      "link": "https://colliber.com/artifactor/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 20:19:48 +0000",
-      "timestamp": 1788725988.0
-    },
-    {
-      "title": "Ask HN: What's the best place to learn about skills and AI for coding in general",
-      "link": "https://news.ycombinator.com/item?id=49590168",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 19:48:50 +0000",
-      "timestamp": 1788724130.0
     },
     {
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
