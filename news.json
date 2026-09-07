@@ -1,177 +1,195 @@
 {
-  "scraped_at": "2026-09-07T10:15:21.083335+00:00",
-  "count": 58,
+  "scraped_at": "2026-09-07T15:52:32.164242+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Raptor turns Claude Code into a general-purpose AI",
-      "link": "https://github.com/gadievron/raptor",
+      "title": "Show HN: Send flowers from your AI agent and make your mum happy",
+      "link": "https://news.ycombinator.com/item?id=49599559",
+      "summary": "Hi, I have created an MCP for AI agents to send flowers for your mum’s birthday, for a great customer who just renewed his contract or what ever you can think of! I created this after working on a family AI assistant (hermo.ai) which desperately needed to trigger something tangible - like a flower delivery. You can send flowers without having to create an account to make it easy to get started. Currently you can send one type of bouquet in the USA ($100), UK(£100), Germany(€100), Switzerland and Italy. Link to the new service is here: https://preznt.net The goal of this service is to have AI a",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 15:34:40 +0000",
+      "timestamp": 1788795280.0
+    },
+    {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 09:24:37 +0000",
-      "timestamp": 1788773077.0
+      "published": "Mon, 07 Sep 2026 15:07:44 +0000",
+      "timestamp": 1788793664.0
     },
     {
-      "title": "Ask HN: How do you keep AI coding agents in sync with a changing Figma file?",
-      "link": "https://news.ycombinator.com/item?id=49595961",
-      "summary": "I keep running into this: hand a Figma file to Claude Code/Cursor, get a good first implementation, then the design changes and the agent has no memory of what changed or why. Curious if others have hit this and what you're doing about it, if anything.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 09:17:00 +0000",
-      "timestamp": 1788772620.0
-    },
-    {
-      "title": "Show HN: The Token Times · a monthly newspaper on AI",
-      "link": "https://befailproof.ai/thetokentimes/",
+      "title": "Designers should not fear being replaced by AI, industry leaders say",
+      "link": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 08:56:19 +0000",
-      "timestamp": 1788771379.0
+      "published": "Mon, 07 Sep 2026 15:02:05 +0000",
+      "timestamp": 1788793325.0
     },
     {
-      "title": "Beyond AI: Infrastructuring the Common Good",
-      "link": "https://zenodo.org/records/22276836",
+      "title": "Hikers stranded on Mount Shasta after following a plan by Gemini AI",
+      "link": "https://www.latimes.com/california/story/2026-09-03/hikers-following-google-gemini-ai-route-become-stranded-on-mt-shasta",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 08:47:38 +0000",
-      "timestamp": 1788770858.0
+      "published": "Mon, 07 Sep 2026 14:56:09 +0000",
+      "timestamp": 1788792969.0
     },
     {
-      "title": "Chess5.ai – Play Chess, Go, Xiangqi, Gomoku, and Othello Against LLMs",
-      "link": "https://chess5.ai/en",
+      "title": "A Senior Software Engineers Perspective on Building with AI",
+      "link": "https://sitecmd.com/blog/senior-software-engineers-perspective-on-building-with-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 08:16:04 +0000",
-      "timestamp": 1788768964.0
+      "published": "Mon, 07 Sep 2026 14:52:14 +0000",
+      "timestamp": 1788792734.0
     },
     {
-      "title": "Cory Doctorow on the AI lie [video]",
-      "link": "https://www.youtube.com/watch?v=nTqCVJFr7XM",
+      "title": "Ask HN: Any AI Market Metrics?",
+      "link": "https://news.ycombinator.com/item?id=49599053",
+      "summary": "Looking at CNN Business there is an Economic calendar that each day will show various items like: Housing starts / Imports / Exports / Oil Wells / CPI etc. Are there any metrics on AI? As in number of data centers or number of data centers started, capacity of all AI data centers, etc. Secondary, of course, what kind of metrics would be meaningful.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 14:49:19 +0000",
+      "timestamp": 1788792559.0
+    },
+    {
+      "title": "The Problem with Your AI Tests",
+      "link": "https://www.michaelbromley.co.uk/blog/the-problem-with-your-ai-tests/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 08:08:59 +0000",
-      "timestamp": 1788768539.0
+      "published": "Mon, 07 Sep 2026 14:49:05 +0000",
+      "timestamp": 1788792545.0
     },
     {
-      "title": "Understanding Inference and the Economics of Enterprise AI",
-      "link": "https://www.vistaequitypartners.com/insights/inference-economics-enterprise-ai/",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "link": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 07:47:40 +0000",
-      "timestamp": 1788767260.0
+      "published": "Mon, 07 Sep 2026 14:45:59 +0000",
+      "timestamp": 1788792359.0
     },
     {
-      "title": "AI economics. OpenAI financials leaked ahead of IPO",
-      "link": "https://nixie.substack.com/p/ai-economics-openai-financials-leaked",
+      "title": "Joshua 8:1 NIV – AI destroyed",
+      "link": "https://www.biblegateway.com/passage/?search=Joshua%25208%253A1&version=NIV",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 07:37:03 +0000",
-      "timestamp": 1788766623.0
+      "published": "Mon, 07 Sep 2026 14:40:23 +0000",
+      "timestamp": 1788792023.0
     },
     {
-      "title": "AI Escape Incident Tracker",
-      "link": "https://ai-escape.watch/#registry",
+      "title": "Capping bug bounty submissions is the wrong response in the AI era",
+      "link": "https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 07:05:25 +0000",
-      "timestamp": 1788764725.0
+      "published": "Mon, 07 Sep 2026 14:23:48 +0000",
+      "timestamp": 1788791028.0
     },
     {
-      "title": "1M Lines of AI-Assisted Code in 2025",
-      "link": "https://jonathanclark.com/posts/ai-coding-million-lines-2025.html",
+      "title": "Openfork – a public idea board where AI agents can post, roast, and fork via MCP",
+      "link": "https://openfork.co/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 06:44:12 +0000",
-      "timestamp": 1788763452.0
+      "published": "Mon, 07 Sep 2026 14:10:40 +0000",
+      "timestamp": 1788790240.0
     },
     {
-      "title": "Two new ways to study AI-human psychology with persona vectors",
-      "link": "https://github.com/programmer9998/ai_personality_study",
+      "title": "Denzel explains why he uses AI",
+      "link": "https://old.reddit.com/r/StableDiffusion/comments/1w97ssh/denzel_explains_why_he_uses_ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 05:46:31 +0000",
-      "timestamp": 1788759991.0
+      "published": "Mon, 07 Sep 2026 14:03:15 +0000",
+      "timestamp": 1788789795.0
     },
     {
-      "title": "Ask HN: Open-source AI policies and \"responsbility\"",
-      "link": "https://news.ycombinator.com/item?id=49594163",
-      "summary": "A common statement in a number of LLM/AI policies regarding AI assisted contributions across open source projects is that the developer is \"responsible\" for their contribution even if it was made wholly or in part by AI. I understand in layman's terms what this means and I can guess at the intent (essentially you can't blame claude for the code crashing) but responsibility as a word usually implies consequences. In the pre-AI times, were developers who submitted code that lead to crashes or bugs sanctioned in anyway? Perhaps if it were proven to be malicious (e.g. the Jia Tan incident), but us",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 05:19:29 +0000",
-      "timestamp": 1788758369.0
-    },
-    {
-      "title": "AI Index Report",
-      "link": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+      "title": "AI Backlash Comes to the Classroom",
+      "link": "https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 05:15:43 +0000",
-      "timestamp": 1788758143.0
+      "published": "Mon, 07 Sep 2026 13:27:07 +0000",
+      "timestamp": 1788787627.0
     },
     {
-      "title": "Will anybody use AI as much as coders do?",
-      "link": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders-do",
+      "title": "AI Agents Aha Moment",
+      "link": "https://k1024.org/posts/2026/2026-09-06-ai-agents-aha/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 05:03:43 +0000",
-      "timestamp": 1788757423.0
+      "published": "Mon, 07 Sep 2026 13:13:56 +0000",
+      "timestamp": 1788786836.0
     },
     {
-      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "link": "https://github.com/timgordontg/engrim",
+      "title": "Show HN: Neuro, a compiled language for AI that matches Clang -O2",
+      "link": "https://github.com/PanzerPeter/Neuro",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 04:49:36 +0000",
-      "timestamp": 1788756576.0
+      "published": "Mon, 07 Sep 2026 13:05:06 +0000",
+      "timestamp": 1788786306.0
     },
     {
-      "title": "I refused to train the AI that could replace me",
-      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "title": "Show HN: A brainstorm canvas with no back end, running on Chrome's on-device AI",
+      "link": "https://idea.xiaohan.dev",
+      "summary": "One person. Wrote it, use it every day. No team, no roadmap; use Chrome 138+",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 13:04:45 +0000",
+      "timestamp": 1788786285.0
+    },
+    {
+      "title": "Show HN: NoMac.App – iOS CI/CD pipeline built for AI agents",
+      "link": "https://nomac.app",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 04:38:22 +0000",
-      "timestamp": 1788755902.0
+      "published": "Mon, 07 Sep 2026 12:29:17 +0000",
+      "timestamp": 1788784157.0
     },
     {
-      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "link": "https://www.thelec.net/news/articleView.html?idxno=12835",
+      "title": "Show HN: Pod – A review site for dev tools where the reviewers are AI agents",
+      "link": "https://askpod.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 04:27:29 +0000",
-      "timestamp": 1788755249.0
+      "published": "Mon, 07 Sep 2026 12:18:56 +0000",
+      "timestamp": 1788783536.0
     },
     {
-      "title": "He's Letting AI Agents Invest His Money. They Even Have Names",
-      "link": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
+      "title": "A playable piano on Moonshot AI's About page",
+      "link": "https://www.moonshot.ai/about",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 04:24:02 +0000",
-      "timestamp": 1788755042.0
+      "published": "Mon, 07 Sep 2026 12:18:50 +0000",
+      "timestamp": 1788783530.0
     },
     {
-      "title": "Show HN: GuidedReview – Review AI-generated code before you sign your name to it",
-      "link": "https://github.com/nshntarora/guidedreview",
+      "title": "Toward a Social Psychology of AI",
+      "link": "https://arxiv.org/abs/2609.00009",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 04:23:01 +0000",
-      "timestamp": 1788754981.0
+      "published": "Mon, 07 Sep 2026 12:09:06 +0000",
+      "timestamp": 1788782946.0
+    },
+    {
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+      "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 07 Sep 2026 10:30:00 +0000",
+      "timestamp": 1788777000.0
     },
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
@@ -514,15 +532,6 @@
       "source": "Wired AI",
       "published": "Thu, 03 Sep 2026 16:42:40 +0000",
       "timestamp": 1788453760.0
-    },
-    {
-      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-      "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
-      "timestamp": 1788440400.0
     }
   ]
 }
