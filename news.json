@@ -1,7 +1,151 @@
 {
-  "scraped_at": "2026-09-07T04:37:04.218958+00:00",
+  "scraped_at": "2026-09-07T10:15:21.083335+00:00",
   "count": 58,
   "items": [
+    {
+      "title": "Raptor turns Claude Code into a general-purpose AI",
+      "link": "https://github.com/gadievron/raptor",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 09:24:37 +0000",
+      "timestamp": 1788773077.0
+    },
+    {
+      "title": "Ask HN: How do you keep AI coding agents in sync with a changing Figma file?",
+      "link": "https://news.ycombinator.com/item?id=49595961",
+      "summary": "I keep running into this: hand a Figma file to Claude Code/Cursor, get a good first implementation, then the design changes and the agent has no memory of what changed or why. Curious if others have hit this and what you're doing about it, if anything.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 09:17:00 +0000",
+      "timestamp": 1788772620.0
+    },
+    {
+      "title": "Show HN: The Token Times · a monthly newspaper on AI",
+      "link": "https://befailproof.ai/thetokentimes/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 08:56:19 +0000",
+      "timestamp": 1788771379.0
+    },
+    {
+      "title": "Beyond AI: Infrastructuring the Common Good",
+      "link": "https://zenodo.org/records/22276836",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 08:47:38 +0000",
+      "timestamp": 1788770858.0
+    },
+    {
+      "title": "Chess5.ai – Play Chess, Go, Xiangqi, Gomoku, and Othello Against LLMs",
+      "link": "https://chess5.ai/en",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 08:16:04 +0000",
+      "timestamp": 1788768964.0
+    },
+    {
+      "title": "Cory Doctorow on the AI lie [video]",
+      "link": "https://www.youtube.com/watch?v=nTqCVJFr7XM",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 08:08:59 +0000",
+      "timestamp": 1788768539.0
+    },
+    {
+      "title": "Understanding Inference and the Economics of Enterprise AI",
+      "link": "https://www.vistaequitypartners.com/insights/inference-economics-enterprise-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 07:47:40 +0000",
+      "timestamp": 1788767260.0
+    },
+    {
+      "title": "AI economics. OpenAI financials leaked ahead of IPO",
+      "link": "https://nixie.substack.com/p/ai-economics-openai-financials-leaked",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 07:37:03 +0000",
+      "timestamp": 1788766623.0
+    },
+    {
+      "title": "AI Escape Incident Tracker",
+      "link": "https://ai-escape.watch/#registry",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 07:05:25 +0000",
+      "timestamp": 1788764725.0
+    },
+    {
+      "title": "1M Lines of AI-Assisted Code in 2025",
+      "link": "https://jonathanclark.com/posts/ai-coding-million-lines-2025.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 06:44:12 +0000",
+      "timestamp": 1788763452.0
+    },
+    {
+      "title": "Two new ways to study AI-human psychology with persona vectors",
+      "link": "https://github.com/programmer9998/ai_personality_study",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 05:46:31 +0000",
+      "timestamp": 1788759991.0
+    },
+    {
+      "title": "Ask HN: Open-source AI policies and \"responsbility\"",
+      "link": "https://news.ycombinator.com/item?id=49594163",
+      "summary": "A common statement in a number of LLM/AI policies regarding AI assisted contributions across open source projects is that the developer is \"responsible\" for their contribution even if it was made wholly or in part by AI. I understand in layman's terms what this means and I can guess at the intent (essentially you can't blame claude for the code crashing) but responsibility as a word usually implies consequences. In the pre-AI times, were developers who submitted code that lead to crashes or bugs sanctioned in anyway? Perhaps if it were proven to be malicious (e.g. the Jia Tan incident), but us",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 05:19:29 +0000",
+      "timestamp": 1788758369.0
+    },
+    {
+      "title": "AI Index Report",
+      "link": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 05:15:43 +0000",
+      "timestamp": 1788758143.0
+    },
+    {
+      "title": "Will anybody use AI as much as coders do?",
+      "link": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders-do",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 05:03:43 +0000",
+      "timestamp": 1788757423.0
+    },
+    {
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "link": "https://github.com/timgordontg/engrim",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 04:49:36 +0000",
+      "timestamp": 1788756576.0
+    },
+    {
+      "title": "I refused to train the AI that could replace me",
+      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 04:38:22 +0000",
+      "timestamp": 1788755902.0
+    },
     {
       "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
       "link": "https://www.thelec.net/news/articleView.html?idxno=12835",
@@ -30,123 +174,6 @@
       "timestamp": 1788754981.0
     },
     {
-      "title": "I made legacy SOAP APIs usable by AI agents",
-      "link": "https://github.com/bvenkata/legacy2mcp",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 04:20:10 +0000",
-      "timestamp": 1788754810.0
-    },
-    {
-      "title": "'RAMageddon' hits consumer electronics as AI drains chip supply",
-      "link": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 04:07:19 +0000",
-      "timestamp": 1788754039.0
-    },
-    {
-      "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
-      "link": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 04:07:07 +0000",
-      "timestamp": 1788754027.0
-    },
-    {
-      "title": "PL Education in the Age of AI: Interview with Shriram Krishnamurthi",
-      "link": "https://www.typetheoryforall.com/episodes/pl-education-in-the-age-of-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 02:17:33 +0000",
-      "timestamp": 1788747453.0
-    },
-    {
-      "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
-      "link": "https://github.com/redhat-et/ripwire",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 02:11:40 +0000",
-      "timestamp": 1788747100.0
-    },
-    {
-      "title": "A Rogue AI Swarm Could Hide Inside an AI Company [video]",
-      "link": "https://www.youtube.com/watch?v=xRKOpMeEQgQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 02:04:14 +0000",
-      "timestamp": 1788746654.0
-    },
-    {
-      "title": "Fauxnix – bash for AI agents on Windows, no WSL (we measured the PS tax)",
-      "link": "https://github.com/20000419/fauxnix",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 01:43:53 +0000",
-      "timestamp": 1788745433.0
-    },
-    {
-      "title": "Everyone is right about AI",
-      "link": "https://formasimplex.com/blog/2026-09-06-Everyone-is-right-about-AI.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 01:42:31 +0000",
-      "timestamp": 1788745351.0
-    },
-    {
-      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-      "link": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 00:46:01 +0000",
-      "timestamp": 1788741961.0
-    },
-    {
-      "title": "AI Is Already Making Us Less Human",
-      "link": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 00:38:24 +0000",
-      "timestamp": 1788741504.0
-    },
-    {
-      "title": "Prediction of maternal and infant outcomes with a Mother-Child AI agent",
-      "link": "https://doi.org/10.1038/s41591-026-04694-y",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 00:07:08 +0000",
-      "timestamp": 1788739628.0
-    },
-    {
-      "title": "Pivot to AI safety, I beg you",
-      "link": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 23:37:04 +0000",
-      "timestamp": 1788737824.0
-    },
-    {
-      "title": "Genius AI Detector",
-      "link": "https://geniusaidetector.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 23:36:50 +0000",
-      "timestamp": 1788737810.0
-    },
-    {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
       "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
@@ -154,33 +181,6 @@
       "source": "The Verge AI",
       "published": "2026-09-06T19:36:04-04:00",
       "timestamp": 1788737764.0
-    },
-    {
-      "title": "I'm a father who studies the impact of AI: this is what parents need to know",
-      "link": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 23:23:24 +0000",
-      "timestamp": 1788737004.0
-    },
-    {
-      "title": "Have the frontier labs mixed up AI safety and security?",
-      "link": "https://martinalderson.com/posts/ai-safety-vs-security/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 23:18:01 +0000",
-      "timestamp": 1788736681.0
-    },
-    {
-      "title": "PortableMind – Offline AI on a USB",
-      "link": "https://portablemind.io",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 06 Sep 2026 23:12:15 +0000",
-      "timestamp": 1788736335.0
     },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
