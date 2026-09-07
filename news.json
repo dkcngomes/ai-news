@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-09-07T19:57:05.926787+00:00",
+  "scraped_at": "2026-09-07T22:49:17.064398+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Quire – humans and AI agents editing local Markdown together",
+      "link": "https://github.com/heetdalsania/quire",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 22:17:21 +0000",
+      "timestamp": 1788819441.0
+    },
+    {
+      "title": "Lightpanda Session Bridge – Hand real logins to headless AI agents",
+      "link": "https://github.com/Raknaos/lightpanda-session-bridge",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 22:17:06 +0000",
+      "timestamp": 1788819426.0
+    },
+    {
+      "title": "The Better You Are at Programming, the Worse AI Looks [video]",
+      "link": "https://www.youtube.com/watch?v=_590TxMwvWM",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 22:15:34 +0000",
+      "timestamp": 1788819334.0
+    },
+    {
+      "title": "Actually Real AI",
+      "link": "https://actually-real-ai.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 21:26:02 +0000",
+      "timestamp": 1788816362.0
+    },
+    {
+      "title": "Please, take 2 min to tell your representative to regulate AI (US)",
+      "link": "https://actonai.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 21:13:59 +0000",
+      "timestamp": 1788815639.0
+    },
+    {
+      "title": "The smallest edge AI device for local LLMs",
+      "link": "https://tiiny.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 21:09:12 +0000",
+      "timestamp": 1788815352.0
+    },
+    {
+      "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+      "link": "https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 20:22:54 +0000",
+      "timestamp": 1788812574.0
+    },
+    {
+      "title": "Code Reviews in the Age of AI",
+      "link": "https://danielfm.me/posts/code-reviews-in-the-age-of-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 19:54:19 +0000",
+      "timestamp": 1788810859.0
+    },
     {
       "title": "Revise AI, an AI editor for fiction writers",
       "link": "https://www.revise.net",
@@ -118,78 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 07 Sep 2026 18:18:08 +0000",
       "timestamp": 1788805088.0
-    },
-    {
-      "title": "Show HN: See why Google and AI ignore your site and how to fix it",
-      "link": "https://beseen.so",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 18:16:02 +0000",
-      "timestamp": 1788804962.0
-    },
-    {
-      "title": "Arguments in Favor of AI Fair Use",
-      "link": "https://kevinkelly.substack.com/p/arguments-in-favor-of-ai-fair-use",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 18:06:10 +0000",
-      "timestamp": 1788804370.0
-    },
-    {
-      "title": "One place to build, run and govern your company's AI agents",
-      "link": "https://github.com/vstorm-co/agenticos",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 18:05:28 +0000",
-      "timestamp": 1788804328.0
-    },
-    {
-      "title": "10 Brutally Honest Predictions on the Future of AI",
-      "link": "https://www.honest-broker.com/p/10-brutally-honest-predictions-on",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 17:57:02 +0000",
-      "timestamp": 1788803822.0
-    },
-    {
-      "title": "HuggingFace/Kernels: 200 WebGPU Kernels for Local AI",
-      "link": "https://huggingface.co/blog/webgpu-kernels",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 17:48:34 +0000",
-      "timestamp": 1788803314.0
-    },
-    {
-      "title": "Show HN: The Portfolio for Real AI Work",
-      "link": "https://buildyard.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 17:43:52 +0000",
-      "timestamp": 1788803032.0
-    },
-    {
-      "title": "Can AI Replace a Nevada Brothel Sex Worker?",
-      "link": "https://brothelnevada.com/2026/09/05/ai-replace-sex-workers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 16:59:18 +0000",
-      "timestamp": 1788800358.0
-    },
-    {
-      "title": "Sen. Kennedy rails against AI developers as 'high IQ stupid people'",
-      "link": "https://www.politico.com/news/2026/09/06/kennedy-ai-developers-high-iq-stupid-people-01066756",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 16:47:08 +0000",
-      "timestamp": 1788799628.0
     },
     {
       "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
