@@ -1,186 +1,213 @@
 {
-  "scraped_at": "2026-09-08T11:15:54.762418+00:00",
+  "scraped_at": "2026-09-08T15:08:11.752843+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Gen AI Tools Are Now Being Used to Push 'Slop Jihad'",
-      "link": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+      "title": "AI Scraping on the Cheap",
+      "link": "https://www.olafalders.com/2026/09/08/ai-scraping-on-the-cheap/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 11:01:03 +0000",
-      "timestamp": 1788865263.0
+      "published": "Tue, 08 Sep 2026 14:56:12 +0000",
+      "timestamp": 1788879372.0
     },
     {
-      "title": "Playing \"Taboo\" with AI Watermarking",
-      "link": "https://news.ycombinator.com/item?id=49608525",
-      "summary": "Today ChatGPT emitted a design doc that described our service to service messaging architecture as a \"capability fabric\". Notice the double noun, as if the a single 2-part word was thesaurused one word at a time. Unnoticeable they said.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 10:50:19 +0000",
-      "timestamp": 1788864619.0
-    },
-    {
-      "title": "Developer Agency in the Age of AI",
-      "link": "https://languageops.com/blog/the-software-exists-because-of-the-developers-agency/",
+      "title": "Show HN: Edge-AI device that analyzes my cannabis grow, nothing leaves the LAN",
+      "link": "https://croplock.com/blog/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 10:50:04 +0000",
-      "timestamp": 1788864604.0
+      "published": "Tue, 08 Sep 2026 14:53:13 +0000",
+      "timestamp": 1788879193.0
     },
     {
-      "title": "Losing control of AI is the plan",
-      "link": "https://www.theargumentmag.com/p/losing-control-of-ai-is-actually",
+      "title": "Show HN: EndFrame – Demos, launch videos, shorts from the AI plan you pay for",
+      "link": "https://endframe.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 10:47:07 +0000",
-      "timestamp": 1788864427.0
+      "published": "Tue, 08 Sep 2026 14:52:01 +0000",
+      "timestamp": 1788879121.0
     },
     {
-      "title": "Automatically detecting AI text in my browser",
-      "link": "https://www.seangoedecke.com/deckard/",
+      "title": "Two cats, two dogs, four vendors, and the model the AI couldn't find",
+      "link": "https://victoriametrics.com/blog/two-cats-two-dogs-four-vendors-and-the-model-ai-couldnt-find/index.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 10:22:34 +0000",
-      "timestamp": 1788862954.0
+      "published": "Tue, 08 Sep 2026 14:51:50 +0000",
+      "timestamp": 1788879110.0
     },
     {
-      "title": "Vaenyx – A personal AI app for family",
-      "link": "https://github.com/vaenyxai/core",
+      "title": "Does an AI have mercy in games? Fable 5.1 vs. GPT-6",
+      "link": "https://paradise.glyphai.co/research/mercy/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 10:09:52 +0000",
-      "timestamp": 1788862192.0
+      "published": "Tue, 08 Sep 2026 14:31:21 +0000",
+      "timestamp": 1788877881.0
     },
     {
-      "title": "TrustFinder: Deep Search AI",
-      "link": "https://play.google.com/store/apps/details?id=com.popyakter.cheaterbusterai&hl=en_US",
+      "title": "Who Built AI? A Data Story",
+      "link": "https://tylerberbert.com/whobuiltai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 09:32:21 +0000",
-      "timestamp": 1788859941.0
+      "published": "Tue, 08 Sep 2026 14:26:04 +0000",
+      "timestamp": 1788877564.0
     },
     {
-      "title": "PicWish – AI photo editing for product images",
-      "link": "https://picwish.com/",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 08 Sep 2026 14:17:48 +0000",
+      "timestamp": 1788877068.0
+    },
+    {
+      "title": "Show HN: SiteTell: finds the areas of your site that read as AI-generic",
+      "link": "https://www.getsitetell.com/",
+      "summary": "Hey everyone, I built this product called SiteTell. You put in your website url, it returns a list of all of the things across the site that get flagged as likely to be AI-written/AI-generic. It works against a curated rule set (which will obviously get updated as AI models update and evolve) and then you can fix these issues and get a PDF/CSV/JSON file that you can download to either take the suggested fixes yourself and apply them, or use the CSV/JSON file to drop into your agent for it to fix autonomously within minutes. I actually ran it through my first copy of SiteTell and my rule set ga",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 14:16:33 +0000",
+      "timestamp": 1788876993.0
+    },
+    {
+      "title": "I Hardened a Personal AI Agent That Reads My Email, Files, and Desktop",
+      "link": "https://www.practicalsystems.io/blog/how-i-hardened-a-personal-ai-agent",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 09:27:41 +0000",
-      "timestamp": 1788859661.0
+      "published": "Tue, 08 Sep 2026 14:09:22 +0000",
+      "timestamp": 1788876562.0
     },
     {
-      "title": "Arguments in Favor of AI Fair Use",
-      "link": "https://kevinkelly.substack.com/p/arguments-in-favor-of-ai-fair-use",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 09:22:26 +0000",
-      "timestamp": 1788859346.0
+      "published": "Tue, 08 Sep 2026 14:05:57 +0000",
+      "timestamp": 1788876357.0
     },
     {
-      "title": "Show HN: Pomeroy v1, give any AI assistant secure access to native macOS apps",
-      "link": "https://pomeroy.app/connect",
-      "summary": "When I launched Pomeroy last week, I knew I was solving a problem, but I didn't understand the scale! Pretty overwhelmed by the response, and have worked over the weekend to make it EVEN better... So... what could better than giving Claude secure access to your native Apple MacOS apps you ask?.. well, how about connecting ANY AI assistant? That's right... Pomeroy v1 is here, and it's no longer Claude-specific. You can now connect ANY AI assistant to it - Claude, Cursor, Codex, VSCode, Perplexity or even Raycast... the world is your oyster! Same principles apply, nothing leaves your Mac - your ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 08:58:26 +0000",
-      "timestamp": 1788857906.0
-    },
-    {
-      "title": "Türk urges action before AI becomes an 'existential risk to humanity'",
-      "link": "https://news.un.org/en/story/2026/09/1168288",
+      "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
+      "link": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 08:52:29 +0000",
-      "timestamp": 1788857549.0
+      "published": "Tue, 08 Sep 2026 14:05:06 +0000",
+      "timestamp": 1788876306.0
     },
     {
-      "title": "The most advanced and easy to use local AI builder you'll ever see",
-      "link": "https://github.com/markdr-hue/open-fabrica",
+      "title": "It is rational to prefer human-writing over AI content of superior quality",
+      "link": "https://samuelfitoussi.com/posts/it-is-rational-to-prefer-human-content-over-AI-content",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 08:50:57 +0000",
-      "timestamp": 1788857457.0
+      "published": "Tue, 08 Sep 2026 14:04:24 +0000",
+      "timestamp": 1788876264.0
     },
     {
-      "title": "Ask HN: Tagging AI-Related Posts",
-      "link": "https://news.ycombinator.com/item?id=49607487",
-      "summary": "The front page is full of AI-related topics. I'm sick of it, and I think I'm not the only one. Is there a chance we could introduce a tagging system, so it would be easy to hide AI-related posts and find the \"good stuff\" again?",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 08:49:04 +0000",
-      "timestamp": 1788857344.0
+      "source": "The Verge AI",
+      "published": "2026-09-08T10:00:00-04:00",
+      "timestamp": 1788876000.0
     },
     {
-      "title": "Is the UK government the new training ground for AI execs?",
-      "link": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
+      "title": "Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site with Customers",
+      "link": "https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 08:18:06 +0000",
-      "timestamp": 1788855486.0
+      "published": "Tue, 08 Sep 2026 13:59:50 +0000",
+      "timestamp": 1788875990.0
     },
     {
-      "title": "I talked to deep buddy about AI solving Navier Stokes rumors",
-      "link": "https://www.echohive.ai/deep-talk-buddy/navier-stokes",
+      "title": "My Little AI Factory",
+      "link": "https://dominis.blog/blog/my-little-ai-factory/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 07:50:24 +0000",
-      "timestamp": 1788853824.0
+      "published": "Tue, 08 Sep 2026 13:59:18 +0000",
+      "timestamp": 1788875958.0
     },
     {
-      "title": "How AI based programming could work (2016)",
-      "link": "https://bjenik.com/AIBasedProgramming/",
+      "title": "AI may have just solved a million-dollar math problem",
+      "link": "https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 07:46:51 +0000",
-      "timestamp": 1788853611.0
+      "published": "Tue, 08 Sep 2026 13:55:46 +0000",
+      "timestamp": 1788875746.0
     },
     {
-      "title": "Stable Singularity of the Euler Equations on R^3 without forcing – Anima on AI",
-      "link": "https://anima-ai.org/2026/09/07/stable-singularity-of-the-euler-equations-on-r3-without-forcing/",
+      "title": "Apple and AI: Siri the Early Years",
+      "link": "https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 07:34:27 +0000",
-      "timestamp": 1788852867.0
+      "published": "Tue, 08 Sep 2026 13:52:39 +0000",
+      "timestamp": 1788875559.0
     },
     {
-      "title": "Bodhan.ai releases 1.2B ASR model that covers 22 Indian Languages",
-      "link": "https://bodhan.ai/research/blogs/indic-transcribe",
+      "title": "Fake \"Delete\" Button in AI Studio",
+      "link": "https://gist.github.com/istokovicsgyorgy79-jpg/a6f0b4242e3c391bb295193eda010715",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 07:32:39 +0000",
-      "timestamp": 1788852759.0
+      "published": "Tue, 08 Sep 2026 13:50:33 +0000",
+      "timestamp": 1788875433.0
     },
     {
-      "title": "Show HN: Am I replacable – a harness to help humans keep up with AI",
-      "link": "https://amireplaceable.app/",
-      "summary": "Realised 1. There is a growing fear around being replacable and ai making humans dumber since we dont have to critically think as much now. 2. It is incredibly valuable to see where you stand against AI, and improve yourself, so that you can become a better user(prompter) of AI. Lead me to build this MVP. this only tries to capture the context window side of the intelligence we might be losing by using AI more and more. There are many other verticals (attention, long term / short term memory, image, video etc) which can be added too if this idea resonates with people, maybe even a full blown h",
+      "title": "Aschenbrenner claimed to know the future of AI. His investors lost billions",
+      "link": "https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/",
+      "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 07:24:14 +0000",
-      "timestamp": 1788852254.0
+      "published": "Tue, 08 Sep 2026 13:50:22 +0000",
+      "timestamp": 1788875422.0
     },
     {
-      "title": "In the age of AI what use is left for a personal computer?",
-      "link": "https://news.ycombinator.com/item?id=49606689",
-      "summary": "I was thinking to buy a personal computer but don't know what I will use it for. Any thoughts?",
+      "title": "AI in Recruitment: How to Stand Out in Modern Selection Processes",
+      "link": "https://www.foxapply.com/blog/en/artificial-intelligence-recruitment-how-to-stand-out",
+      "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 07:20:27 +0000",
-      "timestamp": 1788852027.0
+      "published": "Tue, 08 Sep 2026 13:47:47 +0000",
+      "timestamp": 1788875267.0
+    },
+    {
+      "title": "We Must Return to the Office to Use AI in Person",
+      "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 13:41:25 +0000",
+      "timestamp": 1788874885.0
+    },
+    {
+      "title": "Real Business Plan Generator with AI Tool for Free",
+      "link": "https://news.ycombinator.com/item?id=49610069",
+      "summary": "The tool I created offers 100% customized Business Plan evaluation and development, considering certain resources, ideas, niche, etc. Take a look and try once to get your ideas with confidence: https://free-ai-tools-hub.com/tools/ai-business-plan-generator",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 13:27:23 +0000",
+      "timestamp": 1788874043.0
+    },
+    {
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-08T09:00:00-04:00",
+      "timestamp": 1788872400.0
     },
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -426,15 +453,6 @@
       "timestamp": 1788518655.0
     },
     {
-      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-04T06:41:48-04:00",
-      "timestamp": 1788518508.0
-    },
-    {
       "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
       "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
       "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
@@ -442,15 +460,6 @@
       "source": "Wired AI",
       "published": "Fri, 04 Sep 2026 10:00:00 +0000",
       "timestamp": 1788516000.0
-    },
-    {
-      "title": "This NAS company wants to run your local smart home",
-      "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-04T05:41:44-04:00",
-      "timestamp": 1788514904.0
     },
     {
       "title": "The sameness problem behind those unappetizing AI-generated menus",
@@ -523,15 +532,6 @@
       "source": "Wired AI",
       "published": "Thu, 03 Sep 2026 18:06:24 +0000",
       "timestamp": 1788458784.0
-    },
-    {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 03 Sep 2026 18:01:45 +0000",
-      "timestamp": 1788458505.0
     },
     {
       "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
