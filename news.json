@@ -1,114 +1,51 @@
 {
-  "scraped_at": "2026-09-08T15:08:11.752843+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-08T18:38:56.237701+00:00",
+  "count": 40,
   "items": [
     {
-      "title": "AI Scraping on the Cheap",
-      "link": "https://www.olafalders.com/2026/09/08/ai-scraping-on-the-cheap/",
-      "summary": "",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:56:12 +0000",
-      "timestamp": 1788879372.0
+      "source": "TechCrunch AI",
+      "published": "Tue, 08 Sep 2026 17:32:15 +0000",
+      "timestamp": 1788888735.0
     },
     {
-      "title": "Show HN: Edge-AI device that analyzes my cannabis grow, nothing leaves the LAN",
-      "link": "https://croplock.com/blog/",
-      "summary": "",
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:53:13 +0000",
-      "timestamp": 1788879193.0
+      "source": "Wired AI",
+      "published": "Tue, 08 Sep 2026 16:42:05 +0000",
+      "timestamp": 1788885725.0
     },
     {
-      "title": "Show HN: EndFrame – Demos, launch videos, shorts from the AI plan you pay for",
-      "link": "https://endframe.ai/",
-      "summary": "",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:52:01 +0000",
-      "timestamp": 1788879121.0
+      "source": "TechCrunch AI",
+      "published": "Tue, 08 Sep 2026 16:20:31 +0000",
+      "timestamp": 1788884431.0
     },
     {
-      "title": "Two cats, two dogs, four vendors, and the model the AI couldn't find",
-      "link": "https://victoriametrics.com/blog/two-cats-two-dogs-four-vendors-and-the-model-ai-couldnt-find/index.html",
-      "summary": "",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:51:50 +0000",
-      "timestamp": 1788879110.0
-    },
-    {
-      "title": "Does an AI have mercy in games? Fable 5.1 vs. GPT-6",
-      "link": "https://paradise.glyphai.co/research/mercy/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:31:21 +0000",
-      "timestamp": 1788877881.0
-    },
-    {
-      "title": "Who Built AI? A Data Story",
-      "link": "https://tylerberbert.com/whobuiltai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:26:04 +0000",
-      "timestamp": 1788877564.0
+      "source": "TechCrunch AI",
+      "published": "Tue, 08 Sep 2026 15:04:09 +0000",
+      "timestamp": 1788879849.0
     },
     {
       "title": "Mistral raises €3B as sovereign AI becomes big business",
       "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 08 Sep 2026 14:17:48 +0000",
       "timestamp": 1788877068.0
-    },
-    {
-      "title": "Show HN: SiteTell: finds the areas of your site that read as AI-generic",
-      "link": "https://www.getsitetell.com/",
-      "summary": "Hey everyone, I built this product called SiteTell. You put in your website url, it returns a list of all of the things across the site that get flagged as likely to be AI-written/AI-generic. It works against a curated rule set (which will obviously get updated as AI models update and evolve) and then you can fix these issues and get a PDF/CSV/JSON file that you can download to either take the suggested fixes yourself and apply them, or use the CSV/JSON file to drop into your agent for it to fix autonomously within minutes. I actually ran it through my first copy of SiteTell and my rule set ga",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:16:33 +0000",
-      "timestamp": 1788876993.0
-    },
-    {
-      "title": "I Hardened a Personal AI Agent That Reads My Email, Files, and Desktop",
-      "link": "https://www.practicalsystems.io/blog/how-i-hardened-a-personal-ai-agent",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:09:22 +0000",
-      "timestamp": 1788876562.0
-    },
-    {
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:05:57 +0000",
-      "timestamp": 1788876357.0
-    },
-    {
-      "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
-      "link": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:05:06 +0000",
-      "timestamp": 1788876306.0
-    },
-    {
-      "title": "It is rational to prefer human-writing over AI content of superior quality",
-      "link": "https://samuelfitoussi.com/posts/it-is-rational-to-prefer-human-content-over-AI-content",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 14:04:24 +0000",
-      "timestamp": 1788876264.0
     },
     {
       "title": "Google’s Atlas of the human genome could pave the way for new treatments",
@@ -118,87 +55,6 @@
       "source": "The Verge AI",
       "published": "2026-09-08T10:00:00-04:00",
       "timestamp": 1788876000.0
-    },
-    {
-      "title": "Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site with Customers",
-      "link": "https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 13:59:50 +0000",
-      "timestamp": 1788875990.0
-    },
-    {
-      "title": "My Little AI Factory",
-      "link": "https://dominis.blog/blog/my-little-ai-factory/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 13:59:18 +0000",
-      "timestamp": 1788875958.0
-    },
-    {
-      "title": "AI may have just solved a million-dollar math problem",
-      "link": "https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 13:55:46 +0000",
-      "timestamp": 1788875746.0
-    },
-    {
-      "title": "Apple and AI: Siri the Early Years",
-      "link": "https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 13:52:39 +0000",
-      "timestamp": 1788875559.0
-    },
-    {
-      "title": "Fake \"Delete\" Button in AI Studio",
-      "link": "https://gist.github.com/istokovicsgyorgy79-jpg/a6f0b4242e3c391bb295193eda010715",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 13:50:33 +0000",
-      "timestamp": 1788875433.0
-    },
-    {
-      "title": "Aschenbrenner claimed to know the future of AI. His investors lost billions",
-      "link": "https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 13:50:22 +0000",
-      "timestamp": 1788875422.0
-    },
-    {
-      "title": "AI in Recruitment: How to Stand Out in Modern Selection Processes",
-      "link": "https://www.foxapply.com/blog/en/artificial-intelligence-recruitment-how-to-stand-out",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 13:47:47 +0000",
-      "timestamp": 1788875267.0
-    },
-    {
-      "title": "We Must Return to the Office to Use AI in Person",
-      "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 13:41:25 +0000",
-      "timestamp": 1788874885.0
-    },
-    {
-      "title": "Real Business Plan Generator with AI Tool for Free",
-      "link": "https://news.ycombinator.com/item?id=49610069",
-      "summary": "The tool I created offers 100% customized Business Plan evaluation and development, considering certain resources, ideas, niche, etc. Take a look and try once to get your ideas with confidence: https://free-ai-tools-hub.com/tools/ai-business-plan-generator",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 13:27:23 +0000",
-      "timestamp": 1788874043.0
     },
     {
       "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
@@ -498,33 +354,6 @@
       "timestamp": 1788472104.0
     },
     {
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 03 Sep 2026 19:36:29 +0000",
-      "timestamp": 1788464189.0
-    },
-    {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 03 Sep 2026 18:37:57 +0000",
-      "timestamp": 1788460677.0
-    },
-    {
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "timestamp": 1788459596.0
-    },
-    {
       "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
       "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
       "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
@@ -532,15 +361,6 @@
       "source": "Wired AI",
       "published": "Thu, 03 Sep 2026 18:06:24 +0000",
       "timestamp": 1788458784.0
-    },
-    {
-      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-      "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-      "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 03 Sep 2026 16:42:40 +0000",
-      "timestamp": 1788453760.0
     }
   ]
 }
