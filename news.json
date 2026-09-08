@@ -1,7 +1,61 @@
 {
-  "scraped_at": "2026-09-07T22:49:17.064398+00:00",
+  "scraped_at": "2026-09-08T01:11:17.811494+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Anthropic AI 'formalizes' proof of Fermat's last theorem in just 11 days",
+      "link": "https://www.nature.com/articles/d41586-026-02822-9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 00:07:07 +0000",
+      "timestamp": 1788826027.0
+    },
+    {
+      "title": "Secure temporary file sharing for AI agents and humans",
+      "link": "https://github.com/aispace-sh/aispace-client",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 23:59:58 +0000",
+      "timestamp": 1788825598.0
+    },
+    {
+      "title": "WeatherNext 3: Our most advanced global weather AI model",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 23:56:41 +0000",
+      "timestamp": 1788825401.0
+    },
+    {
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 23:27:53 +0000",
+      "timestamp": 1788823673.0
+    },
+    {
+      "title": "Meta's AI Crawler Crashing My DB, and What I Did About It",
+      "link": "https://usero.io/blog/meta-ai-crawler-crashing-my-db",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 23:20:45 +0000",
+      "timestamp": 1788823245.0
+    },
+    {
+      "title": "Cloudflare hid my site from AI. I sell AI visibility",
+      "link": "https://foundash-ai.github.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 07 Sep 2026 22:58:04 +0000",
+      "timestamp": 1788821884.0
+    },
     {
       "title": "Quire – humans and AI agents editing local Markdown together",
       "link": "https://github.com/heetdalsania/quire",
@@ -136,60 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Mon, 07 Sep 2026 18:57:17 +0000",
       "timestamp": 1788807437.0
-    },
-    {
-      "title": "The Foundations of Modern AI: Generalization, Data Selection, and Epiplexity",
-      "link": "https://www.youtube.com/watch?v=lKoJJxjUfdw",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 18:54:08 +0000",
-      "timestamp": 1788807248.0
-    },
-    {
-      "title": "Ask HN: How do you know a prompt is \"complex\" for an AI model?",
-      "link": "https://news.ycombinator.com/item?id=49601670",
-      "summary": "I’m trying to balance API costs and latency in my applications. Right now, I default to frontier models (Claude Sonnet) because they are reliable, but I know I’m overpaying for tasks that smaller models (like Haiku, or lite open source models) could likely handle.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 18:54:08 +0000",
-      "timestamp": 1788807248.0
-    },
-    {
-      "title": "The AI Shift Turning Everyday Investors into Mini Quant Funds",
-      "link": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 18:27:14 +0000",
-      "timestamp": 1788805634.0
-    },
-    {
-      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-      "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 18:24:32 +0000",
-      "timestamp": 1788805472.0
-    },
-    {
-      "title": "Show HN: Can you tell a real tweet of a certain user from an AI one?",
-      "link": "https://socialsimbench.com/",
-      "summary": "Just a small game I coded up for research. After some limited tests, people tend to pick the AI-written post as the real one more than 55% of the time, almost 60%. So apparently LLMs kinda pass the Turing test when it comes to social media posts and not even general social media posts, but posts of a specific user!?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 18:20:48 +0000",
-      "timestamp": 1788805248.0
-    },
-    {
-      "title": "Adobe ends an 18-year era as AI pressure mounts",
-      "link": "https://sg.finance.yahoo.com/news/adobe-ends-18-era-ai-191300355.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 07 Sep 2026 18:18:08 +0000",
-      "timestamp": 1788805088.0
     },
     {
       "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
