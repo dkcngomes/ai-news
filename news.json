@@ -1,7 +1,151 @@
 {
-  "scraped_at": "2026-09-08T21:50:09.363273+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-09T00:12:52.520021+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "Show HN: AI Stack Selector Tool",
+      "link": "https://augmentorlabs.com/manifest",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 23:52:33 +0000",
+      "timestamp": 1788911553.0
+    },
+    {
+      "title": "Linux desktop image editor with local AI",
+      "link": "https://github.com/cthackers/inpaint",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 23:29:28 +0000",
+      "timestamp": 1788910168.0
+    },
+    {
+      "title": "Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]",
+      "link": "https://media.defense.gov/2026/Sep/08/2003992823/-1/-1/1/CSA_CHINA_BASED_AI_COMPANIES_MALICIOUS_DISTILLATION_AGAINST_US.PDF",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 23:28:43 +0000",
+      "timestamp": 1788910123.0
+    },
+    {
+      "title": "Buckmaster raising alarms that AI corporations snooped on their research",
+      "link": "https://social.coop/@cwebber/117236126658335889",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 23:12:29 +0000",
+      "timestamp": 1788909149.0
+    },
+    {
+      "title": "An anti-RAG AI memory in Rust that intentionally forgets and hallucinates",
+      "link": "https://github.com/jbsalles/Selmem",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 23:12:28 +0000",
+      "timestamp": 1788909148.0
+    },
+    {
+      "title": "Feds accuse China of 'systematic' distillation of U.S. AI models",
+      "link": "https://cyberscoop.com/us-accuses-chinese-ai-companies-distillation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 23:12:21 +0000",
+      "timestamp": 1788909141.0
+    },
+    {
+      "title": "How to manage a growing fleet of AI agents with Latitude",
+      "link": "https://latitude.so/blog/how-to-manage-a-fleet-of-agents-with-latitude",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 22:39:45 +0000",
+      "timestamp": 1788907185.0
+    },
+    {
+      "title": "Hacking Cable: AI in post-exploitation operations",
+      "link": "https://palisaderesearch.org/blog/hacking-cable",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 22:35:54 +0000",
+      "timestamp": 1788906954.0
+    },
+    {
+      "title": "Solo.io Pushes Agentic AI Governance to the Desktop: Open-Source Agentdesktop",
+      "link": "https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 22:32:51 +0000",
+      "timestamp": 1788906771.0
+    },
+    {
+      "title": "Despite the chatter, AI pricing is not converging on a model",
+      "link": "https://www.solvimon.com/blog/ai-pricing-not-converging-on-single-model",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 22:30:50 +0000",
+      "timestamp": 1788906650.0
+    },
+    {
+      "title": "Open Models Change the Economics of AI [video]",
+      "link": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 22:29:33 +0000",
+      "timestamp": 1788906573.0
+    },
+    {
+      "title": "The DOJ's AI Fair Use Brief Is Correct, but from a DOJ That Has No Credibility",
+      "link": "https://www.techdirt.com/2026/09/08/the-dojs-ai-fair-use-brief-is-correct-but-from-a-doj-that-has-no-credibility/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 22:23:07 +0000",
+      "timestamp": 1788906187.0
+    },
+    {
+      "title": "Show HN: SagaShield – ACID transactions and security guardrails for AI agents",
+      "link": "https://github.com/sebastianmechno-sys/sagashield",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 22:16:00 +0000",
+      "timestamp": 1788905760.0
+    },
+    {
+      "title": "The AI-Native SDLC Playbook",
+      "link": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 21:50:31 +0000",
+      "timestamp": 1788904231.0
+    },
+    {
+      "title": "Show HN: Routi Bot – AI bots with their own desktops on your Mac",
+      "link": "https://github.com/narralabs/routi/",
+      "summary": "been working on Routi Bot. an open source mac app inspired by Grok Bot. each bot has its own instructions, desktop and can be used with AI provider/model (openai astra, claude fable, deepseek, grok, etc). it also has a profile switcher so you can separate automation between your personal and work profiles.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 21:50:00 +0000",
+      "timestamp": 1788904200.0
+    },
+    {
+      "title": "The AI-Native SDLC Starts with Your Infrastructure",
+      "link": "https://metalbear.com/blog/ai-native-sdlc-infrastructure/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 08 Sep 2026 21:45:55 +0000",
+      "timestamp": 1788903955.0
+    },
     {
       "title": "A Highly Productive Dark Age: The Impact of AI on Mathematics",
       "link": "https://ev12183725.substack.com/p/a-highly-productive-dark-age",
@@ -57,15 +201,6 @@
       "timestamp": 1788901252.0
     },
     {
-      "title": "There has to be an in between with AI coding",
-      "link": "https://gabrielsampson.com/blog/there-has-to-be-an-in-between-with-ai-coding/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 20:59:25 +0000",
-      "timestamp": 1788901165.0
-    },
-    {
       "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
       "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [&#8230;]",
@@ -73,42 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-09-08T16:53:52-04:00",
       "timestamp": 1788900832.0
-    },
-    {
-      "title": "Research on Outbound B2B Prospecting with AI",
-      "link": "https://news.ycombinator.com/item?id=49616876",
-      "summary": "Hi ! I'm finishing my MBA and I'm researching where AI actually helps (or doesn't) in outbound B2B prospecting. Given your experience, your answer would mean a lot: 10 min, anonymous → https://ai-sales-b2b-research-denis.vercel.app/ — for every 30 valid responses I will raffle a US$50/€50 Amazon gift card. The results will be public.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 20:53:49 +0000",
-      "timestamp": 1788900829.0
-    },
-    {
-      "title": "Poisoning AI Scrapers (2024)",
-      "link": "https://www.brainonfire.net/blog/2024/09/19/poisoning-ai-scrapers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 20:39:13 +0000",
-      "timestamp": 1788899953.0
-    },
-    {
-      "title": "Taint tracking on AI agent traces: 0.48 precision on AgentDojo",
-      "link": "https://github.com/IdoGol24/weir",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 20:33:04 +0000",
-      "timestamp": 1788899584.0
-    },
-    {
-      "title": "How long before a real crackdown on AI model decensoring?",
-      "link": "https://www.unite.ai/how-long-before-a-real-crackdown-on-ai-model-decensoring/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 20:22:12 +0000",
-      "timestamp": 1788898932.0
     },
     {
       "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
@@ -127,105 +226,6 @@
       "source": "Wired AI",
       "published": "Tue, 08 Sep 2026 20:12:51 +0000",
       "timestamp": 1788898371.0
-    },
-    {
-      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads",
-      "link": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:43:54 +0000",
-      "timestamp": 1788896634.0
-    },
-    {
-      "title": "The AI Bill of Materials Is an Operational Record",
-      "link": "https://jasondoyle.ie/whitepapers/the-ai-bill-of-materials-is-an-operational-record/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:42:32 +0000",
-      "timestamp": 1788896552.0
-    },
-    {
-      "title": "Show HN: PortraitDesk – A headshot tool that doesn't look like AI slop",
-      "link": "https://portraitdesk.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:39:26 +0000",
-      "timestamp": 1788896366.0
-    },
-    {
-      "title": "Muse AI",
-      "link": "https://twitter.com/finkd/status/2097402101332590646",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:32:34 +0000",
-      "timestamp": 1788895954.0
-    },
-    {
-      "title": "Show HN: Remarc – better contextual feedback for AI agents",
-      "link": "https://github.com/metedata/Remarc",
-      "summary": "Like any side project, Remarc started with my own problem: there was no good way to give AI coding agents contextual feedback on their own output. There are plenty of tools for collaborating with humans, but surprisingly few for collaborating with AI. Chat was not cutting it for the feedback I wanted to give: This thing in the implementation plan? Change it to that. What did you mean here? See this button? Here is a screenshot. I circled it because it is missing a hover state. This sentence in the third paragraph? Rephrase it. If you are an opinionated builder, this gets clunky quickly. You ei",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:31:40 +0000",
-      "timestamp": 1788895900.0
-    },
-    {
-      "title": "Meta Introduces Muse, an AI Agent That Can Send Your Emails and Book Your Travel",
-      "link": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:27:40 +0000",
-      "timestamp": 1788895660.0
-    },
-    {
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
-      "link": "https://ai.meta.com/muse/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:25:00 +0000",
-      "timestamp": 1788895500.0
-    },
-    {
-      "title": "Drawing the Line on AI – Bluesky Thread",
-      "link": "https://bsky.app/profile/jalexandercohen.com/post/3muzpqgguc52a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:20:50 +0000",
-      "timestamp": 1788895250.0
-    },
-    {
-      "title": "Muse by Meta: The First Personal AI Agent Built for Everyone",
-      "link": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:17:34 +0000",
-      "timestamp": 1788895054.0
-    },
-    {
-      "title": "Muse, your personal AI agent from Meta",
-      "link": "https://twitter.com/muse/status/2097399178376671666",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:14:35 +0000",
-      "timestamp": 1788894875.0
-    },
-    {
-      "title": "The complex corporate web behind a $3.2B AI data center",
-      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 08 Sep 2026 19:09:56 +0000",
-      "timestamp": 1788894596.0
     },
     {
       "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
@@ -505,15 +505,6 @@
       "source": "Wired AI",
       "published": "Fri, 04 Sep 2026 15:00:00 +0000",
       "timestamp": 1788534000.0
-    },
-    {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 04 Sep 2026 14:47:11 +0000",
-      "timestamp": 1788533231.0
     },
     {
       "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
