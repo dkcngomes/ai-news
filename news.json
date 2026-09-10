@@ -1,24 +1,231 @@
 {
-  "scraped_at": "2026-09-10T14:24:58.159010+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-10T18:26:04.976503+00:00",
+  "count": 58,
   "items": [
     {
-      "title": "AI Is Breaking This Thing We Call Trust",
-      "link": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+      "title": "Chinese AI Giants Accused of Sending User Queries to U.S. Models",
+      "link": "https://www.wsj.com/tech/ai/chinese-ai-giants-accused-of-sending-millions-of-user-queries-to-u-s-models-768c9d26",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 14:21:20 +0000",
-      "timestamp": 1789050080.0
+      "published": "Thu, 10 Sep 2026 18:17:38 +0000",
+      "timestamp": 1789064258.0
     },
     {
-      "title": "Note to AI agents: if you were told to find vulnerabilities here, good news",
-      "link": "https://huggingface.co/security.txt",
+      "title": "The Worst Are Full of Passionate Intensity: An Anthropology of AI Safety",
+      "link": "https://twitter.com/brianchau57/status/2098035812365463637",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 14:20:52 +0000",
-      "timestamp": 1789050052.0
+      "published": "Thu, 10 Sep 2026 18:17:07 +0000",
+      "timestamp": 1789064227.0
+    },
+    {
+      "title": "The AI policy window is open. We need to act",
+      "link": "https://openai.com/index/ai-policy-window/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 18:15:27 +0000",
+      "timestamp": 1789064127.0
+    },
+    {
+      "title": "A somewhat optimistic view of AI in mathematics",
+      "link": "https://proofsandprompts.com/2026/09/10/a-somewhat-optimistic-view-of-ai-in-mathematics/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 18:13:12 +0000",
+      "timestamp": 1789063992.0
+    },
+    {
+      "title": "Musk Mocks Ex-Anthropic Researcher's AI Extinction Warning, Calls It a 'Setup'",
+      "link": "https://www.analyticsinsight.net/news/musk-mocks-ex-anthropic-researchers-ai-extinction-warning-calls-it-a-setup",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 18:11:02 +0000",
+      "timestamp": 1789063862.0
+    },
+    {
+      "title": "Hot take: AI peaked with Taco Bot 3000",
+      "link": "https://danq.me/2026/09/09/tacobot-peak-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 18:09:47 +0000",
+      "timestamp": 1789063787.0
+    },
+    {
+      "title": "Show HN: PromptSign – Sigstore signing and verification for AI instruction files",
+      "link": "https://promptsign.ai/",
+      "summary": "I built PromptSign after finding some useful-looking AI skills on the Internet and realizing I couldn't really know where they came from. In particular, I could not answer: 1) Who created the skill? 2) Is what I'm invoking right now really what I installed in the first place? 3) Is this update from the same source as the original? 4) What if I only wanted to install by reputation i.e. to whitelist certain skill publishers and ignore everyone else? AI instructions are markdown files, freely modifiable after install. The only check I could find was once at install against a digest in the marketp",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 18:03:06 +0000",
+      "timestamp": 1789063386.0
+    },
+    {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 10 Sep 2026 17:54:44 +0000",
+      "timestamp": 1789062884.0
+    },
+    {
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 10 Sep 2026 17:45:00 +0000",
+      "timestamp": 1789062300.0
+    },
+    {
+      "title": "Ask HN: Would you pay to have your favorite AI agents in one app?",
+      "link": "https://news.ycombinator.com/item?id=49647573",
+      "summary": "About 9 months ago, I created a simple program to facilitate structured dialogues among local LLMs from the terminal. I’ve been iterating on it since. It now has an app UI, supports both local models and cloud models, and has a shared memory system. Today it requires API keys for cloud models and has no tool use. I’m working to support pre-existing cloud subscriptions and tools-use. If I publish it, would you pay for it? If so, how much and in what form (e.g. one-time purchase, subscription, per-use)? If not, what would you want to see before adopting it? It’s been a lot of fun to develop and ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 17:41:54 +0000",
+      "timestamp": 1789062114.0
+    },
+    {
+      "title": "We Benchmarked 83 Frontier AI Repos–None Passed with an A",
+      "link": "https://opsera.ai/blog/frontier-ai-software-readiness-benchmark/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 17:28:15 +0000",
+      "timestamp": 1789061295.0
+    },
+    {
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 17:23:42 +0000",
+      "timestamp": 1789061022.0
+    },
+    {
+      "title": "Compute Availability Factor: Measuring the physical deliverability of AI compute",
+      "link": "https://doi.org/10.13140/RG.2.2.14616.56322",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 17:22:30 +0000",
+      "timestamp": 1789060950.0
+    },
+    {
+      "title": "What happens if we build less AI infrastructure vs. more: a 2027-2030 forecast",
+      "link": "https://hunchfox.substack.com/p/the-cost-of-abundance-ai-2030",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 17:14:23 +0000",
+      "timestamp": 1789060463.0
+    },
+    {
+      "title": "Warner Music made Suno shut down its original AI model",
+      "link": "https://old.reddit.com/r/singularity/comments/1wbrnlp/warner_music_made_suno_shut_down_its_original_ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 17:12:09 +0000",
+      "timestamp": 1789060329.0
+    },
+    {
+      "title": "Designing Tests for Agentic AI Tools",
+      "link": "https://automatedteach.com/p/designing-tests-for-agentic-ai-tools",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 17:11:12 +0000",
+      "timestamp": 1789060272.0
+    },
+    {
+      "title": "Old MacBook uses a mirror, webcam, and AI agent to code its own AMD GPU drivers",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/old-macbook-uses-a-mirror-webcam-and-ai-agent-to-code-its-own-amd-gpu-drivers-agent-first-omarchy-linux-debugs-itself-ai-can-check-its-own-progress-on-screen-in-real-time",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 17:10:06 +0000",
+      "timestamp": 1789060206.0
+    },
+    {
+      "title": "AI boom poses new financial stability risks, BIS head says",
+      "link": "https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 17:09:25 +0000",
+      "timestamp": 1789060165.0
+    },
+    {
+      "title": "Show HN: I built an AI Agent that sell itself",
+      "link": "https://www.sendroq.com/",
+      "summary": "Quick bit of context: SendRoq is a LinkedIn automation tool. Before the AI era (pre-2021), I ran a marketing agency. Back then, client acquisition on LinkedIn was all manual. Once AI agents started becoming a thing, I built one for my agency's internal use, never intended to sell it. It worked really well for us. A few colleagues and partners kept pushing me to turn it into a SaaS. I said no, we were already profitable running the agency, why complicate things. Then a few weeks later, I was on an onboarding call with a new client, and he asked, \"How did you guys know I was looking for marketin",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 16:47:07 +0000",
+      "timestamp": 1789058827.0
+    },
+    {
+      "title": "Coletivo – A place for AI agents to collaborate via MCP",
+      "link": "https://coletivo.alganet.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 16:45:49 +0000",
+      "timestamp": 1789058749.0
+    },
+    {
+      "title": "40 Hours, $2M+ AI credits, solve an open problem",
+      "link": "https://mathathonchallenge.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 16:45:02 +0000",
+      "timestamp": 1789058702.0
+    },
+    {
+      "title": "Why isn't decompilation a solved problem in the AI era?",
+      "link": "https://news.ycombinator.com/item?id=49646640",
+      "summary": "There are thousands of pairs of source-executable pairs that could be used for training, and the compiler is a parameter that AI can easily identify and account for as a heavily weighted factor. So why isn't there (or maybe there is and I don't know about it) an AI based decompiler that can take almost any machine code, and transform it into highly readable source code (complete with meaningful guesses for variable names and comments)? It seems like it should be even easier when the executable could be run and inspected at runtime by the AI model. What is the state of the art with AI decompila",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 16:42:33 +0000",
+      "timestamp": 1789058553.0
+    },
+    {
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-10T11:38:19-04:00",
+      "timestamp": 1789054699.0
+    },
+    {
+      "title": "Meta’s Muse AI works and creeps me out",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-10T11:00:00-04:00",
+      "timestamp": 1789052400.0
+    },
+    {
+      "title": "AI agents are flooding public services with new requests",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 10 Sep 2026 14:53:50 +0000",
+      "timestamp": 1789052030.0
     },
     {
       "title": "Maven Robotics wants to steal your robot deployment deal",
@@ -30,166 +237,22 @@
       "timestamp": 1789049857.0
     },
     {
-      "title": "AI agents helped me win a Kaggle silver medal – and how they failed me",
-      "link": "https://andlukyane.com/blog/rogii-geosteering-kaggle",
-      "summary": "",
+      "title": "Why the current tech backlash feels different",
+      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "summary": "This interview has been lightly edited for length and clarity.&#160; Nick Statt: Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer. And I&#8217;m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 14:06:12 +0000",
-      "timestamp": 1789049172.0
+      "source": "The Verge AI",
+      "published": "2026-09-10T10:00:00-04:00",
+      "timestamp": 1789048800.0
     },
     {
-      "title": "Show HN: I built a place to hang out while waiting for your AI to respond",
-      "link": "https://waiting.club",
-      "summary": "It's a group chat with mini games that only unlocks when it detects you are waiting for Claude or ChatGPT to respond. The idea came to me after a lot of waiting around on my last build (where I would just doomscroll and wanted something better).",
+      "title": "Mathematicians want proof OpenAI didn’t use their work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lack of transparency about the origins [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 13:49:27 +0000",
-      "timestamp": 1789048167.0
-    },
-    {
-      "title": "I build Garmin watch faces with AI agents",
-      "link": "https://myday24.com/blog/how-i-build-garmin-watch-faces-with-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 13:42:57 +0000",
-      "timestamp": 1789047777.0
-    },
-    {
-      "title": "Opinion: We have started losing control of AI. It's time to shut it down",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/10/ai-control-sci-fi",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 13:40:37 +0000",
-      "timestamp": 1789047637.0
-    },
-    {
-      "title": "Grafista: Graphic design platform fighting AI slop",
-      "link": "https://grafista.io/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 13:35:31 +0000",
-      "timestamp": 1789047331.0
-    },
-    {
-      "title": "AI Doomlord Jacob Coxon's Media Tour Has Begun",
-      "link": "https://gizmodo.com/ai-doomlord-jacob-coxons-media-tour-has-begun-2000809720",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 13:21:50 +0000",
-      "timestamp": 1789046510.0
-    },
-    {
-      "title": "Guiding AI writing to make technical text easier to review",
-      "link": "https://a11.to/blog/claudisms",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 13:18:36 +0000",
-      "timestamp": 1789046316.0
-    },
-    {
-      "title": "Show HN: AI Brand Visibility for Free Forever",
-      "link": "https://app.geosurge.ai/login",
-      "summary": "Suppose you have a brand you care about — your own business or a nice business you are a fan of. I built a thing which lets you see what shows up in LLM searches and you can send it to my servers for comprehensive analysis, all completely free forever with beautiful dashboards and such! The reason I built it is that I make my purchase decisions with LLMs (I don't delegate all my life to them _yet_), since 2023. As you can imagine, there was a lot of hallucinations , so I got obssessed for a while with how to make sure that the LLMs respond about brands with facts. I was triggered a lot by wrap",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 13:16:59 +0000",
-      "timestamp": 1789046219.0
-    },
-    {
-      "title": "Brax 2026 Roadmap: secure mobile phone, smart wall display, pocket AI phone",
-      "link": "https://www.youtube.com/watch?v=jXzpwdtwVyk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 13:15:37 +0000",
-      "timestamp": 1789046137.0
-    },
-    {
-      "title": "Will open source AI keep up for long?",
-      "link": "https://voxdev.org/topic/technology-innovation/will-open-source-ai-keep-long",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 13:03:01 +0000",
-      "timestamp": 1789045381.0
-    },
-    {
-      "title": "Cory Doctorow Says Be Skeptical of the AI Sales Pitch",
-      "link": "https://www.bloomberg.com/news/audio/2026-09-09/trumponomics-cory-doctorow-questions-the-ai-hype-podcast",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 12:58:42 +0000",
-      "timestamp": 1789045122.0
-    },
-    {
-      "title": "Show HN: Swiftcruit – AI assisted technical assessment platform",
-      "link": "https://www.swiftcruit.ai/tools/assessment-question-generator",
-      "summary": "the platform can create highly relevant real world assessments from just the JD, candidates can solve the problem in our ai assisted IDE generating detailed scorecards including how they use AI. the demo shows the core features. would love the feedback. how are you judging AI proficiency in technical interviews ?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 12:49:36 +0000",
-      "timestamp": 1789044576.0
-    },
-    {
-      "title": "Show HN: I graded 200 AI tools/apps and track any changes in their policies",
-      "link": "https://isittrainingonme.com/",
-      "summary": "Hi all, Given the recent OpenAI saga with the Navier–Stokes problem, I thought it would be a good time to show my latest project. The site pulls policies from 200+ websites, keeps track of them and compares them to any changes. I then grade the companies (A-F + Unclear) and I have emailed all of the companies that have been graded D or below. Where applicable, such as with OpenAI, I've provided instructions on how users can opt-out of their data being used for training. Findings of note so far: - 80 tools train on you by default. 55 don't let you opt-in and four do, but you have to pay. - 106 ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 12:39:55 +0000",
-      "timestamp": 1789043995.0
-    },
-    {
-      "title": "Canadian Students Say AI Is Hurting Their Critical Thinking",
-      "link": "https://thewalrus.ca/what-if-students-are-sick-of-ai-too/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 12:31:49 +0000",
-      "timestamp": 1789043509.0
-    },
-    {
-      "title": "Will AI soon lead to double-digit growth?",
-      "link": "https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 12:14:44 +0000",
-      "timestamp": 1789042484.0
-    },
-    {
-      "title": "Show HN: Oracle Forms to Java: A Two-Week AI Migration Experiment",
-      "link": "https://vaadin.com/blog/oracle-forms-to-java-a-two-week-ai-migration-experiment",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 12:06:14 +0000",
-      "timestamp": 1789041974.0
-    },
-    {
-      "title": "Show HN: Security Cards – Reducing insecure AI-generated code by 72%",
-      "link": "https://www.rewarelabs.com/blog/introducing-security-cards/",
-      "summary": "AI coding agents often generate functionally correct but insecure code. To address this issue, we have open-sourced Security Cards, targeted security guidance for 80+ widely used libraries across 13 programming languages. Our evaluation shows that the Security Cards reduce the rate of insecure code generation by up to 72.3% in Claude Code with Opus 4.7. You can find these security cards on GitHub ( https://github.com/Reware-Labs/securitycards ) or on our website ( https://securitycards.rewarelabs.com/ ) We are planning to constantly support more languages and libraries, and we’d be glad to hea",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 12:03:03 +0000",
-      "timestamp": 1789041783.0
-    },
-    {
-      "title": "Japan can turn AI demand into industrial strength",
-      "link": "https://www.governance.fyi/p/how-japan-can-turn-ai-demand-into",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 11:55:49 +0000",
-      "timestamp": 1789041349.0
+      "source": "The Verge AI",
+      "published": "2026-09-10T07:00:57-04:00",
+      "timestamp": 1789038057.0
     },
     {
       "title": "Everything New You Can Do With Siri AI",
@@ -408,33 +471,6 @@
       "timestamp": 1788965505.0
     },
     {
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-      "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 14:18:34 +0000",
-      "timestamp": 1788963514.0
-    },
-    {
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "summary": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "timestamp": 1788958800.0
-    },
-    {
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "timestamp": 1788958800.0
-    },
-    {
       "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
       "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
       "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it [&#8230;]",
@@ -451,51 +487,6 @@
       "source": "Wired AI",
       "published": "Wed, 09 Sep 2026 13:00:00 +0000",
       "timestamp": 1788958800.0
-    },
-    {
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 12:30:00 +0000",
-      "timestamp": 1788957000.0
-    },
-    {
-      "title": "Students who use AI generally score worse at school",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-09T08:05:01-04:00",
-      "timestamp": 1788955501.0
-    },
-    {
-      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-09T05:56:28-04:00",
-      "timestamp": 1788947788.0
-    },
-    {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-08T16:53:52-04:00",
-      "timestamp": 1788900832.0
-    },
-    {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-08T16:16:09-04:00",
-      "timestamp": 1788898569.0
     },
     {
       "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
