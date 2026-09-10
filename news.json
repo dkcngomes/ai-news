@@ -1,7 +1,169 @@
 {
-  "scraped_at": "2026-09-10T00:13:24.754724+00:00",
-  "count": 57,
+  "scraped_at": "2026-09-10T04:41:40.047484+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "The AI policy window is open. We need to act",
+      "link": "https://openai.com/index/ai-policy-window/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 03:45:14 +0000",
+      "timestamp": 1789011914.0
+    },
+    {
+      "title": "Rebuilding an AI-made browser game with Astra 6",
+      "link": "https://arcane-orb-workshop.pages.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 03:42:16 +0000",
+      "timestamp": 1789011736.0
+    },
+    {
+      "title": "Sergey Brin is cooking up Google's AI destiny",
+      "link": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-microkitchen-2026-9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 03:34:12 +0000",
+      "timestamp": 1789011252.0
+    },
+    {
+      "title": "Copying explains the collective behavior of AI agents in the wild",
+      "link": "https://arxiv.org/abs/2609.09150",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 03:07:07 +0000",
+      "timestamp": 1789009627.0
+    },
+    {
+      "title": "AI Made Delegation Easy: Structure Is Still the Skill",
+      "link": "https://syntheticauth.ai/posts/ai-made-delegation-easy-structure-is-still-the-skill",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 02:33:16 +0000",
+      "timestamp": 1789007596.0
+    },
+    {
+      "title": "Kepler Compute- New memory startup for AI",
+      "link": "https://keplercompute.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 02:32:48 +0000",
+      "timestamp": 1789007568.0
+    },
+    {
+      "title": "Siri Recap: AI Memory with Apple Watch",
+      "link": "https://www.apple.com/hk/en/apple-watch-series-12/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 02:27:17 +0000",
+      "timestamp": 1789007237.0
+    },
+    {
+      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+      "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 01:59:51 +0000",
+      "timestamp": 1789005591.0
+    },
+    {
+      "title": "RDC – Remote Desktop Control for AI Agents",
+      "link": "https://github.com/bscott/rdc",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 01:50:47 +0000",
+      "timestamp": 1789005047.0
+    },
+    {
+      "title": "California enacts AI safety evaluation laws backed by Anthropic and OpenAI",
+      "link": "https://politico.com/news/2026/09/09/newsom-signs-ai-safety-bills-backed-by-anthropic-openai-01069928",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 01:42:45 +0000",
+      "timestamp": 1789004565.0
+    },
+    {
+      "title": "Free course covering basics of AI to be available to Canadians by end of year",
+      "link": "https://www.cbc.ca/news/politics/ai-essentials-government-courses-solomon-9.7337417",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 01:34:32 +0000",
+      "timestamp": 1789004072.0
+    },
+    {
+      "title": "OpenAI has solved the Navier-Stokes Millennium problem using $15M of AI effort",
+      "link": "https://www.newscientist.com/article/2588063-openai-has-solved-the-navier-stokes-millennium-problem-using-15m-of-ai-effort/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 01:25:56 +0000",
+      "timestamp": 1789003556.0
+    },
+    {
+      "title": "The Open Source AI Stack",
+      "link": "https://www.together.ai/blog/the-open-source-ai-stack",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 01:13:23 +0000",
+      "timestamp": 1789002803.0
+    },
+    {
+      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 01:02:44 +0000",
+      "timestamp": 1789002164.0
+    },
+    {
+      "title": "Navier–Stokes, AI and the future of research in mathematics [pdf]",
+      "link": "https://bms.ulb.ac.be/data/uploads/untitled.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 00:26:41 +0000",
+      "timestamp": 1789000001.0
+    },
+    {
+      "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+      "link": "https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 00:25:32 +0000",
+      "timestamp": 1788999932.0
+    },
+    {
+      "title": "Coinbase Design Systems Are Powering the AI Prototyping Era",
+      "link": "https://www.coinbase.com/blog/how-coinbase-design-systems-are-powering-the-ai-prototyping-era",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 00:13:16 +0000",
+      "timestamp": 1788999196.0
+    },
+    {
+      "title": "Show HN: Kin – A code repository built for AI and the people working with it",
+      "link": "https://github.com/firelock-ai/kin",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 00:10:33 +0000",
+      "timestamp": 1788999033.0
+    },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
@@ -30,105 +192,6 @@
       "timestamp": 1788998216.0
     },
     {
-      "title": "AI May Become the Third Superpower",
-      "link": "https://www.wsj.com/opinion/ai-may-become-the-third-superpower-1f7700dc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 23:49:05 +0000",
-      "timestamp": 1788997745.0
-    },
-    {
-      "title": "Ask HN: What's your AI coding set up?",
-      "link": "https://news.ycombinator.com/item?id=49636239",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 23:44:41 +0000",
-      "timestamp": 1788997481.0
-    },
-    {
-      "title": "Hybrid approach to creating low poly game-ready 3D assets using AI models",
-      "link": "https://playwarpact.com/blog/lowpoly-hybrid/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 23:44:16 +0000",
-      "timestamp": 1788997456.0
-    },
-    {
-      "title": "Show HN: Ambient Context v1.0.0 (Missing context for AI assistants)",
-      "link": "https://github.com/dragthelake/ambient-context/releases",
-      "summary": "The other week I posted a concept to use the macOS Accessibility API to capture the text on your screen into a markdown file. It seemed to be interesting with 150+ github stars. I've done a bunch of updates and packaged them into a signed macOS app. One of the biggest changes was moving away from 'one context file per day' to three markdown files for apps, website, and messages. I then run Andrej Karpathy's LLM Wiki process to turn into a simple knowledge base for the day. This is then used by a smarter model to synthesise into a daily overview. Let me know what you think Original: https://new",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 23:40:02 +0000",
-      "timestamp": 1788997202.0
-    },
-    {
-      "title": "Astrophysical Journal adopts new guidelines on AI use",
-      "link": "https://journals.aas.org/news/new-guidelines-on-ai-use-in-aas-journals/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 23:32:17 +0000",
-      "timestamp": 1788996737.0
-    },
-    {
-      "title": "Prosecutors allege man used AI to scrape court website",
-      "link": "https://www.abc.net.au/news/2026-09-10/christopher-duff-to-stand-trial-over-nsw-ai-court-data-breach/107135032",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 23:20:55 +0000",
-      "timestamp": 1788996055.0
-    },
-    {
-      "title": "What AI Means for Technical Competence",
-      "link": "https://letters.unchartedpathbreakthroughs.com/posts/what-ai-means-for-technical-competence",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 23:13:18 +0000",
-      "timestamp": 1788995598.0
-    },
-    {
-      "title": "Largest AI Infrastructure in Space announced by the president of France",
-      "link": "https://www.businesswire.com/news/home/20260909411854/en/Worlds-Largest-AI-Infrastructure-in-Space-announced-by-the-president-of-the-French-Republic-Marlan-Space-and-Loft-Orbital-Join-Forces-with-Mistral-and-Global-Space-Industry-Leaders-to-Build-the-Future-of-Agentic-AI-in-Space-with-%241-Billion",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 23:10:13 +0000",
-      "timestamp": 1788995413.0
-    },
-    {
-      "title": "Diagnosing schizophrenia is tricky. Can AI help?",
-      "link": "https://knowablemagazine.org/content/article/mind/2026/how-ai-can-listen-for-signs-of-schizophrenia",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 23:09:01 +0000",
-      "timestamp": 1788995341.0
-    },
-    {
-      "title": "Andrew Tulloch Departs Mark Zuckerberg's Meta AI Lab",
-      "link": "https://www.wsj.com/tech/ai/star-ai-researcher-is-leaving-meta-8906e4aa",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 23:02:27 +0000",
-      "timestamp": 1788994947.0
-    },
-    {
-      "title": "Adios.dev – Fast, isolated execution sandboxes for AI agents",
-      "link": "https://www.adios.dev",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 22:32:27 +0000",
-      "timestamp": 1788993147.0
-    },
-    {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
@@ -138,24 +201,6 @@
       "timestamp": 1788992722.0
     },
     {
-      "title": "AI researcher Andrew Tulloch leaving Meta",
-      "link": "https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 22:21:44 +0000",
-      "timestamp": 1788992504.0
-    },
-    {
-      "title": "Private Cloud Compute: A new frontier for AI privacy in the cloud (2024)",
-      "link": "https://security.apple.com/blog/private-cloud-compute/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 22:19:21 +0000",
-      "timestamp": 1788992361.0
-    },
-    {
       "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
       "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
       "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
@@ -163,15 +208,6 @@
       "source": "Wired AI",
       "published": "Wed, 09 Sep 2026 22:11:55 +0000",
       "timestamp": 1788991915.0
-    },
-    {
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 21:56:26 +0000",
-      "timestamp": 1788990986.0
     },
     {
       "title": "Massachusetts hits data centers with new clean power rules",
@@ -190,24 +226,6 @@
       "source": "The Verge AI",
       "published": "2026-09-09T17:42:19-04:00",
       "timestamp": 1788990139.0
-    },
-    {
-      "title": "Exposing a global AI slop empire ruining the internet for profit [video]",
-      "link": "https://www.youtube.com/watch?v=GEHHTh5OTnQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 21:37:30 +0000",
-      "timestamp": 1788989850.0
-    },
-    {
-      "title": "Show HN: BiNeuron – AI code assistant that runs 100% locally",
-      "link": "https://github.com/just-not-google/BiNeuron",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 09 Sep 2026 21:30:06 +0000",
-      "timestamp": 1788989406.0
     },
     {
       "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
