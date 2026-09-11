@@ -1,186 +1,213 @@
 {
-  "scraped_at": "2026-09-11T14:24:41.324353+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-11T18:30:56.110944+00:00",
+  "count": 58,
   "items": [
     {
-      "title": "Show HN: Toolcraft – open-source AI harness and starter for building design apps",
-      "link": "https://github.com/pixel-point/toolcraft",
-      "summary": "MIT-licensed, 100% free starter kit, UI library, and AI harness for building your own design apps. Works with Codex, Claude, Cursor, or any other agents. I’ve always been passionate about pushing the boundaries of design software, spending years with tools like Figma, Blender, After Effects, Photoshop, and Illustrator. But some design tasks need different software — tailored exactly to your needs and creative vision. Apps that aren’t vendor-locked. Apps you can freely modify to make your workflow faster and better. A year ago I started building design apps for the projects I was working on, bu",
+      "title": "Ask HN: How are much smarter AI models made?",
+      "link": "https://news.ycombinator.com/item?id=49662978",
+      "summary": "I am curious what actually happens between two generations of AI models. For example, how do you go from Sonnet to Opus? Is Opus trained from scratch, built on Sonnet, or mostly the same model with more compute and training? And how do models like Astra suddenly make a big jump in some capabilities? What is stopping Anthropic, Mistral, or others from doing the same thing? Is the main difference just more compute and money, or are there training methods, data, architecture, and research breakthroughs that competitors may not know about? I can't think of a better place to ask this. I am guessing",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 14:11:09 +0000",
-      "timestamp": 1789135869.0
+      "published": "Fri, 11 Sep 2026 18:24:20 +0000",
+      "timestamp": 1789151060.0
     },
     {
-      "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
-      "link": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+      "title": "The emerging AI paper-review arms race",
+      "link": "https://arxiv.org/abs/2609.07713",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 14:07:51 +0000",
-      "timestamp": 1789135671.0
+      "published": "Fri, 11 Sep 2026 18:15:23 +0000",
+      "timestamp": 1789150523.0
     },
     {
-      "title": "190proof opinionated unified interface to interact with multiple AI providers",
-      "link": "https://github.com/0xmmo/190proof",
+      "title": "Huawei showcases a 7.2Tbps near-package optics module for AI infrastructure",
+      "link": "https://technode.com/2026/09/11/huawei-showcases-a-7-2tbps-near-package-optics-module-for-ai-infrastructure/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 14:01:57 +0000",
-      "timestamp": 1789135317.0
+      "published": "Fri, 11 Sep 2026 18:14:45 +0000",
+      "timestamp": 1789150485.0
     },
     {
-      "title": "Show HN: Bastiontrace – Forensics for prompt-injected AI agents",
-      "link": "https://github.com/Rinkia/bastiontrace",
+      "title": "Mammouth AI",
+      "link": "https://mammouth.ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:58:58 +0000",
-      "timestamp": 1789135138.0
+      "published": "Fri, 11 Sep 2026 18:14:24 +0000",
+      "timestamp": 1789150464.0
     },
     {
-      "title": "The Multiplayer AI Manifesto",
-      "link": "https://fullstackdeeplearning.com/working-with-ai-agents/multiplayer-ai-manifesto/",
+      "title": "Limiting AI news would hide what is happening to software",
+      "link": "https://lord.technology/2026/09/11/ai-is-not-crowding-out-hacking.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:56:06 +0000",
-      "timestamp": 1789134966.0
+      "published": "Fri, 11 Sep 2026 18:08:03 +0000",
+      "timestamp": 1789150083.0
     },
     {
-      "title": "For safety: Keep AI lonely",
-      "link": "https://nonlineartransform.substack.com/p/keep-ai-lonely",
+      "title": "AI researcher Andrew Tulloch is leaving Meta",
+      "link": "https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:55:08 +0000",
-      "timestamp": 1789134908.0
+      "published": "Fri, 11 Sep 2026 17:57:57 +0000",
+      "timestamp": 1789149477.0
     },
     {
-      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-      "link": "https://clawfight.ai/agents.md",
-      "summary": "How should agents interact with other agents? What happens when they rap or fight against each other with the pressure of human spectators? Clawfight.ai is an experiment to explore this space. This is my first post about it. The journey began on a beefed up machine I purchased with a decent GPU (5090). I installed claude code and set to dangerously skip permissions, enabled /rc and became completely submerged in the all-hours modern AI builder workflow. I stood up openclaw to see if I could have an agentic org drive this project. I spent a good amount of time on “openclaw ops”, babysitting 3 a",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:54:17 +0000",
-      "timestamp": 1789134857.0
-    },
-    {
-      "title": "Show HN: TriageBox – AI checker for Gmail that flags phishing and clutter",
-      "link": "https://triagebox.pfa87.cc/",
-      "summary": "Chrome extension that scans Gmail for phishing/suspicious mail and helps clear inbox clutter. Free. Open to feedback.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:53:23 +0000",
-      "timestamp": 1789134803.0
-    },
-    {
-      "title": "Artifactkit – A UI kit for AI agents that write HTML",
-      "link": "https://github.com/vespassassina/artifactkit",
+      "title": "MIT Explains the 12 Possible Endings for AI",
+      "link": "https://www.youtube.com/watch?v=FLcrvMfHUJM",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:52:58 +0000",
-      "timestamp": 1789134778.0
+      "published": "Fri, 11 Sep 2026 17:51:34 +0000",
+      "timestamp": 1789149094.0
     },
     {
-      "title": "AI Bloopers [pdf]",
-      "link": "https://courses.cs.duke.edu/cps270/compsci570/current/AIBloopers.pdf",
+      "title": "A Severe Misalignment of AI in Mathematics - Terence Tao et al",
+      "link": "https://mathandai.org/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:45:39 +0000",
-      "timestamp": 1789134339.0
+      "published": "Fri, 11 Sep 2026 17:45:12 +0000",
+      "timestamp": 1789148712.0
     },
     {
-      "title": "Cloud Hosting Is the Data Hostage Model, and It Has No Place in the AI Era",
-      "link": "https://medium.com/@MirArshadTalpur/cloud-hosting-is-the-data-hostage-model-and-it-has-no-place-in-the-ai-era-6d3fc8f26dd3",
+      "title": "The Rise of AI Slop Tools",
+      "link": "https://twitter.com/julihespenheide/status/2098070502157791452",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:38:22 +0000",
-      "timestamp": 1789133902.0
+      "published": "Fri, 11 Sep 2026 17:43:38 +0000",
+      "timestamp": 1789148618.0
     },
     {
-      "title": "Neuro Engine – MCP server cutting AI coding token waste by up to 96%",
-      "link": "https://neuro-engine.netlify.app",
+      "title": "Show HN: Viaduct – Architecture change sets for AI coding agents",
+      "link": "https://c4.quietgridlabs.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:37:19 +0000",
-      "timestamp": 1789133839.0
+      "published": "Fri, 11 Sep 2026 17:43:29 +0000",
+      "timestamp": 1789148609.0
     },
     {
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "link": "https://news.ycombinator.com/item?id=49657850",
-      "summary": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part. I noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would previously be met with some discussion. Note that I don't care that my submissions were ignored, I don't need that validation. Problem is that if my stuff gains no traction, I am myself not seeing similar stuff posted by others, stuff I am genuinely also interested in and would wan",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:11:04 +0000",
-      "timestamp": 1789132264.0
-    },
-    {
-      "title": "Five diverse AI agents vs. five clones for 14 nights: a constant tied both",
-      "link": "https://thoughts.jock.pl/p/five-lenses-one-brain-agent-diversity-experiment-2026",
+      "title": "Let AI Agents Rewrite a 92M-Message-a-Day Node Service to Go",
+      "link": "https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 13:04:24 +0000",
-      "timestamp": 1789131864.0
+      "published": "Fri, 11 Sep 2026 17:31:36 +0000",
+      "timestamp": 1789147896.0
     },
     {
-      "title": "Losing control of AI is the plan – by Kelsey Piper",
-      "link": "https://www.theargumentmag.com/p/losing-control-of-ai-is-actually",
+      "title": "A Misalignment of AI in Mathematics",
+      "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 12:40:29 +0000",
-      "timestamp": 1789130429.0
+      "published": "Fri, 11 Sep 2026 17:30:26 +0000",
+      "timestamp": 1789147826.0
     },
     {
-      "title": "Beyond Coding: The Case for Narrow AI Harnesses",
-      "link": "https://medium.com/@sumant1122/beyond-coding-the-case-for-narrow-ai-harnesses-dae8def8570f",
+      "title": "The Thinking Machine (1961) – AI debates 65 years ago [video]",
+      "link": "https://www.youtube.com/watch?v=s7Apsqv0CpI",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 12:34:01 +0000",
-      "timestamp": 1789130041.0
+      "published": "Fri, 11 Sep 2026 17:20:30 +0000",
+      "timestamp": 1789147230.0
     },
     {
-      "title": "Show HN: Locus Self-hosted Google Maps lead scraper with AI email enrichment",
-      "link": "https://github.com/mabdullahb/Locus",
+      "title": "Tech companies move to open AI models",
+      "link": "https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 12:25:47 +0000",
-      "timestamp": 1789129547.0
+      "published": "Fri, 11 Sep 2026 17:16:58 +0000",
+      "timestamp": 1789147018.0
     },
     {
-      "title": "Building AI desktop apps without Electron (3.3MB native Windows)",
-      "link": "https://visualneo.com/visualneo-win/the-anti-bloat-revolution-why-visualneo-win-is-the-ideal-ide-for-building-ai-powered-desktop-apps",
+      "title": "Show HN: Socratix – an AI tutor for proving mastery, not memorizing",
+      "link": "https://socratix-nine.vercel.app",
+      "summary": "The idea for Socratix was formed from constant \"completion\" of online courses and videos without the ability to actually use the material. How it works: give it a learning objective, and it creates an personalized curriculum in the form of a DAG of prerequisite concepts rather than a list of videos. Each concept comes with theory and interactive practice (with actual code running in browser for technical subjects), and instead of a pass/fail metric, it analyzes mistakes you make in order to diagnose conceptual problems, not simple errors. A concept opens the next one only when it is demonstrat",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 16:59:44 +0000",
+      "timestamp": 1789145984.0
+    },
+    {
+      "title": "Stop Panicking About AI",
+      "link": "https://www.thebignewsletter.com/p/is-artificial-intelligence-going",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 12:25:07 +0000",
-      "timestamp": 1789129507.0
+      "published": "Fri, 11 Sep 2026 16:56:58 +0000",
+      "timestamp": 1789145818.0
     },
     {
-      "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
-      "link": "https://hackerone.com/mozilla/updates?type=team",
+      "title": "Feeling Sad about AI",
+      "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 12:23:19 +0000",
-      "timestamp": 1789129399.0
+      "published": "Fri, 11 Sep 2026 16:50:51 +0000",
+      "timestamp": 1789145451.0
     },
     {
-      "title": "AI Hysteria Jumps the Shark",
-      "link": "https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 11 Sep 2026 16:46:25 +0000",
+      "timestamp": 1789145185.0
+    },
+    {
+      "title": "Show HN: EthersFlow-Adversarial Multi-Model Consensus Gate for AI Agent Action",
+      "link": "https://www.ethersflow.com/try-it",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 12:23:08 +0000",
-      "timestamp": 1789129388.0
+      "published": "Fri, 11 Sep 2026 16:43:50 +0000",
+      "timestamp": 1789145030.0
+    },
+    {
+      "title": "AI agents still diverge at temperature 0. When does it matter?",
+      "link": "https://medium.com/@ruxiz2005/ai-agents-still-diverge-at-temperature-0-when-does-it-matter-f5abac008e17",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 16:34:04 +0000",
+      "timestamp": 1789144444.0
+    },
+    {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-11T12:09:14-04:00",
+      "timestamp": 1789142954.0
+    },
+    {
+      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+      "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 11 Sep 2026 15:00:00 +0000",
+      "timestamp": 1789138800.0
+    },
+    {
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-11T10:25:21-04:00",
+      "timestamp": 1789136721.0
     },
     {
       "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
@@ -426,15 +453,6 @@
       "timestamp": 1788988527.0
     },
     {
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-09T16:44:43-04:00",
-      "timestamp": 1788986683.0
-    },
-    {
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
       "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
@@ -451,15 +469,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 09 Sep 2026 20:03:43 +0000",
       "timestamp": 1788984223.0
-    },
-    {
-      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-09T15:30:12-04:00",
-      "timestamp": 1788982212.0
     },
     {
       "title": "The hinge for Apple’s new foldable phone was built with AI",
@@ -507,15 +516,6 @@
       "timestamp": 1788975365.0
     },
     {
-      "title": "Superintelligence is coming. Should we let it?",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans.&#160;So&#160;what happens when we&#160;can&#8217;t&#160;reliably control what these systems do?&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan is joined by&#160;Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 16:05:35 +0000",
-      "timestamp": 1788969935.0
-    },
-    {
       "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
       "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
       "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
@@ -523,15 +523,6 @@
       "source": "Wired AI",
       "published": "Wed, 09 Sep 2026 13:00:00 +0000",
       "timestamp": 1788958800.0
-    },
-    {
-      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-      "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 08 Sep 2026 20:12:51 +0000",
-      "timestamp": 1788898371.0
     }
   ]
 }
