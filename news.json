@@ -1,7 +1,232 @@
 {
-  "scraped_at": "2026-09-11T18:30:56.110944+00:00",
+  "scraped_at": "2026-09-11T21:42:27.132149+00:00",
   "count": 58,
   "items": [
+    {
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 21:35:29 +0000",
+      "timestamp": 1789162529.0
+    },
+    {
+      "title": "Mapping WYSIWYG diffs to AI runs and sources",
+      "link": "https://lexifina.com/blog/granular-ai-diffs-and-source-tracing",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 21:27:24 +0000",
+      "timestamp": 1789162044.0
+    },
+    {
+      "title": "The Costs of AI Acceleration",
+      "link": "https://thanosapollo.org/posts/costs-of-ai-acceleration/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 21:21:29 +0000",
+      "timestamp": 1789161689.0
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 11 Sep 2026 20:59:47 +0000",
+      "timestamp": 1789160387.0
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 11 Sep 2026 20:57:36 +0000",
+      "timestamp": 1789160256.0
+    },
+    {
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-11T16:44:02-04:00",
+      "timestamp": 1789159442.0
+    },
+    {
+      "title": "The Expert Record – The Standard for Expert Witnesses Using AI",
+      "link": "https://www.theexpertrecord.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 20:42:47 +0000",
+      "timestamp": 1789159367.0
+    },
+    {
+      "title": "Mike Johnson urged to cancel House recess over AI warnings",
+      "link": "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 20:41:08 +0000",
+      "timestamp": 1789159268.0
+    },
+    {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 11 Sep 2026 20:33:18 +0000",
+      "timestamp": 1789158798.0
+    },
+    {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 11 Sep 2026 20:30:17 +0000",
+      "timestamp": 1789158617.0
+    },
+    {
+      "title": "Trustworthy Human-AI Collab in a Live Type-Theoretic Computational Commons",
+      "link": "https://www.janestreet.com/tech-talks/trustworthy-human-ai-collaboration-in-a-live-type-theoretic-computational-commons/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 20:20:39 +0000",
+      "timestamp": 1789158039.0
+    },
+    {
+      "title": "LLMjacking: AI Model Hijacking Reaches Black Market Scale",
+      "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-llmjacking-black-market-ai-model-hijacking/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 20:19:43 +0000",
+      "timestamp": 1789157983.0
+    },
+    {
+      "title": "AI children's books, body horror edition",
+      "link": "https://blog.coredump.cx/p/ai-childrens-books-body-horror-edition",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 20:10:48 +0000",
+      "timestamp": 1789157448.0
+    },
+    {
+      "title": "Every binding AI review Washington has proposed has come back voluntary",
+      "link": "https://thenextweb.com/news/every-binding-ai-review-washington-has-proposed-has-come-back-voluntary-zuckerberg-reportedly-rang-trump-about-the-latest-one",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 20:08:57 +0000",
+      "timestamp": 1789157337.0
+    },
+    {
+      "title": "The State of AI Antibody Design",
+      "link": "https://www.science.org/content/blog-post/state-ai-antibody-design",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 20:06:33 +0000",
+      "timestamp": 1789157193.0
+    },
+    {
+      "title": "Is open-weight AI banned yet?",
+      "link": "https://isopenweightaibannedyet.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 20:05:42 +0000",
+      "timestamp": 1789157142.0
+    },
+    {
+      "title": "Show HN: HungryGPU – Track local AI models, patches and recipes by hardware",
+      "link": "https://hungrygpu.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 19:49:39 +0000",
+      "timestamp": 1789156179.0
+    },
+    {
+      "title": "Judges mock lawyer who filed appeal full of AI-generated 'witnesses'",
+      "link": "https://www.rnz.co.nz/news/world/1349763/judges-mock-lawyer-who-filed-appeal-full-of-ai-generated-witnesses",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 19:36:57 +0000",
+      "timestamp": 1789155417.0
+    },
+    {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 11 Sep 2026 19:35:54 +0000",
+      "timestamp": 1789155354.0
+    },
+    {
+      "title": "Claude AI used for missile, influence projects in UAE, Iran, Yemen: Anthropic",
+      "link": "https://www.al-monitor.com/originals/2026/09/claude-ai-used-missile-influence-projects-uae-iran-yemen-anthropic",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 19:35:43 +0000",
+      "timestamp": 1789155343.0
+    },
+    {
+      "title": "Show HN: Hacker News, but only AI news",
+      "link": "https://allslop.news/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 19:12:33 +0000",
+      "timestamp": 1789153953.0
+    },
+    {
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 11 Sep 2026 18:59:25 +0000",
+      "timestamp": 1789153165.0
+    },
+    {
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, but the timing, with Anthropic reportedly&#160;preparing for&#160;an IPO, makes it land differently.&#160; On [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 11 Sep 2026 18:41:49 +0000",
+      "timestamp": 1789152109.0
+    },
+    {
+      "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
+      "link": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 18:38:26 +0000",
+      "timestamp": 1789151906.0
+    },
+    {
+      "title": "Project NOPE: An observatory for human – AI relationships",
+      "link": "https://nope.net/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 18:31:21 +0000",
+      "timestamp": 1789151481.0
+    },
     {
       "title": "Ask HN: How are much smarter AI models made?",
       "link": "https://news.ycombinator.com/item?id=49662978",
@@ -21,141 +246,6 @@
       "timestamp": 1789150523.0
     },
     {
-      "title": "Huawei showcases a 7.2Tbps near-package optics module for AI infrastructure",
-      "link": "https://technode.com/2026/09/11/huawei-showcases-a-7-2tbps-near-package-optics-module-for-ai-infrastructure/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 18:14:45 +0000",
-      "timestamp": 1789150485.0
-    },
-    {
-      "title": "Mammouth AI",
-      "link": "https://mammouth.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 18:14:24 +0000",
-      "timestamp": 1789150464.0
-    },
-    {
-      "title": "Limiting AI news would hide what is happening to software",
-      "link": "https://lord.technology/2026/09/11/ai-is-not-crowding-out-hacking.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 18:08:03 +0000",
-      "timestamp": 1789150083.0
-    },
-    {
-      "title": "AI researcher Andrew Tulloch is leaving Meta",
-      "link": "https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 17:57:57 +0000",
-      "timestamp": 1789149477.0
-    },
-    {
-      "title": "MIT Explains the 12 Possible Endings for AI",
-      "link": "https://www.youtube.com/watch?v=FLcrvMfHUJM",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 17:51:34 +0000",
-      "timestamp": 1789149094.0
-    },
-    {
-      "title": "A Severe Misalignment of AI in Mathematics - Terence Tao et al",
-      "link": "https://mathandai.org/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 17:45:12 +0000",
-      "timestamp": 1789148712.0
-    },
-    {
-      "title": "The Rise of AI Slop Tools",
-      "link": "https://twitter.com/julihespenheide/status/2098070502157791452",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 17:43:38 +0000",
-      "timestamp": 1789148618.0
-    },
-    {
-      "title": "Show HN: Viaduct – Architecture change sets for AI coding agents",
-      "link": "https://c4.quietgridlabs.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 17:43:29 +0000",
-      "timestamp": 1789148609.0
-    },
-    {
-      "title": "Let AI Agents Rewrite a 92M-Message-a-Day Node Service to Go",
-      "link": "https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 17:31:36 +0000",
-      "timestamp": 1789147896.0
-    },
-    {
-      "title": "A Misalignment of AI in Mathematics",
-      "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 17:30:26 +0000",
-      "timestamp": 1789147826.0
-    },
-    {
-      "title": "The Thinking Machine (1961) – AI debates 65 years ago [video]",
-      "link": "https://www.youtube.com/watch?v=s7Apsqv0CpI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 17:20:30 +0000",
-      "timestamp": 1789147230.0
-    },
-    {
-      "title": "Tech companies move to open AI models",
-      "link": "https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 17:16:58 +0000",
-      "timestamp": 1789147018.0
-    },
-    {
-      "title": "Show HN: Socratix – an AI tutor for proving mastery, not memorizing",
-      "link": "https://socratix-nine.vercel.app",
-      "summary": "The idea for Socratix was formed from constant \"completion\" of online courses and videos without the ability to actually use the material. How it works: give it a learning objective, and it creates an personalized curriculum in the form of a DAG of prerequisite concepts rather than a list of videos. Each concept comes with theory and interactive practice (with actual code running in browser for technical subjects), and instead of a pass/fail metric, it analyzes mistakes you make in order to diagnose conceptual problems, not simple errors. A concept opens the next one only when it is demonstrat",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 16:59:44 +0000",
-      "timestamp": 1789145984.0
-    },
-    {
-      "title": "Stop Panicking About AI",
-      "link": "https://www.thebignewsletter.com/p/is-artificial-intelligence-going",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 16:56:58 +0000",
-      "timestamp": 1789145818.0
-    },
-    {
-      "title": "Feeling Sad about AI",
-      "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 16:50:51 +0000",
-      "timestamp": 1789145451.0
-    },
-    {
       "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
       "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
       "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
@@ -163,24 +253,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 11 Sep 2026 16:46:25 +0000",
       "timestamp": 1789145185.0
-    },
-    {
-      "title": "Show HN: EthersFlow-Adversarial Multi-Model Consensus Gate for AI Agent Action",
-      "link": "https://www.ethersflow.com/try-it",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 16:43:50 +0000",
-      "timestamp": 1789145030.0
-    },
-    {
-      "title": "AI agents still diverge at temperature 0. When does it matter?",
-      "link": "https://medium.com/@ruxiz2005/ai-agents-still-diverge-at-temperature-0-when-does-it-matter-f5abac008e17",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 16:34:04 +0000",
-      "timestamp": 1789144444.0
     },
     {
       "title": "Anthropic spent this week in hot water over cybersecurity",
@@ -435,15 +507,6 @@
       "timestamp": 1788990139.0
     },
     {
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-09T17:16:34-04:00",
-      "timestamp": 1788988594.0
-    },
-    {
       "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
       "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
       "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
@@ -453,33 +516,6 @@
       "timestamp": 1788988527.0
     },
     {
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 20:24:48 +0000",
-      "timestamp": 1788985488.0
-    },
-    {
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 20:03:43 +0000",
-      "timestamp": 1788984223.0
-    },
-    {
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 19:21:48 +0000",
-      "timestamp": 1788981708.0
-    },
-    {
       "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
       "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
       "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
@@ -487,42 +523,6 @@
       "source": "Wired AI",
       "published": "Wed, 09 Sep 2026 18:30:00 +0000",
       "timestamp": 1788978600.0
-    },
-    {
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "summary": "The update uses Apple Intelligence to make better sense of your health data.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 18:16:29 +0000",
-      "timestamp": 1788977789.0
-    },
-    {
-      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 18:08:35 +0000",
-      "timestamp": 1788977315.0
-    },
-    {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 17:36:05 +0000",
-      "timestamp": 1788975365.0
-    },
-    {
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "timestamp": 1788958800.0
     }
   ]
 }
