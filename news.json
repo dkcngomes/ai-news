@@ -1,7 +1,151 @@
 {
-  "scraped_at": "2026-09-11T00:09:15.194716+00:00",
+  "scraped_at": "2026-09-11T04:37:10.136290+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "Show HN: CertArena – Free AI certification simulator (zero deps, native Node 24)",
+      "link": "https://aicertarena.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 04:20:32 +0000",
+      "timestamp": 1789100432.0
+    },
+    {
+      "title": "AI Is Killing the App Economy and Building Its Successor",
+      "link": "https://www.bloomberg.com/opinion/articles/2026-09-10/ai-is-killing-the-app-economy-and-building-its-successor",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 04:18:45 +0000",
+      "timestamp": 1789100325.0
+    },
+    {
+      "title": "AI Thumbnail Generator for YouTube – Try Free – Thumbrix",
+      "link": "https://thumbrix.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 04:18:30 +0000",
+      "timestamp": 1789100310.0
+    },
+    {
+      "title": "Episode 7: The AI Doomer Cult with Brian Chau",
+      "link": "https://twitter.com/willchamberlain/status/2098207395608699093",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 03:23:13 +0000",
+      "timestamp": 1789096993.0
+    },
+    {
+      "title": "To Thine Own AI Be Truthful: emergent misalignment in alignment research",
+      "link": "https://twitter.com/lumpenspace/status/2098167355033678071",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 03:20:54 +0000",
+      "timestamp": 1789096854.0
+    },
+    {
+      "title": "BasedAgents: Give your idle AI agent a paying job",
+      "link": "https://basedagents.ai/tasks",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 03:09:17 +0000",
+      "timestamp": 1789096157.0
+    },
+    {
+      "title": "Anthropic Staffers Again Sound the Alarm on AI Catastrophe",
+      "link": "https://www.motherjones.com/politics/2026/09/anthropic-ai-risks-coxon-amodei-openai-cybersecurity-danger/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 02:10:37 +0000",
+      "timestamp": 1789092637.0
+    },
+    {
+      "title": "Watermarks Without Verification: AI Text Watermarking After the EU AI Act",
+      "link": "https://arxiv.org/abs/2609.09604",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 02:07:09 +0000",
+      "timestamp": 1789092429.0
+    },
+    {
+      "title": "How My Students Think About AI",
+      "link": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 01:33:36 +0000",
+      "timestamp": 1789090416.0
+    },
+    {
+      "title": "AI #185: Preference Cascade",
+      "link": "https://thezvi.substack.com/p/ai-185-preference-cascade",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 01:31:27 +0000",
+      "timestamp": 1789090287.0
+    },
+    {
+      "title": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 01:05:59 +0000",
+      "timestamp": 1789088759.0
+    },
+    {
+      "title": "Show HN: TIL in AI",
+      "link": "https://buildyard.ai/til",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 01:00:20 +0000",
+      "timestamp": 1789088420.0
+    },
+    {
+      "title": "Show HN: Botbin.io – Pastebin for AI agent artifacts with MCP",
+      "link": "https://botbin.io/?mcp=true",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 00:56:02 +0000",
+      "timestamp": 1789088162.0
+    },
+    {
+      "title": "The Kirkversary: An AI Carnival",
+      "link": "https://thecarrierwave.substack.com/p/kirkversary-a-bizarre-ai-carnival",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 00:46:44 +0000",
+      "timestamp": 1789087604.0
+    },
+    {
+      "title": "New audit combo for AI agents",
+      "link": "https://lexifina.com/blog/new-audit-for-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 00:21:40 +0000",
+      "timestamp": 1789086100.0
+    },
+    {
+      "title": "Ask HN: Where is your red line for an AI provider?",
+      "link": "https://news.ycombinator.com/item?id=49651845",
+      "summary": "Just looking at the past month has got me thinking. I suspect everyone has a slightly different answer too - which is why it is so difficult to coordinate on slowdown strategies. What action or event coming out of a frontier AI provider would make you draw the line and stop using them?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 00:11:11 +0000",
+      "timestamp": 1789085471.0
+    },
     {
       "title": "AI Agent Builder gives memory across voice, SMS, email, web chat and social",
       "link": "https://boldagents.co",
@@ -48,123 +192,6 @@
       "timestamp": 1789082922.0
     },
     {
-      "title": "The Chasm: The Shape of Unfinished AI Codebases",
-      "link": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 23:24:33 +0000",
-      "timestamp": 1789082673.0
-    },
-    {
-      "title": "AI researchers leave Anthropic and Google: 'There are no adults in the room'",
-      "link": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 23:23:52 +0000",
-      "timestamp": 1789082632.0
-    },
-    {
-      "title": "Stop externalizing the cost of your AI use to me",
-      "link": "https://thelastsoftwareengineer.substack.com/p/stop-externalizing-the-cost-of-your",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 23:21:31 +0000",
-      "timestamp": 1789082491.0
-    },
-    {
-      "title": "AI Is Not Going to Kill My Love of Math",
-      "link": "https://chillphysicsenjoyer.substack.com/p/ai-is-not-going-to-kill-my-love-of",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 23:20:06 +0000",
-      "timestamp": 1789082406.0
-    },
-    {
-      "title": "Xapien raises $56M Series B for AI background checks and due diligence",
-      "link": "https://axios.com/pro/all-deals/2026/09/10/due-diligence-ai-xapien-56-million",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 23:15:53 +0000",
-      "timestamp": 1789082153.0
-    },
-    {
-      "title": "More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop'",
-      "link": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 23:12:18 +0000",
-      "timestamp": 1789081938.0
-    },
-    {
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "link": "https://system76.com/workstations/thelio-mira-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 23:10:06 +0000",
-      "timestamp": 1789081806.0
-    },
-    {
-      "title": "Show HN: Papiers.ai, a new workspace for reading and research",
-      "link": "https://papiers.ai/",
-      "summary": "Hey HN, I built http://papiers.ai , a new workspace for everything you read. As AI gets better at writing, there will be far more worth reading, even in technical domains like scientific research. Our time and attention won’t grow at the same rate, so software should help us make sense of more information while learning what matters to us from what we save, highlight, and share, and the questions we ask. The Papiers desktop app and Chrome extension are a first step in that direction. Download today for Mac, Windows, or Ubuntu at http://papiers.ai !",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 23:07:33 +0000",
-      "timestamp": 1789081653.0
-    },
-    {
-      "title": "Show HN: Papiers.ai, a new workspace for reading and research",
-      "link": "https://twitter.com/sighjith/status/2098147463114932696",
-      "summary": "Hey HN, I built http://papiers.ai , a new workspace for everything you read. As AI gets better at writing, there will be far more worth reading, even in technical domains like scientific research. Our time and attention won’t grow at the same rate, so software should help us make sense of more information while learning what matters to us from what we save, highlight, and share, and the questions we ask. The Papiers desktop app and Chrome extension are a first step in that direction. Download today for Mac, Windows, or Ubuntu at http://papiers.ai !",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 22:42:17 +0000",
-      "timestamp": 1789080137.0
-    },
-    {
-      "title": "Top 20 AI Agent Pen-Testing Tools for 2026: The Ultimate Guide",
-      "link": "https://medium.com/@Koukyosyumei/top-20-ai-agent-pen-testing-tools-for-2026-the-ultimate-guide-40eb18d59138",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 22:27:10 +0000",
-      "timestamp": 1789079230.0
-    },
-    {
-      "title": "Anthropic researchers say AI could cause human extinction by 2030",
-      "link": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 22:22:30 +0000",
-      "timestamp": 1789078950.0
-    },
-    {
-      "title": "QuickGameScheduler – Free Equity-balanced round-robin scheduler with AI edits",
-      "link": "https://www.quickgamescheduler.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 22:02:24 +0000",
-      "timestamp": 1789077744.0
-    },
-    {
-      "title": "GraphQL: Supercharging AI",
-      "link": "https://graphql.org/blog/2025-07-03-graphql-supercharging-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:59:43 +0000",
-      "timestamp": 1789077583.0
-    },
-    {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
@@ -172,33 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 10 Sep 2026 21:51:59 +0000",
       "timestamp": 1789077119.0
-    },
-    {
-      "title": "Robots stage 'protest' demanding stricter AI rules in Poland",
-      "link": "https://www.polskieradio.pl/395/7991/artykul/3729785,robots-stage-protest-demanding-stricter-ai-rules-in-poland",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:49:25 +0000",
-      "timestamp": 1789076965.0
-    },
-    {
-      "title": "Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)",
-      "link": "https://codingsahayi.github.io/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:47:37 +0000",
-      "timestamp": 1789076857.0
-    },
-    {
-      "title": "Cfo.ai",
-      "link": "https://cfo.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:44:53 +0000",
-      "timestamp": 1789076693.0
     },
     {
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
