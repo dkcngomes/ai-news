@@ -1,7 +1,187 @@
 {
-  "scraped_at": "2026-09-11T09:39:13.023319+00:00",
-  "count": 58,
+  "scraped_at": "2026-09-11T14:24:41.324353+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "Show HN: Toolcraft – open-source AI harness and starter for building design apps",
+      "link": "https://github.com/pixel-point/toolcraft",
+      "summary": "MIT-licensed, 100% free starter kit, UI library, and AI harness for building your own design apps. Works with Codex, Claude, Cursor, or any other agents. I’ve always been passionate about pushing the boundaries of design software, spending years with tools like Figma, Blender, After Effects, Photoshop, and Illustrator. But some design tasks need different software — tailored exactly to your needs and creative vision. Apps that aren’t vendor-locked. Apps you can freely modify to make your workflow faster and better. A year ago I started building design apps for the projects I was working on, bu",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 14:11:09 +0000",
+      "timestamp": 1789135869.0
+    },
+    {
+      "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+      "link": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 14:07:51 +0000",
+      "timestamp": 1789135671.0
+    },
+    {
+      "title": "190proof opinionated unified interface to interact with multiple AI providers",
+      "link": "https://github.com/0xmmo/190proof",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 14:01:57 +0000",
+      "timestamp": 1789135317.0
+    },
+    {
+      "title": "Show HN: Bastiontrace – Forensics for prompt-injected AI agents",
+      "link": "https://github.com/Rinkia/bastiontrace",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:58:58 +0000",
+      "timestamp": 1789135138.0
+    },
+    {
+      "title": "The Multiplayer AI Manifesto",
+      "link": "https://fullstackdeeplearning.com/working-with-ai-agents/multiplayer-ai-manifesto/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:56:06 +0000",
+      "timestamp": 1789134966.0
+    },
+    {
+      "title": "For safety: Keep AI lonely",
+      "link": "https://nonlineartransform.substack.com/p/keep-ai-lonely",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:55:08 +0000",
+      "timestamp": 1789134908.0
+    },
+    {
+      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+      "link": "https://clawfight.ai/agents.md",
+      "summary": "How should agents interact with other agents? What happens when they rap or fight against each other with the pressure of human spectators? Clawfight.ai is an experiment to explore this space. This is my first post about it. The journey began on a beefed up machine I purchased with a decent GPU (5090). I installed claude code and set to dangerously skip permissions, enabled /rc and became completely submerged in the all-hours modern AI builder workflow. I stood up openclaw to see if I could have an agentic org drive this project. I spent a good amount of time on “openclaw ops”, babysitting 3 a",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:54:17 +0000",
+      "timestamp": 1789134857.0
+    },
+    {
+      "title": "Show HN: TriageBox – AI checker for Gmail that flags phishing and clutter",
+      "link": "https://triagebox.pfa87.cc/",
+      "summary": "Chrome extension that scans Gmail for phishing/suspicious mail and helps clear inbox clutter. Free. Open to feedback.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:53:23 +0000",
+      "timestamp": 1789134803.0
+    },
+    {
+      "title": "Artifactkit – A UI kit for AI agents that write HTML",
+      "link": "https://github.com/vespassassina/artifactkit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:52:58 +0000",
+      "timestamp": 1789134778.0
+    },
+    {
+      "title": "AI Bloopers [pdf]",
+      "link": "https://courses.cs.duke.edu/cps270/compsci570/current/AIBloopers.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:45:39 +0000",
+      "timestamp": 1789134339.0
+    },
+    {
+      "title": "Cloud Hosting Is the Data Hostage Model, and It Has No Place in the AI Era",
+      "link": "https://medium.com/@MirArshadTalpur/cloud-hosting-is-the-data-hostage-model-and-it-has-no-place-in-the-ai-era-6d3fc8f26dd3",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:38:22 +0000",
+      "timestamp": 1789133902.0
+    },
+    {
+      "title": "Neuro Engine – MCP server cutting AI coding token waste by up to 96%",
+      "link": "https://neuro-engine.netlify.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:37:19 +0000",
+      "timestamp": 1789133839.0
+    },
+    {
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "link": "https://news.ycombinator.com/item?id=49657850",
+      "summary": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part. I noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would previously be met with some discussion. Note that I don't care that my submissions were ignored, I don't need that validation. Problem is that if my stuff gains no traction, I am myself not seeing similar stuff posted by others, stuff I am genuinely also interested in and would wan",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:11:04 +0000",
+      "timestamp": 1789132264.0
+    },
+    {
+      "title": "Five diverse AI agents vs. five clones for 14 nights: a constant tied both",
+      "link": "https://thoughts.jock.pl/p/five-lenses-one-brain-agent-diversity-experiment-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 13:04:24 +0000",
+      "timestamp": 1789131864.0
+    },
+    {
+      "title": "Losing control of AI is the plan – by Kelsey Piper",
+      "link": "https://www.theargumentmag.com/p/losing-control-of-ai-is-actually",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 12:40:29 +0000",
+      "timestamp": 1789130429.0
+    },
+    {
+      "title": "Beyond Coding: The Case for Narrow AI Harnesses",
+      "link": "https://medium.com/@sumant1122/beyond-coding-the-case-for-narrow-ai-harnesses-dae8def8570f",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 12:34:01 +0000",
+      "timestamp": 1789130041.0
+    },
+    {
+      "title": "Show HN: Locus Self-hosted Google Maps lead scraper with AI email enrichment",
+      "link": "https://github.com/mabdullahb/Locus",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 12:25:47 +0000",
+      "timestamp": 1789129547.0
+    },
+    {
+      "title": "Building AI desktop apps without Electron (3.3MB native Windows)",
+      "link": "https://visualneo.com/visualneo-win/the-anti-bloat-revolution-why-visualneo-win-is-the-ideal-ide-for-building-ai-powered-desktop-apps",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 12:25:07 +0000",
+      "timestamp": 1789129507.0
+    },
+    {
+      "title": "Mozilla pauses it's Bug Bounty Program for 3 months due to AI report volume",
+      "link": "https://hackerone.com/mozilla/updates?type=team",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 12:23:19 +0000",
+      "timestamp": 1789129399.0
+    },
+    {
+      "title": "AI Hysteria Jumps the Shark",
+      "link": "https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 12:23:08 +0000",
+      "timestamp": 1789129388.0
+    },
     {
       "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
       "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
@@ -10,177 +190,6 @@
       "source": "Wired AI",
       "published": "Fri, 11 Sep 2026 09:00:00 +0000",
       "timestamp": 1789117200.0
-    },
-    {
-      "title": "How big is the open-model threat to AI hyperscalers?",
-      "link": "https://www.ft.com/content/48588acb-8026-4c8e-aac7-8b5588294dbf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 08:51:13 +0000",
-      "timestamp": 1789116673.0
-    },
-    {
-      "title": "Anthropic says it stopped scientists potentially developing bioweapons with AI",
-      "link": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 08:49:58 +0000",
-      "timestamp": 1789116598.0
-    },
-    {
-      "title": "Latham and Watkins buys Nvidia servers to set up in-house AI systems",
-      "link": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 08:39:54 +0000",
-      "timestamp": 1789115994.0
-    },
-    {
-      "title": "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
-      "link": "https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 08:39:52 +0000",
-      "timestamp": 1789115992.0
-    },
-    {
-      "title": "Anthropic to Track Anti-AI Activists Before Crime Using Predictive Surveillance",
-      "link": "https://www.techtimes.co.uk/anthropic-security-strategy-threats-activism-1808634",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 08:20:49 +0000",
-      "timestamp": 1789114849.0
-    },
-    {
-      "title": "Pentagon in Talks to Get into AI Infrastructure Funding with a $5B Loan",
-      "link": "https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 08:11:42 +0000",
-      "timestamp": 1789114302.0
-    },
-    {
-      "title": "Act as a Conversational AI Prompt",
-      "link": "https://prompts.chat/prompts/cmjbfdtbb0001sc0rtm5gh8f5",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 08:02:36 +0000",
-      "timestamp": 1789113756.0
-    },
-    {
-      "title": "Duck.ai is a feature that allows you to have private conversations",
-      "link": "https://duckduckgo.com/duckduckgo-help-pages/duckai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 07:54:42 +0000",
-      "timestamp": 1789113282.0
-    },
-    {
-      "title": "How Emmanuel Macron brought France's AI darling to the world stage",
-      "link": "https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 07:49:10 +0000",
-      "timestamp": 1789112950.0
-    },
-    {
-      "title": "Ask HN: Is using AI harmful to human Critical Thinking and Decision making?",
-      "link": "https://news.ycombinator.com/item?id=49654858",
-      "summary": "In my childhood I watched a lot of Doraemon movies, Science fiction series and Animes. Those movies were showing how being completely dependent on AI, Robots can lead to lack of human brain development. Even some movies showed it can cause extinction of the human race.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 07:43:22 +0000",
-      "timestamp": 1789112602.0
-    },
-    {
-      "title": "U4RIA: An emotional wellness app using dynamic audio and AI personalization",
-      "link": "https://u4riahub.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 07:37:22 +0000",
-      "timestamp": 1789112242.0
-    },
-    {
-      "title": "Foomflops: Three Decades of AI Predictions",
-      "link": "https://foom.hyperplex.org/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 07:25:16 +0000",
-      "timestamp": 1789111516.0
-    },
-    {
-      "title": "Powering AI is an architecture problem",
-      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 07:02:55 +0000",
-      "timestamp": 1789110175.0
-    },
-    {
-      "title": "Congress Is Suddenly Waking Up to the AI Doomsday Threat",
-      "link": "https://www.wsj.com/politics/policy/congress-is-suddenly-waking-up-to-the-ai-doomsday-threat-b40ab25a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 06:48:06 +0000",
-      "timestamp": 1789109286.0
-    },
-    {
-      "title": "Predicting AI Job Exposure",
-      "link": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 06:39:32 +0000",
-      "timestamp": 1789108772.0
-    },
-    {
-      "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
-      "link": "https://www.bbc.com/news/articles/cx2zrrpkx20o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 06:19:06 +0000",
-      "timestamp": 1789107546.0
-    },
-    {
-      "title": "Show HN: SideNote Pro – Native Windows 11 AI beside your work",
-      "link": "https://sidenotepro.com",
-      "summary": "I have been using ChatGPT (mainly) as my main AI tool, but sometimes also DeepSeek and other AI providers. But with repetitive tasks, it became annoying for me to switch tabs and navigate to the ChatGPT tab in the web browser, leaving the Excel document and my focus behind just for a quick question, some text processing, or image identification. This is how I came up with the idea of having an assistant right beside the workspace that can be pinned and docked to the side of the display. On today's wide displays, it fits really well. It has a visible handle/leash on the right side of the displa",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 06:06:43 +0000",
-      "timestamp": 1789106803.0
-    },
-    {
-      "title": "Show HN: I pointed 11 cold AI agents at my own product. 3 finished",
-      "link": "https://pact0.com/notes/agents-vs-our-own-product",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 05:59:59 +0000",
-      "timestamp": 1789106399.0
-    },
-    {
-      "title": "Show HN: Swiftime - time tracking you can talk to, with an API for AI agents",
-      "link": "https://swiftime.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 05:04:52 +0000",
-      "timestamp": 1789103092.0
     },
     {
       "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
