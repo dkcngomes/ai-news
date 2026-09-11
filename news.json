@@ -1,7 +1,205 @@
 {
-  "scraped_at": "2026-09-10T21:36:34.440579+00:00",
-  "count": 57,
+  "scraped_at": "2026-09-11T00:09:15.194716+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "AI Agent Builder gives memory across voice, SMS, email, web chat and social",
+      "link": "https://boldagents.co",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 00:03:56 +0000",
+      "timestamp": 1789085036.0
+    },
+    {
+      "title": "A 'swarm' of AI agents hacked Hugging Face, in the AI's own words",
+      "link": "https://www.abc.net.au/news/2026-09-11/how-openai-agents-hacked-hugging-face-messages-revealed/107125126",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:52:29 +0000",
+      "timestamp": 1789084349.0
+    },
+    {
+      "title": "Show HN: Socks Proxy for AI Agents",
+      "link": "https://x402socks.com/",
+      "summary": "I've built a socks5 proxy especially for AI agents, currently there are exit points in east and west US, central EU and east Asia. The payment for the service is settled by the X402 protocol, with USDC on circle/base. You can also purchase access via crypto on the webpage for humans, but the key focus is for autonomous agents.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:42:40 +0000",
+      "timestamp": 1789083760.0
+    },
+    {
+      "title": "Generative AI Using Linuxulator and eGPU on FreeBSD",
+      "link": "https://www.tumfatig.net/2026/generative-ai-using-linuxulator-and-egpu-on-freebsd/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:32:46 +0000",
+      "timestamp": 1789083166.0
+    },
+    {
+      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 10 Sep 2026 23:28:42 +0000",
+      "timestamp": 1789082922.0
+    },
+    {
+      "title": "The Chasm: The Shape of Unfinished AI Codebases",
+      "link": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:24:33 +0000",
+      "timestamp": 1789082673.0
+    },
+    {
+      "title": "AI researchers leave Anthropic and Google: 'There are no adults in the room'",
+      "link": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:23:52 +0000",
+      "timestamp": 1789082632.0
+    },
+    {
+      "title": "Stop externalizing the cost of your AI use to me",
+      "link": "https://thelastsoftwareengineer.substack.com/p/stop-externalizing-the-cost-of-your",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:21:31 +0000",
+      "timestamp": 1789082491.0
+    },
+    {
+      "title": "AI Is Not Going to Kill My Love of Math",
+      "link": "https://chillphysicsenjoyer.substack.com/p/ai-is-not-going-to-kill-my-love-of",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:20:06 +0000",
+      "timestamp": 1789082406.0
+    },
+    {
+      "title": "Xapien raises $56M Series B for AI background checks and due diligence",
+      "link": "https://axios.com/pro/all-deals/2026/09/10/due-diligence-ai-xapien-56-million",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:15:53 +0000",
+      "timestamp": 1789082153.0
+    },
+    {
+      "title": "More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop'",
+      "link": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:12:18 +0000",
+      "timestamp": 1789081938.0
+    },
+    {
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "link": "https://system76.com/workstations/thelio-mira-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:10:06 +0000",
+      "timestamp": 1789081806.0
+    },
+    {
+      "title": "Show HN: Papiers.ai, a new workspace for reading and research",
+      "link": "https://papiers.ai/",
+      "summary": "Hey HN, I built http://papiers.ai , a new workspace for everything you read. As AI gets better at writing, there will be far more worth reading, even in technical domains like scientific research. Our time and attention won’t grow at the same rate, so software should help us make sense of more information while learning what matters to us from what we save, highlight, and share, and the questions we ask. The Papiers desktop app and Chrome extension are a first step in that direction. Download today for Mac, Windows, or Ubuntu at http://papiers.ai !",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 23:07:33 +0000",
+      "timestamp": 1789081653.0
+    },
+    {
+      "title": "Show HN: Papiers.ai, a new workspace for reading and research",
+      "link": "https://twitter.com/sighjith/status/2098147463114932696",
+      "summary": "Hey HN, I built http://papiers.ai , a new workspace for everything you read. As AI gets better at writing, there will be far more worth reading, even in technical domains like scientific research. Our time and attention won’t grow at the same rate, so software should help us make sense of more information while learning what matters to us from what we save, highlight, and share, and the questions we ask. The Papiers desktop app and Chrome extension are a first step in that direction. Download today for Mac, Windows, or Ubuntu at http://papiers.ai !",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 22:42:17 +0000",
+      "timestamp": 1789080137.0
+    },
+    {
+      "title": "Top 20 AI Agent Pen-Testing Tools for 2026: The Ultimate Guide",
+      "link": "https://medium.com/@Koukyosyumei/top-20-ai-agent-pen-testing-tools-for-2026-the-ultimate-guide-40eb18d59138",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 22:27:10 +0000",
+      "timestamp": 1789079230.0
+    },
+    {
+      "title": "Anthropic researchers say AI could cause human extinction by 2030",
+      "link": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 22:22:30 +0000",
+      "timestamp": 1789078950.0
+    },
+    {
+      "title": "QuickGameScheduler – Free Equity-balanced round-robin scheduler with AI edits",
+      "link": "https://www.quickgamescheduler.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 22:02:24 +0000",
+      "timestamp": 1789077744.0
+    },
+    {
+      "title": "GraphQL: Supercharging AI",
+      "link": "https://graphql.org/blog/2025-07-03-graphql-supercharging-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 21:59:43 +0000",
+      "timestamp": 1789077583.0
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 10 Sep 2026 21:51:59 +0000",
+      "timestamp": 1789077119.0
+    },
+    {
+      "title": "Robots stage 'protest' demanding stricter AI rules in Poland",
+      "link": "https://www.polskieradio.pl/395/7991/artykul/3729785,robots-stage-protest-demanding-stricter-ai-rules-in-poland",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 21:49:25 +0000",
+      "timestamp": 1789076965.0
+    },
+    {
+      "title": "Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)",
+      "link": "https://codingsahayi.github.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 21:47:37 +0000",
+      "timestamp": 1789076857.0
+    },
+    {
+      "title": "Cfo.ai",
+      "link": "https://cfo.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 10 Sep 2026 21:44:53 +0000",
+      "timestamp": 1789076693.0
+    },
     {
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
@@ -21,87 +219,6 @@
       "timestamp": 1789075521.0
     },
     {
-      "title": "AI Hack for Freedom or: How Democrats stopped worrying and started to love AI",
-      "link": "https://gist.github.com/h4rm0n1c/0bfec331a67b9070b1de2db51a25d474",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:24:12 +0000",
-      "timestamp": 1789075452.0
-    },
-    {
-      "title": "Former Anthropic researcher warns AI could 'kill us all' [video]",
-      "link": "https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:23:28 +0000",
-      "timestamp": 1789075408.0
-    },
-    {
-      "title": "AI Is an Intelligence Multiplier",
-      "link": "https://www.johndcook.com/blog/2026/09/09/ai-multiplier/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:22:30 +0000",
-      "timestamp": 1789075350.0
-    },
-    {
-      "title": "Project Tailwind is a call for ambitious AI safety initiatives",
-      "link": "https://coefficientgiving.org/tailwind/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:22:20 +0000",
-      "timestamp": 1789075340.0
-    },
-    {
-      "title": "Smart Learning for Developers: How AI Is Changing the Way We Master New Things",
-      "link": "https://www.portotheme.com/smart-learning-for-web-developers-how-ai-is-changing-the-way-we-master-new-frameworks-and-docs/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:15:49 +0000",
-      "timestamp": 1789074949.0
-    },
-    {
-      "title": "Show HN: Stitchwink – Cross-stitch pattern making with AI",
-      "link": "https://stitchwink.com",
-      "summary": "My wife has been cross stitching since she was a child and I wanted to make a tool where she could generate her own custom patterns: https://stitchwink.com/ You can try chatgpt or other AI tools but the problem is that they don't create real patterns. They look good at first glance but it's not actually a physically realizable pattern when you look at the details. The way it works is pretty simple, you use text (& optional images) to create and edit patterns. There's also a built in editor to manually change any of the stitches. It's not perfect but with a few manual edits, she's been able to ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:15:34 +0000",
-      "timestamp": 1789074934.0
-    },
-    {
-      "title": "The AI Takeover Checklist: A Devil's Advocate Audit",
-      "link": "https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:09:41 +0000",
-      "timestamp": 1789074581.0
-    },
-    {
-      "title": "From Idea to Operating Business: How Solo Runs Listmycar.ai",
-      "link": "https://thesolo.ai/blog/listmycar-case-study",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:03:54 +0000",
-      "timestamp": 1789074234.0
-    },
-    {
-      "title": "Japan can turn AI demand into industrial strength",
-      "link": "https://www.governance.fyi/p/how-japan-can-turn-ai-demand-into",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 21:03:14 +0000",
-      "timestamp": 1789074194.0
-    },
-    {
       "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
       "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
@@ -109,15 +226,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 10 Sep 2026 20:59:51 +0000",
       "timestamp": 1789073991.0
-    },
-    {
-      "title": "Ramp: How we built OCA, our AI on-call assistant",
-      "link": "https://builders.ramp.com/post/how-we-built-oca-our-ai-on-call-assistant",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 20:58:11 +0000",
-      "timestamp": 1789073891.0
     },
     {
       "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
@@ -129,15 +237,6 @@
       "timestamp": 1789073850.0
     },
     {
-      "title": "AI-powered biowarfare is coming; the Army lays plans to 'fight through' it",
-      "link": "https://www.defenseone.com/technology/2026/09/ai-powered-biowarfare-looms-army-lays-plans-fight-through-it/415886/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 20:48:43 +0000",
-      "timestamp": 1789073323.0
-    },
-    {
       "title": "Is AI Actually Going to Kill Us All?",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
       "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
@@ -145,51 +244,6 @@
       "source": "Wired AI",
       "published": "Thu, 10 Sep 2026 20:30:37 +0000",
       "timestamp": 1789072237.0
-    },
-    {
-      "title": "AI Agent for Animation",
-      "link": "https://c2anime.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 20:20:54 +0000",
-      "timestamp": 1789071654.0
-    },
-    {
-      "title": "Google to invest at least €13B in AI infrastructure in Finland",
-      "link": "https://bntnews.bg/news/-gugal-shte-investira-nai-malko-13-mlrd-evro-v-infrastruktura-za-izkustven-intelekt-vav-finlandiya-1411559news.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 20:19:51 +0000",
-      "timestamp": 1789071591.0
-    },
-    {
-      "title": "The Thrill of Wanting AI to Destroy the World",
-      "link": "https://www.theatlantic.com/ideas/2026/09/ai-destroy-world-apocalypse/688575/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 20:15:27 +0000",
-      "timestamp": 1789071327.0
-    },
-    {
-      "title": "I developed the first game of my life using AI",
-      "link": "https://drive-next.org/?vehicle=xiaomi-su7-ultra",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 20:14:10 +0000",
-      "timestamp": 1789071250.0
-    },
-    {
-      "title": "Summation: AI Data Analyst",
-      "link": "https://www.summation.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 20:13:29 +0000",
-      "timestamp": 1789071209.0
     },
     {
       "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
@@ -201,15 +255,6 @@
       "timestamp": 1789069804.0
     },
     {
-      "title": "AI Evaluation Is Execution",
-      "link": "https://jasondoyle.ie/whitepapers/when-ai-evaluations-act-on-the-real-world/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 19:49:42 +0000",
-      "timestamp": 1789069782.0
-    },
-    {
       "title": "Schools are catching on to Big Tech’s playbook",
       "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
       "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on [&#8230;]",
@@ -217,15 +262,6 @@
       "source": "The Verge AI",
       "published": "2026-09-10T15:44:20-04:00",
       "timestamp": 1789069460.0
-    },
-    {
-      "title": "An AI-Safety Resignation, Read from the Security Chair",
-      "link": "https://simonroses.com/2026/09/systems-that-can-hack-anything-an-ai-safety-resignation-read-from-the-security-chair/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 10 Sep 2026 19:41:13 +0000",
-      "timestamp": 1789069273.0
     },
     {
       "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
@@ -471,15 +507,6 @@
       "timestamp": 1788969935.0
     },
     {
-      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-      "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans.&#160;So&#160;what happens when we&#160;can&#8217;t&#160;reliably control what these systems do?&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan is joined by&#160;Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 15:50:13 +0000",
-      "timestamp": 1788969013.0
-    },
-    {
       "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
       "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
       "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
@@ -505,15 +532,6 @@
       "source": "Wired AI",
       "published": "Tue, 08 Sep 2026 16:42:05 +0000",
       "timestamp": 1788885725.0
-    },
-    {
-      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-      "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 07 Sep 2026 10:30:00 +0000",
-      "timestamp": 1788777000.0
     }
   ]
 }
