@@ -1,132 +1,213 @@
 {
-  "scraped_at": "2026-09-12T13:35:53.292125+00:00",
+  "scraped_at": "2026-09-12T17:08:03.877412+00:00",
   "count": 59,
   "items": [
     {
-      "title": "Don't build tools for AI agents",
-      "link": "https://www.seangoedecke.com/dont-build-tools-for-ai-agents/",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 13:20:32 +0000",
-      "timestamp": 1789219232.0
+      "published": "Sat, 12 Sep 2026 16:56:52 +0000",
+      "timestamp": 1789232212.0
     },
     {
-      "title": "Political AI Field Guide: Factions and Beliefs",
-      "link": "https://kategage.substack.com/p/political-ai-field-guide-factions",
+      "title": "The AI bringing Zen to First Horizon's call centers",
+      "link": "https://www.americanbanker.com/news/the-ai-bringing-zen-to-first-horizons-call-centers",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 13:16:34 +0000",
-      "timestamp": 1789218994.0
+      "published": "Sat, 12 Sep 2026 16:49:39 +0000",
+      "timestamp": 1789231779.0
     },
     {
-      "title": "Language Preservation Efforts Get an AI Boost",
-      "link": "https://home.dartmouth.edu/news/2025/04/language-preservations-efforts-get-ai-boost",
+      "title": "You Didn't Deploy the AI Agent You Evaluated",
+      "link": "https://www.anuclei.com/blog/you-didnt-deploy-the-agent-you-evaluated",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 12:52:28 +0000",
-      "timestamp": 1789217548.0
+      "published": "Sat, 12 Sep 2026 16:39:13 +0000",
+      "timestamp": 1789231153.0
     },
     {
-      "title": "NüshuRescue: Reviving the Endangered Nüshu Language with AI",
-      "link": "https://aclanthology.org/2025.coling-main.468/",
+      "title": "I built Coach Roger, an AI wellness for days when staying consistent is hard",
+      "link": "https://coachroger.app/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 12:51:25 +0000",
-      "timestamp": 1789217485.0
+      "published": "Sat, 12 Sep 2026 16:37:56 +0000",
+      "timestamp": 1789231076.0
     },
     {
-      "title": "368 of the top 2,771 sites block at least one AI search crawler",
-      "link": "https://ai-visibility.lastminutedealshq.com/sites-blocking-ai-search",
+      "title": "Sam Altman and Elon Musk Support Dario Amodei's Proposal to Pace AI Development",
+      "link": "https://twitter.com/kuberwastaken/status/2098812781223174325",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 12:25:58 +0000",
-      "timestamp": 1789215958.0
+      "published": "Sat, 12 Sep 2026 16:37:35 +0000",
+      "timestamp": 1789231055.0
     },
     {
-      "title": "\"The CUDA Moat is Gone\" – TechTechPotato with AI& founder David Bennet [video]",
-      "link": "https://www.youtube.com/watch?v=TiRxcPQNcBA",
-      "summary": "",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 12:14:22 +0000",
-      "timestamp": 1789215262.0
+      "source": "The Verge AI",
+      "published": "2026-09-12T12:23:40-04:00",
+      "timestamp": 1789230220.0
     },
     {
-      "title": "Journal Editors: How are you evaluating AI assisted papers?",
-      "link": "https://mathoverflow.net/questions/515144/journal-editors-how-are-you-evaluating-ai-assisted-papers",
-      "summary": "",
+      "title": "Start Weekend AI Roasting Your Loved Ones with free-AI-tools-hub.com",
+      "link": "https://news.ycombinator.com/item?id=49673909",
+      "summary": "Let's make some roasts for our family and friends. Try roasting with Free AI Roast Generator: free-ai-tools-hub.com",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 12:06:57 +0000",
-      "timestamp": 1789214817.0
+      "published": "Sat, 12 Sep 2026 16:14:37 +0000",
+      "timestamp": 1789229677.0
     },
     {
-      "title": "AI changing the calculus for Canadian students interested in comp sci",
-      "link": "https://www.theglobeandmail.com/canada/article-ai-computer-science-students-and-schools-that-hope-to-teach-them/",
-      "summary": "",
+      "title": "Show HN: Deviant, a feature-length sci-fi thriller about AI, made with AI",
+      "link": "https://deviantmovie.com/",
+      "summary": "I wrote a screenplay a couple years ago and decided to see if I could actually “film it” with AI video tools. Deviant is the result, an 84 minute sci-fi thriller about a tech mogul's clone that finds an exploit in its own safety code. The process: Character and set reference images in Midjourney and Nano Banana. Scene by scene prompts written from the script (I have an agent skill now for this), generated in Google Veo for most of the film, until it stopped working reliably, then I shelved it. Now with Seedance 2.5 available in the US on Higgsfield, I completed the final act. The last 20 minut",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 11:59:43 +0000",
-      "timestamp": 1789214383.0
+      "published": "Sat, 12 Sep 2026 16:02:08 +0000",
+      "timestamp": 1789228928.0
     },
     {
-      "title": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
-      "link": "https://tattoopreviewai.com",
-      "summary": "",
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "What would it actually look like to \"pace the frontier\"?",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 11:46:14 +0000",
-      "timestamp": 1789213574.0
+      "source": "TechCrunch AI",
+      "published": "Sat, 12 Sep 2026 15:52:11 +0000",
+      "timestamp": 1789228331.0
     },
     {
-      "title": "Show HN: I wrote a book on using AI in game design production (free on GitHub)",
-      "link": "https://github.com/eremes81/game-design-ai-practice-en",
-      "summary": "",
+      "title": "Show HN: MCP that gives Codex/Claude your SEO and AI visibility data",
+      "link": "https://bloomiro.com/mcp",
+      "summary": "What if questions like these just worked: How do I rank higher in Google and AI? Where are my competitors showing up? Which buyer prompts name them instead of us? What should I fix first? Now they do.",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 11:44:34 +0000",
-      "timestamp": 1789213474.0
+      "published": "Sat, 12 Sep 2026 15:44:48 +0000",
+      "timestamp": 1789227888.0
     },
     {
-      "title": "Altman tells staff OpenAI is open to slowing AI development",
-      "link": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/",
+      "title": "A Misalignment of AI and Cancer Biology",
+      "link": "https://twitter.com/mbeisen/status/2098582265190351334",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 11:33:02 +0000",
-      "timestamp": 1789212782.0
+      "published": "Sat, 12 Sep 2026 15:42:34 +0000",
+      "timestamp": 1789227754.0
     },
     {
-      "title": "The Houthi's weapon programme and AI",
-      "link": "https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/",
+      "title": "YoooClaw C·ONE: a Chinese AI card that captures context instead of processing it",
+      "link": "https://sinosphereapp.substack.com/p/yoooclaw-cone-the-ai-gadget-that",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 11:16:30 +0000",
-      "timestamp": 1789211790.0
+      "published": "Sat, 12 Sep 2026 15:30:46 +0000",
+      "timestamp": 1789227046.0
     },
     {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "title": "Anthropic CEO calls for immediate slowdown in AI development",
+      "link": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 11:13:38 +0000",
-      "timestamp": 1789211618.0
+      "published": "Sat, 12 Sep 2026 15:30:17 +0000",
+      "timestamp": 1789227017.0
     },
     {
-      "title": "Andrew Ng: AI Engineering Skills Map: Shaping the Build",
-      "link": "https://twitter.com/andrewyng/status/2098459474608672916",
+      "title": "Exploring denser on-chip AI memory with two-transistor gain cells",
+      "link": "https://arxiv.org/abs/2602.21278",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 11:05:23 +0000",
-      "timestamp": 1789211123.0
+      "published": "Sat, 12 Sep 2026 15:27:19 +0000",
+      "timestamp": 1789226839.0
+    },
+    {
+      "title": "Exposing a Global AI Slop Empire [video]",
+      "link": "https://www.youtube.com/watch?v=GEHHTh5OTnQ",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 15:19:59 +0000",
+      "timestamp": 1789226399.0
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 15:08:27 +0000",
+      "timestamp": 1789225707.0
+    },
+    {
+      "title": "Vals.ai Benchmark – International Olympiad in Informatics",
+      "link": "https://www.vals.ai/benchmarks/ioi",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 15:05:04 +0000",
+      "timestamp": 1789225504.0
+    },
+    {
+      "title": "Trump is giving data centers a pass to pollute",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-12T10:41:27-04:00",
+      "timestamp": 1789224087.0
+    },
+    {
+      "title": "Reduce token cost with Metrum AI Router – routing intelligence you can train",
+      "link": "https://github.com/metrum-ai/router",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 14:39:20 +0000",
+      "timestamp": 1789223960.0
+    },
+    {
+      "title": "A Misalignment of AI in Mathematics: Kevin Buzzard Responds",
+      "link": "https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/Declaration.3A.20A.20Severe.20Misalignment.20of.20AI.20in.20Mathematics/near/623707262",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 14:19:30 +0000",
+      "timestamp": 1789222770.0
+    },
+    {
+      "title": "EU tech chief backs global AI rules in wake of extinction warning",
+      "link": "https://www.politico.eu/article/henna-virkkunen-eu-global-ai-rules-extinction-warning/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 14:16:33 +0000",
+      "timestamp": 1789222593.0
+    },
+    {
+      "title": "Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?",
+      "link": "https://news.ycombinator.com/item?id=49672539",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 14:15:04 +0000",
+      "timestamp": 1789222504.0
+    },
+    {
+      "title": "LLMs are real, AI is fake",
+      "link": "https://pluralistic.net/2026/09/12/god-in-the-box/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 13:47:28 +0000",
+      "timestamp": 1789220848.0
     },
     {
       "title": "OpenAI just wants to win",
@@ -138,33 +219,6 @@
       "timestamp": 1789210800.0
     },
     {
-      "title": "Aristotle and AI",
-      "link": "https://hollisrobbinsanecdotal.substack.com/p/aristotle-and-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 10:57:28 +0000",
-      "timestamp": 1789210648.0
-    },
-    {
-      "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
-      "link": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 10:49:22 +0000",
-      "timestamp": 1789210162.0
-    },
-    {
-      "title": "Top AI spenders cut per-employee costs by nearly 10 percent in August",
-      "link": "https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 10:37:03 +0000",
-      "timestamp": 1789209423.0
-    },
-    {
       "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
       "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
@@ -172,33 +226,6 @@
       "source": "Wired AI",
       "published": "Sat, 12 Sep 2026 10:30:00 +0000",
       "timestamp": 1789209000.0
-    },
-    {
-      "title": "At this point I feel like AI companies selling Fear",
-      "link": "https://news.ycombinator.com/item?id=49670907",
-      "summary": "AI can do reasoning better But It can't outsmart humans , AI gets trained on data but human have their learning with them ,only about 5% of data a human share as learning, knowledge - rest it just inside us ,So technically AI can't replace human , We do take inspiration , cross domain analysis and much diff things ,that a machine can't even do So I feel like These AI companies are just selling fear just to promote their product , what are your thoughts on this",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 10:26:40 +0000",
-      "timestamp": 1789208800.0
-    },
-    {
-      "title": "Static state was not enough for a long-running human-AI interaction",
-      "link": "https://github.com/jerry-h-research/static-state-was-not-enough",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 10:19:07 +0000",
-      "timestamp": 1789208347.0
-    },
-    {
-      "title": "AI Didn't Solve Fluid Dynamics [video]",
-      "link": "https://www.youtube.com/watch?v=WfbtnY3HdFU",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 10:18:29 +0000",
-      "timestamp": 1789208309.0
     },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -462,24 +489,6 @@
       "timestamp": 1789049857.0
     },
     {
-      "title": "Why the current tech backlash feels different",
-      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-      "summary": "This interview has been lightly edited for length and clarity.&#160; Nick Statt: Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer. And I&#8217;m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-10T10:00:00-04:00",
-      "timestamp": 1789048800.0
-    },
-    {
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lack of transparency about the origins [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-10T07:00:57-04:00",
-      "timestamp": 1789038057.0
-    },
-    {
       "title": "Everything New You Can Do With Siri AI",
       "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
       "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
@@ -505,15 +514,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 10 Sep 2026 00:00:37 +0000",
       "timestamp": 1788998437.0
-    },
-    {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 22:25:22 +0000",
-      "timestamp": 1788992722.0
     },
     {
       "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
