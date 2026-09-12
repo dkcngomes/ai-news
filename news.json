@@ -1,186 +1,213 @@
 {
-  "scraped_at": "2026-09-12T19:19:00.811261+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-12T22:15:36.969125+00:00",
+  "count": 58,
   "items": [
     {
-      "title": "Recommendations for Teaching with AI (Fall 2026)",
-      "link": "https://wiki.alcidesfonseca.com/blog/fall-2026-recommendations-for-ai-in-higher-education/",
+      "title": "Rivals Altman and Musk rally behind Dario Amodei's call for an AI slowdown",
+      "link": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 19:14:22 +0000",
-      "timestamp": 1789240462.0
+      "published": "Sat, 12 Sep 2026 22:07:08 +0000",
+      "timestamp": 1789250828.0
     },
     {
-      "title": "Google allegedly stole open-source code for mobile AI tool",
-      "link": "https://www.neowin.net/news/google-steals-open-source-code-for-mobile-ai-tool/",
+      "title": "Show HN: Open-sourced solution to AI manage Playwright automations",
+      "link": "https://github.com/rakutentech/sorify",
+      "summary": "We built a comprehensive system that connects directly to the AI agents through MCP for writing, managing most type of browser automations. Purpose is for automated testing or automating browser based workflows. It provides notifications, scheduling, pre/post hooks, IAM management, cookies support, json payloads. Has a hybrid Chrome extension too, that can agents can read to write automations directly instead of you writing the the prompt. From developer of Sorify - on Apache 2.0",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 22:00:47 +0000",
+      "timestamp": 1789250447.0
+    },
+    {
+      "title": "OpenAI rules out IPO this year as Altman/Musk/Amodei warn AI is moving too fast",
+      "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 19:05:11 +0000",
-      "timestamp": 1789239911.0
+      "published": "Sat, 12 Sep 2026 21:59:06 +0000",
+      "timestamp": 1789250346.0
     },
     {
-      "title": "Musk and Altman back Anthropic CEO on slowing AI down",
-      "link": "https://www.yahoo.com/news/us/article/dario-is-right-musk-and-altman-back-anthropic-ceo-on-slowing-ai-down-182008851.html",
+      "title": "Detecting and countering misuse of AI Sep 2026 [pdf]",
+      "link": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 18:45:34 +0000",
-      "timestamp": 1789238734.0
+      "published": "Sat, 12 Sep 2026 21:45:45 +0000",
+      "timestamp": 1789249545.0
     },
     {
-      "title": "Show HN: AI-Powered Word Guessing Game",
-      "link": "https://synapse.akshayr.xyz/",
-      "summary": "Made a word game, inspired by other popular games but with a guesser powered by Gemini 3.5 Flash Lite. Feedback welcome!",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 18:44:12 +0000",
-      "timestamp": 1789238652.0
-    },
-    {
-      "title": "Dario Just Said Pump the Brakes on AI",
-      "link": "https://captaincompliance.com/education/dario-just-proposed-slowing-ai-development-on-purpose/",
+      "title": "Show HN: No_human – The AI coding factory that you can TRUST",
+      "link": "https://github.com/no-human-ai/no_human",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 18:26:54 +0000",
-      "timestamp": 1789237614.0
+      "published": "Sat, 12 Sep 2026 21:45:17 +0000",
+      "timestamp": 1789249517.0
     },
     {
-      "title": "AI Bubble Crashing Its Way into AI Abundance?",
-      "link": "https://news.ycombinator.com/item?id=49675362",
-      "summary": "As we move into a world of maximum engagement over substance and hype over reality, it becomes more important than ever to sift through the noise and find the truth. This is especially true in today's AI industry. If you read Twitter, it sometimes seems like everyone believes AI is going to take over the world and everybody's jobs next year, or that the whole thing is just a giant bubble. At this point, most people have probably seen some version of the basic AI bubble theory: AI spending is a massive bubble, frontier labs are spending aggressively ahead of IPOs, and eventually the market will",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 18:16:59 +0000",
-      "timestamp": 1789237019.0
+      "source": "The Verge AI",
+      "published": "2026-09-12T17:41:36-04:00",
+      "timestamp": 1789249296.0
     },
     {
-      "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
-      "link": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+      "title": "AI for Life",
+      "link": "https://apps.apple.com/us/app/expert-chase-ai-for-life/id6766313000",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 18:08:33 +0000",
-      "timestamp": 1789236513.0
+      "published": "Sat, 12 Sep 2026 21:41:30 +0000",
+      "timestamp": 1789249290.0
     },
     {
-      "title": "Scaling classical music concert crawlers with AI agents",
-      "link": "https://classicalbot.com/blog/scaling-classical-music-concert-crawlers-with-ai-agents",
+      "title": "The AI Music Race Is Over",
+      "link": "https://www.youtube.com/watch?v=ECLy6JnBdoY",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 18:07:13 +0000",
-      "timestamp": 1789236433.0
+      "published": "Sat, 12 Sep 2026 21:29:17 +0000",
+      "timestamp": 1789248557.0
     },
     {
-      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-12T17:16:28-04:00",
+      "timestamp": 1789247788.0
+    },
+    {
+      "title": "Comment: Feeling Sad about AI",
+      "link": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 18:07:07 +0000",
-      "timestamp": 1789236427.0
+      "published": "Sat, 12 Sep 2026 21:02:27 +0000",
+      "timestamp": 1789246947.0
     },
     {
-      "title": "DEF Con 34 – Hacking AI – Bruce Schneier [video]",
-      "link": "https://www.youtube.com/watch?v=eEBv0STiYhI",
+      "title": "Teaching Novice Computing and Programming in the Agentic AI Era [pdf]",
+      "link": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 18:01:35 +0000",
-      "timestamp": 1789236095.0
+      "published": "Sat, 12 Sep 2026 20:56:04 +0000",
+      "timestamp": 1789246564.0
     },
     {
-      "title": "Anthropic CEO calls for the AI industry to slow down",
-      "link": "https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/",
+      "title": "Sensetime Posts First Profit Since Listing as AI Revenue Rises",
+      "link": "https://technode.global/2026/08/27/sensetime-h1-2026-first-profit-generative-ai-revenue/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 17:50:39 +0000",
-      "timestamp": 1789235439.0
+      "published": "Sat, 12 Sep 2026 20:43:46 +0000",
+      "timestamp": 1789245826.0
     },
     {
-      "title": "Shooting yourself in the foot (safely): Inside AI red teaming philosophy",
-      "link": "https://www.neuralab.net/shooting-yourself-in-the-foot-safely-inside-ai-red-teaming-philosophy/",
+      "title": "Navigating the AI crisis: a humble guide for math students",
+      "link": "https://arxiv.org/abs/2609.06889",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 17:49:35 +0000",
-      "timestamp": 1789235375.0
+      "published": "Sat, 12 Sep 2026 20:36:27 +0000",
+      "timestamp": 1789245387.0
     },
     {
-      "title": "The mathematicians rebel against AI",
-      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-mathematicians-rebel-against-ai.html",
+      "title": "Inside The Discussions at AI Companies over a Superintelligence Doomsday",
+      "link": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 17:33:19 +0000",
-      "timestamp": 1789234399.0
+      "published": "Sat, 12 Sep 2026 20:30:51 +0000",
+      "timestamp": 1789245051.0
     },
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "link": "https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating",
+      "title": "When AI Safety become market capture",
+      "link": "https://news.ycombinator.com/item?id=49676869",
+      "summary": "The danger is not that AI makes yesterday’s work easier or kills humanity. The danger is that we use it only to produce more of yesterday’s work. more ads, more low qual content, more bureaucratic language, more basura. Meanwhile, some of the loudest voices selling “AI safety” deserve antitrust scrutiny. When incumbent firms warn that the technology is too dangerous for ordinary competition but conveniently safe inside their own products, partnerships, and forthcoming IPOs...fear begins to look less like public service and more like market capture. Safety rules should if anything try to addres",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 20:30:05 +0000",
+      "timestamp": 1789245005.0
+    },
+    {
+      "title": "Ask HN: If AI writes the code, what matters?",
+      "link": "https://news.ycombinator.com/item?id=49676852",
+      "summary": "AI is getting pretty good at writing code. Not all of it, obviously, but enough that I keep wondering what this does to the job of a software engineer. If writing the code is no longer the hard part, what is? Understanding the problem? System design? Knowing the product and users? Making good decisions about what to build? What do you think will make someone a really good software engineer in the next few years?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 20:28:44 +0000",
+      "timestamp": 1789244924.0
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "link": "https://withspecific.com/benchmarks/real-swe",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 17:23:16 +0000",
-      "timestamp": 1789233796.0
+      "published": "Sat, 12 Sep 2026 20:25:48 +0000",
+      "timestamp": 1789244748.0
     },
     {
-      "title": "I Refuse to Code with AI",
-      "link": "https://www.youtube.com/watch?v=9WjPdgOK-68",
+      "title": "Block CFO on AI doomsday debate: We need to balance innovation and safeguards",
+      "link": "https://finance.yahoo.com/technology/article/block-cfo-on-ai-doomsday-debate-we-need-to-balance-innovation-and-safeguards-163715189.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 17:18:59 +0000",
-      "timestamp": 1789233539.0
+      "published": "Sat, 12 Sep 2026 20:24:34 +0000",
+      "timestamp": 1789244674.0
     },
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+      "title": "High school students use AI to solve an open problem in mathematics",
+      "link": "https://twitter.com/QuanquanGu/status/2098858841903681902",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 16:56:52 +0000",
-      "timestamp": 1789232212.0
+      "published": "Sat, 12 Sep 2026 20:23:46 +0000",
+      "timestamp": 1789244626.0
     },
     {
-      "title": "The AI bringing Zen to First Horizon's call centers",
-      "link": "https://www.americanbanker.com/news/the-ai-bringing-zen-to-first-horizons-call-centers",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "timestamp": 1789244356.0
+    },
+    {
+      "title": "The Accountability Gap in AI",
+      "link": "https://lyfe.ninja/news/the-accountability-gap-in-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 16:49:39 +0000",
-      "timestamp": 1789231779.0
+      "published": "Sat, 12 Sep 2026 20:11:54 +0000",
+      "timestamp": 1789243914.0
     },
     {
-      "title": "You Didn't Deploy the AI Agent You Evaluated",
-      "link": "https://www.anuclei.com/blog/you-didnt-deploy-the-agent-you-evaluated",
+      "title": "Show HN: AgentRuleBench, does AI agents violate inferred architecture rules?",
+      "link": "https://github.com/Tommkruix/agentrulebench",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 16:39:13 +0000",
-      "timestamp": 1789231153.0
+      "published": "Sat, 12 Sep 2026 19:57:08 +0000",
+      "timestamp": 1789243028.0
     },
     {
-      "title": "I built Coach Roger, an AI wellness for days when staying consistent is hard",
-      "link": "https://coachroger.app/",
-      "summary": "",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 16:37:56 +0000",
-      "timestamp": 1789231076.0
-    },
-    {
-      "title": "Sam Altman and Elon Musk Support Dario Amodei's Proposal to Pace AI Development",
-      "link": "https://twitter.com/kuberwastaken/status/2098812781223174325",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 16:37:35 +0000",
-      "timestamp": 1789231055.0
+      "source": "TechCrunch AI",
+      "published": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "timestamp": 1789241684.0
     },
     {
       "title": "Anthropic CEO says it’s time to pump the brakes on AI",
@@ -190,15 +217,6 @@
       "source": "The Verge AI",
       "published": "2026-09-12T12:23:40-04:00",
       "timestamp": 1789230220.0
-    },
-    {
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary": "What would it actually look like to \"pace the frontier\"?",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 12 Sep 2026 15:52:11 +0000",
-      "timestamp": 1789228331.0
     },
     {
       "title": "Trump is giving data centers a pass to pollute",
@@ -453,24 +471,6 @@
       "timestamp": 1789062300.0
     },
     {
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-10T11:38:19-04:00",
-      "timestamp": 1789054699.0
-    },
-    {
-      "title": "Meta’s Muse AI works and creeps me out",
-      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-10T11:00:00-04:00",
-      "timestamp": 1789052400.0
-    },
-    {
       "title": "AI agents are flooding public services with new requests",
       "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
       "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
@@ -505,15 +505,6 @@
       "source": "Wired AI",
       "published": "Thu, 10 Sep 2026 10:00:00 +0000",
       "timestamp": 1789034400.0
-    },
-    {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 10 Sep 2026 00:00:37 +0000",
-      "timestamp": 1788998437.0
     },
     {
       "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
