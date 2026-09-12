@@ -1,177 +1,204 @@
 {
-  "scraped_at": "2026-09-12T09:19:18.674933+00:00",
-  "count": 58,
+  "scraped_at": "2026-09-12T13:35:53.292125+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "GoatCode – open-source terminal AI agent with provider failover",
-      "link": "https://news.ycombinator.com/item?id=49670455",
-      "summary": "GoatCode is a single 85 MB binary that runs in your terminal. It brings 180+ LLM providers (or your existing Claude/ChatGPT/Gemini/Copilot subscriptions via OAuth), and when your quota dies mid-session it automatically retries then walks your fallback chain live — switches provider mid-turn, says so, and finishes the answer. No crash, no lost context. What’s new in v2.1.10: - Prompt caching on Anthropic (up to 90% cheaper long sessions; savings shown in /cost) - Inline unified diffs after every write/edit - /rewind — jump transcript + files back to any turn - Parallel subagents (up to 3 task c",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 09:02:29 +0000",
-      "timestamp": 1789203749.0
-    },
-    {
-      "title": "AI may be denting computer science graduates' job prospects, UK data shows",
-      "link": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
+      "title": "Don't build tools for AI agents",
+      "link": "https://www.seangoedecke.com/dont-build-tools-for-ai-agents/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 08:57:43 +0000",
-      "timestamp": 1789203463.0
+      "published": "Sat, 12 Sep 2026 13:20:32 +0000",
+      "timestamp": 1789219232.0
     },
     {
-      "title": "UAE revises 5GW AI data center plan after Iranian attacks, sources say",
-      "link": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/",
+      "title": "Political AI Field Guide: Factions and Beliefs",
+      "link": "https://kategage.substack.com/p/political-ai-field-guide-factions",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 08:35:02 +0000",
-      "timestamp": 1789202102.0
+      "published": "Sat, 12 Sep 2026 13:16:34 +0000",
+      "timestamp": 1789218994.0
     },
     {
-      "title": "Show HN: Sharpniq – AI-powered tool to unblur images online",
-      "link": "https://unblurimage.me",
-      "summary": "Sharpniq is an AI-powered unblur image tool that sharpens blurry photos and restores image clarity online in seconds, with no software installation required.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 08:13:30 +0000",
-      "timestamp": 1789200810.0
-    },
-    {
-      "title": "Interview: Terence Tao on AI",
-      "link": "https://teorth.github.io/tao-web/ai-views-interview.html",
+      "title": "Language Preservation Efforts Get an AI Boost",
+      "link": "https://home.dartmouth.edu/news/2025/04/language-preservations-efforts-get-ai-boost",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 08:08:50 +0000",
-      "timestamp": 1789200530.0
+      "published": "Sat, 12 Sep 2026 12:52:28 +0000",
+      "timestamp": 1789217548.0
     },
     {
-      "title": "Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs",
-      "link": "https://github.com/antonyrag/ragleap-core",
+      "title": "NüshuRescue: Reviving the Endangered Nüshu Language with AI",
+      "link": "https://aclanthology.org/2025.coling-main.468/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 07:33:30 +0000",
-      "timestamp": 1789198410.0
+      "published": "Sat, 12 Sep 2026 12:51:25 +0000",
+      "timestamp": 1789217485.0
     },
     {
-      "title": "Jot – AI Rewriter",
-      "link": "https://chromewebstore.google.com/detail/jot-ai-writing-rewriting/ocbfgpiibmgkkjbpbpnhejalpakdonjh",
+      "title": "368 of the top 2,771 sites block at least one AI search crawler",
+      "link": "https://ai-visibility.lastminutedealshq.com/sites-blocking-ai-search",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 07:28:45 +0000",
-      "timestamp": 1789198125.0
+      "published": "Sat, 12 Sep 2026 12:25:58 +0000",
+      "timestamp": 1789215958.0
     },
     {
-      "title": "Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing",
-      "link": "https://spiteware.ai/",
-      "summary": "A catalog of apps people built because the paid tool wasn't worth the price. Static site, source on GitHub with the criteria for what counts. An agent finds candidates each morning; I approve every listing by hand. Send me apps I've missed.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 07:27:54 +0000",
-      "timestamp": 1789198074.0
-    },
-    {
-      "title": "Ask HN: What is the most overlooked risk in the AI security domain?",
-      "link": "https://news.ycombinator.com/item?id=49669858",
-      "summary": "As someone who's interested in pentesting and red-teaming in general, I'm wondering what are some more dangerous AI/ML or LLM related vulnerabilities besides your usual prompt injection. Specifically, what kinds of flaws are harder to catch with typical pentesting methods, and how do you think pentesters are going to have to change to find them?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 07:27:23 +0000",
-      "timestamp": 1789198043.0
-    },
-    {
-      "title": "Roundtables: AI's Apocalypse Crisis",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "title": "\"The CUDA Moat is Gone\" – TechTechPotato with AI& founder David Bennet [video]",
+      "link": "https://www.youtube.com/watch?v=TiRxcPQNcBA",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 07:02:38 +0000",
-      "timestamp": 1789196558.0
+      "published": "Sat, 12 Sep 2026 12:14:22 +0000",
+      "timestamp": 1789215262.0
     },
     {
-      "title": "This is really bad: AI Safety Threat",
-      "link": "https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html",
+      "title": "Journal Editors: How are you evaluating AI assisted papers?",
+      "link": "https://mathoverflow.net/questions/515144/journal-editors-how-are-you-evaluating-ai-assisted-papers",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 06:42:22 +0000",
-      "timestamp": 1789195342.0
+      "published": "Sat, 12 Sep 2026 12:06:57 +0000",
+      "timestamp": 1789214817.0
     },
     {
-      "title": "Artemis: Google's new AI agent framework for mobile test automation",
-      "link": "https://github.com/google/artemis",
+      "title": "AI changing the calculus for Canadian students interested in comp sci",
+      "link": "https://www.theglobeandmail.com/canada/article-ai-computer-science-students-and-schools-that-hope-to-teach-them/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 06:34:28 +0000",
-      "timestamp": 1789194868.0
+      "published": "Sat, 12 Sep 2026 11:59:43 +0000",
+      "timestamp": 1789214383.0
     },
     {
-      "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
-      "link": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+      "title": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
+      "link": "https://tattoopreviewai.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 05:31:08 +0000",
-      "timestamp": 1789191068.0
+      "published": "Sat, 12 Sep 2026 11:46:14 +0000",
+      "timestamp": 1789213574.0
     },
     {
-      "title": "Teaching Novice Computing and Programming in the Agentic AI Era",
-      "link": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/",
+      "title": "Show HN: I wrote a book on using AI in game design production (free on GitHub)",
+      "link": "https://github.com/eremes81/game-design-ai-practice-en",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 05:28:18 +0000",
-      "timestamp": 1789190898.0
+      "published": "Sat, 12 Sep 2026 11:44:34 +0000",
+      "timestamp": 1789213474.0
     },
     {
-      "title": "Pacman AI framework for controlling fusion systems safely makes key decisions",
-      "link": "https://www.pppl.gov/news/2026/pacman-ai-framework-controlling-fusion-systems-safely-makes-key-decisions-milliseconds",
+      "title": "Altman tells staff OpenAI is open to slowing AI development",
+      "link": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 04:31:28 +0000",
-      "timestamp": 1789187488.0
+      "published": "Sat, 12 Sep 2026 11:33:02 +0000",
+      "timestamp": 1789212782.0
     },
     {
-      "title": "Why AI chatbots make bad tutors",
-      "link": "https://www.heyaristotle.com/blog/why-ai-chatbots-make-bad-tutors",
+      "title": "The Houthi's weapon programme and AI",
+      "link": "https://www.karlsnotes.com/the-houthis-weapon-programme-and-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 04:28:13 +0000",
-      "timestamp": 1789187293.0
+      "published": "Sat, 12 Sep 2026 11:16:30 +0000",
+      "timestamp": 1789211790.0
     },
     {
-      "title": "Why the AI race has its creators fearing human extinction",
-      "link": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66",
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 04:19:38 +0000",
-      "timestamp": 1789186778.0
+      "published": "Sat, 12 Sep 2026 11:13:38 +0000",
+      "timestamp": 1789211618.0
     },
     {
-      "title": "AI Kills Everybody or Doomer Psyop? (All in Podcast)",
-      "link": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
+      "title": "Andrew Ng: AI Engineering Skills Map: Shaping the Build",
+      "link": "https://twitter.com/andrewyng/status/2098459474608672916",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 04:14:21 +0000",
-      "timestamp": 1789186461.0
+      "published": "Sat, 12 Sep 2026 11:05:23 +0000",
+      "timestamp": 1789211123.0
     },
     {
-      "title": "AI Has Solved One of Math's $1M Millennium Prize Problems",
-      "link": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+      "title": "OpenAI just wants to win",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-12T07:00:00-04:00",
+      "timestamp": 1789210800.0
+    },
+    {
+      "title": "Aristotle and AI",
+      "link": "https://hollisrobbinsanecdotal.substack.com/p/aristotle-and-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 03:53:49 +0000",
-      "timestamp": 1789185229.0
+      "published": "Sat, 12 Sep 2026 10:57:28 +0000",
+      "timestamp": 1789210648.0
+    },
+    {
+      "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+      "link": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 10:49:22 +0000",
+      "timestamp": 1789210162.0
+    },
+    {
+      "title": "Top AI spenders cut per-employee costs by nearly 10 percent in August",
+      "link": "https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 10:37:03 +0000",
+      "timestamp": 1789209423.0
+    },
+    {
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sat, 12 Sep 2026 10:30:00 +0000",
+      "timestamp": 1789209000.0
+    },
+    {
+      "title": "At this point I feel like AI companies selling Fear",
+      "link": "https://news.ycombinator.com/item?id=49670907",
+      "summary": "AI can do reasoning better But It can't outsmart humans , AI gets trained on data but human have their learning with them ,only about 5% of data a human share as learning, knowledge - rest it just inside us ,So technically AI can't replace human , We do take inspiration , cross domain analysis and much diff things ,that a machine can't even do So I feel like These AI companies are just selling fear just to promote their product , what are your thoughts on this",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 10:26:40 +0000",
+      "timestamp": 1789208800.0
+    },
+    {
+      "title": "Static state was not enough for a long-running human-AI interaction",
+      "link": "https://github.com/jerry-h-research/static-state-was-not-enough",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 10:19:07 +0000",
+      "timestamp": 1789208347.0
+    },
+    {
+      "title": "AI Didn't Solve Fluid Dynamics [video]",
+      "link": "https://www.youtube.com/watch?v=WfbtnY3HdFU",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 10:18:29 +0000",
+      "timestamp": 1789208309.0
     },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -498,15 +525,6 @@
       "timestamp": 1788991915.0
     },
     {
-      "title": "Suno releases its first AI music model made with record industry help",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-09T17:42:19-04:00",
-      "timestamp": 1788990139.0
-    },
-    {
       "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
       "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
       "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
@@ -514,15 +532,6 @@
       "source": "Wired AI",
       "published": "Wed, 09 Sep 2026 21:15:27 +0000",
       "timestamp": 1788988527.0
-    },
-    {
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-      "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 09 Sep 2026 18:30:00 +0000",
-      "timestamp": 1788978600.0
     }
   ]
 }
