@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-09-12T00:16:37.874235+00:00",
-  "count": 58,
+  "scraped_at": "2026-09-12T04:39:34.743373+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "Pacman AI framework for controlling fusion systems safely makes key decisions",
+      "link": "https://www.pppl.gov/news/2026/pacman-ai-framework-controlling-fusion-systems-safely-makes-key-decisions-milliseconds",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 04:31:28 +0000",
+      "timestamp": 1789187488.0
+    },
+    {
+      "title": "Why AI chatbots make bad tutors",
+      "link": "https://www.heyaristotle.com/blog/why-ai-chatbots-make-bad-tutors",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 04:28:13 +0000",
+      "timestamp": 1789187293.0
+    },
+    {
+      "title": "Why the AI race has its creators fearing human extinction",
+      "link": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 04:19:38 +0000",
+      "timestamp": 1789186778.0
+    },
+    {
+      "title": "AI Kills Everybody or Doomer Psyop? (All in Podcast)",
+      "link": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 04:14:21 +0000",
+      "timestamp": 1789186461.0
+    },
+    {
+      "title": "AI Has Solved One of Math's $1M Millennium Prize Problems",
+      "link": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 03:53:49 +0000",
+      "timestamp": 1789185229.0
+    },
+    {
+      "title": "AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension",
+      "link": "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/dG_VSqyli1A",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 03:10:17 +0000",
+      "timestamp": 1789182617.0
+    },
+    {
+      "title": "Ask HN: How do you (AI researchers) convince yourselves that AI isn't terrible?",
+      "link": "https://news.ycombinator.com/item?id=49668216",
+      "summary": "Obvious parallels with developing nuclear weapons in the forties. I guess one argument is now, if you don't do it, someone else will, but are there AI researchers who actually believe at this point that this is good for humanity. Because I don't see it. I'll take all the diseases and crt monitors for whatever advances AI is promising at this point.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 02:44:56 +0000",
+      "timestamp": 1789181096.0
+    },
+    {
+      "title": "Classifying AI Website Fetches on Behalf of Users",
+      "link": "https://canonry.ai/blog/classifying-ai-crawlers-user-fetches-server-logs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 02:25:29 +0000",
+      "timestamp": 1789179929.0
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating? – Yoshua Bengio",
+      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 02:13:50 +0000",
+      "timestamp": 1789179230.0
+    },
+    {
+      "title": "\"What Is an 'AI Warning Shot'?\" (2024)",
+      "link": "https://gwern.net/blog/2024/sydney",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 01:46:45 +0000",
+      "timestamp": 1789177605.0
+    },
+    {
+      "title": "Reduced AI cheating on a long task from 72% to 0 with 190 token agreement prompt",
+      "link": "https://www.echohive.ai/grok-integrity-agreement-less-cheating",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 01:21:38 +0000",
+      "timestamp": 1789176098.0
+    },
+    {
+      "title": "Mathematicians Confront the AI Apocalypse",
+      "link": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 01:15:25 +0000",
+      "timestamp": 1789175725.0
+    },
+    {
+      "title": "Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)",
+      "link": "https://github.com/XNet-NGO/aiope",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 01:11:18 +0000",
+      "timestamp": 1789175478.0
+    },
+    {
+      "title": "Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around",
+      "link": "https://apps.apple.com/us/app/smart-notes-folders-fog/id6760272134",
+      "summary": "Hey everyone, This is my first time posting on Show HN, so hello there. Back in March, I launched my first app on the App Store. It was a notes app that uses Apple's on-device foundation model to organize your notes for you, and I called it Fog. And boy did I learn a lot. Looking at the notes app category and how saturated it currently is, I wanted to try something different. Privacy is #1, so notes should stay on the device, keeping the user in control. Then there was the AI aspect I was using to \"automatically organize\". So when a user creates a new note, it auto-names the note, generates ta",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 00:53:26 +0000",
+      "timestamp": 1789174406.0
+    },
+    {
+      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+      "link": "https://twitter.com/venturetwins/status/2098456905526211026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 00:24:36 +0000",
+      "timestamp": 1789172676.0
+    },
     {
       "title": "One Thought Consumes Me Often, So I Made an AI App to Make It Real",
       "link": "https://play.google.com/store/apps/details?id=com.council.the_council",
@@ -57,87 +192,6 @@
       "timestamp": 1789166528.0
     },
     {
-      "title": "Bernie Sanders AI Bill Threatens Developers with 20-Year Jail Terms",
-      "link": "https://timesofindia.indiatimes.com/technology/tech-news/bernie-sanders-introduces-a-bill-in-senate-that-may-land-sam-altman-dario-amodei-and-other-top-tech-executives-in-jail-for-as-much-as-20-years/articleshow/133749410.cms",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 22:40:02 +0000",
-      "timestamp": 1789166402.0
-    },
-    {
-      "title": "UN calls for global fund to address AI capacity gaps in developing nations",
-      "link": "https://www.un.org/digital-emerging-technologies/content/secretary-general-calls-global-fund-address-ai-capacity-building-gaps-developing-countries",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 22:39:59 +0000",
-      "timestamp": 1789166399.0
-    },
-    {
-      "title": "Adversaries Using Claude AI to Target Americans and Develop Missiles",
-      "link": "https://www.twz.com/news-features/adversaries-using-claude-ai-to-target-americans-and-develop-missiles-is-a-sign-of-whats-to-come",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 22:36:03 +0000",
-      "timestamp": 1789166163.0
-    },
-    {
-      "title": "They do think AI might kill everyone",
-      "link": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 22:30:09 +0000",
-      "timestamp": 1789165809.0
-    },
-    {
-      "title": "How AI Is Changing Audio Restoration in 2026",
-      "link": "https://audioconverterai.io/blog/ai-audio-restoration",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 21:49:10 +0000",
-      "timestamp": 1789163350.0
-    },
-    {
-      "title": "FreelanceFend – AI web app and extension to screen freelance clients",
-      "link": "https://www.freelancefend.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 21:47:59 +0000",
-      "timestamp": 1789163279.0
-    },
-    {
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 21:35:29 +0000",
-      "timestamp": 1789162529.0
-    },
-    {
-      "title": "Mapping WYSIWYG diffs to AI runs and sources",
-      "link": "https://lexifina.com/blog/granular-ai-diffs-and-source-tracing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 21:27:24 +0000",
-      "timestamp": 1789162044.0
-    },
-    {
-      "title": "The Costs of AI Acceleration",
-      "link": "https://thanosapollo.org/posts/costs-of-ai-acceleration/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 21:21:29 +0000",
-      "timestamp": 1789161689.0
-    },
-    {
       "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
@@ -165,24 +219,6 @@
       "timestamp": 1789159442.0
     },
     {
-      "title": "The Expert Record – The Standard for Expert Witnesses Using AI",
-      "link": "https://www.theexpertrecord.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 20:42:47 +0000",
-      "timestamp": 1789159367.0
-    },
-    {
-      "title": "Mike Johnson urged to cancel House recess over AI warnings",
-      "link": "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 20:41:08 +0000",
-      "timestamp": 1789159268.0
-    },
-    {
       "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
       "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
@@ -199,33 +235,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 11 Sep 2026 20:30:17 +0000",
       "timestamp": 1789158617.0
-    },
-    {
-      "title": "Trustworthy Human-AI Collab in a Live Type-Theoretic Computational Commons",
-      "link": "https://www.janestreet.com/tech-talks/trustworthy-human-ai-collaboration-in-a-live-type-theoretic-computational-commons/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 20:20:39 +0000",
-      "timestamp": 1789158039.0
-    },
-    {
-      "title": "LLMjacking: AI Model Hijacking Reaches Black Market Scale",
-      "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-llmjacking-black-market-ai-model-hijacking/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 20:19:43 +0000",
-      "timestamp": 1789157983.0
-    },
-    {
-      "title": "AI children's books, body horror edition",
-      "link": "https://blog.coredump.cx/p/ai-childrens-books-body-horror-edition",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 20:10:48 +0000",
-      "timestamp": 1789157448.0
     },
     {
       "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
