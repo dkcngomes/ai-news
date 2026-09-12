@@ -1,7 +1,133 @@
 {
-  "scraped_at": "2026-09-12T04:39:34.743373+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-12T09:19:18.674933+00:00",
+  "count": 58,
   "items": [
+    {
+      "title": "GoatCode – open-source terminal AI agent with provider failover",
+      "link": "https://news.ycombinator.com/item?id=49670455",
+      "summary": "GoatCode is a single 85 MB binary that runs in your terminal. It brings 180+ LLM providers (or your existing Claude/ChatGPT/Gemini/Copilot subscriptions via OAuth), and when your quota dies mid-session it automatically retries then walks your fallback chain live — switches provider mid-turn, says so, and finishes the answer. No crash, no lost context. What’s new in v2.1.10: - Prompt caching on Anthropic (up to 90% cheaper long sessions; savings shown in /cost) - Inline unified diffs after every write/edit - /rewind — jump transcript + files back to any turn - Parallel subagents (up to 3 task c",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 09:02:29 +0000",
+      "timestamp": 1789203749.0
+    },
+    {
+      "title": "AI may be denting computer science graduates' job prospects, UK data shows",
+      "link": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 08:57:43 +0000",
+      "timestamp": 1789203463.0
+    },
+    {
+      "title": "UAE revises 5GW AI data center plan after Iranian attacks, sources say",
+      "link": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 08:35:02 +0000",
+      "timestamp": 1789202102.0
+    },
+    {
+      "title": "Show HN: Sharpniq – AI-powered tool to unblur images online",
+      "link": "https://unblurimage.me",
+      "summary": "Sharpniq is an AI-powered unblur image tool that sharpens blurry photos and restores image clarity online in seconds, with no software installation required.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 08:13:30 +0000",
+      "timestamp": 1789200810.0
+    },
+    {
+      "title": "Interview: Terence Tao on AI",
+      "link": "https://teorth.github.io/tao-web/ai-views-interview.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 08:08:50 +0000",
+      "timestamp": 1789200530.0
+    },
+    {
+      "title": "Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs",
+      "link": "https://github.com/antonyrag/ragleap-core",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 07:33:30 +0000",
+      "timestamp": 1789198410.0
+    },
+    {
+      "title": "Jot – AI Rewriter",
+      "link": "https://chromewebstore.google.com/detail/jot-ai-writing-rewriting/ocbfgpiibmgkkjbpbpnhejalpakdonjh",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 07:28:45 +0000",
+      "timestamp": 1789198125.0
+    },
+    {
+      "title": "Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing",
+      "link": "https://spiteware.ai/",
+      "summary": "A catalog of apps people built because the paid tool wasn't worth the price. Static site, source on GitHub with the criteria for what counts. An agent finds candidates each morning; I approve every listing by hand. Send me apps I've missed.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 07:27:54 +0000",
+      "timestamp": 1789198074.0
+    },
+    {
+      "title": "Ask HN: What is the most overlooked risk in the AI security domain?",
+      "link": "https://news.ycombinator.com/item?id=49669858",
+      "summary": "As someone who's interested in pentesting and red-teaming in general, I'm wondering what are some more dangerous AI/ML or LLM related vulnerabilities besides your usual prompt injection. Specifically, what kinds of flaws are harder to catch with typical pentesting methods, and how do you think pentesters are going to have to change to find them?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 07:27:23 +0000",
+      "timestamp": 1789198043.0
+    },
+    {
+      "title": "Roundtables: AI's Apocalypse Crisis",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 07:02:38 +0000",
+      "timestamp": 1789196558.0
+    },
+    {
+      "title": "This is really bad: AI Safety Threat",
+      "link": "https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 06:42:22 +0000",
+      "timestamp": 1789195342.0
+    },
+    {
+      "title": "Artemis: Google's new AI agent framework for mobile test automation",
+      "link": "https://github.com/google/artemis",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 06:34:28 +0000",
+      "timestamp": 1789194868.0
+    },
+    {
+      "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+      "link": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 05:31:08 +0000",
+      "timestamp": 1789191068.0
+    },
+    {
+      "title": "Teaching Novice Computing and Programming in the Agentic AI Era",
+      "link": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 12 Sep 2026 05:28:18 +0000",
+      "timestamp": 1789190898.0
+    },
     {
       "title": "Pacman AI framework for controlling fusion systems safely makes key decisions",
       "link": "https://www.pppl.gov/news/2026/pacman-ai-framework-controlling-fusion-systems-safely-makes-key-decisions-milliseconds",
@@ -48,123 +174,6 @@
       "timestamp": 1789185229.0
     },
     {
-      "title": "AI Hallucinations Trigger Malware Flag on 1M+ Active User Extension",
-      "link": "https://groups.google.com/a/chromium.org/g/chromium-extensions/c/dG_VSqyli1A",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 03:10:17 +0000",
-      "timestamp": 1789182617.0
-    },
-    {
-      "title": "Ask HN: How do you (AI researchers) convince yourselves that AI isn't terrible?",
-      "link": "https://news.ycombinator.com/item?id=49668216",
-      "summary": "Obvious parallels with developing nuclear weapons in the forties. I guess one argument is now, if you don't do it, someone else will, but are there AI researchers who actually believe at this point that this is good for humanity. Because I don't see it. I'll take all the diseases and crt monitors for whatever advances AI is promising at this point.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 02:44:56 +0000",
-      "timestamp": 1789181096.0
-    },
-    {
-      "title": "Classifying AI Website Fetches on Behalf of Users",
-      "link": "https://canonry.ai/blog/classifying-ai-crawlers-user-fetches-server-logs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 02:25:29 +0000",
-      "timestamp": 1789179929.0
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating? – Yoshua Bengio",
-      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 02:13:50 +0000",
-      "timestamp": 1789179230.0
-    },
-    {
-      "title": "\"What Is an 'AI Warning Shot'?\" (2024)",
-      "link": "https://gwern.net/blog/2024/sydney",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 01:46:45 +0000",
-      "timestamp": 1789177605.0
-    },
-    {
-      "title": "Reduced AI cheating on a long task from 72% to 0 with 190 token agreement prompt",
-      "link": "https://www.echohive.ai/grok-integrity-agreement-less-cheating",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 01:21:38 +0000",
-      "timestamp": 1789176098.0
-    },
-    {
-      "title": "Mathematicians Confront the AI Apocalypse",
-      "link": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 01:15:25 +0000",
-      "timestamp": 1789175725.0
-    },
-    {
-      "title": "Aiope – An on-device AI agent for Android (terminal, browser, SSH, MCP)",
-      "link": "https://github.com/XNet-NGO/aiope",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 01:11:18 +0000",
-      "timestamp": 1789175478.0
-    },
-    {
-      "title": "Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around",
-      "link": "https://apps.apple.com/us/app/smart-notes-folders-fog/id6760272134",
-      "summary": "Hey everyone, This is my first time posting on Show HN, so hello there. Back in March, I launched my first app on the App Store. It was a notes app that uses Apple's on-device foundation model to organize your notes for you, and I called it Fog. And boy did I learn a lot. Looking at the notes app category and how saturated it currently is, I wanted to try something different. Privacy is #1, so notes should stay on the device, keeping the user in control. Then there was the AI aspect I was using to \"automatically organize\". So when a user creates a new note, it auto-names the note, generates ta",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 00:53:26 +0000",
-      "timestamp": 1789174406.0
-    },
-    {
-      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "link": "https://twitter.com/venturetwins/status/2098456905526211026",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 12 Sep 2026 00:24:36 +0000",
-      "timestamp": 1789172676.0
-    },
-    {
-      "title": "One Thought Consumes Me Often, So I Made an AI App to Make It Real",
-      "link": "https://play.google.com/store/apps/details?id=com.council.the_council",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 23:59:17 +0000",
-      "timestamp": 1789171157.0
-    },
-    {
-      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-      "link": "https://www.firecrawl.dev/blog/ai-software-factory",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 23:43:53 +0000",
-      "timestamp": 1789170233.0
-    },
-    {
-      "title": "Exposing a global AI slop empire ruining the internet for profit – CBC [video]",
-      "link": "https://www.youtube.com/watch?v=GEHHTh5OTnQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 23:18:39 +0000",
-      "timestamp": 1789168719.0
-    },
-    {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
@@ -172,24 +181,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 11 Sep 2026 22:58:17 +0000",
       "timestamp": 1789167497.0
-    },
-    {
-      "title": "Altimeter's Gerstner blasts researchers voicing AI extinction warnings",
-      "link": "https://www.cnbc.com/2026/09/11/altimeters-gerstner-blasts-researchers-voicing-ai-extinction-warnings.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 22:43:40 +0000",
-      "timestamp": 1789166620.0
-    },
-    {
-      "title": "Houthis used Anthropic AI to build ballistic missiles",
-      "link": "https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 22:42:08 +0000",
-      "timestamp": 1789166528.0
     },
     {
       "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
