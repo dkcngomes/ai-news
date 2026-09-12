@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-09-11T21:42:27.132149+00:00",
+  "scraped_at": "2026-09-12T00:16:37.874235+00:00",
   "count": 58,
   "items": [
+    {
+      "title": "One Thought Consumes Me Often, So I Made an AI App to Make It Real",
+      "link": "https://play.google.com/store/apps/details?id=com.council.the_council",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 23:59:17 +0000",
+      "timestamp": 1789171157.0
+    },
+    {
+      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+      "link": "https://www.firecrawl.dev/blog/ai-software-factory",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 23:43:53 +0000",
+      "timestamp": 1789170233.0
+    },
+    {
+      "title": "Exposing a global AI slop empire ruining the internet for profit – CBC [video]",
+      "link": "https://www.youtube.com/watch?v=GEHHTh5OTnQ",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 23:18:39 +0000",
+      "timestamp": 1789168719.0
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
+      "timestamp": 1789167497.0
+    },
+    {
+      "title": "Altimeter's Gerstner blasts researchers voicing AI extinction warnings",
+      "link": "https://www.cnbc.com/2026/09/11/altimeters-gerstner-blasts-researchers-voicing-ai-extinction-warnings.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 22:43:40 +0000",
+      "timestamp": 1789166620.0
+    },
+    {
+      "title": "Houthis used Anthropic AI to build ballistic missiles",
+      "link": "https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 22:42:08 +0000",
+      "timestamp": 1789166528.0
+    },
+    {
+      "title": "Bernie Sanders AI Bill Threatens Developers with 20-Year Jail Terms",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/bernie-sanders-introduces-a-bill-in-senate-that-may-land-sam-altman-dario-amodei-and-other-top-tech-executives-in-jail-for-as-much-as-20-years/articleshow/133749410.cms",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 22:40:02 +0000",
+      "timestamp": 1789166402.0
+    },
+    {
+      "title": "UN calls for global fund to address AI capacity gaps in developing nations",
+      "link": "https://www.un.org/digital-emerging-technologies/content/secretary-general-calls-global-fund-address-ai-capacity-building-gaps-developing-countries",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 22:39:59 +0000",
+      "timestamp": 1789166399.0
+    },
+    {
+      "title": "Adversaries Using Claude AI to Target Americans and Develop Missiles",
+      "link": "https://www.twz.com/news-features/adversaries-using-claude-ai-to-target-americans-and-develop-missiles-is-a-sign-of-whats-to-come",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 22:36:03 +0000",
+      "timestamp": 1789166163.0
+    },
+    {
+      "title": "They do think AI might kill everyone",
+      "link": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 22:30:09 +0000",
+      "timestamp": 1789165809.0
+    },
+    {
+      "title": "How AI Is Changing Audio Restoration in 2026",
+      "link": "https://audioconverterai.io/blog/ai-audio-restoration",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 21:49:10 +0000",
+      "timestamp": 1789163350.0
+    },
+    {
+      "title": "FreelanceFend – AI web app and extension to screen freelance clients",
+      "link": "https://www.freelancefend.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 11 Sep 2026 21:47:59 +0000",
+      "timestamp": 1789163279.0
+    },
     {
       "title": "AI researchers debate how close we are to recursive self-improvement",
       "link": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -30,9 +138,9 @@
       "timestamp": 1789161689.0
     },
     {
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 11 Sep 2026 20:59:47 +0000",
@@ -120,51 +228,6 @@
       "timestamp": 1789157448.0
     },
     {
-      "title": "Every binding AI review Washington has proposed has come back voluntary",
-      "link": "https://thenextweb.com/news/every-binding-ai-review-washington-has-proposed-has-come-back-voluntary-zuckerberg-reportedly-rang-trump-about-the-latest-one",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 20:08:57 +0000",
-      "timestamp": 1789157337.0
-    },
-    {
-      "title": "The State of AI Antibody Design",
-      "link": "https://www.science.org/content/blog-post/state-ai-antibody-design",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 20:06:33 +0000",
-      "timestamp": 1789157193.0
-    },
-    {
-      "title": "Is open-weight AI banned yet?",
-      "link": "https://isopenweightaibannedyet.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 20:05:42 +0000",
-      "timestamp": 1789157142.0
-    },
-    {
-      "title": "Show HN: HungryGPU – Track local AI models, patches and recipes by hardware",
-      "link": "https://hungrygpu.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 19:49:39 +0000",
-      "timestamp": 1789156179.0
-    },
-    {
-      "title": "Judges mock lawyer who filed appeal full of AI-generated 'witnesses'",
-      "link": "https://www.rnz.co.nz/news/world/1349763/judges-mock-lawyer-who-filed-appeal-full-of-ai-generated-witnesses",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 19:36:57 +0000",
-      "timestamp": 1789155417.0
-    },
-    {
       "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
       "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
       "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
@@ -172,24 +235,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 11 Sep 2026 19:35:54 +0000",
       "timestamp": 1789155354.0
-    },
-    {
-      "title": "Claude AI used for missile, influence projects in UAE, Iran, Yemen: Anthropic",
-      "link": "https://www.al-monitor.com/originals/2026/09/claude-ai-used-missile-influence-projects-uae-iran-yemen-anthropic",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 19:35:43 +0000",
-      "timestamp": 1789155343.0
-    },
-    {
-      "title": "Show HN: Hacker News, but only AI news",
-      "link": "https://allslop.news/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 19:12:33 +0000",
-      "timestamp": 1789153953.0
     },
     {
       "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
@@ -208,42 +253,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 11 Sep 2026 18:41:49 +0000",
       "timestamp": 1789152109.0
-    },
-    {
-      "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
-      "link": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 18:38:26 +0000",
-      "timestamp": 1789151906.0
-    },
-    {
-      "title": "Project NOPE: An observatory for human – AI relationships",
-      "link": "https://nope.net/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 18:31:21 +0000",
-      "timestamp": 1789151481.0
-    },
-    {
-      "title": "Ask HN: How are much smarter AI models made?",
-      "link": "https://news.ycombinator.com/item?id=49662978",
-      "summary": "I am curious what actually happens between two generations of AI models. For example, how do you go from Sonnet to Opus? Is Opus trained from scratch, built on Sonnet, or mostly the same model with more compute and training? And how do models like Astra suddenly make a big jump in some capabilities? What is stopping Anthropic, Mistral, or others from doing the same thing? Is the main difference just more compute and money, or are there training methods, data, architecture, and research breakthroughs that competitors may not know about? I can't think of a better place to ask this. I am guessing",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 18:24:20 +0000",
-      "timestamp": 1789151060.0
-    },
-    {
-      "title": "The emerging AI paper-review arms race",
-      "link": "https://arxiv.org/abs/2609.07713",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 11 Sep 2026 18:15:23 +0000",
-      "timestamp": 1789150523.0
     },
     {
       "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
@@ -487,15 +496,6 @@
       "source": "Wired AI",
       "published": "Wed, 09 Sep 2026 22:11:55 +0000",
       "timestamp": 1788991915.0
-    },
-    {
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 09 Sep 2026 21:43:34 +0000",
-      "timestamp": 1788990214.0
     },
     {
       "title": "Suno releases its first AI music model made with record industry help",
