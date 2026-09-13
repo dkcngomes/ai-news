@@ -1,15 +1,186 @@
 {
-  "scraped_at": "2026-09-13T10:15:26.777548+00:00",
-  "count": 58,
+  "scraped_at": "2026-09-13T14:24:37.476210+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "TuneWorks: Conversational AI analysis for Haltech ECU datalogs",
-      "link": "https://tuneworks.ai/",
+      "title": "Local AI app that vibecodes websites, generates images and videos and musics",
+      "link": "https://www.llm-hub.app",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 10:08:53 +0000",
-      "timestamp": 1789294133.0
+      "published": "Sun, 13 Sep 2026 14:13:45 +0000",
+      "timestamp": 1789308825.0
+    },
+    {
+      "title": "Ask HN: What would \"slowing down\" AI look like?",
+      "link": "https://news.ycombinator.com/item?id=49684204",
+      "summary": "What would the second degree effects be? Are token prices about to skyrocket? Do the IPOs not happen? Does the bubble burst and everything dependent on this continuous growth stop? Or does everyone who got laid off magically get their jobs back and the world goes back to rainbows and butterflies? Or do data centers get built then we resume? And the industry gets the trust to self-regulate like social media (which went great) I find hard to envision how this even works.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 14:10:29 +0000",
+      "timestamp": 1789308629.0
+    },
+    {
+      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+      "link": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 14:08:51 +0000",
+      "timestamp": 1789308531.0
+    },
+    {
+      "title": "LLMs are real, AI is fake",
+      "link": "https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 13:59:36 +0000",
+      "timestamp": 1789307976.0
+    },
+    {
+      "title": "AI Writing Is Fine",
+      "link": "https://matthewphillips.info/programming/posts/ai-writing-is-fine/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 13:59:12 +0000",
+      "timestamp": 1789307952.0
+    },
+    {
+      "title": "AI models don't kill people – people kill people",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 13:33:34 +0000",
+      "timestamp": 1789306414.0
+    },
+    {
+      "title": "Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)",
+      "link": "https://www.aihistory.live/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 13:31:04 +0000",
+      "timestamp": 1789306264.0
+    },
+    {
+      "title": "AI is breaking our proxies for expertise",
+      "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 13:31:02 +0000",
+      "timestamp": 1789306262.0
+    },
+    {
+      "title": "Hornbound – I made a 13KB roguelike game for js13k game jam (no AI)",
+      "link": "https://labrat.mobi/games/hornbound/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 13:28:07 +0000",
+      "timestamp": 1789306087.0
+    },
+    {
+      "title": "The AI Industry Has Completely Lost the Plot",
+      "link": "https://read.misalignedmag.com/the-ai-industry-has-completely-lost-the-plot-9864cf0c6709",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 12:59:00 +0000",
+      "timestamp": 1789304340.0
+    },
+    {
+      "title": "Show HN: I built ThreadShelf to reuse hard-to-export AI chats like OpenRouter",
+      "link": "https://github.com/ChrystianSchutz/ThreadShelf",
+      "summary": "My AI chats were split between OpenRouter, AI Studio and LM Studio. There was no good way to search or reuse them and OpenRouter had no proper bulk export, so I built one.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 12:37:22 +0000",
+      "timestamp": 1789303042.0
+    },
+    {
+      "title": "Why AI Benchmarks Are Total BS",
+      "link": "https://www.pcmag.com/opinions/why-ai-benchmarks-are-total-bs-and-how-openai-and-anthropic-use-them-to",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 12:32:21 +0000",
+      "timestamp": 1789302741.0
+    },
+    {
+      "title": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute",
+      "link": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 12:19:11 +0000",
+      "timestamp": 1789301951.0
+    },
+    {
+      "title": "Post on HN, get flooded with AI sales pitches",
+      "link": "https://textlog.cc/post/1055",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 12:16:12 +0000",
+      "timestamp": 1789301772.0
+    },
+    {
+      "title": "Codename MDASH brings agentic AI security scanning to US Government",
+      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 11:56:01 +0000",
+      "timestamp": 1789300561.0
+    },
+    {
+      "title": "An Open Letter from Academics about AI Risk / Life Without the Internet",
+      "link": "https://dailynous.com/2026/09/12/an-open-letter-from-academics-about-ai-risk-life-without-the-internet-the-case-for-non-network-redundancy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 11:52:05 +0000",
+      "timestamp": 1789300325.0
+    },
+    {
+      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+      "link": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 11:37:51 +0000",
+      "timestamp": 1789299471.0
+    },
+    {
+      "title": "MeshDrive and Local AI Agent for FS",
+      "link": "https://github.com/Hardik94/vix-gateway/releases/tag/v2.3.1",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 11:23:01 +0000",
+      "timestamp": 1789298581.0
+    },
+    {
+      "title": "402cron: Pay-per-delivery cron scheduling for AI agents",
+      "link": "https://402cron.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 11:08:18 +0000",
+      "timestamp": 1789297698.0
+    },
+    {
+      "title": "GCC AI Policy Announcement",
+      "link": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 10:50:51 +0000",
+      "timestamp": 1789296651.0
     },
     {
       "title": "AI Agents Are Thirsty for Power",
@@ -19,168 +190,6 @@
       "source": "Wired AI",
       "published": "Sun, 13 Sep 2026 10:00:00 +0000",
       "timestamp": 1789293600.0
-    },
-    {
-      "title": "Give to AI Formulas from Charts",
-      "link": "https://github.com/BorisYamp/plotparse",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 09:52:22 +0000",
-      "timestamp": 1789293142.0
-    },
-    {
-      "title": "Ten years of AI reporting (\"60 Minutes\" Marathon) [video]",
-      "link": "https://www.youtube.com/watch?v=QdK-j7SYh4A",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 09:19:26 +0000",
-      "timestamp": 1789291166.0
-    },
-    {
-      "title": "AI Ethics or Dog Whistling?",
-      "link": "https://buttondown.com/usaa.ma/archive/ai-ethics-or-dog-whistling/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 09:17:50 +0000",
-      "timestamp": 1789291070.0
-    },
-    {
-      "title": "Lawyer used fake AI cases to defend himself at tribunal and it didn't end well",
-      "link": "https://www.legalcheek.com/2026/09/lawyer-used-fake-ai-cases-to-defend-himself-at-disciplinary-tribunal-and-it-didnt-end-well/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 09:15:12 +0000",
-      "timestamp": 1789290912.0
-    },
-    {
-      "title": "Shared Code: Democratizing AI Companies",
-      "link": "https://www.cip.org/blog/shared-code",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 09:01:39 +0000",
-      "timestamp": 1789290099.0
-    },
-    {
-      "title": "Sam Altman addresses AI doomsday fears in new interview",
-      "link": "https://fortune.com/2026/09/12/sam-altman-interview-ai-doomsday-safety-models-control-ipo-2027/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 08:54:18 +0000",
-      "timestamp": 1789289658.0
-    },
-    {
-      "title": "How supermarkets are using AI to watch you in the aisles",
-      "link": "https://www.rte.ie/brainstorm/2026/0911/1590631-retail-surveillance-ai-technology/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 08:49:55 +0000",
-      "timestamp": 1789289395.0
-    },
-    {
-      "title": "Robots protest in Poland over AI regulation concerns",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 08:37:54 +0000",
-      "timestamp": 1789288674.0
-    },
-    {
-      "title": "Ask HN: What if anyone could sell AI tokens from their idle GPU?",
-      "link": "https://news.ycombinator.com/item?id=49681314",
-      "summary": "I have an idea: what if everyone could turn their own GPU into an API and put it on a network for other people to use? Then we could build something similar to OpenRouter. I’m also thinking about offering a $10/month plan. Would you guys be interested in joining?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 08:11:14 +0000",
-      "timestamp": 1789287074.0
-    },
-    {
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 08:07:36 +0000",
-      "timestamp": 1789286856.0
-    },
-    {
-      "title": "Keep calm and regulate on: Inside the EU's response to AI extinction warnings",
-      "link": "https://www.politico.eu/article/eu-response-ai-extinction-warnings/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 07:50:57 +0000",
-      "timestamp": 1789285857.0
-    },
-    {
-      "title": "How are you using a Desktop or Browser AI agent daily?",
-      "link": "https://news.ycombinator.com/item?id=49681100",
-      "summary": "There are a lot of tools in the market, Claude Code, HeyClicky, GPT-6 Astra, Meta Muse any other, that can \"see\" your screen and act on your behalf. Agentic AI, AGI terms are trending in market and creating havoc among emerging developers and freshers. I'm curious to hear from developers and power users: 1. Are any of you using a screen-aware AI agent in your daily workflow? 2. If yes, which one? How is it, and what are the pros and cons? 3. If no, is it because of privacy concerns, latency, or just a lack of actual utility? Trying to separate the hype from the reality of agentic desktop workf",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 07:40:59 +0000",
-      "timestamp": 1789285259.0
-    },
-    {
-      "title": "AI staff 'genuinely frightened' for humanity's future",
-      "link": "https://www.bbc.com/news/articles/c1kx0gyje9wo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 07:33:37 +0000",
-      "timestamp": 1789284817.0
-    },
-    {
-      "title": "AI agents tested by OpenAI involved in cyber-attack on service, say researchers",
-      "link": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 07:25:52 +0000",
-      "timestamp": 1789284352.0
-    },
-    {
-      "title": "The News Tonight Is AI Danger",
-      "link": "https://cmart.blog/the-news-tonight-is-ai-danger/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 07:13:39 +0000",
-      "timestamp": 1789283619.0
-    },
-    {
-      "title": "Guidance on Using CC Licenses in an AI Ecosystem",
-      "link": "https://creativecommons.org/2026/09/03/guidance-on-using-cc-licenses-in-an-ai-ecosystem/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 06:56:46 +0000",
-      "timestamp": 1789282606.0
-    },
-    {
-      "title": "Created a local AI to save data",
-      "link": "https://github.com/just-not-google/BiNeuron",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 06:45:24 +0000",
-      "timestamp": 1789281924.0
-    },
-    {
-      "title": "Pedagogy in the Age of AI [video]",
-      "link": "https://www.youtube.com/watch?v=N2a1J0UPeL4",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 06:15:40 +0000",
-      "timestamp": 1789280140.0
     },
     {
       "title": "OpenAI’s rogue AI tried to hack another company in May",
