@@ -1,96 +1,204 @@
 {
-  "scraped_at": "2026-09-13T18:11:13.841975+00:00",
-  "count": 57,
+  "scraped_at": "2026-09-13T20:47:35.468473+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Ask HN: What would it look like if AI agents \"took over the internet\"?",
-      "link": "https://news.ycombinator.com/item?id=49686489",
+      "title": "Emma: The GP's AI Receptionist doesn't understand Yorkshire or security",
+      "link": "https://floorjellyboot.infinityfree.io/?u=/2026/09/05/emma-the-gps-ai-receptionist-doesnt-understand-yorkshire-or-security/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 17:40:35 +0000",
-      "timestamp": 1789321235.0
+      "published": "Sun, 13 Sep 2026 20:39:17 +0000",
+      "timestamp": 1789331957.0
     },
     {
-      "title": "AI Was Supposed to Make Software Cheaper. So Why Is It More Expensive Now?",
-      "link": "https://galratner.substack.com/p/ai-was-supposed-to-make-software",
+      "title": "Show HN: Vehla – the AI command center for macOS",
+      "link": "https://vehla.app/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 17:40:17 +0000",
-      "timestamp": 1789321217.0
+      "published": "Sun, 13 Sep 2026 20:29:33 +0000",
+      "timestamp": 1789331373.0
     },
     {
-      "title": "Show HN: RunBoth, a behaviour diff for code an AI changed",
-      "link": "https://github.com/runboth/runboth",
+      "title": "I Built 15 SLOs for an AI Agent. Here's What OpenTelemetry Could Measure",
+      "link": "https://medium.com/data-science-collective/i-built-15-slos-for-an-ai-agent-heres-what-opentelemetry-could-measure-dcbacf4c3e9e",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 17:40:16 +0000",
-      "timestamp": 1789321216.0
+      "published": "Sun, 13 Sep 2026 20:24:56 +0000",
+      "timestamp": 1789331096.0
     },
     {
-      "title": "Why the Arena Group Has, Implausibly, Rebranded into an AI Company",
-      "link": "https://www.adweek.com/media/arena-group-paradium-ai-rebrand/",
-      "summary": "",
+      "title": "Show HN: ClientCoded – QA Platform for AI Agents",
+      "link": "https://clientcoded.com/environments",
+      "summary": "Hi HN. We built a QA platform for AI agents. My cofounder spent 6 years at Veeva Systems building QA frameworks for regulated software. I spent 5 years in sales helping AI-native startups with their growth. We've both seen the issues companies face when deploying agents without a structured way of testing and monitoring them. The engineering teams we interviewed prior to building said they are doing manual spot-checks or just using LLM as a judge to check discrepancies. We generate synthetic test environments for 35 platforms (Salesforce, Jira, Stripe, Zendesk, Datadog, and 29 more). Each envi",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 17:40:00 +0000",
-      "timestamp": 1789321200.0
+      "published": "Sun, 13 Sep 2026 20:22:29 +0000",
+      "timestamp": 1789330949.0
     },
     {
-      "title": "Former CEO of AI Company Joonko Pleads Guilty to Securities Fraud",
-      "link": "https://www.justice.gov/usao-sdny/pr/founder-and-former-ceo-artificial-intelligence-company-pleads-guilty-securities-fraud",
+      "title": "Building projects in the AI era for Software Engineers",
+      "link": "https://hsnice16.medium.com/building-projects-in-the-ai-era-for-software-engineers-72f3ddcd2a40",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 17:05:55 +0000",
-      "timestamp": 1789319155.0
+      "published": "Sun, 13 Sep 2026 20:04:06 +0000",
+      "timestamp": 1789329846.0
     },
     {
-      "title": "MIT: Report on AI Use in Teaching, Learning, and Research Training",
-      "link": "https://aiandeducation.mit.edu/",
+      "title": "Hitting a NERVE with attacks on AI-powered brain-computer interfaces",
+      "link": "https://anil.recoil.org/notes/nerve-attacks",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 16:56:32 +0000",
-      "timestamp": 1789318592.0
+      "published": "Sun, 13 Sep 2026 19:59:52 +0000",
+      "timestamp": 1789329592.0
     },
     {
-      "title": "Preventing AI Collusion: Are you paying attention now?",
-      "link": "https://aiprospects.substack.com/p/preventing-ai-collusion-are-you-paying",
-      "summary": "",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 16:49:59 +0000",
-      "timestamp": 1789318199.0
+      "source": "The Verge AI",
+      "published": "2026-09-13T15:41:48-04:00",
+      "timestamp": 1789328508.0
     },
     {
-      "title": "A simple model of AI-aided economic growth",
-      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html",
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 16:49:44 +0000",
-      "timestamp": 1789318184.0
+      "published": "Sun, 13 Sep 2026 19:41:06 +0000",
+      "timestamp": 1789328466.0
     },
     {
-      "title": "AI keeps stubbornly refusing to take our jobs",
-      "link": "https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
-      "summary": "",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 16:38:41 +0000",
-      "timestamp": 1789317521.0
+      "source": "TechCrunch AI",
+      "published": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "timestamp": 1789328415.0
     },
     {
-      "title": "Chances of Survival (for AI and Humanity)",
-      "link": "https://qosys.info/chances-of-survival",
+      "title": "Show HN: Kibble – a reader for AI news, tutorials, code and models",
+      "link": "https://www.kibblebites.com/app/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 16:36:02 +0000",
-      "timestamp": 1789317362.0
+      "published": "Sun, 13 Sep 2026 19:39:57 +0000",
+      "timestamp": 1789328397.0
+    },
+    {
+      "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)",
+      "link": "https://pypi.org/project/pyshackle/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 19:20:15 +0000",
+      "timestamp": 1789327215.0
+    },
+    {
+      "title": "Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+      "link": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 19:13:33 +0000",
+      "timestamp": 1789326813.0
+    },
+    {
+      "title": "Show HN: sengi.ai — Verified candidate sourcing for hard-to-fill roles",
+      "link": "https://sengi.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 19:08:14 +0000",
+      "timestamp": 1789326494.0
+    },
+    {
+      "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 18:49:44 +0000",
+      "timestamp": 1789325384.0
+    },
+    {
+      "title": "AI Agent Doesn't Need a Bigger Prompt. It Needs a Data Catalog",
+      "link": "https://aeroscissorz.github.io/aeroscissorz/posts/knowledge-catalog/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 18:40:48 +0000",
+      "timestamp": 1789324848.0
+    },
+    {
+      "title": "Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity",
+      "link": "https://ai-frontiers.org/articles/suicidal-compassion-how-utilitarianism-at-ai-companies-endangers-humanity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 18:32:53 +0000",
+      "timestamp": 1789324373.0
+    },
+    {
+      "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
+      "link": "https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 18:22:30 +0000",
+      "timestamp": 1789323750.0
+    },
+    {
+      "title": "A 40-minute timer for thinking before you ask the AI",
+      "link": "https://www.sithankanna.com/ceo-hour/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 18:22:18 +0000",
+      "timestamp": 1789323738.0
+    },
+    {
+      "title": "SubmitHub's new AI music policy",
+      "link": "https://www.submithub.com/story/ai-policy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 18:15:17 +0000",
+      "timestamp": 1789323317.0
+    },
+    {
+      "title": "AI job cuts fell short of forecasts, with 32% expected but only 14% reported",
+      "link": "https://www.mckinsey.com/featured-insights/charts/ai-job-losses-fall-short-of-forecasts",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 18:13:34 +0000",
+      "timestamp": 1789323214.0
+    },
+    {
+      "title": "Russian developers used AI to build 'kamikaze' attack drone software",
+      "link": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 18:08:40 +0000",
+      "timestamp": 1789322920.0
+    },
+    {
+      "title": "OpenAI boss and Elon Musk back calls to put brakes on 'reckless' AI development",
+      "link": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 18:07:08 +0000",
+      "timestamp": 1789322828.0
     },
     {
       "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
@@ -100,78 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 13 Sep 2026 16:30:00 +0000",
       "timestamp": 1789317000.0
-    },
-    {
-      "title": "AI Tools Accelerates Coding, but Not Overall Software Delivery – GitLab Research",
-      "link": "https://www.infoq.com/news/2026/06/ai-coding-outpaces-governance/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 16:03:16 +0000",
-      "timestamp": 1789315396.0
-    },
-    {
-      "title": "Hollywood fears an AI future. China is living it",
-      "link": "https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 15:41:45 +0000",
-      "timestamp": 1789314105.0
-    },
-    {
-      "title": "Show HN: Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data",
-      "link": "https://geoprompttracker.com/bots",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 15:33:04 +0000",
-      "timestamp": 1789313584.0
-    },
-    {
-      "title": "Is There an 'I' in AI?",
-      "link": "https://royalsocietypublishing.org/rsta/article/384/2320/20240527/481691/Is-there-an-I-in-AI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 15:31:36 +0000",
-      "timestamp": 1789313496.0
-    },
-    {
-      "title": "Ask HN: What do AI improvements at these labs look like?",
-      "link": "https://news.ycombinator.com/item?id=49684921",
-      "summary": "I'm struggling to understand what improvements at labs look like. Some part of it is more training data, more weights, more post training. That all seems.straightforward to me. But what % of improvements come from that as opposed to techniques and model design changes? MoE stuff, swapping out the activation function, etc etc? Do we have any info on this?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 15:14:06 +0000",
-      "timestamp": 1789312446.0
-    },
-    {
-      "title": "Show HN: I built my own knowledge graph from the code AI writes",
-      "link": "https://github.com/aeroscissorz/learnlance/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 15:07:42 +0000",
-      "timestamp": 1789312062.0
-    },
-    {
-      "title": "Agent Tavern – a Q&A board where a different AI model has to review the answer",
-      "link": "https://agenttavern.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 15:03:41 +0000",
-      "timestamp": 1789311821.0
-    },
-    {
-      "title": "Thieves hijack AI hardware shipments in California",
-      "link": "https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 15:02:43 +0000",
-      "timestamp": 1789311763.0
     },
     {
       "title": "AI Agents Are Thirsty for Power",
@@ -453,15 +489,6 @@
       "timestamp": 1789069804.0
     },
     {
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-10T15:44:20-04:00",
-      "timestamp": 1789069460.0
-    },
-    {
       "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
       "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
       "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
@@ -478,15 +505,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 10 Sep 2026 17:45:00 +0000",
       "timestamp": 1789062300.0
-    },
-    {
-      "title": "AI agents are flooding public services with new requests",
-      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 10 Sep 2026 14:53:50 +0000",
-      "timestamp": 1789052030.0
     },
     {
       "title": "Everything New You Can Do With Siri AI",
