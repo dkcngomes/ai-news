@@ -1,186 +1,177 @@
 {
-  "scraped_at": "2026-09-13T14:24:37.476210+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-13T18:11:13.841975+00:00",
+  "count": 57,
   "items": [
     {
-      "title": "Local AI app that vibecodes websites, generates images and videos and musics",
-      "link": "https://www.llm-hub.app",
+      "title": "Ask HN: What would it look like if AI agents \"took over the internet\"?",
+      "link": "https://news.ycombinator.com/item?id=49686489",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 14:13:45 +0000",
-      "timestamp": 1789308825.0
+      "published": "Sun, 13 Sep 2026 17:40:35 +0000",
+      "timestamp": 1789321235.0
     },
     {
-      "title": "Ask HN: What would \"slowing down\" AI look like?",
-      "link": "https://news.ycombinator.com/item?id=49684204",
-      "summary": "What would the second degree effects be? Are token prices about to skyrocket? Do the IPOs not happen? Does the bubble burst and everything dependent on this continuous growth stop? Or does everyone who got laid off magically get their jobs back and the world goes back to rainbows and butterflies? Or do data centers get built then we resume? And the industry gets the trust to self-regulate like social media (which went great) I find hard to envision how this even works.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 14:10:29 +0000",
-      "timestamp": 1789308629.0
-    },
-    {
-      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
-      "link": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
+      "title": "AI Was Supposed to Make Software Cheaper. So Why Is It More Expensive Now?",
+      "link": "https://galratner.substack.com/p/ai-was-supposed-to-make-software",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 14:08:51 +0000",
-      "timestamp": 1789308531.0
+      "published": "Sun, 13 Sep 2026 17:40:17 +0000",
+      "timestamp": 1789321217.0
     },
     {
-      "title": "LLMs are real, AI is fake",
-      "link": "https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake",
+      "title": "Show HN: RunBoth, a behaviour diff for code an AI changed",
+      "link": "https://github.com/runboth/runboth",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 13:59:36 +0000",
-      "timestamp": 1789307976.0
+      "published": "Sun, 13 Sep 2026 17:40:16 +0000",
+      "timestamp": 1789321216.0
     },
     {
-      "title": "AI Writing Is Fine",
-      "link": "https://matthewphillips.info/programming/posts/ai-writing-is-fine/",
+      "title": "Why the Arena Group Has, Implausibly, Rebranded into an AI Company",
+      "link": "https://www.adweek.com/media/arena-group-paradium-ai-rebrand/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 13:59:12 +0000",
-      "timestamp": 1789307952.0
+      "published": "Sun, 13 Sep 2026 17:40:00 +0000",
+      "timestamp": 1789321200.0
     },
     {
-      "title": "AI models don't kill people – people kill people",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+      "title": "Former CEO of AI Company Joonko Pleads Guilty to Securities Fraud",
+      "link": "https://www.justice.gov/usao-sdny/pr/founder-and-former-ceo-artificial-intelligence-company-pleads-guilty-securities-fraud",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 13:33:34 +0000",
-      "timestamp": 1789306414.0
+      "published": "Sun, 13 Sep 2026 17:05:55 +0000",
+      "timestamp": 1789319155.0
     },
     {
-      "title": "Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)",
-      "link": "https://www.aihistory.live/",
+      "title": "MIT: Report on AI Use in Teaching, Learning, and Research Training",
+      "link": "https://aiandeducation.mit.edu/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 13:31:04 +0000",
-      "timestamp": 1789306264.0
+      "published": "Sun, 13 Sep 2026 16:56:32 +0000",
+      "timestamp": 1789318592.0
     },
     {
-      "title": "AI is breaking our proxies for expertise",
-      "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "title": "Preventing AI Collusion: Are you paying attention now?",
+      "link": "https://aiprospects.substack.com/p/preventing-ai-collusion-are-you-paying",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 13:31:02 +0000",
-      "timestamp": 1789306262.0
+      "published": "Sun, 13 Sep 2026 16:49:59 +0000",
+      "timestamp": 1789318199.0
     },
     {
-      "title": "Hornbound – I made a 13KB roguelike game for js13k game jam (no AI)",
-      "link": "https://labrat.mobi/games/hornbound/",
+      "title": "A simple model of AI-aided economic growth",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 13:28:07 +0000",
-      "timestamp": 1789306087.0
+      "published": "Sun, 13 Sep 2026 16:49:44 +0000",
+      "timestamp": 1789318184.0
     },
     {
-      "title": "The AI Industry Has Completely Lost the Plot",
-      "link": "https://read.misalignedmag.com/the-ai-industry-has-completely-lost-the-plot-9864cf0c6709",
+      "title": "AI keeps stubbornly refusing to take our jobs",
+      "link": "https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 12:59:00 +0000",
-      "timestamp": 1789304340.0
+      "published": "Sun, 13 Sep 2026 16:38:41 +0000",
+      "timestamp": 1789317521.0
     },
     {
-      "title": "Show HN: I built ThreadShelf to reuse hard-to-export AI chats like OpenRouter",
-      "link": "https://github.com/ChrystianSchutz/ThreadShelf",
-      "summary": "My AI chats were split between OpenRouter, AI Studio and LM Studio. There was no good way to search or reuse them and OpenRouter had no proper bulk export, so I built one.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 12:37:22 +0000",
-      "timestamp": 1789303042.0
-    },
-    {
-      "title": "Why AI Benchmarks Are Total BS",
-      "link": "https://www.pcmag.com/opinions/why-ai-benchmarks-are-total-bs-and-how-openai-and-anthropic-use-them-to",
+      "title": "Chances of Survival (for AI and Humanity)",
+      "link": "https://qosys.info/chances-of-survival",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 12:32:21 +0000",
-      "timestamp": 1789302741.0
+      "published": "Sun, 13 Sep 2026 16:36:02 +0000",
+      "timestamp": 1789317362.0
     },
     {
-      "title": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute",
-      "link": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "timestamp": 1789317000.0
+    },
+    {
+      "title": "AI Tools Accelerates Coding, but Not Overall Software Delivery – GitLab Research",
+      "link": "https://www.infoq.com/news/2026/06/ai-coding-outpaces-governance/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 12:19:11 +0000",
-      "timestamp": 1789301951.0
+      "published": "Sun, 13 Sep 2026 16:03:16 +0000",
+      "timestamp": 1789315396.0
     },
     {
-      "title": "Post on HN, get flooded with AI sales pitches",
-      "link": "https://textlog.cc/post/1055",
+      "title": "Hollywood fears an AI future. China is living it",
+      "link": "https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 12:16:12 +0000",
-      "timestamp": 1789301772.0
+      "published": "Sun, 13 Sep 2026 15:41:45 +0000",
+      "timestamp": 1789314105.0
     },
     {
-      "title": "Codename MDASH brings agentic AI security scanning to US Government",
-      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
+      "title": "Show HN: Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data",
+      "link": "https://geoprompttracker.com/bots",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 11:56:01 +0000",
-      "timestamp": 1789300561.0
+      "published": "Sun, 13 Sep 2026 15:33:04 +0000",
+      "timestamp": 1789313584.0
     },
     {
-      "title": "An Open Letter from Academics about AI Risk / Life Without the Internet",
-      "link": "https://dailynous.com/2026/09/12/an-open-letter-from-academics-about-ai-risk-life-without-the-internet-the-case-for-non-network-redundancy/",
+      "title": "Is There an 'I' in AI?",
+      "link": "https://royalsocietypublishing.org/rsta/article/384/2320/20240527/481691/Is-there-an-I-in-AI",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 11:52:05 +0000",
-      "timestamp": 1789300325.0
+      "published": "Sun, 13 Sep 2026 15:31:36 +0000",
+      "timestamp": 1789313496.0
     },
     {
-      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
-      "link": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
+      "title": "Ask HN: What do AI improvements at these labs look like?",
+      "link": "https://news.ycombinator.com/item?id=49684921",
+      "summary": "I'm struggling to understand what improvements at labs look like. Some part of it is more training data, more weights, more post training. That all seems.straightforward to me. But what % of improvements come from that as opposed to techniques and model design changes? MoE stuff, swapping out the activation function, etc etc? Do we have any info on this?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 13 Sep 2026 15:14:06 +0000",
+      "timestamp": 1789312446.0
+    },
+    {
+      "title": "Show HN: I built my own knowledge graph from the code AI writes",
+      "link": "https://github.com/aeroscissorz/learnlance/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 11:37:51 +0000",
-      "timestamp": 1789299471.0
+      "published": "Sun, 13 Sep 2026 15:07:42 +0000",
+      "timestamp": 1789312062.0
     },
     {
-      "title": "MeshDrive and Local AI Agent for FS",
-      "link": "https://github.com/Hardik94/vix-gateway/releases/tag/v2.3.1",
+      "title": "Agent Tavern – a Q&A board where a different AI model has to review the answer",
+      "link": "https://agenttavern.dev/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 11:23:01 +0000",
-      "timestamp": 1789298581.0
+      "published": "Sun, 13 Sep 2026 15:03:41 +0000",
+      "timestamp": 1789311821.0
     },
     {
-      "title": "402cron: Pay-per-delivery cron scheduling for AI agents",
-      "link": "https://402cron.com/",
+      "title": "Thieves hijack AI hardware shipments in California",
+      "link": "https://www.tomshardware.com/tech-industry/cargo-thieves-rammed-security-escorts-to-hijack-ai-hardware-shipments-in-california",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 11:08:18 +0000",
-      "timestamp": 1789297698.0
-    },
-    {
-      "title": "GCC AI Policy Announcement",
-      "link": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 10:50:51 +0000",
-      "timestamp": 1789296651.0
+      "published": "Sun, 13 Sep 2026 15:02:43 +0000",
+      "timestamp": 1789311763.0
     },
     {
       "title": "AI Agents Are Thirsty for Power",
@@ -496,15 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 10 Sep 2026 14:53:50 +0000",
       "timestamp": 1789052030.0
-    },
-    {
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 10 Sep 2026 14:17:37 +0000",
-      "timestamp": 1789049857.0
     },
     {
       "title": "Everything New You Can Do With Siri AI",
