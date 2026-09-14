@@ -1,186 +1,186 @@
 {
-  "scraped_at": "2026-09-14T01:02:36.798736+00:00",
+  "scraped_at": "2026-09-14T06:15:51.328224+00:00",
   "count": 59,
   "items": [
     {
-      "title": "AI Robots – When will they be in our homes",
-      "link": "https://spectrum.ieee.org/ai-robots",
+      "title": "Show HN: Anti-AI-slop: a 4 staged skill to detect and remove any AI writing slop",
+      "link": "https://github.com/misbahsy/anti-ai-slop",
+      "summary": "catches 41 different slop patterns: • ~120 ai words, ~100 phrases • em dashes, emoji bullets, title case headings • watermarks, negative parallelism, colon reveals, throat-clearing openers 4 gates: 1. sanitize invisible chars 2. remove common ai words/chars 3. an agent reviews original vs rewrite, loops back for failed reviews 4. optional: a parallel agent uses a different model to generate additional review + score Works with any of your AI agents.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 06:11:01 +0000",
+      "timestamp": 1789366261.0
+    },
+    {
+      "title": "AI is breaking our proxies for expertise",
+      "link": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 00:44:23 +0000",
-      "timestamp": 1789346663.0
+      "published": "Mon, 14 Sep 2026 06:05:43 +0000",
+      "timestamp": 1789365943.0
     },
     {
-      "title": "The librarian, the car keys, and AI",
-      "link": "https://eternallyradicalidea.com/p/the-librarian-the-car-keys-and-ai",
+      "title": "New AI fake text generator may be too dangerous to release, say creators (2019)",
+      "link": "https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 00:39:57 +0000",
-      "timestamp": 1789346397.0
+      "published": "Mon, 14 Sep 2026 06:05:16 +0000",
+      "timestamp": 1789365916.0
     },
     {
-      "title": "Worrying about bad AI code is worrying about the wrong problem",
-      "link": "https://matthorn.io/posts/2026-09-13-bad-ai/",
+      "title": "Ask HN: Is opaque over-engineering with frontier AI the future of software?",
+      "link": "https://news.ycombinator.com/item?id=49692470",
+      "summary": "I read this from Amazon CTO’s feed. It feels to me as the kool-aid driven hype driven version of software engineering. Is it the new normal? Are people at FAANG just accepting blindly opaque overengineered software as a thing now?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 05:45:35 +0000",
+      "timestamp": 1789364735.0
+    },
+    {
+      "title": "Show HN: Kepil – passport, mandate and tamper-evident journal for AI agents",
+      "link": "https://github.com/oleg-vdv/kepil",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 00:37:40 +0000",
-      "timestamp": 1789346260.0
+      "published": "Mon, 14 Sep 2026 05:28:36 +0000",
+      "timestamp": 1789363716.0
     },
     {
-      "title": "Open-Source AI and Open Models Reading List",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "title": "Byblos AI: AI co-founder sharing context across product, brand, and campaigns",
+      "link": "https://byblosai.app",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 00:22:51 +0000",
-      "timestamp": 1789345371.0
+      "published": "Mon, 14 Sep 2026 05:25:39 +0000",
+      "timestamp": 1789363539.0
     },
     {
-      "title": "AI bubble pops – Cory Doctorow",
-      "link": "https://www.youtube.com/watch?v=LiDUg_uylyM",
+      "title": "Ask HN: Do you worry about fires in AI datacenters?",
+      "link": "https://news.ycombinator.com/item?id=49692215",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 00:22:11 +0000",
-      "timestamp": 1789345331.0
+      "published": "Mon, 14 Sep 2026 05:04:24 +0000",
+      "timestamp": 1789362264.0
     },
     {
-      "title": "AI Boom / Bust – Boom Boom Pow",
-      "link": "https://news.ycombinator.com/item?id=49690154",
-      "summary": "Constant chatter about AI being in a boom right now, a blimp sized bubble going to pop soon. It's taking our jobs. These are common statements of expression I hear everyday. I use AI daily, I use it in and out of work every single day. While there is some truth in there, I say harness the power of it, learn it, don't run away, run towards it. Of course every person on here has heard the recent sentiment expressed by the experts, its eerie, dark, and think there is some truth there. However, I choose optimism, hoping leaders of the world choose governance and moderation. We should all run towar",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 00:08:41 +0000",
-      "timestamp": 1789344521.0
-    },
-    {
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "link": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "title": "Show HN: I was frustrated with AI giving confident answer,Even when it was wrong",
+      "link": "https://demo.aqqai.in",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 00:07:09 +0000",
-      "timestamp": 1789344429.0
+      "published": "Mon, 14 Sep 2026 04:53:32 +0000",
+      "timestamp": 1789361612.0
     },
     {
-      "title": "AI Coding Dictionary",
-      "link": "https://www.aihero.dev/ai-coding-dictionary",
+      "title": "Open-Weight Diplomacy: How China's AI Models Are Rerunning the Digital Silk Road",
+      "link": "https://www.lawfaremedia.org/article/open-weight-diplomacy--how-china-s-ai-models-are-rerunning-the-digital-silk-road",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 23:56:24 +0000",
-      "timestamp": 1789343784.0
+      "published": "Mon, 14 Sep 2026 04:52:07 +0000",
+      "timestamp": 1789361527.0
     },
     {
-      "title": "X.com busts Chinese bot farm, incl accounts making claims about AI data centers",
-      "link": "https://www.tomshardware.com/tech-industry/policy/x-busts-200-000-strong-chinese-bot-farm-including-accounts-making-claims-about-ai-data-centers-and-electricity-suspect-accounts-posted-claims-about-pricing-and-grid-strain-to-manipulate-debate",
+      "title": "Who Gets to Define the Rules for AI?",
+      "link": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 23:54:44 +0000",
-      "timestamp": 1789343684.0
+      "published": "Mon, 14 Sep 2026 04:49:51 +0000",
+      "timestamp": 1789361391.0
     },
     {
-      "title": "Robots protest rampant AI in Poland",
-      "link": "https://techxplore.com/news/2026-09-robots-protest-rampant-ai-poland.html",
+      "title": "Does AI Assistance Enhance or Erode Expertise?",
+      "link": "https://www.nber.org/papers/w35720",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 23:46:41 +0000",
-      "timestamp": 1789343201.0
+      "published": "Mon, 14 Sep 2026 04:27:43 +0000",
+      "timestamp": 1789360063.0
     },
     {
-      "title": "Ask HN: How is AI actively a threat to humanity if it's only online?",
-      "link": "https://news.ycombinator.com/item?id=49689905",
-      "summary": "That's always been something that's left me confused here. Yes, an AI can be dangerous by hacking websites and company systems or flooding social media with scams or fake news. Yes, AI generated code can have security issues that a developer doesn't catch because they didn't review it properly. But isn't there a pretty big jump from that to \"can destroy humanity\"? Like say, a jump involving a society not run by the internet? Because if an AI takes over the systems at a factory, it can't really do much beyond what the factory could already do. The production lines use single purpose robots and ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 23:37:01 +0000",
-      "timestamp": 1789342621.0
-    },
-    {
-      "title": "I think Effect-TS is a strong fit for AI agent development",
-      "link": "https://effect.website/",
+      "title": "Sam Altman: Frontier AI labs need shared safety rules and responsible pacing",
+      "link": "https://twitter.com/sama/status/2099348812305473766",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 23:33:34 +0000",
-      "timestamp": 1789342414.0
+      "published": "Mon, 14 Sep 2026 04:10:29 +0000",
+      "timestamp": 1789359029.0
     },
     {
-      "title": "AI hypervigilance is now an omnipresent cognitive load for your users",
-      "link": "https://productpicnic.beehiiv.com/p/ai-hypervigilance-is-now-an-omnipresent-cognitive-load-for-your-users",
+      "title": "Show HN: 3dbae is changing the game of Real Time AI Renddering",
+      "link": "https://3dbae.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 23:21:44 +0000",
-      "timestamp": 1789341704.0
+      "published": "Mon, 14 Sep 2026 04:05:58 +0000",
+      "timestamp": 1789358758.0
     },
     {
-      "title": "Ask HN: Would a startup for young creatives who reject AI be feasible?",
-      "link": "https://news.ycombinator.com/item?id=49689696",
-      "summary": "I am a member of my university's game development club, which puts me around lots of talented programmers as well as artists of all kinds, and I've observed that just about everyone disapproves of AI. The sentiment is especially strong among younger people coming into the club. By \"disapproves\", I mean they refuse to allow AI-generated content in games and see AI use in general as something like a moral failure. At the same time, I scroll down the YC startup directory, sorting by launch date, and observe that every non-hardware company (and most of the hardware ones) are entirely based on AI. ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 23:09:37 +0000",
-      "timestamp": 1789340977.0
-    },
-    {
-      "title": "It's All Fun and Games Until You Give AI Your Credit Card",
-      "link": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+      "title": "Can Your Team Name the Work It Runs with AI?",
+      "link": "https://age-of-product.com/ai-workflow-inventory/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 23:05:13 +0000",
-      "timestamp": 1789340713.0
+      "published": "Mon, 14 Sep 2026 03:44:35 +0000",
+      "timestamp": 1789357475.0
     },
     {
-      "title": "The Three AI Pills",
-      "link": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills/",
+      "title": "AI versus Throughput",
+      "link": "https://www.michaelnygard.com/blog/2026/05/ai-versus-throughput/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 22:47:20 +0000",
-      "timestamp": 1789339640.0
+      "published": "Mon, 14 Sep 2026 03:05:54 +0000",
+      "timestamp": 1789355154.0
     },
     {
-      "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo",
+      "title": "Google Artemis: Let AI assistants and test suites use real phones like a human",
+      "link": "https://github.com/google/artemis",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 22:39:20 +0000",
-      "timestamp": 1789339160.0
+      "published": "Mon, 14 Sep 2026 02:57:26 +0000",
+      "timestamp": 1789354646.0
     },
     {
-      "title": "Donald Trump rejects calls from tech bosses for AI slowdown",
-      "link": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed",
+      "title": "Show HN: Replay – Audit silent prompt cache misses in AI agent transcripts",
+      "link": "https://replay.doctor/",
+      "summary": "I built Replay because AI agent bills spike without a single warning or error in your logs when a prompt cache breaks. Whether your team runs Claude Code, Cursor, or Aider, the provider just silently re-bills your entire conversation history at cold-write prices instead of cached read prices. Replay is a zero-telemetry, zero-dependency local Go CLI that forensically reads your on-disk log transcripts, replays them against reverse-engineered provider caching state-machines, and names the exact turn the cache broke, the cause, and the exact token leakage. Repo: https://github.com/RedRobotKK/Repl",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 02:38:58 +0000",
+      "timestamp": 1789353538.0
+    },
+    {
+      "title": "Brief Legal [1A] Thoughts on the \"AI Safety\" Fights to Come",
+      "link": "https://prestonbyrne.com/2026/09/13/brief-legal-thoughts-on-the-ai-safety-fights-to-come/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 22:32:59 +0000",
-      "timestamp": 1789338779.0
+      "published": "Mon, 14 Sep 2026 02:25:07 +0000",
+      "timestamp": 1789352707.0
     },
     {
-      "title": "AI extinction is only one way the future is frightening",
-      "link": "https://www.rnz.co.nz/news/world/1362349/ai-extinction-is-only-one-way-the-future-is-frightening",
+      "title": "AI Forces You to Commit to Your Initial Belief",
+      "link": "https://idiallo.com/blog/making-changes-mid-sentence",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 22:14:44 +0000",
-      "timestamp": 1789337684.0
+      "published": "Mon, 14 Sep 2026 02:13:29 +0000",
+      "timestamp": 1789352009.0
     },
     {
-      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
-      "link": "https://arxiv.org/abs/2609.11873",
+      "title": "Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 13 Sep 2026 22:06:45 +0000",
-      "timestamp": 1789337205.0
+      "published": "Mon, 14 Sep 2026 01:55:37 +0000",
+      "timestamp": 1789350937.0
     },
     {
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
