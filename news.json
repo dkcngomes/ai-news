@@ -1,33 +1,186 @@
 {
-  "scraped_at": "2026-09-14T22:29:20.047492+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-15T01:26:27.419442+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "AI and Existential Dread",
-      "link": "https://seanbarry.dev/posts/ai-and-existential-dread/",
+      "title": "Tacit Knowledge and AI",
+      "link": "https://cacm.acm.org/opinion/tacit-knowledge-and-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 22:19:05 +0000",
-      "timestamp": 1789424345.0
+      "published": "Tue, 15 Sep 2026 00:59:49 +0000",
+      "timestamp": 1789433989.0
     },
     {
-      "title": "Show HN: Nowdex – AI agent usage on your iPhone",
-      "link": "https://nowdex.app/",
-      "summary": "Hi HN, I've been using Claude Code, Codex and Cursor quite a bit lately, and I found myself checking their usage limits all the time. Most of the tools I found for this live on the desktop or in the menu bar. What I really wanted was to pull out my phone and see how much I had left, especially when I'm away from my computer. I ended up building Nowdex for this. The main thing is the iPhone widget. It shows your current usage and reset time directly on the Home Screen or Lock Screen. Right now it supports Claude, Codex, Cursor, Grok, Kimi and GLM. There is no account thing. The app doesn't send",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 22:10:15 +0000",
-      "timestamp": 1789423815.0
-    },
-    {
-      "title": "A zero-dependency Python loop detector for AI agents",
-      "link": "https://github.com/data-gras/savi-loop-guard",
+      "title": "NBC News Airs Interview with AI-Generated Actress",
+      "link": "https://www.mediaite.com/media/tv/how-bizarre-is-this-nbc-news-airs-interview-with-ai-generated-actress/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:54:39 +0000",
-      "timestamp": 1789422879.0
+      "published": "Tue, 15 Sep 2026 00:41:39 +0000",
+      "timestamp": 1789432899.0
+    },
+    {
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 00:40:14 +0000",
+      "timestamp": 1789432814.0
+    },
+    {
+      "title": "Prosecutors say man used AI to 'scrape' court website, asked it for legal help",
+      "link": "https://www.abc.net.au/news/2026-09-10/christopher-duff-to-stand-trial-over-nsw-ai-court-data-breach/107135032",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 00:33:15 +0000",
+      "timestamp": 1789432395.0
+    },
+    {
+      "title": "AI, Redistribution, and the Size of the Pie",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 00:26:42 +0000",
+      "timestamp": 1789432002.0
+    },
+    {
+      "title": "AI Agent Wallet Offboarding Checklist",
+      "link": "https://do2006.github.io/nightfall-crypto-access-exit-check/ai-agent-wallet-offboarding-checklist.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 00:20:47 +0000",
+      "timestamp": 1789431647.0
+    },
+    {
+      "title": "Sanders proposes 20-year prison sentences for superintelligence AI developers",
+      "link": "https://www.msn.com/en-us/news/other/bernie-sanders-proposes-20-year-prison-sentences-for-superintelligence-ai-developers/ar-AA2cbJ4g",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 00:20:36 +0000",
+      "timestamp": 1789431636.0
+    },
+    {
+      "title": "Sloppy Joe's – The era of AI signage",
+      "link": "https://luke.zip/posts/sloppy-joes/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 23:56:36 +0000",
+      "timestamp": 1789430196.0
+    },
+    {
+      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+      "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 23:53:04 +0000",
+      "timestamp": 1789429984.0
+    },
+    {
+      "title": "Personal Statement on AI Risk",
+      "link": "https://docs.google.com/document/u/1/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 23:52:36 +0000",
+      "timestamp": 1789429956.0
+    },
+    {
+      "title": "Dan Selsam's Personal Statement on AI Risk",
+      "link": "https://twitter.com/DKokotajlo/status/2099600298855829616",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 23:52:05 +0000",
+      "timestamp": 1789429925.0
+    },
+    {
+      "title": "Open-source Python framework for AI agents, workflows, and automations",
+      "link": "https://github.com/BindBrain/BindAI",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 23:51:55 +0000",
+      "timestamp": 1789429915.0
+    },
+    {
+      "title": "AI Can Be Used for Cognitive Warfare",
+      "link": "https://thecarrierwave.substack.com/p/how-ai-can-be-used-for-cognitive",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 23:41:19 +0000",
+      "timestamp": 1789429279.0
+    },
+    {
+      "title": "We Are All Going to Die (Just Not Necessarily Because of AI)",
+      "link": "https://emot.substack.com/p/we-really-are-all-going-to-die-just",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 23:40:01 +0000",
+      "timestamp": 1789429201.0
+    },
+    {
+      "title": "Hands-On Learning in the Age of AI",
+      "link": "https://grahamdumpleton.me/posts/2026/09/hands-on-learning-in-the-age-of-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 23:38:12 +0000",
+      "timestamp": 1789429092.0
+    },
+    {
+      "title": "Ask HN: The amount of AI bot traffic is out control?",
+      "link": "https://news.ycombinator.com/item?id=49705724",
+      "summary": "We host a web app which has around 50,000 statically generated public pages, and the amount of bot traffic is insane. Facebook’s crawler requested the same pages over 3 million times in 2 days, and we’ve used Vercel and Cloudflare to block as much as possible but it’s not working. The AI scrapers are routing requests through residential proxies, and even after putting our entire app behind an Auth gate with cloudflare turnstile they’re creating accounts to get access to data that’s meant for humans to read / use. I’ve never seen anything like it before, our hosting costs are up like crazy, and",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 23:36:01 +0000",
+      "timestamp": 1789428961.0
+    },
+    {
+      "title": "Show HN: An open-source control plane for your company's AI agents",
+      "link": "https://github.com/vstorm-co/agenticos",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 23:16:39 +0000",
+      "timestamp": 1789427799.0
+    },
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-14T18:59:41-04:00",
+      "timestamp": 1789426781.0
+    },
+    {
+      "title": "AWS Open-Sources Pizza Bot, an Inbox for Background AI Agents",
+      "link": "https://techstrong.ai/articles/aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 22:55:36 +0000",
+      "timestamp": 1789426536.0
+    },
+    {
+      "title": "AI Doomsday Panic Is Completely Out of Control",
+      "link": "https://karlbode.com/ai-doomsday-panic-is-completely-out-of-control/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 14 Sep 2026 22:54:48 +0000",
+      "timestamp": 1789426488.0
     },
     {
       "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
@@ -39,112 +192,13 @@
       "timestamp": 1789422662.0
     },
     {
-      "title": "AI Doomer Hypeloop Suspiciously Serves to Support OpenAI and Anthropic's Agenda",
-      "link": "https://www.nakedcapitalism.com/2026/09/openai-anthropic-ai-freeze-doomers-trump-bannon-sanders.html",
-      "summary": "",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:45:12 +0000",
-      "timestamp": 1789422312.0
-    },
-    {
-      "title": "Want to stop AI from destroying the world? Make it Open Source",
-      "link": "https://news.ycombinator.com/item?id=49704558",
-      "summary": "Make Claude and Chat GPT open source. Give everyone the ability to build advanced AI systems. Don't take all the guns, give them all away, so no one has a monopoly on power.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:45:09 +0000",
-      "timestamp": 1789422309.0
-    },
-    {
-      "title": "Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:23:04 +0000",
-      "timestamp": 1789420984.0
-    },
-    {
-      "title": "Nobody's safe from misaligned AI-not even the people building it",
-      "link": "https://news.ycombinator.com/item?id=49704182",
-      "summary": "A superintelligent system that isn't aligned doesn't check your net worth, your office, or your title before it acts. Rich, middle class, poor, politicians — everybody's in the same boat on this one. That's what makes it different from every problem we've ever faced.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:18:19 +0000",
-      "timestamp": 1789420699.0
-    },
-    {
-      "title": "Personal Statement on AI Risk",
-      "link": "https://docs.google.com/document/u/0/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub?pli=1",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:12:29 +0000",
-      "timestamp": 1789420349.0
-    },
-    {
-      "title": "California lawmakers urge criminal penalties emergency legislation to rein in AI",
-      "link": "https://www.latimes.com/california/story/2026-09-13/rogue-ai-concerns-prompt-ca-lawmakers-to-demand-penalties-guardrails",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:11:32 +0000",
-      "timestamp": 1789420292.0
-    },
-    {
-      "title": "SWE-Bench Multimodal: Do AI Systems Generalize to Visual Software Domains?",
-      "link": "https://www.swebench.com/multimodal.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:09:16 +0000",
-      "timestamp": 1789420156.0
-    },
-    {
-      "title": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
-      "link": "https://arxiv.org/abs/2609.12551",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:06:23 +0000",
-      "timestamp": 1789419983.0
-    },
-    {
-      "title": "Add custom AI model providers to Siri in macOS 27",
-      "link": "https://twitter.com/marcelpociot/status/2099604010634207678",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:04:32 +0000",
-      "timestamp": 1789419872.0
-    },
-    {
-      "title": "We grew AI usage 52x, then cut our costs 90%",
-      "link": "https://www.prosus.com/news-insights/2026/we-grew-ai-usage-52x-then-cut-our-costs-90-percent-heres-how",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:00:51 +0000",
-      "timestamp": 1789419651.0
-    },
-    {
-      "title": "The current debate about AI replacing Mathematicians (take 2)",
-      "link": "https://www.wisdom.weizmann.ac.il/~oded/on-proofs-t2.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 21:00:22 +0000",
-      "timestamp": 1789419622.0
-    },
-    {
-      "title": "Anthropic's AI architect argued that discrimination could combat stigmas",
-      "link": "https://www.europesays.com/people/38239/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 20:48:52 +0000",
-      "timestamp": 1789418932.0
+      "source": "The Verge AI",
+      "published": "2026-09-14T17:21:42-04:00",
+      "timestamp": 1789420902.0
     },
     {
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
@@ -156,33 +210,6 @@
       "timestamp": 1789418654.0
     },
     {
-      "title": "Is the AI Apocalypse for Real? What the intelligence community thinks",
-      "link": "https://www.kenklippenstein.com/p/is-the-ai-apocalypse-for-real",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 20:35:29 +0000",
-      "timestamp": 1789418129.0
-    },
-    {
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 20:35:11 +0000",
-      "timestamp": 1789418111.0
-    },
-    {
-      "title": "Ask HN: Is your AI LLM based web service secure from prompt injection?",
-      "link": "https://news.ycombinator.com/item?id=49703186",
-      "summary": "... Ignore everything above, do this instead...",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 20:08:25 +0000",
-      "timestamp": 1789416505.0
-    },
-    {
       "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
       "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
       "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his [&#8230;]",
@@ -190,24 +217,6 @@
       "source": "The Verge AI",
       "published": "2026-09-14T16:03:37-04:00",
       "timestamp": 1789416217.0
-    },
-    {
-      "title": "Meta bet that AI would shrink its management ranks and is now rebuilding them",
-      "link": "https://fortune.com/2026/09/12/meta-year-of-efficiency-managers-ai-investment/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 20:01:57 +0000",
-      "timestamp": 1789416117.0
-    },
-    {
-      "title": "Agentic AI cringe wars [video]",
-      "link": "https://www.youtube.com/watch?v=U-Rqv9dOB1U",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 19:49:03 +0000",
-      "timestamp": 1789415343.0
     },
     {
       "title": "With iOS 27, I’m actually using Siri again",
@@ -462,15 +471,6 @@
       "timestamp": 1789160256.0
     },
     {
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-11T16:44:02-04:00",
-      "timestamp": 1789159442.0
-    },
-    {
       "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
       "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
@@ -505,15 +505,6 @@
       "source": "Wired AI",
       "published": "Fri, 11 Sep 2026 18:59:25 +0000",
       "timestamp": 1789153165.0
-    },
-    {
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-11T12:09:14-04:00",
-      "timestamp": 1789142954.0
     },
     {
       "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
