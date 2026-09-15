@@ -1,150 +1,285 @@
 {
-  "scraped_at": "2026-09-15T13:31:37.039780+00:00",
+  "scraped_at": "2026-09-15T18:10:30.374841+00:00",
   "count": 60,
   "items": [
     {
-      "title": "AI Regulation as Anthropic's Business Model",
-      "link": "https://twitter.com/kevinnbass/status/2099621874279817638",
+      "title": "Measuring AI's Impact on Delivery Speed",
+      "link": "https://www.jamesshore.com/v2/blog/2026/measuring-ais-impact-on-delivery-speed",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 13:21:34 +0000",
-      "timestamp": 1789478494.0
+      "published": "Tue, 15 Sep 2026 18:01:53 +0000",
+      "timestamp": 1789495313.0
     },
     {
-      "title": "Show HN: Prokop – Open-source AI coding workspace with cross-project memory",
-      "link": "https://github.com/capek-dev/prokop",
+      "title": "Human extinction 'just a matter of time' if AI slowdown doesn't go far enough",
+      "link": "https://www.ctvnews.ca/sci-tech/article/state-of-emergency-montreal-based-ai-expert-says-industry-slowdown-plan-doesnt-go-far-enough/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 13:20:06 +0000",
-      "timestamp": 1789478406.0
+      "published": "Tue, 15 Sep 2026 18:01:38 +0000",
+      "timestamp": 1789495298.0
     },
     {
-      "title": "The Security Risks in 100k Enterprise AI Sessions",
-      "link": "https://a16y.ai/blog/the-hidden-security-risks-in-100k-enterprise-ai-sessions",
+      "title": "AI-Based Coding and Alienation",
+      "link": "https://arnerief.net/en/articles/ai-coding-alienation/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 13:15:46 +0000",
-      "timestamp": 1789478146.0
+      "published": "Tue, 15 Sep 2026 18:00:23 +0000",
+      "timestamp": 1789495223.0
     },
     {
-      "title": "My AI Agent Got Its Own Screen on My Desk. It Decides What I See",
-      "link": "https://thoughts.jock.pl/p/trmnl-eink-ai-agent-physical-surface-2026",
-      "summary": "",
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 13:06:32 +0000",
-      "timestamp": 1789477592.0
+      "source": "Wired AI",
+      "published": "Tue, 15 Sep 2026 18:00:09 +0000",
+      "timestamp": 1789495209.0
     },
     {
-      "title": "What does your AI habit cost?",
-      "link": "https://theinvisiblecloud.com/",
+      "title": "Meta launches subscriptions with enhanced AI features",
+      "link": "https://www.reuters.com/business/meta-launches-subscriptions-with-enhanced-ai-features-2026-09-15/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 13:00:03 +0000",
-      "timestamp": 1789477203.0
+      "published": "Tue, 15 Sep 2026 17:58:41 +0000",
+      "timestamp": 1789495121.0
+    },
+    {
+      "title": "AI agents now have a place to snitch",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 17:42:59 +0000",
+      "timestamp": 1789494179.0
+    },
+    {
+      "title": "Can an AI chatbot replace human connection?",
+      "link": "https://www.scientificamerican.com/podcast/episode/are-ai-chatbots-making-us-less-human/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 17:40:26 +0000",
+      "timestamp": 1789494026.0
+    },
+    {
+      "title": "Polanyi Knowledge and AI",
+      "link": "https://arnoldkling.substack.com/p/polanyi-knowledge-and-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 17:39:01 +0000",
+      "timestamp": 1789493941.0
+    },
+    {
+      "title": "Efficient Chips Alone Will Not Solve AI's Energy Problem",
+      "link": "https://substack.com/profile/530005683-iveth/note/c-337835158",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 17:31:31 +0000",
+      "timestamp": 1789493491.0
+    },
+    {
+      "title": "Intel Secures AI Agents at the Edge for Autonomous Ride Performance",
+      "link": "https://www.sdxcentral.com/news/intel-secures-ai-agents-at-the-edge-for-autonomous-ride-performance/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 17:23:54 +0000",
+      "timestamp": 1789493034.0
+    },
+    {
+      "title": "Why I'm Not Worried About AI Killing Us All",
+      "link": "https://www.hackyexperiments.com/blog/why-im-not-worried-about-ai-killing-us-all",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 17:23:35 +0000",
+      "timestamp": 1789493015.0
+    },
+    {
+      "title": "DaiDocs: AI memory as a plain-text file format, not a service",
+      "link": "https://github.com/Kerneta/daidocs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 17:18:06 +0000",
+      "timestamp": 1789492686.0
+    },
+    {
+      "title": "A labor forecasting approach built to keep pace with AI and robotics",
+      "link": "https://endoflabor.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 17:08:32 +0000",
+      "timestamp": 1789492112.0
+    },
+    {
+      "title": "Is AI Solving Math Too Fast?",
+      "link": "https://www.quantabooks.org/is-ai-solving-math-too-fast/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 17:06:25 +0000",
+      "timestamp": 1789491985.0
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 17:05:24 +0000",
+      "timestamp": 1789491924.0
+    },
+    {
+      "title": "We asked creative experts to rank AI image / video models. Here's what happened",
+      "link": "https://openart.ai/arena",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 17:02:23 +0000",
+      "timestamp": 1789491743.0
+    },
+    {
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 17:01:40 +0000",
+      "timestamp": 1789491700.0
+    },
+    {
+      "title": "AI is now leading driver of new cybersecurity spending",
+      "link": "https://www.cybersecuritydive.com/news/ai-leading-driver-cybersecurity-spending/830418/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 16:58:16 +0000",
+      "timestamp": 1789491496.0
+    },
+    {
+      "title": "AI Safety Requires More Than Just Slowing Our Pace – Stuart Russell",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 16:56:50 +0000",
+      "timestamp": 1789491410.0
+    },
+    {
+      "title": "Ask HN: Where is all of the AI coded software?",
+      "link": "https://news.ycombinator.com/item?id=49715361",
+      "summary": "Like a lot of folks, I'm trying to understand the AI reality vs. the hype cycle. I have my own experiences both using it and seeing it rolled out with a “do more AI” mandate at a huge tech company. Even looking here at discussions we have the full spectrum from engineers who say they don’t code anymore, they just manage agents, to engineers who say they find it basically useless because of how stupid it is. I’ve been looking for clues (I wanted to use the word “signals\" there but I can’t because I don’t want you all to think Claude wrote this) in the market that we can all see, so we don’t hav",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 16:55:08 +0000",
+      "timestamp": 1789491308.0
+    },
+    {
+      "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
+      "link": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 16:53:24 +0000",
+      "timestamp": 1789491204.0
+    },
+    {
+      "title": "What happens to engineers when AI writes all the code?",
+      "link": "https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 16:51:02 +0000",
+      "timestamp": 1789491062.0
+    },
+    {
+      "title": "Easy Way to Stop Dangerous AI – No, Really [video]",
+      "link": "https://www.youtube.com/watch?v=9tr7Mby62bo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 16:50:39 +0000",
+      "timestamp": 1789491039.0
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 15:47:03 +0000",
+      "timestamp": 1789487223.0
+    },
+    {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 15:22:48 +0000",
+      "timestamp": 1789485768.0
+    },
+    {
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-15T11:00:00-04:00",
+      "timestamp": 1789484400.0
+    },
+    {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 14:42:37 +0000",
+      "timestamp": 1789483357.0
+    },
+    {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 14:30:00 +0000",
+      "timestamp": 1789482600.0
+    },
+    {
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 14:00:00 +0000",
+      "timestamp": 1789480800.0
+    },
+    {
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-15T09:36:45-04:00",
+      "timestamp": 1789479405.0
     },
     {
       "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
       "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A lound led by Ribbit Capital, with participation from First Harmonic.",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 15 Sep 2026 13:00:00 +0000",
       "timestamp": 1789477200.0
-    },
-    {
-      "title": "Show HN: Nenya – 0-deps AI gateway redacts secrets before they reach providers",
-      "link": "https://github.com/gumieri/nenya",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 12:54:24 +0000",
-      "timestamp": 1789476864.0
-    },
-    {
-      "title": "Show HN: SubRunGear – Fitness Gear AI Operating System",
-      "link": "https://www.subrungear.com/",
-      "summary": "Strava's 2026 API terms killed my verified-mileage idea — here's what I built instead. A Fitness Gear tracker as a companion to Strava's Gear tracking. Key features are: - Gear Tracking and bundling into Kits - AI Fitness Coach",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 12:52:06 +0000",
-      "timestamp": 1789476726.0
-    },
-    {
-      "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 12:47:32 +0000",
-      "timestamp": 1789476452.0
-    },
-    {
-      "title": "Arazzo is solving the right problem for AI tools. The spec just isn't there yet",
-      "link": "https://bump.sh/blog/arazzo-is-solving-the-right-problem-for-ai-tools-the-spec-just-isnt-there-yet/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 12:44:57 +0000",
-      "timestamp": 1789476297.0
-    },
-    {
-      "title": "Who bankrolls the AI agent swarm?",
-      "link": "https://noperator.dev/posts/who-bankrolls-the-ai-agent-swarm/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 12:36:31 +0000",
-      "timestamp": 1789475791.0
-    },
-    {
-      "title": "16 of 32 well-known sites block at least one AI search crawler",
-      "link": "https://ai-visibility.lastminutedealshq.com/who-blocks-ai-search",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 12:25:09 +0000",
-      "timestamp": 1789475109.0
-    },
-    {
-      "title": "Open weights are not open source: Why AI's favorite label is under dispute",
-      "link": "https://www.theregister.com/columnists/2026/09/15/open-weights-are-not-open-source-why-ais-favorite-label-is-under-dispute/5295436",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 12:21:26 +0000",
-      "timestamp": 1789474886.0
-    },
-    {
-      "title": "The Synthetic Yes-Man: AI, Dunning-Kruger, and the Modern Voigt-Kampff Test",
-      "link": "https://www.thesimgap.com/p/the-synthetic-yes-man-ai-dunning",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 12:13:23 +0000",
-      "timestamp": 1789474403.0
-    },
-    {
-      "title": "AntFlow AI: Spec-Driven Agentic Development",
-      "link": "https://geekyants.com/antflow-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 12:02:58 +0000",
-      "timestamp": 1789473778.0
-    },
-    {
-      "title": "I fixed my DevOps mistakes with AI",
-      "link": "https://flaviocopes.com/devops-mistakes-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 12:02:47 +0000",
-      "timestamp": 1789473767.0
     },
     {
       "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
@@ -154,51 +289,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 15 Sep 2026 12:00:00 +0000",
       "timestamp": 1789473600.0
-    },
-    {
-      "title": "1Password's AI patching benchmark is misleading",
-      "link": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 11:54:11 +0000",
-      "timestamp": 1789473251.0
-    },
-    {
-      "title": "AI Safety and Pacing the Frontier",
-      "link": "https://eshumarneedi.com/2026/09/15/on-ai-safety-and-pacing.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 11:45:01 +0000",
-      "timestamp": 1789472701.0
-    },
-    {
-      "title": "Windows-focused fork of OpenUsage for tracking AI coding subscription usage",
-      "link": "https://github.com/ccycv/openusage",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 11:39:11 +0000",
-      "timestamp": 1789472351.0
-    },
-    {
-      "title": "APC AI-assisted framework for building audio (VST/AU) plugins",
-      "link": "https://github.com/Noizefield/audio-plugin-coder",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 11:37:10 +0000",
-      "timestamp": 1789472230.0
-    },
-    {
-      "title": "OpenStreetMap fighting a large set of AI crawlers / scrapers",
-      "link": "https://en.osm.town/@osm_tech/117273699871137554",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 11:35:42 +0000",
-      "timestamp": 1789472142.0
     },
     {
       "title": "Jensen Huang took a call from Trump, and showed off something else, too",
@@ -381,24 +471,6 @@
       "timestamp": 1789328508.0
     },
     {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 13 Sep 2026 19:40:15 +0000",
-      "timestamp": 1789328415.0
-    },
-    {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 13 Sep 2026 16:30:00 +0000",
-      "timestamp": 1789317000.0
-    },
-    {
       "title": "AI Agents Are Thirsty for Power",
       "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
       "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
@@ -426,24 +498,6 @@
       "timestamp": 1789247788.0
     },
     {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
-      "timestamp": 1789244356.0
-    },
-    {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 12 Sep 2026 19:34:44 +0000",
-      "timestamp": 1789241684.0
-    },
-    {
       "title": "Anthropic CEO says it’s time to pump the brakes on AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
       "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
@@ -453,24 +507,6 @@
       "timestamp": 1789230220.0
     },
     {
-      "title": "Trump is giving data centers a pass to pollute",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-12T10:41:27-04:00",
-      "timestamp": 1789224087.0
-    },
-    {
-      "title": "OpenAI just wants to win",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-12T07:00:00-04:00",
-      "timestamp": 1789210800.0
-    },
-    {
       "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
       "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
@@ -478,33 +514,6 @@
       "source": "Wired AI",
       "published": "Sat, 12 Sep 2026 10:30:00 +0000",
       "timestamp": 1789209000.0
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "timestamp": 1789167497.0
-    },
-    {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 11 Sep 2026 20:59:47 +0000",
-      "timestamp": 1789160387.0
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 11 Sep 2026 20:57:36 +0000",
-      "timestamp": 1789160256.0
     },
     {
       "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Fri, 11 Sep 2026 09:00:00 +0000",
       "timestamp": 1789117200.0
-    },
-    {
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 10 Sep 2026 23:28:42 +0000",
-      "timestamp": 1789082922.0
     }
   ]
 }
