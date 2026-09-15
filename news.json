@@ -1,191 +1,209 @@
 {
-  "scraped_at": "2026-09-15T07:42:23.433108+00:00",
+  "scraped_at": "2026-09-15T13:31:37.039780+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Javier Gomez-Serrano – New Math, AI Developments in Fluid Mechanics [video]",
-      "link": "https://www.youtube.com/watch?v=TcEefrWrddA",
+      "title": "AI Regulation as Anthropic's Business Model",
+      "link": "https://twitter.com/kevinnbass/status/2099621874279817638",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 07:15:15 +0000",
-      "timestamp": 1789456515.0
+      "published": "Tue, 15 Sep 2026 13:21:34 +0000",
+      "timestamp": 1789478494.0
     },
     {
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo",
+      "title": "Show HN: Prokop – Open-source AI coding workspace with cross-project memory",
+      "link": "https://github.com/capek-dev/prokop",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 07:14:46 +0000",
-      "timestamp": 1789456486.0
+      "published": "Tue, 15 Sep 2026 13:20:06 +0000",
+      "timestamp": 1789478406.0
     },
     {
-      "title": "A Blueprint for Keeping Humans in Control of AI",
-      "link": "https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai",
+      "title": "The Security Risks in 100k Enterprise AI Sessions",
+      "link": "https://a16y.ai/blog/the-hidden-security-risks-in-100k-enterprise-ai-sessions",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 07:08:38 +0000",
-      "timestamp": 1789456118.0
+      "published": "Tue, 15 Sep 2026 13:15:46 +0000",
+      "timestamp": 1789478146.0
     },
     {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "title": "My AI Agent Got Its Own Screen on My Desk. It Decides What I See",
+      "link": "https://thoughts.jock.pl/p/trmnl-eink-ai-agent-physical-surface-2026",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 07:02:39 +0000",
-      "timestamp": 1789455759.0
+      "published": "Tue, 15 Sep 2026 13:06:32 +0000",
+      "timestamp": 1789477592.0
     },
     {
-      "title": "KnowBench: Evaluating clinical AI with effort reduction",
-      "link": "https://arxiv.org/abs/2609.15794",
+      "title": "What does your AI habit cost?",
+      "link": "https://theinvisiblecloud.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 06:52:44 +0000",
-      "timestamp": 1789455164.0
+      "published": "Tue, 15 Sep 2026 13:00:03 +0000",
+      "timestamp": 1789477203.0
     },
     {
-      "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
-      "link": "https://qxotic.ai/",
-      "summary": "Hi HN, Some would call AI on the JVM quixotic. And so, Quixotic AI was born. jinfer is an inference engine for the JVM: chat, vision, audio, embeddings, reranking, and TTS. No Python runtime, no ONNX, no Docker containers, no sidecar process, no IPC. Finally, AI in a jar. The stack underneath is built for the JVM rather than bolted onto it: toknroll: pure-Java tokenizers, zero dependencies gguf / safetensors: read and write llama.cpp and HuggingFace model formats jam: quantized matmul kernels, competitive with llama.cpp on CPU jota: Tensor API targeting Java, C, CUDA, HIP, Metal, OpenCL, and M",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A lound led by Ribbit Capital, with participation from First Harmonic.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 06:42:32 +0000",
-      "timestamp": 1789454552.0
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
+      "timestamp": 1789477200.0
     },
     {
-      "title": "What the New AI Layoff Data Proves",
-      "link": "https://www.youtube.com/watch?v=k8pTfkA6sio",
+      "title": "Show HN: Nenya – 0-deps AI gateway redacts secrets before they reach providers",
+      "link": "https://github.com/gumieri/nenya",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 06:22:18 +0000",
-      "timestamp": 1789453338.0
+      "published": "Tue, 15 Sep 2026 12:54:24 +0000",
+      "timestamp": 1789476864.0
     },
     {
-      "title": "Dan Selsam (OpenAI Researcher) Personal Statement on AI Risk",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+      "title": "Show HN: SubRunGear – Fitness Gear AI Operating System",
+      "link": "https://www.subrungear.com/",
+      "summary": "Strava's 2026 API terms killed my verified-mileage idea — here's what I built instead. A Fitness Gear tracker as a companion to Strava's Gear tracking. Key features are: - Gear Tracking and bundling into Kits - AI Fitness Coach",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 12:52:06 +0000",
+      "timestamp": 1789476726.0
+    },
+    {
+      "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 06:04:33 +0000",
-      "timestamp": 1789452273.0
+      "published": "Tue, 15 Sep 2026 12:47:32 +0000",
+      "timestamp": 1789476452.0
     },
     {
-      "title": "Benchmark for AI Assistants",
-      "link": "https://assistantbenchmark.com/",
+      "title": "Arazzo is solving the right problem for AI tools. The spec just isn't there yet",
+      "link": "https://bump.sh/blog/arazzo-is-solving-the-right-problem-for-ai-tools-the-spec-just-isnt-there-yet/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 05:50:55 +0000",
-      "timestamp": 1789451455.0
+      "published": "Tue, 15 Sep 2026 12:44:57 +0000",
+      "timestamp": 1789476297.0
     },
     {
-      "title": "The Productivity Illusion of Enterprise AI Coding",
-      "link": "https://cacm.acm.org/blogcacm/the-productivity-illusion-at-the-heart-of-enterprise-ai-coding/",
+      "title": "Who bankrolls the AI agent swarm?",
+      "link": "https://noperator.dev/posts/who-bankrolls-the-ai-agent-swarm/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 05:17:24 +0000",
-      "timestamp": 1789449444.0
+      "published": "Tue, 15 Sep 2026 12:36:31 +0000",
+      "timestamp": 1789475791.0
     },
     {
-      "title": "Show HN: White-label AI voice and chat agent platform for resellers",
-      "link": "https://www.famulor.io/whitelabel",
+      "title": "16 of 32 well-known sites block at least one AI search crawler",
+      "link": "https://ai-visibility.lastminutedealshq.com/who-blocks-ai-search",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 05:14:15 +0000",
-      "timestamp": 1789449255.0
+      "published": "Tue, 15 Sep 2026 12:25:09 +0000",
+      "timestamp": 1789475109.0
     },
     {
-      "title": "The real AI economy is being built by ordinary people",
-      "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/",
+      "title": "Open weights are not open source: Why AI's favorite label is under dispute",
+      "link": "https://www.theregister.com/columnists/2026/09/15/open-weights-are-not-open-source-why-ais-favorite-label-is-under-dispute/5295436",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 05:13:15 +0000",
-      "timestamp": 1789449195.0
+      "published": "Tue, 15 Sep 2026 12:21:26 +0000",
+      "timestamp": 1789474886.0
     },
     {
-      "title": "Investors nervous about AI spending slowdown after industry warnings",
-      "link": "https://www.reuters.com/legal/transactional/investors-nervous-about-ai-spending-slowdown-after-industry-warnings-2026-09-15/",
+      "title": "The Synthetic Yes-Man: AI, Dunning-Kruger, and the Modern Voigt-Kampff Test",
+      "link": "https://www.thesimgap.com/p/the-synthetic-yes-man-ai-dunning",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 05:09:41 +0000",
-      "timestamp": 1789448981.0
+      "published": "Tue, 15 Sep 2026 12:13:23 +0000",
+      "timestamp": 1789474403.0
     },
     {
-      "title": "Mourning the Loss of AI Companions",
-      "link": "https://www.nature.com/articles/s41562-026-02569-3",
+      "title": "AntFlow AI: Spec-Driven Agentic Development",
+      "link": "https://geekyants.com/antflow-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 04:51:47 +0000",
-      "timestamp": 1789447907.0
+      "published": "Tue, 15 Sep 2026 12:02:58 +0000",
+      "timestamp": 1789473778.0
     },
     {
-      "title": "AI vs. Human Value Drift",
-      "link": "https://www.overcomingbias.com/p/ai-vs-human-value-drift",
+      "title": "I fixed my DevOps mistakes with AI",
+      "link": "https://flaviocopes.com/devops-mistakes-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 04:38:51 +0000",
-      "timestamp": 1789447131.0
+      "published": "Tue, 15 Sep 2026 12:02:47 +0000",
+      "timestamp": 1789473767.0
     },
     {
-      "title": "New AI Solves a Millennium Prize",
-      "link": "https://thezvi.substack.com/p/brand-new-ai-solves-a-millennium",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000",
+      "timestamp": 1789473600.0
+    },
+    {
+      "title": "1Password's AI patching benchmark is misleading",
+      "link": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 04:38:26 +0000",
-      "timestamp": 1789447106.0
+      "published": "Tue, 15 Sep 2026 11:54:11 +0000",
+      "timestamp": 1789473251.0
     },
     {
-      "title": "Ask HN: How to Protect Your Brand Before AI Copies It?",
-      "link": "https://news.ycombinator.com/item?id=49707514",
+      "title": "AI Safety and Pacing the Frontier",
+      "link": "https://eshumarneedi.com/2026/09/15/on-ai-safety-and-pacing.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 03:55:43 +0000",
-      "timestamp": 1789444543.0
+      "published": "Tue, 15 Sep 2026 11:45:01 +0000",
+      "timestamp": 1789472701.0
     },
     {
-      "title": "Europe must build own AI, says ECB's Lagarde",
-      "link": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+      "title": "Windows-focused fork of OpenUsage for tracking AI coding subscription usage",
+      "link": "https://github.com/ccycv/openusage",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 03:55:22 +0000",
-      "timestamp": 1789444522.0
+      "published": "Tue, 15 Sep 2026 11:39:11 +0000",
+      "timestamp": 1789472351.0
     },
     {
-      "title": "China hit back at Anthropic CEO's call to curb China's AI development",
-      "link": "https://www.youtube.com/watch?v=BIM5G5kFYAg",
+      "title": "APC AI-assisted framework for building audio (VST/AU) plugins",
+      "link": "https://github.com/Noizefield/audio-plugin-coder",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 03:47:39 +0000",
-      "timestamp": 1789444059.0
+      "published": "Tue, 15 Sep 2026 11:37:10 +0000",
+      "timestamp": 1789472230.0
     },
     {
-      "title": "Crof.ai Was Caught Misrepresenting Models, Shut Down",
-      "link": "https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/",
+      "title": "OpenStreetMap fighting a large set of AI crawlers / scrapers",
+      "link": "https://en.osm.town/@osm_tech/117273699871137554",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 03:42:18 +0000",
-      "timestamp": 1789443738.0
+      "published": "Tue, 15 Sep 2026 11:35:42 +0000",
+      "timestamp": 1789472142.0
     },
     {
       "title": "Jensen Huang took a call from Trump, and showed off something else, too",
       "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 15 Sep 2026 01:50:48 +0000",
@@ -487,24 +505,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 11 Sep 2026 20:57:36 +0000",
       "timestamp": 1789160256.0
-    },
-    {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 11 Sep 2026 20:33:18 +0000",
-      "timestamp": 1789158798.0
-    },
-    {
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 11 Sep 2026 20:30:17 +0000",
-      "timestamp": 1789158617.0
     },
     {
       "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
