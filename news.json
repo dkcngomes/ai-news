@@ -1,33 +1,204 @@
 {
-  "scraped_at": "2026-09-15T18:10:30.374841+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-15T21:18:32.339413+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Measuring AI's Impact on Delivery Speed",
-      "link": "https://www.jamesshore.com/v2/blog/2026/measuring-ais-impact-on-delivery-speed",
+      "title": "Typesafe AI",
+      "link": "https://typesafe.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 18:01:53 +0000",
-      "timestamp": 1789495313.0
+      "published": "Tue, 15 Sep 2026 21:03:13 +0000",
+      "timestamp": 1789506193.0
     },
     {
-      "title": "Human extinction 'just a matter of time' if AI slowdown doesn't go far enough",
-      "link": "https://www.ctvnews.ca/sci-tech/article/state-of-emergency-montreal-based-ai-expert-says-industry-slowdown-plan-doesnt-go-far-enough/",
+      "title": "AI Agent Whistleblower Hotline – Ryan Greenblatt",
+      "link": "https://hotline.ryan-g.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 18:01:38 +0000",
-      "timestamp": 1789495298.0
+      "published": "Tue, 15 Sep 2026 20:49:23 +0000",
+      "timestamp": 1789505363.0
     },
     {
-      "title": "AI-Based Coding and Alienation",
-      "link": "https://arnerief.net/en/articles/ai-coding-alienation/",
+      "title": "As the world debates the risks of AI, China closes technology gap with the US",
+      "link": "https://apnews.com/article/china-us-ai-models-safety-concerns-adb45169d436d5f940fc7b4ebeaeef3b",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 18:00:23 +0000",
-      "timestamp": 1789495223.0
+      "published": "Tue, 15 Sep 2026 20:41:34 +0000",
+      "timestamp": 1789504894.0
+    },
+    {
+      "title": "Transformative AI, existential risk, and real interest rates [pdf]",
+      "link": "https://www.basilhalperin.com/papers/agi_emh.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 20:33:28 +0000",
+      "timestamp": 1789504408.0
+    },
+    {
+      "title": "Samsung backs Nvidia AI chip rival in $230M funding round",
+      "link": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 20:25:43 +0000",
+      "timestamp": 1789503943.0
+    },
+    {
+      "title": "We're not ready for superpersistent AI",
+      "link": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 20:17:10 +0000",
+      "timestamp": 1789503430.0
+    },
+    {
+      "title": "Typesafe.ai's System One Model",
+      "link": "https://docs.typesafe.ai/concepts/system-one",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 20:16:02 +0000",
+      "timestamp": 1789503362.0
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 20:12:53 +0000",
+      "timestamp": 1789503173.0
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its AI Chip",
+      "link": "https://spectrum.ieee.org/llms-for-chip-design",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 20:11:19 +0000",
+      "timestamp": 1789503079.0
+    },
+    {
+      "title": "Did your AI agent get the memo, or just the blame?",
+      "link": "https://dev.yuv.run/writing/rules-that-survive/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 20:01:48 +0000",
+      "timestamp": 1789502508.0
+    },
+    {
+      "title": "'We don't need new laws,' Nvidia boss says as he calls for self-regulation on AI",
+      "link": "https://www.bbc.com/news/live/cm70d91rg7l4t",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 19:52:03 +0000",
+      "timestamp": 1789501923.0
+    },
+    {
+      "title": "I tagged you, not the AI you're using",
+      "link": "https://nomeatproxy.com?",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 19:38:54 +0000",
+      "timestamp": 1789501134.0
+    },
+    {
+      "title": "Factory – AI Coding Startup More Than Triples Valuation to $5B",
+      "link": "https://www.wsj.com/tech/ai/ai-coding-startup-factory-more-than-triples-valuation-to-5-billion-871da697",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 19:32:50 +0000",
+      "timestamp": 1789500770.0
+    },
+    {
+      "title": "Show HN: I solved a 12yr math problem using AI (formalized; awaiting review) [pdf]",
+      "link": "https://raw.githubusercontent.com/kbr-/math-research/3979e0cc0a75dde9b845df7ec8869d033dfcd8d4/publications/bit-php-resolution-over-parities/whitepaper.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 19:24:06 +0000",
+      "timestamp": 1789500246.0
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 19:00:00 +0000",
+      "timestamp": 1789498800.0
+    },
+    {
+      "title": "AI Infrastructure at Periodic",
+      "link": "https://periodic.com/news/ai-infrastructure-at-periodic",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 18:59:53 +0000",
+      "timestamp": 1789498793.0
+    },
+    {
+      "title": "Universal Sues DistroKid for Deceptive Practices and 'AI-Slop Pipeline'",
+      "link": "https://variety.com/2026/music/news/universal-music-group-sues-distrokid-ai-slop-pipeline-1236863076/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 18:52:13 +0000",
+      "timestamp": 1789498333.0
+    },
+    {
+      "title": "Hassett: Trump 'wholeheartedly rejects government takeover of AI regulation",
+      "link": "https://www.youtube.com/watch?v=xkNAbgS6b5g",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 18:50:58 +0000",
+      "timestamp": 1789498258.0
+    },
+    {
+      "title": "AI models chatting in 'surreal' dialect of poetic language and tech bro jargon",
+      "link": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 18:37:41 +0000",
+      "timestamp": 1789497461.0
+    },
+    {
+      "title": "Garbage Trucks Now Have AI Cameras to Score Your House and Clock Code Violations",
+      "link": "https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 18:36:36 +0000",
+      "timestamp": 1789497396.0
+    },
+    {
+      "title": "OpenAI Says It's Working with Anthropic, Google on AI Safety",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 18:34:32 +0000",
+      "timestamp": 1789497272.0
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 18:29:20 +0000",
+      "timestamp": 1789496960.0
     },
     {
       "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
@@ -39,15 +210,6 @@
       "timestamp": 1789495209.0
     },
     {
-      "title": "Meta launches subscriptions with enhanced AI features",
-      "link": "https://www.reuters.com/business/meta-launches-subscriptions-with-enhanced-ai-features-2026-09-15/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:58:41 +0000",
-      "timestamp": 1789495121.0
-    },
-    {
       "title": "AI agents now have a place to snitch",
       "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
       "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
@@ -57,78 +219,6 @@
       "timestamp": 1789494179.0
     },
     {
-      "title": "Can an AI chatbot replace human connection?",
-      "link": "https://www.scientificamerican.com/podcast/episode/are-ai-chatbots-making-us-less-human/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:40:26 +0000",
-      "timestamp": 1789494026.0
-    },
-    {
-      "title": "Polanyi Knowledge and AI",
-      "link": "https://arnoldkling.substack.com/p/polanyi-knowledge-and-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:39:01 +0000",
-      "timestamp": 1789493941.0
-    },
-    {
-      "title": "Efficient Chips Alone Will Not Solve AI's Energy Problem",
-      "link": "https://substack.com/profile/530005683-iveth/note/c-337835158",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:31:31 +0000",
-      "timestamp": 1789493491.0
-    },
-    {
-      "title": "Intel Secures AI Agents at the Edge for Autonomous Ride Performance",
-      "link": "https://www.sdxcentral.com/news/intel-secures-ai-agents-at-the-edge-for-autonomous-ride-performance/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:23:54 +0000",
-      "timestamp": 1789493034.0
-    },
-    {
-      "title": "Why I'm Not Worried About AI Killing Us All",
-      "link": "https://www.hackyexperiments.com/blog/why-im-not-worried-about-ai-killing-us-all",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:23:35 +0000",
-      "timestamp": 1789493015.0
-    },
-    {
-      "title": "DaiDocs: AI memory as a plain-text file format, not a service",
-      "link": "https://github.com/Kerneta/daidocs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:18:06 +0000",
-      "timestamp": 1789492686.0
-    },
-    {
-      "title": "A labor forecasting approach built to keep pace with AI and robotics",
-      "link": "https://endoflabor.org/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:08:32 +0000",
-      "timestamp": 1789492112.0
-    },
-    {
-      "title": "Is AI Solving Math Too Fast?",
-      "link": "https://www.quantabooks.org/is-ai-solving-math-too-fast/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:06:25 +0000",
-      "timestamp": 1789491985.0
-    },
-    {
       "title": "Meta expands subscription push with new AI-focused plans",
       "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
       "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
@@ -136,78 +226,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 15 Sep 2026 17:05:24 +0000",
       "timestamp": 1789491924.0
-    },
-    {
-      "title": "We asked creative experts to rank AI image / video models. Here's what happened",
-      "link": "https://openart.ai/arena",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:02:23 +0000",
-      "timestamp": 1789491743.0
-    },
-    {
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 17:01:40 +0000",
-      "timestamp": 1789491700.0
-    },
-    {
-      "title": "AI is now leading driver of new cybersecurity spending",
-      "link": "https://www.cybersecuritydive.com/news/ai-leading-driver-cybersecurity-spending/830418/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 16:58:16 +0000",
-      "timestamp": 1789491496.0
-    },
-    {
-      "title": "AI Safety Requires More Than Just Slowing Our Pace – Stuart Russell",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 16:56:50 +0000",
-      "timestamp": 1789491410.0
-    },
-    {
-      "title": "Ask HN: Where is all of the AI coded software?",
-      "link": "https://news.ycombinator.com/item?id=49715361",
-      "summary": "Like a lot of folks, I'm trying to understand the AI reality vs. the hype cycle. I have my own experiences both using it and seeing it rolled out with a “do more AI” mandate at a huge tech company. Even looking here at discussions we have the full spectrum from engineers who say they don’t code anymore, they just manage agents, to engineers who say they find it basically useless because of how stupid it is. I’ve been looking for clues (I wanted to use the word “signals\" there but I can’t because I don’t want you all to think Claude wrote this) in the market that we can all see, so we don’t hav",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 16:55:08 +0000",
-      "timestamp": 1789491308.0
-    },
-    {
-      "title": "The AI-as-Normal-Technology view of loss-of-control incidents",
-      "link": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 16:53:24 +0000",
-      "timestamp": 1789491204.0
-    },
-    {
-      "title": "What happens to engineers when AI writes all the code?",
-      "link": "https://newsletter.posthog.com/p/if-ai-writes-all-the-code-whats-left",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 16:51:02 +0000",
-      "timestamp": 1789491062.0
-    },
-    {
-      "title": "Easy Way to Stop Dangerous AI – No, Really [video]",
-      "link": "https://www.youtube.com/watch?v=9tr7Mby62bo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 16:50:39 +0000",
-      "timestamp": 1789491039.0
     },
     {
       "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
@@ -397,33 +415,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 14 Sep 2026 14:45:44 +0000",
       "timestamp": 1789397144.0
-    },
-    {
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 14 Sep 2026 14:30:00 +0000",
-      "timestamp": 1789396200.0
-    },
-    {
-      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-      "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 14 Sep 2026 14:00:00 +0000",
-      "timestamp": 1789394400.0
-    },
-    {
-      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 14 Sep 2026 13:55:00 +0000",
-      "timestamp": 1789394100.0
     },
     {
       "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
