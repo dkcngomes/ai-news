@@ -1,159 +1,195 @@
 {
-  "scraped_at": "2026-09-15T01:26:27.419442+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-15T07:42:23.433108+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "Tacit Knowledge and AI",
-      "link": "https://cacm.acm.org/opinion/tacit-knowledge-and-ai/",
+      "title": "Javier Gomez-Serrano – New Math, AI Developments in Fluid Mechanics [video]",
+      "link": "https://www.youtube.com/watch?v=TcEefrWrddA",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 00:59:49 +0000",
-      "timestamp": 1789433989.0
+      "published": "Tue, 15 Sep 2026 07:15:15 +0000",
+      "timestamp": 1789456515.0
     },
     {
-      "title": "NBC News Airs Interview with AI-Generated Actress",
-      "link": "https://www.mediaite.com/media/tv/how-bizarre-is-this-nbc-news-airs-interview-with-ai-generated-actress/",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 00:41:39 +0000",
-      "timestamp": 1789432899.0
+      "published": "Tue, 15 Sep 2026 07:14:46 +0000",
+      "timestamp": 1789456486.0
     },
     {
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "title": "A Blueprint for Keeping Humans in Control of AI",
+      "link": "https://www.gsb.stanford.edu/insights/blueprint-keeping-humans-control-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 00:40:14 +0000",
-      "timestamp": 1789432814.0
+      "published": "Tue, 15 Sep 2026 07:08:38 +0000",
+      "timestamp": 1789456118.0
     },
     {
-      "title": "Prosecutors say man used AI to 'scrape' court website, asked it for legal help",
-      "link": "https://www.abc.net.au/news/2026-09-10/christopher-duff-to-stand-trial-over-nsw-ai-court-data-breach/107135032",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 00:33:15 +0000",
-      "timestamp": 1789432395.0
+      "published": "Tue, 15 Sep 2026 07:02:39 +0000",
+      "timestamp": 1789455759.0
     },
     {
-      "title": "AI, Redistribution, and the Size of the Pie",
-      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html",
+      "title": "KnowBench: Evaluating clinical AI with effort reduction",
+      "link": "https://arxiv.org/abs/2609.15794",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 00:26:42 +0000",
-      "timestamp": 1789432002.0
+      "published": "Tue, 15 Sep 2026 06:52:44 +0000",
+      "timestamp": 1789455164.0
     },
     {
-      "title": "AI Agent Wallet Offboarding Checklist",
-      "link": "https://do2006.github.io/nightfall-crypto-access-exit-check/ai-agent-wallet-offboarding-checklist.html",
+      "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
+      "link": "https://qxotic.ai/",
+      "summary": "Hi HN, Some would call AI on the JVM quixotic. And so, Quixotic AI was born. jinfer is an inference engine for the JVM: chat, vision, audio, embeddings, reranking, and TTS. No Python runtime, no ONNX, no Docker containers, no sidecar process, no IPC. Finally, AI in a jar. The stack underneath is built for the JVM rather than bolted onto it: toknroll: pure-Java tokenizers, zero dependencies gguf / safetensors: read and write llama.cpp and HuggingFace model formats jam: quantized matmul kernels, competitive with llama.cpp on CPU jota: Tensor API targeting Java, C, CUDA, HIP, Metal, OpenCL, and M",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 06:42:32 +0000",
+      "timestamp": 1789454552.0
+    },
+    {
+      "title": "What the New AI Layoff Data Proves",
+      "link": "https://www.youtube.com/watch?v=k8pTfkA6sio",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 00:20:47 +0000",
-      "timestamp": 1789431647.0
+      "published": "Tue, 15 Sep 2026 06:22:18 +0000",
+      "timestamp": 1789453338.0
     },
     {
-      "title": "Sanders proposes 20-year prison sentences for superintelligence AI developers",
-      "link": "https://www.msn.com/en-us/news/other/bernie-sanders-proposes-20-year-prison-sentences-for-superintelligence-ai-developers/ar-AA2cbJ4g",
+      "title": "Dan Selsam (OpenAI Researcher) Personal Statement on AI Risk",
+      "link": "https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 00:20:36 +0000",
-      "timestamp": 1789431636.0
+      "published": "Tue, 15 Sep 2026 06:04:33 +0000",
+      "timestamp": 1789452273.0
     },
     {
-      "title": "Sloppy Joe's – The era of AI signage",
-      "link": "https://luke.zip/posts/sloppy-joes/",
+      "title": "Benchmark for AI Assistants",
+      "link": "https://assistantbenchmark.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 23:56:36 +0000",
-      "timestamp": 1789430196.0
+      "published": "Tue, 15 Sep 2026 05:50:55 +0000",
+      "timestamp": 1789451455.0
     },
     {
-      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-      "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+      "title": "The Productivity Illusion of Enterprise AI Coding",
+      "link": "https://cacm.acm.org/blogcacm/the-productivity-illusion-at-the-heart-of-enterprise-ai-coding/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 23:53:04 +0000",
-      "timestamp": 1789429984.0
+      "published": "Tue, 15 Sep 2026 05:17:24 +0000",
+      "timestamp": 1789449444.0
     },
     {
-      "title": "Personal Statement on AI Risk",
-      "link": "https://docs.google.com/document/u/1/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+      "title": "Show HN: White-label AI voice and chat agent platform for resellers",
+      "link": "https://www.famulor.io/whitelabel",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 23:52:36 +0000",
-      "timestamp": 1789429956.0
+      "published": "Tue, 15 Sep 2026 05:14:15 +0000",
+      "timestamp": 1789449255.0
     },
     {
-      "title": "Dan Selsam's Personal Statement on AI Risk",
-      "link": "https://twitter.com/DKokotajlo/status/2099600298855829616",
+      "title": "The real AI economy is being built by ordinary people",
+      "link": "https://restofworld.org/2026/global-workers-using-ai-at-work/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 23:52:05 +0000",
-      "timestamp": 1789429925.0
+      "published": "Tue, 15 Sep 2026 05:13:15 +0000",
+      "timestamp": 1789449195.0
     },
     {
-      "title": "Open-source Python framework for AI agents, workflows, and automations",
-      "link": "https://github.com/BindBrain/BindAI",
+      "title": "Investors nervous about AI spending slowdown after industry warnings",
+      "link": "https://www.reuters.com/legal/transactional/investors-nervous-about-ai-spending-slowdown-after-industry-warnings-2026-09-15/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 23:51:55 +0000",
-      "timestamp": 1789429915.0
+      "published": "Tue, 15 Sep 2026 05:09:41 +0000",
+      "timestamp": 1789448981.0
     },
     {
-      "title": "AI Can Be Used for Cognitive Warfare",
-      "link": "https://thecarrierwave.substack.com/p/how-ai-can-be-used-for-cognitive",
+      "title": "Mourning the Loss of AI Companions",
+      "link": "https://www.nature.com/articles/s41562-026-02569-3",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 23:41:19 +0000",
-      "timestamp": 1789429279.0
+      "published": "Tue, 15 Sep 2026 04:51:47 +0000",
+      "timestamp": 1789447907.0
     },
     {
-      "title": "We Are All Going to Die (Just Not Necessarily Because of AI)",
-      "link": "https://emot.substack.com/p/we-really-are-all-going-to-die-just",
+      "title": "AI vs. Human Value Drift",
+      "link": "https://www.overcomingbias.com/p/ai-vs-human-value-drift",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 23:40:01 +0000",
-      "timestamp": 1789429201.0
+      "published": "Tue, 15 Sep 2026 04:38:51 +0000",
+      "timestamp": 1789447131.0
     },
     {
-      "title": "Hands-On Learning in the Age of AI",
-      "link": "https://grahamdumpleton.me/posts/2026/09/hands-on-learning-in-the-age-of-ai/",
+      "title": "New AI Solves a Millennium Prize",
+      "link": "https://thezvi.substack.com/p/brand-new-ai-solves-a-millennium",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 23:38:12 +0000",
-      "timestamp": 1789429092.0
+      "published": "Tue, 15 Sep 2026 04:38:26 +0000",
+      "timestamp": 1789447106.0
     },
     {
-      "title": "Ask HN: The amount of AI bot traffic is out control?",
-      "link": "https://news.ycombinator.com/item?id=49705724",
-      "summary": "We host a web app which has around 50,000 statically generated public pages, and the amount of bot traffic is insane. Facebook’s crawler requested the same pages over 3 million times in 2 days, and we’ve used Vercel and Cloudflare to block as much as possible but it’s not working. The AI scrapers are routing requests through residential proxies, and even after putting our entire app behind an Auth gate with cloudflare turnstile they’re creating accounts to get access to data that’s meant for humans to read / use. I’ve never seen anything like it before, our hosting costs are up like crazy, and",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 23:36:01 +0000",
-      "timestamp": 1789428961.0
-    },
-    {
-      "title": "Show HN: An open-source control plane for your company's AI agents",
-      "link": "https://github.com/vstorm-co/agenticos",
+      "title": "Ask HN: How to Protect Your Brand Before AI Copies It?",
+      "link": "https://news.ycombinator.com/item?id=49707514",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 23:16:39 +0000",
-      "timestamp": 1789427799.0
+      "published": "Tue, 15 Sep 2026 03:55:43 +0000",
+      "timestamp": 1789444543.0
+    },
+    {
+      "title": "Europe must build own AI, says ECB's Lagarde",
+      "link": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 03:55:22 +0000",
+      "timestamp": 1789444522.0
+    },
+    {
+      "title": "China hit back at Anthropic CEO's call to curb China's AI development",
+      "link": "https://www.youtube.com/watch?v=BIM5G5kFYAg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 03:47:39 +0000",
+      "timestamp": 1789444059.0
+    },
+    {
+      "title": "Crof.ai Was Caught Misrepresenting Models, Shut Down",
+      "link": "https://reddit.com/r/SillyTavernAI/comments/1wgkagq/crofai_model_provider_just_shut_down_fraudulently/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 15 Sep 2026 03:42:18 +0000",
+      "timestamp": 1789443738.0
+    },
+    {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 15 Sep 2026 01:50:48 +0000",
+      "timestamp": 1789437048.0
     },
     {
       "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
@@ -163,24 +199,6 @@
       "source": "The Verge AI",
       "published": "2026-09-14T18:59:41-04:00",
       "timestamp": 1789426781.0
-    },
-    {
-      "title": "AWS Open-Sources Pizza Bot, an Inbox for Background AI Agents",
-      "link": "https://techstrong.ai/articles/aws-open-sources-pizza-bot-an-inbox-for-background-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 22:55:36 +0000",
-      "timestamp": 1789426536.0
-    },
-    {
-      "title": "AI Doomsday Panic Is Completely Out of Control",
-      "link": "https://karlbode.com/ai-doomsday-panic-is-completely-out-of-control/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 14 Sep 2026 22:54:48 +0000",
-      "timestamp": 1789426488.0
     },
     {
       "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
@@ -487,15 +505,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 11 Sep 2026 20:30:17 +0000",
       "timestamp": 1789158617.0
-    },
-    {
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 11 Sep 2026 19:35:54 +0000",
-      "timestamp": 1789155354.0
     },
     {
       "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
