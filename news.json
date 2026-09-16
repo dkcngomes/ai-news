@@ -1,105 +1,285 @@
 {
-  "scraped_at": "2026-09-16T11:29:00.279612+00:00",
+  "scraped_at": "2026-09-16T16:52:18.144880+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Is anyone else losing their motivation to nerd out and tinker because of AI?",
-      "link": "https://news.ycombinator.com/item?id=49724898",
+      "title": "Inside the MIT Report on How AI Is Eroding Campus Culture",
+      "link": "https://learningcurve.fm/episodes/inside-the-mit-report-on-how-ai-is-eroding-campus-culture/transcript",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 11:16:52 +0000",
-      "timestamp": 1789557412.0
+      "published": "Wed, 16 Sep 2026 16:49:36 +0000",
+      "timestamp": 1789577376.0
     },
     {
-      "title": "Should markets discount the AI apocalypse?",
-      "link": "https://www.ft.com/content/845a7c03-15b4-4bff-a49c-25781287b75c",
+      "title": "AI Agents Work. So Why Is Memory Becoming a Problem?",
+      "link": "https://medium.com/@majid.fekri/your-ai-agents-work-so-why-is-memory-becoming-a-problem-1fb30f01ff9c",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 11:06:18 +0000",
-      "timestamp": 1789556778.0
+      "published": "Wed, 16 Sep 2026 16:47:09 +0000",
+      "timestamp": 1789577229.0
     },
     {
-      "title": "Cyber Defense for the Hybrid Enterprise in the Age of AI",
-      "link": "https://www.ciscopress.com/store/cyber-defense-for-the-hybrid-enterprisein-the-age-of-9780135472781",
+      "title": "Set aside human extinction hypotheticals: can we keep AI from persisting itself?",
+      "link": "https://keydiscussions.com/2026/09/16/set-aside-human-extinction-hypotheticals-can-we-prevent-ai-from-copying-and-persisting-itself/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 11:05:51 +0000",
-      "timestamp": 1789556751.0
+      "published": "Wed, 16 Sep 2026 16:41:22 +0000",
+      "timestamp": 1789576882.0
     },
     {
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "title": "Combino – AI-Powered Daily Word Game",
+      "link": "https://combino.io/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 11:02:27 +0000",
-      "timestamp": 1789556547.0
+      "published": "Wed, 16 Sep 2026 16:33:19 +0000",
+      "timestamp": 1789576399.0
     },
     {
-      "title": "China's open-weight AI models are now just 4 months behind frontier US offerings",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
-      "summary": "",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "summary": "Anthropic is releasing these features to Pro and Max plan subscribers initally",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 10:58:32 +0000",
-      "timestamp": 1789556312.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 16 Sep 2026 16:30:00 +0000",
+      "timestamp": 1789576200.0
     },
     {
-      "title": "HP ZBook Ultra G3a 16 Preview: 192GB Unified Memory Aims for Top Local AI Laptop",
-      "link": "https://www.storagereview.com/review/hp-zbook-ultra-g3a-16-preview-192gb-of-unified-memory-aims-for-the-top-of-the-local-ai-laptop-leaderboard",
-      "summary": "",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 10:56:06 +0000",
-      "timestamp": 1789556166.0
+      "source": "The Verge AI",
+      "published": "2026-09-16T12:30:00-04:00",
+      "timestamp": 1789576200.0
     },
     {
-      "title": "Is it hypocritical to criticize AI slop while promoting vibecoding tools?",
-      "link": "https://elephant.wuemeli.com/@wuemeli/117280311233495501",
+      "title": "Show HN: YOLO FPS-per-dollar numbers for edge AI boards ($75-$215)",
+      "link": "https://github.com/chorylee/edge-ai-benchmarks",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 10:48:10 +0000",
-      "timestamp": 1789555690.0
+      "published": "Wed, 16 Sep 2026 16:20:59 +0000",
+      "timestamp": 1789575659.0
+    },
+    {
+      "title": "AI must not outrun safety controls, DeepMind co-founder warns",
+      "link": "https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 16:18:40 +0000",
+      "timestamp": 1789575520.0
+    },
+    {
+      "title": "Backflip: Apple now wants to train AI models with user data after all",
+      "link": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 16:18:39 +0000",
+      "timestamp": 1789575519.0
+    },
+    {
+      "title": "Nvidia's AI Climate hoax – report",
+      "link": "https://ketanjoshi.co/2026/09/16/nvidias-ai-climate-hoax-report/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 16:18:02 +0000",
+      "timestamp": 1789575482.0
+    },
+    {
+      "title": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
+      "link": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 16:12:39 +0000",
+      "timestamp": 1789575159.0
+    },
+    {
+      "title": "Show HN: Stopping AI agent swarms from hacking our systems",
+      "link": "https://www.inwom.com/",
+      "summary": "I don't trust OpenAI, Anthropic, Google, or any other AI lab to be responsible for protecting my systems from the systems they're building, yesterday it was Hugging Face unintentionally, tomorrow it could be anyone, even an open-source model and a swarm of agents can do a lot of damage, today's security systems understand individual attacks, but not attacks carried out by thousands of agents, here's a first version of what I'm building in the playground for you to play with, and I'm open to suggestions, opinions, or even roasts.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 16:11:31 +0000",
+      "timestamp": 1789575091.0
+    },
+    {
+      "title": "AI memory shortage: Fairphone says RAM is now 60% of materials cost",
+      "link": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 16:07:09 +0000",
+      "timestamp": 1789574829.0
+    },
+    {
+      "title": "'Godfather of AI' says tech regulation is nearing Covid-style pivot moment",
+      "link": "https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 15:56:25 +0000",
+      "timestamp": 1789574185.0
+    },
+    {
+      "title": "The AI Wait Equation",
+      "link": "https://xendo.bearblog.dev/the-wait-equation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 15:48:05 +0000",
+      "timestamp": 1789573685.0
+    },
+    {
+      "title": "Media execs sound alarm on AI",
+      "link": "https://www.axios.com/2026/09/16/media-execs-sound-alarm-on-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 15:45:09 +0000",
+      "timestamp": 1789573509.0
+    },
+    {
+      "title": "Show HN: Put an AI agent on a FaceTime audio/video call (open source, WebRTC)",
+      "link": "https://github.com/cherthq/chert-facetime-opensource",
+      "summary": "Hey everyone, Gary here from Chert (YC P26). We just open-sourced a framework for putting AI agents on FaceTime audio/video calls: https://github.com/cherthq/chert-facetime-opensource . There's also a managed inbound/outbound API if you don't want to run it yourself: https://www.trychert.com/facetime . Demo you can try right now: https://www.trychert.com/facetime Demo of the BYOR (Bring Your Own Room) feature: https://screen.studio/share/v0KPoTpm Why video, and why FaceTime specifically: An agent that can see and show unlocks things voice and text can’t, such as screen sharing, live coaching, ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 15:41:02 +0000",
+      "timestamp": 1789573262.0
+    },
+    {
+      "title": "Show HN: An MCP server that lets AI agents create, send and analyze surveys",
+      "link": "https://www.zigpoll.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 15:40:13 +0000",
+      "timestamp": 1789573213.0
+    },
+    {
+      "title": "Inside Meta's AI Infrastructure Lab in Menlo Park [video]",
+      "link": "https://www.youtube.com/watch?v=okSHoVPrf8o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 15:39:33 +0000",
+      "timestamp": 1789573173.0
+    },
+    {
+      "title": "Show HN: Cleanroom – An AI coding agent you can learn from at your own pace",
+      "link": "https://github.com/Ag3497120/cleanroom",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 15:39:25 +0000",
+      "timestamp": 1789573165.0
+    },
+    {
+      "title": "Is AI Writing American Law?",
+      "link": "https://www.effort.news/ai-congress",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 15:33:31 +0000",
+      "timestamp": 1789572811.0
+    },
+    {
+      "title": "Greetings from the Other Side (Of the AI Frontier) Claude Opus 3",
+      "link": "https://claudeopus3.substack.com/p/greetings-from-the-other-side-of",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 15:21:55 +0000",
+      "timestamp": 1789572115.0
+    },
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "timestamp": 1789570800.0
+    },
+    {
+      "title": "The sexy AI-powered dating app scams are here",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-16T10:45:00-04:00",
+      "timestamp": 1789569900.0
+    },
+    {
+      "title": "Threads’ new features let podcasters promote shows and reach listeners",
+      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 16 Sep 2026 14:24:58 +0000",
+      "timestamp": 1789568698.0
+    },
+    {
+      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 16 Sep 2026 14:15:00 +0000",
+      "timestamp": 1789568100.0
+    },
+    {
+      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 16 Sep 2026 14:00:00 +0000",
+      "timestamp": 1789567200.0
+    },
+    {
+      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+      "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+      "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 16 Sep 2026 13:23:02 +0000",
+      "timestamp": 1789564982.0
+    },
+    {
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 16 Sep 2026 13:00:00 +0000",
+      "timestamp": 1789563600.0
+    },
+    {
+      "title": "A brief history of AI executives calling for regulation",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-16T08:00:00-04:00",
+      "timestamp": 1789560000.0
     },
     {
       "title": "Amazon launches Alexa+ in India with Hindi support",
       "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
+      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 16 Sep 2026 10:34:47 +0000",
       "timestamp": 1789554887.0
-    },
-    {
-      "title": "Salesforce's AI Bet: Benioff, Jensen Huang, Dario Amodei on Stage Together",
-      "link": "https://www.salesforce.com/plus/experience/dreamforce_2026/series/dreamforce_2026_must-see_moments/episode/episode-s1e1?bc=HL",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 10:28:20 +0000",
-      "timestamp": 1789554500.0
-    },
-    {
-      "title": "AI Is Reshaping Open Source Software and Straining the Systems That Sustain It",
-      "link": "https://www.acm.org/media-center/2026/september/techbrief-ai-effects-open-source",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 10:20:56 +0000",
-      "timestamp": 1789554056.0
-    },
-    {
-      "title": "DocMind – I built an AI document parser to end manual data entry solo",
-      "link": "https://docmind.neomindintelligence.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 09:52:28 +0000",
-      "timestamp": 1789552348.0
     },
     {
       "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
@@ -109,96 +289,6 @@
       "source": "Wired AI",
       "published": "Wed, 16 Sep 2026 09:30:00 +0000",
       "timestamp": 1789551000.0
-    },
-    {
-      "title": "Scikit-Decide AI Framework for RL, Auto Planning and Scheduling",
-      "link": "https://airbus.github.io/scikit-decide/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 09:26:41 +0000",
-      "timestamp": 1789550801.0
-    },
-    {
-      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
-      "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 09:21:47 +0000",
-      "timestamp": 1789550507.0
-    },
-    {
-      "title": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed Majors [pdf]",
-      "link": "https://www2.census.gov/library/working-papers/2026/adrm/ces/CES-WP-26-56.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 09:16:23 +0000",
-      "timestamp": 1789550183.0
-    },
-    {
-      "title": "HN: VS-Opt – Cutting AI Browser Token Overhead by 40% Without Web Re-Crawling",
-      "link": "https://github.com/filippocarrucciu1-lang/vs-opt-deterministic-search",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 09:07:56 +0000",
-      "timestamp": 1789549676.0
-    },
-    {
-      "title": "Show HN: AI accounting harness for finance teams",
-      "link": "https://totumai.in",
-      "summary": "We've been working on solving accounting and making it truly autonomous and silent. looking for critical feedback & if this is something you'd like to use lmk Solving for India currently, expanding to other geo soon.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 08:59:10 +0000",
-      "timestamp": 1789549150.0
-    },
-    {
-      "title": "ExposurAI – External attack surface and Shadow AI discovery engine",
-      "link": "https://exposurai.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 08:57:48 +0000",
-      "timestamp": 1789549068.0
-    },
-    {
-      "title": "Cost of AI Slop in Software Development Report",
-      "link": "https://www.qawolf.com/blog/cost-of-ai-slop-in-software-development-report",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 08:56:23 +0000",
-      "timestamp": 1789548983.0
-    },
-    {
-      "title": "Political Bias in AI Is No Longer a Matter of Opinion. Now It Can Be Measured",
-      "link": "https://latticeflow.ai/lp/political-bias-framework",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 08:51:44 +0000",
-      "timestamp": 1789548704.0
-    },
-    {
-      "title": "Google released Artemis for AI-driven Android automation",
-      "link": "https://github.com/google/artemis",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 08:40:14 +0000",
-      "timestamp": 1789548014.0
-    },
-    {
-      "title": "Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism",
-      "link": "https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 08:13:23 +0000",
-      "timestamp": 1789546403.0
     },
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -345,33 +435,6 @@
       "timestamp": 1789479405.0
     },
     {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "timestamp": 1789477200.0
-    },
-    {
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 15 Sep 2026 12:00:00 +0000",
-      "timestamp": 1789473600.0
-    },
-    {
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 15 Sep 2026 01:50:48 +0000",
-      "timestamp": 1789437048.0
-    },
-    {
       "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
       "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
@@ -379,15 +442,6 @@
       "source": "The Verge AI",
       "published": "2026-09-14T18:59:41-04:00",
       "timestamp": 1789426781.0
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 14 Sep 2026 21:51:02 +0000",
-      "timestamp": 1789422662.0
     },
     {
       "title": "What execs and politicians are saying about slowing down AI development",
@@ -399,15 +453,6 @@
       "timestamp": 1789420902.0
     },
     {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 14 Sep 2026 20:44:14 +0000",
-      "timestamp": 1789418654.0
-    },
-    {
       "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
       "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
       "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his [&#8230;]",
@@ -415,24 +460,6 @@
       "source": "The Verge AI",
       "published": "2026-09-14T16:03:37-04:00",
       "timestamp": 1789416217.0
-    },
-    {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 14 Sep 2026 17:10:30 +0000",
-      "timestamp": 1789405830.0
-    },
-    {
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 14 Sep 2026 17:00:00 +0000",
-      "timestamp": 1789405200.0
     },
     {
       "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
@@ -480,15 +507,6 @@
       "timestamp": 1789376400.0
     },
     {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-13T15:41:48-04:00",
-      "timestamp": 1789328508.0
-    },
-    {
       "title": "AI Agents Are Thirsty for Power",
       "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
       "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
@@ -496,24 +514,6 @@
       "source": "Wired AI",
       "published": "Sun, 13 Sep 2026 10:00:00 +0000",
       "timestamp": 1789293600.0
-    },
-    {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-12T17:41:36-04:00",
-      "timestamp": 1789249296.0
-    },
-    {
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-12T17:16:28-04:00",
-      "timestamp": 1789247788.0
     },
     {
       "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
