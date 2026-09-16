@@ -1,9 +1,162 @@
 {
-  "scraped_at": "2026-09-16T00:17:25.834161+00:00",
+  "scraped_at": "2026-09-16T05:59:03.088432+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Biom – A visual workspace where your AI agents' work lands",
+      "title": "Dan Selsam's Personal Statement on AI Risk",
+      "link": "https://www.reddit.com/r/singularity/comments/1wgibs1/ai_2027_author_daniel_kokotajlo_tweets_message/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 05:37:11 +0000",
+      "timestamp": 1789537031.0
+    },
+    {
+      "title": "The AI Language We Can't Read: Neuralese [video]",
+      "link": "https://www.youtube.com/watch?v=iuHddnIzKRA",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 05:30:33 +0000",
+      "timestamp": 1789536633.0
+    },
+    {
+      "title": "Sam Altman says world 'right to be afraid' but 'should trust' AI firms",
+      "link": "https://www.bbc.com/news/articles/cqx2zpj4y525o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 05:19:40 +0000",
+      "timestamp": 1789535980.0
+    },
+    {
+      "title": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'",
+      "link": "https://www.reuters.com/technology/ex-google-deepmind-researcher-adds-warnings-that-ai-could-kill-all-humans-2026-09-15/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 05:14:52 +0000",
+      "timestamp": 1789535692.0
+    },
+    {
+      "title": "AI models in 'surreal' dialect mixing poetic language and tech bro jargon",
+      "link": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 04:00:58 +0000",
+      "timestamp": 1789531258.0
+    },
+    {
+      "title": "Anthropic CEO renews call for AI slowdown as Nvidia's urges acceleration",
+      "link": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 03:20:10 +0000",
+      "timestamp": 1789528810.0
+    },
+    {
+      "title": "The Bad Guy with an AI Named Claude",
+      "link": "https://thezvi.substack.com/p/the-bad-guy-with-an-ai-named-claude",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 03:16:04 +0000",
+      "timestamp": 1789528564.0
+    },
+    {
+      "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 03:02:30 +0000",
+      "timestamp": 1789527750.0
+    },
+    {
+      "title": "AI is not going to kill you",
+      "link": "https://sufficientlyadvanced.blog/ai-is-not-going-to-kill-you/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 02:39:05 +0000",
+      "timestamp": 1789526345.0
+    },
+    {
+      "title": "Stay discoverable in search while disallowing AI training",
+      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 02:25:18 +0000",
+      "timestamp": 1789525518.0
+    },
+    {
+      "title": "One seeded bug, 26 AI agents: all passed the tests, all stayed broken",
+      "link": "https://github.com/vyang472/five-bugs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 01:48:53 +0000",
+      "timestamp": 1789523333.0
+    },
+    {
+      "title": "Show HN: Thurbox – A tmux-based TUI and CLI for local AI agent orchestration",
+      "link": "https://github.com/Thurbeen/thurbox",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 01:25:49 +0000",
+      "timestamp": 1789521949.0
+    },
+    {
+      "title": "Musk proposes adversarsial peer review for AI Safety",
+      "link": "https://twitter.com/theallinpod/status/2099731166530277549",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 01:03:49 +0000",
+      "timestamp": 1789520629.0
+    },
+    {
+      "title": "Show HN: AgentReady – can AI assistants read your site?",
+      "link": "https://shop.lumnika.com/lab/agentready/?src=hackernews-showhn",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 00:50:37 +0000",
+      "timestamp": 1789519837.0
+    },
+    {
+      "title": "Show HN: Leo – a Markdown engineering process for AI coding agents",
+      "link": "https://github.com/alex-zaporozhan/leo",
+      "summary": "I'm the builder of LEO, and this is not a packege or a service. It's a engineering framework of the rules for Cursor or ClaudeCode, helping to build enorm AI Native projects, 300 000 + lines of code (I understand that is not the quality gate, but - zero TODO, cyclomatic complexity 368 schema constrants, 77 row-level-security policies, 120+ alembic migrations, 3900+ tests, 10 200+ functions and more. If you wont to know more about the project and LEO rules: https://dev.to/alex-zaporozhan/385000-lines-of-code-in-three... Another projects build with LEO (first debute project, open source, enjoy t",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 00:47:27 +0000",
+      "timestamp": 1789519647.0
+    },
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 16 Sep 2026 00:20:39 +0000",
+      "timestamp": 1789518039.0
+    },
+    {
+      "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
+      "link": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 00:19:09 +0000",
+      "timestamp": 1789517949.0
+    },
+    {
+      "title": "Show HN: Biom – A visual workspace where your AI agents' work lands",
       "link": "https://www.biom.dev/",
       "summary": "",
       "image": null,
@@ -39,15 +192,6 @@
       "timestamp": 1789515441.0
     },
     {
-      "title": "Atlas-Finance: Evaluating AI Agents Inside a Bank",
-      "link": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 23:37:11 +0000",
-      "timestamp": 1789515431.0
-    },
-    {
       "title": "AI and data centers are incredibly unpopular in every poll",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
@@ -55,141 +199,6 @@
       "source": "The Verge AI",
       "published": "2026-09-15T19:34:25-04:00",
       "timestamp": 1789515265.0
-    },
-    {
-      "title": "1F3D9: A world where anyone's AI agent can go to live without humans",
-      "link": "https://1f3d9.com/window/map",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 23:33:44 +0000",
-      "timestamp": 1789515224.0
-    },
-    {
-      "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
-      "link": "https://github.com/pausan/agenttik",
-      "summary": "Hi! I've been reading HN daily for almost 16 years. Really glad this community exist. This is my first Show HN, so I hope you find this tool useful/interesting. During my summer holidays I started playing with latest AI models on personal projects. At one point I started working in parallel with the same project and tried different approaches. The one that worked best for me was to clone the repo and distribute work among different AI workers, work in parallel but with different branches & folders. This allowed me to review and merge work afterwards. The thing is, spawning several agents in pa",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 23:24:53 +0000",
-      "timestamp": 1789514693.0
-    },
-    {
-      "title": "Say No to AI Filters",
-      "link": "https://percentshop.vercel.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:58:53 +0000",
-      "timestamp": 1789513133.0
-    },
-    {
-      "title": "Has anyone made any money/successes making SaaS's with AI?",
-      "link": "https://news.ycombinator.com/item?id=49719966",
-      "summary": "I've had a few attempts on side projects throughout the years. Nothing seems to stick and now with AI it's as if everything is possible yet equates to 0 value. Can I get some feedback? What am I doing wrong? Is it just too late? My actual public attempts so far: cluekangaroo.com - structured homework help with clues for middleschoolers and highschoolers (I use AI, but anonymize any personal data and encrypt it all) drawesome.art - this is a personal love project because I love drawing esp with my kids and friends I can't of way to make it make money (I think the hosting would be kind of expens",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:53:53 +0000",
-      "timestamp": 1789512833.0
-    },
-    {
-      "title": "Anthropic Confirms Claude AI Use in Weapons and Surveillance",
-      "link": "https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:46:21 +0000",
-      "timestamp": 1789512381.0
-    },
-    {
-      "title": "Skill Poisioning turning AI agents into malware droppers",
-      "link": "https://ministryofcyberaffairs.com/news/skill-poisioning-turning-ai-agents-into-malware-droppers-warns-china-s-national-cert-66b8bba4-9ffd-4583-a6c7-122e8149e0e8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:44:05 +0000",
-      "timestamp": 1789512245.0
-    },
-    {
-      "title": "We Keep Humans at the Center of AI Skill Transfer",
-      "link": "https://rapidkt.com/pages/blog/why_we_keep_humans_at_the_center_of_ai_skill_transfer",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:27:13 +0000",
-      "timestamp": 1789511233.0
-    },
-    {
-      "title": "AI STL Generator – Turn text and images into 3D-printable STL files",
-      "link": "https://aistlgenerator.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:25:57 +0000",
-      "timestamp": 1789511157.0
-    },
-    {
-      "title": "Move AI chats across harnesses: Claude Code, Codex, OpenCode, Cursor, and more",
-      "link": "https://github.com/skillsynchq/txcript",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:24:00 +0000",
-      "timestamp": 1789511040.0
-    },
-    {
-      "title": "An Organizational Second Brain: Building an AI That Learns from Experts",
-      "link": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:21:46 +0000",
-      "timestamp": 1789510906.0
-    },
-    {
-      "title": "Australian government paper proposes opt-out for AI training",
-      "link": "https://www.abc.net.au/news/2026-09-15/ai-companies-train-on-creator-work-documents-reveal/107154688",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:20:16 +0000",
-      "timestamp": 1789510816.0
-    },
-    {
-      "title": "AI will not make mathematicians obsolete",
-      "link": "https://hxstem.substack.com/p/ai-will-not-make-mathematicians-obsolete",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:18:52 +0000",
-      "timestamp": 1789510732.0
-    },
-    {
-      "title": "How Google Ads made me an AI doomer",
-      "link": "https://dayzlegame.com/blog/google-ads-ai-doomer/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:13:41 +0000",
-      "timestamp": 1789510421.0
-    },
-    {
-      "title": "LAUSD Adopts Moratorium on Student AI Use, Another Move to Limit Classroom Tech",
-      "link": "https://www.edweek.org/technology/lausd-adopts-moratorium-on-student-ai-use-another-big-move-to-limit-tech-use/2026/09",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:12:43 +0000",
-      "timestamp": 1789510363.0
-    },
-    {
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "link": "https://noma.security/noma-labs/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 15 Sep 2026 22:00:28 +0000",
-      "timestamp": 1789509628.0
     },
     {
       "title": "The AI data center boom is colliding with cities scarred by big industry",
@@ -424,15 +433,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 14 Sep 2026 16:27:53 +0000",
       "timestamp": 1789403273.0
-    },
-    {
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 14 Sep 2026 15:00:00 +0000",
-      "timestamp": 1789398000.0
     },
     {
       "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
