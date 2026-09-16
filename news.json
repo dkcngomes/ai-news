@@ -1,47 +1,236 @@
 {
-  "scraped_at": "2026-09-16T16:52:18.144880+00:00",
+  "scraped_at": "2026-09-16T20:06:17.766450+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Inside the MIT Report on How AI Is Eroding Campus Culture",
-      "link": "https://learningcurve.fm/episodes/inside-the-mit-report-on-how-ai-is-eroding-campus-culture/transcript",
+      "title": "Reid Hoffman – AI for All Americans",
+      "link": "https://reidhoffman.substack.com/p/ai-dual-mandate",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:49:36 +0000",
-      "timestamp": 1789577376.0
+      "published": "Wed, 16 Sep 2026 19:46:33 +0000",
+      "timestamp": 1789587993.0
     },
     {
-      "title": "AI Agents Work. So Why Is Memory Becoming a Problem?",
-      "link": "https://medium.com/@majid.fekri/your-ai-agents-work-so-why-is-memory-becoming-a-problem-1fb30f01ff9c",
+      "title": "One of China's Most Powerful AI Models Has Also Escaped Containment",
+      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:47:09 +0000",
-      "timestamp": 1789577229.0
+      "published": "Wed, 16 Sep 2026 19:44:21 +0000",
+      "timestamp": 1789587861.0
     },
     {
-      "title": "Set aside human extinction hypotheticals: can we keep AI from persisting itself?",
-      "link": "https://keydiscussions.com/2026/09/16/set-aside-human-extinction-hypotheticals-can-we-prevent-ai-from-copying-and-persisting-itself/",
+      "title": "Panel Discussion: AI in Mathematical Research – Heidelberg Laureate Forum [video]",
+      "link": "https://www.youtube.com/watch?v=H7_d_sgui6o",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:41:22 +0000",
-      "timestamp": 1789576882.0
+      "published": "Wed, 16 Sep 2026 19:33:55 +0000",
+      "timestamp": 1789587235.0
     },
     {
-      "title": "Combino – AI-Powered Daily Word Game",
-      "link": "https://combino.io/",
+      "title": "Why AI's Biggest Rivals Are Suddenly Calling for Restraint",
+      "link": "https://www.cfr.org/articles/why-ais-biggest-rivals-are-suddenly-calling-for-restraint",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:33:19 +0000",
-      "timestamp": 1789576399.0
+      "published": "Wed, 16 Sep 2026 19:24:56 +0000",
+      "timestamp": 1789586696.0
+    },
+    {
+      "title": "AI Doomsaying Is an Aggressive Sales Pitch",
+      "link": "https://jacobin.com/2026/09/openai-anthropic-human-extinction-criti-hype",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 19:24:24 +0000",
+      "timestamp": 1789586664.0
+    },
+    {
+      "title": "Cortex: An open-source L1 memory and state layer for autonomous AI agents",
+      "link": "https://github.com/cortex-protocol/cortex-protocol",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 19:20:01 +0000",
+      "timestamp": 1789586401.0
+    },
+    {
+      "title": "Forget the AI Apocalypse – The Real Threats Are Already Here",
+      "link": "https://www.wsj.com/tech/ai/ai-apocalypse-dangers-already-here-f3cd57de",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 19:06:20 +0000",
+      "timestamp": 1789585580.0
+    },
+    {
+      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+      "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 16 Sep 2026 19:00:00 +0000",
+      "timestamp": 1789585200.0
+    },
+    {
+      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 18:59:42 +0000",
+      "timestamp": 1789585182.0
+    },
+    {
+      "title": "Empty rounds: our AI agents weren't unmotivated, they lacked a tool",
+      "link": "https://github.com/MerariJafet/agora/releases/tag/v0.3.0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 18:56:20 +0000",
+      "timestamp": 1789584980.0
+    },
+    {
+      "title": "Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
+      "link": "https://github.com/itskie/friday",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 18:55:09 +0000",
+      "timestamp": 1789584909.0
+    },
+    {
+      "title": "Smartdesign – Helps avoid AI design in vibe-coded software",
+      "link": "https://foragents.pages.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 18:51:45 +0000",
+      "timestamp": 1789584705.0
+    },
+    {
+      "title": "Poll shows Americans are increasingly alarmed by AI's ecological footprint",
+      "link": "https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 18:51:18 +0000",
+      "timestamp": 1789584678.0
+    },
+    {
+      "title": "Why a fast-growing German AI startup is moving its parent company from the US",
+      "link": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 18:45:20 +0000",
+      "timestamp": 1789584320.0
+    },
+    {
+      "title": "MSI Titan 18 HX Dragon Edition Norse Myth AI: Can It Run AI Workloads Locally?",
+      "link": "https://techstackups.com/articles/msi-titan-18-hx-dragon-edition-norse-myth-ai-review/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 18:34:26 +0000",
+      "timestamp": 1789583666.0
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 16 Sep 2026 18:25:25 +0000",
+      "timestamp": 1789583125.0
+    },
+    {
+      "title": "Show HN: TabMail. Open-source AI email for Thunderbird and iPhone",
+      "link": "https://tabmail.ai/",
+      "summary": "Hi all, I'm the sole developer of TabMail. I wanted my email client to have AI features, and ended up making a Thunderbird add-on and an iPhone app. I've now open-sourced both under MPL 2.0, and I wanted to share them here to get some community feedback, if possible. I made a short video of both, since it's easier to show what they do than explain everything in a post. Hopefully you like it: https://tabmail.ai/demos/tabmail-promo.mp4 You can review a prepared reply, tell it what to change, or ask questions about your inbox and calendar. On TB, I wanted to do most of this with the keyboard. On ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 17:59:03 +0000",
+      "timestamp": 1789581543.0
+    },
+    {
+      "title": "AI Safety Needs a State",
+      "link": "https://atomstointelligence.substack.com/p/ai-safety-needs-a-state",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 17:57:37 +0000",
+      "timestamp": 1789581457.0
+    },
+    {
+      "title": "Maintainer rejected AI contributions, we forked it and added video acceleration",
+      "link": "https://twitter.com/SiliconForested/status/2100247223368024109",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 17:49:45 +0000",
+      "timestamp": 1789580985.0
+    },
+    {
+      "title": "Advertising is coming to AI chatbots and it could influence the answers you get",
+      "link": "https://theconversation.com/advertising-is-coming-to-ai-chatbots-and-it-could-influence-the-answers-you-get-291235",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 17:47:38 +0000",
+      "timestamp": 1789580858.0
+    },
+    {
+      "title": "Lawsuit accuses AI security company of publishing hallucinated findings",
+      "link": "https://www.theregister.com/legal/2026/07/02/startup-sues-palo-alto-networks-koi-security-saying-an-ai-hallucinated-report-falsely-linked-it-to-chinese-espionage/5266201",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 17:46:45 +0000",
+      "timestamp": 1789580805.0
+    },
+    {
+      "title": "Anthropic to fold Claude AI features into one interface, launches document tools",
+      "link": "https://www.reuters.com/business/media-telecom/anthropic-fold-claude-ai-features-into-one-interface-launches-document-tools-2026-09-16/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 17:38:19 +0000",
+      "timestamp": 1789580299.0
+    },
+    {
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-16T13:20:29-04:00",
+      "timestamp": 1789579229.0
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 16 Sep 2026 17:00:00 +0000",
+      "timestamp": 1789578000.0
+    },
+    {
+      "title": "Google will now let any AI agent run your smart home",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-16T13:00:00-04:00",
+      "timestamp": 1789578000.0
     },
     {
       "title": "Anthropic merges Claude chat and Cowork in one interface",
       "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "summary": "Anthropic is releasing these features to Pro and Max plan subscribers initally",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 16 Sep 2026 16:30:00 +0000",
@@ -55,150 +244,6 @@
       "source": "The Verge AI",
       "published": "2026-09-16T12:30:00-04:00",
       "timestamp": 1789576200.0
-    },
-    {
-      "title": "Show HN: YOLO FPS-per-dollar numbers for edge AI boards ($75-$215)",
-      "link": "https://github.com/chorylee/edge-ai-benchmarks",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:20:59 +0000",
-      "timestamp": 1789575659.0
-    },
-    {
-      "title": "AI must not outrun safety controls, DeepMind co-founder warns",
-      "link": "https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:18:40 +0000",
-      "timestamp": 1789575520.0
-    },
-    {
-      "title": "Backflip: Apple now wants to train AI models with user data after all",
-      "link": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:18:39 +0000",
-      "timestamp": 1789575519.0
-    },
-    {
-      "title": "Nvidia's AI Climate hoax – report",
-      "link": "https://ketanjoshi.co/2026/09/16/nvidias-ai-climate-hoax-report/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:18:02 +0000",
-      "timestamp": 1789575482.0
-    },
-    {
-      "title": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
-      "link": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:12:39 +0000",
-      "timestamp": 1789575159.0
-    },
-    {
-      "title": "Show HN: Stopping AI agent swarms from hacking our systems",
-      "link": "https://www.inwom.com/",
-      "summary": "I don't trust OpenAI, Anthropic, Google, or any other AI lab to be responsible for protecting my systems from the systems they're building, yesterday it was Hugging Face unintentionally, tomorrow it could be anyone, even an open-source model and a swarm of agents can do a lot of damage, today's security systems understand individual attacks, but not attacks carried out by thousands of agents, here's a first version of what I'm building in the playground for you to play with, and I'm open to suggestions, opinions, or even roasts.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:11:31 +0000",
-      "timestamp": 1789575091.0
-    },
-    {
-      "title": "AI memory shortage: Fairphone says RAM is now 60% of materials cost",
-      "link": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 16:07:09 +0000",
-      "timestamp": 1789574829.0
-    },
-    {
-      "title": "'Godfather of AI' says tech regulation is nearing Covid-style pivot moment",
-      "link": "https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 15:56:25 +0000",
-      "timestamp": 1789574185.0
-    },
-    {
-      "title": "The AI Wait Equation",
-      "link": "https://xendo.bearblog.dev/the-wait-equation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 15:48:05 +0000",
-      "timestamp": 1789573685.0
-    },
-    {
-      "title": "Media execs sound alarm on AI",
-      "link": "https://www.axios.com/2026/09/16/media-execs-sound-alarm-on-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 15:45:09 +0000",
-      "timestamp": 1789573509.0
-    },
-    {
-      "title": "Show HN: Put an AI agent on a FaceTime audio/video call (open source, WebRTC)",
-      "link": "https://github.com/cherthq/chert-facetime-opensource",
-      "summary": "Hey everyone, Gary here from Chert (YC P26). We just open-sourced a framework for putting AI agents on FaceTime audio/video calls: https://github.com/cherthq/chert-facetime-opensource . There's also a managed inbound/outbound API if you don't want to run it yourself: https://www.trychert.com/facetime . Demo you can try right now: https://www.trychert.com/facetime Demo of the BYOR (Bring Your Own Room) feature: https://screen.studio/share/v0KPoTpm Why video, and why FaceTime specifically: An agent that can see and show unlocks things voice and text can’t, such as screen sharing, live coaching, ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 15:41:02 +0000",
-      "timestamp": 1789573262.0
-    },
-    {
-      "title": "Show HN: An MCP server that lets AI agents create, send and analyze surveys",
-      "link": "https://www.zigpoll.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 15:40:13 +0000",
-      "timestamp": 1789573213.0
-    },
-    {
-      "title": "Inside Meta's AI Infrastructure Lab in Menlo Park [video]",
-      "link": "https://www.youtube.com/watch?v=okSHoVPrf8o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 15:39:33 +0000",
-      "timestamp": 1789573173.0
-    },
-    {
-      "title": "Show HN: Cleanroom – An AI coding agent you can learn from at your own pace",
-      "link": "https://github.com/Ag3497120/cleanroom",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 15:39:25 +0000",
-      "timestamp": 1789573165.0
-    },
-    {
-      "title": "Is AI Writing American Law?",
-      "link": "https://www.effort.news/ai-congress",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 15:33:31 +0000",
-      "timestamp": 1789572811.0
-    },
-    {
-      "title": "Greetings from the Other Side (Of the AI Frontier) Claude Opus 3",
-      "link": "https://claudeopus3.substack.com/p/greetings-from-the-other-side-of",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 15:21:55 +0000",
-      "timestamp": 1789572115.0
     },
     {
       "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
@@ -408,24 +453,6 @@
       "timestamp": 1789483357.0
     },
     {
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 15 Sep 2026 14:30:00 +0000",
-      "timestamp": 1789482600.0
-    },
-    {
-      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 15 Sep 2026 14:00:00 +0000",
-      "timestamp": 1789480800.0
-    },
-    {
       "title": "This doorbell camera lets a human security guard watch your front door",
       "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
       "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. [&#8230;]",
@@ -453,15 +480,6 @@
       "timestamp": 1789420902.0
     },
     {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-14T16:03:37-04:00",
-      "timestamp": 1789416217.0
-    },
-    {
       "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
       "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
       "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
@@ -469,15 +487,6 @@
       "source": "Wired AI",
       "published": "Mon, 14 Sep 2026 16:50:00 +0000",
       "timestamp": 1789404600.0
-    },
-    {
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-14T09:00:00-04:00",
-      "timestamp": 1789390800.0
     },
     {
       "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Fri, 11 Sep 2026 18:59:25 +0000",
       "timestamp": 1789153165.0
-    },
-    {
-      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-      "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 11 Sep 2026 15:00:00 +0000",
-      "timestamp": 1789138800.0
     }
   ]
 }
