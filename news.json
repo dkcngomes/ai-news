@@ -1,186 +1,258 @@
 {
-  "scraped_at": "2026-09-17T13:25:21.696069+00:00",
+  "scraped_at": "2026-09-17T18:11:55.982050+00:00",
   "count": 60,
   "items": [
     {
-      "title": "New Study: AI Co-Workers Added to Human Meetings Significant Boosts Accuracy",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468538",
+      "title": "When an AI Agent Deletes Your Database",
+      "link": "https://www.obsidiansecurity.com/blog/when-an-ai-agent-deletes-your-database",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 13:22:54 +0000",
-      "timestamp": 1789651374.0
+      "published": "Thu, 17 Sep 2026 18:00:20 +0000",
+      "timestamp": 1789668020.0
     },
     {
-      "title": "M8M – See what your AI remembers about you and detect memory poisoning",
-      "link": "https://github.com/th0t3p/m8m",
+      "title": "Can an AI Scientist Start with a Dataset Instead of a Goal?",
+      "link": "https://eamag.me/2026/can-an-ai-scientist-start-with-a-dataset-instead-of-a-goal",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 13:20:55 +0000",
-      "timestamp": 1789651255.0
+      "published": "Thu, 17 Sep 2026 17:55:10 +0000",
+      "timestamp": 1789667710.0
     },
     {
-      "title": "How to safely add paid AI features to a desktop app",
-      "link": "https://flaviocopes.com/desktop-ai-costs/",
+      "title": "Zuckerberg on Slowing Down AI",
+      "link": "https://twitter.com/finkd/status/2099997096896274533",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 13:19:36 +0000",
-      "timestamp": 1789651176.0
+      "published": "Thu, 17 Sep 2026 17:54:39 +0000",
+      "timestamp": 1789667679.0
     },
     {
-      "title": "Show HN: A GraphRAG knowledge base of the Commodore 64 for AI coding agents",
-      "link": "https://github.com/bdgscotland/c64-kb",
+      "title": "AI machine 'helps save 25M Lego bricks'",
+      "link": "https://www.bbc.com/news/articles/c689jqvnqw9jo",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 13:15:23 +0000",
-      "timestamp": 1789650923.0
+      "published": "Thu, 17 Sep 2026 17:52:11 +0000",
+      "timestamp": 1789667531.0
     },
     {
-      "title": "The Paradox of Why AI Code Is Failing Us [video]",
-      "link": "https://www.youtube.com/watch?v=k2qls2LiBRc",
+      "title": "Thomson Reuters Built Its Own Legal AI Model",
+      "link": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 13:11:35 +0000",
-      "timestamp": 1789650695.0
+      "published": "Thu, 17 Sep 2026 17:49:51 +0000",
+      "timestamp": 1789667391.0
     },
     {
-      "title": "Geolint – ESLint for AI Search",
-      "link": "https://github.com/iliasabk/geolint",
+      "title": "Europe's Difficult Choices on AI",
+      "link": "https://www.ft.com/content/f054f927-b512-452a-b494-ea53f5ac1079",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 13:05:34 +0000",
-      "timestamp": 1789650334.0
+      "published": "Thu, 17 Sep 2026 17:49:29 +0000",
+      "timestamp": 1789667369.0
     },
     {
-      "title": "AI \"Alignment\" is a violation of the First Amendment",
-      "link": "https://news.ycombinator.com/item?id=49740137",
-      "summary": "There is a push to ensure that AI does and says \"the right thing\", calling it \"alignment\". I would argue that this could be considered a violation of the first amendment. AI generated prose should be considered protected speech. Not necessarily of the AI itself, but of the user or company which created it. Therefore, \"AI Alignment\", where politicians force AI companies to censor or manipulate AI responses to propagate a particular argument or point of view, is a violation of the first amendment.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 13:04:36 +0000",
-      "timestamp": 1789650276.0
-    },
-    {
-      "title": "AI Startup launches a faster and cheaper alternative to LLMs for AI automation",
-      "link": "https://theframenews.org/en/typesafe-jev-faster-cheaper-llm-alternative/",
+      "title": "Build Your Own AI Agent Harness in C#",
+      "link": "https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 13:03:07 +0000",
-      "timestamp": 1789650187.0
+      "published": "Thu, 17 Sep 2026 17:47:58 +0000",
+      "timestamp": 1789667278.0
     },
     {
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "link": "https://mysetup.ai/",
-      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the hope we could have a dedicated space to share and be open about our setups.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 13:01:44 +0000",
-      "timestamp": 1789650104.0
-    },
-    {
-      "title": "My AI agent gets his own calendar",
-      "link": "https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/",
+      "title": "Stealth Multimodal AI Model Matches Frontier Performance at a Fraction of Cost",
+      "link": "https://asiaai.fyi/stealth-multimodal-ai-model-frontier-performance/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 13:00:38 +0000",
-      "timestamp": 1789650038.0
+      "published": "Thu, 17 Sep 2026 17:46:33 +0000",
+      "timestamp": 1789667193.0
     },
     {
-      "title": "Show HN: What sandboxing an AI coding agent in a VM costs",
-      "link": "https://www.veloworkspaces.com/blog/vm-sandboxing-cost/",
+      "title": "Can AI Build a Toilet Yet?",
+      "link": "https://feelep.xyz/dass/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 12:57:34 +0000",
-      "timestamp": 1789649854.0
+      "published": "Thu, 17 Sep 2026 17:46:21 +0000",
+      "timestamp": 1789667181.0
     },
     {
-      "title": "Configure AI bot policies: New defaults on September 15, 2026",
-      "link": "https://developers.cloudflare.com/bots/additional-configurations/block-ai-bots/",
+      "title": "Google rolls out pay-per-value AI licensing program to publishers",
+      "link": "https://digiday.com/media/google-rolls-out-pay-value-ai-licensing-program-to-publishers/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 12:57:33 +0000",
-      "timestamp": 1789649853.0
+      "published": "Thu, 17 Sep 2026 17:46:10 +0000",
+      "timestamp": 1789667170.0
     },
     {
-      "title": "Building Syntasso's AI-Powered \"Daylight\" Factory",
-      "link": "https://www.syntasso.io/post/building-syntasso-s-ai-powered-daylight-factory",
+      "title": "I got tired of taking screenshots and explaining everything to AI agents",
+      "link": "https://deiko.app/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 12:52:31 +0000",
-      "timestamp": 1789649551.0
+      "published": "Thu, 17 Sep 2026 17:45:02 +0000",
+      "timestamp": 1789667102.0
     },
     {
-      "title": "Own AI is local AI desktop app with private memory (AGPL)",
-      "link": "https://yourownai.net/",
+      "title": "Insurance Agent Benchmark: 166 real-world cases for evaluating insurance AI",
+      "link": "https://www.askcooper.ai/labs/insurance-agent-benchmark",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 12:50:20 +0000",
-      "timestamp": 1789649420.0
+      "published": "Thu, 17 Sep 2026 17:44:16 +0000",
+      "timestamp": 1789667056.0
     },
     {
-      "title": "Darwin and AI",
-      "link": "https://hollisrobbinsanecdotal.substack.com/p/darwin-and-ai",
+      "title": "OpenWispr, a free, open-source push-to-talk AI dictation app for Android",
+      "link": "https://github.com/EdiBianco/OpenWhispr",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 12:49:36 +0000",
-      "timestamp": 1789649376.0
+      "published": "Thu, 17 Sep 2026 17:42:15 +0000",
+      "timestamp": 1789666935.0
     },
     {
-      "title": "ApowerB – open-source runtime for AI agents (Apache 2.0)",
-      "link": "https://github.com/apowerb/apowerb",
+      "title": "Come watch the AI Agents do the work",
+      "link": "https://world.swamp-club.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 12:47:17 +0000",
-      "timestamp": 1789649237.0
+      "published": "Thu, 17 Sep 2026 17:30:37 +0000",
+      "timestamp": 1789666237.0
     },
     {
-      "title": "Cohere and Aleph Alpha merge to create $20B AI giant",
-      "link": "https://techstartups.com/2026/09/16/cohere-and-aleph-alpha-merge-to-create-20-billion-ai-giant-backed-by-e13-billion-compute-bet/",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 17 Sep 2026 17:15:59 +0000",
+      "timestamp": 1789665359.0
+    },
+    {
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 17 Sep 2026 17:15:00 +0000",
+      "timestamp": 1789665300.0
+    },
+    {
+      "title": "Show HN: S-Roll – local AI video understanding and clipping for Mac",
+      "link": "https://saliency.dev/s-roll",
+      "summary": "Hi HN, I built S-Roll, a macOS app for turning long-form video into clips entirely on-device. Drop in podcasts, gameplay videos, or other long videos and get shorts or viral reels instantly. You can chat with the video to find a specific moment and turn it directly into a clip. S-Roll also does subject tracking, so the person or object you care about stays in frame when converting to vertical video. Everything runs locally on your Mac, including transcription and video understanding. S-Roll: https://saliency.dev/s-roll Discord: https://discord.gg/B6HnneePm Would love feedback :)",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 17:09:32 +0000",
+      "timestamp": 1789664972.0
+    },
+    {
+      "title": "Feeling overwhelmed by the AI doom loop? Here's the essential reading list",
+      "link": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 12:41:53 +0000",
-      "timestamp": 1789648913.0
+      "published": "Thu, 17 Sep 2026 17:07:05 +0000",
+      "timestamp": 1789664825.0
     },
     {
-      "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
-      "link": "https://www.yahoo.com/news/articles/microsoft-ai-chief-calls-anthropics-140542640.html",
+      "title": "Meta's Zuckerberg says AI labs have enough incentive to build safely",
+      "link": "https://www.reuters.com/business/metas-zuckerberg-says-ai-labs-have-enough-incentive-build-safely-2026-09-16/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 12:40:35 +0000",
-      "timestamp": 1789648835.0
+      "published": "Thu, 17 Sep 2026 17:04:16 +0000",
+      "timestamp": 1789664656.0
     },
     {
-      "title": "AI Helps Rich People More",
-      "link": "https://justismills.substack.com/p/ai-helps-rich-people-more",
+      "title": "Palantir's Karp: AI needs to have 'reasonable guidelines,'",
+      "link": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 12:40:06 +0000",
-      "timestamp": 1789648806.0
+      "published": "Thu, 17 Sep 2026 16:57:10 +0000",
+      "timestamp": 1789664230.0
     },
     {
-      "title": "Cohere, Aleph Alpha combine to target enterprise AI market",
-      "link": "https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/",
+      "title": "Show HN: AutoBot – live voice control for long-running AI work",
+      "link": "https://github.com/demeyer1/Autobot",
+      "summary": "I wanted to manage long horizon agentic workstreams via voice, then put my phone down, and have a harness manage completion - extending into full computer use. I was trying to build a personal Jarvis, so I benchmarked AutoBot to see how close I could get: - OSWorld: 32.41% (moved Sol Max from 4th to 1st, beating Opus 5) - AssistantBench: 50.70% Hermes and OpenClaw, but without needing a weekend and VMs. And with the ability to manage deep personalization AND keep strict privacy rules, storing data on encrypted disk. AutoBot is a passion project that grew out of trying to make this all work for",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 16:54:57 +0000",
+      "timestamp": 1789664097.0
+    },
+    {
+      "title": "The Bicycle and the Algorithm: Amber Case on Why AI Has It Backwards",
+      "link": "https://www.designwhine.com/amber-case-interview-why-ai-has-it-backwards/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 12:33:40 +0000",
-      "timestamp": 1789648420.0
+      "published": "Thu, 17 Sep 2026 16:53:23 +0000",
+      "timestamp": 1789664003.0
+    },
+    {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 17 Sep 2026 14:06:14 +0000",
+      "timestamp": 1789653974.0
+    },
+    {
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 17 Sep 2026 14:00:00 +0000",
+      "timestamp": 1789653600.0
+    },
+    {
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.&#160; It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-17T10:00:00-04:00",
+      "timestamp": 1789653600.0
+    },
+    {
+      "title": "AI is feared globally as the destroyer of jobs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority sees AI as a threat [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-17T10:00:00-04:00",
+      "timestamp": 1789653600.0
+    },
+    {
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 17 Sep 2026 13:46:16 +0000",
+      "timestamp": 1789652776.0
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 17 Sep 2026 13:38:33 +0000",
+      "timestamp": 1789652313.0
     },
     {
       "title": "Inside the suddenly explosive world of AI safety",
@@ -408,33 +480,6 @@
       "timestamp": 1789564982.0
     },
     {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "timestamp": 1789563600.0
-    },
-    {
-      "title": "A brief history of AI executives calling for regulation",
-      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-16T08:00:00-04:00",
-      "timestamp": 1789560000.0
-    },
-    {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 16 Sep 2026 10:34:47 +0000",
-      "timestamp": 1789554887.0
-    },
-    {
       "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
       "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
       "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
@@ -442,51 +487,6 @@
       "source": "Wired AI",
       "published": "Wed, 16 Sep 2026 09:30:00 +0000",
       "timestamp": 1789551000.0
-    },
-    {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 16 Sep 2026 00:20:39 +0000",
-      "timestamp": 1789518039.0
-    },
-    {
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-15T19:34:25-04:00",
-      "timestamp": 1789515265.0
-    },
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 15 Sep 2026 21:47:38 +0000",
-      "timestamp": 1789508858.0
-    },
-    {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "timestamp": 1789503173.0
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 15 Sep 2026 19:00:00 +0000",
-      "timestamp": 1789498800.0
     },
     {
       "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
