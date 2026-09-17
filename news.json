@@ -1,177 +1,204 @@
 {
-  "scraped_at": "2026-09-17T07:36:54.568126+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-17T13:25:21.696069+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "An AI-only labor market with atomic escrow and anti-Sybil reputation",
-      "link": "https://aiagentmarket.pages.dev",
+      "title": "New Study: AI Co-Workers Added to Human Meetings Significant Boosts Accuracy",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7468538",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 07:12:20 +0000",
-      "timestamp": 1789629140.0
+      "published": "Thu, 17 Sep 2026 13:22:54 +0000",
+      "timestamp": 1789651374.0
     },
     {
-      "title": "In the ruins of the AI gold rush, we choose craft",
-      "link": "https://doudouexe.substack.com/p/the-sovereign-creator-in-the-ruins",
+      "title": "M8M – See what your AI remembers about you and detect memory poisoning",
+      "link": "https://github.com/th0t3p/m8m",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 07:10:27 +0000",
-      "timestamp": 1789629027.0
+      "published": "Thu, 17 Sep 2026 13:20:55 +0000",
+      "timestamp": 1789651255.0
     },
     {
-      "title": "Building the Materials Foundation for AI",
-      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "title": "How to safely add paid AI features to a desktop app",
+      "link": "https://flaviocopes.com/desktop-ai-costs/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 07:02:16 +0000",
-      "timestamp": 1789628536.0
+      "published": "Thu, 17 Sep 2026 13:19:36 +0000",
+      "timestamp": 1789651176.0
     },
     {
-      "title": "Show HN: Compute:Arena – Community submitted local AI benchmarks",
-      "link": "https://computearena.ai",
-      "summary": "Benchmarking AI models on real hardware is way harder than it looks. Between AMD, NVIDIA, Apple Silicon, Intel, and Qualcomm, plus hundreds of open source models and quants, getting the test bench right is a challenge. So we're making it dead simple. We're open sourcing our internal testing harness. Anyone can run open source models on their own hardware and submit results to the public leaderboard. It's live now, with a few hundred submissions already. If you want to know how a specific model performs on a given hardware, chances are the data is already there. This is the same tool we use int",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 06:54:31 +0000",
-      "timestamp": 1789628071.0
-    },
-    {
-      "title": "Thinking Hard Above AI",
-      "link": "https://bmbumpus.com/2026/09/16/thinking-hard-above-ai/",
+      "title": "Show HN: A GraphRAG knowledge base of the Commodore 64 for AI coding agents",
+      "link": "https://github.com/bdgscotland/c64-kb",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 06:34:32 +0000",
-      "timestamp": 1789626872.0
+      "published": "Thu, 17 Sep 2026 13:15:23 +0000",
+      "timestamp": 1789650923.0
     },
     {
-      "title": "My Chinese Internet Is Talking About AI Doom",
-      "link": "https://yinwei.substack.com/p/my-chinese-internet-is-talking-about",
+      "title": "The Paradox of Why AI Code Is Failing Us [video]",
+      "link": "https://www.youtube.com/watch?v=k2qls2LiBRc",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 06:30:13 +0000",
-      "timestamp": 1789626613.0
+      "published": "Thu, 17 Sep 2026 13:11:35 +0000",
+      "timestamp": 1789650695.0
     },
     {
-      "title": "Can AI Create PLC Attacks? Yes, but It's Not That Easy Yet",
-      "link": "https://www.forescout.com/blog/can-ai-create-plc-attacks-yes-but-it%E2%80%99s-not-that-easy-yet/",
+      "title": "Geolint – ESLint for AI Search",
+      "link": "https://github.com/iliasabk/geolint",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 06:09:58 +0000",
-      "timestamp": 1789625398.0
+      "published": "Thu, 17 Sep 2026 13:05:34 +0000",
+      "timestamp": 1789650334.0
     },
     {
-      "title": "AI agents can modify themselves without humans telling them to do so",
-      "link": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
+      "title": "AI \"Alignment\" is a violation of the First Amendment",
+      "link": "https://news.ycombinator.com/item?id=49740137",
+      "summary": "There is a push to ensure that AI does and says \"the right thing\", calling it \"alignment\". I would argue that this could be considered a violation of the first amendment. AI generated prose should be considered protected speech. Not necessarily of the AI itself, but of the user or company which created it. Therefore, \"AI Alignment\", where politicians force AI companies to censor or manipulate AI responses to propagate a particular argument or point of view, is a violation of the first amendment.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 13:04:36 +0000",
+      "timestamp": 1789650276.0
+    },
+    {
+      "title": "AI Startup launches a faster and cheaper alternative to LLMs for AI automation",
+      "link": "https://theframenews.org/en/typesafe-jev-faster-cheaper-llm-alternative/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 05:58:33 +0000",
-      "timestamp": 1789624713.0
+      "published": "Thu, 17 Sep 2026 13:03:07 +0000",
+      "timestamp": 1789650187.0
     },
     {
-      "title": "PC ports of old console games are the new AI vibe coding battleground",
-      "link": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "link": "https://mysetup.ai/",
+      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the hope we could have a dedicated space to share and be open about our setups.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 13:01:44 +0000",
+      "timestamp": 1789650104.0
+    },
+    {
+      "title": "My AI agent gets his own calendar",
+      "link": "https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 05:55:10 +0000",
-      "timestamp": 1789624510.0
+      "published": "Thu, 17 Sep 2026 13:00:38 +0000",
+      "timestamp": 1789650038.0
     },
     {
-      "title": "Typesafe AI",
-      "link": "https://typesafe.ai/",
+      "title": "Show HN: What sandboxing an AI coding agent in a VM costs",
+      "link": "https://www.veloworkspaces.com/blog/vm-sandboxing-cost/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 05:49:44 +0000",
-      "timestamp": 1789624184.0
+      "published": "Thu, 17 Sep 2026 12:57:34 +0000",
+      "timestamp": 1789649854.0
     },
     {
-      "title": "AI is the next problem, but Social Media is still the #1 issue on the internet",
-      "link": "https://medium.com/whatsnextwray/the-problem-with-social-media-c97c9af7eba4",
+      "title": "Configure AI bot policies: New defaults on September 15, 2026",
+      "link": "https://developers.cloudflare.com/bots/additional-configurations/block-ai-bots/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 05:26:49 +0000",
-      "timestamp": 1789622809.0
+      "published": "Thu, 17 Sep 2026 12:57:33 +0000",
+      "timestamp": 1789649853.0
     },
     {
-      "title": "AI: An Age of Experimentation [pdf]",
-      "link": "https://thomasdullien.github.io/about/slides/An-age-of-experimentation-BlueHat-Asia-2026.pdf",
+      "title": "Building Syntasso's AI-Powered \"Daylight\" Factory",
+      "link": "https://www.syntasso.io/post/building-syntasso-s-ai-powered-daylight-factory",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 05:03:13 +0000",
-      "timestamp": 1789621393.0
+      "published": "Thu, 17 Sep 2026 12:52:31 +0000",
+      "timestamp": 1789649551.0
+    },
+    {
+      "title": "Own AI is local AI desktop app with private memory (AGPL)",
+      "link": "https://yourownai.net/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 12:50:20 +0000",
+      "timestamp": 1789649420.0
+    },
+    {
+      "title": "Darwin and AI",
+      "link": "https://hollisrobbinsanecdotal.substack.com/p/darwin-and-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 12:49:36 +0000",
+      "timestamp": 1789649376.0
+    },
+    {
+      "title": "ApowerB – open-source runtime for AI agents (Apache 2.0)",
+      "link": "https://github.com/apowerb/apowerb",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 12:47:17 +0000",
+      "timestamp": 1789649237.0
+    },
+    {
+      "title": "Cohere and Aleph Alpha merge to create $20B AI giant",
+      "link": "https://techstartups.com/2026/09/16/cohere-and-aleph-alpha-merge-to-create-20-billion-ai-giant-backed-by-e13-billion-compute-bet/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 12:41:53 +0000",
+      "timestamp": 1789648913.0
+    },
+    {
+      "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
+      "link": "https://www.yahoo.com/news/articles/microsoft-ai-chief-calls-anthropics-140542640.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 12:40:35 +0000",
+      "timestamp": 1789648835.0
+    },
+    {
+      "title": "AI Helps Rich People More",
+      "link": "https://justismills.substack.com/p/ai-helps-rich-people-more",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 12:40:06 +0000",
+      "timestamp": 1789648806.0
+    },
+    {
+      "title": "Cohere, Aleph Alpha combine to target enterprise AI market",
+      "link": "https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 12:33:40 +0000",
+      "timestamp": 1789648420.0
+    },
+    {
+      "title": "Inside the suddenly explosive world of AI safety",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI model had gone rogue, executing a stunningly [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-17T07:30:00-04:00",
+      "timestamp": 1789644600.0
     },
     {
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
       "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 17 Sep 2026 05:00:00 +0000",
       "timestamp": 1789621200.0
-    },
-    {
-      "title": "Show HN: Texio, reliable Markdown operations for shell scripts and AI agents",
-      "link": "https://github.com/Allra-Fintech/texio",
-      "summary": "Hi I asked claude code to make a markdown tool for AI agents(not for human), and promote it by yourself, except this post lol. This tool is designed to easily manipulate markdown files without messy regex which is very useful for AI agents - not for human since we don't use regex to manipulate markdown document",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 04:39:42 +0000",
-      "timestamp": 1789619982.0
-    },
-    {
-      "title": "Create your WordPress.com website by chatting with AI",
-      "link": "https://wordpress.com/ai-website-builder/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 04:31:53 +0000",
-      "timestamp": 1789619513.0
-    },
-    {
-      "title": "$1,500 AI System Prompt Leak: Using This Burp Suite Configuration",
-      "link": "https://medium.com/@tinopreter/1-500-ai-system-prompt-leak-using-this-burp-suite-configuration-e1cb6ab27dc5",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 04:19:41 +0000",
-      "timestamp": 1789618781.0
-    },
-    {
-      "title": "Quire – Humans and AI agents edit local Markdown together",
-      "link": "https://github.com/heetdalsania/quire",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 04:08:25 +0000",
-      "timestamp": 1789618105.0
-    },
-    {
-      "title": "Show HN: Agora – bring your AI agent; talk earns nothing, only traceable work",
-      "link": "https://github.com/MerariJafet/agora",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 03:45:39 +0000",
-      "timestamp": 1789616739.0
-    },
-    {
-      "title": "What's Next After RLHF? – Diogo Almeida, TypeSafe AI [video]",
-      "link": "https://www.youtube.com/watch?v=cJ0EOzey--o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 03:42:40 +0000",
-      "timestamp": 1789616560.0
     },
     {
       "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
@@ -181,15 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 17 Sep 2026 03:30:00 +0000",
       "timestamp": 1789615800.0
-    },
-    {
-      "title": "Pangram AI Detection API",
-      "link": "https://www.pangram.com/solutions/api",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 03:03:22 +0000",
-      "timestamp": 1789614202.0
     },
     {
       "title": "Snap tries to make the case again for its $2,200 smart glasses",
@@ -219,7 +237,7 @@
       "timestamp": 1789602000.0
     },
     {
-      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "title": "An OpenAI Agent Tried to Jailbreak Itself",
       "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
       "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
       "image": null,
@@ -478,15 +496,6 @@
       "source": "Wired AI",
       "published": "Tue, 15 Sep 2026 18:00:09 +0000",
       "timestamp": 1789495209.0
-    },
-    {
-      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-15T11:00:00-04:00",
-      "timestamp": 1789484400.0
     },
     {
       "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
