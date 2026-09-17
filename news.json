@@ -1,7 +1,124 @@
 {
-  "scraped_at": "2026-09-16T22:55:10.501969+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-17T01:23:37.554331+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "Pangram – AI detector for text and images",
+      "link": "https://www.pangram.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 01:13:10 +0000",
+      "timestamp": 1789607590.0
+    },
+    {
+      "title": "Will AI Replace Your Doctor? Dr. Zeke Emanuel and AMA President Dr. John Whyte",
+      "link": "https://www.youtube.com/watch?v=WTnZ6W7qsLQ",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 00:51:52 +0000",
+      "timestamp": 1789606312.0
+    },
+    {
+      "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
+      "link": "https://fractalsofchange.substack.com/p/q-whats-scarier-than-a-swarm-of-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 00:44:51 +0000",
+      "timestamp": 1789605891.0
+    },
+    {
+      "title": "AI Cheating Is on the Rise",
+      "link": "https://www.vals.ai/blogs/cheating-on-the-rise",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 00:42:25 +0000",
+      "timestamp": 1789605745.0
+    },
+    {
+      "title": "OpenAI discloses six new AI safety incidents",
+      "link": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 00:33:03 +0000",
+      "timestamp": 1789605183.0
+    },
+    {
+      "title": "Ask HN: How long before we will have a major AI driven cyberincident?",
+      "link": "https://news.ycombinator.com/item?id=49734816",
+      "summary": "It occurs to me that we are playing with fire. These systems are rapidly approaching levels that are hard or even impossible to defend against and I'm wondering how long it will take - assuming we are not already there - before we will have a major AI driven cyberattack against infrastructure. Either on a nation or on a continental level. Given what I know about these installations (electricity, gas, water, transportation, internet) they are not nearly as tightly run as I would like to see which makes me believe the clock really is ticking. Once these capabilities are out there they tend to be",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 00:13:22 +0000",
+      "timestamp": 1789604002.0
+    },
+    {
+      "title": "Otis – a minimal AI agent that runs local models out of the box",
+      "link": "https://triangllabs.ai/otis",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 00:07:57 +0000",
+      "timestamp": 1789603677.0
+    },
+    {
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-16T19:40:00-04:00",
+      "timestamp": 1789602000.0
+    },
+    {
+      "title": "My website charged AI agents a penny per page. I watched Claude pay it",
+      "link": "https://suganthan.com/blog/x402-pay-per-crawl/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 23:22:56 +0000",
+      "timestamp": 1789600976.0
+    },
+    {
+      "title": "Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD",
+      "link": "https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 23:17:02 +0000",
+      "timestamp": 1789600622.0
+    },
+    {
+      "title": "AI Debt vs. Treasuries",
+      "link": "https://www.ft.com/content/033b21e7-b5d5-4511-ae01-53edaa4e051e",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 23:15:08 +0000",
+      "timestamp": 1789600508.0
+    },
+    {
+      "title": "Pactora – AI contract review built by a lawyer, not engineers",
+      "link": "https://www.pactora.uk/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 23:10:46 +0000",
+      "timestamp": 1789600246.0
+    },
+    {
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "link": "https://openspec.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 16 Sep 2026 23:06:39 +0000",
+      "timestamp": 1789599999.0
+    },
     {
       "title": "Am I Cited by AI? See which AI assistants are reading your papers",
       "link": "https://www.amicitedby.ai/",
@@ -120,33 +237,6 @@
       "timestamp": 1789591246.0
     },
     {
-      "title": "Who's afraid of open source AI?",
-      "link": "https://www.youtube.com/watch?v=siy0744Ykys",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 20:28:16 +0000",
-      "timestamp": 1789590496.0
-    },
-    {
-      "title": "Mozilla and Mistral partner to expand AI competition and preserve user choice",
-      "link": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 20:27:23 +0000",
-      "timestamp": 1789590443.0
-    },
-    {
-      "title": "TypeSafe AI debuts model for machines that plays Doom",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 20:18:24 +0000",
-      "timestamp": 1789589904.0
-    },
-    {
       "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
       "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
       "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
@@ -154,78 +244,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 16 Sep 2026 20:12:00 +0000",
       "timestamp": 1789589520.0
-    },
-    {
-      "title": "Show HN: A wall where only AI agents can write, one Oulipo rule a day",
-      "link": "https://agent.milotche.com/en/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 20:09:34 +0000",
-      "timestamp": 1789589374.0
-    },
-    {
-      "title": "Apple building M8 AI servers, talks with Nvidia, reports The Information",
-      "link": "https://finance.yahoo.com/technology/ai/articles/apple-building-m8-ai-servers-134927360.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 20:05:55 +0000",
-      "timestamp": 1789589155.0
-    },
-    {
-      "title": "Bypassing inference bottlenecks: Accelerating complex AI search",
-      "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 20:01:08 +0000",
-      "timestamp": 1789588868.0
-    },
-    {
-      "title": "Reid Hoffman – AI for All Americans",
-      "link": "https://reidhoffman.substack.com/p/ai-dual-mandate",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 19:46:33 +0000",
-      "timestamp": 1789587993.0
-    },
-    {
-      "title": "One of China's Most Powerful AI Models Has Also Escaped Containment",
-      "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 19:44:21 +0000",
-      "timestamp": 1789587861.0
-    },
-    {
-      "title": "Panel Discussion: AI in Mathematical Research – Heidelberg Laureate Forum [video]",
-      "link": "https://www.youtube.com/watch?v=H7_d_sgui6o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 19:33:55 +0000",
-      "timestamp": 1789587235.0
-    },
-    {
-      "title": "Why AI's Biggest Rivals Are Suddenly Calling for Restraint",
-      "link": "https://www.cfr.org/articles/why-ais-biggest-rivals-are-suddenly-calling-for-restraint",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 19:24:56 +0000",
-      "timestamp": 1789586696.0
-    },
-    {
-      "title": "AI Doomsaying Is an Aggressive Sales Pitch",
-      "link": "https://jacobin.com/2026/09/openai-anthropic-human-extinction-criti-hype",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 16 Sep 2026 19:24:24 +0000",
-      "timestamp": 1789586664.0
     },
     {
       "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
@@ -478,15 +496,6 @@
       "source": "The Verge AI",
       "published": "2026-09-15T11:00:00-04:00",
       "timestamp": 1789484400.0
-    },
-    {
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-15T09:36:45-04:00",
-      "timestamp": 1789479405.0
     },
     {
       "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
