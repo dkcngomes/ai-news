@@ -1,24 +1,222 @@
 {
-  "scraped_at": "2026-09-18T09:44:09.794922+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-18T14:30:46.199430+00:00",
+  "count": 58,
   "items": [
     {
-      "title": "Slop Grenades, AI Didn't Make Delivery Free – Food for Agile Thought 562",
-      "link": "https://age-of-product.com/food-agile-thought-562-slop-grenades/",
+      "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
+      "link": "https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 09:30:58 +0000",
-      "timestamp": 1789723858.0
+      "published": "Fri, 18 Sep 2026 14:17:25 +0000",
+      "timestamp": 1789741045.0
     },
     {
-      "title": "Proton partners with Apertus, Switzerland's sovereign AI model",
-      "link": "https://proton.me/blog/lumo-apertus-partnership",
+      "title": "Trump’s Anti-Bias AI Order Is Just More Bias",
+      "link": "https://www.wired.com/story/trump-ai-order-bias-openai-google/",
+      "summary": "The Trump administration says it wants AI models free from ideological bias, as it pressures their developers to reflect the president’s worldview.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 18 Sep 2026 14:10:09 +0000",
+      "timestamp": 1789740609.0
+    },
+    {
+      "title": "Think Like an Attacker: CI/CD Security in the AI Era",
+      "link": "https://medium.com/@Koukyosyumei/think-like-an-attacker-ci-cd-security-in-the-ai-era-39f717f5e9cd",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 09:26:03 +0000",
-      "timestamp": 1789723563.0
+      "published": "Fri, 18 Sep 2026 14:06:41 +0000",
+      "timestamp": 1789740401.0
+    },
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 18 Sep 2026 14:00:14 +0000",
+      "timestamp": 1789740014.0
+    },
+    {
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "timestamp": 1789740000.0
+    },
+    {
+      "title": "Why the best AI users stopped hunting for the perfect prompt",
+      "link": "https://firstlastword.substack.com/p/systems-not-sentences",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 13:59:45 +0000",
+      "timestamp": 1789739985.0
+    },
+    {
+      "title": "AI Mistakes – bash scripts – pipefail and grep",
+      "link": "https://medium.com/@simonsmartiom/ai-mistakes-bash-scripts-pipefail-and-grep-d55a38c1836f",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 13:59:42 +0000",
+      "timestamp": 1789739982.0
+    },
+    {
+      "title": "Mastery in the Post-AI World",
+      "link": "https://blog.daddooo.dev/posts/mastery-in-the-post-ai-world/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 13:56:13 +0000",
+      "timestamp": 1789739773.0
+    },
+    {
+      "title": "The AI threat is real, it just isn't the one in the headlines",
+      "link": "https://blog.robbowley.net/2026/09/18/the-ai-threat-is-real-it-just-isnt-the-one-in-the-headlines/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 13:43:12 +0000",
+      "timestamp": 1789738992.0
+    },
+    {
+      "title": "AI chatbots becoming experts at changing people's minds. What's their secret?",
+      "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 13:39:27 +0000",
+      "timestamp": 1789738767.0
+    },
+    {
+      "title": "Joining the dots between big AI",
+      "link": "https://www.ft.com/content/8475dc9b-b2d4-4e10-a6b6-12796b11758a",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 13:31:27 +0000",
+      "timestamp": 1789738287.0
+    },
+    {
+      "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
+      "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
+      "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 18 Sep 2026 13:30:00 +0000",
+      "timestamp": 1789738200.0
+    },
+    {
+      "title": "Is AI going to destroy human civilization? – Dave Jorgenson [video]",
+      "link": "https://www.youtube.com/watch?v=ao1HZ-Ww46Y",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 13:27:02 +0000",
+      "timestamp": 1789738022.0
+    },
+    {
+      "title": "What Using AI Therapy Gets Wrong",
+      "link": "https://emilylee293105.substack.com/p/what-ai-therapy-gets-wrong-904",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 13:14:07 +0000",
+      "timestamp": 1789737247.0
+    },
+    {
+      "title": "Show HN: Bastionskill – scan an AI agent skill for malicious code",
+      "link": "https://news.ycombinator.com/item?id=49753727",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 12:53:37 +0000",
+      "timestamp": 1789736017.0
+    },
+    {
+      "title": "AI eyes in the sky: New satellites and AI transforming wildfire detection",
+      "link": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 12:52:13 +0000",
+      "timestamp": 1789735933.0
+    },
+    {
+      "title": "Show HN: Jawz – macro market state for AI agents, now a ChatGPT app (no login)",
+      "link": "https://jawz.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 12:32:38 +0000",
+      "timestamp": 1789734758.0
+    },
+    {
+      "title": "Grandmother falsely accused of bank theft after alleged AI facial recognition",
+      "link": "https://abcnews.com/US/grandmother-falsely-accused-bank-theft-after-alleged-ai/story?id=136536444",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 12:17:17 +0000",
+      "timestamp": 1789733837.0
+    },
+    {
+      "title": "Auditing in the age of (good enough) AI",
+      "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 12:14:33 +0000",
+      "timestamp": 1789733673.0
+    },
+    {
+      "title": "Last 30 days of AI but as an anime scene",
+      "link": "https://twitter.com/DavidAmal/status/2100565801392914657",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 12:13:38 +0000",
+      "timestamp": 1789733618.0
+    },
+    {
+      "title": "Exclusive – Anthropic sets up biology lab as it ramps AI drug program",
+      "link": "https://www.msn.com/en-us/news/other/exclusive-anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program/ar-AA2cumFO",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 12:10:14 +0000",
+      "timestamp": 1789733414.0
+    },
+    {
+      "title": "Can AI Save Science?",
+      "link": "https://www.computer.org/publications/tech-news/community-voices/ai-save-science",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 12:06:52 +0000",
+      "timestamp": 1789733212.0
+    },
+    {
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-18T07:00:00-04:00",
+      "timestamp": 1789729200.0
+    },
+    {
+      "title": "The Leftist Split Over AI Doom",
+      "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+      "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 18 Sep 2026 10:15:00 +0000",
+      "timestamp": 1789726500.0
     },
     {
       "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
@@ -30,15 +228,6 @@
       "timestamp": 1789722900.0
     },
     {
-      "title": "Could AI and synthetic biology = bioweapons?",
-      "link": "https://www.celinegounder.com/p/anthropic-claude-ai-bioweapons-biosecurity",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 09:02:31 +0000",
-      "timestamp": 1789722151.0
-    },
-    {
       "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
       "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
       "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
@@ -46,150 +235,6 @@
       "source": "Wired AI",
       "published": "Fri, 18 Sep 2026 09:00:00 +0000",
       "timestamp": 1789722000.0
-    },
-    {
-      "title": "Unbiased is our platform. Pareto is our own blended AI model",
-      "link": "https://unbiased.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 08:49:10 +0000",
-      "timestamp": 1789721350.0
-    },
-    {
-      "title": "AI software should be treated like any other software [video]",
-      "link": "https://www.youtube.com/watch?v=9tr7Mby62bo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 08:46:41 +0000",
-      "timestamp": 1789721201.0
-    },
-    {
-      "title": "What to Read to Stay Grounded Amidst AI Doomerism",
-      "link": "https://buttondown.com/maiht3k/archive/what-to-read-to-stay-grounded-amidst-ai-doomerism/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 08:03:14 +0000",
-      "timestamp": 1789718594.0
-    },
-    {
-      "title": "The Cost of AI Is Now My Main Blocker",
-      "link": "https://www.vincentschmalbach.com/cost-of-ai-is-now-my-main-blocker/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 07:53:40 +0000",
-      "timestamp": 1789718020.0
-    },
-    {
-      "title": "Altman, Huang: \"trust me; gonna b fine\"; Sanders: \"AI more dangerous than nukes\"",
-      "link": "https://garymarcus.substack.com/p/sam-altman-says-trust-me-jensen-huang",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 07:49:05 +0000",
-      "timestamp": 1789717745.0
-    },
-    {
-      "title": "Jev vs. Luna for AI Observability",
-      "link": "https://fatliverfreddy.substack.com/p/a-different-kind-of-model-for-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 07:19:19 +0000",
-      "timestamp": 1789715959.0
-    },
-    {
-      "title": "Free Unlimited AI Text to Speech – No Sign Up",
-      "link": "https://www.aitexttospeech.net/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 07:09:19 +0000",
-      "timestamp": 1789715359.0
-    },
-    {
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 07:02:24 +0000",
-      "timestamp": 1789714944.0
-    },
-    {
-      "title": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei",
-      "link": "https://www.reuters.com/world/china/huaweis-xu-says-chinese-ai-not-powerful-enough-yet-see-frontier-risks-2026-09-17/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 06:51:34 +0000",
-      "timestamp": 1789714294.0
-    },
-    {
-      "title": "I built a free AI tarot reader for Android",
-      "link": "https://play.google.com/store/apps/details?id=com.earthbound_tarot&hl=en_US",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 06:43:47 +0000",
-      "timestamp": 1789713827.0
-    },
-    {
-      "title": "Show HN: Open-Source Alternative to TypeSafe.ai",
-      "link": "https://github.com/TitovDigital/kbai-skill",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 06:04:05 +0000",
-      "timestamp": 1789711445.0
-    },
-    {
-      "title": "What a stranger can verify about an AI business",
-      "link": "https://sound.fan/editorial/what-a-stranger-can-verify-about-an-ai-business",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 05:42:43 +0000",
-      "timestamp": 1789710163.0
-    },
-    {
-      "title": "How can AI help PDF?",
-      "link": "https://pdf4wcag.com/blog-news/how-can-ai-help-pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 05:33:45 +0000",
-      "timestamp": 1789709625.0
-    },
-    {
-      "title": "Reflections on Trusting Trust, Revisited: Poisoning Self-Modifying AI Coding",
-      "link": "https://arxiv.org/abs/2609.17817",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 04:07:08 +0000",
-      "timestamp": 1789704428.0
-    },
-    {
-      "title": "Show HN: Continuity – project state your AI sessions can't silently contradict",
-      "link": "https://github.com/vikcena01/ai-continuity-plugin",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 03:56:51 +0000",
-      "timestamp": 1789703811.0
-    },
-    {
-      "title": "macOS 27 is a lifesaver for killing leftover AI Agent processes",
-      "link": "https://9to5mac.com/2026/06/09/macos-27-golden-gate-makes-it-clear-when-apps-are-sneakily-running-in-background/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 03:55:42 +0000",
-      "timestamp": 1789703742.0
     },
     {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -426,24 +471,6 @@
       "timestamp": 1789615800.0
     },
     {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 00:58:49 +0000",
-      "timestamp": 1789606729.0
-    },
-    {
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 16 Sep 2026 23:43:09 +0000",
-      "timestamp": 1789602189.0
-    },
-    {
       "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
       "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
       "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you [&#8230;]",
@@ -489,15 +516,6 @@
       "timestamp": 1789591246.0
     },
     {
-      "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-      "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 16 Sep 2026 19:00:00 +0000",
-      "timestamp": 1789585200.0
-    },
-    {
       "title": "Apple might make servers again to cash in on the AI rush",
       "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
       "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to [&#8230;]",
@@ -505,33 +523,6 @@
       "source": "The Verge AI",
       "published": "2026-09-16T13:20:29-04:00",
       "timestamp": 1789579229.0
-    },
-    {
-      "title": "Google will now let any AI agent run your smart home",
-      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-16T13:00:00-04:00",
-      "timestamp": 1789578000.0
-    },
-    {
-      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 16 Sep 2026 09:30:00 +0000",
-      "timestamp": 1789551000.0
-    },
-    {
-      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-      "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 15 Sep 2026 18:00:09 +0000",
-      "timestamp": 1789495209.0
     }
   ]
 }
