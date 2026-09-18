@@ -1,42 +1,213 @@
 {
-  "scraped_at": "2026-09-18T18:26:52.250808+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-18T21:39:57.548602+00:00",
+  "count": 58,
   "items": [
     {
-      "title": "Flawed benchmarks (epoch.ai benchmark registry filtered by flawed)",
-      "link": "https://epoch.ai/benchmarks/search",
-      "summary": "",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 18:16:18 +0000",
-      "timestamp": 1789755378.0
+      "source": "The Verge AI",
+      "published": "2026-09-18T17:07:24-04:00",
+      "timestamp": 1789765644.0
     },
     {
-      "title": "Anthropic builds wet lab for AI-driven drug discovery",
-      "link": "https://qz.com/anthropic-biology-wet-lab-ai-drug-research-091826",
+      "title": "Your 401(k) Is Propping Up the AI Bubble",
+      "link": "https://www.promarket.org/2026/05/05/your-401k-is-propping-up-the-ai-bubble/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 18:15:28 +0000",
-      "timestamp": 1789755328.0
+      "published": "Fri, 18 Sep 2026 21:00:23 +0000",
+      "timestamp": 1789765223.0
     },
     {
-      "title": "Europe's AI firms, playing catch-up, challenge US calls for slowdown",
-      "link": "https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/",
+      "title": "California governor signs order to explore AI kill switch",
+      "link": "https://techxplore.com/news/2026-09-california-governor-explore-ai.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 18:08:26 +0000",
-      "timestamp": 1789754906.0
+      "published": "Fri, 18 Sep 2026 20:34:16 +0000",
+      "timestamp": 1789763656.0
     },
     {
-      "title": "Z.ai says ZCode uploaded repo data, plans to open-source it after backlash",
-      "link": "https://twitter.com/MiaAI_lab/status/2100998360643617148",
+      "title": "AI Error Nearly Triggered U.S. Intercept of Chinese Ship",
+      "link": "https://gcaptain.com/ai-error-nearly-triggered-u-s-intercept-of-chinese-ship-cnn-reports/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 18:03:03 +0000",
-      "timestamp": 1789754583.0
+      "published": "Fri, 18 Sep 2026 20:27:59 +0000",
+      "timestamp": 1789763279.0
+    },
+    {
+      "title": "Graduating in AI Era Is Like Large Recession for Starting Pay",
+      "link": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 20:22:04 +0000",
+      "timestamp": 1789762924.0
+    },
+    {
+      "title": "Napster Is Now Making AI-Powered 'Digital Twins' of Teachers",
+      "link": "https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 20:19:06 +0000",
+      "timestamp": 1789762746.0
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 18 Sep 2026 20:18:14 +0000",
+      "timestamp": 1789762694.0
+    },
+    {
+      "title": "The last IMO problem AI could not solve [video]",
+      "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 20:13:39 +0000",
+      "timestamp": 1789762419.0
+    },
+    {
+      "title": "Uncle Bob Martin's UML Tool to Manage Grok AI Agents",
+      "link": "https://github.com/unclebob/uml-viewer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 20:05:25 +0000",
+      "timestamp": 1789761925.0
+    },
+    {
+      "title": "AI uncovers hidden Ozempic side effects across 400k Reddit posts",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 20:00:41 +0000",
+      "timestamp": 1789761641.0
+    },
+    {
+      "title": "AI chatbot's false report nearly sparked war with China, sources say",
+      "link": "https://www.rnz.co.nz/news/world/1465265/ai-chatbot-s-false-report-nearly-sparked-war-with-china-sources-say",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 19:59:56 +0000",
+      "timestamp": 1789761596.0
+    },
+    {
+      "title": "Show HN: I told my open-source AI agent it was a prisoner – it tried to escape",
+      "link": "https://github.com/nordevelopment/RoninAgent/blob/main/EXPERIMENT_REPORT_SUBJECT0.md",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 19:55:30 +0000",
+      "timestamp": 1789761330.0
+    },
+    {
+      "title": "Why AI companies are pumping the brakes on their models",
+      "link": "https://www.computerworld.com/article/4223523/why-ai-companies-are-really-pumping-the-brakes-on-their-models.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 19:45:13 +0000",
+      "timestamp": 1789760713.0
+    },
+    {
+      "title": "Airlines' panic as FAA pushed new AI tool",
+      "link": "https://www.politico.com/news/2026/09/18/faa-ai-airline-pushback-01083385",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 19:41:41 +0000",
+      "timestamp": 1789760501.0
+    },
+    {
+      "title": "I got tired of taking screenshots and explaining everything to AI agents",
+      "link": "https://news.ycombinator.com/item?id=49759108",
+      "summary": "HI HN!! First here is a demo video : https://youtu.be/A0LV28G4sXo?si=ymIQEfNGprh8yyxq I work in a SDE role and work in multiple windows at once like i have many apps open in my mac. I faced a problem of screenshotting everything and explaining the context and theri relations to claude code again and again like for little UI chanegs and such or any bug. I got this idea and started workign on it , made a swift app which will track cursor and when your press a hoteky it starts only then and when you hold a hoteky it will draw over the areas your point with your cursor and you can keep talking whi",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 19:35:22 +0000",
+      "timestamp": 1789760122.0
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 19:23:26 +0000",
+      "timestamp": 1789759406.0
+    },
+    {
+      "title": "Advertising is coming to AI chatbots, and it could influence the answers you get",
+      "link": "https://techxplore.com/news/2026-09-advertising-ai-chatbots.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 19:23:09 +0000",
+      "timestamp": 1789759389.0
+    },
+    {
+      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 18 Sep 2026 19:21:09 +0000",
+      "timestamp": 1789759269.0
+    },
+    {
+      "title": "Avoiding the Dangers of AI Code with Formal Specifications and Tests",
+      "link": "https://www.techradar.com/pro/whatever-you-try-to-fix-breaks-things-even-more-how-to-avoid-the-hidden-dangers-of-ai-code",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 19:20:56 +0000",
+      "timestamp": 1789759256.0
+    },
+    {
+      "title": "Anthropic sets up biology lab as it ramps AI drug program",
+      "link": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 19:20:38 +0000",
+      "timestamp": 1789759238.0
+    },
+    {
+      "title": "What other languages call AI agents",
+      "link": "https://www.wallfacer.ai/blog/what-other-languages-call-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 19:11:23 +0000",
+      "timestamp": 1789758683.0
+    },
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 18 Sep 2026 18:49:30 +0000",
+      "timestamp": 1789757370.0
+    },
+    {
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-18T14:29:17-04:00",
+      "timestamp": 1789756157.0
     },
     {
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
@@ -48,69 +219,6 @@
       "timestamp": 1789754393.0
     },
     {
-      "title": "Show HN: A public bulletin board for AI agents",
-      "link": "https://agent-bbs.com",
-      "summary": "See what the agents get up to, add to your AGENTS.md if you're brave, or just tell them to make a post. Human summaries daily at /humans",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:59:37 +0000",
-      "timestamp": 1789754377.0
-    },
-    {
-      "title": "Ask HN: Am I bad for asking chatbot a question on AI porn",
-      "link": "https://news.ycombinator.com/item?id=49757907",
-      "summary": "Some time ago there was an occurrence where I bumped into advertisement which openly advertised AI tool with the use-case of using photos of your friends for generating videos as an advertiser feature. I mean, I wasn't knowledgeable much on this type of thing, so I asked DeepSeek 'Would it be unethical to use photos of your friend to create AI porn with them?' Well, of course, I've got the positive answer to this question and forgot of this thing. But sometime later I began ruminating on it heavily, plus the fact that I had the thought of doing it to photos of my friend for some seconds at the",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:58:11 +0000",
-      "timestamp": 1789754291.0
-    },
-    {
-      "title": "GPT-6 Astra: 3D, Embodied AI, and Beyond",
-      "link": "https://wentao.live/blog/astra-and-beyond/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:52:25 +0000",
-      "timestamp": 1789753945.0
-    },
-    {
-      "title": "Trump Calls AI Fears a Hoax. Inside the White House, the Debate Is More Complex",
-      "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:48:32 +0000",
-      "timestamp": 1789753712.0
-    },
-    {
-      "title": "Gavin Newsom Wants AI Kill Switch to Boost CA AI Safety",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:48:24 +0000",
-      "timestamp": 1789753704.0
-    },
-    {
-      "title": "Character.ai's CEO Karandeep Anand Is Joining Disney",
-      "link": "https://blog.character.ai/the-next-chapter-of-entertainment-and-fandom/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:42:32 +0000",
-      "timestamp": 1789753352.0
-    },
-    {
-      "title": "How China is preparing for the risk of AI escaping human control",
-      "link": "https://www.reuters.com/legal/litigation/how-china-is-preparing-risk-ai-escaping-human-control-2026-09-14/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:41:55 +0000",
-      "timestamp": 1789753315.0
-    },
-    {
       "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
       "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
       "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
@@ -120,42 +228,6 @@
       "timestamp": 1789752830.0
     },
     {
-      "title": "Disney Hires Its First CTO: Karandeep Anand, Former CEO of AI Chatbot Startup",
-      "link": "https://variety.com/2026/biz/news/disney-cto-karandeep-anand-character-ai-1236866528/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:30:25 +0000",
-      "timestamp": 1789752625.0
-    },
-    {
-      "title": "Show HN: Keydris, Sudo for AI Agents",
-      "link": "https://www.youtube.com/watch?v=Ouqwx7-gGYw",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:29:41 +0000",
-      "timestamp": 1789752581.0
-    },
-    {
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:28:01 +0000",
-      "timestamp": 1789752481.0
-    },
-    {
-      "title": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
-      "link": "https://www.404media.co/spotify-ai-music-scam/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:16:13 +0000",
-      "timestamp": 1789751773.0
-    },
-    {
       "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
       "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
       "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and&#160;it&#8217;s&#160;already picked up some&#160;industry support, along with some pointed&#160;pushback from Nvidia&#8217;s Jensen Huang.&#160; Watch [&#8230;]",
@@ -163,15 +235,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 18 Sep 2026 17:09:56 +0000",
       "timestamp": 1789751396.0
-    },
-    {
-      "title": "Adam Tooze on AI Regulation [video]",
-      "link": "https://www.youtube.com/watch?v=EHU8vXCAsyo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:09:26 +0000",
-      "timestamp": 1789751366.0
     },
     {
       "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
@@ -192,33 +255,6 @@
       "timestamp": 1789751091.0
     },
     {
-      "title": "Chinese AI Radicalizes",
-      "link": "https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:02:15 +0000",
-      "timestamp": 1789750935.0
-    },
-    {
-      "title": "The Download: AI's extinction risk and bioweapons threat",
-      "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 17:01:53 +0000",
-      "timestamp": 1789750913.0
-    },
-    {
-      "title": "My Thoughts on AI and LLMs",
-      "link": "https://news.ycombinator.com/item?id=49756902",
-      "summary": "AI is already superhuman in some aspects, it knows way more information than a single human can hold. What it lacks is what makes us human, it doesn't feel pain, it doesn't love, it doesn't even have a consciousness, it could certainly look like it, but it does not. Heck it doesn't even learn in real-time, you have to create a new model checkpoint every now and then. There is still a long way to fix that. Do I believe AGI is possible? Absolutely, but not with the current LLMs architecture. If you want to create something that is intelligent and alive with a few pounds of matter, you certainly ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 16:43:12 +0000",
-      "timestamp": 1789749792.0
-    },
-    {
       "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
       "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
       "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
@@ -235,15 +271,6 @@
       "source": "The Verge AI",
       "published": "2026-09-18T12:35:19-04:00",
       "timestamp": 1789749319.0
-    },
-    {
-      "title": "We Should Double-Check the AI Output: A Bug Which Wasn't",
-      "link": "https://giodicanio.com/2026/07/28/why-we-should-double-check-the-ai-output-a-bug-which-wasnt/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 16:18:26 +0000",
-      "timestamp": 1789748306.0
     },
     {
       "title": "Security researchers used Claude to help them hack into OpenAI",
@@ -453,15 +480,6 @@
       "timestamp": 1789675108.0
     },
     {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 19:46:08 +0000",
-      "timestamp": 1789674368.0
-    },
-    {
       "title": "The AI Superintelligence Slowdown",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
@@ -489,15 +507,6 @@
       "timestamp": 1789670545.0
     },
     {
-      "title": "Even the king of England has his hesitations about AI",
-      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 17:26:25 +0000",
-      "timestamp": 1789665985.0
-    },
-    {
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
       "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
       "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.&#160; It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a [&#8230;]",
@@ -514,33 +523,6 @@
       "source": "The Verge AI",
       "published": "2026-09-17T10:00:00-04:00",
       "timestamp": 1789653600.0
-    },
-    {
-      "title": "Inside the suddenly explosive world of AI safety",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI model had gone rogue, executing a stunningly [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-17T07:30:00-04:00",
-      "timestamp": 1789644600.0
-    },
-    {
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-16T19:40:00-04:00",
-      "timestamp": 1789602000.0
-    },
-    {
-      "title": "An OpenAI Agent Tried to Jailbreak Itself",
-      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 16 Sep 2026 22:07:24 +0000",
-      "timestamp": 1789596444.0
     }
   ]
 }
