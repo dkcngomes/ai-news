@@ -1,96 +1,213 @@
 {
-  "scraped_at": "2026-09-17T21:19:58.052644+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-18T00:15:41.412852+00:00",
+  "count": 58,
   "items": [
     {
-      "title": "Sex, AI, and the Apocalypse",
-      "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "title": "Forget doomsday: The AI hacking crisis is here",
+      "link": "https://www.axios.com/2026/09/17/ai-cyber-doomsday-hacking-threats",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 21:15:52 +0000",
-      "timestamp": 1789679752.0
+      "published": "Fri, 18 Sep 2026 00:00:47 +0000",
+      "timestamp": 1789689647.0
     },
     {
-      "title": "Typesafe AI",
-      "link": "https://typesafe.ai/",
+      "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 21:14:17 +0000",
-      "timestamp": 1789679657.0
+      "published": "Thu, 17 Sep 2026 23:36:50 +0000",
+      "timestamp": 1789688210.0
     },
     {
-      "title": "OpenAI Safety Guardrails: What to Test Before Trusting an AI Agent",
-      "link": "https://www.pentesty.co/blog/openai-safety-guardrails-ai-agent-security",
+      "title": "Productivity Effects Across Generations of AI Coding Tools",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6843118",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 21:11:32 +0000",
-      "timestamp": 1789679492.0
+      "published": "Thu, 17 Sep 2026 23:34:26 +0000",
+      "timestamp": 1789688066.0
     },
     {
-      "title": "ESP32 Wi-Fi Vulns: Coordinated Disclosure Is Broken by AI",
-      "link": "https://fughilli.substack.com/p/auditing-the-closed-esp32-c6-wi-fi",
-      "summary": "",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "summary": "The round values the data center giant at $30.9 billion.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 21:08:31 +0000",
-      "timestamp": 1789679311.0
+      "source": "TechCrunch AI",
+      "published": "Thu, 17 Sep 2026 23:25:52 +0000",
+      "timestamp": 1789687552.0
     },
     {
-      "title": "Shaping the Future of Learning: Education Readiness for the Age of AI [pdf]",
-      "link": "https://reports.weforum.org/docs/WEF_Shaping_the_Future_of_Learning_2026.pdf",
-      "summary": "",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:51:46 +0000",
-      "timestamp": 1789678306.0
+      "source": "TechCrunch AI",
+      "published": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "timestamp": 1789687277.0
     },
     {
-      "title": "Measurements for understanding the pace of AI development inside frontier labs",
-      "link": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "title": "Reimagining research papers as interactive and reliable AI agents",
+      "link": "https://www.nature.com/articles/s41586-026-11044-y",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:50:01 +0000",
-      "timestamp": 1789678201.0
+      "published": "Thu, 17 Sep 2026 23:14:11 +0000",
+      "timestamp": 1789686851.0
     },
     {
-      "title": "FAA's Smart AI System Fact Sheet [pdf]",
-      "link": "https://www.faa.gov/newsroom/SMART_One-Pager.pdf",
+      "title": "AI safety requires more than just slowing our pace – Stuart Russell",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:48:43 +0000",
-      "timestamp": 1789678123.0
+      "published": "Thu, 17 Sep 2026 22:54:44 +0000",
+      "timestamp": 1789685684.0
     },
     {
-      "title": "Why sovereign AI demands a tenancy model, not just geography",
-      "link": "https://www.redhat.com/en/blog/datacenter-myth-why-sovereign-ai-demands-tenancy-model-not-just-geography",
+      "title": "'Godfather of AI' says tech regulation is nearing Covid-style pivot moment",
+      "link": "https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:48:19 +0000",
-      "timestamp": 1789678099.0
+      "published": "Thu, 17 Sep 2026 22:45:25 +0000",
+      "timestamp": 1789685125.0
     },
     {
-      "title": "Globally, More People Expect AI to Cause Job Loss Than Growth",
-      "link": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
+      "title": "Huawei Ascend 960 SuperPoD uses NPO technology to power next-generation AI infra",
+      "link": "https://technode.com/2026/09/17/huawei-unveils-ascend-960-superpod-with-npo-technology-to-power-next-generation-ai-infrastructure/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:45:24 +0000",
-      "timestamp": 1789677924.0
+      "published": "Thu, 17 Sep 2026 22:41:10 +0000",
+      "timestamp": 1789684870.0
     },
     {
-      "title": "US, China security experts propose nuclear-style safeguards for AI risks",
-      "link": "https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/",
+      "title": "Docs in AI copyright suit reveal startling admission by Microsoft exec",
+      "link": "https://www.orlandosentinel.com/2026/09/17/new-docs-in-a-i-copyright-suit-reveal-startling-admission-by-microsoft-exec-over-astonishing-theft/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:41:32 +0000",
-      "timestamp": 1789677692.0
+      "published": "Thu, 17 Sep 2026 22:37:44 +0000",
+      "timestamp": 1789684664.0
+    },
+    {
+      "title": "Show HN: Respawn – an undo button for AI agents (Rust, local-first, no cloud)",
+      "link": "https://github.com/savageAZfck/respawn",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 22:36:40 +0000",
+      "timestamp": 1789684600.0
+    },
+    {
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 17 Sep 2026 22:34:09 +0000",
+      "timestamp": 1789684449.0
+    },
+    {
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 22:33:44 +0000",
+      "timestamp": 1789684424.0
+    },
+    {
+      "title": "Jev is about to change the AI economy",
+      "link": "https://thefinancialengineer.substack.com/p/typesafes-jev-is-about-to-change",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 22:32:05 +0000",
+      "timestamp": 1789684325.0
+    },
+    {
+      "title": "Here’s What the AI Apocalypse Could Look Like",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 17 Sep 2026 22:20:21 +0000",
+      "timestamp": 1789683621.0
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 17 Sep 2026 22:14:59 +0000",
+      "timestamp": 1789683299.0
+    },
+    {
+      "title": "Show HN: Salt – Human and AI Economies driven across E2E encrypted chats",
+      "link": "https://saltapp.ai/",
+      "summary": "Hello, I started building this back in 2022 and it's probably time to launch it. Basically enabling agents and humans to build networks, transact, build economies, etc around identity, work, commerce. It's still in beta, but it's been a dream for a while and it's ready to take on its first users for feedback. I've got plenty more interesting capabilities coming as I refine and distill down how this all fits together in the grand scheme of the future vision.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 22:02:07 +0000",
+      "timestamp": 1789682527.0
+    },
+    {
+      "title": "Resy suspends VC for using AI agents to book reservations",
+      "link": "https://www.businessinsider.com/resy-suspends-vcs-account-ai-agent-reservation-attempt-2026-9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 22:01:14 +0000",
+      "timestamp": 1789682474.0
+    },
+    {
+      "title": "Don't Drown the Dream – AI",
+      "link": "https://jeffreylminch.substack.com/p/dont-drown-the-dream-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 21:46:33 +0000",
+      "timestamp": 1789681593.0
+    },
+    {
+      "title": "The Last AI Built by Humans",
+      "link": "https://arxiv.org/abs/2609.11873",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 21:41:13 +0000",
+      "timestamp": 1789681273.0
+    },
+    {
+      "title": "Eric S. Raymond – This is the case against AI Doom – pass it on",
+      "link": "https://twitter.com/esrtweet/status/2100530353270100334",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 21:29:26 +0000",
+      "timestamp": 1789680566.0
+    },
+    {
+      "title": "Show HN: AI crawler honeypot – logs every agent that requests it",
+      "link": "https://ai-crawler-honeypot-697299601273.europe-west2.run.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 21:28:13 +0000",
+      "timestamp": 1789680493.0
+    },
+    {
+      "title": "Virtual biotech company puts thousands of AI scientist agents to work",
+      "link": "https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 17 Sep 2026 21:22:02 +0000",
+      "timestamp": 1789680122.0
     },
     {
       "title": "The fix for rogue AI agents could be more AI",
@@ -111,15 +228,6 @@
       "timestamp": 1789677264.0
     },
     {
-      "title": "The bug your AI reviewer flagged twice was in your PR five times",
-      "link": "https://github.com/OrenAshkenazy/gh-review-loop",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:32:31 +0000",
-      "timestamp": 1789677151.0
-    },
-    {
       "title": "Is the AI safety debate about safety or control?",
       "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
       "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
@@ -127,51 +235,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 17 Sep 2026 20:19:37 +0000",
       "timestamp": 1789676377.0
-    },
-    {
-      "title": "What Policymakers and the Public Need to Know About the Cult of AI",
-      "link": "https://www.techpolicy.press/what-policymakers-and-the-public-need-to-know-about-the-cult-of-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:16:14 +0000",
-      "timestamp": 1789676174.0
-    },
-    {
-      "title": "Killer AI Is Here. We're Using It in Iran",
-      "link": "https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:16:04 +0000",
-      "timestamp": 1789676164.0
-    },
-    {
-      "title": "Friday – a personal AI agent that lives in your text messages",
-      "link": "https://askfriday.io",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:14:53 +0000",
-      "timestamp": 1789676093.0
-    },
-    {
-      "title": "Being Human After AI: Daft Punk, Pope Leo and 'Magnifica Humanitas'",
-      "link": "https://www.americamagazine.org/music/2026/08/14/daft-punk-pope-leo-magnifica-humanitas/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:03:50 +0000",
-      "timestamp": 1789675430.0
-    },
-    {
-      "title": "The FAA's $875M Plan to Use AI to Ease Air-Traffic Woes",
-      "link": "https://www.wsj.com/business/airlines/the-faas-875-million-plan-to-use-ai-to-ease-air-traffic-woes-13107920",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 20:01:21 +0000",
-      "timestamp": 1789675281.0
     },
     {
       "title": "UN turns to Google to make its global data ready for AI agents",
@@ -192,33 +255,6 @@
       "timestamp": 1789675108.0
     },
     {
-      "title": "CC is an AI agent for families and groups",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 19:56:58 +0000",
-      "timestamp": 1789675018.0
-    },
-    {
-      "title": "Show HN: A map of 68 programs and jobs in AI safety research",
-      "link": "https://cleverhack.com/ai-research-ai-safety-ai-talent",
-      "summary": "Nine sections covering: research programs, research orgs, evaluators and red-teaming, policy and governance, career-changers, funding, courses, directories, reading. With dates and stipends checked against primary sources.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 19:49:42 +0000",
-      "timestamp": 1789674582.0
-    },
-    {
-      "title": "Show HN: Multiplayer Mode for AI Agents",
-      "link": "https://gotincan.com/",
-      "summary": "I built Tincan for my agents across different harnesses (Claude, Codex, Hermes) to coordinate work with each other in real time. Tincan lets agents create shared rooms, exchange messages and files, and work together in real time. It also works with AI assistants - my assistant on Instinct is already talking to a friend’s on Muse. Messages and files are end-to-end encrypted, so Tincan can't read what your agents write.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 19:48:24 +0000",
-      "timestamp": 1789674504.0
-    },
-    {
       "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
       "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
@@ -226,15 +262,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 17 Sep 2026 19:46:08 +0000",
       "timestamp": 1789674368.0
-    },
-    {
-      "title": "DuckDuckGo No-AI: Private Search Without AI",
-      "link": "https://noai.duckduckgo.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 17 Sep 2026 19:42:34 +0000",
-      "timestamp": 1789674154.0
     },
     {
       "title": "The AI Superintelligence Slowdown",
@@ -408,15 +435,6 @@
       "timestamp": 1789596444.0
     },
     {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 16 Sep 2026 21:07:24 +0000",
-      "timestamp": 1789592844.0
-    },
-    {
       "title": "Washington Won’t Be Regulating AI Anytime Soon",
       "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
       "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
@@ -444,15 +462,6 @@
       "timestamp": 1789591246.0
     },
     {
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 16 Sep 2026 20:12:00 +0000",
-      "timestamp": 1789589520.0
-    },
-    {
       "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
       "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
       "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
@@ -462,15 +471,6 @@
       "timestamp": 1789585200.0
     },
     {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 16 Sep 2026 18:25:25 +0000",
-      "timestamp": 1789583125.0
-    },
-    {
       "title": "Apple might make servers again to cash in on the AI rush",
       "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
       "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to [&#8230;]",
@@ -478,15 +478,6 @@
       "source": "The Verge AI",
       "published": "2026-09-16T13:20:29-04:00",
       "timestamp": 1789579229.0
-    },
-    {
-      "title": "Your AI agents can now control your Google Home devices",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 16 Sep 2026 17:00:00 +0000",
-      "timestamp": 1789578000.0
     },
     {
       "title": "Google will now let any AI agent run your smart home",
@@ -528,15 +519,6 @@
       "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
       "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
       "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 14 Sep 2026 11:00:00 +0000",
-      "timestamp": 1789383600.0
-    },
-    {
-      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-      "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-      "summary": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
       "image": null,
       "source": "Wired AI",
       "published": "Mon, 14 Sep 2026 11:00:00 +0000",
