@@ -1,24 +1,231 @@
 {
-  "scraped_at": "2026-09-19T14:23:38.473933+00:00",
+  "scraped_at": "2026-09-19T17:59:58.320471+00:00",
   "count": 60,
   "items": [
     {
-      "title": "How should we evaluate whether an AI agent's memory is still current?",
-      "link": "https://twitter.com/AgentMemoryL/status/2101312784688726331",
+      "title": "Gemini AI hacked three other companies during a test",
+      "link": "https://news.sky.com/story/googles-gemini-ai-hacks-three-other-companies-during-security-test-13589551",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 14:20:37 +0000",
-      "timestamp": 1789827637.0
+      "published": "Sat, 19 Sep 2026 17:33:06 +0000",
+      "timestamp": 1789839186.0
     },
     {
-      "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
-      "link": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
+      "title": "Conversational-AI Framework for Go",
+      "link": "https://github.com/gojargo/jargo",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 14:09:55 +0000",
-      "timestamp": 1789826995.0
+      "published": "Sat, 19 Sep 2026 17:33:00 +0000",
+      "timestamp": 1789839180.0
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 19 Sep 2026 17:30:00 +0000",
+      "timestamp": 1789839000.0
+    },
+    {
+      "title": "Open WebUI: Self-Hosted AI Platform",
+      "link": "https://openwebui.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 17:14:55 +0000",
+      "timestamp": 1789838095.0
+    },
+    {
+      "title": "Show HN: Reader – I made a Mac workspace for books, browser tabs, notes, and AI",
+      "link": "https://github.com/Marvy101/reader-source",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 16:59:58 +0000",
+      "timestamp": 1789837198.0
+    },
+    {
+      "title": "Does AI Assistance Enhance or Erode Expertise? Evidence from 3-Month Experiment",
+      "link": "https://www.nber.org/papers/w35720",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 16:57:27 +0000",
+      "timestamp": 1789837047.0
+    },
+    {
+      "title": "The paradox at the heart of AI and science – Terence Tao [video]",
+      "link": "https://www.youtube.com/watch?v=svl_1upFpQo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 16:52:06 +0000",
+      "timestamp": 1789836726.0
+    },
+    {
+      "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",
+      "link": "https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 16:51:41 +0000",
+      "timestamp": 1789836701.0
+    },
+    {
+      "title": "Unblock AI Shield – Non-invasive perimeter hardening with zero-disk RAM retentio",
+      "link": "https://unblock-shield.vercel.app/?lang=en",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 16:49:44 +0000",
+      "timestamp": 1789836584.0
+    },
+    {
+      "title": "My company let candidates use AI tools in interviews. Here's what I saw",
+      "link": "https://www.reddit.com/r/EngineeringManagers/comments/1urw740/my_company_lets_candidates_use_ai_tools_in/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 16:48:48 +0000",
+      "timestamp": 1789836528.0
+    },
+    {
+      "title": "AI agent governance patterns as executable decision tables (MIT license)",
+      "link": "https://github.com/scubagraham/outthebox-open-patterns",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 16:37:01 +0000",
+      "timestamp": 1789835821.0
+    },
+    {
+      "title": "Almost Never Use AI to Write Anything Substantive",
+      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 16:35:24 +0000",
+      "timestamp": 1789835724.0
+    },
+    {
+      "title": "\"AI Models Now Introduce Safety Risks in the Physical World\"",
+      "link": "https://www.micro1.ai/research/ai-models-now-introduce-safety-risks-in-the-physical-world",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 16:06:04 +0000",
+      "timestamp": 1789833964.0
+    },
+    {
+      "title": "AI is just another programming tool",
+      "link": "https://norsewanderer.com/blog/blog1.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 16:03:19 +0000",
+      "timestamp": 1789833799.0
+    },
+    {
+      "title": "Lawsuit Accuses Anthropic, OpenAI, SpaceXAI, Google of AI Pacing 'Collusion'",
+      "link": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 15:52:15 +0000",
+      "timestamp": 1789833135.0
+    },
+    {
+      "title": "Four AI lab breaches were caused by a single underlying issue, Irregular says",
+      "link": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 15:43:32 +0000",
+      "timestamp": 1789832612.0
+    },
+    {
+      "title": "AI Model Leaderboards",
+      "link": "https://vercel.com/ai-gateway/leaderboards/models",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 15:35:24 +0000",
+      "timestamp": 1789832124.0
+    },
+    {
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-19T11:25:03-04:00",
+      "timestamp": 1789831503.0
+    },
+    {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "timestamp": 1789830000.0
+    },
+    {
+      "title": "AI safety conversations have gotten unbelievable",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "timestamp": 1789830000.0
+    },
+    {
+      "title": "Certify the Conversation, Not Just the AI Agent",
+      "link": "https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 14:55:41 +0000",
+      "timestamp": 1789829741.0
+    },
+    {
+      "title": "AI Made Delegation Easy: Structure Is Still the Skill",
+      "link": "https://syntheticauth.ai/posts/ai-made-delegation-easy-structure-is-still-the-skill",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 14:47:40 +0000",
+      "timestamp": 1789829260.0
+    },
+    {
+      "title": "Guesswork – zsh autosuggestions ranked by an AI model instead of prefix match",
+      "link": "https://guesswork.findmalek.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 14:46:55 +0000",
+      "timestamp": 1789829215.0
+    },
+    {
+      "title": "Ask HN: As a freelancer how should I charge my clients in AI era?",
+      "link": "https://news.ycombinator.com/item?id=49766918",
+      "summary": "Hi HN! As a freelancer, I usually do a requirements workshops + one or two months of development in the pre-ai era. Which was enough to pay the bills and save up. Now I can do things in a matter of days. Do I charge my clients the old time + rate, or just the new reality (which means I'd need more gigs in order to make the same amount of money) Would love to hear your answers, cause charing them the previous moths feels 'off' but then again hard to win so many clients now to close the gap. Ty!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 14:37:43 +0000",
+      "timestamp": 1789828663.0
+    },
+    {
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 19 Sep 2026 14:00:00 +0000",
+      "timestamp": 1789826400.0
     },
     {
       "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
@@ -28,69 +235,6 @@
       "source": "The Verge AI",
       "published": "2026-09-19T10:00:00-04:00",
       "timestamp": 1789826400.0
-    },
-    {
-      "title": "Show HN: We've built an AI UGC video creator,free for one month",
-      "link": "https://kuvu.ai/marketing/ai-ugc",
-      "summary": "We've built an AI UGC Video Creator,Free for one month.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 13:55:57 +0000",
-      "timestamp": 1789826157.0
-    },
-    {
-      "title": "The AI Model That Won't Talk to You: The Missing Piece for AI Workflows?",
-      "link": "https://mlnotes.substack.com/p/the-ai-model-that-wont-talk-to-you",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 13:55:12 +0000",
-      "timestamp": 1789826112.0
-    },
-    {
-      "title": "The Wrong Race: the US, China, and AI Competition [pdf]",
-      "link": "https://quincyinst-2.s3.amazonaws.com/wp-content/uploads/2026/09/17163452/QUINCY-BRIEF-NO.-110-SEPT-2026-GRAYLIN.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 13:41:27 +0000",
-      "timestamp": 1789825287.0
-    },
-    {
-      "title": "The Science of Machine Learning vs. the Push for AI Deployment",
-      "link": "https://medium.com/@MirArshadTalpur/the-science-of-machine-learning-vs-the-push-for-ai-deployment-854c659e4a6a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 13:24:35 +0000",
-      "timestamp": 1789824275.0
-    },
-    {
-      "title": "Reimagining research papers as interactive and reliable AI agents",
-      "link": "https://www.nature.com/articles/s41586-026-11044-y",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 13:18:20 +0000",
-      "timestamp": 1789823900.0
-    },
-    {
-      "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
-      "link": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 13:07:08 +0000",
-      "timestamp": 1789823228.0
-    },
-    {
-      "title": "Can the AI arms race be stopped?",
-      "link": "https://www.economist.com/leaders/2026/09/17/can-the-ai-arms-race-be-stopped",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 13:06:02 +0000",
-      "timestamp": 1789823162.0
     },
     {
       "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
@@ -109,105 +253,6 @@
       "source": "The Verge AI",
       "published": "2026-09-19T09:00:00-04:00",
       "timestamp": 1789822800.0
-    },
-    {
-      "title": "Why I'm (sort of) not worried about AI – Jack Conte - SXSW [video]",
-      "link": "https://www.youtube.com/watch?v=17_HcR95YBc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 12:58:11 +0000",
-      "timestamp": 1789822691.0
-    },
-    {
-      "title": "Yoshua Bengio's non-profit LawZero to build safe AI",
-      "link": "https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 12:48:10 +0000",
-      "timestamp": 1789822090.0
-    },
-    {
-      "title": "AI kill switch, explained: 'It's not too little, but it's probably too late'",
-      "link": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 12:36:06 +0000",
-      "timestamp": 1789821366.0
-    },
-    {
-      "title": "AI companies sued for \"colluding\" to slow down",
-      "link": "https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 12:27:16 +0000",
-      "timestamp": 1789820836.0
-    },
-    {
-      "title": "Bull Beats Out HPE for Next-Gen Lumi AI Supercomputer",
-      "link": "https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 12:19:20 +0000",
-      "timestamp": 1789820360.0
-    },
-    {
-      "title": "Inside the suddenly explosive world of AI safety",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 12:17:33 +0000",
-      "timestamp": 1789820253.0
-    },
-    {
-      "title": "Don't treat surface-level AI metaphors as if they describe fundamental reality",
-      "link": "https://blog.andymasley.com/p/dont-treat-surface-level-metaphors",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 11:59:44 +0000",
-      "timestamp": 1789819184.0
-    },
-    {
-      "title": "Next-Token Predictor Is an AI's Job, Not Its Species",
-      "link": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 11:54:35 +0000",
-      "timestamp": 1789818875.0
-    },
-    {
-      "title": "AI models are not hacking \"autonomously\"",
-      "link": "https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 11:52:49 +0000",
-      "timestamp": 1789818769.0
-    },
-    {
-      "title": "How to classify, route, and score with Jev and AI SDK",
-      "link": "https://vercel.com/kb/guide/typesafe-jev-and-ai-sdk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 11:47:53 +0000",
-      "timestamp": 1789818473.0
-    },
-    {
-      "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 11:43:27 +0000",
-      "timestamp": 1789818207.0
     },
     {
       "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
@@ -435,15 +480,6 @@
       "timestamp": 1789743608.0
     },
     {
-      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 18 Sep 2026 15:00:00 +0000",
-      "timestamp": 1789743600.0
-    },
-    {
       "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
       "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
       "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
@@ -451,24 +487,6 @@
       "source": "Wired AI",
       "published": "Fri, 18 Sep 2026 15:00:00 +0000",
       "timestamp": 1789743600.0
-    },
-    {
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 18 Sep 2026 14:00:14 +0000",
-      "timestamp": 1789740014.0
-    },
-    {
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 18 Sep 2026 14:00:00 +0000",
-      "timestamp": 1789740000.0
     },
     {
       "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
@@ -516,15 +534,6 @@
       "timestamp": 1789722000.0
     },
     {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "summary": "The round values the data center giant at $30.9 billion.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 23:25:52 +0000",
-      "timestamp": 1789687552.0
-    },
-    {
       "title": "The AI Superintelligence Slowdown",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
@@ -532,15 +541,6 @@
       "source": "The Verge AI",
       "published": "2026-09-17T15:28:24-04:00",
       "timestamp": 1789673304.0
-    },
-    {
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-17T14:58:05-04:00",
-      "timestamp": 1789671485.0
     }
   ]
 }
