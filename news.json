@@ -1,78 +1,24 @@
 {
-  "scraped_at": "2026-09-19T05:51:24.702713+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-19T10:55:46.640308+00:00",
+  "count": 40,
   "items": [
     {
-      "title": "The Evidence for AI Consciousness, Today (2025)",
-      "link": "https://newsletter.ai-frontiers.org/p/the-evidence-for-ai-consciousness",
-      "summary": "",
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 05:13:18 +0000",
-      "timestamp": 1789794798.0
+      "source": "Wired AI",
+      "published": "Sat, 19 Sep 2026 10:00:00 +0000",
+      "timestamp": 1789812000.0
     },
     {
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "summary": "",
+      "title": "Join the WIRED World Fair in Miami on November 4",
+      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 04:44:35 +0000",
-      "timestamp": 1789793075.0
-    },
-    {
-      "title": "Google AI Studio 'Delete' is a scam: Your prompts are not deleted, just hidden",
-      "link": "https://medium.com/@istokovicsgyorgy79/your-prompts-are-not-deleted-they-are-just-hidden-e0016bd43eaf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 04:11:58 +0000",
-      "timestamp": 1789791118.0
-    },
-    {
-      "title": "AI Regulation and the China Question",
-      "link": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 03:15:41 +0000",
-      "timestamp": 1789787741.0
-    },
-    {
-      "title": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
-      "link": "https://github.com/JOxKxER/garza-global-graviton",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 03:09:11 +0000",
-      "timestamp": 1789787351.0
-    },
-    {
-      "title": "Kev – A Jev-Compatible API on top of DiffusionGemma running on Workers AI",
-      "link": "https://kev.workers-ai-mle.workers.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 01:52:40 +0000",
-      "timestamp": 1789782760.0
-    },
-    {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "link": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 01:40:35 +0000",
-      "timestamp": 1789782035.0
-    },
-    {
-      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-      "link": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 01:24:13 +0000",
-      "timestamp": 1789781053.0
+      "source": "Wired AI",
+      "published": "Sat, 19 Sep 2026 09:00:00 +0000",
+      "timestamp": 1789808400.0
     },
     {
       "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -84,15 +30,6 @@
       "timestamp": 1789779600.0
     },
     {
-      "title": "Radar: An Expert-Level Generalist AI for Abdominal CT Diagnosis",
-      "link": "https://github.com/alibaba-damo-academy/damo-radar",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 00:16:12 +0000",
-      "timestamp": 1789776972.0
-    },
-    {
       "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
       "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
       "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
@@ -102,60 +39,6 @@
       "timestamp": 1789776727.0
     },
     {
-      "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
-      "link": "https://www.nature.com/articles/d41586-026-02922-6",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 00:07:08 +0000",
-      "timestamp": 1789776428.0
-    },
-    {
-      "title": "AI insiders issue new warnings – including former Anthropic engineer Jacob Coxon",
-      "link": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 00:01:59 +0000",
-      "timestamp": 1789776119.0
-    },
-    {
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 23:54:42 +0000",
-      "timestamp": 1789775682.0
-    },
-    {
-      "title": "TypeSafe AI's Jev Is Not an LLM – and That May Be the Point",
-      "link": "https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 23:40:15 +0000",
-      "timestamp": 1789774815.0
-    },
-    {
-      "title": "AI-based learning is a joke",
-      "link": "https://qlain.online/blog/ai-based-learning.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 23:39:26 +0000",
-      "timestamp": 1789774766.0
-    },
-    {
-      "title": "The Other Way AI Impairs Our Thinking",
-      "link": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 23:30:54 +0000",
-      "timestamp": 1789774254.0
-    },
-    {
       "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
@@ -163,33 +46,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 18 Sep 2026 23:25:01 +0000",
       "timestamp": 1789773901.0
-    },
-    {
-      "title": "US gov website used AI search tool from China that FBI said copied Anthropic",
-      "link": "https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 23:22:05 +0000",
-      "timestamp": 1789773725.0
-    },
-    {
-      "title": "Compsci grads facing recession-like job prospects thanks to AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 23:15:02 +0000",
-      "timestamp": 1789773302.0
-    },
-    {
-      "title": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
-      "link": "https://agentgit.co/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 23:14:58 +0000",
-      "timestamp": 1789773298.0
     },
     {
       "title": "Anthropic is operating a lab that conducts biology experiments",
@@ -208,15 +64,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 18 Sep 2026 23:12:32 +0000",
       "timestamp": 1789773152.0
-    },
-    {
-      "title": "How Google is drafting AI chatbot laws around the country",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 23:07:54 +0000",
-      "timestamp": 1789772874.0
     },
     {
       "title": "Anthropic’s first embedded evaluator is … Accenture?",
@@ -480,15 +327,6 @@
       "timestamp": 1789683621.0
     },
     {
-      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
-      "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
-      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 17 Sep 2026 19:58:28 +0000",
-      "timestamp": 1789675108.0
-    },
-    {
       "title": "The AI Superintelligence Slowdown",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
@@ -505,15 +343,6 @@
       "source": "The Verge AI",
       "published": "2026-09-17T14:58:05-04:00",
       "timestamp": 1789671485.0
-    },
-    {
-      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 17 Sep 2026 18:42:25 +0000",
-      "timestamp": 1789670545.0
     },
     {
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
