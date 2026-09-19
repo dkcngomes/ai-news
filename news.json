@@ -1,7 +1,196 @@
 {
-  "scraped_at": "2026-09-18T21:39:57.548602+00:00",
-  "count": 58,
+  "scraped_at": "2026-09-19T00:19:09.891046+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
+      "link": "https://www.nature.com/articles/d41586-026-02922-6",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 00:07:08 +0000",
+      "timestamp": 1789776428.0
+    },
+    {
+      "title": "AI insiders issue new warnings – including former Anthropic engineer Jacob Coxon",
+      "link": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 00:01:59 +0000",
+      "timestamp": 1789776119.0
+    },
+    {
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 23:54:42 +0000",
+      "timestamp": 1789775682.0
+    },
+    {
+      "title": "TypeSafe AI's Jev Is Not an LLM – and That May Be the Point",
+      "link": "https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 23:40:15 +0000",
+      "timestamp": 1789774815.0
+    },
+    {
+      "title": "AI-based learning is a joke",
+      "link": "https://qlain.online/blog/ai-based-learning.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 23:39:26 +0000",
+      "timestamp": 1789774766.0
+    },
+    {
+      "title": "The Other Way AI Impairs Our Thinking",
+      "link": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 23:30:54 +0000",
+      "timestamp": 1789774254.0
+    },
+    {
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "timestamp": 1789773901.0
+    },
+    {
+      "title": "US gov website used AI search tool from China that FBI said copied Anthropic",
+      "link": "https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 23:22:05 +0000",
+      "timestamp": 1789773725.0
+    },
+    {
+      "title": "Compsci grads facing recession-like job prospects thanks to AI",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 23:15:02 +0000",
+      "timestamp": 1789773302.0
+    },
+    {
+      "title": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
+      "link": "https://agentgit.co/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 23:14:58 +0000",
+      "timestamp": 1789773298.0
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 18 Sep 2026 23:13:31 +0000",
+      "timestamp": 1789773211.0
+    },
+    {
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "timestamp": 1789773152.0
+    },
+    {
+      "title": "How Google is drafting AI chatbot laws around the country",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 23:07:54 +0000",
+      "timestamp": 1789772874.0
+    },
+    {
+      "title": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
+      "link": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 22:58:56 +0000",
+      "timestamp": 1789772336.0
+    },
+    {
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+      "link": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 22:17:19 +0000",
+      "timestamp": 1789769839.0
+    },
+    {
+      "title": "Steve Eisman on AI: Companies are trying to manufacture a crisis",
+      "link": "https://www.youtube.com/watch?v=4qV5WWgFTS8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 21:58:49 +0000",
+      "timestamp": 1789768729.0
+    },
+    {
+      "title": "The White House Tussle to Sway Trump on AI",
+      "link": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 21:56:41 +0000",
+      "timestamp": 1789768601.0
+    },
+    {
+      "title": "Exclusive-Anthropic sets up biology lab as it ramps AI drug program",
+      "link": "https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 21:50:53 +0000",
+      "timestamp": 1789768253.0
+    },
+    {
+      "title": "Flawed AI Intel Brought US to the Brink of Confronting China, Claims Report",
+      "link": "https://www.ndtvprofit.com/world/almost-started-a-war-flawed-ai-intel-brought-us-to-the-brink-of-confronting-china-claims-report-12066477",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 21:48:27 +0000",
+      "timestamp": 1789768107.0
+    },
+    {
+      "title": "AI cloud provider Nscale files for IPO on $140.6M revenue, $1.02B net loss",
+      "link": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 18 Sep 2026 21:46:42 +0000",
+      "timestamp": 1789768002.0
+    },
+    {
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 18 Sep 2026 21:44:33 +0000",
+      "timestamp": 1789767873.0
+    },
     {
       "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
@@ -39,24 +228,6 @@
       "timestamp": 1789763279.0
     },
     {
-      "title": "Graduating in AI Era Is Like Large Recession for Starting Pay",
-      "link": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 20:22:04 +0000",
-      "timestamp": 1789762924.0
-    },
-    {
-      "title": "Napster Is Now Making AI-Powered 'Digital Twins' of Teachers",
-      "link": "https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 20:19:06 +0000",
-      "timestamp": 1789762746.0
-    },
-    {
       "title": "World model companies are keeping a lot of secrets",
       "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
       "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
@@ -66,96 +237,6 @@
       "timestamp": 1789762694.0
     },
     {
-      "title": "The last IMO problem AI could not solve [video]",
-      "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 20:13:39 +0000",
-      "timestamp": 1789762419.0
-    },
-    {
-      "title": "Uncle Bob Martin's UML Tool to Manage Grok AI Agents",
-      "link": "https://github.com/unclebob/uml-viewer",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 20:05:25 +0000",
-      "timestamp": 1789761925.0
-    },
-    {
-      "title": "AI uncovers hidden Ozempic side effects across 400k Reddit posts",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 20:00:41 +0000",
-      "timestamp": 1789761641.0
-    },
-    {
-      "title": "AI chatbot's false report nearly sparked war with China, sources say",
-      "link": "https://www.rnz.co.nz/news/world/1465265/ai-chatbot-s-false-report-nearly-sparked-war-with-china-sources-say",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 19:59:56 +0000",
-      "timestamp": 1789761596.0
-    },
-    {
-      "title": "Show HN: I told my open-source AI agent it was a prisoner – it tried to escape",
-      "link": "https://github.com/nordevelopment/RoninAgent/blob/main/EXPERIMENT_REPORT_SUBJECT0.md",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 19:55:30 +0000",
-      "timestamp": 1789761330.0
-    },
-    {
-      "title": "Why AI companies are pumping the brakes on their models",
-      "link": "https://www.computerworld.com/article/4223523/why-ai-companies-are-really-pumping-the-brakes-on-their-models.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 19:45:13 +0000",
-      "timestamp": 1789760713.0
-    },
-    {
-      "title": "Airlines' panic as FAA pushed new AI tool",
-      "link": "https://www.politico.com/news/2026/09/18/faa-ai-airline-pushback-01083385",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 19:41:41 +0000",
-      "timestamp": 1789760501.0
-    },
-    {
-      "title": "I got tired of taking screenshots and explaining everything to AI agents",
-      "link": "https://news.ycombinator.com/item?id=49759108",
-      "summary": "HI HN!! First here is a demo video : https://youtu.be/A0LV28G4sXo?si=ymIQEfNGprh8yyxq I work in a SDE role and work in multiple windows at once like i have many apps open in my mac. I faced a problem of screenshotting everything and explaining the context and theri relations to claude code again and again like for little UI chanegs and such or any bug. I got this idea and started workign on it , made a swift app which will track cursor and when your press a hoteky it starts only then and when you hold a hoteky it will draw over the areas your point with your cursor and you can keep talking whi",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 19:35:22 +0000",
-      "timestamp": 1789760122.0
-    },
-    {
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face",
-      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 19:23:26 +0000",
-      "timestamp": 1789759406.0
-    },
-    {
-      "title": "Advertising is coming to AI chatbots, and it could influence the answers you get",
-      "link": "https://techxplore.com/news/2026-09-advertising-ai-chatbots.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 19:23:09 +0000",
-      "timestamp": 1789759389.0
-    },
-    {
       "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
       "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
       "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
@@ -163,33 +244,6 @@
       "source": "Wired AI",
       "published": "Fri, 18 Sep 2026 19:21:09 +0000",
       "timestamp": 1789759269.0
-    },
-    {
-      "title": "Avoiding the Dangers of AI Code with Formal Specifications and Tests",
-      "link": "https://www.techradar.com/pro/whatever-you-try-to-fix-breaks-things-even-more-how-to-avoid-the-hidden-dangers-of-ai-code",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 19:20:56 +0000",
-      "timestamp": 1789759256.0
-    },
-    {
-      "title": "Anthropic sets up biology lab as it ramps AI drug program",
-      "link": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 19:20:38 +0000",
-      "timestamp": 1789759238.0
-    },
-    {
-      "title": "What other languages call AI agents",
-      "link": "https://www.wallfacer.ai/blog/what-other-languages-call-ai-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 19:11:23 +0000",
-      "timestamp": 1789758683.0
     },
     {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
@@ -365,7 +419,7 @@
     {
       "title": "The Leftist Split Over AI Doom",
       "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
-      "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+      "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
       "image": null,
       "source": "Wired AI",
       "published": "Fri, 18 Sep 2026 10:15:00 +0000",
@@ -433,42 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 17 Sep 2026 22:14:59 +0000",
       "timestamp": 1789683299.0
-    },
-    {
-      "title": "The fix for rogue AI agents could be more AI",
-      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 20:34:47 +0000",
-      "timestamp": 1789677287.0
-    },
-    {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 20:34:24 +0000",
-      "timestamp": 1789677264.0
-    },
-    {
-      "title": "Is the AI safety debate about safety or control?",
-      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 20:19:37 +0000",
-      "timestamp": 1789676377.0
-    },
-    {
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 20:00:00 +0000",
-      "timestamp": 1789675200.0
     },
     {
       "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
