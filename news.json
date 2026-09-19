@@ -1,7 +1,223 @@
 {
-  "scraped_at": "2026-09-19T10:55:46.640308+00:00",
-  "count": 40,
+  "scraped_at": "2026-09-19T14:23:38.473933+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "How should we evaluate whether an AI agent's memory is still current?",
+      "link": "https://twitter.com/AgentMemoryL/status/2101312784688726331",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 14:20:37 +0000",
+      "timestamp": 1789827637.0
+    },
+    {
+      "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
+      "link": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 14:09:55 +0000",
+      "timestamp": 1789826995.0
+    },
+    {
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-19T10:00:00-04:00",
+      "timestamp": 1789826400.0
+    },
+    {
+      "title": "Show HN: We've built an AI UGC video creator,free for one month",
+      "link": "https://kuvu.ai/marketing/ai-ugc",
+      "summary": "We've built an AI UGC Video Creator,Free for one month.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 13:55:57 +0000",
+      "timestamp": 1789826157.0
+    },
+    {
+      "title": "The AI Model That Won't Talk to You: The Missing Piece for AI Workflows?",
+      "link": "https://mlnotes.substack.com/p/the-ai-model-that-wont-talk-to-you",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 13:55:12 +0000",
+      "timestamp": 1789826112.0
+    },
+    {
+      "title": "The Wrong Race: the US, China, and AI Competition [pdf]",
+      "link": "https://quincyinst-2.s3.amazonaws.com/wp-content/uploads/2026/09/17163452/QUINCY-BRIEF-NO.-110-SEPT-2026-GRAYLIN.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 13:41:27 +0000",
+      "timestamp": 1789825287.0
+    },
+    {
+      "title": "The Science of Machine Learning vs. the Push for AI Deployment",
+      "link": "https://medium.com/@MirArshadTalpur/the-science-of-machine-learning-vs-the-push-for-ai-deployment-854c659e4a6a",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 13:24:35 +0000",
+      "timestamp": 1789824275.0
+    },
+    {
+      "title": "Reimagining research papers as interactive and reliable AI agents",
+      "link": "https://www.nature.com/articles/s41586-026-11044-y",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 13:18:20 +0000",
+      "timestamp": 1789823900.0
+    },
+    {
+      "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
+      "link": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 13:07:08 +0000",
+      "timestamp": 1789823228.0
+    },
+    {
+      "title": "Can the AI arms race be stopped?",
+      "link": "https://www.economist.com/leaders/2026/09/17/can-the-ai-arms-race-be-stopped",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 13:06:02 +0000",
+      "timestamp": 1789823162.0
+    },
+    {
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "timestamp": 1789822800.0
+    },
+    {
+      "title": "The AI regulation smackdown isn’t over",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-19T09:00:00-04:00",
+      "timestamp": 1789822800.0
+    },
+    {
+      "title": "Why I'm (sort of) not worried about AI – Jack Conte - SXSW [video]",
+      "link": "https://www.youtube.com/watch?v=17_HcR95YBc",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 12:58:11 +0000",
+      "timestamp": 1789822691.0
+    },
+    {
+      "title": "Yoshua Bengio's non-profit LawZero to build safe AI",
+      "link": "https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 12:48:10 +0000",
+      "timestamp": 1789822090.0
+    },
+    {
+      "title": "AI kill switch, explained: 'It's not too little, but it's probably too late'",
+      "link": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 12:36:06 +0000",
+      "timestamp": 1789821366.0
+    },
+    {
+      "title": "AI companies sued for \"colluding\" to slow down",
+      "link": "https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 12:27:16 +0000",
+      "timestamp": 1789820836.0
+    },
+    {
+      "title": "Bull Beats Out HPE for Next-Gen Lumi AI Supercomputer",
+      "link": "https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 12:19:20 +0000",
+      "timestamp": 1789820360.0
+    },
+    {
+      "title": "Inside the suddenly explosive world of AI safety",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 12:17:33 +0000",
+      "timestamp": 1789820253.0
+    },
+    {
+      "title": "Don't treat surface-level AI metaphors as if they describe fundamental reality",
+      "link": "https://blog.andymasley.com/p/dont-treat-surface-level-metaphors",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 11:59:44 +0000",
+      "timestamp": 1789819184.0
+    },
+    {
+      "title": "Next-Token Predictor Is an AI's Job, Not Its Species",
+      "link": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 11:54:35 +0000",
+      "timestamp": 1789818875.0
+    },
+    {
+      "title": "AI models are not hacking \"autonomously\"",
+      "link": "https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 11:52:49 +0000",
+      "timestamp": 1789818769.0
+    },
+    {
+      "title": "How to classify, route, and score with Jev and AI SDK",
+      "link": "https://vercel.com/kb/guide/typesafe-jev-and-ai-sdk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 11:47:53 +0000",
+      "timestamp": 1789818473.0
+    },
+    {
+      "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 11:43:27 +0000",
+      "timestamp": 1789818207.0
+    },
+    {
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sat, 19 Sep 2026 11:00:00 +0000",
+      "timestamp": 1789815600.0
+    },
     {
       "title": "Mathematicians Hate AI. They Can’t Quit It",
       "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
@@ -309,24 +525,6 @@
       "timestamp": 1789687552.0
     },
     {
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 23:21:17 +0000",
-      "timestamp": 1789687277.0
-    },
-    {
-      "title": "Here’s What the AI Apocalypse Could Look Like",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 17 Sep 2026 22:20:21 +0000",
-      "timestamp": 1789683621.0
-    },
-    {
       "title": "The AI Superintelligence Slowdown",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
@@ -343,24 +541,6 @@
       "source": "The Verge AI",
       "published": "2026-09-17T14:58:05-04:00",
       "timestamp": 1789671485.0
-    },
-    {
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.&#160; It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-17T10:00:00-04:00",
-      "timestamp": 1789653600.0
-    },
-    {
-      "title": "AI is feared globally as the destroyer of jobs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority sees AI as a threat [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-17T10:00:00-04:00",
-      "timestamp": 1789653600.0
     }
   ]
 }
