@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-09-19T00:19:09.891046+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-19T05:51:24.702713+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "The Evidence for AI Consciousness, Today (2025)",
+      "link": "https://newsletter.ai-frontiers.org/p/the-evidence-for-ai-consciousness",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 05:13:18 +0000",
+      "timestamp": 1789794798.0
+    },
+    {
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 04:44:35 +0000",
+      "timestamp": 1789793075.0
+    },
+    {
+      "title": "Google AI Studio 'Delete' is a scam: Your prompts are not deleted, just hidden",
+      "link": "https://medium.com/@istokovicsgyorgy79/your-prompts-are-not-deleted-they-are-just-hidden-e0016bd43eaf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 04:11:58 +0000",
+      "timestamp": 1789791118.0
+    },
+    {
+      "title": "AI Regulation and the China Question",
+      "link": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 03:15:41 +0000",
+      "timestamp": 1789787741.0
+    },
+    {
+      "title": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
+      "link": "https://github.com/JOxKxER/garza-global-graviton",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 03:09:11 +0000",
+      "timestamp": 1789787351.0
+    },
+    {
+      "title": "Kev – A Jev-Compatible API on top of DiffusionGemma running on Workers AI",
+      "link": "https://kev.workers-ai-mle.workers.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 01:52:40 +0000",
+      "timestamp": 1789782760.0
+    },
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "link": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 01:40:35 +0000",
+      "timestamp": 1789782035.0
+    },
+    {
+      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+      "link": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 01:24:13 +0000",
+      "timestamp": 1789781053.0
+    },
+    {
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 19 Sep 2026 01:00:00 +0000",
+      "timestamp": 1789779600.0
+    },
+    {
+      "title": "Radar: An Expert-Level Generalist AI for Abdominal CT Diagnosis",
+      "link": "https://github.com/alibaba-damo-academy/damo-radar",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 19 Sep 2026 00:16:12 +0000",
+      "timestamp": 1789776972.0
+    },
+    {
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 19 Sep 2026 00:12:07 +0000",
+      "timestamp": 1789776727.0
+    },
     {
       "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
       "link": "https://www.nature.com/articles/d41586-026-02922-6",
@@ -57,7 +156,7 @@
       "timestamp": 1789774254.0
     },
     {
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "image": null,
@@ -120,69 +219,6 @@
       "timestamp": 1789772874.0
     },
     {
-      "title": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
-      "link": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 22:58:56 +0000",
-      "timestamp": 1789772336.0
-    },
-    {
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-      "link": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 22:17:19 +0000",
-      "timestamp": 1789769839.0
-    },
-    {
-      "title": "Steve Eisman on AI: Companies are trying to manufacture a crisis",
-      "link": "https://www.youtube.com/watch?v=4qV5WWgFTS8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 21:58:49 +0000",
-      "timestamp": 1789768729.0
-    },
-    {
-      "title": "The White House Tussle to Sway Trump on AI",
-      "link": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 21:56:41 +0000",
-      "timestamp": 1789768601.0
-    },
-    {
-      "title": "Exclusive-Anthropic sets up biology lab as it ramps AI drug program",
-      "link": "https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 21:50:53 +0000",
-      "timestamp": 1789768253.0
-    },
-    {
-      "title": "Flawed AI Intel Brought US to the Brink of Confronting China, Claims Report",
-      "link": "https://www.ndtvprofit.com/world/almost-started-a-war-flawed-ai-intel-brought-us-to-the-brink-of-confronting-china-claims-report-12066477",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 21:48:27 +0000",
-      "timestamp": 1789768107.0
-    },
-    {
-      "title": "AI cloud provider Nscale files for IPO on $140.6M revenue, $1.02B net loss",
-      "link": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 21:46:42 +0000",
-      "timestamp": 1789768002.0
-    },
-    {
       "title": "Anthropic’s first embedded evaluator is … Accenture?",
       "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
       "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
@@ -199,33 +235,6 @@
       "source": "The Verge AI",
       "published": "2026-09-18T17:07:24-04:00",
       "timestamp": 1789765644.0
-    },
-    {
-      "title": "Your 401(k) Is Propping Up the AI Bubble",
-      "link": "https://www.promarket.org/2026/05/05/your-401k-is-propping-up-the-ai-bubble/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 21:00:23 +0000",
-      "timestamp": 1789765223.0
-    },
-    {
-      "title": "California governor signs order to explore AI kill switch",
-      "link": "https://techxplore.com/news/2026-09-california-governor-explore-ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 20:34:16 +0000",
-      "timestamp": 1789763656.0
-    },
-    {
-      "title": "AI Error Nearly Triggered U.S. Intercept of Chinese Ship",
-      "link": "https://gcaptain.com/ai-error-nearly-triggered-u-s-intercept-of-chinese-ship-cnn-reports/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 18 Sep 2026 20:27:59 +0000",
-      "timestamp": 1789763279.0
     },
     {
       "title": "World model companies are keeping a lot of secrets",
@@ -462,15 +471,6 @@
       "timestamp": 1789687277.0
     },
     {
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 22:34:09 +0000",
-      "timestamp": 1789684449.0
-    },
-    {
       "title": "Here’s What the AI Apocalypse Could Look Like",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
       "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
@@ -478,15 +478,6 @@
       "source": "Wired AI",
       "published": "Thu, 17 Sep 2026 22:20:21 +0000",
       "timestamp": 1789683621.0
-    },
-    {
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 17 Sep 2026 22:14:59 +0000",
-      "timestamp": 1789683299.0
     },
     {
       "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
