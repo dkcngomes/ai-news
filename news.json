@@ -1,168 +1,186 @@
 {
-  "scraped_at": "2026-09-20T01:06:28.470133+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-20T06:13:41.568786+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "AI investment, govt borrowing drive global cost of capital higher: Goldman Sachs",
-      "link": "https://www.tribuneindia.com/news/business/ai-investment-government-borrowing-drive-global-cost-of-capital-higher-goldman-sachs/",
+      "title": "AI art is theft – on artists, mathematicians impact on AI",
+      "link": "https://twitter.com/wordgrammer/status/2101429761528455669",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 20 Sep 2026 00:53:02 +0000",
-      "timestamp": 1789865582.0
+      "published": "Sun, 20 Sep 2026 05:50:44 +0000",
+      "timestamp": 1789883444.0
     },
     {
-      "title": "Ten days that changed the course of AI",
-      "link": "https://www.reuters.com/business/media-telecom/ten-days-that-changed-course-ai-2026-09-19/",
+      "title": "Phylo brings frontier AI to more scientists with open models on Fireworks",
+      "link": "https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 20 Sep 2026 00:46:54 +0000",
-      "timestamp": 1789865214.0
+      "published": "Sun, 20 Sep 2026 05:38:09 +0000",
+      "timestamp": 1789882689.0
     },
     {
-      "title": "AI Changed How Spotify Builds. What We Learned About Quality at Higher Velocity",
-      "link": "https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity",
+      "title": "VoltGrid AI: Mitigating GPU cluster dI/dt power surges in software",
+      "link": "https://zenodo.org/records/22824778",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 20 Sep 2026 00:33:35 +0000",
-      "timestamp": 1789864415.0
+      "published": "Sun, 20 Sep 2026 05:32:16 +0000",
+      "timestamp": 1789882336.0
     },
     {
-      "title": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
-      "link": "https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688",
+      "title": "A Man Who Named AI: John McCarthy and the End of the Code–Data Divide",
+      "link": "https://nirmalutwani.substack.com/p/week-06-john-mccarthy-the-man-who",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 23:53:07 +0000",
-      "timestamp": 1789861987.0
+      "published": "Sun, 20 Sep 2026 05:30:43 +0000",
+      "timestamp": 1789882243.0
     },
     {
-      "title": "Show HN: I created an open source locally usable full fledged AI platform",
-      "link": "https://github.com/theguysudo/ENZO",
-      "summary": "hi to all the readers this post is for my recent opensource project called ENZO now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding researching and much more now answering the most common question of why you should put your time looking the project so it has few distinct feature meaning it has a dedicated agents tab where you can describe your need and create a special agent just for one specific task with master ability in that domain second it has ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 23:47:35 +0000",
-      "timestamp": 1789861655.0
-    },
-    {
-      "title": "What might an AI doomsday look like? Experts have given it some thought",
-      "link": "https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950",
+      "title": "Anthropic creates AI powered wetlab",
+      "link": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 23:47:06 +0000",
-      "timestamp": 1789861626.0
+      "published": "Sun, 20 Sep 2026 04:57:57 +0000",
+      "timestamp": 1789880277.0
     },
     {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "link": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
+      "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
+      "link": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 23:44:09 +0000",
-      "timestamp": 1789861449.0
+      "published": "Sun, 20 Sep 2026 04:39:12 +0000",
+      "timestamp": 1789879152.0
     },
     {
-      "title": "AI for Bio Doesn't Need More Data",
-      "link": "https://amplesa.substack.com/p/ai-for-bio-doesnt-need-more-data",
+      "title": "Adapting Fossil-scm as a platform for AI agentic workflow",
+      "link": "https://github.com/BenSiv/fossil-scm",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 23:38:13 +0000",
-      "timestamp": 1789861093.0
+      "published": "Sun, 20 Sep 2026 04:17:59 +0000",
+      "timestamp": 1789877879.0
     },
     {
-      "title": "Can you tell which images are AI-generated?",
-      "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "title": "Show HN: Architectural Guardrails for AI native development",
+      "link": "https://github.com/cxgrd/cli",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 23:02:34 +0000",
-      "timestamp": 1789858954.0
+      "published": "Sun, 20 Sep 2026 04:17:49 +0000",
+      "timestamp": 1789877869.0
     },
     {
-      "title": "AI in schools – The choice we keep making",
-      "link": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
+      "title": "Integrating Volt Active Data with AI Agents and Chatbots",
+      "link": "https://docs.voltdb.com/UsingVoltDB/ChapAI.php",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 22:55:39 +0000",
-      "timestamp": 1789858539.0
+      "published": "Sun, 20 Sep 2026 04:07:46 +0000",
+      "timestamp": 1789877266.0
     },
     {
-      "title": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says",
+      "title": "OpenAI researcher on AI communicating across air-gaps via thermal side-channels [video]",
+      "link": "https://www.youtube.com/watch?v=6AgOfiZOWiY",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 22:36:13 +0000",
-      "timestamp": 1789857373.0
+      "published": "Sun, 20 Sep 2026 04:06:24 +0000",
+      "timestamp": 1789877184.0
     },
     {
-      "title": "An old systems problem with a new AI twist: data movement",
-      "link": "https://twitter.com/nk_developer1/status/2101028456083677524",
+      "title": "Another terminal/shell AI assistant (shell native)",
+      "link": "https://github.com/TheR1D/aty",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 22:35:12 +0000",
-      "timestamp": 1789857312.0
+      "published": "Sun, 20 Sep 2026 03:55:19 +0000",
+      "timestamp": 1789876519.0
     },
     {
-      "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-      "link": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+      "title": "Nscale S-1 demonstrates unprofitability of AI",
+      "link": "https://www.reddit.com/r/BetterOffline/comments/1wl3kkf/nscale_s1_demonstrates_unprofitability_of_ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 22:22:28 +0000",
-      "timestamp": 1789856548.0
+      "published": "Sun, 20 Sep 2026 03:49:33 +0000",
+      "timestamp": 1789876173.0
     },
     {
-      "title": "Regulate and Standardize AI? Nope",
-      "link": "https://www.tbray.org/ongoing/When/202x/2026/09/18/On-Regulating-AI",
+      "title": "China doesn't need to beat US AI [video]",
+      "link": "https://www.youtube.com/watch?v=sXA77wLF678",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 22:12:50 +0000",
-      "timestamp": 1789855970.0
+      "published": "Sun, 20 Sep 2026 03:13:41 +0000",
+      "timestamp": 1789874021.0
     },
     {
-      "title": "America Has the AI Lead. Beijing Wants It Slowed and D.C.Is Building a Chokehold",
-      "link": "https://floppingaces.net/most-wanted/america-built-the-worlds-ai-lead-now-beijing-wants-it-slowed-and-washington-is-building-the-chokepoint/",
+      "title": "The Ethics Issue of AI-Assisted Creation",
+      "link": "https://im.not.ci/ai-creator-ethic/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 21:59:13 +0000",
-      "timestamp": 1789855153.0
+      "published": "Sun, 20 Sep 2026 02:57:59 +0000",
+      "timestamp": 1789873079.0
     },
     {
-      "title": "A Call for Open Science in AI Safety",
-      "link": "https://make-safety-open.github.io/",
+      "title": "AI Bubble: 'They're coming to the end of this' – Eli the Computer Guy [video]",
+      "link": "https://www.youtube.com/watch?v=0YIczZDCgsM",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 21:56:00 +0000",
-      "timestamp": 1789854960.0
+      "published": "Sun, 20 Sep 2026 02:04:19 +0000",
+      "timestamp": 1789869859.0
     },
     {
-      "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
-      "link": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+      "title": "Why are AI leaders calling for a slow down? [audio]",
+      "link": "https://www.cbc.ca/listen/cbc-podcasts/209-front-burner/episode/16237327-why-are-ai-leaders-calling-for-a-slow-down",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 21:14:17 +0000",
-      "timestamp": 1789852457.0
+      "published": "Sun, 20 Sep 2026 01:52:18 +0000",
+      "timestamp": 1789869138.0
     },
     {
-      "title": "AI-Generated Movie Star Has a Total Meltdown on TV",
-      "link": "https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total",
+      "title": "A2E AI – an all-in-one AI video generator for text, images and avatars",
+      "link": "https://textideo.com/model/a2e-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 20:50:00 +0000",
-      "timestamp": 1789851000.0
+      "published": "Sun, 20 Sep 2026 01:50:29 +0000",
+      "timestamp": 1789869029.0
+    },
+    {
+      "title": "Open-source free meme generator, friendly for AI agents and humans",
+      "link": "https://github.com/terryds/memegenscript",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 20 Sep 2026 01:35:45 +0000",
+      "timestamp": 1789868145.0
+    },
+    {
+      "title": "Pure Code: What remains with developers after AI writes the code?",
+      "link": "https://pure-code-essay.vercel.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 20 Sep 2026 01:33:30 +0000",
+      "timestamp": 1789868010.0
+    },
+    {
+      "title": "How to handle manager adding AI bs to our codebase/designs etc.",
+      "link": "https://news.ycombinator.com/item?id=49771657",
+      "summary": "Joined the company out of college with like 5-6 years coding hobby projects etc. & started a year ago. I'm basically the highest performer in my team, get more stories & points/higher complexity tasks & have my work done way quicker with virtually no defects etc.etc. In comparison, most of the team spends like 2/3 the sprint getting their stories deployed & then up until the end of the sprint fixing the defects (usually producing defects that we don't catch until either I have to work in their area or the tester's find it randomly months later in regression) So recently the company's been tryi",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 20 Sep 2026 01:18:04 +0000",
+      "timestamp": 1789867084.0
     },
     {
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
@@ -181,15 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 19 Sep 2026 20:39:13 +0000",
       "timestamp": 1789850353.0
-    },
-    {
-      "title": "JustBot – a Grok-Bot-style AI assistant at ~1/10th the token cost",
-      "link": "https://justbot.co",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 19 Sep 2026 20:20:19 +0000",
-      "timestamp": 1789849219.0
     },
     {
       "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
