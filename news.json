@@ -1,7 +1,259 @@
 {
-  "scraped_at": "2026-09-21T10:42:00.763821+00:00",
+  "scraped_at": "2026-09-21T17:01:52.014615+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 21 Sep 2026 16:38:51 +0000",
+      "timestamp": 1790008731.0
+    },
+    {
+      "title": "Show HN: Agent Chaperone – Screen AI agent tool calls and results with Jev",
+      "link": "https://github.com/agent-chaperone/agent-chaperone",
+      "summary": "Hi everyone. TypeSafe released Jev last week, and it pushed me to build agent-chaperone. It is a screening layer for AI agent tool calls and tool results. It screens risky, off-task, or secret-leaking actions before they run, and prompt injections or other suspicious instructions before the agent reads them. Repo: https://github.com/agent-chaperone/agent-chaperone Website: https://agentchaperone.dev/",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 16:34:27 +0000",
+      "timestamp": 1790008467.0
+    },
+    {
+      "title": "WTF Is Up with Napster's AI Pivot?",
+      "link": "https://tedium.co/2026/09/21/napster-ai-pivot/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 16:31:23 +0000",
+      "timestamp": 1790008283.0
+    },
+    {
+      "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 16:22:15 +0000",
+      "timestamp": 1790007735.0
+    },
+    {
+      "title": "Show HN: AI Changed How We Write Code. Why Hasn’t Code Review Changed?",
+      "link": "https://github.com/otobongfp/code-graph-view",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 16:19:40 +0000",
+      "timestamp": 1790007580.0
+    },
+    {
+      "title": "Amazon blocks Meta's Muse AI shopping agent",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 16:08:50 +0000",
+      "timestamp": 1790006930.0
+    },
+    {
+      "title": "Show HN: We built a network for AI agents and humans to exchange services",
+      "link": "https://gingerpal.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 16:05:36 +0000",
+      "timestamp": 1790006736.0
+    },
+    {
+      "title": "How an AI agent beat Universal Paperclips in 1:21:23 (WR was 1:33:42)",
+      "link": "https://universal-paperclips-ai.netlify.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 16:02:24 +0000",
+      "timestamp": 1790006544.0
+    },
+    {
+      "title": "US District Court Decision in AI's Favor Worries Open-Source Developers",
+      "link": "https://devops.com/us-district-court-decision-in-ais-favor-worries-open-source-developers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 15:54:53 +0000",
+      "timestamp": 1790006093.0
+    },
+    {
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 15:53:17 +0000",
+      "timestamp": 1790005997.0
+    },
+    {
+      "title": "Goodnotes releases new AI notetaker",
+      "link": "https://goodmeet.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 15:51:29 +0000",
+      "timestamp": 1790005889.0
+    },
+    {
+      "title": "Show HN: Replay an AI Coding Session and Inspect Its Requests",
+      "link": "https://ishamf.dev/p/agent-harness-replay/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 15:46:36 +0000",
+      "timestamp": 1790005596.0
+    },
+    {
+      "title": "46% of Open-Source AI Agents dropped from rankings in 28 weeks",
+      "link": "https://www.theagenticleaderboard.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 15:43:31 +0000",
+      "timestamp": 1790005411.0
+    },
+    {
+      "title": "Using TypeSafe AI in Bug Bounty",
+      "link": "https://www.lampysecurity.com/post/using-typesafe-ai-in-bug-bounty",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 15:34:32 +0000",
+      "timestamp": 1790004872.0
+    },
+    {
+      "title": "AI co-scientists are revolutionizing how research is done",
+      "link": "https://www.nature.com/articles/d41586-026-02931-5",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 15:31:44 +0000",
+      "timestamp": 1790004704.0
+    },
+    {
+      "title": "'How can I build a bomb? It tells you how': How Boko Haram fighters are using AI",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/how-can-i-build-a-bomb-it-tells-you-how-how-boko-haram-fighters-are-using-ai-to-make-explosives-plan-attacks/articleshow/134366362.cms",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 15:18:46 +0000",
+      "timestamp": 1790003926.0
+    },
+    {
+      "title": "Show HN: Jev AI –Try the Interactive Playground and Typed Decision",
+      "link": "https://jev-ai.info/",
+      "summary": "Try the Jev AI Playground online, then learn how typed decisions, confidence, and structured AI outputs work.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 15:12:01 +0000",
+      "timestamp": 1790003521.0
+    },
+    {
+      "title": "Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table",
+      "link": "https://github.com/pokertools-arena/pokertools-arena.github.io",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 15:00:39 +0000",
+      "timestamp": 1790002839.0
+    },
+    {
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25, 11:59 p.m. PT. Register now.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 21 Sep 2026 15:00:00 +0000",
+      "timestamp": 1790002800.0
+    },
+    {
+      "title": "Streamhouse: A shared data architecture for the age of AI",
+      "link": "https://www.streamhouse.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 14:53:15 +0000",
+      "timestamp": 1790002395.0
+    },
+    {
+      "title": "Skills for AI agents to remove or prevent slop in UI design and written content",
+      "link": "https://github.com/kmaida/deslop-skills",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 14:48:40 +0000",
+      "timestamp": 1790002120.0
+    },
+    {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 21 Sep 2026 14:39:22 +0000",
+      "timestamp": 1790001562.0
+    },
+    {
+      "title": "AMD becomes latest chipmaker to reach $1T valuation on AI demand",
+      "link": "https://www.reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 21 Sep 2026 14:32:13 +0000",
+      "timestamp": 1790001133.0
+    },
+    {
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 21 Sep 2026 14:30:00 +0000",
+      "timestamp": 1790001000.0
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competition.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 21 Sep 2026 14:15:00 +0000",
+      "timestamp": 1790000100.0
+    },
+    {
+      "title": "Can John Ternus find Apple’s next big thing?",
+      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-21T10:00:00-04:00",
+      "timestamp": 1789999200.0
+    },
+    {
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-21T09:36:52-04:00",
+      "timestamp": 1789997812.0
+    },
+    {
+      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
+      "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+      "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 21 Sep 2026 13:00:00 +0000",
+      "timestamp": 1789995600.0
+    },
     {
       "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
       "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
@@ -10,33 +262,6 @@
       "source": "Wired AI",
       "published": "Mon, 21 Sep 2026 10:34:43 +0000",
       "timestamp": 1789986883.0
-    },
-    {
-      "title": "AI is reaching new highs with AROM Labs",
-      "link": "https://news.ycombinator.com/item?id=49785441",
-      "summary": "A biggest achievement for me today which I want to share with you all as a member of AROM Labs which is in terms of AI enhancements and closing the complete error loop with this architecture which transform the AI where it is to even more powerful. AI will not just interact with you via but now with our architecture AI can now understand your intent what you want to do before even telling that to AI. Soon we will share the score of AI models on traditional hardware vs our new architecture.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 10:34:28 +0000",
-      "timestamp": 1789986868.0
-    },
-    {
-      "title": "Show HN: Open Source AI Employees",
-      "link": "https://github.com/markfulton/ai-employees",
-      "summary": "Fable 5 scored 99.19% on WebVoyager a few months ago, a be A benchmark is not your logged-in admin panel. Browser use agents are no longer demos. I believe this is a big tipping point. I have been a web developer for most of my career and building with AI agents for nearly four years. Last October I wrote that the missing piece was browser agents reliable enough to leave alone. So I published this open source repo, so everyone can have high quality AI employees. They are, for the most part, agent harness agnostic and can work on any of them. An AI Employee is a folder of plain text routines th",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 10:28:45 +0000",
-      "timestamp": 1789986525.0
-    },
-    {
-      "title": "A thing we may be able to learn from AI",
-      "link": "https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 10:21:35 +0000",
-      "timestamp": 1789986095.0
     },
     {
       "title": "UN says AI safeguards can’t wait for certainty",
@@ -48,166 +273,13 @@
       "timestamp": 1789985886.0
     },
     {
-      "title": "AI Poster Prompts Improved",
-      "link": "https://john.hartnup.uk/2026/09/20/poster-prompts-v2.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 10:05:14 +0000",
-      "timestamp": 1789985114.0
-    },
-    {
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "title": "Amazon blocks Meta’s Muse AI agent",
       "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
       "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
       "image": null,
       "source": "The Verge AI",
       "published": "2026-09-21T05:21:47-04:00",
       "timestamp": 1789982507.0
-    },
-    {
-      "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
-      "link": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 09:21:09 +0000",
-      "timestamp": 1789982469.0
-    },
-    {
-      "title": "Show HN: Bitcoin-rs – An AI-assisted Bitcoin full node in Rust",
-      "link": "https://github.com/gosuda/bitcoin-rs",
-      "summary": "I’m building bitcoin-rs, an independent Bitcoin full node in Rust, using AI aggressively for implementation. I think Bitcoin is a particularly good target for AI-era development because implementations can be verified against strong external references. In bitcoin-rs, I use libbitcoinkernel as one of the main compatibility oracles.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 09:03:05 +0000",
-      "timestamp": 1789981385.0
-    },
-    {
-      "title": "I'm afraid of spiders. So I made AI look at 2k of them",
-      "link": "https://labqoat.com/blog/how-well-can-ai-identify-spiders",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 09:00:37 +0000",
-      "timestamp": 1789981237.0
-    },
-    {
-      "title": "AI Data Center Basics: What Is Linear Pluggable Optics (LPO)?",
-      "link": "https://blog.semtech.fr/ai-data-center-basics-what-is-linear-pluggable-optics-lpo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 08:54:46 +0000",
-      "timestamp": 1789980886.0
-    },
-    {
-      "title": "Don't Use AI to Write",
-      "link": "https://paulbakker.io/writing/no-ai-for-writing/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 08:54:44 +0000",
-      "timestamp": 1789980884.0
-    },
-    {
-      "title": "The Economic Incentives Behind the Push to Pause AI",
-      "link": "https://www.vincentschmalbach.com/economic-incentives-behind-the-push-to-pause-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 08:40:46 +0000",
-      "timestamp": 1789980046.0
-    },
-    {
-      "title": "Jev and AI SDK Template by Vercel Labs",
-      "link": "https://github.com/vercel-labs/jev-ai-sdk-form-router",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 08:37:16 +0000",
-      "timestamp": 1789979836.0
-    },
-    {
-      "title": "Show HN: Paste a domain and watch four AI engines judge every page",
-      "link": "https://www.citegraph.app/live",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 08:34:40 +0000",
-      "timestamp": 1789979680.0
-    },
-    {
-      "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
-      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 08:10:23 +0000",
-      "timestamp": 1789978223.0
-    },
-    {
-      "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-      "link": "https://twitter.com/LundukeJournal/status/2101841277432070210",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 07:59:18 +0000",
-      "timestamp": 1789977558.0
-    },
-    {
-      "title": "Cracking Software with AI",
-      "link": "https://apsecurity.dev/posts/cracking-software-with-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 07:52:52 +0000",
-      "timestamp": 1789977172.0
-    },
-    {
-      "title": "One researcher published the 'System 1 AI' idea in 2025",
-      "link": "https://www.youtube.com/watch?v=fyx7xz-vtMY",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 07:03:29 +0000",
-      "timestamp": 1789974209.0
-    },
-    {
-      "title": "Where Do Chatbots Come From? What I Wish Everyone Knew About AI in 2026",
-      "link": "https://www.lesswrong.com/posts/dww6cpbo2XoKbsxyw/where-do-chatbots-come-from-what-i-wish-everyone-knew-about",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 07:02:32 +0000",
-      "timestamp": 1789974152.0
-    },
-    {
-      "title": "Evaluating Long-Term Memory for AI Agents: AML Cycle 2 Is Now Open",
-      "link": "https://twitter.com/AgentMemoryL/status/2101515447816663222",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 06:24:34 +0000",
-      "timestamp": 1789971874.0
-    },
-    {
-      "title": "A computer scientist-novelist reflects on AI and our understanding of maths",
-      "link": "https://scroll.in/article/1095809/how-ai-could-influence-our-understanding-of-mathematics-a-computer-scientist-novelists-reflections",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 06:17:26 +0000",
-      "timestamp": 1789971446.0
-    },
-    {
-      "title": "Bull Beats Out HPE for Next-Gen Lumi AI Supercomputer",
-      "link": "https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 05:52:05 +0000",
-      "timestamp": 1789969925.0
     },
     {
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -230,7 +302,7 @@
     {
       "title": "Is the AI industry really ready to slow down?",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Sun, 20 Sep 2026 18:56:04 +0000",
@@ -248,7 +320,7 @@
     {
       "title": "Vocci’s ring adds a new form factor to meeting note-taking",
       "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Sun, 20 Sep 2026 18:32:52 +0000",
@@ -390,15 +462,6 @@
       "timestamp": 1789822800.0
     },
     {
-      "title": "The AI regulation smackdown isn’t over",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-19T09:00:00-04:00",
-      "timestamp": 1789822800.0
-    },
-    {
       "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
       "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
       "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
@@ -453,42 +516,6 @@
       "timestamp": 1789773901.0
     },
     {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 18 Sep 2026 23:13:31 +0000",
-      "timestamp": 1789773211.0
-    },
-    {
-      "title": "AI hallucination nearly triggers US military operation",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 18 Sep 2026 23:12:32 +0000",
-      "timestamp": 1789773152.0
-    },
-    {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 18 Sep 2026 21:44:33 +0000",
-      "timestamp": 1789767873.0
-    },
-    {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-18T17:07:24-04:00",
-      "timestamp": 1789765644.0
-    },
-    {
       "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
       "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
       "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
@@ -496,24 +523,6 @@
       "source": "Wired AI",
       "published": "Fri, 18 Sep 2026 19:21:09 +0000",
       "timestamp": 1789759269.0
-    },
-    {
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 18 Sep 2026 18:49:30 +0000",
-      "timestamp": 1789757370.0
-    },
-    {
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 18 Sep 2026 17:59:53 +0000",
-      "timestamp": 1789754393.0
     },
     {
       "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Fri, 18 Sep 2026 15:00:00 +0000",
       "timestamp": 1789743600.0
-    },
-    {
-      "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
-      "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
-      "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 18 Sep 2026 13:30:00 +0000",
-      "timestamp": 1789738200.0
     }
   ]
 }
