@@ -1,15 +1,177 @@
 {
-  "scraped_at": "2026-09-22T00:05:02.716434+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-22T04:52:21.750815+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "AI provides the logic; the compiler makes it real – with zero hallucinations",
-      "link": "https://github.com/SPLWare/SQLazy",
+      "title": "Pangram flags award-winning novel as largely AI written",
+      "link": "https://twitter.com/Pangramed/status/2102045146674053162",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 23:51:02 +0000",
-      "timestamp": 1790034662.0
+      "published": "Tue, 22 Sep 2026 04:43:50 +0000",
+      "timestamp": 1790052230.0
+    },
+    {
+      "title": "Gates Foundation coalition for more representative language data sets in AI",
+      "link": "https://abcnews.com/Technology/wireStory/gates-foundation-launches-coalition-build-representative-language-data-136622214",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 04:26:13 +0000",
+      "timestamp": 1790051173.0
+    },
+    {
+      "title": "Show HN: aSPARK – an agile AI product team for Claude Code",
+      "link": "https://github.com/a-lottes/aSPARK",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 04:14:39 +0000",
+      "timestamp": 1790050479.0
+    },
+    {
+      "title": "A Call for Open Science in AI Safety",
+      "link": "https://make-safety-open.github.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 04:00:29 +0000",
+      "timestamp": 1790049629.0
+    },
+    {
+      "title": "I Built an AI Dating Assistant Because Swiping Is Statistically Inefficient",
+      "link": "https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 03:50:15 +0000",
+      "timestamp": 1790049015.0
+    },
+    {
+      "title": "ArtifactBench: Evaluating AI Music Detectors Under Distribution Shift",
+      "link": "https://arxiv.org/abs/2609.23550",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 03:25:08 +0000",
+      "timestamp": 1790047508.0
+    },
+    {
+      "title": "Amazon blocks Meta's Muse AI assistant",
+      "link": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 03:03:19 +0000",
+      "timestamp": 1790046199.0
+    },
+    {
+      "title": "China's AI Realism Is Not Conspiracy",
+      "link": "https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 03:01:06 +0000",
+      "timestamp": 1790046066.0
+    },
+    {
+      "title": "Francis Fukuyama: Why I Changed My Mind About AI Risk",
+      "link": "https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 02:54:32 +0000",
+      "timestamp": 1790045672.0
+    },
+    {
+      "title": "Ottawa to build sovereign AI ecosystem for Canadian defence operations",
+      "link": "https://www.theglobeandmail.com/business/economy/article-ottawa-building-sovereign-ai-ecosystem-for-canadian-defence-operations/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 02:48:16 +0000",
+      "timestamp": 1790045296.0
+    },
+    {
+      "title": "Turn ad-hoc subagents into durable, accountable AI teams",
+      "link": "https://github.com/ringlochid/oh-my-subagents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 02:45:47 +0000",
+      "timestamp": 1790045147.0
+    },
+    {
+      "title": "Vibes vs. Evidence: What delivers AI code review quality",
+      "link": "https://dsifry.github.io/harnesseval/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 02:12:35 +0000",
+      "timestamp": 1790043155.0
+    },
+    {
+      "title": "Something bugs me about AGI AI LLM, what if we back paddled 1000 year",
+      "link": "https://shatteringtheabyss.substack.com/p/llm-agi-god-congratulations-humanity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 02:10:04 +0000",
+      "timestamp": 1790043004.0
+    },
+    {
+      "title": "I built an autonomous accounting tool to let AI do my taxes",
+      "link": "https://github.com/CodeGameDev29/KFAutonomousAccounting",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 01:45:53 +0000",
+      "timestamp": 1790041553.0
+    },
+    {
+      "title": "Ask HN: Ceremonious Architecture in Times of AI",
+      "link": "https://news.ycombinator.com/item?id=49795847",
+      "summary": "There's extensive literature on several software architecture patterns and styles whose benefits are well known, but which are often ignored due to the cost of their boilerplatic layers and abstractions. For example: Domain-Driven Design is cool, but it probably won't be applied to a CRUD-heavy startup backend; Clean Architecture is great, but defining a database schema via some annotations on entity fields is simpler and faster. It's clear that having a single `FooService` mapped to endpoints and directly hitting the database (as an extreme case) would be much faster to ship than introducing ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 01:44:58 +0000",
+      "timestamp": 1790041498.0
+    },
+    {
+      "title": "We're Using AI Wrong. The Chat Window Sucks",
+      "link": "https://www.stclair.ai/blog/the-chat-window.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 01:44:17 +0000",
+      "timestamp": 1790041457.0
+    },
+    {
+      "title": "Outages across API, Grok.com, and Grok Build – API (us-east-1.api.x.ai) Status",
+      "link": "https://status.x.ai/api-us-east-1/INC578e0bc8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 01:28:42 +0000",
+      "timestamp": 1790040522.0
+    },
+    {
+      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 01:24:49 +0000",
+      "timestamp": 1790040289.0
+    },
+    {
+      "title": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+      "link": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 22 Sep 2026 00:37:57 +0000",
+      "timestamp": 1790037477.0
     },
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -21,175 +183,13 @@
       "timestamp": 1790034268.0
     },
     {
-      "title": "So, is AI going to kill us? 11 experts, 11 answers",
-      "link": "https://sfstandard.com/2026/09/21/experts-ai-doom/",
-      "summary": "",
+      "title": "California tightens rules on AI data center energy and water use",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 23:28:42 +0000",
-      "timestamp": 1790033322.0
-    },
-    {
-      "title": "Brad Smith and Kevin Rudd on AI, Regulation, and the Future of Work [video]",
-      "link": "https://www.youtube.com/watch?v=hClbN_imH5Y",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 23:16:03 +0000",
-      "timestamp": 1790032563.0
-    },
-    {
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 23:08:32 +0000",
-      "timestamp": 1790032112.0
-    },
-    {
-      "title": "AI Risk Cheatsheet",
-      "link": "https://umais.me/writing/ai-risk-cheatsheet/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 23:04:39 +0000",
-      "timestamp": 1790031879.0
-    },
-    {
-      "title": "Jev: System One Models for Prod, Not God – With Diogo Almeida, CEO, TypeSafe AI",
-      "link": "https://www.latent.space/p/jev",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 23:01:51 +0000",
-      "timestamp": 1790031711.0
-    },
-    {
-      "title": "Where do AI norms come from?",
-      "link": "https://charity.wtf/p/where-do-ai-norms-come-from",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 22:42:57 +0000",
-      "timestamp": 1790030577.0
-    },
-    {
-      "title": "Do not fear AI. Fear AI companies",
-      "link": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 22:40:31 +0000",
-      "timestamp": 1790030431.0
-    },
-    {
-      "title": "A Call for Control of Frontier AI Models",
-      "link": "https://www.presidentti.fi/en/a-call-for-control-of-frontier-ai-models/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 22:29:10 +0000",
-      "timestamp": 1790029750.0
-    },
-    {
-      "title": "Almost started a war: Report reveals dark reality as AI permeates civilisation",
-      "link": "https://www.news.com.au/technology/innovation/military/almost-started-a-war-report-reveals-dark-reality-emerging-as-ai-permeates-civilisation/news-story/a185fe05f6973c5c3de25499c69d5d49",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 22:27:02 +0000",
-      "timestamp": 1790029622.0
-    },
-    {
-      "title": "How to talk about \"AI\" without adding to the anthropomorphization",
-      "link": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 22:22:42 +0000",
-      "timestamp": 1790029362.0
-    },
-    {
-      "title": "Let AI agents search across workspace with the Universal Search MCP Server",
-      "link": "https://developers.google.com/workspace/guides/universal-search-mcp",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 22:02:10 +0000",
-      "timestamp": 1790028130.0
-    },
-    {
-      "title": "Auditing in the age of (good enough) AI",
-      "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 21:53:01 +0000",
-      "timestamp": 1790027581.0
-    },
-    {
-      "title": "Show HN: Praxos – Multiplayer AI",
-      "link": "https://www.praxos.ai/",
-      "summary": "Hey Hacker News! Lucas here, founder of Praxos (YC S24). Praxos is a team messaging platform for people and AI agents. It offers people and AI agents a place to talk and work together via a messaging platform that remembers the context around conversations. That context can then be used by the next person, AI agent, or even you, a week later. You can pick work back up without needing to get hold of another person to explain things again for you… or give you a refresher. A surprising amount of work exists only because one person knows something another person needs, or because we need to coordi",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 21:40:19 +0000",
-      "timestamp": 1790026819.0
-    },
-    {
-      "title": "Why So Much Money on \"AI\"?",
-      "link": "https://www.rosshartshorn.net/stuffrossthinksabout/why_so_much_money_on_ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 21:27:59 +0000",
-      "timestamp": 1790026079.0
-    },
-    {
-      "title": "Lasso: AI Watermarks Change How Agents Act",
-      "link": "https://techstrong.ai/features/lasso-ai-watermarks-change-how-agents-act/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 21:16:26 +0000",
-      "timestamp": 1790025386.0
-    },
-    {
-      "title": "Google CC, an AI agent built for families",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 21:02:55 +0000",
-      "timestamp": 1790024575.0
-    },
-    {
-      "title": "EU plans \"digital expropriation\" of Europeans in the interest of AI companies",
-      "link": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 20:57:27 +0000",
-      "timestamp": 1790024247.0
-    },
-    {
-      "title": "Jonathan Swift vs. AI",
-      "link": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 20:38:03 +0000",
-      "timestamp": 1790023083.0
-    },
-    {
-      "title": "New bill to protect American citizens access to AI – Please read and share",
-      "link": "https://righttorun.us",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 21 Sep 2026 20:30:38 +0000",
-      "timestamp": 1790022638.0
+      "source": "The Verge AI",
+      "published": "2026-09-21T16:29:45-04:00",
+      "timestamp": 1790022585.0
     },
     {
       "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
@@ -487,15 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 19 Sep 2026 15:00:00 +0000",
       "timestamp": 1789830000.0
-    },
-    {
-      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-19T10:00:00-04:00",
-      "timestamp": 1789826400.0
     },
     {
       "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
