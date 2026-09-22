@@ -1,33 +1,105 @@
 {
-  "scraped_at": "2026-09-22T09:55:59.097232+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-22T14:51:12.254811+00:00",
+  "count": 40,
   "items": [
     {
-      "title": "TypeSafe AI Jev vs. GPT-6 Astra",
-      "link": "https://vercel.com/i/jev-vs-gpt-6-astra",
-      "summary": "",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 09:53:35 +0000",
-      "timestamp": 1790070815.0
+      "source": "TechCrunch AI",
+      "published": "Tue, 22 Sep 2026 14:30:00 +0000",
+      "timestamp": 1790087400.0
     },
     {
-      "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
-      "link": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
-      "summary": "",
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 09:36:53 +0000",
-      "timestamp": 1790069813.0
+      "source": "TechCrunch AI",
+      "published": "Tue, 22 Sep 2026 14:15:00 +0000",
+      "timestamp": 1790086500.0
     },
     {
-      "title": "An AI bot appeared on the StarCraft ladder. Can you tell who's playing?",
-      "link": "https://marianogappa.github.io/software/2026/09/22/player-fingerprinting-in-the-age-of-ai-bots/",
-      "summary": "",
+      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 09:30:47 +0000",
-      "timestamp": 1790069447.0
+      "source": "TechCrunch AI",
+      "published": "Tue, 22 Sep 2026 14:00:00 +0000",
+      "timestamp": 1790085600.0
+    },
+    {
+      "title": "Everyone can find a reason to dislike data center construction",
+      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "timestamp": 1790082000.0
+    },
+    {
+      "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+      "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+      "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "timestamp": 1790082000.0
+    },
+    {
+      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+      "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+      "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "timestamp": 1790082000.0
+    },
+    {
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 22 Sep 2026 12:23:05 +0000",
+      "timestamp": 1790079785.0
+    },
+    {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-22T07:53:58-04:00",
+      "timestamp": 1790078038.0
+    },
+    {
+      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+      "summary": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 22 Sep 2026 10:30:00 +0000",
+      "timestamp": 1790073000.0
+    },
+    {
+      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+      "link": "https://www.wired.com/story/big-interview-patti-harrison/",
+      "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "timestamp": 1790071200.0
+    },
+    {
+      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+      "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+      "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "timestamp": 1790071200.0
     },
     {
       "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
@@ -39,33 +111,6 @@
       "timestamp": 1790069400.0
     },
     {
-      "title": "FAA debuts its AI-powered tool for managing flight traffic",
-      "link": "https://www.politico.com/news/2026/09/21/faa-ai-tool-flight-traffic-01086258",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 09:22:09 +0000",
-      "timestamp": 1790068929.0
-    },
-    {
-      "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
-      "link": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 09:18:54 +0000",
-      "timestamp": 1790068734.0
-    },
-    {
-      "title": "Ask HN: What do you expect from the next 5 years of AI?",
-      "link": "https://news.ycombinator.com/item?id=49798435",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 09:17:12 +0000",
-      "timestamp": 1790068632.0
-    },
-    {
       "title": "How to Use AI With Your Privacy Intact",
       "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
       "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
@@ -73,132 +118,6 @@
       "source": "Wired AI",
       "published": "Tue, 22 Sep 2026 09:00:00 +0000",
       "timestamp": 1790067600.0
-    },
-    {
-      "title": "How AI is impacting who gets to cross borders",
-      "link": "https://newsroom.taylorandfrancisgroup.com/how-ai-is-impacting-who-gets-to-cross-borders/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 08:59:05 +0000",
-      "timestamp": 1790067545.0
-    },
-    {
-      "title": "AI Mode for Emacs",
-      "link": "https://github.com/ai-mode/ai-mode",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 08:52:02 +0000",
-      "timestamp": 1790067122.0
-    },
-    {
-      "title": "Et Tu, Brute? Economic Misalignment in Personal AI Agents",
-      "link": "https://arxiv.org/abs/2609.24927",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 08:07:09 +0000",
-      "timestamp": 1790064429.0
-    },
-    {
-      "title": "Police hugging AI so tight, soon we'll all be pre-crime suspects",
-      "link": "https://responsiblestatecraft.org/pentagon-artificial-intelligence/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 07:57:18 +0000",
-      "timestamp": 1790063838.0
-    },
-    {
-      "title": "KeiroLabs – Web research infrastructure for AI agents",
-      "link": "https://keirolabs.cloud/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 07:55:09 +0000",
-      "timestamp": 1790063709.0
-    },
-    {
-      "title": "Show HN: Z8Log – Structured logging your AI coding agent can query",
-      "link": "https://z8log.com/welcome",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 07:50:39 +0000",
-      "timestamp": 1790063439.0
-    },
-    {
-      "title": "Create AI Image Free – No Sign-Up Needed",
-      "link": "https://www.createaiimage.net/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 07:43:24 +0000",
-      "timestamp": 1790063004.0
-    },
-    {
-      "title": "How people are testing AI agents?",
-      "link": "https://news.ycombinator.com/item?id=49797801",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 07:36:18 +0000",
-      "timestamp": 1790062578.0
-    },
-    {
-      "title": "Move On – export your AI chats, file GDPR deletion, escalate if ignored",
-      "link": "https://github.com/ur-grue/move-on",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 07:02:03 +0000",
-      "timestamp": 1790060523.0
-    },
-    {
-      "title": "AI staff complain of mental toll over fears of threat to society",
-      "link": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 06:51:09 +0000",
-      "timestamp": 1790059869.0
-    },
-    {
-      "title": "Beyond Context Windows: Evaluating Long-Term Memory for AI Agents",
-      "link": "https://twitter.com/AgentMemoryL/status/2101312784688726331",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 06:40:56 +0000",
-      "timestamp": 1790059256.0
-    },
-    {
-      "title": "A Summer of AI Optimization",
-      "link": "https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 06:37:43 +0000",
-      "timestamp": 1790059063.0
-    },
-    {
-      "title": "What you can build with TypeSafe AI Jev",
-      "link": "https://vercel.com/i/jev-use-cases",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 06:16:56 +0000",
-      "timestamp": 1790057816.0
-    },
-    {
-      "title": "How AI Creates a Capability Mirage",
-      "link": "https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 22 Sep 2026 06:03:06 +0000",
-      "timestamp": 1790056986.0
     },
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -435,24 +354,6 @@
       "timestamp": 1789905600.0
     },
     {
-      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-      "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sun, 20 Sep 2026 10:30:00 +0000",
-      "timestamp": 1789900200.0
-    },
-    {
-      "title": "It’s Donald Trump Versus MAGA on Data Centers",
-      "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sun, 20 Sep 2026 10:30:00 +0000",
-      "timestamp": 1789900200.0
-    },
-    {
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
       "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
@@ -460,87 +361,6 @@
       "source": "The Verge AI",
       "published": "2026-09-19T16:44:40-04:00",
       "timestamp": 1789850680.0
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 19 Sep 2026 20:39:13 +0000",
-      "timestamp": 1789850353.0
-    },
-    {
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 19 Sep 2026 19:57:47 +0000",
-      "timestamp": 1789847867.0
-    },
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 19 Sep 2026 17:30:00 +0000",
-      "timestamp": 1789839000.0
-    },
-    {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-19T11:25:03-04:00",
-      "timestamp": 1789831503.0
-    },
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
-      "timestamp": 1789830000.0
-    },
-    {
-      "title": "AI safety conversations have gotten unbelievable",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
-      "timestamp": 1789830000.0
-    },
-    {
-      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sat, 19 Sep 2026 11:00:00 +0000",
-      "timestamp": 1789815600.0
-    },
-    {
-      "title": "Mathematicians Hate AI. They Can’t Quit It",
-      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sat, 19 Sep 2026 10:00:00 +0000",
-      "timestamp": 1789812000.0
-    },
-    {
-      "title": "Join the WIRED World Fair in Miami on November 4",
-      "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sat, 19 Sep 2026 09:00:00 +0000",
-      "timestamp": 1789808400.0
     }
   ]
 }
