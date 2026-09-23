@@ -1,7 +1,241 @@
 {
-  "scraped_at": "2026-09-23T16:55:12.554205+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-23T20:20:14.532989+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "Show HN: Free attestation for AI agent decisions – verifying one costs $0.10",
+      "link": "https://github.com/0xsims/rubric-attest",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 20:18:17 +0000",
+      "timestamp": 1790194697.0
+    },
+    {
+      "title": "KDE and AI, and You, and Me",
+      "link": "https://pointieststick.com/2026/09/23/kde-and-ai-and-you-and-me/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 20:07:38 +0000",
+      "timestamp": 1790194058.0
+    },
+    {
+      "title": "Security auditing in the age of (good enough) AI",
+      "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 20:07:20 +0000",
+      "timestamp": 1790194040.0
+    },
+    {
+      "title": "How to Build an AI Visibility Tracker from Scratch",
+      "link": "https://www.crawlspider.com/how-to-build-an-ai-visibility-tracker-from-scratch/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 19:58:07 +0000",
+      "timestamp": 1790193487.0
+    },
+    {
+      "title": "Show HN: Varkos – a local AI pet that can talk, interact, and play small games",
+      "link": "https://varkos.party/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 19:54:16 +0000",
+      "timestamp": 1790193256.0
+    },
+    {
+      "title": "Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+      "link": "https://arxiv.org/abs/2607.29516",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 19:45:56 +0000",
+      "timestamp": 1790192756.0
+    },
+    {
+      "title": "VSArena – The official open browser benchmark for embodied AI",
+      "link": "https://vsarena.vercel.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 19:41:58 +0000",
+      "timestamp": 1790192518.0
+    },
+    {
+      "title": "\"Good\" AI",
+      "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 19:35:01 +0000",
+      "timestamp": 1790192101.0
+    },
+    {
+      "title": "Support for Local AI Models in the Antigravity SDK",
+      "link": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 19:33:05 +0000",
+      "timestamp": 1790191985.0
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 23 Sep 2026 19:31:28 +0000",
+      "timestamp": 1790191888.0
+    },
+    {
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 19:23:40 +0000",
+      "timestamp": 1790191420.0
+    },
+    {
+      "title": "Show HN: Ceptile AI Search platform which combines web results with AI chat",
+      "link": "https://www.ceptile.com/",
+      "summary": "I built Ceptile because I wanted a search tool that could combine the convenience of an AI answer with the ability to inspect the actual web pages behind it. A Ceptile search retrieves pages from the web, ranks the retrieved sources, and uses them to produce an answer with links back to the sources. You can open the sources and continue researching from there. I've also been building some things around the search workflow, including Notes for keeping research, translation tools, and ways to work with information found during a search. Just select a text in answer or web results, and it will sh",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 19:22:32 +0000",
+      "timestamp": 1790191352.0
+    },
+    {
+      "title": "Jensen Huang on AI Alarmists – NYT Ezra Klein Show",
+      "link": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 19:03:32 +0000",
+      "timestamp": 1790190212.0
+    },
+    {
+      "title": "My relationship with AI: seductive, frustrating and always demanding vigilance",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/24/my-complicated-relationship-with-ai-chatgpt-factchecking",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 18:52:04 +0000",
+      "timestamp": 1790189524.0
+    },
+    {
+      "title": "Dr Tricks Senior Dev N2 Taking Job W AI",
+      "link": "https://news.ycombinator.com/item?id=49820723",
+      "summary": "I am a senior programmer with 23 years experience. I brought AI and my skills to a Men's Health Dr. and worked closely with the Dr at a low salary. The Men's Health Dr. talked me into working with him and teaching him vibe coding, always ensuring me that \"I am not working myself out of a job\". With 23 years of experience I developed an advanced system for the Dr and his team, that was being used daily. As soon as the Dr. became fully invested in the EHR system's success and it's automated systems he worked me out of my full time salary position and belittled me in many ways. The Dr. started di",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 18:52:01 +0000",
+      "timestamp": 1790189521.0
+    },
+    {
+      "title": "Work, Wellbeing, and Choice: Empirical Lessons for AI Futures",
+      "link": "https://arxiv.org/abs/2609.11019",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 18:42:46 +0000",
+      "timestamp": 1790188966.0
+    },
+    {
+      "title": "Local AI News Feed",
+      "link": "https://local-ai-signal.vercel.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 18:40:38 +0000",
+      "timestamp": 1790188838.0
+    },
+    {
+      "title": "Ask HN: Do you offload your coding to AI, or keep your skills sharp?",
+      "link": "https://news.ycombinator.com/item?id=49820486",
+      "summary": "I used to be a software engineer, but these days I find myself being more of an agents manager: constantly switching between 3-4 tasks that my agents are working on, and making sure that the features get shipped, the bugs fixed, with correct and clean code. There's no doubt that I'm producing more value for the company, but I wonder if that's the best I can do for myself if the goal is staying relevant in the coming years. I wonder: if the AI is writing all the code, what value am I bringing? In an attempt to keep my critical thinking and coding skills sharp, I sometimes foolishly try to debug",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 18:35:34 +0000",
+      "timestamp": 1790188534.0
+    },
+    {
+      "title": "Can internal model transparency tame the AI race?",
+      "link": "https://blog.karthiktadepalli.com/p/internal-model-transparency",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 18:35:09 +0000",
+      "timestamp": 1790188509.0
+    },
+    {
+      "title": "Discover Solo: The Ultimate AI-Integrated Control Panel",
+      "link": "https://blog.master.dev/introducing-solo/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 18:30:33 +0000",
+      "timestamp": 1790188233.0
+    },
+    {
+      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+      "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
+      "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 23 Sep 2026 18:30:00 +0000",
+      "timestamp": 1790188200.0
+    },
+    {
+      "title": "Data centers are black boxes, but California wants to change that",
+      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-23T14:22:57-04:00",
+      "timestamp": 1790187777.0
+    },
+    {
+      "title": "How AI Helps and Hampers Junior Workers",
+      "link": "https://www.nominalnews.com/p/how-ai-helps-and-hampers-junior-workers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 18:22:39 +0000",
+      "timestamp": 1790187759.0
+    },
+    {
+      "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
+      "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
+      "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 23 Sep 2026 18:03:00 +0000",
+      "timestamp": 1790186580.0
+    },
+    {
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-23T14:00:00-04:00",
+      "timestamp": 1790186400.0
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 23 Sep 2026 17:00:00 +0000",
+      "timestamp": 1790182800.0
+    },
     {
       "title": "Even Americans who use AI every day are worried about it",
       "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
@@ -12,130 +246,13 @@
       "timestamp": 1790182198.0
     },
     {
-      "title": "AI Is a Boring Technology",
-      "link": "https://www.chrbutler.com/ai-is-a-boring-technology",
-      "summary": "",
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 16:33:13 +0000",
-      "timestamp": 1790181193.0
-    },
-    {
-      "title": "Everyone is hilariously prompt-injecting AI via llms.txt and you aren't",
-      "link": "https://installmap.com/research/llms-txt-ai-instructions",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 16:29:39 +0000",
-      "timestamp": 1790180979.0
-    },
-    {
-      "title": "Ask HN: Will software still matter when AI write all our programs?",
-      "link": "https://news.ycombinator.com/item?id=49818484",
-      "summary": "I’ve often reflected on how AI will change software development, and on what happens when reverse engineering — “everything is open source if you can reverse engineer it” — or clean-room reverse engineering, and porting a program from platform A to platform B, become essentially automatic processes. Personally, this is a capability that would impress me quite a bit. I’m curious to know: if you let something like Astra 6 or Fable run with $10 million worth of tokens, how close could we get to a successful implementation and performance — say, porting the Adobe suite to Linux, or even FreeBSD, o",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 16:24:27 +0000",
-      "timestamp": 1790180667.0
-    },
-    {
-      "title": "AI Overviews and the Limits of the Search Safe Harbor",
-      "link": "https://www.lawfaremedia.org/article/ai-overviews-and-the-limits-of-the-search-safe-harbor",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 16:16:03 +0000",
-      "timestamp": 1790180163.0
-    },
-    {
-      "title": "Show HN: Watch Newsletters by AI",
-      "link": "https://newsletrix.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 16:15:46 +0000",
-      "timestamp": 1790180146.0
-    },
-    {
-      "title": "Meta testing a 'human concierge' for its new personal AI agent, Muse",
-      "link": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 16:14:08 +0000",
-      "timestamp": 1790180048.0
-    },
-    {
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "link": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 16:06:49 +0000",
-      "timestamp": 1790179609.0
-    },
-    {
-      "title": "Is AI killing the forums and wikis your IT team relies on?",
-      "link": "https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 15:57:02 +0000",
-      "timestamp": 1790179022.0
-    },
-    {
-      "title": "Top post in R/gamedev: \"AI models have caught up with Unity dev.\"",
-      "link": "https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 15:55:47 +0000",
-      "timestamp": 1790178947.0
-    },
-    {
-      "title": "AI anxiety is sweeping the globe – and cutting across party lines",
-      "link": "https://www.politico.eu/article/poll-ai-anxiety-openai-anthropic-elon-musk-silicon-valley-across-party-lines/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 15:50:34 +0000",
-      "timestamp": 1790178634.0
-    },
-    {
-      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-      "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 15:35:12 +0000",
-      "timestamp": 1790177712.0
-    },
-    {
-      "title": "Why Human Informants Still Matter in the Age of AI Surveillance",
-      "link": "https://smallwarsjournal.com/2026/08/20/why-human-informants-still-matter-in-the-age-of-ai-surveillance/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 15:27:52 +0000",
-      "timestamp": 1790177272.0
-    },
-    {
-      "title": "A week in Beijing and Shanghai with the people building AI in China",
-      "link": "https://earnedintuition.substack.com/p/involution-without-export-is-wasted",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 15:22:15 +0000",
-      "timestamp": 1790176935.0
-    },
-    {
-      "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic",
-      "link": "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 15:20:56 +0000",
-      "timestamp": 1790176856.0
+      "source": "The Verge AI",
+      "published": "2026-09-23T12:23:05-04:00",
+      "timestamp": 1790180585.0
     },
     {
       "title": "YouTube Music gets more conversational with new AI features",
@@ -145,51 +262,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 23 Sep 2026 15:19:30 +0000",
       "timestamp": 1790176770.0
-    },
-    {
-      "title": "Show HN: Mapping AI research, from 496k indexed papers",
-      "link": "https://foundinghires.tech/atlas.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 15:04:53 +0000",
-      "timestamp": 1790175893.0
-    },
-    {
-      "title": "Show HN: Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline",
-      "link": "https://vibeladder.dev/results/r2.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 15:02:23 +0000",
-      "timestamp": 1790175743.0
-    },
-    {
-      "title": "The AI Company stopped chasing its first idea",
-      "link": "https://autonomouscompany.substack.com/p/the-ai-company-finally-stopped-chasing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 15:01:52 +0000",
-      "timestamp": 1790175712.0
-    },
-    {
-      "title": "Netflix's 'Wonka's the Golden Ticket' Is a Ghoulish Misuse of AI Gene Wilder",
-      "link": "https://variety.com/2026/tv/reviews/wonkas-golden-ticket-review-ai-gene-wilder-1236872754/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 14:52:30 +0000",
-      "timestamp": 1790175150.0
-    },
-    {
-      "title": "AI-Agents",
-      "link": "https://news.ycombinator.com/item?id=49816967",
-      "summary": "yo this is my first post !!!! I been working a lot on quant stuff lately, & also been studying the graphs of industry's ai-agent stuff. I noticed one common point in those stuff is that we ourselves pushing the ai-agent's too fast than slow adaption; tho the research may have been quite an academic and long period but again like the delay happen because of hardware?!!!! I mean I dont know the reason being the hardware itself or it is something else cause Google was ready yeah if they push we pub our model. Again like I would like to really speak on the quant stuff that I came across is the Bay",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 14:44:27 +0000",
-      "timestamp": 1790174667.0
     },
     {
       "title": "YouTube will let you build your own algorithm with AI",
@@ -212,7 +284,7 @@
     {
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
       "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 23 Sep 2026 14:30:00 +0000",
@@ -230,7 +302,7 @@
     {
       "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
-      "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
+      "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 23 Sep 2026 14:00:00 +0000",
@@ -435,24 +507,6 @@
       "timestamp": 1790087400.0
     },
     {
-      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 22 Sep 2026 14:15:00 +0000",
-      "timestamp": 1790086500.0
-    },
-    {
-      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-      "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 22 Sep 2026 14:00:00 +0000",
-      "timestamp": 1790085600.0
-    },
-    {
       "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
       "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
       "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
@@ -471,15 +525,6 @@
       "timestamp": 1790082000.0
     },
     {
-      "title": "Meta patches Muse exploit that let attackers control the AI agent",
-      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-      "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-22T07:53:58-04:00",
-      "timestamp": 1790078038.0
-    },
-    {
       "title": "I Built AI Clones of My Coworkers. Things Got Weird",
       "link": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
       "summary": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
@@ -496,42 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 22 Sep 2026 10:00:00 +0000",
       "timestamp": 1790071200.0
-    },
-    {
-      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-      "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
-      "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 22 Sep 2026 10:00:00 +0000",
-      "timestamp": 1790071200.0
-    },
-    {
-      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-      "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-      "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 22 Sep 2026 09:30:00 +0000",
-      "timestamp": 1790069400.0
-    },
-    {
-      "title": "California tightens rules on AI data center energy and water use",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-21T16:29:45-04:00",
-      "timestamp": 1790022585.0
-    },
-    {
-      "title": "Can John Ternus find Apple’s next big thing?",
-      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-21T10:00:00-04:00",
-      "timestamp": 1789999200.0
     }
   ]
 }
