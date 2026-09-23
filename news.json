@@ -1,7 +1,187 @@
 {
-  "scraped_at": "2026-09-23T20:20:14.532989+00:00",
+  "scraped_at": "2026-09-23T23:40:22.189965+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 23 Sep 2026 23:39:44 +0000",
+      "timestamp": 1790206784.0
+    },
+    {
+      "title": "Stanford violated AI policy after race-swapping students in ad",
+      "link": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 23:23:39 +0000",
+      "timestamp": 1790205819.0
+    },
+    {
+      "title": "One setup, every AI CLI with agnostic-AI",
+      "link": "https://agnostic-ai.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 23:10:16 +0000",
+      "timestamp": 1790205016.0
+    },
+    {
+      "title": "Show HN: Hosted JayBase – An append-only data store for safe AI agent writes",
+      "link": "https://jaybase.ai",
+      "summary": "Just launched the hosted version of my JayBase project, which I shared with you guys a few months ago. ( https://news.ycombinator.com/item?id=48999936 ) I'm really trying to design it from the ground up to be the way that agents can interact with business data, in the same way they can interact with code (by having a built-in history and built-in auditability, in the same way that coding agents do with Git). I'd love to get your feedback.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 22:59:45 +0000",
+      "timestamp": 1790204385.0
+    },
+    {
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&#8217;ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-23T18:45:00-04:00",
+      "timestamp": 1790203500.0
+    },
+    {
+      "title": "AI leaders warn UN of security risks as systems grow more powerful",
+      "link": "https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 22:41:35 +0000",
+      "timestamp": 1790203295.0
+    },
+    {
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-23T18:30:00-04:00",
+      "timestamp": 1790202600.0
+    },
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 23 Sep 2026 22:17:39 +0000",
+      "timestamp": 1790201859.0
+    },
+    {
+      "title": "The AI Hype Index: AI Loves Cheating",
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 22:07:08 +0000",
+      "timestamp": 1790201228.0
+    },
+    {
+      "title": "The last IMO problem AI could not solve [video]",
+      "link": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 21:47:19 +0000",
+      "timestamp": 1790200039.0
+    },
+    {
+      "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
+      "link": "https://www.avclub.com/meta-muse-ai-human-labor",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 21:34:58 +0000",
+      "timestamp": 1790199298.0
+    },
+    {
+      "title": "AI Agent Goal Hijack: How Attackers Turn an Agent's Own Tools Against It",
+      "link": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 21:30:50 +0000",
+      "timestamp": 1790199050.0
+    },
+    {
+      "title": "An 'AI freeze' could make big AI companies bigger and hurt smaller firms",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 21:30:47 +0000",
+      "timestamp": 1790199047.0
+    },
+    {
+      "title": "My Wedding Invitations Became an Experiment in AI Memory",
+      "link": "https://pureooze.com/blog/posts/2026-09-22-my-wedding-invitations-became-an-experiment-in-ai-memory/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 21:28:46 +0000",
+      "timestamp": 1790198926.0
+    },
+    {
+      "title": "A US-China AI Hotline Won't Be Ready For a While",
+      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 23 Sep 2026 21:00:00 +0000",
+      "timestamp": 1790197200.0
+    },
+    {
+      "title": "AI Goes to War: Ukraine AI Autonomous Drone Guidance",
+      "link": "https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 20:59:17 +0000",
+      "timestamp": 1790197157.0
+    },
+    {
+      "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
+      "link": "https://www.calcalistech.com/ctechnews/article/13p5khsib",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 20:54:39 +0000",
+      "timestamp": 1790196879.0
+    },
+    {
+      "title": "Agent Etna – Automated staging environment and regression compiler for AI agents",
+      "link": "https://www.agentetna.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 20:35:10 +0000",
+      "timestamp": 1790195710.0
+    },
+    {
+      "title": "AI can never produce sublime art",
+      "link": "https://hilariusbookbinder.substack.com/p/ai-can-never-produce-sublime-art",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 20:33:44 +0000",
+      "timestamp": 1790195624.0
+    },
+    {
+      "title": "The Most Important Market in AI Is the Middle",
+      "link": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 23 Sep 2026 20:28:20 +0000",
+      "timestamp": 1790195300.0
+    },
     {
       "title": "Show HN: Free attestation for AI agent decisions – verifying one costs $0.10",
       "link": "https://github.com/0xsims/rubric-attest",
@@ -48,42 +228,6 @@
       "timestamp": 1790193256.0
     },
     {
-      "title": "Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
-      "link": "https://arxiv.org/abs/2607.29516",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 19:45:56 +0000",
-      "timestamp": 1790192756.0
-    },
-    {
-      "title": "VSArena – The official open browser benchmark for embodied AI",
-      "link": "https://vsarena.vercel.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 19:41:58 +0000",
-      "timestamp": 1790192518.0
-    },
-    {
-      "title": "\"Good\" AI",
-      "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 19:35:01 +0000",
-      "timestamp": 1790192101.0
-    },
-    {
-      "title": "Support for Local AI Models in the Antigravity SDK",
-      "link": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 19:33:05 +0000",
-      "timestamp": 1790191985.0
-    },
-    {
       "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
       "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
       "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
@@ -93,94 +237,13 @@
       "timestamp": 1790191888.0
     },
     {
-      "title": "How we made claude.ai 3x faster in two weeks",
-      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "summary": "",
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 19:23:40 +0000",
-      "timestamp": 1790191420.0
-    },
-    {
-      "title": "Show HN: Ceptile AI Search platform which combines web results with AI chat",
-      "link": "https://www.ceptile.com/",
-      "summary": "I built Ceptile because I wanted a search tool that could combine the convenience of an AI answer with the ability to inspect the actual web pages behind it. A Ceptile search retrieves pages from the web, ranks the retrieved sources, and uses them to produce an answer with links back to the sources. You can open the sources and continue researching from there. I've also been building some things around the search workflow, including Notes for keeping research, translation tools, and ways to work with information found during a search. Just select a text in answer or web results, and it will sh",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 19:22:32 +0000",
-      "timestamp": 1790191352.0
-    },
-    {
-      "title": "Jensen Huang on AI Alarmists – NYT Ezra Klein Show",
-      "link": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 19:03:32 +0000",
-      "timestamp": 1790190212.0
-    },
-    {
-      "title": "My relationship with AI: seductive, frustrating and always demanding vigilance",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/24/my-complicated-relationship-with-ai-chatgpt-factchecking",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 18:52:04 +0000",
-      "timestamp": 1790189524.0
-    },
-    {
-      "title": "Dr Tricks Senior Dev N2 Taking Job W AI",
-      "link": "https://news.ycombinator.com/item?id=49820723",
-      "summary": "I am a senior programmer with 23 years experience. I brought AI and my skills to a Men's Health Dr. and worked closely with the Dr at a low salary. The Men's Health Dr. talked me into working with him and teaching him vibe coding, always ensuring me that \"I am not working myself out of a job\". With 23 years of experience I developed an advanced system for the Dr and his team, that was being used daily. As soon as the Dr. became fully invested in the EHR system's success and it's automated systems he worked me out of my full time salary position and belittled me in many ways. The Dr. started di",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 18:52:01 +0000",
-      "timestamp": 1790189521.0
-    },
-    {
-      "title": "Work, Wellbeing, and Choice: Empirical Lessons for AI Futures",
-      "link": "https://arxiv.org/abs/2609.11019",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 18:42:46 +0000",
-      "timestamp": 1790188966.0
-    },
-    {
-      "title": "Local AI News Feed",
-      "link": "https://local-ai-signal.vercel.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 18:40:38 +0000",
-      "timestamp": 1790188838.0
-    },
-    {
-      "title": "Ask HN: Do you offload your coding to AI, or keep your skills sharp?",
-      "link": "https://news.ycombinator.com/item?id=49820486",
-      "summary": "I used to be a software engineer, but these days I find myself being more of an agents manager: constantly switching between 3-4 tasks that my agents are working on, and making sure that the features get shipped, the bugs fixed, with correct and clean code. There's no doubt that I'm producing more value for the company, but I wonder if that's the best I can do for myself if the goal is staying relevant in the coming years. I wonder: if the AI is writing all the code, what value am I bringing? In an attempt to keep my critical thinking and coding skills sharp, I sometimes foolishly try to debug",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 18:35:34 +0000",
-      "timestamp": 1790188534.0
-    },
-    {
-      "title": "Can internal model transparency tame the AI race?",
-      "link": "https://blog.karthiktadepalli.com/p/internal-model-transparency",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 18:35:09 +0000",
-      "timestamp": 1790188509.0
-    },
-    {
-      "title": "Discover Solo: The Ultimate AI-Integrated Control Panel",
-      "link": "https://blog.master.dev/introducing-solo/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 18:30:33 +0000",
-      "timestamp": 1790188233.0
+      "source": "The Verge AI",
+      "published": "2026-09-23T15:00:00-04:00",
+      "timestamp": 1790190000.0
     },
     {
       "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
@@ -199,15 +262,6 @@
       "source": "The Verge AI",
       "published": "2026-09-23T14:22:57-04:00",
       "timestamp": 1790187777.0
-    },
-    {
-      "title": "How AI Helps and Hampers Junior Workers",
-      "link": "https://www.nominalnews.com/p/how-ai-helps-and-hampers-junior-workers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 18:22:39 +0000",
-      "timestamp": 1790187759.0
     },
     {
       "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
@@ -435,15 +489,6 @@
       "timestamp": 1790100000.0
     },
     {
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-22T12:34:08-04:00",
-      "timestamp": 1790094848.0
-    },
-    {
       "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
       "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
       "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
@@ -451,24 +496,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 22 Sep 2026 16:30:07 +0000",
       "timestamp": 1790094607.0
-    },
-    {
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-22T12:30:00-04:00",
-      "timestamp": 1790094600.0
-    },
-    {
-      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-22T12:01:10-04:00",
-      "timestamp": 1790092870.0
     },
     {
       "title": "Rabbit Is Back, This Time With an AI Agent App",
@@ -487,24 +514,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 22 Sep 2026 15:00:00 +0000",
       "timestamp": 1790089200.0
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "timestamp": 1790089200.0
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 22 Sep 2026 14:30:00 +0000",
-      "timestamp": 1790087400.0
     },
     {
       "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 22 Sep 2026 10:30:00 +0000",
       "timestamp": 1790073000.0
-    },
-    {
-      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
-      "link": "https://www.wired.com/story/big-interview-patti-harrison/",
-      "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 22 Sep 2026 10:00:00 +0000",
-      "timestamp": 1790071200.0
     }
   ]
 }
