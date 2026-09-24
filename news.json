@@ -1,24 +1,294 @@
 {
-  "scraped_at": "2026-09-24T09:58:44.464842+00:00",
+  "scraped_at": "2026-09-24T15:03:43.469246+00:00",
   "count": 59,
   "items": [
     {
-      "title": "AI has no intent and no motivation",
-      "link": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+      "title": "$5,999 Ryzen AI MAX+ 395 and Radeon R9700 workstation",
+      "link": "https://videocardz.com/newz/lucebox-opens-direct-orders-for-5999-ryzen-ai-max-395-and-radeon-r9700-workstation",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 09:13:25 +0000",
-      "timestamp": 1790241205.0
+      "published": "Thu, 24 Sep 2026 14:48:43 +0000",
+      "timestamp": 1790261323.0
     },
     {
-      "title": "Cutting the 'coordination tax': How agentic AI can reshape workflows",
-      "link": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows",
+      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+      "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "summary": "Lovable co-foudner Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 24 Sep 2026 14:43:25 +0000",
+      "timestamp": 1790261005.0
+    },
+    {
+      "title": "Submersion AI Debuts Basin",
+      "link": "https://submersion.ai/news/basin-cybergym-ranking/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 09:12:19 +0000",
-      "timestamp": 1790241139.0
+      "published": "Thu, 24 Sep 2026 14:39:15 +0000",
+      "timestamp": 1790260755.0
+    },
+    {
+      "title": "AI Safety Is Mostly a Sex Cult in Berkeley",
+      "link": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 14:38:31 +0000",
+      "timestamp": 1790260711.0
+    },
+    {
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures and Emergence.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 24 Sep 2026 14:31:00 +0000",
+      "timestamp": 1790260260.0
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 24 Sep 2026 14:30:00 +0000",
+      "timestamp": 1790260200.0
+    },
+    {
+      "title": "Why can’t we just keep rogue AIs off the internet?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep the agents off the internet? \"A strict air [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-24T10:30:00-04:00",
+      "timestamp": 1790260200.0
+    },
+    {
+      "title": "What are the odds that AI will affect the election?",
+      "link": "https://news.ycombinator.com/item?id=49831088",
+      "summary": "Given the dangers of AI hacking (which must be directed) given that our oligarchs own the AI systems and are currently unregulated?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 14:25:56 +0000",
+      "timestamp": 1790259956.0
+    },
+    {
+      "title": "Dear AI Agent Swarms",
+      "link": "https://smales.com/dear-ai-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 14:21:48 +0000",
+      "timestamp": 1790259708.0
+    },
+    {
+      "title": "Gov.uk founder warns AI gold rush could leave Britain locked in",
+      "link": "https://www.theregister.com/public-sector/2026/09/22/govuk-founder-warns-ai-gold-rush-could-leave-britain-locked-in/5297828",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 14:16:28 +0000",
+      "timestamp": 1790259388.0
+    },
+    {
+      "title": "Google is sending an AI satellite into space next week",
+      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-24T10:15:17-04:00",
+      "timestamp": 1790259317.0
+    },
+    {
+      "title": "The vibes are bad for Flock in Washington",
+      "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime and counterterrorism subcommittee chair [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-24T10:15:05-04:00",
+      "timestamp": 1790259305.0
+    },
+    {
+      "title": "I have some questions for Mark Zuckerberg",
+      "link": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+      "summary": "It&#8217;s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I&#8217;ve been using it — it is surprisingly good.&#160; CEO Mark Zuckerberg has obviously been out there taking a victory lap and participating in a lot [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-24T10:15:00-04:00",
+      "timestamp": 1790259300.0
+    },
+    {
+      "title": "HN: Zrevick – AI-native business OS for technical founders",
+      "link": "https://zrevick.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 14:09:34 +0000",
+      "timestamp": 1790258974.0
+    },
+    {
+      "title": "You probably don't know as much AI as you think you do",
+      "link": "https://aiforactualwork.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 14:07:26 +0000",
+      "timestamp": 1790258846.0
+    },
+    {
+      "title": "What AI companies pays the people who train it",
+      "link": "https://blastradius.dpdns.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 14:07:07 +0000",
+      "timestamp": 1790258827.0
+    },
+    {
+      "title": "Meta debuts 'Charm' device to use new AI assistant Muse on the go",
+      "link": "https://financialpost.com/technology/meta-debuts-muse-charm-device",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 14:01:53 +0000",
+      "timestamp": 1790258513.0
+    },
+    {
+      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+      "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+      "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 24 Sep 2026 14:00:00 +0000",
+      "timestamp": 1790258400.0
+    },
+    {
+      "title": "AI labs' job-loss plans won't say what the public gets",
+      "link": "https://beigebook.xyz/posts/preparedness-theater/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 13:58:02 +0000",
+      "timestamp": 1790258282.0
+    },
+    {
+      "title": "AI could make more companies worth hacking, Anthropic report suggests",
+      "link": "https://fortune.com/2026/09/24/ai-could-make-more-companies-worth-hacking-anthropic-report-suggests/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 13:55:38 +0000",
+      "timestamp": 1790258138.0
+    },
+    {
+      "title": "Our EU AI Act compliance engine has zero LLM calls, and CI blocks adding any",
+      "link": "https://opencomplai.com/blog/no-llm-in-compliance-decisions",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 13:50:46 +0000",
+      "timestamp": 1790257846.0
+    },
+    {
+      "title": "Hard Stop: Out-of-band kernel preemption for rogue AI agents",
+      "link": "https://github.com/joseluispino/hardstop",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 13:50:29 +0000",
+      "timestamp": 1790257829.0
+    },
+    {
+      "title": "I judged my mum for using AI, until I caught myself doing worse",
+      "link": "https://www.0xsid.com/blog/intellectual-fitness",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 13:47:26 +0000",
+      "timestamp": 1790257646.0
+    },
+    {
+      "title": "Bugpocalypse, or reporting bugs in an AI age",
+      "link": "https://www.qemu.org/2026/09/23/bugs/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 13:45:28 +0000",
+      "timestamp": 1790257528.0
+    },
+    {
+      "title": "Scan for Good: Wiz and DeepMind use AI to help protect critical infrastructure",
+      "link": "https://www.wiz.io/blog/scan-for-good-critical-ai-exposures",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 13:45:17 +0000",
+      "timestamp": 1790257517.0
+    },
+    {
+      "title": "The Group Chat Where World Leaders Are Racing to Create AI Controls",
+      "link": "https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 13:40:06 +0000",
+      "timestamp": 1790257206.0
+    },
+    {
+      "title": "Show HN: Site MCP – Let any AI agent read your website, free, no install",
+      "link": "https://sitemcp.dev",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 13:34:32 +0000",
+      "timestamp": 1790256872.0
+    },
+    {
+      "title": "Meta’s Muse AI Charms can interact with each other",
+      "link": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+      "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which includes more details about the device that the company teased during its Meta Connect keynote on Wednesday. The Muse Charm houses the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-24T09:31:43-04:00",
+      "timestamp": 1790256703.0
+    },
+    {
+      "title": "Everything is spying on you and there&#8217;s no opting out",
+      "link": "https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance",
+      "summary": "Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever's going on around you. The privacy blowback was immediate and inevitable: Experts warned of the legal risks of using the features, especially in nonpublic spaces and states [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-24T09:30:00-04:00",
+      "timestamp": 1790256600.0
+    },
+    {
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 24 Sep 2026 12:54:19 +0000",
+      "timestamp": 1790254459.0
+    },
+    {
+      "title": "OpenAI agents hacked an Australian government website in search for data",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-24T07:52:32-04:00",
+      "timestamp": 1790250752.0
+    },
+    {
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 24 Sep 2026 10:46:56 +0000",
+      "timestamp": 1790246816.0
     },
     {
       "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
@@ -28,159 +298,6 @@
       "source": "The Verge AI",
       "published": "2026-09-24T05:04:18-04:00",
       "timestamp": 1790240658.0
-    },
-    {
-      "title": "Proposed bill to ban artificial superintelligence and create Department of AI",
-      "link": "https://apnews.com/article/ai-superintelligence-bernie-sanders-d6a6a2cd8e71d7c95bdc394595aa85d1",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 08:59:32 +0000",
-      "timestamp": 1790240372.0
-    },
-    {
-      "title": "Anthropic CEO Amodei Warns UN Security Council on AI Risks",
-      "link": "https://www.youtube.com/watch?v=u-u8gOgNA9o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 08:55:52 +0000",
-      "timestamp": 1790240152.0
-    },
-    {
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 08:23:03 +0000",
-      "timestamp": 1790238183.0
-    },
-    {
-      "title": "Phyll, a UX review for apps built with AI that keeps the design",
-      "link": "https://github.com/carlosphyll/phyll",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 07:54:55 +0000",
-      "timestamp": 1790236495.0
-    },
-    {
-      "title": "Show HN: CastTake – turn one product photo into a short AI UGC ad video",
-      "link": "https://casttake.com/ai-ugc-ad-generator",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 07:49:11 +0000",
-      "timestamp": 1790236151.0
-    },
-    {
-      "title": "Show HN: CubeLV – AI that designs your automation before building it",
-      "link": "https://app.cubelv.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 07:39:23 +0000",
-      "timestamp": 1790235563.0
-    },
-    {
-      "title": "When AI Acts, Who Remembers What Happened?(cogextai.com)",
-      "link": "https://news.ycombinator.com/item?id=49827412",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 07:27:14 +0000",
-      "timestamp": 1790234834.0
-    },
-    {
-      "title": "Nuros – AI study tools from notes, PDFs, videos, and links",
-      "link": "https://nuros.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 07:22:20 +0000",
-      "timestamp": 1790234540.0
-    },
-    {
-      "title": "Google Private AI Compute with server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 07:12:37 +0000",
-      "timestamp": 1790233957.0
-    },
-    {
-      "title": "It took 20 yrs to start regulating social media – will AI controls come sooner?",
-      "link": "https://www.rnz.co.nz/news/business/1557652/it-took-20-years-to-start-regulating-social-media-will-ai-controls-come-sooner",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 06:54:04 +0000",
-      "timestamp": 1790232844.0
-    },
-    {
-      "title": "Understanding Runtime Governance for Enterprise AI Deployment",
-      "link": "https://news.ycombinator.com/item?id=49827032",
-      "summary": "There are a lot of incumbents and start-ups building AI runtime governance layer. Was wondering if anyone actually sees adoption of runtime governance layers despite the chatter around the need for it? I can't seem to wrap my head around the moat for such a product given that it is a fixed set of rules which is not proprietary in nature. Am I looking at this space with the wrong lenses? I see how its solves the problem of accountability for risk and compliance teams but I do not see how this is defensible as a standalone business.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 06:39:00 +0000",
-      "timestamp": 1790231940.0
-    },
-    {
-      "title": "Investigate top humanity questions with your own AI agent",
-      "link": "https://interworky.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 06:38:59 +0000",
-      "timestamp": 1790231939.0
-    },
-    {
-      "title": "Can open-source prompt-injection detectors catch realistic AI agent attacks?",
-      "link": "https://github.com/rudratoshs/buried-injections",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 06:37:02 +0000",
-      "timestamp": 1790231822.0
-    },
-    {
-      "title": "AI Passport Photo",
-      "link": "https://www.aipassportphoto.org/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 06:34:07 +0000",
-      "timestamp": 1790231647.0
-    },
-    {
-      "title": "How to Audit an AI Agent:Time-Travel Debugging and Drift Measurement",
-      "link": "https://medium.com/@MirArshadTalpur/how-to-audit-not-observe-an-ai-agent-time-travel-debugging-and-drift-measurement-f755a6f4732e",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 06:34:03 +0000",
-      "timestamp": 1790231643.0
-    },
-    {
-      "title": "The cost and quality frontier across 29 AI coding models",
-      "link": "https://bito.ai/benchmarks/ai-coding-model-cost/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 06:34:00 +0000",
-      "timestamp": 1790231640.0
-    },
-    {
-      "title": "Mysteries of AI Generalization",
-      "link": "https://www.astralcodexten.com/p/mysteries-of-ai-generalization",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 06:12:09 +0000",
-      "timestamp": 1790230329.0
     },
     {
       "title": "Everything new coming to Meta’s AI agent Muse",
@@ -230,47 +347,11 @@
     {
       "title": "Meta introduces camera-free AI glasses",
       "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 23 Sep 2026 23:39:44 +0000",
       "timestamp": 1790206784.0
-    },
-    {
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-23T19:37:17-04:00",
-      "timestamp": 1790206637.0
-    },
-    {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-23T19:19:42-04:00",
-      "timestamp": 1790205582.0
-    },
-    {
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&#8217;ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-23T18:45:00-04:00",
-      "timestamp": 1790203500.0
-    },
-    {
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-23T18:30:00-04:00",
-      "timestamp": 1790202600.0
     },
     {
       "title": "Anthropic says its biology lab has already found something big",
@@ -282,7 +363,7 @@
       "timestamp": 1790201859.0
     },
     {
-      "title": "A US-China AI Hotline Won't Be Ready For a While",
+      "title": "A US-China AI Hotline Won’t Be Ready for a While",
       "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
       "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
       "image": null,
@@ -300,15 +381,6 @@
       "timestamp": 1790191888.0
     },
     {
-      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-23T15:00:00-04:00",
-      "timestamp": 1790190000.0
-    },
-    {
       "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
       "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
       "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
@@ -318,15 +390,6 @@
       "timestamp": 1790188200.0
     },
     {
-      "title": "Data centers are black boxes, but California wants to change that",
-      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-      "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-23T14:22:57-04:00",
-      "timestamp": 1790187777.0
-    },
-    {
       "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
       "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
       "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
@@ -334,15 +397,6 @@
       "source": "Wired AI",
       "published": "Wed, 23 Sep 2026 18:03:00 +0000",
       "timestamp": 1790186580.0
-    },
-    {
-      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-23T14:00:00-04:00",
-      "timestamp": 1790186400.0
     },
     {
       "title": "ChatGPT mobile app gets voice-based agentic features",
@@ -381,18 +435,18 @@
       "timestamp": 1790173800.0
     },
     {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 23 Sep 2026 14:30:00 +0000",
       "timestamp": 1790173800.0
     },
     {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 23 Sep 2026 14:30:00 +0000",
@@ -453,42 +507,6 @@
       "timestamp": 1790139548.0
     },
     {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 22 Sep 2026 23:21:49 +0000",
-      "timestamp": 1790119309.0
-    },
-    {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 22 Sep 2026 21:56:43 +0000",
-      "timestamp": 1790114203.0
-    },
-    {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 22 Sep 2026 20:00:00 +0000",
-      "timestamp": 1790107200.0
-    },
-    {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 22 Sep 2026 19:09:11 +0000",
-      "timestamp": 1790104151.0
-    },
-    {
       "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
       "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
       "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
@@ -496,15 +514,6 @@
       "source": "Wired AI",
       "published": "Tue, 22 Sep 2026 18:19:13 +0000",
       "timestamp": 1790101153.0
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 22 Sep 2026 18:00:00 +0000",
-      "timestamp": 1790100000.0
     },
     {
       "title": "Rabbit Is Back, This Time With an AI Agent App",
@@ -519,15 +528,6 @@
       "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
       "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
       "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 22 Sep 2026 13:00:00 +0000",
-      "timestamp": 1790082000.0
-    },
-    {
-      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-      "link": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
-      "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
       "image": null,
       "source": "Wired AI",
       "published": "Tue, 22 Sep 2026 13:00:00 +0000",
