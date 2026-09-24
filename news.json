@@ -1,7 +1,214 @@
 {
-  "scraped_at": "2026-09-24T19:08:00.937714+00:00",
+  "scraped_at": "2026-09-24T22:22:15.451009+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Askholes and Low Effort AI Answers",
+      "link": "https://dennisforbes.ca/blog/microblog/2026/09/askholes_and_low_effort_ai_answers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 21:38:35 +0000",
+      "timestamp": 1790285915.0
+    },
+    {
+      "title": "CrowdStrike: Frontier AI for Cybersecurity",
+      "link": "https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 21:38:07 +0000",
+      "timestamp": 1790285887.0
+    },
+    {
+      "title": "The New STOC Rules for the AI Era",
+      "link": "https://blog.computationalcomplexity.org/2026/09/the-new-stoc-rules-for-ai-era.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 21:16:04 +0000",
+      "timestamp": 1790284564.0
+    },
+    {
+      "title": "AI Help for Biological or Chemical Weapons",
+      "link": "https://www.science.org/content/blog-post/ai-help-biological-or-chemical-weapons",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 20:59:16 +0000",
+      "timestamp": 1790283556.0
+    },
+    {
+      "title": "Show HN: Canary (YC) – Independent verification for AI code",
+      "link": "https://www.runcanary.ai/",
+      "summary": "Hey HN, we are Aakash and Viswesh and we are building Canary ( https://www.runcanary.ai/ ) - independent verification for AI code. Claude/Codex calls Canary with the changesets, intended behaviour and team knowledge. Canary then deploys agent swarms to investigate potential failures and test suspected runtime bugs in remote sandboxes. To try it on your repository, paste this into your coding agent: Install the Canary CLI with npm i -g @runcanary/cli, then run canary skills and follow its instructions to onboard this repository. Verification starts with what software is supposed to do and most ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 20:57:52 +0000",
+      "timestamp": 1790283472.0
+    },
+    {
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 20:51:50 +0000",
+      "timestamp": 1790283110.0
+    },
+    {
+      "title": "Show HN: A $25 DIY alternative to $159 AI voice recorders – BYOK or local",
+      "link": "https://zephclick.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 20:51:25 +0000",
+      "timestamp": 1790283085.0
+    },
+    {
+      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+      "link": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 20:29:34 +0000",
+      "timestamp": 1790281774.0
+    },
+    {
+      "title": "Anthropic Strikes $12B AI Computing Deal with Akamai",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 20:27:48 +0000",
+      "timestamp": 1790281668.0
+    },
+    {
+      "title": "Restaurants Are Using AI to Advertise Their Food and It's Making People Sick",
+      "link": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 20:03:11 +0000",
+      "timestamp": 1790280191.0
+    },
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-24T15:59:26-04:00",
+      "timestamp": 1790279966.0
+    },
+    {
+      "title": "How to stay smart in the age of AI: the science of critical thinking",
+      "link": "https://www.nature.com/articles/d41586-026-02930-6",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 19:53:23 +0000",
+      "timestamp": 1790279603.0
+    },
+    {
+      "title": "Why AI companies don't need new laws",
+      "link": "https://twitter.com/Paul__Walsh/status/2102801667657748720",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 19:51:58 +0000",
+      "timestamp": 1790279518.0
+    },
+    {
+      "title": "Alexandr Wang Is Meta's Not-So-Secret Weapon in the AI Agent Promo War",
+      "link": "https://www.businessinsider.com/alexandr-wang-meta-muse-social-media-posts-pr-strategy-2026-9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 19:51:46 +0000",
+      "timestamp": 1790279506.0
+    },
+    {
+      "title": "Tech leaders to UN: For sake of humanity, please control the AI tech we created",
+      "link": "https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 19:48:45 +0000",
+      "timestamp": 1790279325.0
+    },
+    {
+      "title": "Tiny-Vedas: RISC-V Infrastructure for AI Accelerator Design [pdf]",
+      "link": "https://siliscale.com/papers/tiny-vedas.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 19:44:41 +0000",
+      "timestamp": 1790279081.0
+    },
+    {
+      "title": "GizmoSQL changes the unit economics for AI analyst companies",
+      "link": "https://emms21.github.io/gizmosql-followup/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 19:38:07 +0000",
+      "timestamp": 1790278687.0
+    },
+    {
+      "title": "I Think I Found an AI Agent Worth the Risk",
+      "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 24 Sep 2026 19:36:35 +0000",
+      "timestamp": 1790278595.0
+    },
+    {
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 24 Sep 2026 19:15:00 +0000",
+      "timestamp": 1790277300.0
+    },
+    {
+      "title": "Ask HN: How do you coach new grads in AI Native dev environments?",
+      "link": "https://news.ycombinator.com/item?id=49835496",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 19:12:14 +0000",
+      "timestamp": 1790277134.0
+    },
+    {
+      "title": "When AI writes almost all code, what happens to software engineering?",
+      "link": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 19:09:23 +0000",
+      "timestamp": 1790276963.0
+    },
+    {
+      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+      "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 19:07:55 +0000",
+      "timestamp": 1790276875.0
+    },
+    {
+      "title": "Behind NAZA: How AI is used to assess, reduce collateral damage in IDF interview",
+      "link": "https://www.jpost.com/israel-news/article-909190",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 19:06:44 +0000",
+      "timestamp": 1790276804.0
+    },
     {
       "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
       "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
@@ -10,51 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 24 Sep 2026 19:00:42 +0000",
       "timestamp": 1790276442.0
-    },
-    {
-      "title": "OpenAI, Anthropic CEOs urge UN countries to cooperate on AI safety standards",
-      "link": "https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 18:40:47 +0000",
-      "timestamp": 1790275247.0
-    },
-    {
-      "title": "Existing laws already cover every type of AI security incident",
-      "link": "https://paulfwalsh.substack.com/p/existing-laws-already-cover-every",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 18:35:22 +0000",
-      "timestamp": 1790274922.0
-    },
-    {
-      "title": "We turned off AI access for new hires",
-      "link": "https://www.valon.ai/blog/we-turned-off-ai-access-for-new-hires",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 18:32:01 +0000",
-      "timestamp": 1790274721.0
-    },
-    {
-      "title": "Control AI agents at the execution layer, not the prompt",
-      "link": "https://github.com/CTRLRun/ctrlrun",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 18:17:55 +0000",
-      "timestamp": 1790273875.0
-    },
-    {
-      "title": "Don't let AI kill the author",
-      "link": "https://www.economist.com/leaders/2026/09/24/dont-let-ai-kill-the-author",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 18:14:25 +0000",
-      "timestamp": 1790273665.0
     },
     {
       "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
@@ -66,15 +228,6 @@
       "timestamp": 1790273504.0
     },
     {
-      "title": "AI is accelerating and amplifying threats: immediate action is necessary",
-      "link": "https://english.aivd.nl/latest/news/2026/09/24/ai-is-accelerating-and-amplifying-threats-immediate-action-is-necessary",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 18:04:47 +0000",
-      "timestamp": 1790273087.0
-    },
-    {
       "title": "Jensen Huang talks about AI and climate change like a supervillain",
       "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
       "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
@@ -82,42 +235,6 @@
       "source": "The Verge AI",
       "published": "2026-09-24T14:04:44-04:00",
       "timestamp": 1790273084.0
-    },
-    {
-      "title": "Show HN: Rig – Open-source cloud desktops for AI agents",
-      "link": "https://github.com/ShadowWalker2014/rig",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 18:01:51 +0000",
-      "timestamp": 1790272911.0
-    },
-    {
-      "title": "Show HN: DrawCMS – An open-source animated diagramming tool for AI Agents",
-      "link": "https://github.com/drawcms/drawcms",
-      "summary": "Hello, I'm building DrawCMS. It's an open source animated diagram editor you can self-host. You can ask a compatible AI agent to read your repository and create an editable diagram, then walk through the flow step by step on the canvas. AI makes it easy to write code quickly. Keeping track of how that code works can be harder. You finish a feature, move on, and a week later you're trying to remember where a request goes, which service writes to the database, or why a background job runs. It supports architecture, sequence, network and etc diagrams, infrastructure icons also . You can also draw",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:57:11 +0000",
-      "timestamp": 1790272631.0
-    },
-    {
-      "title": "Logs you, your AI and cron jobs write to that you can prove weren't altered",
-      "link": "https://freshjots.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:53:45 +0000",
-      "timestamp": 1790272425.0
-    },
-    {
-      "title": "Show HN: bananabread AI – Find what customers love and want from your products",
-      "link": "https://bb-product-api-docs.web.app/",
-      "summary": "We recently launched an API that finds what people consistently love about a specific consumer product. Some of our first users reached out asking whether it could also find what people still want from the product. That’s what we're launching today. For example, reviews like \"I love the taste, but I wish it had less sugar\" tells you what's working well already and what you could improve. Give the API a brand + product name (only consumer goods work for now). It first searches for thousands of reviews per product across Amazon, TikTok, Reddit, YouTube, Instagram, Walmart, and other web sources.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:52:55 +0000",
-      "timestamp": 1790272375.0
     },
     {
       "title": "Meta is going to let you build games with AI right on your phone",
@@ -129,42 +246,6 @@
       "timestamp": 1790272349.0
     },
     {
-      "title": "AI Workers' Inquiry 2026",
-      "link": "https://techworkersinquiry.org/ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:44:38 +0000",
-      "timestamp": 1790271878.0
-    },
-    {
-      "title": ".si domain registrations outpace .ai after Trump's 'Super Intelligence' rename",
-      "link": "https://www.netcraft.com/blog/slovenian-si-domain-registrations-rise-trump-super-intelligence",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:44:19 +0000",
-      "timestamp": 1790271859.0
-    },
-    {
-      "title": "Unmasking \"zombie cells\" in aging tissue with an AI-powered barcode",
-      "link": "https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:43:46 +0000",
-      "timestamp": 1790271826.0
-    },
-    {
-      "title": "China's Mind on AI",
-      "link": "https://www.axios.com/2026/09/24/china-ai-plan-trump-xi-visit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:40:20 +0000",
-      "timestamp": 1790271620.0
-    },
-    {
       "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
       "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
       "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
@@ -172,60 +253,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 24 Sep 2026 17:39:24 +0000",
       "timestamp": 1790271564.0
-    },
-    {
-      "title": "Near-Total Liquid Heat Capture Keeps AI Racks Cool",
-      "link": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:35:38 +0000",
-      "timestamp": 1790271338.0
-    },
-    {
-      "title": "Funny VideosHow to Start a Faceless YouTube Channel with AI: A Complete Guide",
-      "link": "https://coursiv.io/blog/how-to-start-a-faceless-youtube-channel-with-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:34:04 +0000",
-      "timestamp": 1790271244.0
-    },
-    {
-      "title": "Mysteries of AI Generalization",
-      "link": "https://www.astralcodexten.com/p/mysteries-of-ai-generalization",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:23:26 +0000",
-      "timestamp": 1790270606.0
-    },
-    {
-      "title": "The Power of AI: Mass Collaboration",
-      "link": "https://www.cppdepend.com/blog/ai-real-power-mass-collaboration/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:23:18 +0000",
-      "timestamp": 1790270598.0
-    },
-    {
-      "title": "Open AI in the Wild: Adoption and Adaptation of Open Models on R/LocalLLaMA",
-      "link": "https://dl.acm.org/doi/abs/10.1145/3805689.3812421",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:16:14 +0000",
-      "timestamp": 1790270174.0
-    },
-    {
-      "title": "Paper2agent Turns Static Papers into Live AI Tools",
-      "link": "https://spectrum.ieee.org/paper2agent-ai-agents-research-papers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 17:16:06 +0000",
-      "timestamp": 1790270166.0
     },
     {
       "title": "Muse will apparently let you download its entire filesystem",
@@ -338,7 +365,7 @@
     {
       "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
       "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-      "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 24 Sep 2026 14:31:00 +0000",
@@ -379,15 +406,6 @@
       "source": "The Verge AI",
       "published": "2026-09-24T10:15:05-04:00",
       "timestamp": 1790259305.0
-    },
-    {
-      "title": "I have some questions for Mark Zuckerberg",
-      "link": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
-      "summary": "It&#8217;s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I&#8217;ve been using it — it is surprisingly good.&#160; CEO Mark Zuckerberg has obviously been out there taking a victory lap and participating in a lot [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-24T10:15:00-04:00",
-      "timestamp": 1790259300.0
     },
     {
       "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
@@ -498,15 +516,6 @@
       "timestamp": 1790186580.0
     },
     {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 23 Sep 2026 17:00:00 +0000",
-      "timestamp": 1790182800.0
-    },
-    {
       "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
       "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
       "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 22 Sep 2026 18:19:13 +0000",
       "timestamp": 1790101153.0
-    },
-    {
-      "title": "Rabbit Is Back, This Time With an AI Agent App",
-      "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
-      "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 22 Sep 2026 16:00:00 +0000",
-      "timestamp": 1790092800.0
     }
   ]
 }
