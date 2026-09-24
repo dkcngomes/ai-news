@@ -1,114 +1,186 @@
 {
-  "scraped_at": "2026-09-24T04:46:36.728958+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-24T09:58:44.464842+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Eric Schmidt on the era of AI warfare",
-      "link": "https://www.economist.com/insider/inside-defence/eric-schmidt-on-the-era-of-ai-warfare",
+      "title": "AI has no intent and no motivation",
+      "link": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 04:34:29 +0000",
-      "timestamp": 1790224469.0
+      "published": "Thu, 24 Sep 2026 09:13:25 +0000",
+      "timestamp": 1790241205.0
     },
     {
-      "title": "China's Approach to AI",
-      "link": "https://madeinchinajournal.com/2026/09/23/chinas-approach-to-ai-infrastructural-statecraft-managed-pluralism/",
+      "title": "Cutting the 'coordination tax': How agentic AI can reshape workflows",
+      "link": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 04:01:17 +0000",
-      "timestamp": 1790222477.0
+      "published": "Thu, 24 Sep 2026 09:12:19 +0000",
+      "timestamp": 1790241139.0
     },
     {
-      "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
-      "link": "https://news.ycombinator.com/item?id=49826029",
-      "summary": "Just to preface, this isn't the typical \"Am I being replaced by vibe coding\" post. I just had a talk with one of my first ongoing clients, who sort of helped me kickstart my freelancing \"career\". He is one of those people who has a broad understanding of the tech out there, and what its capabilities are, but is not a programmer. He wanted to show me, and get my opinion on a restaurant management app that he's been using Lovable to develop. Admittedly, a lot of it is very impressive, and he has obviously become very good at using these tools. Part of that scares me, but I've largely accepted th",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 03:48:41 +0000",
-      "timestamp": 1790221721.0
+      "source": "The Verge AI",
+      "published": "2026-09-24T05:04:18-04:00",
+      "timestamp": 1790240658.0
     },
     {
-      "title": "Show HN: Built-in APM for vibe-coded apps so your AI can fix them",
-      "link": "https://oncroft.net/blog/monitoring-built-in-for-every-croft-app/",
+      "title": "Proposed bill to ban artificial superintelligence and create Department of AI",
+      "link": "https://apnews.com/article/ai-superintelligence-bernie-sanders-d6a6a2cd8e71d7c95bdc394595aa85d1",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 03:31:45 +0000",
-      "timestamp": 1790220705.0
+      "published": "Thu, 24 Sep 2026 08:59:32 +0000",
+      "timestamp": 1790240372.0
     },
     {
-      "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
-      "link": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
+      "title": "Anthropic CEO Amodei Warns UN Security Council on AI Risks",
+      "link": "https://www.youtube.com/watch?v=u-u8gOgNA9o",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 03:24:33 +0000",
-      "timestamp": 1790220273.0
+      "published": "Thu, 24 Sep 2026 08:55:52 +0000",
+      "timestamp": 1790240152.0
     },
     {
-      "title": "We Run Kaizen on AI",
-      "link": "https://kznconsulting.com/work/how-we-run-kaizen",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 03:08:51 +0000",
-      "timestamp": 1790219331.0
+      "published": "Thu, 24 Sep 2026 08:23:03 +0000",
+      "timestamp": 1790238183.0
     },
     {
-      "title": "Automatically detecting AI text in my browser",
-      "link": "https://www.seangoedecke.com/deckard/",
+      "title": "Phyll, a UX review for apps built with AI that keeps the design",
+      "link": "https://github.com/carlosphyll/phyll",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 02:31:32 +0000",
-      "timestamp": 1790217092.0
+      "published": "Thu, 24 Sep 2026 07:54:55 +0000",
+      "timestamp": 1790236495.0
     },
     {
-      "title": "Show HN: Chatlo – an iOS-native AI agent, now with Jev",
-      "link": "https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188943",
-      "summary": "Hello HN! I’m sure many of you have used AI agent apps like OpenClaw, Claude Code, or Codex on your PCs, but you rarely see AI agents running on the iOS platform. That’s why I created an agent app that runs exclusively on iOS—it doesn’t require a separate computer or server; it runs entirely on your iPhone. Plus, in the latest version, we’ve become the first to integrate Jev AI—a very popular decision-making AI—on the App Store. We invite you to try it out, and we look forward to your feedback. App Store: https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188...",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 02:23:12 +0000",
-      "timestamp": 1790216592.0
-    },
-    {
-      "title": "AI Isn't Going to Destroy Humanity–But the People Building It Might",
-      "link": "https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/",
+      "title": "Show HN: CastTake – turn one product photo into a short AI UGC ad video",
+      "link": "https://casttake.com/ai-ugc-ad-generator",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 02:09:12 +0000",
-      "timestamp": 1790215752.0
+      "published": "Thu, 24 Sep 2026 07:49:11 +0000",
+      "timestamp": 1790236151.0
     },
     {
-      "title": "The Misalignment Is Within: Why Mathematics Must Embrace the AI Paradigm",
-      "link": "https://medium.com/@b1nj0y/the-misalignment-is-within-why-mathematics-must-embrace-the-ai-paradigm-8ba75c4bafda",
+      "title": "Show HN: CubeLV – AI that designs your automation before building it",
+      "link": "https://app.cubelv.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 01:54:20 +0000",
-      "timestamp": 1790214860.0
+      "published": "Thu, 24 Sep 2026 07:39:23 +0000",
+      "timestamp": 1790235563.0
     },
     {
-      "title": "AP: Avoid language that gives [AI] human characteristics",
-      "link": "https://twitter.com/APStylebook/status/2102807962364383502",
+      "title": "When AI Acts, Who Remembers What Happened?(cogextai.com)",
+      "link": "https://news.ycombinator.com/item?id=49827412",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 01:19:38 +0000",
-      "timestamp": 1790212778.0
+      "published": "Thu, 24 Sep 2026 07:27:14 +0000",
+      "timestamp": 1790234834.0
     },
     {
-      "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
-      "link": "https://github.com/saulpw/visidata/pull/3229",
+      "title": "Nuros – AI study tools from notes, PDFs, videos, and links",
+      "link": "https://nuros.app/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 01:14:43 +0000",
-      "timestamp": 1790212483.0
+      "published": "Thu, 24 Sep 2026 07:22:20 +0000",
+      "timestamp": 1790234540.0
+    },
+    {
+      "title": "Google Private AI Compute with server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 07:12:37 +0000",
+      "timestamp": 1790233957.0
+    },
+    {
+      "title": "It took 20 yrs to start regulating social media – will AI controls come sooner?",
+      "link": "https://www.rnz.co.nz/news/business/1557652/it-took-20-years-to-start-regulating-social-media-will-ai-controls-come-sooner",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 06:54:04 +0000",
+      "timestamp": 1790232844.0
+    },
+    {
+      "title": "Understanding Runtime Governance for Enterprise AI Deployment",
+      "link": "https://news.ycombinator.com/item?id=49827032",
+      "summary": "There are a lot of incumbents and start-ups building AI runtime governance layer. Was wondering if anyone actually sees adoption of runtime governance layers despite the chatter around the need for it? I can't seem to wrap my head around the moat for such a product given that it is a fixed set of rules which is not proprietary in nature. Am I looking at this space with the wrong lenses? I see how its solves the problem of accountability for risk and compliance teams but I do not see how this is defensible as a standalone business.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 06:39:00 +0000",
+      "timestamp": 1790231940.0
+    },
+    {
+      "title": "Investigate top humanity questions with your own AI agent",
+      "link": "https://interworky.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 06:38:59 +0000",
+      "timestamp": 1790231939.0
+    },
+    {
+      "title": "Can open-source prompt-injection detectors catch realistic AI agent attacks?",
+      "link": "https://github.com/rudratoshs/buried-injections",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 06:37:02 +0000",
+      "timestamp": 1790231822.0
+    },
+    {
+      "title": "AI Passport Photo",
+      "link": "https://www.aipassportphoto.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 06:34:07 +0000",
+      "timestamp": 1790231647.0
+    },
+    {
+      "title": "How to Audit an AI Agent:Time-Travel Debugging and Drift Measurement",
+      "link": "https://medium.com/@MirArshadTalpur/how-to-audit-not-observe-an-ai-agent-time-travel-debugging-and-drift-measurement-f755a6f4732e",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 06:34:03 +0000",
+      "timestamp": 1790231643.0
+    },
+    {
+      "title": "The cost and quality frontier across 29 AI coding models",
+      "link": "https://bito.ai/benchmarks/ai-coding-model-cost/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 06:34:00 +0000",
+      "timestamp": 1790231640.0
+    },
+    {
+      "title": "Mysteries of AI Generalization",
+      "link": "https://www.astralcodexten.com/p/mysteries-of-ai-generalization",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 06:12:09 +0000",
+      "timestamp": 1790230329.0
     },
     {
       "title": "Everything new coming to Meta’s AI agent Muse",
@@ -120,24 +192,6 @@
       "timestamp": 1790212412.0
     },
     {
-      "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
-      "link": "https://news.ycombinator.com/item?id=49824887",
-      "summary": "Seeing more and more people leave great big tech jobs or very smart new grads start AI companies that seem to hit $10m, $50m, $100m ARR incredibly quickly. What’s actually going on inside these companies? Are they profitable? How much are they burning? Are they really growing that fast? And are founders/employees building for the long term or basically aiming for an acquisition? Would be interested to hear from anyone who’s worked at one of these companies. Does it give you FOMO? I'm starting as SRE @FAANG soon as a career switcher so that's cool in a brand new low level domain in storage. Out",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 01:04:35 +0000",
-      "timestamp": 1790211875.0
-    },
-    {
-      "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
-      "link": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 00:59:41 +0000",
-      "timestamp": 1790211581.0
-    },
-    {
       "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
       "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
       "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
@@ -147,24 +201,6 @@
       "timestamp": 1790210777.0
     },
     {
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 00:41:31 +0000",
-      "timestamp": 1790210491.0
-    },
-    {
-      "title": "Holistic design systems for the AI coding era",
-      "link": "https://numeric.substack.com/p/design-systems-at-numeric",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 00:21:16 +0000",
-      "timestamp": 1790209276.0
-    },
-    {
       "title": "Meta is making a standalone Muse AI gadget",
       "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
       "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for [&#8230;]",
@@ -172,33 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-09-23T20:15:20-04:00",
       "timestamp": 1790208920.0
-    },
-    {
-      "title": "AI-CAD: An OSS Multi-Agent Harness for Mech. Eng. CAD",
-      "link": "https://github.com/ai-cad-labs/ai-cad",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 00:14:44 +0000",
-      "timestamp": 1790208884.0
-    },
-    {
-      "title": "From biologists, math could learn to live with AI",
-      "link": "https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 00:04:00 +0000",
-      "timestamp": 1790208240.0
-    },
-    {
-      "title": "Google says its AI model gained unauthorized access to three outside systems",
-      "link": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 23:58:27 +0000",
-      "timestamp": 1790207907.0
     },
     {
       "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
@@ -235,15 +244,6 @@
       "source": "The Verge AI",
       "published": "2026-09-23T19:37:17-04:00",
       "timestamp": 1790206637.0
-    },
-    {
-      "title": "Stanford violated AI policy after race-swapping students in ad",
-      "link": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 23 Sep 2026 23:23:39 +0000",
-      "timestamp": 1790205819.0
     },
     {
       "title": "Meta is making Muse more powerful and will let you video chat with it, too",
@@ -361,15 +361,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 23 Sep 2026 16:49:58 +0000",
       "timestamp": 1790182198.0
-    },
-    {
-      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-23T12:23:05-04:00",
-      "timestamp": 1790180585.0
     },
     {
       "title": "YouTube Music gets more conversational with new AI features",
