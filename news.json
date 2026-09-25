@@ -1,7 +1,205 @@
 {
-  "scraped_at": "2026-09-25T07:45:57.631413+00:00",
-  "count": 40,
+  "scraped_at": "2026-09-25T13:44:40.720501+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "AI, Consciousness and Emergent Behaviors",
+      "link": "https://blog.borrego.dev/entries/ai-consciousness-emergent-behaviors.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 13:33:30 +0000",
+      "timestamp": 1790343210.0
+    },
+    {
+      "title": "Friction Is Good, Surrendering Agency to AI – Food for Agile Thought 563",
+      "link": "https://age-of-product.com/food-agile-thought-563-high-impact-ideas/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 13:20:08 +0000",
+      "timestamp": 1790342408.0
+    },
+    {
+      "title": "Restaurants Are Using AI to Advertise Their Food and people don't like it",
+      "link": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 13:11:17 +0000",
+      "timestamp": 1790341877.0
+    },
+    {
+      "title": "RushShift – Offline AI desktop tool to search local B-roll archives by prompt",
+      "link": "https://rushshift.vercel.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 13:04:47 +0000",
+      "timestamp": 1790341487.0
+    },
+    {
+      "title": "I Ran 255 AI Agents to Make Three Comics. The Line Between Slop and Good Is",
+      "link": "https://thoughts.jock.pl/p/ai-slop-comic-experiment-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 13:02:35 +0000",
+      "timestamp": 1790341355.0
+    },
+    {
+      "title": "Show HN: Hard Stop: Kernel-level preemption for autonomous AI agents",
+      "link": "https://arxiv.org/abs/2609.29808",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 13:01:56 +0000",
+      "timestamp": 1790341316.0
+    },
+    {
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-25T09:00:00-04:00",
+      "timestamp": 1790341200.0
+    },
+    {
+      "title": "Financing the AI Buildout",
+      "link": "https://www.brookings.edu/articles/financing-the-ai-buildout/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 12:53:05 +0000",
+      "timestamp": 1790340785.0
+    },
+    {
+      "title": "EU Member States plan \"digital expropriation\" in the interest of AI companies",
+      "link": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 12:38:41 +0000",
+      "timestamp": 1790339921.0
+    },
+    {
+      "title": "Show HN: An AI interviewer that pushes back on your system design trade-offs",
+      "link": "https://prepd.tech/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 12:27:05 +0000",
+      "timestamp": 1790339225.0
+    },
+    {
+      "title": "Show HN: StackReplay – analyze and replay your AI coding history locally",
+      "link": "https://stackreplay.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 12:12:27 +0000",
+      "timestamp": 1790338347.0
+    },
+    {
+      "title": "The AI Apocalypse Is Boring Now",
+      "link": "https://martinrobbins.substack.com/p/the-ai-apocalypse-is-extremely-boring",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 12:08:13 +0000",
+      "timestamp": 1790338093.0
+    },
+    {
+      "title": "Show HN: Threshold Cryptography for AI Agents Using Payments and Digital Assets",
+      "link": "https://github.com/tkeeper-org/tkeeper",
+      "summary": "We introduce the concept of a \"cryptographic identity\", which consists of a private key, a manifest attached to it that defines what a specific action is allowed or not allowed to do, and additional controls. The principle is simple: when an AI wants to perform an action, it has to request a signature for that action, and the signature is issued only after the checks pass. I think this approach is flexible enough for most use cases, while also improving accountability and making it possible to build architecture around a zero-trust model. The system lets you define your own action schemas, or ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 12:07:53 +0000",
+      "timestamp": 1790338073.0
+    },
+    {
+      "title": "Bugpocalypse, or reporting bugs in an AI age",
+      "link": "https://www.qemu.org/2026/09/23/bugs/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 12:05:13 +0000",
+      "timestamp": 1790337913.0
+    },
+    {
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-25T08:00:00-04:00",
+      "timestamp": 1790337600.0
+    },
+    {
+      "title": "Reimagining research papers as interactive and reliable AI agents",
+      "link": "https://www.nature.com/articles/s41586-026-11044-y",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 11:49:44 +0000",
+      "timestamp": 1790336984.0
+    },
+    {
+      "title": "The Biggest Risk of AI Wearables Is Not Personal Privacy – It's Human Agency",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7498938",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 11:46:45 +0000",
+      "timestamp": 1790336805.0
+    },
+    {
+      "title": "The Pentagon wants $30M to build an AI-powered lie detector",
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 11:01:16 +0000",
+      "timestamp": 1790334076.0
+    },
+    {
+      "title": "Uproar in France over award-winning author accused of using AI",
+      "link": "https://www.bbc.com/news/articles/ck7v4y45893go",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 10:48:32 +0000",
+      "timestamp": 1790333312.0
+    },
+    {
+      "title": "Four things I learned throughout the last years working with AI",
+      "link": "https://www.ssp.sh/brain/what-i-learned-writing-with-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 10:38:25 +0000",
+      "timestamp": 1790332705.0
+    },
+    {
+      "title": "AI-Powered Fuzzing with the GitHub Security Lab Taskflow Agent",
+      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 10:23:41 +0000",
+      "timestamp": 1790331821.0
+    },
+    {
+      "title": "Tell HN: PSA: AI can make old games run on 64-bit macOS",
+      "link": "https://news.ycombinator.com/item?id=49842482",
+      "summary": "I had Aviary Attorney lying around (great game, whether or not you like Phoenix Wright) but it wouldn't run on newer macOS versions. I tried asking Astra on a whim, looked away, and within a few minutes it was on screen! Turns out \"The game used 32-bit Node-WebKit, an old combination of Node.js and Chromium that modern macOS cannot run. Its actual game content was HTML, JavaScript, images, and audio, so replacing the runtime was feasible.\" Guess I got lucky in this case.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 10:19:20 +0000",
+      "timestamp": 1790331560.0
+    },
     {
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
       "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
@@ -217,24 +415,6 @@
       "source": "The Verge AI",
       "published": "2026-09-24T10:30:00-04:00",
       "timestamp": 1790260200.0
-    },
-    {
-      "title": "Google is sending an AI satellite into space next week",
-      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-24T10:15:17-04:00",
-      "timestamp": 1790259317.0
-    },
-    {
-      "title": "The vibes are bad for Flock in Washington",
-      "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
-      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime and counterterrorism subcommittee chair [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-24T10:15:05-04:00",
-      "timestamp": 1790259305.0
     },
     {
       "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
