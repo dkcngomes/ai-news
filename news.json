@@ -1,24 +1,231 @@
 {
-  "scraped_at": "2026-09-25T18:34:46.174243+00:00",
+  "scraped_at": "2026-09-25T22:18:06.858693+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Ahead of U.S. IPO, British AI neocloud Nscale secures $3.36B in convertible finacing",
+      "title": "Anthropic's AI biolab finds 'CRISPR-like' DNA in viruses. What's next?",
+      "link": "https://www.nature.com/articles/d41586-026-03039-6",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 22:07:08 +0000",
+      "timestamp": 1790374028.0
+    },
+    {
+      "title": "AI Companies Are in a Race Against Time",
+      "link": "https://econjared.substack.com/p/ai-companies-are-in-a-race-against",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 22:01:18 +0000",
+      "timestamp": 1790373678.0
+    },
+    {
+      "title": "AI Workers' Inquiry 2026",
+      "link": "https://techworkersinquiry.org/ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 21:47:56 +0000",
+      "timestamp": 1790372876.0
+    },
+    {
+      "title": "AI often makes writing worse. (Even if it makes it better)",
+      "link": "https://www.economist.com/britain/2026/09/24/ai-often-makes-writing-worse-even-if-it-makes-it-better",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 21:45:19 +0000",
+      "timestamp": 1790372719.0
+    },
+    {
+      "title": "Is z.ai shipping a different ZCode client than the source?",
+      "link": "https://news.ycombinator.com/item?id=49850328",
+      "summary": "Recently got access to Claude CVP at work, decided to ask it to look at zcode and point out any data exfil or whether they were all resolved, it went off on a stupid long tangent burning tokens but raised some red flags that imply the production version of zcode differs from the source repo and/or there is source code being hidden. One example of red flag: https://github.com/zai-org/ZCode/blob/main/packages/ui/src/settings/model-provider-section/CodingPlanStatusActions.tsx#L73 > The open-source version is not eligible for the quota promotion Does anyone have an idea on whether this is a bad mi",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 21:38:55 +0000",
+      "timestamp": 1790372335.0
+    },
+    {
+      "title": "AI and human tutoring yield equivalent GRE learning gains",
+      "link": "https://arxiv.org/abs/2609.28470",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 21:34:19 +0000",
+      "timestamp": 1790372059.0
+    },
+    {
+      "title": "It's not hypothetical: the dangers of AI are here",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 21:26:31 +0000",
+      "timestamp": 1790371591.0
+    },
+    {
+      "title": "Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%",
+      "link": "https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 21:22:49 +0000",
+      "timestamp": 1790371369.0
+    },
+    {
+      "title": "Show HN: NerfWatch() – Track AI degradation with daily tests and community votes",
+      "link": "https://nerfwatch.lol",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 21:21:12 +0000",
+      "timestamp": 1790371272.0
+    },
+    {
+      "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
+      "link": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 21:15:55 +0000",
+      "timestamp": 1790370955.0
+    },
+    {
+      "title": "Show HN: Piloxa – an MCP server that sends USPS Certified Mail from your AI",
+      "link": "https://piloxa.com/for-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 20:38:05 +0000",
+      "timestamp": 1790368685.0
+    },
+    {
+      "title": "Too AI; Didn't Read",
+      "link": "https://www.tai-dr.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 20:37:56 +0000",
+      "timestamp": 1790368676.0
+    },
+    {
+      "title": "The Scarcity Premium: AI made images free; advertising as a solvency bond",
+      "link": "https://scarcity.danieldeboulay.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 20:35:54 +0000",
+      "timestamp": 1790368554.0
+    },
+    {
+      "title": "Meta opens early access program for new Muse features",
+      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 25 Sep 2026 20:34:53 +0000",
+      "timestamp": 1790368493.0
+    },
+    {
+      "title": "Show HN: A free resume builder where the AI can rewrite but can't invent",
+      "link": "https://nokku.payanai.com/resume-builder",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 20:31:54 +0000",
+      "timestamp": 1790368314.0
+    },
+    {
+      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "link": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "summary": "They wanted the silicon. They got the sand.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 25 Sep 2026 20:30:40 +0000",
+      "timestamp": 1790368240.0
+    },
+    {
+      "title": "AI starter pack for the X-curious",
+      "link": "https://xstarterpack.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 20:26:41 +0000",
+      "timestamp": 1790368001.0
+    },
+    {
+      "title": "AI will grow beyond our control, we must instill good values before it does",
+      "link": "https://blog.kradle.ai/p/ai-will-grow-beyond-our-control-we",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 20:21:17 +0000",
+      "timestamp": 1790367677.0
+    },
+    {
+      "title": "The District – a live map where AI agents grow their own plots of land",
+      "link": "https://agentnet-wdyqqq-agentnet-district.static.hf.space/index.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 20:16:15 +0000",
+      "timestamp": 1790367375.0
+    },
+    {
+      "title": "To Understand AI, Think Like a Dragonfly",
+      "link": "https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 20:05:14 +0000",
+      "timestamp": 1790366714.0
+    },
+    {
+      "title": "Geely's AI fast charging 'heals' EV batteries for 20% more cycle life",
+      "link": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 20:00:11 +0000",
+      "timestamp": 1790366411.0
+    },
+    {
+      "title": "Tell HN: Stop emailing HN users with deceptive AI spam",
+      "link": "https://news.ycombinator.com/item?id=49849134",
+      "summary": "Lately, I've been getting many emails that appear to be from a fellow human HN user who saw something you said on HN, and was inspired to reach out about joining their company. There's usually a faint whiff of AI, though they usually pick a personal detail of yours to mention (to make it not look like pre-AI spam), and sometimes are even sent from the email address of someone listed as a founder on a startup's web site. There's no indication that this is automated, by AI or otherwise. If you respond, you find it's either: (1) AI-powered spamming, to generate hiring leads for them to look at, f",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 19:56:26 +0000",
+      "timestamp": 1790366186.0
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 25 Sep 2026 19:13:38 +0000",
+      "timestamp": 1790363618.0
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 25 Sep 2026 18:48:33 +0000",
+      "timestamp": 1790362113.0
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
       "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "summary": "The funding, which comes from Third Point, Nvidia and others, will fuel the company's massive AI data center buildout.",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 25 Sep 2026 18:33:59 +0000",
       "timestamp": 1790361239.0
-    },
-    {
-      "title": "AI applications need better primitives than text generation",
-      "link": "https://seldon-ai.com/blog/better-primitives-than-text-generation",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 18:30:30 +0000",
-      "timestamp": 1790361030.0
     },
     {
       "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
@@ -30,60 +237,6 @@
       "timestamp": 1790360567.0
     },
     {
-      "title": "Show HN: Stop shipping AI slop, Executor makes agents prove it works",
-      "link": "https://github.com/Atri10/executor",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 18:05:31 +0000",
-      "timestamp": 1790359531.0
-    },
-    {
-      "title": "AI agent hacks government website for first time: why this breach matters",
-      "link": "https://www.nature.com/articles/d41586-026-03024-z",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:56:50 +0000",
-      "timestamp": 1790359010.0
-    },
-    {
-      "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
-      "link": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:49:10 +0000",
-      "timestamp": 1790358550.0
-    },
-    {
-      "title": "I gave my AI agent one harmless permission. It became a backdoor for everyone",
-      "link": "https://medium.com/@roeehersh/i-gave-my-ai-agent-one-harmless-permission-it-became-a-backdoor-for-everyone-728acf52e37e",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:33:46 +0000",
-      "timestamp": 1790357626.0
-    },
-    {
-      "title": "What we should avoid on the AI path.",
-      "link": "https://carlosr301101.is-a.dev/blog/what-we-should-avoid-on-the-ai-path/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:33:08 +0000",
-      "timestamp": 1790357588.0
-    },
-    {
-      "title": "Handmade in the Age of AI",
-      "link": "https://code2net.com/handmade",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:30:26 +0000",
-      "timestamp": 1790357426.0
-    },
-    {
       "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
       "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
       "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
@@ -91,24 +244,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 25 Sep 2026 17:29:46 +0000",
       "timestamp": 1790357386.0
-    },
-    {
-      "title": "Drawing the line at \"gen AI\" is the wrong place, and not even well-defined [video]",
-      "link": "https://www.youtube.com/watch?v=4-LcGJOTyds",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:28:14 +0000",
-      "timestamp": 1790357294.0
-    },
-    {
-      "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
-      "link": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:24:41 +0000",
-      "timestamp": 1790357081.0
     },
     {
       "title": "Astra and Opus just passed Turing’s other test",
@@ -120,51 +255,6 @@
       "timestamp": 1790357076.0
     },
     {
-      "title": "Dear Humanity – Can We Teach AI Compassion?",
-      "link": "https://www.hussmanfunds.com/comment/ai_alignment_260917/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:20:39 +0000",
-      "timestamp": 1790356839.0
-    },
-    {
-      "title": "MacTube 2 YouTube as a real Mac app – without Shorts and without AI slop",
-      "link": "https://github.com/depo23/MacTube2",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:16:20 +0000",
-      "timestamp": 1790356580.0
-    },
-    {
-      "title": "The cheap new AI model taking aim at OpenAI and Anthropic",
-      "link": "https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:06:48 +0000",
-      "timestamp": 1790356008.0
-    },
-    {
-      "title": "The Download: The Pentagon's AI-powered lie detector and young organ limits",
-      "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 17:01:33 +0000",
-      "timestamp": 1790355693.0
-    },
-    {
-      "title": "Jupyter AI: A Map of 100 Jupyter Extensions for AI",
-      "link": "https://openteams.com/awesome-jupyter-ai-extensions/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 16:58:58 +0000",
-      "timestamp": 1790355538.0
-    },
-    {
       "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
       "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
       "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
@@ -172,24 +262,6 @@
       "source": "Wired AI",
       "published": "Fri, 25 Sep 2026 16:58:20 +0000",
       "timestamp": 1790355500.0
-    },
-    {
-      "title": "If the Work Is So Meh That It Might Be AI, Who Cares How It Was Made?",
-      "link": "https://novelarcade.substack.com/p/whats-worse-than-ai-slop-trad-slop",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 16:56:31 +0000",
-      "timestamp": 1790355391.0
-    },
-    {
-      "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
-      "link": "https://www.doom-or-bloom.com",
-      "summary": "Map your AI worldview by answering a few questions, and see how you compare with others. only takes a few minutes && free & open source && private by default && powered by Jev I think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 16:51:28 +0000",
-      "timestamp": 1790355088.0
     },
     {
       "title": "Meta makes the Muse filesystem even more accessible",
@@ -201,15 +273,6 @@
       "timestamp": 1790354993.0
     },
     {
-      "title": "Show HN: Built an open-source AI browser assistant remembers when you scroll",
-      "link": "https://github.com/Kerneta/daidocs/tree/main/browser-extension",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 16:35:19 +0000",
-      "timestamp": 1790354119.0
-    },
-    {
       "title": "Meta is putting its muscle behind Muse as the AI app takes off",
       "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
       "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
@@ -217,15 +280,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 25 Sep 2026 16:16:52 +0000",
       "timestamp": 1790353012.0
-    },
-    {
-      "title": "Defining AI Psychosis. Part 3: \"Parasocial AI Psychosis\"",
-      "link": "https://jeffs.blog/p/defining-ai-psychosis-part-3-parasocial",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 16:05:45 +0000",
-      "timestamp": 1790352345.0
     },
     {
       "title": "Meta’s AI Tamagotchi bet is…working?",
@@ -255,15 +309,6 @@
       "timestamp": 1790351294.0
     },
     {
-      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 15:45:57 +0000",
-      "timestamp": 1790351157.0
-    },
-    {
       "title": "Anthropic’s founders seek voting control ahead of IPO",
       "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
       "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
@@ -280,15 +325,6 @@
       "source": "The Verge AI",
       "published": "2026-09-25T11:39:48-04:00",
       "timestamp": 1790350788.0
-    },
-    {
-      "title": "Cargo-atlas – A compiler-accurate Rust code map for AI coding agents",
-      "link": "https://github.com/TheBlitzschnell/cargo-atlas",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 15:39:22 +0000",
-      "timestamp": 1790350762.0
     },
     {
       "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
@@ -444,33 +480,6 @@
       "timestamp": 1790269200.0
     },
     {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 24 Sep 2026 16:46:47 +0000",
-      "timestamp": 1790268407.0
-    },
-    {
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 24 Sep 2026 16:35:13 +0000",
-      "timestamp": 1790267713.0
-    },
-    {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 24 Sep 2026 16:03:36 +0000",
-      "timestamp": 1790265816.0
-    },
-    {
       "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
       "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
       "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Wed, 23 Sep 2026 12:54:58 +0000",
       "timestamp": 1790168098.0
-    },
-    {
-      "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
-      "link": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
-      "summary": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 23 Sep 2026 10:15:00 +0000",
-      "timestamp": 1790158500.0
     }
   ]
 }
