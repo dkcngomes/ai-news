@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-09-24T22:22:15.451009+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-25T01:28:31.939718+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+      "link": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 01:21:30 +0000",
+      "timestamp": 1790299290.0
+    },
+    {
+      "title": "Peter Thiel: The AI Crisis, Europe's Decline and the Battle for America [video]",
+      "link": "https://www.youtube.com/watch?v=B7yl7fEHeKM",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 25 Sep 2026 00:01:12 +0000",
+      "timestamp": 1790294472.0
+    },
+    {
+      "title": "Positron Valued at $5B in New Funding as Demand for AI Chips Surges",
+      "link": "https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 23:58:55 +0000",
+      "timestamp": 1790294335.0
+    },
+    {
+      "title": "Show HN: Vons – Jev-inspired local decisions for AI agents, in the browser",
+      "link": "https://github.com/inlevel9-com/Vons",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 23:48:09 +0000",
+      "timestamp": 1790293689.0
+    },
+    {
+      "title": "AI is deciding whether or not people receive medical care",
+      "link": "https://www.vox.com/good-medicine-newsletter/503932/ai-health-insurance-united-medicare-cigna-humana",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 23:38:45 +0000",
+      "timestamp": 1790293125.0
+    },
+    {
+      "title": "Rails and AI",
+      "link": "https://rubyonrails.org/ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 23:38:18 +0000",
+      "timestamp": 1790293098.0
+    },
+    {
+      "title": "Stats: 72% of respondents said they felt curious, happy or excited about AI",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 23:28:25 +0000",
+      "timestamp": 1790292505.0
+    },
+    {
+      "title": "Award-Winning French Author Accused of Using AI to Write Debut Novel",
+      "link": "https://www.cbc.ca/news/canada/montreal/thelyson-orelien-ai-scandal-9.7355167",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 23:02:53 +0000",
+      "timestamp": 1790290973.0
+    },
+    {
+      "title": "Building an Ultra-High Throughput AI-SQL Engine",
+      "link": "https://fsdatalab.github.io/blog/introducing-quail/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 22:56:37 +0000",
+      "timestamp": 1790290597.0
+    },
+    {
+      "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
+      "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 22:52:06 +0000",
+      "timestamp": 1790290326.0
+    },
+    {
+      "title": "Laya \"System 1\" Code Intelligence for AI Agents",
+      "link": "https://github.com/leonardoventurini/scs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 22:31:04 +0000",
+      "timestamp": 1790289064.0
+    },
+    {
+      "title": "Which AI model is best for coding? A hands-on comparison",
+      "link": "https://flaviocopes.com/ai-coding-models/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 22:12:50 +0000",
+      "timestamp": 1790287970.0
+    },
     {
       "title": "Askholes and Low Effort AI Answers",
       "link": "https://dennisforbes.ca/blog/microblog/2026/09/askholes_and_low_effort_ai_answers/",
@@ -28,6 +136,15 @@
       "source": "Hacker News (AI)",
       "published": "Thu, 24 Sep 2026 21:16:04 +0000",
       "timestamp": 1790284564.0
+    },
+    {
+      "title": "Vibe Coding Production Kit – a production workflow for AI coding agents",
+      "link": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 24 Sep 2026 21:02:34 +0000",
+      "timestamp": 1790283754.0
     },
     {
       "title": "AI Help for Biological or Chemical Weapons",
@@ -57,42 +174,6 @@
       "timestamp": 1790283110.0
     },
     {
-      "title": "Show HN: A $25 DIY alternative to $159 AI voice recorders – BYOK or local",
-      "link": "https://zephclick.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 20:51:25 +0000",
-      "timestamp": 1790283085.0
-    },
-    {
-      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-      "link": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 20:29:34 +0000",
-      "timestamp": 1790281774.0
-    },
-    {
-      "title": "Anthropic Strikes $12B AI Computing Deal with Akamai",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 20:27:48 +0000",
-      "timestamp": 1790281668.0
-    },
-    {
-      "title": "Restaurants Are Using AI to Advertise Their Food and It's Making People Sick",
-      "link": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 20:03:11 +0000",
-      "timestamp": 1790280191.0
-    },
-    {
       "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
       "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [&#8230;]",
@@ -100,60 +181,6 @@
       "source": "The Verge AI",
       "published": "2026-09-24T15:59:26-04:00",
       "timestamp": 1790279966.0
-    },
-    {
-      "title": "How to stay smart in the age of AI: the science of critical thinking",
-      "link": "https://www.nature.com/articles/d41586-026-02930-6",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 19:53:23 +0000",
-      "timestamp": 1790279603.0
-    },
-    {
-      "title": "Why AI companies don't need new laws",
-      "link": "https://twitter.com/Paul__Walsh/status/2102801667657748720",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 19:51:58 +0000",
-      "timestamp": 1790279518.0
-    },
-    {
-      "title": "Alexandr Wang Is Meta's Not-So-Secret Weapon in the AI Agent Promo War",
-      "link": "https://www.businessinsider.com/alexandr-wang-meta-muse-social-media-posts-pr-strategy-2026-9",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 19:51:46 +0000",
-      "timestamp": 1790279506.0
-    },
-    {
-      "title": "Tech leaders to UN: For sake of humanity, please control the AI tech we created",
-      "link": "https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 19:48:45 +0000",
-      "timestamp": 1790279325.0
-    },
-    {
-      "title": "Tiny-Vedas: RISC-V Infrastructure for AI Accelerator Design [pdf]",
-      "link": "https://siliscale.com/papers/tiny-vedas.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 19:44:41 +0000",
-      "timestamp": 1790279081.0
-    },
-    {
-      "title": "GizmoSQL changes the unit economics for AI analyst companies",
-      "link": "https://emms21.github.io/gizmosql-followup/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 19:38:07 +0000",
-      "timestamp": 1790278687.0
     },
     {
       "title": "I Think I Found an AI Agent Worth the Risk",
@@ -172,42 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 24 Sep 2026 19:15:00 +0000",
       "timestamp": 1790277300.0
-    },
-    {
-      "title": "Ask HN: How do you coach new grads in AI Native dev environments?",
-      "link": "https://news.ycombinator.com/item?id=49835496",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 19:12:14 +0000",
-      "timestamp": 1790277134.0
-    },
-    {
-      "title": "When AI writes almost all code, what happens to software engineering?",
-      "link": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 19:09:23 +0000",
-      "timestamp": 1790276963.0
-    },
-    {
-      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-      "link": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 19:07:55 +0000",
-      "timestamp": 1790276875.0
-    },
-    {
-      "title": "Behind NAZA: How AI is used to assess, reduce collateral damage in IDF interview",
-      "link": "https://www.jpost.com/israel-news/article-909190",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 19:06:44 +0000",
-      "timestamp": 1790276804.0
     },
     {
       "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
