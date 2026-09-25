@@ -1,177 +1,15 @@
 {
-  "scraped_at": "2026-09-25T01:28:31.939718+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-25T07:45:57.631413+00:00",
+  "count": 40,
   "items": [
     {
-      "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
-      "link": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd",
-      "summary": "",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 01:21:30 +0000",
-      "timestamp": 1790299290.0
-    },
-    {
-      "title": "Peter Thiel: The AI Crisis, Europe's Decline and the Battle for America [video]",
-      "link": "https://www.youtube.com/watch?v=B7yl7fEHeKM",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 25 Sep 2026 00:01:12 +0000",
-      "timestamp": 1790294472.0
-    },
-    {
-      "title": "Positron Valued at $5B in New Funding as Demand for AI Chips Surges",
-      "link": "https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 23:58:55 +0000",
-      "timestamp": 1790294335.0
-    },
-    {
-      "title": "Show HN: Vons – Jev-inspired local decisions for AI agents, in the browser",
-      "link": "https://github.com/inlevel9-com/Vons",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 23:48:09 +0000",
-      "timestamp": 1790293689.0
-    },
-    {
-      "title": "AI is deciding whether or not people receive medical care",
-      "link": "https://www.vox.com/good-medicine-newsletter/503932/ai-health-insurance-united-medicare-cigna-humana",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 23:38:45 +0000",
-      "timestamp": 1790293125.0
-    },
-    {
-      "title": "Rails and AI",
-      "link": "https://rubyonrails.org/ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 23:38:18 +0000",
-      "timestamp": 1790293098.0
-    },
-    {
-      "title": "Stats: 72% of respondents said they felt curious, happy or excited about AI",
-      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 23:28:25 +0000",
-      "timestamp": 1790292505.0
-    },
-    {
-      "title": "Award-Winning French Author Accused of Using AI to Write Debut Novel",
-      "link": "https://www.cbc.ca/news/canada/montreal/thelyson-orelien-ai-scandal-9.7355167",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 23:02:53 +0000",
-      "timestamp": 1790290973.0
-    },
-    {
-      "title": "Building an Ultra-High Throughput AI-SQL Engine",
-      "link": "https://fsdatalab.github.io/blog/introducing-quail/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 22:56:37 +0000",
-      "timestamp": 1790290597.0
-    },
-    {
-      "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
-      "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 22:52:06 +0000",
-      "timestamp": 1790290326.0
-    },
-    {
-      "title": "Laya \"System 1\" Code Intelligence for AI Agents",
-      "link": "https://github.com/leonardoventurini/scs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 22:31:04 +0000",
-      "timestamp": 1790289064.0
-    },
-    {
-      "title": "Which AI model is best for coding? A hands-on comparison",
-      "link": "https://flaviocopes.com/ai-coding-models/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 22:12:50 +0000",
-      "timestamp": 1790287970.0
-    },
-    {
-      "title": "Askholes and Low Effort AI Answers",
-      "link": "https://dennisforbes.ca/blog/microblog/2026/09/askholes_and_low_effort_ai_answers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 21:38:35 +0000",
-      "timestamp": 1790285915.0
-    },
-    {
-      "title": "CrowdStrike: Frontier AI for Cybersecurity",
-      "link": "https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 21:38:07 +0000",
-      "timestamp": 1790285887.0
-    },
-    {
-      "title": "The New STOC Rules for the AI Era",
-      "link": "https://blog.computationalcomplexity.org/2026/09/the-new-stoc-rules-for-ai-era.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 21:16:04 +0000",
-      "timestamp": 1790284564.0
-    },
-    {
-      "title": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-      "link": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 21:02:34 +0000",
-      "timestamp": 1790283754.0
-    },
-    {
-      "title": "AI Help for Biological or Chemical Weapons",
-      "link": "https://www.science.org/content/blog-post/ai-help-biological-or-chemical-weapons",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 20:59:16 +0000",
-      "timestamp": 1790283556.0
-    },
-    {
-      "title": "Show HN: Canary (YC) – Independent verification for AI code",
-      "link": "https://www.runcanary.ai/",
-      "summary": "Hey HN, we are Aakash and Viswesh and we are building Canary ( https://www.runcanary.ai/ ) - independent verification for AI code. Claude/Codex calls Canary with the changesets, intended behaviour and team knowledge. Canary then deploys agent swarms to investigate potential failures and test suspected runtime bugs in remote sandboxes. To try it on your repository, paste this into your coding agent: Install the Canary CLI with npm i -g @runcanary/cli, then run canary skills and follow its instructions to onboard this repository. Verification starts with what software is supposed to do and most ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 20:57:52 +0000",
-      "timestamp": 1790283472.0
-    },
-    {
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 24 Sep 2026 20:51:50 +0000",
-      "timestamp": 1790283110.0
+      "source": "TechCrunch AI",
+      "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "timestamp": 1790312400.0
     },
     {
       "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
@@ -478,15 +316,6 @@
       "source": "Wired AI",
       "published": "Wed, 23 Sep 2026 21:00:00 +0000",
       "timestamp": 1790197200.0
-    },
-    {
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 23 Sep 2026 19:31:28 +0000",
-      "timestamp": 1790191888.0
     },
     {
       "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
