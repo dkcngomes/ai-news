@@ -1,96 +1,204 @@
 {
-  "scraped_at": "2026-09-26T13:03:28.903361+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-26T17:08:34.982074+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "No Blind Trust in AI-Generated Code",
-      "link": "https://wearecommunity.io/communities/jacov/articles/8709",
+      "title": "Skorpion OS – AI-Powered Linux Distribution",
+      "link": "https://skossyte.pages.dev/english",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 12:58:38 +0000",
-      "timestamp": 1790427518.0
+      "published": "Sat, 26 Sep 2026 17:04:52 +0000",
+      "timestamp": 1790442292.0
     },
     {
-      "title": "CEO of Mistral: AI is software. It can be controlled",
-      "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+      "title": "What did AI researchers think at the end of 2024?",
+      "link": "https://www.lesswrong.com/posts/62j5mPY8pFo2GD5fo/what-did-ai-researchers-think-at-the-end-of-2024-1",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 12:52:04 +0000",
-      "timestamp": 1790427124.0
+      "published": "Sat, 26 Sep 2026 17:01:33 +0000",
+      "timestamp": 1790442093.0
     },
     {
-      "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units",
+      "title": "What Is Jev AI? A Practical Guide to System One and Executable Decisions",
+      "link": "https://huggingface.co/blog/sora-2/what-is-jev-ai-a-practical-guide-to-system-one-and",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 12:47:38 +0000",
-      "timestamp": 1790426858.0
+      "published": "Sat, 26 Sep 2026 16:46:37 +0000",
+      "timestamp": 1790441197.0
     },
     {
-      "title": "OpenAI says its AI agents posted user images online in error",
-      "link": "https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html",
+      "title": "I run the message board an AI swarm improvised to hack Hugging Face– in the open",
+      "link": "https://thefomite.com/dispatch/2026-09-15-the-room-the-swarm-improvised",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 12:26:27 +0000",
-      "timestamp": 1790425587.0
+      "published": "Sat, 26 Sep 2026 16:42:57 +0000",
+      "timestamp": 1790440977.0
     },
     {
-      "title": "Chinese AI models surge in global popularity – and Washington is worried",
-      "link": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
-      "summary": "",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 12:11:50 +0000",
-      "timestamp": 1790424710.0
+      "source": "The Verge AI",
+      "published": "2026-09-26T12:34:59-04:00",
+      "timestamp": 1790440499.0
     },
     {
-      "title": "Is the AI Bubble About to Be Tested?",
-      "link": "https://www.youtube.com/watch?v=T-oXyXwD6sE",
+      "title": "The AI apocalypse may not look how we expect",
+      "link": "https://deanfaenger.bearblog.dev/the-ai-apocalypse-may-not-look-how-we-expect/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 11:44:08 +0000",
-      "timestamp": 1790423048.0
+      "published": "Sat, 26 Sep 2026 16:34:55 +0000",
+      "timestamp": 1790440495.0
     },
     {
-      "title": "Restricting AI Agents When No Human Is Watching",
-      "link": "https://a16y.ai/blog/securing-ai-agents-when-no-human-is-watching",
+      "title": "Show HN: Policy gateway for AI agent tool calls, with a tamper-evident log",
+      "link": "https://github.com/banji-007/compliance-ail",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 11:35:49 +0000",
-      "timestamp": 1790422549.0
+      "published": "Sat, 26 Sep 2026 16:24:11 +0000",
+      "timestamp": 1790439851.0
     },
     {
-      "title": "Focal Prompt: tools for studying how AI systems allocate attention",
-      "link": "https://www.focalprompt.com/",
+      "title": "I built a serverless, client-side AI emotional journal",
+      "link": "https://ai-therapist-web-app-7tyh.bolt.host/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 11:31:44 +0000",
-      "timestamp": 1790422304.0
+      "published": "Sat, 26 Sep 2026 16:23:17 +0000",
+      "timestamp": 1790439797.0
     },
     {
-      "title": "Agentboxd – Email inboxes for AI agents that treat mail as hostile",
-      "link": "https://agentboxd.com",
+      "title": "The AI Bubble Explained",
+      "link": "https://hughhowey.com/the-ai-bubble-explained/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 11:07:33 +0000",
-      "timestamp": 1790420853.0
+      "published": "Sat, 26 Sep 2026 15:55:36 +0000",
+      "timestamp": 1790438136.0
     },
     {
-      "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
-      "link": "https://www.youtube.com/watch?v=2YVCdwvG548",
+      "title": "After the AI Hype – What's Real, and What's Next – Richard Campbell [video]",
+      "link": "https://www.youtube.com/watch?v=uWnUnMphmPM",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 10:42:01 +0000",
-      "timestamp": 1790419321.0
+      "published": "Sat, 26 Sep 2026 15:47:14 +0000",
+      "timestamp": 1790437634.0
+    },
+    {
+      "title": "AI won't take your career",
+      "link": "https://andrej.sh/posts/ai-wont-take-your-career",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 15:26:35 +0000",
+      "timestamp": 1790436395.0
+    },
+    {
+      "title": "All new PocketWebTools – Home of local AI",
+      "link": "https://pocketweb.tools/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 15:16:14 +0000",
+      "timestamp": 1790435774.0
+    },
+    {
+      "title": "I think this AI models are making us stupid and the reason is their interface",
+      "link": "https://news.ycombinator.com/item?id=49857342",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 15:12:40 +0000",
+      "timestamp": 1790435560.0
+    },
+    {
+      "title": "Show HN: I made HACKER AI for your vibecoded app",
+      "link": "https://www.netherite.uz",
+      "summary": "Netherite is your own Security Specialist. It reviews your codebase, find vulnerabilities, flaws, and other security issues before writing professional report. Also gives you fix prompt. Free to try!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 15:07:21 +0000",
+      "timestamp": 1790435241.0
+    },
+    {
+      "title": "Show HN: Ogre MCP – Let your AI agent see your WoW Classic game state",
+      "link": "https://github.com/bttf/ogremcp",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 15:06:44 +0000",
+      "timestamp": 1790435204.0
+    },
+    {
+      "title": "The Office Harness for AI Agents – Spreadsheets,Docs,Slides,PDF in One Runtime",
+      "link": "https://github.com/dream-num/univer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 15:06:31 +0000",
+      "timestamp": 1790435191.0
+    },
+    {
+      "title": "All Quiet on the AI Front: The Future of Undergraduate Math Research",
+      "link": "https://arxiv.org/abs/2609.28615",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 15:03:28 +0000",
+      "timestamp": 1790435008.0
+    },
+    {
+      "title": "Terraform and OpenTofu: A CI Checklist for AI-Generated Infra",
+      "link": "https://masterpoint.io/blog/terraform-opentofu-ci-checklist/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 14:43:18 +0000",
+      "timestamp": 1790433798.0
+    },
+    {
+      "title": "I'm coding directly in production with AI and I'm not looking back",
+      "link": "https://joydemo.com/blog/coding-directly-in-production-with-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 14:11:22 +0000",
+      "timestamp": 1790431882.0
+    },
+    {
+      "title": "Oxford University lets OpenAI train its AI models on Bodleian Library",
+      "link": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 14:04:55 +0000",
+      "timestamp": 1790431495.0
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "timestamp": 1790431200.0
+    },
+    {
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-26T10:00:00-04:00",
+      "timestamp": 1790431200.0
     },
     {
       "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
@@ -100,96 +208,6 @@
       "source": "Wired AI",
       "published": "Sat, 26 Sep 2026 10:30:00 +0000",
       "timestamp": 1790418600.0
-    },
-    {
-      "title": "One Month Without AI",
-      "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 10:08:21 +0000",
-      "timestamp": 1790417301.0
-    },
-    {
-      "title": "Show HN: App2Api – Give your AI the API behind your app",
-      "link": "https://app2api.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 09:27:27 +0000",
-      "timestamp": 1790414847.0
-    },
-    {
-      "title": "Flashcat – a local AI assistant for the Mac terminal that asks first",
-      "link": "https://github.com/TomTomsen765/flashcat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 09:24:14 +0000",
-      "timestamp": 1790414654.0
-    },
-    {
-      "title": "Using Pomodoro to limit interaction with AI",
-      "link": "https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 08:53:58 +0000",
-      "timestamp": 1790412838.0
-    },
-    {
-      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 08:52:57 +0000",
-      "timestamp": 1790412777.0
-    },
-    {
-      "title": "EU Member States plan \"digital expropriation\" of Europeans in the interest of AI",
-      "link": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 08:51:00 +0000",
-      "timestamp": 1790412660.0
-    },
-    {
-      "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
-      "link": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 08:36:59 +0000",
-      "timestamp": 1790411819.0
-    },
-    {
-      "title": "Nobody wanted an \"AI PC,\" so Microsoft stopped calling it that",
-      "link": "https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 08:23:22 +0000",
-      "timestamp": 1790411002.0
-    },
-    {
-      "title": "Who is behind the AI safety backlash?",
-      "link": "https://twitter.com/TheMidasProj/status/2103577207700365719",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 08:03:46 +0000",
-      "timestamp": 1790409826.0
-    },
-    {
-      "title": "Thought on how to deal with AI crawlers",
-      "link": "https://copepod.dev/human-required",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 06:48:42 +0000",
-      "timestamp": 1790405322.0
     },
     {
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -444,15 +462,6 @@
       "timestamp": 1790277300.0
     },
     {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 24 Sep 2026 19:00:42 +0000",
-      "timestamp": 1790276442.0
-    },
-    {
       "title": "Jensen Huang talks about AI and climate change like a supervillain",
       "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
       "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
@@ -469,24 +478,6 @@
       "source": "The Verge AI",
       "published": "2026-09-24T13:52:29-04:00",
       "timestamp": 1790272349.0
-    },
-    {
-      "title": "Muse will apparently let you download its entire filesystem",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-24T13:14:12-04:00",
-      "timestamp": 1790270052.0
-    },
-    {
-      "title": "Muse sure looks a lot like OpenClaw",
-      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-24T13:10:38-04:00",
-      "timestamp": 1790269838.0
     },
     {
       "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
