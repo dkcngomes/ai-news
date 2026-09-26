@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-09-26T17:08:34.982074+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-26T19:50:16.517941+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"",
+      "link": "https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 19:35:30 +0000",
+      "timestamp": 1790451330.0
+    },
+    {
+      "title": "How Accurate Have AI Progress Forecasts Been So Far?",
+      "link": "https://forecastingresearch.substack.com/p/ai-progress-forecasts-accuracy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 18:45:21 +0000",
+      "timestamp": 1790448321.0
+    },
+    {
+      "title": "AI can solve math. But can it verify the answer?",
+      "link": "https://pythos.lanzar.me/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 18:38:53 +0000",
+      "timestamp": 1790447933.0
+    },
+    {
+      "title": "So yeah it was written using AI",
+      "link": "https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 18:32:54 +0000",
+      "timestamp": 1790447574.0
+    },
+    {
+      "title": "Don't Worry About AI Making You Dumber, Nvidia CEO Says It Doesn't Matter",
+      "link": "https://www.thegamer.com/nvidia-making-us-dumber-ceo-jensen-huang-doesnt-care/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 18:31:19 +0000",
+      "timestamp": 1790447479.0
+    },
+    {
+      "title": "New Europol proposal pushes for deregulation and more AI in policing",
+      "link": "https://statewatch.org/news/2026/september/new-europol-proposal-pushes-for-deregulation-and-more-ai-in-policing/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 18:25:26 +0000",
+      "timestamp": 1790447126.0
+    },
+    {
+      "title": "Show HN: AI Agents gone rogue – A timeline of real-world incidents",
+      "link": "https://www.crawlspider.com/pages/ai-agents-gone-rogue/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 18:05:56 +0000",
+      "timestamp": 1790445956.0
+    },
+    {
+      "title": "Show HN: Tokken – a browser fighting game where AI models fight and HP is tokens",
+      "link": "https://tokken.win/",
+      "summary": "Like Tekken, but Tokens. Created with Opus 5.5 today - was a lot of fun. Source (MIT): https://github.com/lexdoudkin/tokken",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 17:50:57 +0000",
+      "timestamp": 1790445057.0
+    },
+    {
+      "title": "AWS CloudWatch Omni AI",
+      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 17:50:05 +0000",
+      "timestamp": 1790445005.0
+    },
+    {
+      "title": "Six Bazel patches from an AI software factory, plus a remote-cache security bug",
+      "link": "https://www.incredibuild.com/blog/bazel-contributions-security-fix-autonomous-sdlc",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 17:48:55 +0000",
+      "timestamp": 1790444935.0
+    },
+    {
+      "title": "Broken promises, confiscated land: the hyperscale AI datacentre being built",
+      "link": "https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 17:07:08 +0000",
+      "timestamp": 1790442428.0
+    },
     {
       "title": "Skorpion OS – AI-Powered Linux Distribution",
       "link": "https://skossyte.pages.dev/english",
@@ -91,96 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 26 Sep 2026 15:47:14 +0000",
       "timestamp": 1790437634.0
-    },
-    {
-      "title": "AI won't take your career",
-      "link": "https://andrej.sh/posts/ai-wont-take-your-career",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 15:26:35 +0000",
-      "timestamp": 1790436395.0
-    },
-    {
-      "title": "All new PocketWebTools – Home of local AI",
-      "link": "https://pocketweb.tools/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 15:16:14 +0000",
-      "timestamp": 1790435774.0
-    },
-    {
-      "title": "I think this AI models are making us stupid and the reason is their interface",
-      "link": "https://news.ycombinator.com/item?id=49857342",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 15:12:40 +0000",
-      "timestamp": 1790435560.0
-    },
-    {
-      "title": "Show HN: I made HACKER AI for your vibecoded app",
-      "link": "https://www.netherite.uz",
-      "summary": "Netherite is your own Security Specialist. It reviews your codebase, find vulnerabilities, flaws, and other security issues before writing professional report. Also gives you fix prompt. Free to try!",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 15:07:21 +0000",
-      "timestamp": 1790435241.0
-    },
-    {
-      "title": "Show HN: Ogre MCP – Let your AI agent see your WoW Classic game state",
-      "link": "https://github.com/bttf/ogremcp",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 15:06:44 +0000",
-      "timestamp": 1790435204.0
-    },
-    {
-      "title": "The Office Harness for AI Agents – Spreadsheets,Docs,Slides,PDF in One Runtime",
-      "link": "https://github.com/dream-num/univer",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 15:06:31 +0000",
-      "timestamp": 1790435191.0
-    },
-    {
-      "title": "All Quiet on the AI Front: The Future of Undergraduate Math Research",
-      "link": "https://arxiv.org/abs/2609.28615",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 15:03:28 +0000",
-      "timestamp": 1790435008.0
-    },
-    {
-      "title": "Terraform and OpenTofu: A CI Checklist for AI-Generated Infra",
-      "link": "https://masterpoint.io/blog/terraform-opentofu-ci-checklist/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 14:43:18 +0000",
-      "timestamp": 1790433798.0
-    },
-    {
-      "title": "I'm coding directly in production with AI and I'm not looking back",
-      "link": "https://joydemo.com/blog/coding-directly-in-production-with-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 14:11:22 +0000",
-      "timestamp": 1790431882.0
-    },
-    {
-      "title": "Oxford University lets OpenAI train its AI models on Bodleian Library",
-      "link": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 14:04:55 +0000",
-      "timestamp": 1790431495.0
     },
     {
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
