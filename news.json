@@ -1,7 +1,70 @@
 {
-  "scraped_at": "2026-09-26T22:47:46.171540+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-27T01:25:14.513131+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "The AI Doomsday Future Is Not Inevitable",
+      "link": "https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 00:56:34 +0000",
+      "timestamp": 1790470594.0
+    },
+    {
+      "title": "Geely's AI fast charging 'heals' EV batteries for 20% more cycle life",
+      "link": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 00:35:33 +0000",
+      "timestamp": 1790469333.0
+    },
+    {
+      "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+      "link": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 23:57:41 +0000",
+      "timestamp": 1790467061.0
+    },
+    {
+      "title": "What reversing, modernising old games tells us about the economic impact of AI",
+      "link": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 23:49:01 +0000",
+      "timestamp": 1790466541.0
+    },
+    {
+      "title": "Top AI companies probing security incidents",
+      "link": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 23:15:28 +0000",
+      "timestamp": 1790464528.0
+    },
+    {
+      "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+      "link": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 22:54:01 +0000",
+      "timestamp": 1790463241.0
+    },
+    {
+      "title": "Show HN: Newt – A Swift Package for Jev-Style Decisions on Apple Core AI",
+      "link": "https://github.com/willswire/swift-newt",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 26 Sep 2026 22:46:27 +0000",
+      "timestamp": 1790462787.0
+    },
     {
       "title": "Tyler Cowen: A Doomsday Scenario for American AI",
       "link": "https://www.thefp.com/p/tyler-cowen-a-doomsday-scenario-for",
@@ -118,78 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 26 Sep 2026 20:45:34 +0000",
       "timestamp": 1790455534.0
-    },
-    {
-      "title": "Show HN: ProofForge, AI agents whose proofs have to compile in Lean",
-      "link": "https://github.com/Sanexxxx777/ProofForge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 20:44:01 +0000",
-      "timestamp": 1790455441.0
-    },
-    {
-      "title": "Building games with AI for brother who can only use two switches by turning head",
-      "link": "https://old.reddit.com/r/aigamedev/comments/1wq90w3/using_ai_to_build_games_for_my_brother_who_can/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 20:44:00 +0000",
-      "timestamp": 1790455440.0
-    },
-    {
-      "title": "AI Socialism: Who Will Own the Automated Future?",
-      "link": "https://cosmopolity.substack.com/p/ai-socialism-who-will-own-the-automated",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 20:35:44 +0000",
-      "timestamp": 1790454944.0
-    },
-    {
-      "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
-      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 20:20:49 +0000",
-      "timestamp": 1790454049.0
-    },
-    {
-      "title": "What the megafauna extinction can teach us about AI startups and incumbents",
-      "link": "https://johnjwang.com/post/2026/09/23/megafauna-extinction-and-startups",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 20:10:41 +0000",
-      "timestamp": 1790453441.0
-    },
-    {
-      "title": "The Case for Learning in the Era of AI",
-      "link": "https://jonbehnken.substack.com/p/the-case-for-learning",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 19:57:08 +0000",
-      "timestamp": 1790452628.0
-    },
-    {
-      "title": "AI Replacing Me? Please Do",
-      "link": "https://medium.com/@azolf/ai-replacing-me-please-do-e353ac6a4bc1",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 19:46:43 +0000",
-      "timestamp": 1790452003.0
-    },
-    {
-      "title": "What will AI do to our jobs and our wages? [video]",
-      "link": "https://www.youtube.com/watch?v=qFf1_gRU2Lw",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 19:45:49 +0000",
-      "timestamp": 1790451949.0
     },
     {
       "title": "OpenAI pauses training of its ‘most capable models’",
