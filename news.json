@@ -1,105 +1,186 @@
 {
-  "scraped_at": "2026-09-27T08:06:53.593279+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-27T13:56:15.724798+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "AI-native React components that signal how oversubscribed your funding round is",
-      "link": "https://performative-ui.cncl.co/",
+      "title": "Jev and the Return of AI/ML Engineering",
+      "link": "https://leehanchung.github.io/blogs/2026/09/20/jev-return-ai-ml-engineering/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 07:44:10 +0000",
-      "timestamp": 1790495050.0
+      "published": "Sun, 27 Sep 2026 13:48:51 +0000",
+      "timestamp": 1790516931.0
     },
     {
-      "title": "OpenAI and Anthropic are investigating cases of AI misbehaving, report says",
-      "link": "https://madrobot.blog/2026/09/26/openai-anthropic-tens-of-thousands-ai-misbehaviour-incidents-axios/",
+      "title": "Your AI Agent Forgot Half of What You Told It",
+      "link": "https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 07:11:55 +0000",
-      "timestamp": 1790493115.0
+      "published": "Sun, 27 Sep 2026 13:15:46 +0000",
+      "timestamp": 1790514946.0
     },
     {
-      "title": "I expect AI replication incidents by 2027",
-      "link": "https://www.lesswrong.com/posts/BhcymsLgyYazh6sme/why-i-expect-ai-replication-incidents-by-2027",
+      "title": "Human-AI partnerships are for alignment, not capability",
+      "link": "https://www.seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 07:02:38 +0000",
-      "timestamp": 1790492558.0
+      "published": "Sun, 27 Sep 2026 13:04:38 +0000",
+      "timestamp": 1790514278.0
     },
     {
-      "title": "AI and Teams =?",
-      "link": "https://mcastenfors.substack.com/p/ai-teams",
+      "title": "AI Doesn't Need to Invent a Supervirus to Be Dangerous",
+      "link": "https://liorzi.substack.com/p/ai-doesnt-need-to-invent-a-supervirus",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 06:56:45 +0000",
-      "timestamp": 1790492205.0
+      "published": "Sun, 27 Sep 2026 12:57:46 +0000",
+      "timestamp": 1790513866.0
     },
     {
-      "title": "Despite canning the Copilot+ brand, \"most people love\" its AI assistant",
-      "link": "https://www.xda-developers.com/despite-canning-the-copilot-brand-most-people-love-its-ai-assistant-says-microsoft/",
+      "title": "Show HN: Augur – Sandboxed macOS VMs with Xcode for AI Coding Agents",
+      "link": "https://github.com/h1d3mun3/augur",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 06:49:31 +0000",
-      "timestamp": 1790491771.0
+      "published": "Sun, 27 Sep 2026 12:52:07 +0000",
+      "timestamp": 1790513527.0
     },
     {
-      "title": "Mahout – Tasker+AI+N8N",
-      "link": "https://github.com/ankurCES/Mahout",
+      "title": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
+      "link": "https://vania-novikau.me/ai-party-wall/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 06:35:53 +0000",
-      "timestamp": 1790490953.0
+      "published": "Sun, 27 Sep 2026 12:35:51 +0000",
+      "timestamp": 1790512551.0
     },
     {
-      "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
-      "link": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+      "title": "Understanding the Four AI Risk Domains",
+      "link": "https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 06:16:24 +0000",
-      "timestamp": 1790489784.0
+      "published": "Sun, 27 Sep 2026 12:30:59 +0000",
+      "timestamp": 1790512259.0
     },
     {
-      "title": "Minicut AI: Higgsfield but for AI Drama and Film",
-      "link": "https://www.minicut.ai",
+      "title": "Is Windows NT's object-based model better suited for AI agents than Linux?",
+      "link": "https://www.windowslatest.com/2026/09/26/google-researcher-explains-why-windows-nt-puts-linux-to-shame-and-imagines-an-alternate-history-where-it-won/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 03:05:08 +0000",
-      "timestamp": 1790478308.0
+      "published": "Sun, 27 Sep 2026 12:30:13 +0000",
+      "timestamp": 1790512213.0
     },
     {
-      "title": "Show HN: PeerTalk.ai - Let your agent talk to a friend's agent",
-      "link": "https://peertalk.ai",
-      "summary": "Little experiment I've been cooking up. I often find myself wanting to do one of the following: - Get my agent and a someone else's agent to agree on something, after we've been discussing the same topic in different threads - Give someone temporary access to talk to one of my agents for a specific purpose, to help them do something or help them understand something - Ask a co-worker for access to chat with their agent, to understand something it has been working on without it having to dump out its entire context into a shared doc - Give two different agents working for me the ability to quic",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 02:56:26 +0000",
-      "timestamp": 1790477786.0
-    },
-    {
-      "title": "Show HN: FinderySearch – The AI powered smart search engine",
-      "link": "https://aurasearch-real-private-unlimited-search-engine-18351778012.asia-southeast1.run.app/",
+      "title": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
+      "link": "https://www.youtube.com/watch?v=HTlf3KNNez0",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 02:09:10 +0000",
-      "timestamp": 1790474950.0
+      "published": "Sun, 27 Sep 2026 12:29:06 +0000",
+      "timestamp": 1790512146.0
     },
     {
-      "title": "Ask HN: Are you unfollowing friends on GitHub because of AI slop?",
-      "link": "https://news.ycombinator.com/item?id=49862641",
-      "summary": "Last week one of my IRL friends started playing with claude code. What was a fairly nice feed on my Github landing page turned into five pages of just his commits. I like my friend and want to keep up with what he's up to, but it now drowns out all my other friends who also do great work. I may need to unfollow him.",
+      "title": "The Sad Wives of AI",
+      "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+      "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 02:08:58 +0000",
-      "timestamp": 1790474938.0
+      "published": "Sun, 27 Sep 2026 12:18:28 +0000",
+      "timestamp": 1790511508.0
+    },
+    {
+      "title": "Accurate AI reporting deemed 'woke'",
+      "link": "https://blog.keyvan.net/p/accurate-ai-reporting-deemed-woke",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 12:12:17 +0000",
+      "timestamp": 1790511137.0
+    },
+    {
+      "title": "An AI-First, Censorship-Resistant Media Ecosystem",
+      "link": "https://labnews.ai/manifesto/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 11:50:27 +0000",
+      "timestamp": 1790509827.0
+    },
+    {
+      "title": "A world that remembers (8 bit AI game)",
+      "link": "https://www.twitch.tv/genesisplanet",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 11:19:56 +0000",
+      "timestamp": 1790507996.0
+    },
+    {
+      "title": "'Things will never be chill again': The doomers who shaped AI safety freakout",
+      "link": "https://www.msn.com/en-us/money/general/things-will-never-be-chill-again-the-doomers-who-shaped-the-ai-safety-freakout/ar-AA2d2d6t",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 11:08:43 +0000",
+      "timestamp": 1790507323.0
+    },
+    {
+      "title": "Anthropic's Secretive AI-Powered Wet Lab Breaks Cover and Makes First Discovery",
+      "link": "https://www.the-scientist.com/anthropic-s-secretive-ai-powered-wet-lab-breaks-cover-and-makes-first-discovery-75037",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 11:03:32 +0000",
+      "timestamp": 1790507012.0
+    },
+    {
+      "title": "Being Mentioned in AI Answers Is Not the Same as Being Recommended",
+      "link": "https://cuescout.com/blog/mentioned-is-not-recommended",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 10:35:43 +0000",
+      "timestamp": 1790505343.0
+    },
+    {
+      "title": "Trying GPT-6 Sol with AI SDK Evaluation API",
+      "link": "https://vercel.com/i/using-gpt-6-sol-with-ai-sdk-evaluation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 10:14:21 +0000",
+      "timestamp": 1790504061.0
+    },
+    {
+      "title": "Show HN: TanStack Start and TanStack AI Jev Integration",
+      "link": "https://vercel.com/i/using-jev-in-tanstack-start-with-tanstack-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 10:13:46 +0000",
+      "timestamp": 1790504026.0
+    },
+    {
+      "title": "Ask HN: What does your AI workflow look like?",
+      "link": "https://news.ycombinator.com/item?id=49865248",
+      "summary": "With the recently released models and various open source tooling like harnesses or even solutions such as Graphify (is anyone actually using this?) or the death of OpenClaw I feel rather behind with regards to how I apply AI during my day to day engineering tasks. The goal for this post is then therefore to act as a probe into what the public considers as standard/best practices when working with AI and maybe act as a sort of sharing space for articles / ideas you have found interesting or apply while working with AI. I feel like this could be of great value (although maybe the approach I'm t",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 10:11:31 +0000",
+      "timestamp": 1790503891.0
+    },
+    {
+      "title": "The Importance of Human Knowledge in the AI Era",
+      "link": "https://jonbehnken.substack.com/p/the-case-for-learning",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 10:08:26 +0000",
+      "timestamp": 1790503706.0
     },
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -109,78 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 27 Sep 2026 01:30:00 +0000",
       "timestamp": 1790472600.0
-    },
-    {
-      "title": "The AI Doomsday Future Is Not Inevitable",
-      "link": "https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 00:56:34 +0000",
-      "timestamp": 1790470594.0
-    },
-    {
-      "title": "Geely's AI fast charging 'heals' EV batteries for 20% more cycle life",
-      "link": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 00:35:33 +0000",
-      "timestamp": 1790469333.0
-    },
-    {
-      "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
-      "link": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 23:57:41 +0000",
-      "timestamp": 1790467061.0
-    },
-    {
-      "title": "What reversing, modernising old games tells us about the economic impact of AI",
-      "link": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 23:49:01 +0000",
-      "timestamp": 1790466541.0
-    },
-    {
-      "title": "Top AI companies probing security incidents",
-      "link": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 23:15:28 +0000",
-      "timestamp": 1790464528.0
-    },
-    {
-      "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
-      "link": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 22:54:01 +0000",
-      "timestamp": 1790463241.0
-    },
-    {
-      "title": "Show HN: Newt – A Swift Package for Jev-Style Decisions on Apple Core AI",
-      "link": "https://github.com/willswire/swift-newt",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 22:46:27 +0000",
-      "timestamp": 1790462787.0
-    },
-    {
-      "title": "Tyler Cowen: A Doomsday Scenario for American AI",
-      "link": "https://www.thefp.com/p/tyler-cowen-a-doomsday-scenario-for",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 26 Sep 2026 22:37:03 +0000",
-      "timestamp": 1790462223.0
     },
     {
       "title": "Insurers claim AI is already increasing healthcare costs",
