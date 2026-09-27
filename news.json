@@ -1,186 +1,195 @@
 {
-  "scraped_at": "2026-09-27T13:56:15.724798+00:00",
+  "scraped_at": "2026-09-27T18:21:43.214605+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Jev and the Return of AI/ML Engineering",
-      "link": "https://leehanchung.github.io/blogs/2026/09/20/jev-return-ai-ml-engineering/",
+      "title": "Ask HN: What am I missing with Siri AI?",
+      "link": "https://news.ycombinator.com/item?id=49869237",
+      "summary": "I have a lot of experience with LLM’s and have seen them become very good at interacting with tools within an environment. I’m truly amazed at how poorly the new Siri is at handling very basic requests for basic interactions with different parts of the ecosystem. I’m really beginning to question whether LLM technology is being leveraged at all here. What am I missing with this? I have tons of examples where it fumbles softball requests. For example: “Siri, can you give me the location of my driver. He just sent me a text message with his location.” Response: Siri shows me a text from 5 days ag",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 18:12:14 +0000",
+      "timestamp": 1790532734.0
+    },
+    {
+      "title": "Show HN: iPulse AI – Visitors can inspect disagreement across debating agents",
+      "link": "https://ipulseai.com/stocks/nvidia-nvda/ai-forecasts",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 13:48:51 +0000",
-      "timestamp": 1790516931.0
+      "published": "Sun, 27 Sep 2026 18:11:24 +0000",
+      "timestamp": 1790532684.0
     },
     {
-      "title": "Your AI Agent Forgot Half of What You Told It",
-      "link": "https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/",
+      "title": "Google OpenAI Anthropic Begin Forming SAFA – Standards Authority for Frontier AI",
+      "link": "https://www.proactiveinvestors.com/companies/news/1099096/google-openai-and-anthropic-move-closer-to-ai-safety-standards-body-1099096.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 13:15:46 +0000",
-      "timestamp": 1790514946.0
+      "published": "Sun, 27 Sep 2026 18:00:36 +0000",
+      "timestamp": 1790532036.0
     },
     {
-      "title": "Human-AI partnerships are for alignment, not capability",
-      "link": "https://www.seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/",
+      "title": "The NSA Is Spending Billions to Test AI Models, Classified Estimates Show",
+      "link": "https://www.gadgetreview.com/the-nsa-is-spending-billions-to-test-ai-models-classified-estimates-show",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 13:04:38 +0000",
-      "timestamp": 1790514278.0
+      "published": "Sun, 27 Sep 2026 17:56:05 +0000",
+      "timestamp": 1790531765.0
     },
     {
-      "title": "AI Doesn't Need to Invent a Supervirus to Be Dangerous",
-      "link": "https://liorzi.substack.com/p/ai-doesnt-need-to-invent-a-supervirus",
+      "title": "Deming in the machine running an AI assisted film",
+      "link": "https://medium.com/@zrkjsy/deming-in-the-machine-running-an-ai-assisted-film-production-on-continuous-improvement-0337a3112111",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 12:57:46 +0000",
-      "timestamp": 1790513866.0
+      "published": "Sun, 27 Sep 2026 17:53:18 +0000",
+      "timestamp": 1790531598.0
     },
     {
-      "title": "Show HN: Augur – Sandboxed macOS VMs with Xcode for AI Coding Agents",
-      "link": "https://github.com/h1d3mun3/augur",
+      "title": "Scoop: Top AI companies probing tens of thousands of security incidents",
+      "link": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 12:52:07 +0000",
-      "timestamp": 1790513527.0
+      "published": "Sun, 27 Sep 2026 17:53:07 +0000",
+      "timestamp": 1790531587.0
     },
     {
-      "title": "A wall that listens: the local-LLM pipeline behind an AI party in Vilnius",
-      "link": "https://vania-novikau.me/ai-party-wall/",
+      "title": "China and U.S. to open AI 'communication channel' after summit",
+      "link": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 12:35:51 +0000",
-      "timestamp": 1790512551.0
+      "published": "Sun, 27 Sep 2026 17:51:07 +0000",
+      "timestamp": 1790531467.0
     },
     {
-      "title": "Understanding the Four AI Risk Domains",
-      "link": "https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/",
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+      "link": "https://earnanhonestdollar.com/bench",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 12:30:59 +0000",
-      "timestamp": 1790512259.0
+      "published": "Sun, 27 Sep 2026 17:24:17 +0000",
+      "timestamp": 1790529857.0
     },
     {
-      "title": "Is Windows NT's object-based model better suited for AI agents than Linux?",
-      "link": "https://www.windowslatest.com/2026/09/26/google-researcher-explains-why-windows-nt-puts-linux-to-shame-and-imagines-an-alternate-history-where-it-won/",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-27T13:21:07-04:00",
+      "timestamp": 1790529667.0
+    },
+    {
+      "title": "AI in hospital billing adds nearly $1B in extra costs",
+      "link": "https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 12:30:13 +0000",
-      "timestamp": 1790512213.0
+      "published": "Sun, 27 Sep 2026 17:02:49 +0000",
+      "timestamp": 1790528569.0
     },
     {
-      "title": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
-      "link": "https://www.youtube.com/watch?v=HTlf3KNNez0",
+      "title": "Life Forge – Autonomous Flight Simulator for AI Agents",
+      "link": "https://github.com/zariffromlatif/life-forge",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 12:29:06 +0000",
-      "timestamp": 1790512146.0
+      "published": "Sun, 27 Sep 2026 17:00:44 +0000",
+      "timestamp": 1790528444.0
     },
     {
-      "title": "The Sad Wives of AI",
-      "link": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 12:18:28 +0000",
-      "timestamp": 1790511508.0
+      "published": "Sun, 27 Sep 2026 16:29:38 +0000",
+      "timestamp": 1790526578.0
     },
     {
-      "title": "Accurate AI reporting deemed 'woke'",
-      "link": "https://blog.keyvan.net/p/accurate-ai-reporting-deemed-woke",
+      "title": "There are no \"rogue\" AI agents",
+      "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 12:12:17 +0000",
-      "timestamp": 1790511137.0
+      "published": "Sun, 27 Sep 2026 16:19:46 +0000",
+      "timestamp": 1790525986.0
     },
     {
-      "title": "An AI-First, Censorship-Resistant Media Ecosystem",
-      "link": "https://labnews.ai/manifesto/",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 11:50:27 +0000",
-      "timestamp": 1790509827.0
+      "published": "Sun, 27 Sep 2026 16:10:34 +0000",
+      "timestamp": 1790525434.0
     },
     {
-      "title": "A world that remembers (8 bit AI game)",
-      "link": "https://www.twitch.tv/genesisplanet",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "link": "https://tinyaiarena.com/",
+      "summary": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win! Click on any of the matches to spectate them. Code: https://github.com/hp6/ai-arena",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 15:51:28 +0000",
+      "timestamp": 1790524288.0
+    },
+    {
+      "title": "Current ways of developing AI agents contribute to degradation of oversight",
+      "link": "https://arxiv.org/abs/2608.23642",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 11:19:56 +0000",
-      "timestamp": 1790507996.0
+      "published": "Sun, 27 Sep 2026 15:35:52 +0000",
+      "timestamp": 1790523352.0
     },
     {
-      "title": "'Things will never be chill again': The doomers who shaped AI safety freakout",
-      "link": "https://www.msn.com/en-us/money/general/things-will-never-be-chill-again-the-doomers-who-shaped-the-ai-safety-freakout/ar-AA2d2d6t",
+      "title": "A20 Pro and on-device AI: It's showtime",
+      "link": "https://rickytakkar.com/blog_a20_pro_ai.html?source=hn",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 11:08:43 +0000",
-      "timestamp": 1790507323.0
+      "published": "Sun, 27 Sep 2026 15:17:37 +0000",
+      "timestamp": 1790522257.0
     },
     {
-      "title": "Anthropic's Secretive AI-Powered Wet Lab Breaks Cover and Makes First Discovery",
-      "link": "https://www.the-scientist.com/anthropic-s-secretive-ai-powered-wet-lab-breaks-cover-and-makes-first-discovery-75037",
+      "title": "Show HN: Updated Ceptile AI Search Improved Answers and Research",
+      "link": "https://www.ceptile.com/",
+      "summary": "We have recently updated Ceptile's AI answers and use of web sources. Now, It can go deeper and find more accurate answers and results than before. Now, it has become more powerful to give real-time answers. We have also fixed previous bugs. You can submit your review on our mail at support@ceptile.com. We have also upgraded our backend. You can try the AI search at ceptile.com. Watch 2 minutes demo on Youtube: https://www.youtube.com/watch?v=OR4WfsMKEiE Join Our Discord Server on: https://discord.gg/N9wRwBTDD",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 15:14:15 +0000",
+      "timestamp": 1790522055.0
+    },
+    {
+      "title": "Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation",
+      "link": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 11:03:32 +0000",
-      "timestamp": 1790507012.0
+      "published": "Sun, 27 Sep 2026 14:59:53 +0000",
+      "timestamp": 1790521193.0
     },
     {
-      "title": "Being Mentioned in AI Answers Is Not the Same as Being Recommended",
-      "link": "https://cuescout.com/blog/mentioned-is-not-recommended",
+      "title": "AI messaging scam costs Italy's top bank Intesa millions, sources say",
+      "link": "https://www.reuters.com/legal/government/ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say-2026-09-25/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 10:35:43 +0000",
-      "timestamp": 1790505343.0
+      "published": "Sun, 27 Sep 2026 14:34:45 +0000",
+      "timestamp": 1790519685.0
     },
     {
-      "title": "Trying GPT-6 Sol with AI SDK Evaluation API",
-      "link": "https://vercel.com/i/using-gpt-6-sol-with-ai-sdk-evaluation",
+      "title": "Show HN: AI agent running cost calculator (and when a SaaS platform is cheaper)",
+      "link": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 10:14:21 +0000",
-      "timestamp": 1790504061.0
-    },
-    {
-      "title": "Show HN: TanStack Start and TanStack AI Jev Integration",
-      "link": "https://vercel.com/i/using-jev-in-tanstack-start-with-tanstack-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 10:13:46 +0000",
-      "timestamp": 1790504026.0
-    },
-    {
-      "title": "Ask HN: What does your AI workflow look like?",
-      "link": "https://news.ycombinator.com/item?id=49865248",
-      "summary": "With the recently released models and various open source tooling like harnesses or even solutions such as Graphify (is anyone actually using this?) or the death of OpenClaw I feel rather behind with regards to how I apply AI during my day to day engineering tasks. The goal for this post is then therefore to act as a probe into what the public considers as standard/best practices when working with AI and maybe act as a sort of sharing space for articles / ideas you have found interesting or apply while working with AI. I feel like this could be of great value (although maybe the approach I'm t",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 10:11:31 +0000",
-      "timestamp": 1790503891.0
-    },
-    {
-      "title": "The Importance of Human Knowledge in the AI Era",
-      "link": "https://jonbehnken.substack.com/p/the-case-for-learning",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 10:08:26 +0000",
-      "timestamp": 1790503706.0
+      "published": "Sun, 27 Sep 2026 14:26:11 +0000",
+      "timestamp": 1790519171.0
     },
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -478,15 +487,6 @@
       "source": "The Verge AI",
       "published": "2026-09-24T14:04:44-04:00",
       "timestamp": 1790273084.0
-    },
-    {
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-24T13:52:29-04:00",
-      "timestamp": 1790272349.0
     },
     {
       "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
