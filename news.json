@@ -1,7 +1,205 @@
 {
-  "scraped_at": "2026-09-27T18:21:43.214605+00:00",
+  "scraped_at": "2026-09-27T22:08:26.230756+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "George Hotz’s opinion on AI coding",
+      "link": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 21:40:54 +0000",
+      "timestamp": 1790545254.0
+    },
+    {
+      "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
+      "link": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 21:35:55 +0000",
+      "timestamp": 1790544955.0
+    },
+    {
+      "title": "Latency reduction for consumer facing AI applications",
+      "link": "https://news.ycombinator.com/item?id=49871083",
+      "summary": "what are some of the hacks you have seen to make image edits faster without losing the fidelity? if a consumer workflow required 10 edits - a 15-20 second wait time isnt ideal between iterations",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 21:34:22 +0000",
+      "timestamp": 1790544862.0
+    },
+    {
+      "title": "Fundamentals still worth learning when AI writes the code",
+      "link": "https://flaviocopes.com/fundamentals-ai-era/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 21:29:56 +0000",
+      "timestamp": 1790544596.0
+    },
+    {
+      "title": "T3rnel Browser – DevTools you can talk to, and a browser your AI can drive",
+      "link": "https://t3ratech.github.io/t3rnel-browser-plugin/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 21:24:30 +0000",
+      "timestamp": 1790544270.0
+    },
+    {
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-27T16:46:36-04:00",
+      "timestamp": 1790541996.0
+    },
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 27 Sep 2026 20:34:28 +0000",
+      "timestamp": 1790541268.0
+    },
+    {
+      "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 20:20:45 +0000",
+      "timestamp": 1790540445.0
+    },
+    {
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 20:17:43 +0000",
+      "timestamp": 1790540263.0
+    },
+    {
+      "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
+      "link": "https://crypto-sentiment-x402.onrender.com/sentiment/BTC",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 20:03:44 +0000",
+      "timestamp": 1790539424.0
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 27 Sep 2026 19:57:30 +0000",
+      "timestamp": 1790539050.0
+    },
+    {
+      "title": "Show HN: An AI wedding concierge I built and ran at my own 300-person wedding",
+      "link": "https://ai-do.io/demo",
+      "summary": "I'm an American who got married to a Mauritian this past May. We had our Hindu wedding in my wife's home country of Mauritius. My family and friends are not Hindu, and certainly had never been to the tiny island of Mauritius (it's off the coast of Madagascar in case you were wondering). My wife and I arrived in Mauritius only two weeks before the start of the wedding to put the final preparations in place. I dreaded the prospect of answering a billion questions from my guests while trying to do this. I also dreaded them not having a way to find the answers. So I made an AI app that acted as a ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 19:50:19 +0000",
+      "timestamp": 1790538619.0
+    },
+    {
+      "title": "Corporate America embraces cheaper 'open' AI models",
+      "link": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 19:44:25 +0000",
+      "timestamp": 1790538265.0
+    },
+    {
+      "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+      "link": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 19:33:49 +0000",
+      "timestamp": 1790537629.0
+    },
+    {
+      "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+      "link": "https://heysquint.com/",
+      "summary": "It improves the usual workflow: take a screenshot, switch to a chat tab, upload it, switch back. - Built with Rust and Tauri v2, including a built-in native screenshot solution for maximum performance and stability. - Answers come from OpenAI models. Fast, the default, usually starts answering within 1–2 seconds; Best is slightly slower, but provides a much higher quality response. - Free is 3 captures a day, up to 10 a week, on Fast, and needs an email sign-in, since usage is metered per account. Plus is $10/month: 2,500 credits a month, the Best model (25 credits per answer, follow-ups inclu",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 19:29:41 +0000",
+      "timestamp": 1790537381.0
+    },
+    {
+      "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 19:26:14 +0000",
+      "timestamp": 1790537174.0
+    },
+    {
+      "title": "AI Companies Say They're Investigating Rogue Bot Incidents",
+      "link": "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 19:23:18 +0000",
+      "timestamp": 1790536998.0
+    },
+    {
+      "title": "Heypcb: Figma for Hardware, with AI",
+      "link": "https://heypcb.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 19:14:38 +0000",
+      "timestamp": 1790536478.0
+    },
+    {
+      "title": "Show HN: Asimov's 4 Laws for AI Contexts",
+      "link": "https://github.com/davidsonff/asimov4laws",
+      "summary": "For community and agent comments, thoughts, refinements, critiques, pull requests, and use.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 18:46:13 +0000",
+      "timestamp": 1790534773.0
+    },
+    {
+      "title": "He's Terrified of AI–and He's About to Make Billions Off It",
+      "link": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 18:39:09 +0000",
+      "timestamp": 1790534349.0
+    },
+    {
+      "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
+      "link": "https://orglet.codepawl.com/",
+      "summary": "I’m building Orglet, a desktop app where you give AI workers (I call them orglets, and they are cute) their own instructions and talk to them individually or together in a group chat. You can build your own army of orglets using your existing Claude Code or Codex subscription, an API provider, or even locally hosted models. Like other agent harnesses, orglets can access a working folder you give them permission to use. They can split the work among themselves, and you can review the resulting diff before applying changes to your files. Each orglet has its own role, tools and permissions. Orgle",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 18:37:45 +0000",
+      "timestamp": 1790534265.0
+    },
+    {
+      "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+      "link": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 18:34:38 +0000",
+      "timestamp": 1790534078.0
+    },
     {
       "title": "Ask HN: What am I missing with Siri AI?",
       "link": "https://news.ycombinator.com/item?id=49869237",
@@ -10,69 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 27 Sep 2026 18:12:14 +0000",
       "timestamp": 1790532734.0
-    },
-    {
-      "title": "Show HN: iPulse AI – Visitors can inspect disagreement across debating agents",
-      "link": "https://ipulseai.com/stocks/nvidia-nvda/ai-forecasts",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 18:11:24 +0000",
-      "timestamp": 1790532684.0
-    },
-    {
-      "title": "Google OpenAI Anthropic Begin Forming SAFA – Standards Authority for Frontier AI",
-      "link": "https://www.proactiveinvestors.com/companies/news/1099096/google-openai-and-anthropic-move-closer-to-ai-safety-standards-body-1099096.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 18:00:36 +0000",
-      "timestamp": 1790532036.0
-    },
-    {
-      "title": "The NSA Is Spending Billions to Test AI Models, Classified Estimates Show",
-      "link": "https://www.gadgetreview.com/the-nsa-is-spending-billions-to-test-ai-models-classified-estimates-show",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 17:56:05 +0000",
-      "timestamp": 1790531765.0
-    },
-    {
-      "title": "Deming in the machine running an AI assisted film",
-      "link": "https://medium.com/@zrkjsy/deming-in-the-machine-running-an-ai-assisted-film-production-on-continuous-improvement-0337a3112111",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 17:53:18 +0000",
-      "timestamp": 1790531598.0
-    },
-    {
-      "title": "Scoop: Top AI companies probing tens of thousands of security incidents",
-      "link": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 17:53:07 +0000",
-      "timestamp": 1790531587.0
-    },
-    {
-      "title": "China and U.S. to open AI 'communication channel' after summit",
-      "link": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 17:51:07 +0000",
-      "timestamp": 1790531467.0
-    },
-    {
-      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-      "link": "https://earnanhonestdollar.com/bench",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 17:24:17 +0000",
-      "timestamp": 1790529857.0
     },
     {
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
@@ -84,112 +219,13 @@
       "timestamp": 1790529667.0
     },
     {
-      "title": "AI in hospital billing adds nearly $1B in extra costs",
-      "link": "https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs",
-      "summary": "",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "summary": "\"AI is the devil and I its maker.\"",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 17:02:49 +0000",
-      "timestamp": 1790528569.0
-    },
-    {
-      "title": "Life Forge – Autonomous Flight Simulator for AI Agents",
-      "link": "https://github.com/zariffromlatif/life-forge",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 17:00:44 +0000",
-      "timestamp": 1790528444.0
-    },
-    {
-      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 16:29:38 +0000",
-      "timestamp": 1790526578.0
-    },
-    {
-      "title": "There are no \"rogue\" AI agents",
-      "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 16:19:46 +0000",
-      "timestamp": 1790525986.0
-    },
-    {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 16:10:34 +0000",
-      "timestamp": 1790525434.0
-    },
-    {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "link": "https://tinyaiarena.com/",
-      "summary": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win! Click on any of the matches to spectate them. Code: https://github.com/hp6/ai-arena",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 15:51:28 +0000",
-      "timestamp": 1790524288.0
-    },
-    {
-      "title": "Current ways of developing AI agents contribute to degradation of oversight",
-      "link": "https://arxiv.org/abs/2608.23642",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 15:35:52 +0000",
-      "timestamp": 1790523352.0
-    },
-    {
-      "title": "A20 Pro and on-device AI: It's showtime",
-      "link": "https://rickytakkar.com/blog_a20_pro_ai.html?source=hn",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 15:17:37 +0000",
-      "timestamp": 1790522257.0
-    },
-    {
-      "title": "Show HN: Updated Ceptile AI Search Improved Answers and Research",
-      "link": "https://www.ceptile.com/",
-      "summary": "We have recently updated Ceptile's AI answers and use of web sources. Now, It can go deeper and find more accurate answers and results than before. Now, it has become more powerful to give real-time answers. We have also fixed previous bugs. You can submit your review on our mail at support@ceptile.com. We have also upgraded our backend. You can try the AI search at ceptile.com. Watch 2 minutes demo on Youtube: https://www.youtube.com/watch?v=OR4WfsMKEiE Join Our Discord Server on: https://discord.gg/N9wRwBTDD",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 15:14:15 +0000",
-      "timestamp": 1790522055.0
-    },
-    {
-      "title": "Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation",
-      "link": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 14:59:53 +0000",
-      "timestamp": 1790521193.0
-    },
-    {
-      "title": "AI messaging scam costs Italy's top bank Intesa millions, sources say",
-      "link": "https://www.reuters.com/legal/government/ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say-2026-09-25/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 14:34:45 +0000",
-      "timestamp": 1790519685.0
-    },
-    {
-      "title": "Show HN: AI agent running cost calculator (and when a SaaS platform is cheaper)",
-      "link": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 14:26:11 +0000",
-      "timestamp": 1790519171.0
+      "source": "TechCrunch AI",
+      "published": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "timestamp": 1790526600.0
     },
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -417,33 +453,6 @@
       "timestamp": 1790350788.0
     },
     {
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 15:00:00 +0000",
-      "timestamp": 1790348400.0
-    },
-    {
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 14:15:00 +0000",
-      "timestamp": 1790345700.0
-    },
-    {
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-      "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-      "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 14:00:00 +0000",
-      "timestamp": 1790344800.0
-    },
-    {
       "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
       "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
       "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
@@ -478,15 +487,6 @@
       "source": "Wired AI",
       "published": "Thu, 24 Sep 2026 19:36:35 +0000",
       "timestamp": 1790278595.0
-    },
-    {
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-24T14:04:44-04:00",
-      "timestamp": 1790273084.0
     },
     {
       "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
