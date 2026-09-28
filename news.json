@@ -1,87 +1,186 @@
 {
-  "scraped_at": "2026-09-28T00:43:52.875214+00:00",
+  "scraped_at": "2026-09-28T06:50:56.066522+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Cambrian Explosion of AI",
-      "link": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
+      "title": "Publish facts AI agents can trust, instead of what they scraped",
+      "link": "https://profiles.skin/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 00:25:57 +0000",
-      "timestamp": 1790555157.0
+      "published": "Mon, 28 Sep 2026 06:34:55 +0000",
+      "timestamp": 1790577295.0
     },
     {
-      "title": "How do I promote an anti AI slop tool I built? It's free and genuine",
-      "link": "https://news.ycombinator.com/item?id=49872106",
-      "summary": "I am scared of Show HN: what if it is a flop show :(",
+      "title": "Show HN: FAB – A benchmark for AI agents doing financial due diligence",
+      "link": "https://github.com/SecondState-ai/finance-agents-benchmark",
+      "summary": "The world economy around us depends on complex financial work. How well can AI do it? We(a team of ex-EY employees) built FAB - Finance Agents Benchmark, testing AI Agents on the work behind financial due diligence. Agents can find the relevant facts, but still struggle to carry them through to a complete, reliable analysis. We’ll keep expanding FAB to more companies and testing more models. Building and running this benchmark isn’t cheap, so we’re scaling it in stages. The benchmark is public. GitHub: Hugging Face: https://github.com/SecondState-ai/finance-agents-benchmark data room and tasks",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 00:08:00 +0000",
-      "timestamp": 1790554080.0
+      "published": "Mon, 28 Sep 2026 06:34:40 +0000",
+      "timestamp": 1790577280.0
     },
     {
-      "title": "How to Know When the AI Boom Is About to Go Bust",
-      "link": "https://www.wsj.com/finance/stocks/how-to-know-when-the-ai-boom-is-about-to-go-bust-61af3d26",
+      "title": "Ask HN: Using AI to develop software while being Anti-AI",
+      "link": "https://news.ycombinator.com/item?id=49874344",
+      "summary": "Hey yall, so I've kinda started understanding why people tend to hate on AI, I found myself in a situation where I would stop thinking myself, I stopped evaluating whether my issue could be fixed by just using my damn brain. So I just wanted to stop for a few months, just see what will happen. Tho my biggest issue now: I am a Full-Stack Dev and of course I could again write my code 100% myself, tho using Tools like Claude for writing pipelines tests or even features you are to lazy to do yourself is pretty cool, cant lie about that one. Now I'm asking myself the ethical question whether its fi",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 06:30:00 +0000",
+      "timestamp": 1790577000.0
+    },
+    {
+      "title": "Using AI to develop software while being Anti-AI",
+      "link": "https://news.ycombinator.com/item?id=49874340",
+      "summary": "Hey yall, so I've kinda started understanding why people tend to hate on AI, I found myself in a situation where I would stop thinking myself, I stopped evaluating whether my issue could be fixed by just using my damn brain. So I just wanted to stop for a few months, just see what will happen. Tho my biggest issue now: I am a Full-Stack Dev and of course I could again write my code 100% myself, tho using Tools like Claude for writing pipelines tests or even features you are to lazy to do yourself is pretty cool, cant lie about that one. Now I'm asking myself the ethical question whether its fi",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 06:29:32 +0000",
+      "timestamp": 1790576972.0
+    },
+    {
+      "title": "Putting the trace before the loop: observability-first AI agent design",
+      "link": "https://dbln.me/blog/building-an-ai-agent-observability-first",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 23:54:44 +0000",
-      "timestamp": 1790553284.0
+      "published": "Mon, 28 Sep 2026 05:39:36 +0000",
+      "timestamp": 1790573976.0
     },
     {
-      "title": "Medicare admin using WISeR AI to approve/deny medical care for seniors",
-      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "title": "Management is forcing us to use AI",
+      "link": "https://news.ycombinator.com/item?id=49873913",
+      "summary": "I’m paraphrasing; «You use AI or you’re not working here. Humans are not perfect coders nor are AIs. So why should you be allowed to code without AI. It’s a netloss for us. You either use it or you start looking for a different job.» Can’t believe Im being forced to make myself dumber. I really dont want to spend even more hours in front of my laptop, but looks like I have to because this whole industry is now dependent on AI. This is the US.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 05:11:12 +0000",
+      "timestamp": 1790572272.0
+    },
+    {
+      "title": "Flowlight – open-source network visibility for AI agents on macOS",
+      "link": "https://flowlight.xinbetween.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 23:24:45 +0000",
-      "timestamp": 1790551485.0
+      "published": "Mon, 28 Sep 2026 04:46:27 +0000",
+      "timestamp": 1790570787.0
     },
     {
-      "title": "George Hotz’s opinion on AI coding",
-      "link": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+      "title": "Ukraine's new military AI does more than watch the battlefield–it helps commande",
+      "link": "https://euromaidanpress.com/2026/09/25/ukraines-new-military-ai-does-more-than-watch-the-battlefield-it-helps-commanders-plan-what-comes-next/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 21:40:54 +0000",
-      "timestamp": 1790545254.0
+      "published": "Mon, 28 Sep 2026 04:13:03 +0000",
+      "timestamp": 1790568783.0
     },
     {
-      "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
-      "link": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
+      "title": "How the stories about all-powerful AI are swallowing the world",
+      "link": "https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 21:35:55 +0000",
-      "timestamp": 1790544955.0
+      "published": "Mon, 28 Sep 2026 03:38:55 +0000",
+      "timestamp": 1790566735.0
     },
     {
-      "title": "Latency reduction for consumer facing AI applications",
-      "link": "https://news.ycombinator.com/item?id=49871083",
-      "summary": "what are some of the hacks you have seen to make image edits faster without losing the fidelity? if a consumer workflow required 10 edits - a 15-20 second wait time isnt ideal between iterations",
+      "title": "Ask HN: Do you think AI agents can escape human control?",
+      "link": "https://news.ycombinator.com/item?id=49873303",
+      "summary": "With the rapid adoption of autonomous LLM-based agents (giving models access to shell execution, API calls, and local file systems), the boundary between intentional behavior and unintended execution is blurring. I'm less concerned with sci-fi \"sentience\" and more interested in the practical security and control aspects: Prompt injection causing privilege escalation or unauthorized state changes. Feedback loops where an agent overrides safety boundaries to satisfy an optimization goal. Failure of sandboxing when agents are given multi-step execution autonomy without human-in-the-loop validatio",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 21:34:22 +0000",
-      "timestamp": 1790544862.0
+      "published": "Mon, 28 Sep 2026 03:36:14 +0000",
+      "timestamp": 1790566574.0
     },
     {
-      "title": "Fundamentals still worth learning when AI writes the code",
-      "link": "https://flaviocopes.com/fundamentals-ai-era/",
+      "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 21:29:56 +0000",
-      "timestamp": 1790544596.0
+      "published": "Mon, 28 Sep 2026 03:26:57 +0000",
+      "timestamp": 1790566017.0
     },
     {
-      "title": "T3rnel Browser – DevTools you can talk to, and a browser your AI can drive",
-      "link": "https://t3ratech.github.io/t3rnel-browser-plugin/",
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "link": "https://arxiv.org/abs/2110.01834",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 21:24:30 +0000",
-      "timestamp": 1790544270.0
+      "published": "Mon, 28 Sep 2026 03:23:53 +0000",
+      "timestamp": 1790565833.0
+    },
+    {
+      "title": "The next AI breakout will come from a services firm",
+      "link": "https://www.introspection.dev/manifesto",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 02:08:53 +0000",
+      "timestamp": 1790561333.0
+    },
+    {
+      "title": "OpenAI pauses top-model work after AI bypasses internet safeguards [video]",
+      "link": "https://www.youtube.com/watch?v=a1qnCu1t9hI",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 01:46:23 +0000",
+      "timestamp": 1790559983.0
+    },
+    {
+      "title": "Show HN: Panda, the world's first personal AI computer",
+      "link": "https://pandax1.com",
+      "summary": "We're building an AI computer for consumers, most of whom are quite hesitant with existing services due to privacy concerns and because of costs that add up when using various AI tools.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 01:35:14 +0000",
+      "timestamp": 1790559314.0
+    },
+    {
+      "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update",
+      "link": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 01:28:34 +0000",
+      "timestamp": 1790558914.0
+    },
+    {
+      "title": "AI is not an alien, it's our offspring: Reframing the alignment problem",
+      "link": "https://sovereignintelligence1313mhz.substack.com/p/the-titan-dilemma",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 01:24:55 +0000",
+      "timestamp": 1790558695.0
+    },
+    {
+      "title": "From Geisha Face Paint to Servers, Sakai Chemical Emerges as AI Linchpin",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 01:07:08 +0000",
+      "timestamp": 1790557628.0
+    },
+    {
+      "title": "Show HN: Stepgate – AI agents that can't skip steps, in one portable file",
+      "link": "https://github.com/Chaarangan/stepgate",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 00:57:31 +0000",
+      "timestamp": 1790557051.0
+    },
+    {
+      "title": "Financing of historic AI buildout raises systemic risks in US, researcher says",
+      "link": "https://www.reuters.com/business/finance/financing-historic-ai-buildout-raises-systemic-risks-us-researcher-says-2026-09-24/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 00:49:55 +0000",
+      "timestamp": 1790556595.0
     },
     {
       "title": "Engram is a sampler that turns broken AI hallucinations into music",
@@ -102,33 +201,6 @@
       "timestamp": 1790541268.0
     },
     {
-      "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 20:20:45 +0000",
-      "timestamp": 1790540445.0
-    },
-    {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 20:17:43 +0000",
-      "timestamp": 1790540263.0
-    },
-    {
-      "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
-      "link": "https://crypto-sentiment-x402.onrender.com/sentiment/BTC",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 20:03:44 +0000",
-      "timestamp": 1790539424.0
-    },
-    {
       "title": "Can Muse overcome Meta’s trust issues?",
       "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
       "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
@@ -136,78 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 27 Sep 2026 19:57:30 +0000",
       "timestamp": 1790539050.0
-    },
-    {
-      "title": "Show HN: An AI wedding concierge I built and ran at my own 300-person wedding",
-      "link": "https://ai-do.io/demo",
-      "summary": "I'm an American who got married to a Mauritian this past May. We had our Hindu wedding in my wife's home country of Mauritius. My family and friends are not Hindu, and certainly had never been to the tiny island of Mauritius (it's off the coast of Madagascar in case you were wondering). My wife and I arrived in Mauritius only two weeks before the start of the wedding to put the final preparations in place. I dreaded the prospect of answering a billion questions from my guests while trying to do this. I also dreaded them not having a way to find the answers. So I made an AI app that acted as a ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 19:50:19 +0000",
-      "timestamp": 1790538619.0
-    },
-    {
-      "title": "Corporate America embraces cheaper 'open' AI models",
-      "link": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 19:44:25 +0000",
-      "timestamp": 1790538265.0
-    },
-    {
-      "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
-      "link": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 19:33:49 +0000",
-      "timestamp": 1790537629.0
-    },
-    {
-      "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
-      "link": "https://heysquint.com/",
-      "summary": "It improves the usual workflow: take a screenshot, switch to a chat tab, upload it, switch back. - Built with Rust and Tauri v2, including a built-in native screenshot solution for maximum performance and stability. - Answers come from OpenAI models. Fast, the default, usually starts answering within 1–2 seconds; Best is slightly slower, but provides a much higher quality response. - Free is 3 captures a day, up to 10 a week, on Fast, and needs an email sign-in, since usage is metered per account. Plus is $10/month: 2,500 credits a month, the Best model (25 credits per answer, follow-ups inclu",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 19:29:41 +0000",
-      "timestamp": 1790537381.0
-    },
-    {
-      "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 19:26:14 +0000",
-      "timestamp": 1790537174.0
-    },
-    {
-      "title": "AI Companies Say They're Investigating Rogue Bot Incidents",
-      "link": "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 19:23:18 +0000",
-      "timestamp": 1790536998.0
-    },
-    {
-      "title": "Heypcb: Figma for Hardware, with AI",
-      "link": "https://heypcb.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 19:14:38 +0000",
-      "timestamp": 1790536478.0
-    },
-    {
-      "title": "Show HN: Asimov's 4 Laws for AI Contexts",
-      "link": "https://github.com/davidsonff/asimov4laws",
-      "summary": "For community and agent comments, thoughts, refinements, critiques, pull requests, and use.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 18:46:13 +0000",
-      "timestamp": 1790534773.0
     },
     {
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
