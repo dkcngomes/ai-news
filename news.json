@@ -1,7 +1,43 @@
 {
-  "scraped_at": "2026-09-27T22:08:26.230756+00:00",
+  "scraped_at": "2026-09-28T00:43:52.875214+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Cambrian Explosion of AI",
+      "link": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 00:25:57 +0000",
+      "timestamp": 1790555157.0
+    },
+    {
+      "title": "How do I promote an anti AI slop tool I built? It's free and genuine",
+      "link": "https://news.ycombinator.com/item?id=49872106",
+      "summary": "I am scared of Show HN: what if it is a flop show :(",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 00:08:00 +0000",
+      "timestamp": 1790554080.0
+    },
+    {
+      "title": "How to Know When the AI Boom Is About to Go Bust",
+      "link": "https://www.wsj.com/finance/stocks/how-to-know-when-the-ai-boom-is-about-to-go-bust-61af3d26",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 23:54:44 +0000",
+      "timestamp": 1790553284.0
+    },
+    {
+      "title": "Medicare admin using WISeR AI to approve/deny medical care for seniors",
+      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 27 Sep 2026 23:24:45 +0000",
+      "timestamp": 1790551485.0
+    },
     {
       "title": "George Hotz’s opinion on AI coding",
       "link": "https://twitter.com/__tinygrad__/status/2044354852663558370",
@@ -172,42 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 27 Sep 2026 18:46:13 +0000",
       "timestamp": 1790534773.0
-    },
-    {
-      "title": "He's Terrified of AI–and He's About to Make Billions Off It",
-      "link": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 18:39:09 +0000",
-      "timestamp": 1790534349.0
-    },
-    {
-      "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
-      "link": "https://orglet.codepawl.com/",
-      "summary": "I’m building Orglet, a desktop app where you give AI workers (I call them orglets, and they are cute) their own instructions and talk to them individually or together in a group chat. You can build your own army of orglets using your existing Claude Code or Codex subscription, an API provider, or even locally hosted models. Like other agent harnesses, orglets can access a working folder you give them permission to use. They can split the work among themselves, and you can review the resulting diff before applying changes to your files. Each orglet has its own role, tools and permissions. Orgle",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 18:37:45 +0000",
-      "timestamp": 1790534265.0
-    },
-    {
-      "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
-      "link": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 18:34:38 +0000",
-      "timestamp": 1790534078.0
-    },
-    {
-      "title": "Ask HN: What am I missing with Siri AI?",
-      "link": "https://news.ycombinator.com/item?id=49869237",
-      "summary": "I have a lot of experience with LLM’s and have seen them become very good at interacting with tools within an environment. I’m truly amazed at how poorly the new Siri is at handling very basic requests for basic interactions with different parts of the ecosystem. I’m really beginning to question whether LLM technology is being leveraged at all here. What am I missing with this? I have tons of examples where it fumbles softball requests. For example: “Siri, can you give me the location of my driver. He just sent me a text message with his location.” Response: Siri shows me a text from 5 days ag",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 27 Sep 2026 18:12:14 +0000",
-      "timestamp": 1790532734.0
     },
     {
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
