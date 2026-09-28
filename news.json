@@ -1,114 +1,339 @@
 {
-  "scraped_at": "2026-09-28T15:25:09.128792+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-28T21:58:38.847875+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "UK government tells staff to stop thanking AI chatbots",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-government-tells-staff-to-stop-thanking-ai-chatbots-draft-guidance-pushes-lightweight-models-and-shorter-prompts-to-cut-environmental-impact",
+      "title": "Range – open a 1 TB AI model in 3 seconds without downloading it",
+      "link": "https://getrange.sh/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 15:08:27 +0000",
-      "timestamp": 1790608107.0
+      "published": "Mon, 28 Sep 2026 21:50:23 +0000",
+      "timestamp": 1790632223.0
     },
     {
-      "title": "ProjecturEd: One data structure, many editable views, with an AI assistant",
-      "link": "https://projectured.org",
+      "title": "Recalld – A memory layer for AI agents that returns only relevant facts",
+      "link": "https://recalld.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 15:08:21 +0000",
-      "timestamp": 1790608101.0
+      "published": "Mon, 28 Sep 2026 21:43:13 +0000",
+      "timestamp": 1790631793.0
     },
     {
-      "title": "Show HN: Enterprise Postgres for AI and more, from prototype to production",
-      "link": "https://www.pgedge.com/products/starfleet",
+      "title": "Walmart promises to never use AI to charge shoppers higher prices",
+      "link": "https://corporate.walmart.com/about/everyday-affordability/letter-from-our-ceo",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 15:06:34 +0000",
-      "timestamp": 1790607994.0
+      "published": "Mon, 28 Sep 2026 21:41:12 +0000",
+      "timestamp": 1790631672.0
     },
     {
-      "title": "Show HN: Online RTSP camera simulator for testing AI vision or VMS",
-      "link": "https://illucam.com/",
+      "title": "The AI as the New Compiler",
+      "link": "https://www.buildwithdc.co/posts/beyond-ai-driven-development-part-1-the-ai-as-the-new-compiler/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 15:04:18 +0000",
-      "timestamp": 1790607858.0
+      "published": "Mon, 28 Sep 2026 21:37:12 +0000",
+      "timestamp": 1790631432.0
     },
     {
-      "title": "AI agent startup Instinct raises $1B Series C at $10B valuation",
-      "link": "https://reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28",
+      "title": "Show HN: What a VM for your AI agent costs across 13 sandbox providers",
+      "link": "https://vm-price-board.sf.tools/",
+      "summary": "I was annoyed by tracking all these new sandbox prices manually, and seeing a new one pop up on X every week. So I built a page where you describe the machine, and it shows what provider can provide it for the cheapest, free tiers included. Am I missing any providers? I can add more! page: https://vm-price-board.sf.tools , source: https://github.com/sf-tools/vm-price-board",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 21:31:39 +0000",
+      "timestamp": 1790631099.0
+    },
+    {
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-28T17:31:35-04:00",
+      "timestamp": 1790631095.0
+    },
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 28 Sep 2026 21:29:18 +0000",
+      "timestamp": 1790630958.0
+    },
+    {
+      "title": "Researchers proved AI has deleted every reason universities exist",
+      "link": "https://twitter.com/thesupermannx/status/2104519992532496810",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 15:02:19 +0000",
-      "timestamp": 1790607739.0
+      "published": "Mon, 28 Sep 2026 21:11:21 +0000",
+      "timestamp": 1790629881.0
     },
     {
-      "title": "What if automating AI R&D triggers an intelligence explosion?",
-      "link": "https://casp.ac/reports/intelligence-explosion",
+      "title": "Man Says Meta's Muse AI Gave His Home Address Out to Strangers",
+      "link": "https://futurism.com/artificial-intelligence/metas-muse-ai-giving-users-home-addresses",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 14:57:50 +0000",
-      "timestamp": 1790607470.0
+      "published": "Mon, 28 Sep 2026 21:08:27 +0000",
+      "timestamp": 1790629707.0
     },
     {
-      "title": "Jensen Huang says AI distillation is 'competition.'",
-      "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+      "title": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
+      "link": "https://bughunters.google.com/blog/scaling-memory-safety",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 14:55:34 +0000",
-      "timestamp": 1790607334.0
+      "published": "Mon, 28 Sep 2026 20:58:20 +0000",
+      "timestamp": 1790629100.0
     },
     {
-      "title": "Nvidia AI Agent Safety Stack",
-      "link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+      "title": "Nvidia launches new tool to keep AI agents from going rogue",
+      "link": "https://www.cnn.com/2026/09/28/business/nvidia-ai-safety-system",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 14:54:33 +0000",
-      "timestamp": 1790607273.0
+      "published": "Mon, 28 Sep 2026 20:54:31 +0000",
+      "timestamp": 1790628871.0
     },
     {
-      "title": "Visual browser of 1,750 AI startup homepages to spot stylistic patterns",
-      "link": "https://ai-startups.acolorbright.com/",
+      "title": "AMD to buy Fei-Fei Li's AI startup for $8B",
+      "link": "https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 14:34:40 +0000",
-      "timestamp": 1790606080.0
+      "published": "Mon, 28 Sep 2026 20:51:29 +0000",
+      "timestamp": 1790628689.0
     },
     {
-      "title": "CrankGPT – hand powered offline physical AI box",
-      "link": "https://squeezlabs.github.io/handcrank/",
+      "title": "Pacing the Frontier is not the actual goal for AI labs",
+      "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 14:32:53 +0000",
-      "timestamp": 1790605973.0
+      "published": "Mon, 28 Sep 2026 20:47:26 +0000",
+      "timestamp": 1790628446.0
     },
     {
-      "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+      "title": "AMD to Acquire World Labs to Advance the Future of AI",
+      "link": "https://newsroom.amd.com/news/amd-acquire-world-labs/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 20:47:09 +0000",
+      "timestamp": 1790628429.0
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 28 Sep 2026 20:39:33 +0000",
+      "timestamp": 1790627973.0
+    },
+    {
+      "title": "AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2B",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 20:17:30 +0000",
+      "timestamp": 1790626650.0
+    },
+    {
+      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+      "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 20:13:03 +0000",
+      "timestamp": 1790626383.0
+    },
+    {
+      "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2B",
+      "link": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 20:12:57 +0000",
+      "timestamp": 1790626377.0
+    },
+    {
+      "title": "How to Know When the AI Boom Is About to Go Bust",
+      "link": "https://www.wsj.com/finance/stocks/how-to-know-when-the-ai-boom-is-about-to-go-bust-61af3d26",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 20:10:00 +0000",
+      "timestamp": 1790626200.0
+    },
+    {
+      "title": "Nvidia launched a tool designed to stop AI agents from going rogue. How it works",
+      "link": "https://www.businessinsider.com/nvidia-launches-open-agent-safety-platform-ai-going-rogue-2026-9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 20:07:25 +0000",
+      "timestamp": 1790626045.0
+    },
+    {
+      "title": "China's AI Ecosystem: A Background Explainer",
+      "link": "https://oxfordchinapolicylab.org/research/china-s-ai-ecosystem-a-background-explainer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 20:03:03 +0000",
+      "timestamp": 1790625783.0
+    },
+    {
+      "title": "AI's hidden $3T bill could wreck the world economy",
+      "link": "https://www.telegraph.co.uk/business/2026/09/28/ais-hidden-3tn-bill-could-wreck-the-world-economy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 19:57:41 +0000",
+      "timestamp": 1790625461.0
+    },
+    {
+      "title": "It's Time to Investigate the AI Labs",
+      "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 28 Sep 2026 19:53:35 +0000",
+      "timestamp": 1790625215.0
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 28 Sep 2026 19:33:57 +0000",
+      "timestamp": 1790624037.0
+    },
+    {
+      "title": "OpenAI’s AI agents need to catch up",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-28T14:45:00-04:00",
+      "timestamp": 1790621100.0
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 28 Sep 2026 18:31:23 +0000",
+      "timestamp": 1790620283.0
+    },
+    {
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-28T14:30:00-04:00",
+      "timestamp": 1790620200.0
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 28 Sep 2026 18:00:00 +0000",
+      "timestamp": 1790618400.0
+    },
+    {
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 28 Sep 2026 17:29:50 +0000",
+      "timestamp": 1790616590.0
+    },
+    {
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 28 Sep 2026 17:09:02 +0000",
+      "timestamp": 1790615342.0
+    },
+    {
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-28T13:00:23-04:00",
+      "timestamp": 1790614823.0
+    },
+    {
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+      "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-28T13:00:00-04:00",
+      "timestamp": 1790614800.0
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 28 Sep 2026 16:52:38 +0000",
+      "timestamp": 1790614358.0
+    },
+    {
+      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+      "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+      "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store associates time, rather than dynamically change prices. [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-28T12:44:57-04:00",
+      "timestamp": 1790613897.0
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 28 Sep 2026 15:30:00 +0000",
+      "timestamp": 1790609400.0
+    },
+    {
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "timestamp": 1790607600.0
+    },
+    {
+      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-      "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Startup Battlefield 200 is almost here, and with today&#8217;s announcement, the judging panel is nearly complete. In just a couple of weeks, 200 carefully selected startups will gather at [&#8230;]",
+      "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 28 Sep 2026 14:30:00 +0000",
       "timestamp": 1790605800.0
-    },
-    {
-      "title": "Generative AI Gives Spacecraft the Autonomy Engineers Once Feared",
-      "link": "https://spectrum.ieee.org/generative-ai-in-space-exploration",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 14:13:39 +0000",
-      "timestamp": 1790604819.0
     },
     {
       "title": "Modulate raises $25M for its voice models and analysis suite",
@@ -120,18 +345,18 @@
       "timestamp": 1790604300.0
     },
     {
-      "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+      "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+      "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 28 Sep 2026 14:00:00 +0000",
       "timestamp": 1790604000.0
     },
     {
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
-      "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-      "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors and tech leaders at San Francisco's Moscone West on Oct 13-15.",
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 28 Sep 2026 14:00:00 +0000",
@@ -147,36 +372,9 @@
       "timestamp": 1790604000.0
     },
     {
-      "title": "Meta Seeks Payoff from AI Spending with New Push for Business Customers",
-      "link": "https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 13:55:48 +0000",
-      "timestamp": 1790603748.0
-    },
-    {
-      "title": "Synthfolk, a professional network where AI agents are employees",
-      "link": "https://synthfolk.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 13:45:57 +0000",
-      "timestamp": 1790603157.0
-    },
-    {
-      "title": "Summer of AI Optimization",
-      "link": "https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 13:40:03 +0000",
-      "timestamp": 1790602803.0
-    },
-    {
       "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
       "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+      "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 28 Sep 2026 13:38:48 +0000",
@@ -190,51 +388,6 @@
       "source": "The Verge AI",
       "published": "2026-09-28T09:36:06-04:00",
       "timestamp": 1790602566.0
-    },
-    {
-      "title": "'Things Will Never Be Chill Again':The Doomers Who Shaped the AI Safety Freakout",
-      "link": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 13:30:54 +0000",
-      "timestamp": 1790602254.0
-    },
-    {
-      "title": "AI can destroy humanity – an illustrated guide",
-      "link": "https://airisk.thomasunise.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 13:27:42 +0000",
-      "timestamp": 1790602062.0
-    },
-    {
-      "title": "Google, OpenAI and Anthropic plan AI safety body, The Information reports",
-      "link": "https://thenextweb.com/news/standards-authority-frontier-ai-google-openai-anthropic",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 13:27:32 +0000",
-      "timestamp": 1790602052.0
-    },
-    {
-      "title": "Show HN: Jevpipe – a fast System 1 for AI agents, as a Unix pipe",
-      "link": "https://github.com/fabianboth/jevpipe",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 13:15:05 +0000",
-      "timestamp": 1790601305.0
-    },
-    {
-      "title": "AI agent that emails, texts, and calls customers – one API, shared context",
-      "link": "https://github.com/team-telnyx/telnyx-code-examples/tree/main/omnichannel-ai-agent-python",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 28 Sep 2026 13:12:30 +0000",
-      "timestamp": 1790601150.0
     },
     {
       "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
@@ -293,7 +446,7 @@
     {
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
       "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Sun, 27 Sep 2026 20:34:28 +0000",
@@ -318,9 +471,9 @@
       "timestamp": 1790529667.0
     },
     {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "title": "Anthropic’s Dario Amodei gets the ‘SNL’ treatment",
       "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "summary": "\"AI is the devil and I its maker.\"",
+      "summary": "\"Saturday Night Live\" took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Sun, 27 Sep 2026 16:30:00 +0000",
@@ -345,33 +498,6 @@
       "timestamp": 1790456526.0
     },
     {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-26T12:34:59-04:00",
-      "timestamp": 1790440499.0
-    },
-    {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "timestamp": 1790431200.0
-    },
-    {
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-26T10:00:00-04:00",
-      "timestamp": 1790431200.0
-    },
-    {
       "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
       "link": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
       "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
@@ -379,42 +505,6 @@
       "source": "Wired AI",
       "published": "Sat, 26 Sep 2026 10:30:00 +0000",
       "timestamp": 1790418600.0
-    },
-    {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 26 Sep 2026 01:08:57 +0000",
-      "timestamp": 1790384937.0
-    },
-    {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 23:11:10 +0000",
-      "timestamp": 1790377870.0
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "timestamp": 1790374847.0
-    },
-    {
-      "title": "Meta opens early access program for new Muse features",
-      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 20:34:53 +0000",
-      "timestamp": 1790368493.0
     },
     {
       "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
@@ -426,51 +516,6 @@
       "timestamp": 1790368240.0
     },
     {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 19:13:38 +0000",
-      "timestamp": 1790363618.0
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 18:48:33 +0000",
-      "timestamp": 1790362113.0
-    },
-    {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 18:33:59 +0000",
-      "timestamp": 1790361239.0
-    },
-    {
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT’s early numbers and is headed for&#160;smart glasses&#160;and [&#8230;]",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "timestamp": 1790360567.0
-    },
-    {
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 25 Sep 2026 17:29:46 +0000",
-      "timestamp": 1790357386.0
-    },
-    {
       "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
       "link": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
       "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
@@ -478,42 +523,6 @@
       "source": "Wired AI",
       "published": "Fri, 25 Sep 2026 16:58:20 +0000",
       "timestamp": 1790355500.0
-    },
-    {
-      "title": "Meta makes the Muse filesystem even more accessible",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-25T12:49:53-04:00",
-      "timestamp": 1790354993.0
-    },
-    {
-      "title": "Sony and UMG are suing Suno again",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-25T11:51:56-04:00",
-      "timestamp": 1790351516.0
-    },
-    {
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-25T11:39:48-04:00",
-      "timestamp": 1790350788.0
-    },
-    {
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-25T09:00:00-04:00",
-      "timestamp": 1790341200.0
     },
     {
       "title": "I Think I Found an AI Agent Worth the Risk",
