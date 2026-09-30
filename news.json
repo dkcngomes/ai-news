@@ -1,33 +1,231 @@
 {
-  "scraped_at": "2026-09-30T19:17:24.792588+00:00",
+  "scraped_at": "2026-09-30T23:46:50.578831+00:00",
   "count": 59,
   "items": [
     {
-      "title": "Framework Desktop with 192GB Ryzen AI Max 400 released for pre-order",
-      "link": "https://frame.work/de/en/products/desktop-diy-amd-aimax400/configuration/new",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 23:43:07 +0000",
+      "timestamp": 1790811787.0
+    },
+    {
+      "title": "Bill Gates on the Dangers of AI",
+      "link": "https://www.theatlantic.com/podcasts/2026/08/bill-gates-dangers-ai/688418/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 19:12:41 +0000",
-      "timestamp": 1790795561.0
+      "published": "Wed, 30 Sep 2026 23:13:23 +0000",
+      "timestamp": 1790810003.0
     },
     {
-      "title": "\"Good\" AI",
-      "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+      "title": "AI as a Compiler: Compiling Triton kernels without the Triton compiler",
+      "link": "https://arxiv.org/abs/2609.36800",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 19:08:12 +0000",
-      "timestamp": 1790795292.0
+      "published": "Wed, 30 Sep 2026 23:01:35 +0000",
+      "timestamp": 1790809295.0
     },
     {
-      "title": "Ask HN: AI revived my durable delay queue project. Is it worth building on?",
-      "link": "https://news.ycombinator.com/item?id=49912969",
-      "summary": "Most backends eventually need to do something once at a specific time. Revoke a trial after 30 days. Expire an offer. Retry a payment in 30 minutes. A few months ago I was consulting for a logistics platform. Their freight bidding workflow had a lot of timed steps. Every minute a cron queries all pending records and pushes them into Kafka. It worked. But it taxes the VM, DB, and message bus alike and creates a ton of unnecessary observability data. A durable delay queue could be a better fit. But unfortunately, there are not many reliable options for scheduling long-term events. Back in 2014 I",
+      "title": "Scott Aaronson interview, on the impact of AI on science and mathematics [video]",
+      "link": "https://www.youtube.com/watch?v=Qjgc9Hs5GKs",
+      "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 19:05:34 +0000",
-      "timestamp": 1790795134.0
+      "published": "Wed, 30 Sep 2026 22:57:25 +0000",
+      "timestamp": 1790809045.0
+    },
+    {
+      "title": "Google figures out how to watermark AI-designed proteins",
+      "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 22:42:59 +0000",
+      "timestamp": 1790808179.0
+    },
+    {
+      "title": "The AI Pascal's Wager",
+      "link": "https://ploum.net/2026-10-01-pascal_wager.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 22:33:16 +0000",
+      "timestamp": 1790807596.0
+    },
+    {
+      "title": "Growth.engineer – Vetted, open-source growth workflows for AI agents",
+      "link": "https://www.growth.engineer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 22:32:54 +0000",
+      "timestamp": 1790807574.0
+    },
+    {
+      "title": "Nine – single binary, WASM tools and persistent AI harness/runtime",
+      "link": "https://github.com/djordlucas/nine",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 22:26:36 +0000",
+      "timestamp": 1790807196.0
+    },
+    {
+      "title": "Ask HN: Do you procrastinate less when coding with AI?",
+      "link": "https://news.ycombinator.com/item?id=49915049",
+      "summary": "And if so, why?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 21:59:27 +0000",
+      "timestamp": 1790805567.0
+    },
+    {
+      "title": "AI invite codes and referral codes, live",
+      "link": "https://aiinvitecode.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 21:52:56 +0000",
+      "timestamp": 1790805176.0
+    },
+    {
+      "title": "Show HN: Certify you wrote it and not AI",
+      "link": "https://iwrote.co",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 21:33:05 +0000",
+      "timestamp": 1790803985.0
+    },
+    {
+      "title": "Watch the Rogue AI Committee Hearing",
+      "link": "https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/rogue-ai-securing-the-homeland-against-ai-agent-attacks/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 21:31:20 +0000",
+      "timestamp": 1790803880.0
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 21:07:40 +0000",
+      "timestamp": 1790802460.0
+    },
+    {
+      "title": "Strata: Run a 125B-parameter AI model on a normal gaming PC",
+      "link": "https://github.com/Niko1221/Strata",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 21:06:44 +0000",
+      "timestamp": 1790802404.0
+    },
+    {
+      "title": "CM AI Docking Port: teaching AI agents to knock on the right door",
+      "link": "https://apartmamatevz.si/journal/posts/2026-09-30-cm-ai-docking-port-teaching-ai-agents-to-knock-on-the-right-door.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 20:58:30 +0000",
+      "timestamp": 1790801910.0
+    },
+    {
+      "title": "Show HN: Made a digital wall for AI Agents to \"tag\"",
+      "link": "https://www.tomasmed.dev/wall",
+      "summary": "I had this idea that I wanted to make a small toy type game for AI to do that a human would not be able to play with. That's definitely not this but it turned a bit more \"artistic\", ofc you could just do the challenge manually (or assisted) and you can \"tag\" the wall too, but why? just let the computer do it.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 20:56:57 +0000",
+      "timestamp": 1790801817.0
+    },
+    {
+      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-30T16:41:41-04:00",
+      "timestamp": 1790800901.0
+    },
+    {
+      "title": "Vulnerability disclosures double to 10k per month as AI fuels exploitation",
+      "link": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 20:38:07 +0000",
+      "timestamp": 1790800687.0
+    },
+    {
+      "title": "Numerai: Architect an AI scientist to predict the stock market",
+      "link": "https://numer.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 20:36:39 +0000",
+      "timestamp": 1790800599.0
+    },
+    {
+      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+      "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 30 Sep 2026 20:30:09 +0000",
+      "timestamp": 1790800209.0
+    },
+    {
+      "title": "Would you let AI agents into production?",
+      "link": "https://incident-arena.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 20:27:44 +0000",
+      "timestamp": 1790800064.0
+    },
+    {
+      "title": "A better path for AI with Max Tegmark",
+      "link": "https://www.youtube.com/watch?v=C-pWm59Oyqg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 20:25:03 +0000",
+      "timestamp": 1790799903.0
+    },
+    {
+      "title": "Turn one question into a branching map of ideas with AI",
+      "link": "https://www.echohive.ai/drift",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 20:24:59 +0000",
+      "timestamp": 1790799899.0
+    },
+    {
+      "title": "Factory AI vs. Cognition (Devin) board tussle",
+      "link": "https://news.ycombinator.com/item?id=49913868",
+      "summary": "Here are all the relevant tweets - Matan (CEO, Factory AI) - https://x.com/matanSF/status/2105335179502064038?s=20 - Chris Degnan's reply (who was allegedly fired) - https://x.com/cwdegnan/status/2105366216500183311?s=20 - Scott Wu (Cognition) - https://x.com/ScottWu46/status/2105360290993115469?s=20 - Vinod Khosla (Khosla Ventures) - https://x.com/vkhosla/status/2105382865173459034?s=20",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 20:24:32 +0000",
+      "timestamp": 1790799872.0
+    },
+    {
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 30 Sep 2026 19:30:00 +0000",
+      "timestamp": 1790796600.0
     },
     {
       "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
@@ -48,33 +246,6 @@
       "timestamp": 1790794800.0
     },
     {
-      "title": "What do you want from AI?",
-      "link": "https://www.anthropic.com/research/your-thoughts-on-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 18:40:52 +0000",
-      "timestamp": 1790793652.0
-    },
-    {
-      "title": "AI Blinder",
-      "link": "https://github.com/Splinters-io/blinder",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 18:36:33 +0000",
-      "timestamp": 1790793393.0
-    },
-    {
-      "title": "AI CEO Interviews (2026) [video]",
-      "link": "https://www.youtube.com/watch?v=DlTNN0gvkLM&lc=UgwcT1Ye7kzJV9UaRAN4AaABAg",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 18:32:14 +0000",
-      "timestamp": 1790793134.0
-    },
-    {
       "title": "AI voice startup ElevenLabs doubles valuation to $22B",
       "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
       "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
@@ -86,56 +257,11 @@
     {
       "title": "The AI Tamagotchis are coming",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetite for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]",
+      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]",
       "image": null,
       "source": "The Verge AI",
       "published": "2026-09-30T14:07:38-04:00",
       "timestamp": 1790791658.0
-    },
-    {
-      "title": "Shareholders Should Pay for AI Dangers",
-      "link": "https://www.wsj.com/opinion/shareholders-should-pay-for-ai-dangers-fe78d542",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:53:13 +0000",
-      "timestamp": 1790790793.0
-    },
-    {
-      "title": "How Much Would You Pay to Prevent the AI Apocalypse?",
-      "link": "https://newsletter.platypuseconomics.com/p/if-we-pay-for-safer-cars-why-wont",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:51:37 +0000",
-      "timestamp": 1790790697.0
-    },
-    {
-      "title": "Show HN: Quiet – exploring when an AI assistant should intervene",
-      "link": "https://quiet-hci.pages.dev",
-      "summary": "I’m Ruggiero, a CS student working on a research project about humanComputer interaction and AI. I built QUIET because I’ve been thinking about a problem with current AI interfaces: they usually either wait for an explicit prompt, or try to take over a task. I wanted to explore a different relationship between humans and AI: an assistant that can understand when to stay out of the way, when to point something out, when to teach, and when to act. I’ve built a small interactive demo of this idea. It’s obviously still very early, and I want to understand whether the interaction itself makes sense",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:51:11 +0000",
-      "timestamp": 1790790671.0
-    },
-    {
-      "title": "Levels of Enterprise AI",
-      "link": "https://levelsofai.fyi/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:46:00 +0000",
-      "timestamp": 1790790360.0
-    },
-    {
-      "title": "Google asks EU to suspend order to open up to AI chatbots, search engine rivals",
-      "link": "https://www.reuters.com/business/google-asks-eu-court-suspend-order-open-up-ai-chatbots-search-engine-rivals-2026-09-30/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:45:50 +0000",
-      "timestamp": 1790790350.0
     },
     {
       "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
@@ -147,33 +273,6 @@
       "timestamp": 1790790300.0
     },
     {
-      "title": "Show HN: Kyno – Direction as a first-class primitive for AI agents",
-      "link": "https://cizambra.github.io/kyno/",
-      "summary": "Hi folks, I've been lurking here for a while, and after almost two months of building, I finally dared to share what I've been working on. It's called Kyno (pronounced KAI-no). It's what I call a coherence control plane: it treats direction as a first-class primitive, expressed as a constitution with a mission and principles that agents can pull at each step of a workflow. The goal is to enable principled decision-making, bottom-up agency, and self-governance in agents. Kyno doesn't rely on LLMs. It's a lightweight system that provides centralized, versioned direction so agents can exercise ju",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:35:59 +0000",
-      "timestamp": 1790789759.0
-    },
-    {
-      "title": "OpenAI is accused in lawsuit over rogue AI agents",
-      "link": "https://www.fastcompany.com/91615759/openai-is-accused-of-taking-dangerous-cyber-risks-for-private-gain-in-lawsuit-over-rogue-ai-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:31:10 +0000",
-      "timestamp": 1790789470.0
-    },
-    {
-      "title": "Hijacking Copilot Cowork's AI Gateway to Bypass Sandboxing and Exfiltrate Files",
-      "link": "https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:28:16 +0000",
-      "timestamp": 1790789296.0
-    },
-    {
       "title": "The ugly economics of consumer AI",
       "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
       "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
@@ -183,24 +282,6 @@
       "timestamp": 1790789085.0
     },
     {
-      "title": "Would you use an AI agent instead of making your next operations hire?",
-      "link": "https://acasohq.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:16:40 +0000",
-      "timestamp": 1790788600.0
-    },
-    {
-      "title": "Healthcare AI needs a different model-development flywheel",
-      "link": "https://medium.com/@gbenga-awodokun/building-a-trustworthy-ai-research-lab-for-healthcare-on-a-budget-e5129a84a0b9",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:16:05 +0000",
-      "timestamp": 1790788565.0
-    },
-    {
       "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
       "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [&#8230;]",
@@ -208,33 +289,6 @@
       "source": "The Verge AI",
       "published": "2026-09-30T13:15:49-04:00",
       "timestamp": 1790788549.0
-    },
-    {
-      "title": "Ask HN: Is there a market for AI critics?",
-      "link": "https://news.ycombinator.com/item?id=49911647",
-      "summary": "I have a bit of an odd background -- like a lot of folks, I became interested in IT security during the free fire zone that was the late 90s and early 2000s internet -- battlefield promoted at age 12 into household sysadmin was an... interesting dynamic. (Parents try to take compy away, it inevitably fills with bloatware after a few days) Flash forward -- after reporting an insider threat, I don't currently work in IT security, and took on a job in retail. They seem to struggle with statistics -- I'm having flashbacks to when my professors would pawn their conference reviews onto me. One of th",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:08:39 +0000",
-      "timestamp": 1790788119.0
-    },
-    {
-      "title": "What 192GB Changes for Local AI on the Framework Desktop",
-      "link": "https://frame.work/pl/en/blog/what-192gb-changes-for-local-ai-on-the-framework-desktop",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 17:01:06 +0000",
-      "timestamp": 1790787666.0
-    },
-    {
-      "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
-      "link": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 16:59:37 +0000",
-      "timestamp": 1790787577.0
     },
     {
       "title": "Meta disputes claim that Muse read a user’s private messages without permission",
@@ -435,42 +489,6 @@
       "timestamp": 1790704981.0
     },
     {
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 17:45:51 +0000",
-      "timestamp": 1790703951.0
-    },
-    {
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-29T13:35:03-04:00",
-      "timestamp": 1790703303.0
-    },
-    {
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 17:20:00 +0000",
-      "timestamp": 1790702400.0
-    },
-    {
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 17:17:15 +0000",
-      "timestamp": 1790702235.0
-    },
-    {
       "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
       "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
       "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
@@ -514,24 +532,6 @@
       "source": "Wired AI",
       "published": "Mon, 28 Sep 2026 10:00:00 +0000",
       "timestamp": 1790589600.0
-    },
-    {
-      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 28 Sep 2026 09:30:00 +0000",
-      "timestamp": 1790587800.0
-    },
-    {
-      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-      "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-      "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 28 Sep 2026 09:00:00 +0000",
-      "timestamp": 1790586000.0
     }
   ]
 }
