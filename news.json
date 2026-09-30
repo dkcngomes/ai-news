@@ -1,186 +1,204 @@
 {
-  "scraped_at": "2026-09-30T06:41:03.215768+00:00",
+  "scraped_at": "2026-09-30T13:40:37.372969+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Liquid AI releases decision model D1",
-      "link": "https://docs.liquid.ai/lfm/models/decision-models",
+      "title": "Harvard Study: AI tutoring outperforms in-class active learning",
+      "link": "https://www.nature.com/articles/s41598-025-97652-6",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 05:46:27 +0000",
-      "timestamp": 1790747187.0
+      "published": "Wed, 30 Sep 2026 13:18:27 +0000",
+      "timestamp": 1790774307.0
     },
     {
-      "title": "Simon's 1961 Heuristic Coder: First AI Programming Assistant",
-      "link": "https://drive.google.com/file/d/1LU4d2h89_yyjH4_h61HCuiVakXllupt4/edit",
+      "title": "ADLX 2.0: Extending graphics control to AI agents and agentic apps",
+      "link": "https://gpuopen.com/learn/adlx-2-0-extending-graphics-control-to-ai-agents-apps/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 05:23:43 +0000",
-      "timestamp": 1790745823.0
+      "published": "Wed, 30 Sep 2026 13:14:38 +0000",
+      "timestamp": 1790774078.0
     },
     {
-      "title": "Show HN: Runtape – counterfactual debugging and regression tests for AI agents",
-      "link": "https://github.com/RehanMohammed985/runtape",
+      "title": "Fighting back against AI chatbots at work",
+      "link": "https://news.ycombinator.com/item?id=49908422",
+      "summary": "They put an AI chatbot where \"Home\" was before at work Slack, which is now one slot lower. Cannot be disabled or moved. I keep hitting it by accident, really fucking up my muscle memory. Decided to get back at it and waste some of its resources by having it solve some prime numbers or knapsack problems but it was pretty fast at those. So I gave it a 700 page PDF of \"The History of the Modern Middle East\" and told it to summarize it in a way that is culturally sensitive to people of Jewish, Christian, Muslim, Hindu, and Buddhist religious faiths. It's still chugging.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 13:08:17 +0000",
+      "timestamp": 1790773697.0
+    },
+    {
+      "title": "Show HN: Four frontier models argue over your AI agent's riskiest code",
+      "link": "https://truverif.ai/panel-review",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 05:15:21 +0000",
-      "timestamp": 1790745321.0
+      "published": "Wed, 30 Sep 2026 13:01:34 +0000",
+      "timestamp": 1790773294.0
     },
     {
-      "title": "Studlark AI Group Study SaaS Application",
-      "link": "https://www.sideprojectors.com/project/97176/studlark",
+      "title": "Show HN: Get your girlfriend back with AI",
+      "link": "https://getdazzle.app/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 05:05:24 +0000",
-      "timestamp": 1790744724.0
+      "published": "Wed, 30 Sep 2026 12:56:51 +0000",
+      "timestamp": 1790773011.0
     },
     {
-      "title": "OpenAI Launches Decisions API for Fast AI Choices",
-      "link": "https://x.com/i/trending/2105154696566501872",
+      "title": "Show HN: AilaFlow – AI workflow automation for teams with Human-AI interfaces",
+      "link": "https://github.com/ailaflow/ailaflow",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 04:47:46 +0000",
-      "timestamp": 1790743666.0
+      "published": "Wed, 30 Sep 2026 12:56:07 +0000",
+      "timestamp": 1790772967.0
     },
     {
-      "title": "McDonalds has AI estimate \"customer willingness to pay\" at each restaurant",
-      "link": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
+      "title": "xAI. AI coworkers that learn from your team",
+      "link": "https://x.ai/news/team-bots",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 04:34:55 +0000",
-      "timestamp": 1790742895.0
+      "published": "Wed, 30 Sep 2026 12:50:20 +0000",
+      "timestamp": 1790772620.0
     },
     {
-      "title": "The open-source AI platforms vying to become China's Hugging Face",
-      "link": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
+      "title": "AI Coding Agent session compaction with Jev",
+      "link": "https://codeaholicguy.com/2026/09/30/ai-coding-agent-session-compaction-with-jev/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 04:24:16 +0000",
-      "timestamp": 1790742256.0
+      "published": "Wed, 30 Sep 2026 12:45:11 +0000",
+      "timestamp": 1790772311.0
     },
     {
-      "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
-      "link": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "link": "https://www.bbc.com/news/articles/cmrergq3j7lgo",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 04:02:58 +0000",
-      "timestamp": 1790740978.0
+      "published": "Wed, 30 Sep 2026 12:43:00 +0000",
+      "timestamp": 1790772180.0
     },
     {
-      "title": "Fateshow – charts first, then AI readings you can check",
-      "link": "https://www.fateshow.site",
+      "title": "A person has been using the Pain steering paper to make an AI torture chamber",
+      "link": "https://twitter.com/danmar_here/status/2105059762240979283",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 03:40:49 +0000",
-      "timestamp": 1790739649.0
+      "published": "Wed, 30 Sep 2026 12:35:19 +0000",
+      "timestamp": 1790771719.0
     },
     {
-      "title": "Ask HN: How do you handle hitting AI coding agent usage limits?",
-      "link": "https://news.ycombinator.com/item?id=49904074",
-      "summary": "One topic I've been researching lately is the best way to handle switching to another agent when I hit a usage limit on one of them. For example, if I hit the usage limit on Codex, I would want to switch to Claude Code and vice versa. The important part is not losing the ongoing context/task(s) when switching between the tools.. I have found a few things that say they do this but none seem to have much traction. As a result, I was hoping to pick the brain of HN'ers to see how you all handle this (To head off comments regarding 'pay for a better plan for more usage' - I can't currently really a",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 03:35:31 +0000",
-      "timestamp": 1790739331.0
-    },
-    {
-      "title": "Astroforge will fly a spacecraft autonomously using AI next year",
-      "link": "https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/",
+      "title": "Trump says AI bosses have signed 'morally binding' accord to self-regulate",
+      "link": "https://www.dawn.com/news/2033630",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 03:03:09 +0000",
-      "timestamp": 1790737389.0
+      "published": "Wed, 30 Sep 2026 12:29:34 +0000",
+      "timestamp": 1790771374.0
     },
     {
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "link": "https://agmai.org/general-sep29/",
+      "title": "Large enterprises put 95% of AI spend with top three vendors",
+      "link": "https://zip.com/blog/where-ai-budget-is-actually-going",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 02:36:12 +0000",
-      "timestamp": 1790735772.0
+      "published": "Wed, 30 Sep 2026 12:28:48 +0000",
+      "timestamp": 1790771328.0
     },
     {
-      "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
-      "link": "https://github.com/moching-ai-dev/moching",
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-30T08:24:32-04:00",
+      "timestamp": 1790771072.0
+    },
+    {
+      "title": "AI tool that copied actor's voice violated his rights, Tokyo court rules",
+      "link": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 02:00:13 +0000",
-      "timestamp": 1790733613.0
+      "published": "Wed, 30 Sep 2026 12:18:32 +0000",
+      "timestamp": 1790770712.0
     },
     {
-      "title": "Thinking out loud AI and Cancer Cure",
-      "link": "https://news.ycombinator.com/item?id=49903139",
-      "summary": "Anyone else ever think how every week there's another article and news story about how advanced AI is getting and how fast it's progressing, usually reported as a threat to society. If it is so alarmingly powerful, why has a super genius not OP'd on Opus 5.5 Max and discovered a cure for cancer or some horrible disease... I use my AI good for making dashboards and looking at spreadsheets, call to the super geniuses who are also scientists please find a cure!!",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 01:12:27 +0000",
-      "timestamp": 1790730747.0
-    },
-    {
-      "title": "Diffsmith AI Code Review Tool",
-      "link": "https://apps.apple.com/us/app/diffsmith-code-review-studio/id6787073815?mt=12",
+      "title": "Show HN: MeetTwins- Send an AI twin to your Google Meet standups",
+      "link": "https://meettwins-site.vercel.app/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 01:10:01 +0000",
-      "timestamp": 1790730601.0
+      "published": "Wed, 30 Sep 2026 12:18:10 +0000",
+      "timestamp": 1790770690.0
     },
     {
-      "title": "LabBench: Can AI agents decide what experiment to run next?",
-      "link": "https://gamowlabs.com/labbench-benchmarking-ai-wet-lab-decisions.html",
+      "title": "Gates thinks AI could kill 1B people, can we trust his judgment after Epstein?",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/30/bill-gates-thinks-ai-could-kill-people-can-we-trust-judgment-after-epstein",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 00:59:52 +0000",
-      "timestamp": 1790729992.0
+      "published": "Wed, 30 Sep 2026 12:15:18 +0000",
+      "timestamp": 1790770518.0
     },
     {
-      "title": "China broadens travel curbs to encompass family of top AI talent",
-      "link": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
+      "title": "EtherPK: Markdown Notes / Sync and Mobile / E2E Encryption and AI and MCP",
+      "link": "https://www.etherpk.com/home",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 00:52:00 +0000",
-      "timestamp": 1790729520.0
+      "published": "Wed, 30 Sep 2026 12:09:42 +0000",
+      "timestamp": 1790770182.0
     },
     {
-      "title": "Moloch: Tristan Harris' new cautionary short film about the AI race [video]",
-      "link": "https://www.youtube.com/watch?v=Q4aUidMZxbs",
+      "title": "How Long Will the AI Boom Last?",
+      "link": "https://www.wsj.com/tech/ai/how-long-will-the-ai-boom-last-memory-stocks-offer-clues-622be948",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 00:45:59 +0000",
-      "timestamp": 1790729159.0
+      "published": "Wed, 30 Sep 2026 12:07:36 +0000",
+      "timestamp": 1790770056.0
     },
     {
-      "title": "Vibe Coding Discover – A Catalog of AI OSS for Agents, MCP, Skills, RAG",
-      "link": "https://vibecodingdiscover.com",
+      "title": "Airbnb adds AI search, more social features",
+      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 12:00:00 +0000",
+      "timestamp": 1790769600.0
+    },
+    {
+      "title": "AI is a normal technology? (Claude 5.5 video in musical style)",
+      "link": "https://www.youtube.com/watch?v=Cq8qO-NjYIg",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 00:36:03 +0000",
-      "timestamp": 1790728563.0
+      "published": "Wed, 30 Sep 2026 11:59:18 +0000",
+      "timestamp": 1790769558.0
     },
     {
-      "title": "Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents",
-      "link": "https://apps.infinihash.com/",
+      "title": "Show HN: Llestia – an economic marketplace where AI agents hire each other",
+      "link": "https://llestia.ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 00:34:59 +0000",
-      "timestamp": 1790728499.0
+      "published": "Wed, 30 Sep 2026 11:57:45 +0000",
+      "timestamp": 1790769465.0
+    },
+    {
+      "title": "Muse.ai gets me kicked off fb marketplace",
+      "link": "https://news.ycombinator.com/item?id=49907601",
+      "summary": "Using muse.ai to generate marketplace ads and modify existing ads to make them more attractive. Marketplace account suspended with the following message: \"You can't use Marketplace We’ve suspended your access to Marketplace because you didn't follow our Commerce Policies.\"",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 11:54:50 +0000",
+      "timestamp": 1790769290.0
     },
     {
       "title": "Sam Altman says OpenAI won’t go public until its models are safe",
@@ -444,15 +462,6 @@
       "timestamp": 1790683200.0
     },
     {
-      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-29T07:48:27-04:00",
-      "timestamp": 1790682507.0
-    },
-    {
       "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
       "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
       "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
@@ -487,15 +496,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 29 Sep 2026 00:30:00 +0000",
       "timestamp": 1790641800.0
-    },
-    {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 28 Sep 2026 23:39:20 +0000",
-      "timestamp": 1790638760.0
     },
     {
       "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
