@@ -1,60 +1,222 @@
 {
-  "scraped_at": "2026-09-29T20:45:19.754910+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-30T00:25:29.937530+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Trump to sign order renaming AI as 'superintelligence'",
-      "link": "https://thehill.com/policy/technology/6118532-trump-to-rename-ai-superintelligence/",
-      "summary": "",
+      "title": "OpenAI won’t go public until its models are safe",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 20:38:57 +0000",
-      "timestamp": 1790714337.0
+      "source": "The Verge AI",
+      "published": "2026-09-29T20:19:13-04:00",
+      "timestamp": 1790727553.0
     },
     {
-      "title": "Rats are constantly talking to each other. Boston is using AI to eavesdrop",
-      "link": "https://www.wbur.org/news/2026/09/29/boston-rats-ai-voice-technology",
+      "title": "Build Freely: Non-AI Shed Plan Generator",
+      "link": "https://buildfreely.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 20:34:04 +0000",
-      "timestamp": 1790714044.0
+      "published": "Wed, 30 Sep 2026 00:11:39 +0000",
+      "timestamp": 1790727099.0
     },
     {
-      "title": "Show HN: Fab – a fast browser CLI for AI agents",
-      "link": "https://github.com/ianks/fast-agentic-browser",
+      "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
+      "link": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 20:27:39 +0000",
-      "timestamp": 1790713659.0
+      "published": "Tue, 29 Sep 2026 23:38:39 +0000",
+      "timestamp": 1790725119.0
     },
     {
-      "title": "Jev Turns AI into Software That Gets Things Done [video]",
-      "link": "https://www.youtube.com/watch?v=Ut3LOjKNJaE",
+      "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+      "link": "https://www.neowin.net/news/your-big-mac-might-cost-more-if-mcdonalds-pricing-ai-thinks-people-nearby-can-afford-it/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 20:19:31 +0000",
-      "timestamp": 1790713171.0
+      "published": "Tue, 29 Sep 2026 23:35:05 +0000",
+      "timestamp": 1790724905.0
     },
     {
-      "title": "Calling the AI bluff: \"Make no mistakes\" made no difference",
-      "link": "https://earnanhonestdollar.com/bench/folklore",
+      "title": "'AI should assist teachers, not replace them': Union warns of AI marking risks",
+      "link": "https://www.rnz.co.nz/news/education/1656575/ai-should-assist-teachers-not-replace-them-union-warns-of-risks-of-ai-marking",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 20:17:45 +0000",
-      "timestamp": 1790713065.0
+      "published": "Tue, 29 Sep 2026 23:34:57 +0000",
+      "timestamp": 1790724897.0
     },
     {
-      "title": "Is open-weight AI banned yet?",
-      "link": "https://isopenweightaibannedyet.com",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 29 Sep 2026 23:30:55 +0000",
+      "timestamp": 1790724655.0
+    },
+    {
+      "title": "Rules that stop AI agents from wrecking your data warehouse, with an eval",
+      "link": "https://github.com/idk-arsh/data-agent-rules",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 20:16:25 +0000",
-      "timestamp": 1790712985.0
+      "published": "Tue, 29 Sep 2026 23:25:20 +0000",
+      "timestamp": 1790724320.0
+    },
+    {
+      "title": "Index 0 – AI assisted learning for programming",
+      "link": "https://www.youtube.com/watch?v=YhavzsLUOS0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 23:24:47 +0000",
+      "timestamp": 1790724287.0
+    },
+    {
+      "title": "The AI Bubble Explained",
+      "link": "https://hughhowey.com/the-ai-bubble-explained/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 23:21:50 +0000",
+      "timestamp": 1790724110.0
+    },
+    {
+      "title": "Quail: Speed up AI-SQL by jointly optimizing query planner and inference engine",
+      "link": "https://modal.com/blog/quail-billion-tpm",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 23:19:52 +0000",
+      "timestamp": 1790723992.0
+    },
+    {
+      "title": "Eleven v4: Our most expressive text-to-speech AI model yet",
+      "link": "https://elevenlabs.io/blog/eleven-v4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 23:19:04 +0000",
+      "timestamp": 1790723944.0
+    },
+    {
+      "title": "How to Stand Out in a World of AI Slop? Be a Green Unicorn",
+      "link": "https://sajit.substack.com/p/how-to-stand-out-in-a-sea-of-ai-slop",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 23:16:27 +0000",
+      "timestamp": 1790723787.0
+    },
+    {
+      "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+      "link": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 22:52:30 +0000",
+      "timestamp": 1790722350.0
+    },
+    {
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 22:29:44 +0000",
+      "timestamp": 1790720984.0
+    },
+    {
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-29T18:25:45-04:00",
+      "timestamp": 1790720745.0
+    },
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 29 Sep 2026 22:20:59 +0000",
+      "timestamp": 1790720459.0
+    },
+    {
+      "title": "Trump and major AI executives sign \"morally binding\" voluntary controls",
+      "link": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 22:13:42 +0000",
+      "timestamp": 1790720022.0
+    },
+    {
+      "title": "Ask HN: How do you maintain depth of understanding and velocity when using AI?",
+      "link": "https://news.ycombinator.com/item?id=49901420",
+      "summary": "There are a number of places where I think AI provides leverage: logical code search, design brainstorming, investigation assistance, and so on. These are generally things where there is some amount of manual effort being offloaded and I can verify that the result is valid quickly. However, when it comes to design documents (writing) and implementation (coding), I seem to be in the minority that finds AI slowing me down. I think this is a problem with how I use it. For example, I always review the generated output myself, to ensure that it: (1) matches my intent, (2) maintains proper abstracti",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 22:08:51 +0000",
+      "timestamp": 1790719731.0
+    },
+    {
+      "title": "New US Government AI Chatbot soon to \"let you take action\"",
+      "link": "https://lifehacker.com/tech/what-is-america-dot-gov",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 22:08:14 +0000",
+      "timestamp": 1790719694.0
+    },
+    {
+      "title": "Show HN: The Activity Monitor for the AI Era",
+      "link": "https://cortexformac.com/",
+      "summary": "Cortex turns a thousand processes into the apps you actually run, remembers the last 30 days, and shows what your Neural Engine and local models are doing. Everything stays on your Mac.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 22:01:35 +0000",
+      "timestamp": 1790719295.0
+    },
+    {
+      "title": "No Time to Pwn – Can AI Find and Exploit the Linux Kernel?",
+      "link": "https://xbow.com/blog/no-time-to-pwn-cve-2026-72018",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 21:51:11 +0000",
+      "timestamp": 1790718671.0
+    },
+    {
+      "title": "Pluralis Towards a Multicultural Multimodal, Multilingual Benchmark for AI Risk",
+      "link": "https://arxiv.org/abs/2607.06196",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 21:50:41 +0000",
+      "timestamp": 1790718641.0
+    },
+    {
+      "title": "Can AI Decipher the Indus Valley Script?",
+      "link": "https://news.ycombinator.com/item?id=49901168",
+      "summary": "If AI can solve Navier Stokes grade problems, it should take a stab at such a thing too. I know the language is fundamentally not \"english\" or another widely used one so it can't do any inference on it but worth an experiment.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 29 Sep 2026 21:50:06 +0000",
+      "timestamp": 1790718606.0
+    },
+    {
+      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-29T17:49:09-04:00",
+      "timestamp": 1790718549.0
     },
     {
       "title": "OpenAI’s latest features take direct aim at the app store model",
@@ -66,139 +228,13 @@
       "timestamp": 1790712947.0
     },
     {
-      "title": "d1: Liquid AI's First Decision Model",
-      "link": "https://docs.liquid.ai/lfm/models/decision-models",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 20:09:48 +0000",
-      "timestamp": 1790712588.0
-    },
-    {
-      "title": "Is Claude Conscious? Inside Anthropic's Quest to Instill Morality into Its AI",
-      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 20:07:08 +0000",
-      "timestamp": 1790712428.0
-    },
-    {
-      "title": "The Record Does Not Change: what a verifiable record of AI-agent work costs",
-      "link": "https://appendonly.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 20:07:06 +0000",
-      "timestamp": 1790712426.0
-    },
-    {
-      "title": "McDonald's push to have AI price your Big Mac",
-      "link": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:58:50 +0000",
-      "timestamp": 1790711930.0
-    },
-    {
-      "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
-      "link": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:57:35 +0000",
-      "timestamp": 1790711855.0
-    },
-    {
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 29 Sep 2026 19:52:37 +0000",
       "timestamp": 1790711557.0
-    },
-    {
-      "title": "AI safety advocates sue OpenAI over Hugging Face hack under CA anti-hacking law",
-      "link": "https://www.politico.com/news/2026/09/29/advocates-sue-openai-over-hugging-face-hack-with-california-anti-hacking-law-01097532",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:45:15 +0000",
-      "timestamp": 1790711115.0
-    },
-    {
-      "title": "Resistance to AI Gathers Strength",
-      "link": "https://english.elpais.com/technology/2026-09-21/resistance-to-ai-gathers-strength.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:44:46 +0000",
-      "timestamp": 1790711086.0
-    },
-    {
-      "title": "Trump says he'll order AI be renamed 'super intelligence' after meeting execs",
-      "link": "https://www.cnn.com/2026/09/29/business/amodei-huang-karp-trump",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:43:51 +0000",
-      "timestamp": 1790711031.0
-    },
-    {
-      "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
-      "link": "https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:40:45 +0000",
-      "timestamp": 1790710845.0
-    },
-    {
-      "title": "Nova: A Personal AI Built on Patterns",
-      "link": "https://singmypoem.com/nova-a-personal-ai-built-on-patterns/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:33:17 +0000",
-      "timestamp": 1790710397.0
-    },
-    {
-      "title": "AI could detect diabetes from voice recordings",
-      "link": "https://www.telegraph.co.uk/news/2026/09/29/ai-could-detect-diabetes-from-voice-recordings/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:31:56 +0000",
-      "timestamp": 1790710316.0
-    },
-    {
-      "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:21:25 +0000",
-      "timestamp": 1790709685.0
-    },
-    {
-      "title": "Show HN: Agentcap – eBPF exporter for AI-agent activity to Grafana",
-      "link": "https://github.com/yeet-src/agentcap",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:18:35 +0000",
-      "timestamp": 1790709515.0
-    },
-    {
-      "title": "I built a self-improving voice AI agent that runs offline on a RPi5",
-      "link": "https://github.com/mobium-app/ai_astro_public",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 19:17:36 +0000",
-      "timestamp": 1790709456.0
     },
     {
       "title": "OpenAI Gets Sued Over the Hugging Face Hack",
@@ -230,7 +266,7 @@
     {
       "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
       "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 29 Sep 2026 17:45:51 +0000",
@@ -248,7 +284,7 @@
     {
       "title": "AI-powered app maker Wabi pivots to a messaging experience",
       "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 29 Sep 2026 17:20:00 +0000",
@@ -264,27 +300,27 @@
       "timestamp": 1790702235.0
     },
     {
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
-      "timestamp": 1790702100.0
-    },
-    {
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
-      "timestamp": 1790702100.0
-    },
-    {
       "title": "OpenAI gives Codex reusable cloud environments that work across devices",
       "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "timestamp": 1790702100.0
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "timestamp": 1790702100.0
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 29 Sep 2026 17:15:00 +0000",
@@ -320,7 +356,7 @@
     {
       "title": "Can a chatbot fix the government maze? The White House is about to find out",
       "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 29 Sep 2026 16:55:56 +0000",
@@ -451,51 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 28 Sep 2026 23:39:20 +0000",
       "timestamp": 1790638760.0
-    },
-    {
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-28T17:31:35-04:00",
-      "timestamp": 1790631095.0
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 28 Sep 2026 21:29:18 +0000",
-      "timestamp": 1790630958.0
-    },
-    {
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 28 Sep 2026 20:39:33 +0000",
-      "timestamp": 1790627973.0
-    },
-    {
-      "title": "OpenAI’s AI agents need to catch up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-28T14:45:00-04:00",
-      "timestamp": 1790621100.0
-    },
-    {
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-28T14:30:00-04:00",
-      "timestamp": 1790620200.0
     },
     {
       "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
