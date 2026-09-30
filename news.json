@@ -1,114 +1,330 @@
 {
-  "scraped_at": "2026-09-30T13:40:37.372969+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-30T19:17:24.792588+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Harvard Study: AI tutoring outperforms in-class active learning",
-      "link": "https://www.nature.com/articles/s41598-025-97652-6",
+      "title": "Framework Desktop with 192GB Ryzen AI Max 400 released for pre-order",
+      "link": "https://frame.work/de/en/products/desktop-diy-amd-aimax400/configuration/new",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 13:18:27 +0000",
-      "timestamp": 1790774307.0
+      "published": "Wed, 30 Sep 2026 19:12:41 +0000",
+      "timestamp": 1790795561.0
     },
     {
-      "title": "ADLX 2.0: Extending graphics control to AI agents and agentic apps",
-      "link": "https://gpuopen.com/learn/adlx-2-0-extending-graphics-control-to-ai-agents-apps/",
+      "title": "\"Good\" AI",
+      "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 13:14:38 +0000",
-      "timestamp": 1790774078.0
+      "published": "Wed, 30 Sep 2026 19:08:12 +0000",
+      "timestamp": 1790795292.0
     },
     {
-      "title": "Fighting back against AI chatbots at work",
-      "link": "https://news.ycombinator.com/item?id=49908422",
-      "summary": "They put an AI chatbot where \"Home\" was before at work Slack, which is now one slot lower. Cannot be disabled or moved. I keep hitting it by accident, really fucking up my muscle memory. Decided to get back at it and waste some of its resources by having it solve some prime numbers or knapsack problems but it was pretty fast at those. So I gave it a 700 page PDF of \"The History of the Modern Middle East\" and told it to summarize it in a way that is culturally sensitive to people of Jewish, Christian, Muslim, Hindu, and Buddhist religious faiths. It's still chugging.",
+      "title": "Ask HN: AI revived my durable delay queue project. Is it worth building on?",
+      "link": "https://news.ycombinator.com/item?id=49912969",
+      "summary": "Most backends eventually need to do something once at a specific time. Revoke a trial after 30 days. Expire an offer. Retry a payment in 30 minutes. A few months ago I was consulting for a logistics platform. Their freight bidding workflow had a lot of timed steps. Every minute a cron queries all pending records and pushes them into Kafka. It worked. But it taxes the VM, DB, and message bus alike and creates a ton of unnecessary observability data. A durable delay queue could be a better fit. But unfortunately, there are not many reliable options for scheduling long-term events. Back in 2014 I",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 13:08:17 +0000",
-      "timestamp": 1790773697.0
+      "published": "Wed, 30 Sep 2026 19:05:34 +0000",
+      "timestamp": 1790795134.0
     },
     {
-      "title": "Show HN: Four frontier models argue over your AI agent's riskiest code",
-      "link": "https://truverif.ai/panel-review",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 19:00:57 +0000",
+      "timestamp": 1790794857.0
+    },
+    {
+      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+      "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 30 Sep 2026 19:00:00 +0000",
+      "timestamp": 1790794800.0
+    },
+    {
+      "title": "What do you want from AI?",
+      "link": "https://www.anthropic.com/research/your-thoughts-on-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 13:01:34 +0000",
-      "timestamp": 1790773294.0
+      "published": "Wed, 30 Sep 2026 18:40:52 +0000",
+      "timestamp": 1790793652.0
     },
     {
-      "title": "Show HN: Get your girlfriend back with AI",
-      "link": "https://getdazzle.app/",
+      "title": "AI Blinder",
+      "link": "https://github.com/Splinters-io/blinder",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:56:51 +0000",
-      "timestamp": 1790773011.0
+      "published": "Wed, 30 Sep 2026 18:36:33 +0000",
+      "timestamp": 1790793393.0
     },
     {
-      "title": "Show HN: AilaFlow – AI workflow automation for teams with Human-AI interfaces",
-      "link": "https://github.com/ailaflow/ailaflow",
+      "title": "AI CEO Interviews (2026) [video]",
+      "link": "https://www.youtube.com/watch?v=DlTNN0gvkLM&lc=UgwcT1Ye7kzJV9UaRAN4AaABAg",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:56:07 +0000",
-      "timestamp": 1790772967.0
+      "published": "Wed, 30 Sep 2026 18:32:14 +0000",
+      "timestamp": 1790793134.0
     },
     {
-      "title": "xAI. AI coworkers that learn from your team",
-      "link": "https://x.ai/news/team-bots",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 18:23:57 +0000",
+      "timestamp": 1790792637.0
+    },
+    {
+      "title": "The AI Tamagotchis are coming",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetite for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-30T14:07:38-04:00",
+      "timestamp": 1790791658.0
+    },
+    {
+      "title": "Shareholders Should Pay for AI Dangers",
+      "link": "https://www.wsj.com/opinion/shareholders-should-pay-for-ai-dangers-fe78d542",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:50:20 +0000",
-      "timestamp": 1790772620.0
+      "published": "Wed, 30 Sep 2026 17:53:13 +0000",
+      "timestamp": 1790790793.0
     },
     {
-      "title": "AI Coding Agent session compaction with Jev",
-      "link": "https://codeaholicguy.com/2026/09/30/ai-coding-agent-session-compaction-with-jev/",
+      "title": "How Much Would You Pay to Prevent the AI Apocalypse?",
+      "link": "https://newsletter.platypuseconomics.com/p/if-we-pay-for-safer-cars-why-wont",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:45:11 +0000",
-      "timestamp": 1790772311.0
+      "published": "Wed, 30 Sep 2026 17:51:37 +0000",
+      "timestamp": 1790790697.0
     },
     {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "link": "https://www.bbc.com/news/articles/cmrergq3j7lgo",
+      "title": "Show HN: Quiet – exploring when an AI assistant should intervene",
+      "link": "https://quiet-hci.pages.dev",
+      "summary": "I’m Ruggiero, a CS student working on a research project about humanComputer interaction and AI. I built QUIET because I’ve been thinking about a problem with current AI interfaces: they usually either wait for an explicit prompt, or try to take over a task. I wanted to explore a different relationship between humans and AI: an assistant that can understand when to stay out of the way, when to point something out, when to teach, and when to act. I’ve built a small interactive demo of this idea. It’s obviously still very early, and I want to understand whether the interaction itself makes sense",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 17:51:11 +0000",
+      "timestamp": 1790790671.0
+    },
+    {
+      "title": "Levels of Enterprise AI",
+      "link": "https://levelsofai.fyi/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:43:00 +0000",
-      "timestamp": 1790772180.0
+      "published": "Wed, 30 Sep 2026 17:46:00 +0000",
+      "timestamp": 1790790360.0
     },
     {
-      "title": "A person has been using the Pain steering paper to make an AI torture chamber",
-      "link": "https://twitter.com/danmar_here/status/2105059762240979283",
+      "title": "Google asks EU to suspend order to open up to AI chatbots, search engine rivals",
+      "link": "https://www.reuters.com/business/google-asks-eu-court-suspend-order-open-up-ai-chatbots-search-engine-rivals-2026-09-30/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:35:19 +0000",
-      "timestamp": 1790771719.0
+      "published": "Wed, 30 Sep 2026 17:45:50 +0000",
+      "timestamp": 1790790350.0
     },
     {
-      "title": "Trump says AI bosses have signed 'morally binding' accord to self-regulate",
-      "link": "https://www.dawn.com/news/2033630",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 17:45:00 +0000",
+      "timestamp": 1790790300.0
+    },
+    {
+      "title": "Show HN: Kyno – Direction as a first-class primitive for AI agents",
+      "link": "https://cizambra.github.io/kyno/",
+      "summary": "Hi folks, I've been lurking here for a while, and after almost two months of building, I finally dared to share what I've been working on. It's called Kyno (pronounced KAI-no). It's what I call a coherence control plane: it treats direction as a first-class primitive, expressed as a constitution with a mission and principles that agents can pull at each step of a workflow. The goal is to enable principled decision-making, bottom-up agency, and self-governance in agents. Kyno doesn't rely on LLMs. It's a lightweight system that provides centralized, versioned direction so agents can exercise ju",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 17:35:59 +0000",
+      "timestamp": 1790789759.0
+    },
+    {
+      "title": "OpenAI is accused in lawsuit over rogue AI agents",
+      "link": "https://www.fastcompany.com/91615759/openai-is-accused-of-taking-dangerous-cyber-risks-for-private-gain-in-lawsuit-over-rogue-ai-agents",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:29:34 +0000",
-      "timestamp": 1790771374.0
+      "published": "Wed, 30 Sep 2026 17:31:10 +0000",
+      "timestamp": 1790789470.0
     },
     {
-      "title": "Large enterprises put 95% of AI spend with top three vendors",
-      "link": "https://zip.com/blog/where-ai-budget-is-actually-going",
+      "title": "Hijacking Copilot Cowork's AI Gateway to Bypass Sandboxing and Exfiltrate Files",
+      "link": "https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:28:48 +0000",
-      "timestamp": 1790771328.0
+      "published": "Wed, 30 Sep 2026 17:28:16 +0000",
+      "timestamp": 1790789296.0
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 17:24:45 +0000",
+      "timestamp": 1790789085.0
+    },
+    {
+      "title": "Would you use an AI agent instead of making your next operations hire?",
+      "link": "https://acasohq.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 17:16:40 +0000",
+      "timestamp": 1790788600.0
+    },
+    {
+      "title": "Healthcare AI needs a different model-development flywheel",
+      "link": "https://medium.com/@gbenga-awodokun/building-a-trustworthy-ai-research-lab-for-healthcare-on-a-budget-e5129a84a0b9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 17:16:05 +0000",
+      "timestamp": 1790788565.0
+    },
+    {
+      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-30T13:15:49-04:00",
+      "timestamp": 1790788549.0
+    },
+    {
+      "title": "Ask HN: Is there a market for AI critics?",
+      "link": "https://news.ycombinator.com/item?id=49911647",
+      "summary": "I have a bit of an odd background -- like a lot of folks, I became interested in IT security during the free fire zone that was the late 90s and early 2000s internet -- battlefield promoted at age 12 into household sysadmin was an... interesting dynamic. (Parents try to take compy away, it inevitably fills with bloatware after a few days) Flash forward -- after reporting an insider threat, I don't currently work in IT security, and took on a job in retail. They seem to struggle with statistics -- I'm having flashbacks to when my professors would pawn their conference reviews onto me. One of th",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 17:08:39 +0000",
+      "timestamp": 1790788119.0
+    },
+    {
+      "title": "What 192GB Changes for Local AI on the Framework Desktop",
+      "link": "https://frame.work/pl/en/blog/what-192gb-changes-for-local-ai-on-the-framework-desktop",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 17:01:06 +0000",
+      "timestamp": 1790787666.0
+    },
+    {
+      "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+      "link": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 16:59:37 +0000",
+      "timestamp": 1790787577.0
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 16:24:23 +0000",
+      "timestamp": 1790785463.0
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 16:00:24 +0000",
+      "timestamp": 1790784024.0
+    },
+    {
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 16:00:00 +0000",
+      "timestamp": 1790784000.0
+    },
+    {
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 15:56:28 +0000",
+      "timestamp": 1790783788.0
+    },
+    {
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-30T11:18:49-04:00",
+      "timestamp": 1790781529.0
+    },
+    {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic. Digiday first reported on the pilot program, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-30T10:51:49-04:00",
+      "timestamp": 1790779909.0
+    },
+    {
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 14:30:00 +0000",
+      "timestamp": 1790778600.0
+    },
+    {
+      "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-09-30T10:30:00-04:00",
+      "timestamp": 1790778600.0
+    },
+    {
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 14:27:11 +0000",
+      "timestamp": 1790778431.0
+    },
+    {
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+      "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 30 Sep 2026 14:15:00 +0000",
+      "timestamp": 1790777700.0
     },
     {
       "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
@@ -120,51 +336,6 @@
       "timestamp": 1790771072.0
     },
     {
-      "title": "AI tool that copied actor's voice violated his rights, Tokyo court rules",
-      "link": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:18:32 +0000",
-      "timestamp": 1790770712.0
-    },
-    {
-      "title": "Show HN: MeetTwins- Send an AI twin to your Google Meet standups",
-      "link": "https://meettwins-site.vercel.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:18:10 +0000",
-      "timestamp": 1790770690.0
-    },
-    {
-      "title": "Gates thinks AI could kill 1B people, can we trust his judgment after Epstein?",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/30/bill-gates-thinks-ai-could-kill-people-can-we-trust-judgment-after-epstein",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:15:18 +0000",
-      "timestamp": 1790770518.0
-    },
-    {
-      "title": "EtherPK: Markdown Notes / Sync and Mobile / E2E Encryption and AI and MCP",
-      "link": "https://www.etherpk.com/home",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:09:42 +0000",
-      "timestamp": 1790770182.0
-    },
-    {
-      "title": "How Long Will the AI Boom Last?",
-      "link": "https://www.wsj.com/tech/ai/how-long-will-the-ai-boom-last-memory-stocks-offer-clues-622be948",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 12:07:36 +0000",
-      "timestamp": 1790770056.0
-    },
-    {
       "title": "Airbnb adds AI search, more social features",
       "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
       "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
@@ -172,33 +343,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 30 Sep 2026 12:00:00 +0000",
       "timestamp": 1790769600.0
-    },
-    {
-      "title": "AI is a normal technology? (Claude 5.5 video in musical style)",
-      "link": "https://www.youtube.com/watch?v=Cq8qO-NjYIg",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 11:59:18 +0000",
-      "timestamp": 1790769558.0
-    },
-    {
-      "title": "Show HN: Llestia – an economic marketplace where AI agents hire each other",
-      "link": "https://llestia.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 11:57:45 +0000",
-      "timestamp": 1790769465.0
-    },
-    {
-      "title": "Muse.ai gets me kicked off fb marketplace",
-      "link": "https://news.ycombinator.com/item?id=49907601",
-      "summary": "Using muse.ai to generate marketplace ads and modify existing ads to make them more attractive. Marketplace account suspended with the following message: \"You can't use Marketplace We’ve suspended your access to Marketplace because you didn't follow our Commerce Policies.\"",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 11:54:50 +0000",
-      "timestamp": 1790769290.0
     },
     {
       "title": "Sam Altman says OpenAI won’t go public until its models are safe",
@@ -327,42 +471,6 @@
       "timestamp": 1790702235.0
     },
     {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
-      "timestamp": 1790702100.0
-    },
-    {
-      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
-      "timestamp": 1790702100.0
-    },
-    {
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 17:15:00 +0000",
-      "timestamp": 1790702100.0
-    },
-    {
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-29T13:15:00-04:00",
-      "timestamp": 1790702100.0
-    },
-    {
       "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
       "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
       "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
@@ -370,96 +478,6 @@
       "source": "Wired AI",
       "published": "Tue, 29 Sep 2026 17:15:00 +0000",
       "timestamp": 1790702100.0
-    },
-    {
-      "title": "Protesters gather at OpenAI’s DevDay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" More than a dozen organizations came together to sponsor a rally outside [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-29T13:12:27-04:00",
-      "timestamp": 1790701947.0
-    },
-    {
-      "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 16:55:56 +0000",
-      "timestamp": 1790700956.0
-    },
-    {
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "summary": "It&#8217;s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse. However, unlike Muse, which is available for free, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-29T12:00:00-04:00",
-      "timestamp": 1790697600.0
-    },
-    {
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 15:12:07 +0000",
-      "timestamp": 1790694727.0
-    },
-    {
-      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-29T10:08:21-04:00",
-      "timestamp": 1790690901.0
-    },
-    {
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 13:53:01 +0000",
-      "timestamp": 1790689981.0
-    },
-    {
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 13:47:30 +0000",
-      "timestamp": 1790689650.0
-    },
-    {
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 12:45:05 +0000",
-      "timestamp": 1790685905.0
-    },
-    {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 12:30:00 +0000",
-      "timestamp": 1790685000.0
-    },
-    {
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-29T08:00:00-04:00",
-      "timestamp": 1790683200.0
     },
     {
       "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
@@ -478,24 +496,6 @@
       "source": "Wired AI",
       "published": "Tue, 29 Sep 2026 10:30:00 +0000",
       "timestamp": 1790677800.0
-    },
-    {
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 05:13:43 +0000",
-      "timestamp": 1790658823.0
-    },
-    {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 00:30:00 +0000",
-      "timestamp": 1790641800.0
     },
     {
       "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
@@ -528,15 +528,6 @@
       "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
       "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
       "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 28 Sep 2026 09:00:00 +0000",
-      "timestamp": 1790586000.0
-    },
-    {
-      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-      "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-      "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
       "image": null,
       "source": "Wired AI",
       "published": "Mon, 28 Sep 2026 09:00:00 +0000",
