@@ -1,51 +1,195 @@
 {
-  "scraped_at": "2026-09-30T00:25:29.937530+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-30T06:41:03.215768+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "OpenAI won’t go public until its models are safe",
+      "title": "Liquid AI releases decision model D1",
+      "link": "https://docs.liquid.ai/lfm/models/decision-models",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 05:46:27 +0000",
+      "timestamp": 1790747187.0
+    },
+    {
+      "title": "Simon's 1961 Heuristic Coder: First AI Programming Assistant",
+      "link": "https://drive.google.com/file/d/1LU4d2h89_yyjH4_h61HCuiVakXllupt4/edit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 05:23:43 +0000",
+      "timestamp": 1790745823.0
+    },
+    {
+      "title": "Show HN: Runtape – counterfactual debugging and regression tests for AI agents",
+      "link": "https://github.com/RehanMohammed985/runtape",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 05:15:21 +0000",
+      "timestamp": 1790745321.0
+    },
+    {
+      "title": "Studlark AI Group Study SaaS Application",
+      "link": "https://www.sideprojectors.com/project/97176/studlark",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 05:05:24 +0000",
+      "timestamp": 1790744724.0
+    },
+    {
+      "title": "OpenAI Launches Decisions API for Fast AI Choices",
+      "link": "https://x.com/i/trending/2105154696566501872",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 04:47:46 +0000",
+      "timestamp": 1790743666.0
+    },
+    {
+      "title": "McDonalds has AI estimate \"customer willingness to pay\" at each restaurant",
+      "link": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 04:34:55 +0000",
+      "timestamp": 1790742895.0
+    },
+    {
+      "title": "The open-source AI platforms vying to become China's Hugging Face",
+      "link": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 04:24:16 +0000",
+      "timestamp": 1790742256.0
+    },
+    {
+      "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
+      "link": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 04:02:58 +0000",
+      "timestamp": 1790740978.0
+    },
+    {
+      "title": "Fateshow – charts first, then AI readings you can check",
+      "link": "https://www.fateshow.site",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 03:40:49 +0000",
+      "timestamp": 1790739649.0
+    },
+    {
+      "title": "Ask HN: How do you handle hitting AI coding agent usage limits?",
+      "link": "https://news.ycombinator.com/item?id=49904074",
+      "summary": "One topic I've been researching lately is the best way to handle switching to another agent when I hit a usage limit on one of them. For example, if I hit the usage limit on Codex, I would want to switch to Claude Code and vice versa. The important part is not losing the ongoing context/task(s) when switching between the tools.. I have found a few things that say they do this but none seem to have much traction. As a result, I was hoping to pick the brain of HN'ers to see how you all handle this (To head off comments regarding 'pay for a better plan for more usage' - I can't currently really a",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 03:35:31 +0000",
+      "timestamp": 1790739331.0
+    },
+    {
+      "title": "Astroforge will fly a spacecraft autonomously using AI next year",
+      "link": "https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 03:03:09 +0000",
+      "timestamp": 1790737389.0
+    },
+    {
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "link": "https://agmai.org/general-sep29/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 02:36:12 +0000",
+      "timestamp": 1790735772.0
+    },
+    {
+      "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+      "link": "https://github.com/moching-ai-dev/moching",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 02:00:13 +0000",
+      "timestamp": 1790733613.0
+    },
+    {
+      "title": "Thinking out loud AI and Cancer Cure",
+      "link": "https://news.ycombinator.com/item?id=49903139",
+      "summary": "Anyone else ever think how every week there's another article and news story about how advanced AI is getting and how fast it's progressing, usually reported as a threat to society. If it is so alarmingly powerful, why has a super genius not OP'd on Opus 5.5 Max and discovered a cure for cancer or some horrible disease... I use my AI good for making dashboards and looking at spreadsheets, call to the super geniuses who are also scientists please find a cure!!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 01:12:27 +0000",
+      "timestamp": 1790730747.0
+    },
+    {
+      "title": "Diffsmith AI Code Review Tool",
+      "link": "https://apps.apple.com/us/app/diffsmith-code-review-studio/id6787073815?mt=12",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 01:10:01 +0000",
+      "timestamp": 1790730601.0
+    },
+    {
+      "title": "LabBench: Can AI agents decide what experiment to run next?",
+      "link": "https://gamowlabs.com/labbench-benchmarking-ai-wet-lab-decisions.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 00:59:52 +0000",
+      "timestamp": 1790729992.0
+    },
+    {
+      "title": "China broadens travel curbs to encompass family of top AI talent",
+      "link": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 00:52:00 +0000",
+      "timestamp": 1790729520.0
+    },
+    {
+      "title": "Moloch: Tristan Harris' new cautionary short film about the AI race [video]",
+      "link": "https://www.youtube.com/watch?v=Q4aUidMZxbs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 00:45:59 +0000",
+      "timestamp": 1790729159.0
+    },
+    {
+      "title": "Vibe Coding Discover – A Catalog of AI OSS for Agents, MCP, Skills, RAG",
+      "link": "https://vibecodingdiscover.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 00:36:03 +0000",
+      "timestamp": 1790728563.0
+    },
+    {
+      "title": "Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents",
+      "link": "https://apps.infinihash.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 30 Sep 2026 00:34:59 +0000",
+      "timestamp": 1790728499.0
+    },
+    {
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
       "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
       "image": null,
       "source": "The Verge AI",
       "published": "2026-09-29T20:19:13-04:00",
       "timestamp": 1790727553.0
-    },
-    {
-      "title": "Build Freely: Non-AI Shed Plan Generator",
-      "link": "https://buildfreely.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 30 Sep 2026 00:11:39 +0000",
-      "timestamp": 1790727099.0
-    },
-    {
-      "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
-      "link": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 23:38:39 +0000",
-      "timestamp": 1790725119.0
-    },
-    {
-      "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
-      "link": "https://www.neowin.net/news/your-big-mac-might-cost-more-if-mcdonalds-pricing-ai-thinks-people-nearby-can-afford-it/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 23:35:05 +0000",
-      "timestamp": 1790724905.0
-    },
-    {
-      "title": "'AI should assist teachers, not replace them': Union warns of AI marking risks",
-      "link": "https://www.rnz.co.nz/news/education/1656575/ai-should-assist-teachers-not-replace-them-union-warns-of-risks-of-ai-marking",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 23:34:57 +0000",
-      "timestamp": 1790724897.0
     },
     {
       "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
@@ -55,78 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 29 Sep 2026 23:30:55 +0000",
       "timestamp": 1790724655.0
-    },
-    {
-      "title": "Rules that stop AI agents from wrecking your data warehouse, with an eval",
-      "link": "https://github.com/idk-arsh/data-agent-rules",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 23:25:20 +0000",
-      "timestamp": 1790724320.0
-    },
-    {
-      "title": "Index 0 – AI assisted learning for programming",
-      "link": "https://www.youtube.com/watch?v=YhavzsLUOS0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 23:24:47 +0000",
-      "timestamp": 1790724287.0
-    },
-    {
-      "title": "The AI Bubble Explained",
-      "link": "https://hughhowey.com/the-ai-bubble-explained/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 23:21:50 +0000",
-      "timestamp": 1790724110.0
-    },
-    {
-      "title": "Quail: Speed up AI-SQL by jointly optimizing query planner and inference engine",
-      "link": "https://modal.com/blog/quail-billion-tpm",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 23:19:52 +0000",
-      "timestamp": 1790723992.0
-    },
-    {
-      "title": "Eleven v4: Our most expressive text-to-speech AI model yet",
-      "link": "https://elevenlabs.io/blog/eleven-v4",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 23:19:04 +0000",
-      "timestamp": 1790723944.0
-    },
-    {
-      "title": "How to Stand Out in a World of AI Slop? Be a Green Unicorn",
-      "link": "https://sajit.substack.com/p/how-to-stand-out-in-a-sea-of-ai-slop",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 23:16:27 +0000",
-      "timestamp": 1790723787.0
-    },
-    {
-      "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
-      "link": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 22:52:30 +0000",
-      "timestamp": 1790722350.0
-    },
-    {
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 22:29:44 +0000",
-      "timestamp": 1790720984.0
     },
     {
       "title": "Trump orders US government to call AI ‘Super Intelligence’",
@@ -145,69 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 29 Sep 2026 22:20:59 +0000",
       "timestamp": 1790720459.0
-    },
-    {
-      "title": "Trump and major AI executives sign \"morally binding\" voluntary controls",
-      "link": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 22:13:42 +0000",
-      "timestamp": 1790720022.0
-    },
-    {
-      "title": "Ask HN: How do you maintain depth of understanding and velocity when using AI?",
-      "link": "https://news.ycombinator.com/item?id=49901420",
-      "summary": "There are a number of places where I think AI provides leverage: logical code search, design brainstorming, investigation assistance, and so on. These are generally things where there is some amount of manual effort being offloaded and I can verify that the result is valid quickly. However, when it comes to design documents (writing) and implementation (coding), I seem to be in the minority that finds AI slowing me down. I think this is a problem with how I use it. For example, I always review the generated output myself, to ensure that it: (1) matches my intent, (2) maintains proper abstracti",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 22:08:51 +0000",
-      "timestamp": 1790719731.0
-    },
-    {
-      "title": "New US Government AI Chatbot soon to \"let you take action\"",
-      "link": "https://lifehacker.com/tech/what-is-america-dot-gov",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 22:08:14 +0000",
-      "timestamp": 1790719694.0
-    },
-    {
-      "title": "Show HN: The Activity Monitor for the AI Era",
-      "link": "https://cortexformac.com/",
-      "summary": "Cortex turns a thousand processes into the apps you actually run, remembers the last 30 days, and shows what your Neural Engine and local models are doing. Everything stays on your Mac.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 22:01:35 +0000",
-      "timestamp": 1790719295.0
-    },
-    {
-      "title": "No Time to Pwn – Can AI Find and Exploit the Linux Kernel?",
-      "link": "https://xbow.com/blog/no-time-to-pwn-cve-2026-72018",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 21:51:11 +0000",
-      "timestamp": 1790718671.0
-    },
-    {
-      "title": "Pluralis Towards a Multicultural Multimodal, Multilingual Benchmark for AI Risk",
-      "link": "https://arxiv.org/abs/2607.06196",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 21:50:41 +0000",
-      "timestamp": 1790718641.0
-    },
-    {
-      "title": "Can AI Decipher the Indus Valley Script?",
-      "link": "https://news.ycombinator.com/item?id=49901168",
-      "summary": "If AI can solve Navier Stokes grade problems, it should take a stab at such a thing too. I know the language is fundamentally not \"english\" or another widely used one so it can't do any inference on it but worth an experiment.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 29 Sep 2026 21:50:06 +0000",
-      "timestamp": 1790718606.0
     },
     {
       "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
