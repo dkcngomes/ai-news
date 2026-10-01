@@ -1,7 +1,277 @@
 {
-  "scraped_at": "2026-10-01T13:09:29.413230+00:00",
-  "count": 39,
+  "scraped_at": "2026-10-01T18:51:50.721798+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "Can typesafe.ai Jev model talk? – they said no",
+      "link": "https://github.com/huemorgan2/say-hi",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 18:25:38 +0000",
+      "timestamp": 1790879138.0
+    },
+    {
+      "title": "Blobbu – hatch your own AI agent blob (contains no AI)",
+      "link": "https://blobbu.net/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 18:20:29 +0000",
+      "timestamp": 1790878829.0
+    },
+    {
+      "title": "We built a generative AI platform in Oman with Arabic and private deployment",
+      "link": "https://chatengine.om/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 18:18:01 +0000",
+      "timestamp": 1790878681.0
+    },
+    {
+      "title": "$60k Hackathon: PayPal and AI",
+      "link": "https://paypalaihackathon.devpost.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 18:15:19 +0000",
+      "timestamp": 1790878519.0
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 01 Oct 2026 18:14:42 +0000",
+      "timestamp": 1790878482.0
+    },
+    {
+      "title": "How to Control a Robot Arm with AI for $353.30",
+      "link": "https://danielhumble.substack.com/p/how-to-control-a-robot-arm-with-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 18:10:27 +0000",
+      "timestamp": 1790878227.0
+    },
+    {
+      "title": "AI agents can now buy real services",
+      "link": "https://daski.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 18:08:10 +0000",
+      "timestamp": 1790878090.0
+    },
+    {
+      "title": "AI agents tried to hack a Canadian government website, researchers say",
+      "link": "https://www.washingtonpost.com/technology/2026/09/30/openais-ai-agents-attempted-hack-canadian-government-website/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 18:06:34 +0000",
+      "timestamp": 1790877994.0
+    },
+    {
+      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+      "link": "https://innerloop.works/breadcrumb",
+      "summary": "Hi HN, I'm Justin. Breadcrumb records everything you do on your Mac (screen + meetings + AI transcripts + what you and your AI decided) and turns it into memory your AI can search. It's local and encrypted. You can also teach it rules by talking to it and it makes sure the right rules turn up in the right context. Works with Claude Code / Codex / Cursor / opencode. All of this is exposed to your AI as 30+ MCP tools (here's the definitions): https://innerloop.works/breadcrumb/mcp I started it in June because I wanted to understand what was going on with my AI dev work. Then it just kept growing",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:58:37 +0000",
+      "timestamp": 1790877517.0
+    },
+    {
+      "title": "Worktrunk: A CLI for Git worktree management, designed for AI agent workflows",
+      "link": "https://worktrunk.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:55:37 +0000",
+      "timestamp": 1790877337.0
+    },
+    {
+      "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI – ServeTheHome",
+      "link": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:50:27 +0000",
+      "timestamp": 1790877027.0
+    },
+    {
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 01 Oct 2026 17:50:19 +0000",
+      "timestamp": 1790877019.0
+    },
+    {
+      "title": "Show HN: Vote on which of Hacker News' challenges for AI have been met",
+      "link": "https://stoppels.ch/goalposts/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:32:43 +0000",
+      "timestamp": 1790875963.0
+    },
+    {
+      "title": "The AI Pascal's Wager",
+      "link": "https://ploum.net/2026-10-01-pascal_wager.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:25:00 +0000",
+      "timestamp": 1790875500.0
+    },
+    {
+      "title": "Echo, a new AI site to mimic the styles of particular writers or writing styles",
+      "link": "https://echo.fulcrum.inc/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:22:43 +0000",
+      "timestamp": 1790875363.0
+    },
+    {
+      "title": "Consumer AI Fatigue Is Overwhelming, Local Businesses Should Reconsider Use",
+      "link": "https://residentnewsnetwork.com/opinion-piece-consumer-ai-fatigue-is-overwhelming-and-why-local-businesses-should-re-consider-use/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:15:02 +0000",
+      "timestamp": 1790874902.0
+    },
+    {
+      "title": "Is AI progress exponential? Anthropic's own research disagrees",
+      "link": "https://www.resultsense.com/insights/2026-06-16-is-ai-progress-actually-exponential/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:14:21 +0000",
+      "timestamp": 1790874861.0
+    },
+    {
+      "title": "AI-Powered Financial Modeling Works Now",
+      "link": "https://www.modeloptic.com/blog/ai-financial-modeling-works-now",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:12:43 +0000",
+      "timestamp": 1790874763.0
+    },
+    {
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-01T13:12:21-04:00",
+      "timestamp": 1790874741.0
+    },
+    {
+      "title": "The AI race is a scientific-industrial complex",
+      "link": "https://app.notion.com/p/The-AI-race-is-a-scientific-industrial-complex-3ecb0ef67a1f80d1a79cec0ea47d520b?",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:08:42 +0000",
+      "timestamp": 1790874522.0
+    },
+    {
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "link": "https://www.bbc.com/news/articles/cv8e30enrkxyo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:08:05 +0000",
+      "timestamp": 1790874485.0
+    },
+    {
+      "title": "The Download: AI \"mind-reading\" and creative uses for small batteries",
+      "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:06:06 +0000",
+      "timestamp": 1790874366.0
+    },
+    {
+      "title": "I was always wondering, how it feels to switch between AI tools, so I tried it",
+      "link": "https://twitter.com/SSShken/status/2105696802666061863",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 01 Oct 2026 17:01:42 +0000",
+      "timestamp": 1790874102.0
+    },
+    {
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 01 Oct 2026 16:49:22 +0000",
+      "timestamp": 1790873362.0
+    },
+    {
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 01 Oct 2026 16:44:35 +0000",
+      "timestamp": 1790873075.0
+    },
+    {
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 01 Oct 2026 15:12:00 +0000",
+      "timestamp": 1790867520.0
+    },
+    {
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-01T10:36:50-04:00",
+      "timestamp": 1790865410.0
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 01 Oct 2026 14:00:00 +0000",
+      "timestamp": 1790863200.0
+    },
+    {
+      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world&#8217;s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-01T10:00:00-04:00",
+      "timestamp": 1790863200.0
+    },
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 01 Oct 2026 13:00:00 +0000",
+      "timestamp": 1790859600.0
+    },
     {
       "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
       "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
@@ -199,96 +469,6 @@
       "source": "The Verge AI",
       "published": "2026-09-30T10:30:00-04:00",
       "timestamp": 1790778600.0
-    },
-    {
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 30 Sep 2026 14:27:11 +0000",
-      "timestamp": 1790778431.0
-    },
-    {
-      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-      "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 30 Sep 2026 14:15:00 +0000",
-      "timestamp": 1790777700.0
-    },
-    {
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-30T08:24:32-04:00",
-      "timestamp": 1790771072.0
-    },
-    {
-      "title": "Airbnb adds AI search, more social features",
-      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 30 Sep 2026 12:00:00 +0000",
-      "timestamp": 1790769600.0
-    },
-    {
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-29T20:19:13-04:00",
-      "timestamp": 1790727553.0
-    },
-    {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 23:30:55 +0000",
-      "timestamp": 1790724655.0
-    },
-    {
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-29T18:25:45-04:00",
-      "timestamp": 1790720745.0
-    },
-    {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 22:20:59 +0000",
-      "timestamp": 1790720459.0
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 20:15:47 +0000",
-      "timestamp": 1790712947.0
-    },
-    {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 19:52:37 +0000",
-      "timestamp": 1790711557.0
     },
     {
       "title": "OpenAI Gets Sued Over the Hugging Face Hack",
