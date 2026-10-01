@@ -1,186 +1,15 @@
 {
-  "scraped_at": "2026-10-01T05:48:38.398779+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-01T13:09:29.413230+00:00",
+  "count": 39,
   "items": [
     {
-      "title": "AI borrowers face tough sell in risky corners of US credit market",
-      "link": "https://www.reuters.com/legal/transactional/ai-borrowers-face-tough-sell-risky-corners-us-credit-market-2026-09-30/",
-      "summary": "",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 05:45:42 +0000",
-      "timestamp": 1790833542.0
-    },
-    {
-      "title": "Show HN: MeetTwins, an AI that attends Google Meet and won't improvise",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/show-colleagues-how-much-you-care-by-sending-an-ai-avatar-to-your-google-meet-call/5300205",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 05:28:41 +0000",
-      "timestamp": 1790832521.0
-    },
-    {
-      "title": "Show HN: Vietnam Tender Intelligence – gov procurement data, AI-agent ready",
-      "link": "https://apify.com/donerightlabs/tender-intelligence",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 04:50:24 +0000",
-      "timestamp": 1790830224.0
-    },
-    {
-      "title": "AI research is dead, long live AI",
-      "link": "https://kylrth.com/post/ai-research-is-dead/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 04:19:52 +0000",
-      "timestamp": 1790828392.0
-    },
-    {
-      "title": "Thoughts on AI",
-      "link": "https://medium.com/@dhillonravi1983/thoughts-on-ai-1e1400f9fe4f",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 04:09:57 +0000",
-      "timestamp": 1790827797.0
-    },
-    {
-      "title": "Ask HN: If AI took your job tomorrow, what is your plan?",
-      "link": "https://news.ycombinator.com/item?id=49917455",
-      "summary": "I'm looking for some optimism here after reading one of the recent daily threads that devolves into doom. I'm 26, single, at a non-FAANG making okay money doing software, but I can feel the AI grip tightening. Maybe it's an illusion, not sure, but it sure feels real. Does anyone here have a creative plan for other industries to get into? Ways to reduce expenses? Trying to find something people with brains like ours can look forward to.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 03:39:12 +0000",
-      "timestamp": 1790825952.0
-    },
-    {
-      "title": "A local Workday job agent – rule-based resume tailoring, no AI",
-      "link": "https://github.com/daliparthi/personal-job-agent",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 03:31:16 +0000",
-      "timestamp": 1790825476.0
-    },
-    {
-      "title": "Polytoken is a local-first AI coding agent daemon",
-      "link": "https://docs.polytoken.dev/introduction/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 03:01:28 +0000",
-      "timestamp": 1790823688.0
-    },
-    {
-      "title": "Universal Modder: Let Any AI Coding Agent Mod Almost Any PC Game",
-      "link": "https://github.com/rehan-remade/universal-modder",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 02:48:15 +0000",
-      "timestamp": 1790822895.0
-    },
-    {
-      "title": "AI and TCS: The Next Six Months Working Group Report",
-      "link": "https://simons.berkeley.edu/AITCSreport?inline=",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 02:47:26 +0000",
-      "timestamp": 1790822846.0
-    },
-    {
-      "title": "8 Questions about Minds and AI",
-      "link": "https://www.echohive.ai/eight-questions-about-minds-and-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 02:16:30 +0000",
-      "timestamp": 1790820990.0
-    },
-    {
-      "title": "Aw1-breaker: Sub-0.02ms AST circuit breaker for Python AI agent tools",
-      "link": "https://github.com/MvikManners/aw1-circuit-breaker",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 02:14:20 +0000",
-      "timestamp": 1790820860.0
-    },
-    {
-      "title": "Google's AI Push into Schools: 'It Slowed My Thinking Down'",
-      "link": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 02:12:51 +0000",
-      "timestamp": 1790820771.0
-    },
-    {
-      "title": "D2B – Spreadsheets for AI Agents",
-      "link": "https://d2b.dev/developers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 02:08:01 +0000",
-      "timestamp": 1790820481.0
-    },
-    {
-      "title": "I built a reproducible AI dev VM so engineers can skip setup hell",
-      "link": "https://github.com/niemenghui/stAI-dev-machine",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 02:03:33 +0000",
-      "timestamp": 1790820213.0
-    },
-    {
-      "title": "The Physical Stack Behind AI",
-      "link": "https://intelligence.mts.now/compute",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 01:53:13 +0000",
-      "timestamp": 1790819593.0
-    },
-    {
-      "title": "Ruby in the Age of AI",
-      "link": "https://enogrob.github.io/ruby/artificial-intelligence/software-engineering/architecture/2026/10/01/ruby-in-the-age-of-ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 01:48:40 +0000",
-      "timestamp": 1790819320.0
-    },
-    {
-      "title": "Can AI self-improvement overcome diminishing returns?",
-      "link": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 01:40:01 +0000",
-      "timestamp": 1790818801.0
-    },
-    {
-      "title": "Prompt Injection Firewall for AI APIs and Agent Tool Calls",
-      "link": "https://github.com/rajatrao/jevshield",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 01:33:38 +0000",
-      "timestamp": 1790818418.0
-    },
-    {
-      "title": "Clipx – An open-source AI-native creative suite for macOS",
-      "link": "https://github.com/imlukeshen/clipx",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 01 Oct 2026 01:08:15 +0000",
-      "timestamp": 1790816895.0
+      "source": "TechCrunch AI",
+      "published": "Thu, 01 Oct 2026 12:00:00 +0000",
+      "timestamp": 1790856000.0
     },
     {
       "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
@@ -469,15 +298,6 @@
       "source": "Wired AI",
       "published": "Tue, 29 Sep 2026 19:05:00 +0000",
       "timestamp": 1790708700.0
-    },
-    {
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 29 Sep 2026 18:35:00 +0000",
-      "timestamp": 1790706900.0
     },
     {
       "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
