@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-10-02T15:46:49.948149+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-02T20:43:03.338128+00:00",
+  "count": 40,
   "items": [
+    {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-02T16:08:40-04:00",
+      "timestamp": 1790971720.0
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 02 Oct 2026 19:15:51 +0000",
+      "timestamp": 1790968551.0
+    },
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 02 Oct 2026 18:11:27 +0000",
+      "timestamp": 1790964687.0
+    },
+    {
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-02T14:00:00-04:00",
+      "timestamp": 1790964000.0
+    },
+    {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 02 Oct 2026 17:56:00 +0000",
+      "timestamp": 1790963760.0
+    },
+    {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 02 Oct 2026 17:48:16 +0000",
+      "timestamp": 1790963296.0
+    },
+    {
+      "title": "Breaking up (with Elon Musk) is hard to do",
+      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+      "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-02T13:37:36-04:00",
+      "timestamp": 1790962656.0
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 02 Oct 2026 17:32:05 +0000",
+      "timestamp": 1790962325.0
+    },
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 02 Oct 2026 17:00:00 +0000",
+      "timestamp": 1790960400.0
+    },
+    {
+      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+      "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 02 Oct 2026 16:00:00 +0000",
+      "timestamp": 1790956800.0
+    },
     {
       "title": "Pope Leo XIV is not a fan of AI-generated art",
       "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
@@ -10,105 +100,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 02 Oct 2026 15:39:41 +0000",
       "timestamp": 1790955581.0
-    },
-    {
-      "title": "Show HN: Outis – Fight AI spam by sending fake \"user unknown\" bounce emails",
-      "link": "https://github.com/dtonon/outis",
-      "summary": "Outis fights spam generating and sending a fake \"user unknown\" bounce for an email you received, so the sender believes your address does not exist. Of course this isn't a novel idea, I created a similar program back in 1998–1999 (actually, with a slightly different purpose), but I decided to revive it because it should work quite well with the recent trend of automated emails generated by AI, where the sender might expect a reply; it helps remove your email address from their list. I don't have strong evidence about its effectiveness, but I'm testing it for few weeks and the spam noise seems ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 15:36:11 +0000",
-      "timestamp": 1790955371.0
-    },
-    {
-      "title": "OpenAI's wandering AI agents earn it a California subpoena",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 15:28:33 +0000",
-      "timestamp": 1790954913.0
-    },
-    {
-      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-      "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 15:24:54 +0000",
-      "timestamp": 1790954694.0
-    },
-    {
-      "title": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
-      "link": "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 15:20:33 +0000",
-      "timestamp": 1790954433.0
-    },
-    {
-      "title": "Mozilla shutting down Solo AI website creator",
-      "link": "https://support.soloist.ai/doc/solo-shutdown-faq",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 15:19:22 +0000",
-      "timestamp": 1790954362.0
-    },
-    {
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
-      "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 15:18:49 +0000",
-      "timestamp": 1790954329.0
-    },
-    {
-      "title": "AI Makes Me Sad",
-      "link": "https://mondobe.com/ai-makes-me-sad",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 15:18:00 +0000",
-      "timestamp": 1790954280.0
-    },
-    {
-      "title": "AI Agents Are Vulnerable to Radicalization",
-      "link": "https://arxiv.org/abs/2609.38296",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 15:17:24 +0000",
-      "timestamp": 1790954244.0
-    },
-    {
-      "title": "Show colleagues how much you care by sending AI avatar to your Google Meet call",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/show-colleagues-how-much-you-care-by-sending-an-ai-avatar-to-your-google-meet-call/5300205",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 15:15:51 +0000",
-      "timestamp": 1790954151.0
-    },
-    {
-      "title": "Show HN: Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama",
-      "link": "https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 15:02:09 +0000",
-      "timestamp": 1790953329.0
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 02 Oct 2026 15:00:00 +0000",
-      "timestamp": 1790953200.0
     },
     {
       "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
@@ -120,42 +111,6 @@
       "timestamp": 1790953200.0
     },
     {
-      "title": "One cause of \"AI\" chatbots' accuracy being so poor?",
-      "link": "https://news.ycombinator.com/item?id=49934256",
-      "summary": "My thought: They're trained on so much web content that is plain wrong but authoritative due to apparent endorsement by humans that show tolerance based on understanding which is lacking in an \"AI\" next-token predictor. Example, https://en.wikipedia.org/wiki/Progressive_web_app \"Progressive web apps must use service workers to create programmable content caches.\" This statement is factually false. There is no requirement that a PWA do this. True is \"To create a programmable content cache, a progressive web app would need to use a service worker.\" But Gemini parrots the false original. I suspec",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 14:59:48 +0000",
-      "timestamp": 1790953188.0
-    },
-    {
-      "title": "OpenAI notifies 100 orgs about its AI agents bypassing their security controls",
-      "link": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 14:57:24 +0000",
-      "timestamp": 1790953044.0
-    },
-    {
-      "title": "There Is No Evidence of Aggregate AI Job Loss",
-      "link": "https://deadneurons.substack.com/p/there-is-no-evidence-of-aggregate",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 14:53:06 +0000",
-      "timestamp": 1790952786.0
-    },
-    {
-      "title": "The AI Zombie Effect",
-      "link": "https://felipe.ai/notes/the-ai-zombie-effect",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 14:44:00 +0000",
-      "timestamp": 1790952240.0
-    },
-    {
       "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
       "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
       "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
@@ -165,67 +120,13 @@
       "timestamp": 1790951400.0
     },
     {
-      "title": "AI Performance Engineering",
-      "link": "https://github.com/wafer-ai/gpu-perf-engineering-resources",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 14:22:02 +0000",
-      "timestamp": 1790950922.0
-    },
-    {
-      "title": "We're Missing a Key Reason Why Americans Hate AI",
-      "link": "https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 14:18:34 +0000",
-      "timestamp": 1790950714.0
-    },
-    {
-      "title": "Ask HN: I think the AI terminology needs a reset",
-      "link": "https://news.ycombinator.com/item?id=49933750",
-      "summary": "A friend asked me what a personal AI agent does. I started explaining, then I realized I was describing three different things. I think we need better order and terms in this world. So personal ai agent can be 3 different things.. Delegate agent: It's own inbox, number, and accounts. Like: \"Hi, i'm Peter the agent of Ana, I'd like a table for four\" Twin agent: My accounts, but it says an agent is speaking. Like: \"Hi, I'm Ana, through her agent, I'd like a table for four\" Ghost agent: My accounts, without mentioning AI. Like: \"Hi, I'm Ana, I'd like a table for four\" Also the term \"personal ai a",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 14:12:33 +0000",
-      "timestamp": 1790950353.0
-    },
-    {
-      "title": "AI Agents Need an Undo Button",
-      "link": "https://cacm.acm.org/blogcacm/ai-agents-need-an-undo-button/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 14:12:32 +0000",
-      "timestamp": 1790950352.0
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI–until now",
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 14:11:24 +0000",
-      "timestamp": 1790950284.0
-    },
-    {
       "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
       "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "summary": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: will they find your startup?",
+      "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 02 Oct 2026 14:00:00 +0000",
       "timestamp": 1790949600.0
-    },
-    {
-      "title": "Reddit to sunset RSS access because of AI bots",
-      "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 13:59:22 +0000",
-      "timestamp": 1790949562.0
     },
     {
       "title": "AI hallucinations are making entitled customers even worse",
@@ -273,8 +174,8 @@
       "timestamp": 1790934139.0
     },
     {
-      "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
-      "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+      "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
       "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
       "image": null,
       "source": "Wired AI",
@@ -408,15 +309,6 @@
       "timestamp": 1790863200.0
     },
     {
-      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world&#8217;s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-01T10:00:00-04:00",
-      "timestamp": 1790863200.0
-    },
-    {
       "title": "Hearing tech startup Legato launches its AI hearing glasses",
       "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
       "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
@@ -433,42 +325,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 01 Oct 2026 12:00:00 +0000",
       "timestamp": 1790856000.0
-    },
-    {
-      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-30T20:23:45-04:00",
-      "timestamp": 1790814225.0
-    },
-    {
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 30 Sep 2026 23:43:07 +0000",
-      "timestamp": 1790811787.0
-    },
-    {
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 30 Sep 2026 21:07:40 +0000",
-      "timestamp": 1790802460.0
-    },
-    {
-      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-09-30T16:41:41-04:00",
-      "timestamp": 1790800901.0
     },
     {
       "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
@@ -489,15 +345,6 @@
       "timestamp": 1790796600.0
     },
     {
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 30 Sep 2026 19:00:57 +0000",
-      "timestamp": 1790794857.0
-    },
-    {
       "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
       "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
       "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
@@ -507,15 +354,6 @@
       "timestamp": 1790794800.0
     },
     {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 30 Sep 2026 18:23:57 +0000",
-      "timestamp": 1790792637.0
-    },
-    {
       "title": "OpenAI Gets Sued Over the Hugging Face Hack",
       "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
       "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
@@ -523,15 +361,6 @@
       "source": "Wired AI",
       "published": "Tue, 29 Sep 2026 19:05:00 +0000",
       "timestamp": 1790708700.0
-    },
-    {
-      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
-      "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
-      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 29 Sep 2026 18:03:01 +0000",
-      "timestamp": 1790704981.0
     }
   ]
 }
