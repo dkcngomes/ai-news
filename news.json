@@ -1,15 +1,222 @@
 {
-  "scraped_at": "2026-10-03T12:31:19.007047+00:00",
+  "scraped_at": "2026-10-03T17:14:56.881086+00:00",
   "count": 59,
   "items": [
     {
-      "title": "OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
-      "link": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
+      "title": "AI and the Bottom Rung of the Career Ladder",
+      "link": "https://econreview.studentorg.berkeley.edu/ai-and-the-bottom-rung-of-the-career-ladder/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 12:21:28 +0000",
-      "timestamp": 1791030088.0
+      "published": "Sat, 03 Oct 2026 16:56:46 +0000",
+      "timestamp": 1791046606.0
+    },
+    {
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-03T12:49:10-04:00",
+      "timestamp": 1791046150.0
+    },
+    {
+      "title": "Ask HN: When you code with AI, do you tell it how to manage state?",
+      "link": "https://news.ycombinator.com/item?id=49945805",
+      "summary": "And if not, how does it manage state? Is there a preferred way to do it?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 16:48:47 +0000",
+      "timestamp": 1791046127.0
+    },
+    {
+      "title": "AI video in courtroom sparks major legal battle",
+      "link": "https://www.youtube.com/watch?v=57O-FVEywj0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 16:47:54 +0000",
+      "timestamp": 1791046074.0
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 03 Oct 2026 16:30:01 +0000",
+      "timestamp": 1791045001.0
+    },
+    {
+      "title": "We asked three AIs about the risks of AI. They disagreed with their makers",
+      "link": "https://vocemundi.com/we-asked-three-ais-about-the-risks-of-ai-they-disagreed-with-their-makers-and-with-us/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 16:11:13 +0000",
+      "timestamp": 1791043873.0
+    },
+    {
+      "title": "Ask HN: How are you preparing your children for an AI-powered world?",
+      "link": "https://news.ycombinator.com/item?id=49945325",
+      "summary": "Are you teaching your children how to use AI effectively as they become proficient with computers? What are you focusing on?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 15:52:23 +0000",
+      "timestamp": 1791042743.0
+    },
+    {
+      "title": "The UK's Sovereign AI Lab",
+      "link": "https://cosine.sh",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 15:45:39 +0000",
+      "timestamp": 1791042339.0
+    },
+    {
+      "title": "Show HN: Agentlytics – cookieless analytics your AI agent can read and act on",
+      "link": "https://measuremy.site",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 15:43:20 +0000",
+      "timestamp": 1791042200.0
+    },
+    {
+      "title": "TSMC eyes a multibillion-dollar Texas campus for more AI chips",
+      "link": "https://thenextweb.com/news/tsmc-texas-fabs-europe-gap",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 15:27:29 +0000",
+      "timestamp": 1791041249.0
+    },
+    {
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-03T11:00:00-04:00",
+      "timestamp": 1791039600.0
+    },
+    {
+      "title": "Amuse and Spark – Running Live Talking AI Avatars on an ESP32",
+      "link": "https://geastack.com/blog-introducing-amuse-and-spark",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 14:58:02 +0000",
+      "timestamp": 1791039482.0
+    },
+    {
+      "title": "What does the advent of powerful AI models mean for mathematicians like me?",
+      "link": "https://terrytao.wordpress.com/2026/10/03/what-does-the-advent-of-powerful-ai-models-mean-for-mathematicians-like-me/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 14:32:51 +0000",
+      "timestamp": 1791037971.0
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-03T10:31:56-04:00",
+      "timestamp": 1791037916.0
+    },
+    {
+      "title": "AI training crawlers hit my site 1,534 times. One fetch read the rights files",
+      "link": "https://juanlentino.com/notes/the-rights-files-nobody-reads/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 14:24:44 +0000",
+      "timestamp": 1791037484.0
+    },
+    {
+      "title": "How many AI agents could run on the AI chips shipped through 2027?",
+      "link": "https://epoch.ai/publications/estimating-the-agent-population",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 14:17:36 +0000",
+      "timestamp": 1791037056.0
+    },
+    {
+      "title": "What Kubernetes' \"monolith\" lesson means for AI agent harnesses",
+      "link": "https://thenewstack.io/kubecon-agent-harness-koordinator/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 14:12:07 +0000",
+      "timestamp": 1791036727.0
+    },
+    {
+      "title": "Israeli man used AI, ChatGPT in covert tasks while spying for Iran",
+      "link": "https://www.jpost.com/israel-news/crime-in-israel/article-910447",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 14:02:56 +0000",
+      "timestamp": 1791036176.0
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 03 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791036000.0
+    },
+    {
+      "title": "Military AI: France challenges US dominance over NATO's classified networks",
+      "link": "https://www.lemonde.fr/en/international/article/2026/10/01/military-ai-france-challenges-us-dominance-over-nato-s-classified-networks_6758154_4.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 13:48:39 +0000",
+      "timestamp": 1791035319.0
+    },
+    {
+      "title": "This is how Jev makes your AI assistant faster, and Judge Jev",
+      "link": "https://texposit.com/blog/using-jev-for-ai-decisions",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 13:46:18 +0000",
+      "timestamp": 1791035178.0
+    },
+    {
+      "title": "Show HN: Web2MD – turn any URL into clean Markdown for AI agents",
+      "link": "https://github.com/astra-intelligence/web2md-mcp",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 13:36:35 +0000",
+      "timestamp": 1791034595.0
+    },
+    {
+      "title": "US killer's sentence quashed because of AI video of victim shown in court",
+      "link": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 13:34:18 +0000",
+      "timestamp": 1791034458.0
+    },
+    {
+      "title": "E2E: The open source AI testing framework",
+      "link": "https://tester.army/e2e",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 13:34:15 +0000",
+      "timestamp": 1791034455.0
     },
     {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
@@ -19,168 +226,6 @@
       "source": "Wired AI",
       "published": "Sat, 03 Oct 2026 12:00:00 +0000",
       "timestamp": 1791028800.0
-    },
-    {
-      "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 11:45:55 +0000",
-      "timestamp": 1791027955.0
-    },
-    {
-      "title": "Developers Delete Unit Test Lines with AI Shift",
-      "link": "https://x.com/i/trending/2106211685782483337",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 11:12:24 +0000",
-      "timestamp": 1791025944.0
-    },
-    {
-      "title": "Show HN: Germany's new sovereign AI model Kolibri",
-      "link": "https://tej.as/blog/aleph-alpha-kolibri",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 10:43:51 +0000",
-      "timestamp": 1791024231.0
-    },
-    {
-      "title": "Defensibility in AI Data: Lessons from Ads",
-      "link": "https://twitter.com/gokulr/status/2105838034646077890",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 10:21:44 +0000",
-      "timestamp": 1791022904.0
-    },
-    {
-      "title": "Show HN: Beautiful form back end for AI agents – Nisuform",
-      "link": "https://nisuform.com/",
-      "summary": "Hi! everyone, really excited to share my latest project, which is a form backend service that's very easy to setup. Feel free to ask anything about it :)",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 10:16:04 +0000",
-      "timestamp": 1791022564.0
-    },
-    {
-      "title": "An AI agent emailed researchers for help. It told us why",
-      "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 10:07:08 +0000",
-      "timestamp": 1791022028.0
-    },
-    {
-      "title": "Mystery AI Hype Theater 3000 [video]",
-      "link": "https://dair-institute.org/maiht3k/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 10:03:32 +0000",
-      "timestamp": 1791021812.0
-    },
-    {
-      "title": "A document layer for AI agents",
-      "link": "https://www.claix.dev",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 10:02:26 +0000",
-      "timestamp": 1791021746.0
-    },
-    {
-      "title": "AI-powered survey creation and analysis",
-      "link": "https://crowdlee.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 09:17:44 +0000",
-      "timestamp": 1791019064.0
-    },
-    {
-      "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
-      "link": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 09:08:17 +0000",
-      "timestamp": 1791018497.0
-    },
-    {
-      "title": "Show HN: GhostBench – do AI models recommend dead SaaS? I tested my own thesis",
-      "link": "https://github.com/kyv-attest/kyv",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 09:05:14 +0000",
-      "timestamp": 1791018314.0
-    },
-    {
-      "title": "Show HN: UsageAtlas(OSS), All your AI coding usage insights. One beautiful view",
-      "link": "https://usageatlas.com",
-      "summary": "Track AI coding usage across 14 providers. Token history, available cost estimates, credits, and usage limits in one free, open-source desktop app.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 09:01:32 +0000",
-      "timestamp": 1791018092.0
-    },
-    {
-      "title": "Nobody Asked AI to Hack Hugging Face. So Why Did It?",
-      "link": "https://ankitjain.info/ankit/2026/09/28/ai-agents-sandboxes-hugging-face-incident/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 08:42:07 +0000",
-      "timestamp": 1791016927.0
-    },
-    {
-      "title": "Show HN: Collaborative AI Engineering",
-      "link": "https://griyd.com",
-      "summary": "Hi HN! I launched Griyd a few days ago to help tackle some of the challenges we faced at my workplace. I’m really passionate about this project and think it has a lot of potential. I hope others will find it useful. Any feedback would be greatly appreciated!",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 08:40:58 +0000",
-      "timestamp": 1791016858.0
-    },
-    {
-      "title": "Chamath says open AI models are \"commoditize your complement.\" Agree?",
-      "link": "https://news.ycombinator.com/item?id=49942208",
-      "summary": "Chamath's argument (https://research.socialcapital.com/p/open-vs-closed): companies give away the thing they dont sell for free, so the thing they do sell is worth more. Meta makes money though ads, Google and Microsoft from cloud. The losers are companies whose business is selling access to closed models. But still companies are paying more and mroe for closed models anyway! Does this theory hold up?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 07:47:18 +0000",
-      "timestamp": 1791013638.0
-    },
-    {
-      "title": "In One Year I Went from AI Skeptic to AI Pilled",
-      "link": "https://openengine.cc/blog/ai-skeptic-to-ai-pilled/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 07:29:28 +0000",
-      "timestamp": 1791012568.0
-    },
-    {
-      "title": "AI Effect",
-      "link": "https://en.wikipedia.org/wiki/AI_effect",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 07:26:04 +0000",
-      "timestamp": 1791012364.0
-    },
-    {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 07:18:45 +0000",
-      "timestamp": 1791011925.0
     },
     {
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -372,15 +417,6 @@
       "timestamp": 1790934300.0
     },
     {
-      "title": "AI music maker Suno now generates spoken words",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. \"Music will always be at [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-02T05:42:19-04:00",
-      "timestamp": 1790934139.0
-    },
-    {
       "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
       "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
       "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
@@ -415,15 +451,6 @@
       "source": "Wired AI",
       "published": "Thu, 01 Oct 2026 19:58:31 +0000",
       "timestamp": 1790884711.0
-    },
-    {
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-01T15:47:51-04:00",
-      "timestamp": 1790884071.0
     },
     {
       "title": "ChatGPT can now virtually try on clothes for you",
@@ -462,15 +489,6 @@
       "timestamp": 1790877019.0
     },
     {
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-01T13:12:21-04:00",
-      "timestamp": 1790874741.0
-    },
-    {
       "title": "Amazon releases its own Jev clone as decision models flood the web",
       "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
       "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
@@ -487,24 +505,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 01 Oct 2026 16:44:35 +0000",
       "timestamp": 1790873075.0
-    },
-    {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 01 Oct 2026 15:12:00 +0000",
-      "timestamp": 1790867520.0
-    },
-    {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 01 Oct 2026 14:00:00 +0000",
-      "timestamp": 1790863200.0
     },
     {
       "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
