@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-10-03T00:28:34.654329+00:00",
+  "scraped_at": "2026-10-03T06:30:29.587178+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Show HN: Rowan, an open-source SAST scanner for AI apps (code, models, MCP)\"",
+      "link": "https://github.com/hedgerow-dev/rowan",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 05:29:44 +0000",
+      "timestamp": 1791005384.0
+    },
+    {
+      "title": "How good are we at spotting AI images?",
+      "link": "https://slop-sense.labtoagi.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 05:21:48 +0000",
+      "timestamp": 1791004908.0
+    },
+    {
+      "title": "Will America Spend 9% of Its GDP on AI? The Industry Is Counting on It",
+      "link": "https://www.wsj.com/tech/ai/will-america-spend-9-of-its-gdp-on-ai-the-industry-is-counting-on-it-3501bb4f",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 05:17:27 +0000",
+      "timestamp": 1791004647.0
+    },
+    {
+      "title": "People will be AI's app layer",
+      "link": "https://twitter.com/koopuluri/status/2106244337814364332",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 04:46:25 +0000",
+      "timestamp": 1791002785.0
+    },
+    {
+      "title": "Where AI learns to do real work",
+      "link": "https://labelbox.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 04:40:10 +0000",
+      "timestamp": 1791002410.0
+    },
+    {
+      "title": "What if AI worked at 1.000.000 tokens per seconds?",
+      "link": "https://www.echohive.ai/one-million-tokens-per-second",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 04:22:21 +0000",
+      "timestamp": 1791001341.0
+    },
+    {
+      "title": "SWC stops accepting external PRs due to AI-generated content",
+      "link": "https://twitter.com/swc_rs/status/2105505428893544847",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 03:45:39 +0000",
+      "timestamp": 1790999139.0
+    },
+    {
+      "title": "How to stay smart in the age of AI: the science of critical thinking",
+      "link": "https://www.nature.com/articles/d41586-026-02930-6",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 02:39:18 +0000",
+      "timestamp": 1790995158.0
+    },
+    {
+      "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 02:07:08 +0000",
+      "timestamp": 1790993228.0
+    },
+    {
+      "title": "AI bots are flooding researchers with requests for money and time",
+      "link": "https://www.nature.com/articles/d41586-026-03005-2",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 01:17:56 +0000",
+      "timestamp": 1790990276.0
+    },
+    {
+      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App",
+      "link": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 01:09:30 +0000",
+      "timestamp": 1790989770.0
+    },
+    {
+      "title": "Underdog private personal on-device local AI for privacy and security",
+      "link": "https://underdog.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 00:59:35 +0000",
+      "timestamp": 1790989175.0
+    },
+    {
+      "title": "The Fastest Growing Market in Tech Isn't AI – Tomasz Tunguz",
+      "link": "https://tomtunguz.com/allium-bloomberg-rwa/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 00:58:44 +0000",
+      "timestamp": 1790989124.0
+    },
+    {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 03 Oct 2026 00:45:39 +0000",
+      "timestamp": 1790988339.0
+    },
+    {
+      "title": "GitHub mutuals on AI in life sciences or bioinformatics",
+      "link": "https://news.ycombinator.com/item?id=49940260",
+      "summary": "Dear all. Does anybody here build applications for AI in life sciences or bioinformatics? I would love to be mutuals and connected on my github account here: https://github.com/Johnkecops Here are some examples on what I built with my team: Protein domain annotation pipeline from my dissertation: https://github.com/Johnkecops/protein-domain Alzheimer Epigenetics annotation pipeline: https://github.com/Johnkecops/Alzheimer_Epigenetics Camcer Epigenetics annotation pipeline: https://github.com/Johnkecops/Epigenetics Please don't hesitate to ask or discuss anything about this field. I also welcom",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 00:30:28 +0000",
+      "timestamp": 1790987428.0
+    },
     {
       "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
@@ -55,132 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 02 Oct 2026 23:08:21 +0000",
       "timestamp": 1790982501.0
-    },
-    {
-      "title": "AI Torture Chamber – Steering LLMs into negative and positive valence states",
-      "link": "https://github.com/login",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 23:04:43 +0000",
-      "timestamp": 1790982283.0
-    },
-    {
-      "title": "LLMs Will Not Replace AI Compilers. They Will Call Them.",
-      "link": "https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 22:57:27 +0000",
-      "timestamp": 1790981847.0
-    },
-    {
-      "title": "An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
-      "link": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 22:20:41 +0000",
-      "timestamp": 1790979641.0
-    },
-    {
-      "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
-      "link": "https://daringfireball.net/2026/10/apple_full_disk_access",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 22:15:58 +0000",
-      "timestamp": 1790979358.0
-    },
-    {
-      "title": "Can You SEO Your Way into an AI Agent's Recommendation?",
-      "link": "https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 22:09:29 +0000",
-      "timestamp": 1790978969.0
-    },
-    {
-      "title": "Show HN: Asked Opus for a video about AI labs and it spit out this weird thing",
-      "link": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 22:08:37 +0000",
-      "timestamp": 1790978917.0
-    },
-    {
-      "title": "Merlean AI",
-      "link": "https://merlean.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 22:08:13 +0000",
-      "timestamp": 1790978893.0
-    },
-    {
-      "title": "Huddo: Instant Shared AI Room",
-      "link": "https://huddo.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 22:07:44 +0000",
-      "timestamp": 1790978864.0
-    },
-    {
-      "title": "Reducing the cognitive load of AI changes",
-      "link": "https://amoffat.github.io/blog/cognitive-load.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 22:06:48 +0000",
-      "timestamp": 1790978808.0
-    },
-    {
-      "title": "Meta stumbled onto a winning AI strategy",
-      "link": "https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 22:05:36 +0000",
-      "timestamp": 1790978736.0
-    },
-    {
-      "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 21:36:16 +0000",
-      "timestamp": 1790976976.0
-    },
-    {
-      "title": "Decide where your AI workload should run (local/edge/cloud)",
-      "link": "https://github.com/Keerthana0309/ai-workload-placement",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 21:19:18 +0000",
-      "timestamp": 1790975958.0
-    },
-    {
-      "title": "Show HN: I build a local archive for AI chats that are hard to export openrouter",
-      "link": "https://github.com/ChrystianSchutz/ThreadShelf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 21:14:08 +0000",
-      "timestamp": 1790975648.0
-    },
-    {
-      "title": "The Sleuths Who Expose When AI Goes Rogue",
-      "link": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 21:11:18 +0000",
-      "timestamp": 1790975478.0
     },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -302,7 +311,7 @@
     {
       "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
       "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
       "image": null,
       "source": "Wired AI",
       "published": "Fri, 02 Oct 2026 15:00:00 +0000",
@@ -496,15 +505,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 01 Oct 2026 14:00:00 +0000",
       "timestamp": 1790863200.0
-    },
-    {
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 01 Oct 2026 13:00:00 +0000",
-      "timestamp": 1790859600.0
     },
     {
       "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
