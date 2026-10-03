@@ -1,7 +1,205 @@
 {
-  "scraped_at": "2026-10-02T20:43:03.338128+00:00",
-  "count": 40,
+  "scraped_at": "2026-10-03T00:28:34.654329+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 00:05:27 +0000",
+      "timestamp": 1790985927.0
+    },
+    {
+      "title": "When AI Starts Writing Systems Code",
+      "link": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 23:59:38 +0000",
+      "timestamp": 1790985578.0
+    },
+    {
+      "title": "Tinfoil private AI chat adds TEE-side content scanning",
+      "link": "https://tinfoil.sh/blog/2026-09-14-safety-without-compromising-privacy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 23:57:59 +0000",
+      "timestamp": 1790985479.0
+    },
+    {
+      "title": "'Winning AI'",
+      "link": "https://www.netmeister.org/blog/winning-ai.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 23:48:21 +0000",
+      "timestamp": 1790984901.0
+    },
+    {
+      "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
+      "link": "https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 23:18:02 +0000",
+      "timestamp": 1790983082.0
+    },
+    {
+      "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
+      "link": "https://teacherplanner.ai",
+      "summary": "Hi HN, I built Teacher Planner to help teachers organize lessons and prepare classroom materials in one place. The digital planbook brings together lesson plans, units, schedules, and curriculum standards, with day, week, and month views, read-only sharing, and configurable print layouts. It supports English and Chinese, and you can try the planner as a guest without creating an account. Alongside the planner, there are five AI tools: a lesson plan generator, worksheet generator, multiple-choice quiz generator, text rewriter, and writing feedback tool. These help produce drafts that teachers c",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 23:08:21 +0000",
+      "timestamp": 1790982501.0
+    },
+    {
+      "title": "AI Torture Chamber – Steering LLMs into negative and positive valence states",
+      "link": "https://github.com/login",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 23:04:43 +0000",
+      "timestamp": 1790982283.0
+    },
+    {
+      "title": "LLMs Will Not Replace AI Compilers. They Will Call Them.",
+      "link": "https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 22:57:27 +0000",
+      "timestamp": 1790981847.0
+    },
+    {
+      "title": "An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
+      "link": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 22:20:41 +0000",
+      "timestamp": 1790979641.0
+    },
+    {
+      "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
+      "link": "https://daringfireball.net/2026/10/apple_full_disk_access",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 22:15:58 +0000",
+      "timestamp": 1790979358.0
+    },
+    {
+      "title": "Can You SEO Your Way into an AI Agent's Recommendation?",
+      "link": "https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 22:09:29 +0000",
+      "timestamp": 1790978969.0
+    },
+    {
+      "title": "Show HN: Asked Opus for a video about AI labs and it spit out this weird thing",
+      "link": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 22:08:37 +0000",
+      "timestamp": 1790978917.0
+    },
+    {
+      "title": "Merlean AI",
+      "link": "https://merlean.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 22:08:13 +0000",
+      "timestamp": 1790978893.0
+    },
+    {
+      "title": "Huddo: Instant Shared AI Room",
+      "link": "https://huddo.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 22:07:44 +0000",
+      "timestamp": 1790978864.0
+    },
+    {
+      "title": "Reducing the cognitive load of AI changes",
+      "link": "https://amoffat.github.io/blog/cognitive-load.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 22:06:48 +0000",
+      "timestamp": 1790978808.0
+    },
+    {
+      "title": "Meta stumbled onto a winning AI strategy",
+      "link": "https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 22:05:36 +0000",
+      "timestamp": 1790978736.0
+    },
+    {
+      "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 21:36:16 +0000",
+      "timestamp": 1790976976.0
+    },
+    {
+      "title": "Decide where your AI workload should run (local/edge/cloud)",
+      "link": "https://github.com/Keerthana0309/ai-workload-placement",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 21:19:18 +0000",
+      "timestamp": 1790975958.0
+    },
+    {
+      "title": "Show HN: I build a local archive for AI chats that are hard to export openrouter",
+      "link": "https://github.com/ChrystianSchutz/ThreadShelf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 21:14:08 +0000",
+      "timestamp": 1790975648.0
+    },
+    {
+      "title": "The Sleuths Who Expose When AI Goes Rogue",
+      "link": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 02 Oct 2026 21:11:18 +0000",
+      "timestamp": 1790975478.0
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 02 Oct 2026 21:09:14 +0000",
+      "timestamp": 1790975354.0
+    },
+    {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-02T17:08:37-04:00",
+      "timestamp": 1790975317.0
+    },
     {
       "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
       "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
@@ -291,15 +489,6 @@
       "timestamp": 1790867520.0
     },
     {
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-01T10:36:50-04:00",
-      "timestamp": 1790865410.0
-    },
-    {
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
       "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
       "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
@@ -316,15 +505,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 01 Oct 2026 13:00:00 +0000",
       "timestamp": 1790859600.0
-    },
-    {
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 01 Oct 2026 12:00:00 +0000",
-      "timestamp": 1790856000.0
     },
     {
       "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
