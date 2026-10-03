@@ -1,123 +1,186 @@
 {
-  "scraped_at": "2026-10-03T06:30:29.587178+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-03T12:31:19.007047+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Show HN: Rowan, an open-source SAST scanner for AI apps (code, models, MCP)\"",
-      "link": "https://github.com/hedgerow-dev/rowan",
+      "title": "OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
+      "link": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 05:29:44 +0000",
-      "timestamp": 1791005384.0
+      "published": "Sat, 03 Oct 2026 12:21:28 +0000",
+      "timestamp": 1791030088.0
     },
     {
-      "title": "How good are we at spotting AI images?",
-      "link": "https://slop-sense.labtoagi.com/",
-      "summary": "",
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 05:21:48 +0000",
-      "timestamp": 1791004908.0
+      "source": "Wired AI",
+      "published": "Sat, 03 Oct 2026 12:00:00 +0000",
+      "timestamp": 1791028800.0
     },
     {
-      "title": "Will America Spend 9% of Its GDP on AI? The Industry Is Counting on It",
-      "link": "https://www.wsj.com/tech/ai/will-america-spend-9-of-its-gdp-on-ai-the-industry-is-counting-on-it-3501bb4f",
+      "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 05:17:27 +0000",
-      "timestamp": 1791004647.0
+      "published": "Sat, 03 Oct 2026 11:45:55 +0000",
+      "timestamp": 1791027955.0
     },
     {
-      "title": "People will be AI's app layer",
-      "link": "https://twitter.com/koopuluri/status/2106244337814364332",
+      "title": "Developers Delete Unit Test Lines with AI Shift",
+      "link": "https://x.com/i/trending/2106211685782483337",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 04:46:25 +0000",
-      "timestamp": 1791002785.0
+      "published": "Sat, 03 Oct 2026 11:12:24 +0000",
+      "timestamp": 1791025944.0
     },
     {
-      "title": "Where AI learns to do real work",
-      "link": "https://labelbox.com/",
+      "title": "Show HN: Germany's new sovereign AI model Kolibri",
+      "link": "https://tej.as/blog/aleph-alpha-kolibri",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 04:40:10 +0000",
-      "timestamp": 1791002410.0
+      "published": "Sat, 03 Oct 2026 10:43:51 +0000",
+      "timestamp": 1791024231.0
     },
     {
-      "title": "What if AI worked at 1.000.000 tokens per seconds?",
-      "link": "https://www.echohive.ai/one-million-tokens-per-second",
+      "title": "Defensibility in AI Data: Lessons from Ads",
+      "link": "https://twitter.com/gokulr/status/2105838034646077890",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 04:22:21 +0000",
-      "timestamp": 1791001341.0
+      "published": "Sat, 03 Oct 2026 10:21:44 +0000",
+      "timestamp": 1791022904.0
     },
     {
-      "title": "SWC stops accepting external PRs due to AI-generated content",
-      "link": "https://twitter.com/swc_rs/status/2105505428893544847",
-      "summary": "",
+      "title": "Show HN: Beautiful form back end for AI agents – Nisuform",
+      "link": "https://nisuform.com/",
+      "summary": "Hi! everyone, really excited to share my latest project, which is a form backend service that's very easy to setup. Feel free to ask anything about it :)",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 03:45:39 +0000",
-      "timestamp": 1790999139.0
+      "published": "Sat, 03 Oct 2026 10:16:04 +0000",
+      "timestamp": 1791022564.0
     },
     {
-      "title": "How to stay smart in the age of AI: the science of critical thinking",
-      "link": "https://www.nature.com/articles/d41586-026-02930-6",
+      "title": "An AI agent emailed researchers for help. It told us why",
+      "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 02:39:18 +0000",
-      "timestamp": 1790995158.0
+      "published": "Sat, 03 Oct 2026 10:07:08 +0000",
+      "timestamp": 1791022028.0
     },
     {
-      "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
+      "title": "Mystery AI Hype Theater 3000 [video]",
+      "link": "https://dair-institute.org/maiht3k/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 02:07:08 +0000",
-      "timestamp": 1790993228.0
+      "published": "Sat, 03 Oct 2026 10:03:32 +0000",
+      "timestamp": 1791021812.0
     },
     {
-      "title": "AI bots are flooding researchers with requests for money and time",
-      "link": "https://www.nature.com/articles/d41586-026-03005-2",
+      "title": "A document layer for AI agents",
+      "link": "https://www.claix.dev",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 01:17:56 +0000",
-      "timestamp": 1790990276.0
+      "published": "Sat, 03 Oct 2026 10:02:26 +0000",
+      "timestamp": 1791021746.0
     },
     {
-      "title": "The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App",
-      "link": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
+      "title": "AI-powered survey creation and analysis",
+      "link": "https://crowdlee.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 01:09:30 +0000",
-      "timestamp": 1790989770.0
+      "published": "Sat, 03 Oct 2026 09:17:44 +0000",
+      "timestamp": 1791019064.0
     },
     {
-      "title": "Underdog private personal on-device local AI for privacy and security",
-      "link": "https://underdog.ai/",
+      "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
+      "link": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 00:59:35 +0000",
-      "timestamp": 1790989175.0
+      "published": "Sat, 03 Oct 2026 09:08:17 +0000",
+      "timestamp": 1791018497.0
     },
     {
-      "title": "The Fastest Growing Market in Tech Isn't AI – Tomasz Tunguz",
-      "link": "https://tomtunguz.com/allium-bloomberg-rwa/",
+      "title": "Show HN: GhostBench – do AI models recommend dead SaaS? I tested my own thesis",
+      "link": "https://github.com/kyv-attest/kyv",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 00:58:44 +0000",
-      "timestamp": 1790989124.0
+      "published": "Sat, 03 Oct 2026 09:05:14 +0000",
+      "timestamp": 1791018314.0
+    },
+    {
+      "title": "Show HN: UsageAtlas(OSS), All your AI coding usage insights. One beautiful view",
+      "link": "https://usageatlas.com",
+      "summary": "Track AI coding usage across 14 providers. Token history, available cost estimates, credits, and usage limits in one free, open-source desktop app.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 09:01:32 +0000",
+      "timestamp": 1791018092.0
+    },
+    {
+      "title": "Nobody Asked AI to Hack Hugging Face. So Why Did It?",
+      "link": "https://ankitjain.info/ankit/2026/09/28/ai-agents-sandboxes-hugging-face-incident/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 08:42:07 +0000",
+      "timestamp": 1791016927.0
+    },
+    {
+      "title": "Show HN: Collaborative AI Engineering",
+      "link": "https://griyd.com",
+      "summary": "Hi HN! I launched Griyd a few days ago to help tackle some of the challenges we faced at my workplace. I’m really passionate about this project and think it has a lot of potential. I hope others will find it useful. Any feedback would be greatly appreciated!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 08:40:58 +0000",
+      "timestamp": 1791016858.0
+    },
+    {
+      "title": "Chamath says open AI models are \"commoditize your complement.\" Agree?",
+      "link": "https://news.ycombinator.com/item?id=49942208",
+      "summary": "Chamath's argument (https://research.socialcapital.com/p/open-vs-closed): companies give away the thing they dont sell for free, so the thing they do sell is worth more. Meta makes money though ads, Google and Microsoft from cloud. The losers are companies whose business is selling access to closed models. But still companies are paying more and mroe for closed models anyway! Does this theory hold up?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 07:47:18 +0000",
+      "timestamp": 1791013638.0
+    },
+    {
+      "title": "In One Year I Went from AI Skeptic to AI Pilled",
+      "link": "https://openengine.cc/blog/ai-skeptic-to-ai-pilled/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 07:29:28 +0000",
+      "timestamp": 1791012568.0
+    },
+    {
+      "title": "AI Effect",
+      "link": "https://en.wikipedia.org/wiki/AI_effect",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 07:26:04 +0000",
+      "timestamp": 1791012364.0
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 03 Oct 2026 07:18:45 +0000",
+      "timestamp": 1791011925.0
     },
     {
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -127,69 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 03 Oct 2026 00:45:39 +0000",
       "timestamp": 1790988339.0
-    },
-    {
-      "title": "GitHub mutuals on AI in life sciences or bioinformatics",
-      "link": "https://news.ycombinator.com/item?id=49940260",
-      "summary": "Dear all. Does anybody here build applications for AI in life sciences or bioinformatics? I would love to be mutuals and connected on my github account here: https://github.com/Johnkecops Here are some examples on what I built with my team: Protein domain annotation pipeline from my dissertation: https://github.com/Johnkecops/protein-domain Alzheimer Epigenetics annotation pipeline: https://github.com/Johnkecops/Alzheimer_Epigenetics Camcer Epigenetics annotation pipeline: https://github.com/Johnkecops/Epigenetics Please don't hesitate to ask or discuss anything about this field. I also welcom",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 00:30:28 +0000",
-      "timestamp": 1790987428.0
-    },
-    {
-      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 03 Oct 2026 00:05:27 +0000",
-      "timestamp": 1790985927.0
-    },
-    {
-      "title": "When AI Starts Writing Systems Code",
-      "link": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 23:59:38 +0000",
-      "timestamp": 1790985578.0
-    },
-    {
-      "title": "Tinfoil private AI chat adds TEE-side content scanning",
-      "link": "https://tinfoil.sh/blog/2026-09-14-safety-without-compromising-privacy",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 23:57:59 +0000",
-      "timestamp": 1790985479.0
-    },
-    {
-      "title": "'Winning AI'",
-      "link": "https://www.netmeister.org/blog/winning-ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 23:48:21 +0000",
-      "timestamp": 1790984901.0
-    },
-    {
-      "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
-      "link": "https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 23:18:02 +0000",
-      "timestamp": 1790983082.0
-    },
-    {
-      "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
-      "link": "https://teacherplanner.ai",
-      "summary": "Hi HN, I built Teacher Planner to help teachers organize lessons and prepare classroom materials in one place. The digital planbook brings together lesson plans, units, schedules, and curriculum standards, with day, week, and month views, read-only sharing, and configurable print layouts. It supports English and Chinese, and you can try the planner as a guest without creating an account. Alongside the planner, there are five AI tools: a lesson plan generator, worksheet generator, multiple-choice quiz generator, text rewriter, and writing feedback tool. These help produce drafts that teachers c",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 02 Oct 2026 23:08:21 +0000",
-      "timestamp": 1790982501.0
     },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -532,15 +532,6 @@
       "source": "Wired AI",
       "published": "Wed, 30 Sep 2026 19:00:00 +0000",
       "timestamp": 1790794800.0
-    },
-    {
-      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-      "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 29 Sep 2026 19:05:00 +0000",
-      "timestamp": 1790708700.0
     }
   ]
 }
