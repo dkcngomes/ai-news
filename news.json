@@ -1,186 +1,141 @@
 {
-  "scraped_at": "2026-10-05T09:00:44.465330+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-05T18:25:18.779561+00:00",
+  "count": 40,
   "items": [
     {
-      "title": "Open source didn't get less important because AI can write the code",
-      "link": "https://www.groundcover.com/blog/open-source-ai-naor-peled",
-      "summary": "",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 08:43:31 +0000",
-      "timestamp": 1791189811.0
+      "source": "The Verge AI",
+      "published": "2026-10-05T14:08:39-04:00",
+      "timestamp": 1791223719.0
     },
     {
-      "title": "Show HN: The Velocity Trap, the Phoenix Project for the AI Age",
-      "link": "https://colineberhardt.github.io/the-velocity-trap/",
-      "summary": "I'm taking a bit of a risk with this one, this is a novella I authored with the help of AI. If that offends you, please move on! Everyone on HN knows just how much AI is disrupting our industry. Although, much of the industry narrative focusses on the tools, the AI, the harnesses, and their ever-growing capabilities. We need to spend just as much, if not more time discussing the impact this is having on us. Humans will still be a significant part of the software engineering ‘system’, and many of us are rapidly trying to determine what our role will ultimately be. Storytelling is a great medium",
+      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 08:19:22 +0000",
-      "timestamp": 1791188362.0
+      "source": "TechCrunch AI",
+      "published": "Mon, 05 Oct 2026 17:29:22 +0000",
+      "timestamp": 1791221362.0
     },
     {
-      "title": "Show HN: I built a 3D globe of upcoming AI conferences",
-      "link": "https://aieventsworld.com/en/",
-      "summary": "",
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic. The interruption came [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 07:39:23 +0000",
-      "timestamp": 1791185963.0
+      "source": "The Verge AI",
+      "published": "2026-10-05T12:55:42-04:00",
+      "timestamp": 1791219342.0
     },
     {
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "summary": "",
+      "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI, [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 07:34:12 +0000",
-      "timestamp": 1791185652.0
+      "source": "The Verge AI",
+      "published": "2026-10-05T12:44:21-04:00",
+      "timestamp": 1791218661.0
     },
     {
-      "title": "TypeSafe AI's Jev vs. Perplexity's Decisions API",
-      "link": "https://vercel.com/i/jev-vs-perplexity",
-      "summary": "",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 07:31:16 +0000",
-      "timestamp": 1791185476.0
+      "source": "TechCrunch AI",
+      "published": "Mon, 05 Oct 2026 16:43:35 +0000",
+      "timestamp": 1791218615.0
     },
     {
-      "title": "Novel approach to create AI slop games discovered",
-      "link": "https://somethingbig.ai/gauntlet-loop",
-      "summary": "",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 07:19:01 +0000",
-      "timestamp": 1791184741.0
+      "source": "TechCrunch AI",
+      "published": "Mon, 05 Oct 2026 15:14:24 +0000",
+      "timestamp": 1791213264.0
     },
     {
-      "title": "AI slowdown: why Altman, Amodei and Musk suddenly agree (Ep. 313)",
-      "link": "https://datascienceathome.com/ai-slowdown-why-altman-amodei-musk-suddenly-agree-ep-313/",
-      "summary": "",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 06:05:09 +0000",
-      "timestamp": 1791180309.0
+      "source": "TechCrunch AI",
+      "published": "Mon, 05 Oct 2026 15:00:00 +0000",
+      "timestamp": 1791212400.0
     },
     {
-      "title": "The Hottest Debate in Tech: Ads in AI",
-      "link": "https://www.forbes.com/councils/forbesagencycouncil/2026/04/13/the-hottest-debate-in-tech-ads-in-ai/",
-      "summary": "",
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 05:45:45 +0000",
-      "timestamp": 1791179145.0
+      "source": "TechCrunch AI",
+      "published": "Mon, 05 Oct 2026 14:35:09 +0000",
+      "timestamp": 1791210909.0
     },
     {
-      "title": "Altman: `World should accept some bad things happening' for the benefits of AI",
-      "link": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-      "summary": "",
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 05:17:27 +0000",
-      "timestamp": 1791177447.0
+      "source": "TechCrunch AI",
+      "published": "Mon, 05 Oct 2026 14:30:00 +0000",
+      "timestamp": 1791210600.0
     },
     {
-      "title": "Wikipedia: AI or Not Quiz",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia:AI_or_not_quiz",
-      "summary": "",
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech industry at this moment in [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 04:45:11 +0000",
-      "timestamp": 1791175511.0
+      "source": "The Verge AI",
+      "published": "2026-10-05T10:30:00-04:00",
+      "timestamp": 1791210600.0
     },
     {
-      "title": "The AI industry is booming. Women are getting left behind",
-      "link": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
-      "summary": "",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 04:36:50 +0000",
-      "timestamp": 1791175010.0
+      "source": "TechCrunch AI",
+      "published": "Mon, 05 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791208800.0
     },
     {
-      "title": "Paid.Expert – discover paid expert gigs for training AI",
-      "link": "https://paid.expert",
-      "summary": "",
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 04:32:25 +0000",
-      "timestamp": 1791174745.0
+      "source": "The Verge AI",
+      "published": "2026-10-05T09:47:14-04:00",
+      "timestamp": 1791208034.0
     },
     {
-      "title": "The AI Safety community is unfortunately doing more harm than good",
-      "link": "https://twitter.com/knowerofmarkets/status/2105330652732125602",
-      "summary": "",
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 03:35:54 +0000",
-      "timestamp": 1791171354.0
+      "source": "The Verge AI",
+      "published": "2026-10-05T09:09:48-04:00",
+      "timestamp": 1791205788.0
     },
     {
-      "title": "Postgres: Are we reverting patches because of bugs found by AI?",
-      "link": "https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/",
-      "summary": "",
+      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 03:27:36 +0000",
-      "timestamp": 1791170856.0
+      "source": "TechCrunch AI",
+      "published": "Mon, 05 Oct 2026 12:00:00 +0000",
+      "timestamp": 1791201600.0
     },
     {
-      "title": "How is your country doing on \"AI inside Drones\"?",
-      "link": "https://dronegpt.ai/",
-      "summary": "",
+      "title": "Our minds aren’t equipped to handle AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 03:24:47 +0000",
-      "timestamp": 1791170687.0
-    },
-    {
-      "title": "Calling AI 'other intelligence' better describes the advent of a new lifeform",
-      "link": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 03:23:12 +0000",
-      "timestamp": 1791170592.0
-    },
-    {
-      "title": "Turbomail.ai – AI email that lives on your device, not theirs",
-      "link": "https://turbomail.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 02:46:03 +0000",
-      "timestamp": 1791168363.0
-    },
-    {
-      "title": "OptChat: An endless chat where the AI remembers everything",
-      "link": "https://gist.github.com/VictorTaelin/91837951a5ce5b38f341ec1ba1df6449",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 02:44:17 +0000",
-      "timestamp": 1791168257.0
-    },
-    {
-      "title": "Building a new path to make medicines with AI",
-      "link": "https://www.isomorphiclabs.com/articles/building-a-new-path-to-make-medicines-with-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 02:32:27 +0000",
-      "timestamp": 1791167547.0
-    },
-    {
-      "title": "BanProof – AI that scans TikTok Shop videos for violation points before you post",
-      "link": "https://banproof.io/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 02:12:19 +0000",
-      "timestamp": 1791166339.0
+      "source": "The Verge AI",
+      "published": "2026-10-05T06:00:00-04:00",
+      "timestamp": 1791194400.0
     },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
@@ -273,24 +228,6 @@
       "timestamp": 1791045001.0
     },
     {
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-03T11:00:00-04:00",
-      "timestamp": 1791039600.0
-    },
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-03T10:31:56-04:00",
-      "timestamp": 1791037916.0
-    },
-    {
       "title": "All the AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -327,24 +264,6 @@
       "timestamp": 1790975354.0
     },
     {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-02T17:08:37-04:00",
-      "timestamp": 1790975317.0
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-02T16:08:40-04:00",
-      "timestamp": 1790971720.0
-    },
-    {
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
       "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
@@ -361,15 +280,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 02 Oct 2026 18:11:27 +0000",
       "timestamp": 1790964687.0
-    },
-    {
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-02T14:00:00-04:00",
-      "timestamp": 1790964000.0
     },
     {
       "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
@@ -390,33 +300,6 @@
       "timestamp": 1790963296.0
     },
     {
-      "title": "Breaking up (with Elon Musk) is hard to do",
-      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-02T13:37:36-04:00",
-      "timestamp": 1790962656.0
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 02 Oct 2026 17:32:05 +0000",
-      "timestamp": 1790962325.0
-    },
-    {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 02 Oct 2026 17:00:00 +0000",
-      "timestamp": 1790960400.0
-    },
-    {
       "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
       "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
       "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
@@ -426,15 +309,6 @@
       "timestamp": 1790956800.0
     },
     {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 02 Oct 2026 15:39:41 +0000",
-      "timestamp": 1790955581.0
-    },
-    {
       "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
       "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
       "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
@@ -442,33 +316,6 @@
       "source": "Wired AI",
       "published": "Fri, 02 Oct 2026 15:00:00 +0000",
       "timestamp": 1790953200.0
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 02 Oct 2026 14:30:00 +0000",
-      "timestamp": 1790951400.0
-    },
-    {
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 02 Oct 2026 14:00:00 +0000",
-      "timestamp": 1790949600.0
-    },
-    {
-      "title": "AI hallucinations are making entitled customers even worse",
-      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-02T08:00:00-04:00",
-      "timestamp": 1790942400.0
     },
     {
       "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
@@ -498,15 +345,6 @@
       "timestamp": 1790892642.0
     },
     {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 01 Oct 2026 21:08:11 +0000",
-      "timestamp": 1790888891.0
-    },
-    {
       "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
       "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
@@ -514,24 +352,6 @@
       "source": "Wired AI",
       "published": "Thu, 01 Oct 2026 19:58:31 +0000",
       "timestamp": 1790884711.0
-    },
-    {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 01 Oct 2026 19:21:53 +0000",
-      "timestamp": 1790882513.0
-    },
-    {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 01 Oct 2026 19:18:03 +0000",
-      "timestamp": 1790882283.0
     },
     {
       "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
