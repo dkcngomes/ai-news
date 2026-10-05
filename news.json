@@ -1,177 +1,186 @@
 {
-  "scraped_at": "2026-10-05T01:58:39.490643+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-05T09:00:44.465330+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "L402 edge cache for AI agents paying over Lightning",
-      "link": "https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp",
+      "title": "Open source didn't get less important because AI can write the code",
+      "link": "https://www.groundcover.com/blog/open-source-ai-naor-peled",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 01:29:00 +0000",
-      "timestamp": 1791163740.0
+      "published": "Mon, 05 Oct 2026 08:43:31 +0000",
+      "timestamp": 1791189811.0
     },
     {
-      "title": "Primitives for Sane Conversation About AI",
-      "link": "https://humanparadox.org/primitives-for-sane-conversation-about-ai/",
+      "title": "Show HN: The Velocity Trap, the Phoenix Project for the AI Age",
+      "link": "https://colineberhardt.github.io/the-velocity-trap/",
+      "summary": "I'm taking a bit of a risk with this one, this is a novella I authored with the help of AI. If that offends you, please move on! Everyone on HN knows just how much AI is disrupting our industry. Although, much of the industry narrative focusses on the tools, the AI, the harnesses, and their ever-growing capabilities. We need to spend just as much, if not more time discussing the impact this is having on us. Humans will still be a significant part of the software engineering ‘system’, and many of us are rapidly trying to determine what our role will ultimately be. Storytelling is a great medium",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 05 Oct 2026 08:19:22 +0000",
+      "timestamp": 1791188362.0
+    },
+    {
+      "title": "Show HN: I built a 3D globe of upcoming AI conferences",
+      "link": "https://aieventsworld.com/en/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 01:13:27 +0000",
-      "timestamp": 1791162807.0
+      "published": "Mon, 05 Oct 2026 07:39:23 +0000",
+      "timestamp": 1791185963.0
     },
     {
-      "title": "Fix Your AI Slop Problem by Giving Reviewers Credit",
-      "link": "https://danunparsed.com/p/giving-code-reviewers-credit",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 01:06:07 +0000",
-      "timestamp": 1791162367.0
+      "published": "Mon, 05 Oct 2026 07:34:12 +0000",
+      "timestamp": 1791185652.0
     },
     {
-      "title": "Military AI and autonomous systems: views in The Strategist",
-      "link": "https://www.aspistrategist.org.au/military-ai-and-autonomous-systems-views-in-the-strategist/",
+      "title": "TypeSafe AI's Jev vs. Perplexity's Decisions API",
+      "link": "https://vercel.com/i/jev-vs-perplexity",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 00:38:47 +0000",
-      "timestamp": 1791160727.0
+      "published": "Mon, 05 Oct 2026 07:31:16 +0000",
+      "timestamp": 1791185476.0
     },
     {
-      "title": "Can AI run an family/organization if so for who?",
-      "link": "https://cahootzcommons.com/blog/ai-can-run-an-organization-its-members-must-decide-who-the-organization-is-for",
+      "title": "Novel approach to create AI slop games discovered",
+      "link": "https://somethingbig.ai/gauntlet-loop",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 00:13:28 +0000",
-      "timestamp": 1791159208.0
+      "published": "Mon, 05 Oct 2026 07:19:01 +0000",
+      "timestamp": 1791184741.0
     },
     {
-      "title": "Show HN: The Poteto Frontier for AI Agents",
-      "link": "https://poteto-frontier.vercel.app/",
-      "summary": "I made this lil meme app based on @poteto (lauren tan)'s amazing talk asking: how many agents do you generally have working on your behalf? her original talk: https://x.com/poteto/status/2102050467505430555 source: https://github.com/transitive-bullshit/poteto-frontier",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 00:03:12 +0000",
-      "timestamp": 1791158592.0
-    },
-    {
-      "title": "Linux 7.3-Rc6 Released: Normal for the New \"AI Normal\"",
-      "link": "https://www.phoronix.com/news/Linux-7.3-rc6-Released",
+      "title": "AI slowdown: why Altman, Amodei and Musk suddenly agree (Ep. 313)",
+      "link": "https://datascienceathome.com/ai-slowdown-why-altman-amodei-musk-suddenly-agree-ep-313/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 23:46:01 +0000",
-      "timestamp": 1791157561.0
+      "published": "Mon, 05 Oct 2026 06:05:09 +0000",
+      "timestamp": 1791180309.0
     },
     {
-      "title": "Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool",
-      "link": "https://redactpdf.ai",
+      "title": "The Hottest Debate in Tech: Ads in AI",
+      "link": "https://www.forbes.com/councils/forbesagencycouncil/2026/04/13/the-hottest-debate-in-tech-ads-in-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 23:18:17 +0000",
-      "timestamp": 1791155897.0
+      "published": "Mon, 05 Oct 2026 05:45:45 +0000",
+      "timestamp": 1791179145.0
     },
     {
-      "title": "Our AI Agents Should Pay the People Who Help Them",
-      "link": "https://danielmiessler.com/blog/agents-should-pay-creators",
+      "title": "Altman: `World should accept some bad things happening' for the benefits of AI",
+      "link": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 22:38:32 +0000",
-      "timestamp": 1791153512.0
+      "published": "Mon, 05 Oct 2026 05:17:27 +0000",
+      "timestamp": 1791177447.0
     },
     {
-      "title": "Muse AI on Xteink X3 E-reader",
-      "link": "https://charoori.com/blog/muse-on-xteink-x3/",
+      "title": "Wikipedia: AI or Not Quiz",
+      "link": "https://en.wikipedia.org/wiki/Wikipedia:AI_or_not_quiz",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 22:10:15 +0000",
-      "timestamp": 1791151815.0
+      "published": "Mon, 05 Oct 2026 04:45:11 +0000",
+      "timestamp": 1791175511.0
     },
     {
-      "title": "Ask HN: Mainstream media overplaying the threat of AI, or industry underplaying?",
-      "link": "https://news.ycombinator.com/item?id=49958383",
-      "summary": "When I turn on any mainstream media I feel as though I only hear AI discussed in the apocalyptic terms. Then when I “switch” to industry media I only hear it discussed glowing, all the things breakthroughs will allow. Both sides have countless reasons to take extreme positions (ratings/clicks, regulatory capture, votes, valuations, illusions of grandeurs, groupthink just to name a few) So how does one find the middle ground and communicate it to those whose get their worldview from either side? (Side note - in hindsight this has incredible similarities to the pandemic era)",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 22:06:42 +0000",
-      "timestamp": 1791151602.0
-    },
-    {
-      "title": "AI Backers Sound the Alarm About Safety",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety",
+      "title": "The AI industry is booming. Women are getting left behind",
+      "link": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 22:05:24 +0000",
-      "timestamp": 1791151524.0
+      "published": "Mon, 05 Oct 2026 04:36:50 +0000",
+      "timestamp": 1791175010.0
     },
     {
-      "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-      "link": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
+      "title": "Paid.Expert – discover paid expert gigs for training AI",
+      "link": "https://paid.expert",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 22:03:41 +0000",
-      "timestamp": 1791151421.0
+      "published": "Mon, 05 Oct 2026 04:32:25 +0000",
+      "timestamp": 1791174745.0
     },
     {
-      "title": "Donate AI Tokens for Open Source Projects",
-      "link": "https://moochy.dev",
+      "title": "The AI Safety community is unfortunately doing more harm than good",
+      "link": "https://twitter.com/knowerofmarkets/status/2105330652732125602",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 21:38:33 +0000",
-      "timestamp": 1791149913.0
+      "published": "Mon, 05 Oct 2026 03:35:54 +0000",
+      "timestamp": 1791171354.0
     },
     {
-      "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
-      "link": "https://news.ycombinator.com/item?id=49957917",
-      "summary": "As any scripture is some sort of \"manual\" for each belief, and also assists in domestication of followers of religion, what prevents AI to eventually produce a version 2.0 for each major religion, this time modified to support its \"own\" objectives?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 21:10:56 +0000",
-      "timestamp": 1791148256.0
-    },
-    {
-      "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
-      "link": "https://github.com/bluebear-io/baloo-bear",
+      "title": "Postgres: Are we reverting patches because of bugs found by AI?",
+      "link": "https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 21:01:45 +0000",
-      "timestamp": 1791147705.0
+      "published": "Mon, 05 Oct 2026 03:27:36 +0000",
+      "timestamp": 1791170856.0
     },
     {
-      "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
-      "link": "https://recly.dev/",
+      "title": "How is your country doing on \"AI inside Drones\"?",
+      "link": "https://dronegpt.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 20:52:38 +0000",
-      "timestamp": 1791147158.0
+      "published": "Mon, 05 Oct 2026 03:24:47 +0000",
+      "timestamp": 1791170687.0
     },
     {
-      "title": "Let's compete with China on AI social impact",
-      "link": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
+      "title": "Calling AI 'other intelligence' better describes the advent of a new lifeform",
+      "link": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 20:45:18 +0000",
-      "timestamp": 1791146718.0
+      "published": "Mon, 05 Oct 2026 03:23:12 +0000",
+      "timestamp": 1791170592.0
     },
     {
-      "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+      "title": "Turbomail.ai – AI email that lives on your device, not theirs",
+      "link": "https://turbomail.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 20:38:10 +0000",
-      "timestamp": 1791146290.0
+      "published": "Mon, 05 Oct 2026 02:46:03 +0000",
+      "timestamp": 1791168363.0
+    },
+    {
+      "title": "OptChat: An endless chat where the AI remembers everything",
+      "link": "https://gist.github.com/VictorTaelin/91837951a5ce5b38f341ec1ba1df6449",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 05 Oct 2026 02:44:17 +0000",
+      "timestamp": 1791168257.0
+    },
+    {
+      "title": "Building a new path to make medicines with AI",
+      "link": "https://www.isomorphiclabs.com/articles/building-a-new-path-to-make-medicines-with-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 05 Oct 2026 02:32:27 +0000",
+      "timestamp": 1791167547.0
+    },
+    {
+      "title": "BanProof – AI that scans TikTok Shop videos for violation points before you post",
+      "link": "https://banproof.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 05 Oct 2026 02:12:19 +0000",
+      "timestamp": 1791166339.0
     },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
