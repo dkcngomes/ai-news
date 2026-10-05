@@ -1,7 +1,79 @@
 {
-  "scraped_at": "2026-10-04T23:07:22.685129+00:00",
+  "scraped_at": "2026-10-05T01:58:39.490643+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "L402 edge cache for AI agents paying over Lightning",
+      "link": "https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 05 Oct 2026 01:29:00 +0000",
+      "timestamp": 1791163740.0
+    },
+    {
+      "title": "Primitives for Sane Conversation About AI",
+      "link": "https://humanparadox.org/primitives-for-sane-conversation-about-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 05 Oct 2026 01:13:27 +0000",
+      "timestamp": 1791162807.0
+    },
+    {
+      "title": "Fix Your AI Slop Problem by Giving Reviewers Credit",
+      "link": "https://danunparsed.com/p/giving-code-reviewers-credit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 05 Oct 2026 01:06:07 +0000",
+      "timestamp": 1791162367.0
+    },
+    {
+      "title": "Military AI and autonomous systems: views in The Strategist",
+      "link": "https://www.aspistrategist.org.au/military-ai-and-autonomous-systems-views-in-the-strategist/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 05 Oct 2026 00:38:47 +0000",
+      "timestamp": 1791160727.0
+    },
+    {
+      "title": "Can AI run an family/organization if so for who?",
+      "link": "https://cahootzcommons.com/blog/ai-can-run-an-organization-its-members-must-decide-who-the-organization-is-for",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 05 Oct 2026 00:13:28 +0000",
+      "timestamp": 1791159208.0
+    },
+    {
+      "title": "Show HN: The Poteto Frontier for AI Agents",
+      "link": "https://poteto-frontier.vercel.app/",
+      "summary": "I made this lil meme app based on @poteto (lauren tan)'s amazing talk asking: how many agents do you generally have working on your behalf? her original talk: https://x.com/poteto/status/2102050467505430555 source: https://github.com/transitive-bullshit/poteto-frontier",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 05 Oct 2026 00:03:12 +0000",
+      "timestamp": 1791158592.0
+    },
+    {
+      "title": "Linux 7.3-Rc6 Released: Normal for the New \"AI Normal\"",
+      "link": "https://www.phoronix.com/news/Linux-7.3-rc6-Released",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 04 Oct 2026 23:46:01 +0000",
+      "timestamp": 1791157561.0
+    },
+    {
+      "title": "Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool",
+      "link": "https://redactpdf.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 04 Oct 2026 23:18:17 +0000",
+      "timestamp": 1791155897.0
+    },
     {
       "title": "Our AI Agents Should Pay the People Who Help Them",
       "link": "https://danielmiessler.com/blog/agents-should-pay-creators",
@@ -111,24 +183,6 @@
       "timestamp": 1791145867.0
     },
     {
-      "title": "AI is making ambition feel pointless [video]",
-      "link": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 20:28:17 +0000",
-      "timestamp": 1791145697.0
-    },
-    {
-      "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
-      "link": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 20:19:38 +0000",
-      "timestamp": 1791145178.0
-    },
-    {
       "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
       "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
       "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
@@ -136,60 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 04 Oct 2026 20:08:34 +0000",
       "timestamp": 1791144514.0
-    },
-    {
-      "title": "The Illusion of AI Productivity: Go Frame the House",
-      "link": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 20:06:28 +0000",
-      "timestamp": 1791144388.0
-    },
-    {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/ , https://www.theregister.com/networks/2026/10/01/stanford-pro...",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 19:42:25 +0000",
-      "timestamp": 1791142945.0
-    },
-    {
-      "title": "Project is co-curated with AI",
-      "link": "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 19:35:24 +0000",
-      "timestamp": 1791142524.0
-    },
-    {
-      "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
-      "link": "https://www.finebytes.com/mfr/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 19:29:28 +0000",
-      "timestamp": 1791142168.0
-    },
-    {
-      "title": "Big Bad Wolf: AI doesn't break security, it reprices it",
-      "link": "https://salivan.substack.com/p/big-bad-wolf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 19:28:10 +0000",
-      "timestamp": 1791142090.0
-    },
-    {
-      "title": "Show HN: Ranking the most AI agent friendly tools",
-      "link": "https://www.anchorterminal.com/tools/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 04 Oct 2026 19:09:49 +0000",
-      "timestamp": 1791140989.0
     },
     {
       "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
