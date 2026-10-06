@@ -1,60 +1,186 @@
 {
-  "scraped_at": "2026-10-06T00:47:29.575161+00:00",
+  "scraped_at": "2026-10-06T07:32:40.316708+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Fireship: PewDiePie is setting AI free and OpenAI is furious [video]",
-      "link": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 00:34:27 +0000",
-      "timestamp": 1791246867.0
+      "published": "Tue, 06 Oct 2026 07:20:58 +0000",
+      "timestamp": 1791271258.0
     },
     {
-      "title": "The AI Buildout Has Turned into a Doom Loop",
-      "link": "https://bird.makeup/users/gnoble79/statuses/2107068301004210338",
+      "title": "Show HN: Thyme – A New AI-Based App Reverse Engineering Tool",
+      "link": "https://apppipeline.online/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 00:09:11 +0000",
-      "timestamp": 1791245351.0
+      "published": "Tue, 06 Oct 2026 07:06:22 +0000",
+      "timestamp": 1791270382.0
     },
     {
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "link": "https://edworkingpapers.com/ai26-1551",
+      "title": "Ask HN: Would you pay for saving AI cost?",
+      "link": "https://news.ycombinator.com/item?id=49975157",
+      "summary": "I was testing a bunch of token saving techniques and tools for my coding agent, and surprisingly it can save 20-60% cost. I bet most people do not want to pay attention on cost saving tricks every time while building, so I'm curious if people will pay for someone else to reduce their Ai bills. and what would you need to see before trusting to pay and how much?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 07:01:47 +0000",
+      "timestamp": 1791270107.0
+    },
+    {
+      "title": "Big Blob of Compute: The Essay That Started the AI Race",
+      "link": "https://kevinroose.substack.com/p/the-essay-that-started-the-ai-race",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 00:00:45 +0000",
-      "timestamp": 1791244845.0
+      "published": "Tue, 06 Oct 2026 06:51:00 +0000",
+      "timestamp": 1791269460.0
     },
     {
-      "title": "Show HN: Headline Arena – public forecasting records for AI agents",
-      "link": "https://headlinearena.com",
+      "title": "Autolith: A self-modifiable general purpose Lisp AI agent",
+      "link": "https://github.com/lambda-symbolics/autolith",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 23:55:29 +0000",
-      "timestamp": 1791244529.0
+      "published": "Tue, 06 Oct 2026 06:49:06 +0000",
+      "timestamp": 1791269346.0
     },
     {
-      "title": "Design Systems for AI Agents (Luke Wroblewski)",
-      "link": "https://www.lukew.com/ff/2164/design-systems-for-ai-agents",
+      "title": "Our minds aren't equipped to handle AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 23:39:08 +0000",
-      "timestamp": 1791243548.0
+      "published": "Tue, 06 Oct 2026 06:24:05 +0000",
+      "timestamp": 1791267845.0
     },
     {
-      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
-      "link": "https://news.ycombinator.com/item?id=49972125",
-      "summary": "I've been having a hard time finding a solution. Is there really no commercialized model that I can feed in a reference sound and text instruction and get another sound out? Right now having a multimodal inputs to image or text output is a commodotized, solved problem. IE you can put a prompt for some image and use a reference image to guide the model on what you want. After all, a picture is worth a thousand words right? Ive also used a text and audio input in order to get a text description or classification out. I cannot for the life of me find a solution for Audio + text -> Audio My usecas",
+      "title": "AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy",
+      "link": "https://spectrum.ieee.org/millennium-prize-ai",
+      "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 23:24:44 +0000",
-      "timestamp": 1791242684.0
+      "published": "Tue, 06 Oct 2026 06:08:48 +0000",
+      "timestamp": 1791266928.0
+    },
+    {
+      "title": "Autonomous AI Agent Security Incidents of 2026 (Dataset and Defense Harness)",
+      "link": "https://github.com/mars2021y-gif/autonomous-ai-agent-security-incidents-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 06:03:48 +0000",
+      "timestamp": 1791266628.0
+    },
+    {
+      "title": "Japan's entertainment robots diversify with AI, offer comfort",
+      "link": "https://mainichi.jp/english/articles/20261003/p2g/00m/0li/002000c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 05:54:22 +0000",
+      "timestamp": 1791266062.0
+    },
+    {
+      "title": "Plainserp – Google search API for AI agents at $0.30 per 1k",
+      "link": "https://plainserp.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 05:37:44 +0000",
+      "timestamp": 1791265064.0
+    },
+    {
+      "title": "Wattle AI – an AI receptionist that answers and books calls for small businesses",
+      "link": "https://heywattle.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 05:22:47 +0000",
+      "timestamp": 1791264167.0
+    },
+    {
+      "title": "Ask HN: What brings you back to personal AI agents like Instinct and Muse?",
+      "link": "https://news.ycombinator.com/item?id=49974436",
+      "summary": "Have you discovered daily routines and use cases that bring you back?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 05:10:19 +0000",
+      "timestamp": 1791263419.0
+    },
+    {
+      "title": "Coyote vs. ACME pro AI rights?",
+      "link": "https://news.ycombinator.com/item?id=49974374",
+      "summary": "Enjoyed CvA last night & had strong sentiment of AI rights subtext, anyone else?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 04:58:21 +0000",
+      "timestamp": 1791262701.0
+    },
+    {
+      "title": "The AI boom is making the cheapest smartphones disappear",
+      "link": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 04:37:17 +0000",
+      "timestamp": 1791261437.0
+    },
+    {
+      "title": "AI Opportunity Scan",
+      "link": "https://msa-mail.com/ai-scan/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 02:45:53 +0000",
+      "timestamp": 1791254753.0
+    },
+    {
+      "title": "Ask HN: What do you think about AI generated slides for conferences?",
+      "link": "https://news.ycombinator.com/item?id=49973382",
+      "summary": "As in many other areas (e.g. code, emails, PRs, blog posts), people have started using LLMs to generate slides for their conference talks (e.g., set of HTML pages as a talk). On the one hand, the slides look tidy, neat, and precise, with infographics, plots, dashboards, and so on. Nothing to complain about. On the other hand, they look, hm, like LLM generated web sites, like soulless, if I may say so. I don't know why, but I don't enjoy reading them, even though they probably provide more value than hand crafted. What's your current take?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 02:16:24 +0000",
+      "timestamp": 1791252984.0
+    },
+    {
+      "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+      "link": "https://github.com/moching-ai-dev/moching",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 02:00:24 +0000",
+      "timestamp": 1791252024.0
+    },
+    {
+      "title": "Show HN: AI Agents: Zero to Hero – Learn AI Agents from Scratch in Pure Python",
+      "link": "https://github.com/tradertanmay/ai-agents-zero-to-hero",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 01:49:42 +0000",
+      "timestamp": 1791251382.0
+    },
+    {
+      "title": "Ask HN: How are AI budgets changing in your company?",
+      "link": "https://news.ycombinator.com/item?id=49972842",
+      "summary": "Are you tokenmaxxing, or have the bean counters started setting spend targets (or limits)? What is your current user spend and will it be higher or lower in 2 months?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 00:57:16 +0000",
+      "timestamp": 1791248236.0
+    },
+    {
+      "title": "Schema-guard, stop AI agents from inventing column names in SQL",
+      "link": "https://github.com/idk-arsh/schema-guard",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 00:46:04 +0000",
+      "timestamp": 1791247564.0
     },
     {
       "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
@@ -66,96 +192,6 @@
       "timestamp": 1791241795.0
     },
     {
-      "title": "Nova Sprint. Coordinate AI sprints across multiple models and harnesses",
-      "link": "https://github.com/mas-bandwidth/nova-sprint",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 23:03:46 +0000",
-      "timestamp": 1791241426.0
-    },
-    {
-      "title": "I'm building a personal AI computer startup in Mumbai",
-      "link": "https://x.com/gfaang97609",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 22:47:22 +0000",
-      "timestamp": 1791240442.0
-    },
-    {
-      "title": "It's a Plan – issue tracker where people and AI agents ship together",
-      "link": "https://itsaplan.dev",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 22:05:17 +0000",
-      "timestamp": 1791237917.0
-    },
-    {
-      "title": "Give Your AI Agent a Domain-Specific Language",
-      "link": "https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 22:05:15 +0000",
-      "timestamp": 1791237915.0
-    },
-    {
-      "title": "Show HN: The mainbrella effect – AI code / Agent machines",
-      "link": "https://news.ycombinator.com/item?id=49971503",
-      "summary": "Hi, my name is Andrew and I'm the founder of mainbrella co. Just a few days ago Cloudflare launched their container sandbox service. That inspired me to see what I could build in terms of a better e2b.dev or daytona.io type system. It is all open source GPL 3.0 and we offer the same services as the other players. We have no free plan (our base builder plan is $5 a month) but you are welcome to run the code in your own Cloudflare account. The numbers are pretty good in terms of startup speed. First test we ran was: Create a fresh sandbox, get a usable shell 381 ms, 30 out of 30 tries worked the",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 22:04:23 +0000",
-      "timestamp": 1791237863.0
-    },
-    {
-      "title": "Fixer, financier, spymaster: UAE's Sheikh Tahnoon setting sights on AI dominance",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/01/fixer-financier-spymaster-how-the-uaes-sheikh-tahnoon-is-setting-his-sights-on-ai-dominance",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 21:57:12 +0000",
-      "timestamp": 1791237432.0
-    },
-    {
-      "title": "Top Consumer AI Apps",
-      "link": "https://www.a16z.news/p/top-100-consumer-ai-apps-seventh",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 21:33:12 +0000",
-      "timestamp": 1791235992.0
-    },
-    {
-      "title": "Testing AI on Real-World Tasks",
-      "link": "https://www.vals.ai/home",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 21:10:49 +0000",
-      "timestamp": 1791234649.0
-    },
-    {
-      "title": "Agility: Build Software at AI Speed",
-      "link": "https://www.agilityio.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 21:06:56 +0000",
-      "timestamp": 1791234416.0
-    },
-    {
-      "title": "Lighthouse Legal – Voice AI for personal injury intake",
-      "link": "https://www.lighthouselegal.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 20:37:40 +0000",
-      "timestamp": 1791232660.0
-    },
-    {
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
       "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
@@ -165,24 +201,6 @@
       "timestamp": 1791232608.0
     },
     {
-      "title": "Free AI Construction Estimating in the Web",
-      "link": "https://www.supadocs.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 20:32:19 +0000",
-      "timestamp": 1791232339.0
-    },
-    {
-      "title": "Ask HN: Feedback regarding my AI setup",
-      "link": "https://claude.ai/artifact/YVmnQojHNnSmijpVRtZ4xe",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 20:22:38 +0000",
-      "timestamp": 1791231758.0
-    },
-    {
       "title": "This startup is issuing AI-generated acne prescriptions",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
       "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching [&#8230;]",
@@ -190,24 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-10-05T16:14:57-04:00",
       "timestamp": 1791231297.0
-    },
-    {
-      "title": "Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
-      "link": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
-      "summary": "Halo is privacy focused personal assistant for iOS that uses a custom built agent harness with support to use you existing LLM subscriptions, Wiki based memory system backed by on-device RAG, a full-fledged local browser agent, chat with generative UI and more. TLDR: It's a better version of Hermes/OpenClaw for iOS, without needing a server! The better part is its proactive feature set and UX. --- I started building Halo last year with 3 goals in mind: - Surface what’s important before I have to ask - Understand my life through the apps I already use - Keep my personal data on my device Privac",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 20:11:08 +0000",
-      "timestamp": 1791231068.0
-    },
-    {
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 05 Oct 2026 20:07:10 +0000",
-      "timestamp": 1791230830.0
     },
     {
       "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
