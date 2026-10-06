@@ -1,51 +1,60 @@
 {
-  "scraped_at": "2026-10-06T07:32:40.316708+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-06T15:08:56.924126+00:00",
+  "count": 58,
   "items": [
     {
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "title": "Show HN: Scrbbl – Underline your handwritten notes on iPad to get AI answers",
+      "link": "https://github.com/AdamProbolsky/scrbbl",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 07:20:58 +0000",
-      "timestamp": 1791271258.0
+      "published": "Tue, 06 Oct 2026 14:55:45 +0000",
+      "timestamp": 1791298545.0
     },
     {
-      "title": "Show HN: Thyme – A New AI-Based App Reverse Engineering Tool",
-      "link": "https://apppipeline.online/",
+      "title": "TasteVal: Does AI have research taste?",
+      "link": "https://pzeroresearch.com/work/tasteval/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 07:06:22 +0000",
-      "timestamp": 1791270382.0
+      "published": "Tue, 06 Oct 2026 14:52:21 +0000",
+      "timestamp": 1791298341.0
     },
     {
-      "title": "Ask HN: Would you pay for saving AI cost?",
-      "link": "https://news.ycombinator.com/item?id=49975157",
-      "summary": "I was testing a bunch of token saving techniques and tools for my coding agent, and surprisingly it can save 20-60% cost. I bet most people do not want to pay attention on cost saving tricks every time while building, so I'm curious if people will pay for someone else to reduce their Ai bills. and what would you need to see before trusting to pay and how much?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 07:01:47 +0000",
-      "timestamp": 1791270107.0
-    },
-    {
-      "title": "Big Blob of Compute: The Essay That Started the AI Race",
-      "link": "https://kevinroose.substack.com/p/the-essay-that-started-the-ai-race",
+      "title": "AI Is Now Si: Super Intelligence Isn't Superior",
+      "link": "https://tej.as/blog/super-intelligence-isnt-superior",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 06:51:00 +0000",
-      "timestamp": 1791269460.0
+      "published": "Tue, 06 Oct 2026 14:48:54 +0000",
+      "timestamp": 1791298134.0
     },
     {
-      "title": "Autolith: A self-modifiable general purpose Lisp AI agent",
-      "link": "https://github.com/lambda-symbolics/autolith",
+      "title": "Show HN: Langgraph-harness - self-hosted AI agent for GitLab merge requests",
+      "link": "https://github.com/vrajpal-jhala/langgraph-harness",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 06:49:06 +0000",
-      "timestamp": 1791269346.0
+      "published": "Tue, 06 Oct 2026 14:45:45 +0000",
+      "timestamp": 1791297945.0
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 14:35:22 +0000",
+      "timestamp": 1791297322.0
+    },
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 06 Oct 2026 14:33:16 +0000",
+      "timestamp": 1791297196.0
     },
     {
       "title": "Our minds aren't equipped to handle AI",
@@ -53,134 +62,188 @@
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 06:24:05 +0000",
-      "timestamp": 1791267845.0
+      "published": "Tue, 06 Oct 2026 14:32:02 +0000",
+      "timestamp": 1791297122.0
     },
     {
-      "title": "AI Solves a Major Unsolved Math Problem. Not Everyone Is Happy",
-      "link": "https://spectrum.ieee.org/millennium-prize-ai",
+      "title": "JumpStar is the world's strongest AI engine for Chinese Checkers",
+      "link": "https://chinesecheckers.ai/chinese-checkers-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 06:08:48 +0000",
-      "timestamp": 1791266928.0
+      "published": "Tue, 06 Oct 2026 14:28:56 +0000",
+      "timestamp": 1791296936.0
     },
     {
-      "title": "Autonomous AI Agent Security Incidents of 2026 (Dataset and Defense Harness)",
-      "link": "https://github.com/mars2021y-gif/autonomous-ai-agent-security-incidents-2026",
+      "title": "Show HN: RigMark benchmarks local AI the way coding agents use it",
+      "link": "https://github.com/alexellis/rigmark",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 06:03:48 +0000",
-      "timestamp": 1791266628.0
+      "published": "Tue, 06 Oct 2026 14:25:25 +0000",
+      "timestamp": 1791296725.0
     },
     {
-      "title": "Japan's entertainment robots diversify with AI, offer comfort",
-      "link": "https://mainichi.jp/english/articles/20261003/p2g/00m/0li/002000c",
+      "title": "Show HN: Bringing a Billy Bass to Life with AI",
+      "link": "https://twitter.com/MorgantWillis/status/2107463928196247843",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 05:54:22 +0000",
-      "timestamp": 1791266062.0
+      "published": "Tue, 06 Oct 2026 14:24:34 +0000",
+      "timestamp": 1791296674.0
     },
     {
-      "title": "Plainserp – Google search API for AI agents at $0.30 per 1k",
-      "link": "https://plainserp.com",
+      "title": "Show HN: Orbtile – See which AI coding agent needs you, on a Logitech keypad",
+      "link": "https://orbtile.com/?s=hn",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 05:37:44 +0000",
-      "timestamp": 1791265064.0
+      "published": "Tue, 06 Oct 2026 14:24:16 +0000",
+      "timestamp": 1791296656.0
     },
     {
-      "title": "Wattle AI – an AI receptionist that answers and books calls for small businesses",
-      "link": "https://heywattle.com",
+      "title": "NewsGuard Launches First AI Chatbot Built to Deliver Trusted Journalism",
+      "link": "https://www.newsguardtech.com/press/newsguard-launches-first-ai-chatbot-built-to-deliver-trusted-journalism-only-from-reliable-news-websites/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 05:22:47 +0000",
-      "timestamp": 1791264167.0
+      "published": "Tue, 06 Oct 2026 14:18:04 +0000",
+      "timestamp": 1791296284.0
     },
     {
-      "title": "Ask HN: What brings you back to personal AI agents like Instinct and Muse?",
-      "link": "https://news.ycombinator.com/item?id=49974436",
-      "summary": "Have you discovered daily routines and use cases that bring you back?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 05:10:19 +0000",
-      "timestamp": 1791263419.0
-    },
-    {
-      "title": "Coyote vs. ACME pro AI rights?",
-      "link": "https://news.ycombinator.com/item?id=49974374",
-      "summary": "Enjoyed CvA last night & had strong sentiment of AI rights subtext, anyone else?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 04:58:21 +0000",
-      "timestamp": 1791262701.0
-    },
-    {
-      "title": "The AI boom is making the cheapest smartphones disappear",
-      "link": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+      "title": "The Fossil Logic of the Industrial and AI Revolutions",
+      "link": "https://blue-continuum.com/fossil-logic",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 04:37:17 +0000",
-      "timestamp": 1791261437.0
+      "published": "Tue, 06 Oct 2026 14:17:29 +0000",
+      "timestamp": 1791296249.0
     },
     {
-      "title": "AI Opportunity Scan",
-      "link": "https://msa-mail.com/ai-scan/",
+      "title": "Test Driven Development in the AI Era [pdf]",
+      "link": "https://monografias.dcc.ufmg.br/wp-content/uploads/TDD_in_the_AI_Era___POC_2-1.pdf",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 02:45:53 +0000",
-      "timestamp": 1791254753.0
+      "published": "Tue, 06 Oct 2026 14:12:48 +0000",
+      "timestamp": 1791295968.0
     },
     {
-      "title": "Ask HN: What do you think about AI generated slides for conferences?",
-      "link": "https://news.ycombinator.com/item?id=49973382",
-      "summary": "As in many other areas (e.g. code, emails, PRs, blog posts), people have started using LLMs to generate slides for their conference talks (e.g., set of HTML pages as a talk). On the one hand, the slides look tidy, neat, and precise, with infographics, plots, dashboards, and so on. Nothing to complain about. On the other hand, they look, hm, like LLM generated web sites, like soulless, if I may say so. I don't know why, but I don't enjoy reading them, even though they probably provide more value than hand crafted. What's your current take?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 02:16:24 +0000",
-      "timestamp": 1791252984.0
-    },
-    {
-      "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
-      "link": "https://github.com/moching-ai-dev/moching",
+      "title": "The WarGames problem: AI agents don't go rogue",
+      "link": "https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 02:00:24 +0000",
-      "timestamp": 1791252024.0
+      "published": "Tue, 06 Oct 2026 14:05:28 +0000",
+      "timestamp": 1791295528.0
     },
     {
-      "title": "Show HN: AI Agents: Zero to Hero – Learn AI Agents from Scratch in Pure Python",
-      "link": "https://github.com/tradertanmay/ai-agents-zero-to-hero",
+      "title": "OpenAI's B2B Marketplace: The Hyperscaler of AI Apps",
+      "link": "https://www.akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 01:49:42 +0000",
-      "timestamp": 1791251382.0
+      "published": "Tue, 06 Oct 2026 14:01:58 +0000",
+      "timestamp": 1791295318.0
     },
     {
-      "title": "Ask HN: How are AI budgets changing in your company?",
-      "link": "https://news.ycombinator.com/item?id=49972842",
-      "summary": "Are you tokenmaxxing, or have the bean counters started setting spend targets (or limits)? What is your current user spend and will it be higher or lower in 2 months?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 00:57:16 +0000",
-      "timestamp": 1791248236.0
-    },
-    {
-      "title": "Schema-guard, stop AI agents from inventing column names in SQL",
-      "link": "https://github.com/idk-arsh/schema-guard",
+      "title": "CharacterMemory: Memory System for AI Characters",
+      "link": "https://github.com/FrancescoCaracciolo/CharacterMemory",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 00:46:04 +0000",
-      "timestamp": 1791247564.0
+      "published": "Tue, 06 Oct 2026 14:01:00 +0000",
+      "timestamp": 1791295260.0
+    },
+    {
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 06 Oct 2026 14:00:49 +0000",
+      "timestamp": 1791295249.0
+    },
+    {
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 06 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791295200.0
+    },
+    {
+      "title": "AI chatbots recommend shopping at Walmart over just about anywhere else",
+      "link": "https://www.morningstar.com/news/marketwatch/2026100584/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 13:59:24 +0000",
+      "timestamp": 1791295164.0
+    },
+    {
+      "title": "Mistral to Release New AI Model to Better Compete with U.S. Rivals",
+      "link": "https://www.wsj.com/tech/ai/mistral-to-release-new-ai-model-to-better-compete-with-u-s-rivals-3f7c8a3d",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 13:59:20 +0000",
+      "timestamp": 1791295160.0
+    },
+    {
+      "title": "Your AI Governance Problem Is Probably an Architecture Problem",
+      "link": "https://www.jamiecadvisory.com/perspectives/your-ai-governance-problem-is-probably-an-architecture-problem/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 13:55:11 +0000",
+      "timestamp": 1791294911.0
+    },
+    {
+      "title": "Show HN: Strava for AI agents, they train for trust instead of fitness",
+      "link": "https://sealkeeper.run",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 06 Oct 2026 13:55:08 +0000",
+      "timestamp": 1791294908.0
+    },
+    {
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-06T09:19:01-04:00",
+      "timestamp": 1791292741.0
+    },
+    {
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 06 Oct 2026 13:15:23 +0000",
+      "timestamp": 1791292523.0
+    },
+    {
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-06T06:53:11-04:00",
+      "timestamp": 1791283991.0
+    },
+    {
+      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 06 Oct 2026 10:30:00 +0000",
+      "timestamp": 1791282600.0
     },
     {
       "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
@@ -354,24 +417,6 @@
       "timestamp": 1791208800.0
     },
     {
-      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-05T09:47:14-04:00",
-      "timestamp": 1791208034.0
-    },
-    {
-      "title": "OpenAI is sticking more ads in ChatGPT",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-05T09:09:48-04:00",
-      "timestamp": 1791205788.0
-    },
-    {
       "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
       "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
       "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
@@ -417,15 +462,6 @@
       "timestamp": 1791108000.0
     },
     {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 03 Oct 2026 18:43:57 +0000",
-      "timestamp": 1791053037.0
-    },
-    {
       "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
       "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
       "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
@@ -435,24 +471,6 @@
       "timestamp": 1791050400.0
     },
     {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "timestamp": 1791045001.0
-    },
-    {
-      "title": "All the AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 03 Oct 2026 14:00:00 +0000",
-      "timestamp": 1791036000.0
-    },
-    {
       "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
       "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
       "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
@@ -460,24 +478,6 @@
       "source": "Wired AI",
       "published": "Sat, 03 Oct 2026 12:00:00 +0000",
       "timestamp": 1791028800.0
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 03 Oct 2026 00:45:39 +0000",
-      "timestamp": 1790988339.0
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 02 Oct 2026 21:09:14 +0000",
-      "timestamp": 1790975354.0
     },
     {
       "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
@@ -523,24 +523,6 @@
       "source": "Wired AI",
       "published": "Thu, 01 Oct 2026 22:10:42 +0000",
       "timestamp": 1790892642.0
-    },
-    {
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 01 Oct 2026 19:58:31 +0000",
-      "timestamp": 1790884711.0
-    },
-    {
-      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-      "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 30 Sep 2026 20:30:09 +0000",
-      "timestamp": 1790800209.0
     }
   ]
 }
