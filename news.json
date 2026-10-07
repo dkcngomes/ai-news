@@ -1,24 +1,357 @@
 {
-  "scraped_at": "2026-10-07T14:28:36.310643+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-07T20:35:50.891892+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "Stop Asking Whether AI Wrote It",
-      "link": "https://www.inc.com/lindsey-witmer-collins/stop-asking-whether-ai-wrote-it/91414942",
+      "title": "Google AI Edge Foresight – offline, private meeting transcripts",
+      "link": "https://developers.google.com/edge/foresight",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 14:19:07 +0000",
-      "timestamp": 1791382747.0
+      "published": "Wed, 07 Oct 2026 20:24:46 +0000",
+      "timestamp": 1791404686.0
     },
     {
-      "title": "AI poker coaches, identify leaks, improves decisions",
-      "link": "https://sharkplay.org/",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 20:22:37 +0000",
+      "timestamp": 1791404557.0
+    },
+    {
+      "title": "How to turn your AI into a world-class designer",
+      "link": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 14:18:23 +0000",
-      "timestamp": 1791382703.0
+      "published": "Wed, 07 Oct 2026 20:17:58 +0000",
+      "timestamp": 1791404278.0
+    },
+    {
+      "title": "A New AI Agent Oriented Programming Language",
+      "link": "https://github.com/itsmedit/grenat",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 20:09:43 +0000",
+      "timestamp": 1791403783.0
+    },
+    {
+      "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
+      "link": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 19:40:34 +0000",
+      "timestamp": 1791402034.0
+    },
+    {
+      "title": "Claim Act drafted for AI libability discussion [pdf]",
+      "link": "https://trahan.house.gov/uploadedfiles/claim_act_final.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 19:32:58 +0000",
+      "timestamp": 1791401578.0
+    },
+    {
+      "title": "Eugenics, Silicon Valley, and AI: Ghost in the Machine [Documentary]",
+      "link": "https://www.pbs.org/video/ghost-in-the-machine-nynp3f/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 19:25:07 +0000",
+      "timestamp": 1791401107.0
+    },
+    {
+      "title": "AI has to replace the workers who were never born",
+      "link": "https://toex.substack.com/p/ai-workers-never-born",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 19:18:06 +0000",
+      "timestamp": 1791400686.0
+    },
+    {
+      "title": "The Two Words the AI Industry Hates More Than Anything [video]",
+      "link": "https://www.youtube.com/watch?v=7Z7oA9ndmdY",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 19:15:14 +0000",
+      "timestamp": 1791400514.0
+    },
+    {
+      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-07T15:10:42-04:00",
+      "timestamp": 1791400242.0
+    },
+    {
+      "title": "McDonald's sued over AI tool that recommends prices to US franchisees",
+      "link": "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 19:07:17 +0000",
+      "timestamp": 1791400037.0
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 18:49:40 +0000",
+      "timestamp": 1791398980.0
+    },
+    {
+      "title": "Get your AI agent connector or integration discovered on TryMuse",
+      "link": "https://trymuse.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 18:45:57 +0000",
+      "timestamp": 1791398757.0
+    },
+    {
+      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 07 Oct 2026 18:45:00 +0000",
+      "timestamp": 1791398700.0
+    },
+    {
+      "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+      "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that&#8217;s powered by Nvidia&#8217;s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-07T14:42:22-04:00",
+      "timestamp": 1791398542.0
+    },
+    {
+      "title": "Ask HN: What will be the next AI wave?",
+      "link": "https://news.ycombinator.com/item?id=49997056",
+      "summary": "curious to have your point of view.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 18:41:45 +0000",
+      "timestamp": 1791398505.0
+    },
+    {
+      "title": "Ask HN: Will mental health improve as AI brings mathematicians down to earth?",
+      "link": "https://news.ycombinator.com/item?id=49996986",
+      "summary": "Do you think billions of people will now breathe a sigh of relief as the apparently superhuman intellectual abilities of mathematicians are automated away by AI?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 18:36:13 +0000",
+      "timestamp": 1791398173.0
+    },
+    {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 18:30:57 +0000",
+      "timestamp": 1791397857.0
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "link": "https://openai.com/index/teens-learn-and-plan/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 18:23:15 +0000",
+      "timestamp": 1791397395.0
+    },
+    {
+      "title": "Half a Century: From Dial-Up Modems to AI, and Everything in Between",
+      "link": "https://medium.com/@akumpera/half-a-century-from-dial-up-modems-to-ai-and-everything-in-between-bc220b68dd07",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 18:17:15 +0000",
+      "timestamp": 1791397035.0
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 18:15:28 +0000",
+      "timestamp": 1791396928.0
+    },
+    {
+      "title": "AI Model Groupthink",
+      "link": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 18:08:38 +0000",
+      "timestamp": 1791396518.0
+    },
+    {
+      "title": "Funding the AI revolution: evidence from euro area sectors",
+      "link": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 18:03:48 +0000",
+      "timestamp": 1791396228.0
+    },
+    {
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-07T14:01:20-04:00",
+      "timestamp": 1791396080.0
+    },
+    {
+      "title": "Running Inkling (975B) Across Eleven Intel AI PCs",
+      "link": "https://arxiv.org/abs/2610.07219",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 18:01:11 +0000",
+      "timestamp": 1791396071.0
+    },
+    {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 18:00:19 +0000",
+      "timestamp": 1791396019.0
+    },
+    {
+      "title": "The New ChatGPT Is More Show Than Tell",
+      "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 07 Oct 2026 18:00:00 +0000",
+      "timestamp": 1791396000.0
+    },
+    {
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+      "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-07T13:46:44-04:00",
+      "timestamp": 1791395204.0
+    },
+    {
+      "title": "FICO cuts workforce by 15% in AI-driven restructuring",
+      "link": "https://www.reuters.com/business/world-at-work/fico-cuts-workforce-by-15-ai-driven-restructuring-2026-10-06/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 17:45:37 +0000",
+      "timestamp": 1791395137.0
+    },
+    {
+      "title": "AI, Work, and the Next Downturn",
+      "link": "https://watch.wilsoniumite.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 17:36:02 +0000",
+      "timestamp": 1791394562.0
+    },
+    {
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 16:53:46 +0000",
+      "timestamp": 1791392026.0
+    },
+    {
+      "title": "ChatGPT is getting college planning tools",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-07T12:00:00-04:00",
+      "timestamp": 1791388800.0
+    },
+    {
+      "title": "Muse launches on the iPad",
+      "link": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-07T11:37:23-04:00",
+      "timestamp": 1791387443.0
+    },
+    {
+      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+      "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 07 Oct 2026 15:34:33 +0000",
+      "timestamp": 1791387273.0
+    },
+    {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 15:07:08 +0000",
+      "timestamp": 1791385628.0
+    },
+    {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 14:41:38 +0000",
+      "timestamp": 1791384098.0
+    },
+    {
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-07T10:40:52-04:00",
+      "timestamp": 1791384052.0
+    },
+    {
+      "title": "Google experiments with an AI-powered gaming platform",
+      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 14:36:23 +0000",
+      "timestamp": 1791383783.0
+    },
+    {
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 14:30:00 +0000",
+      "timestamp": 1791383400.0
     },
     {
       "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
@@ -30,69 +363,6 @@
       "timestamp": 1791382500.0
     },
     {
-      "title": "AI Papers of the Week MCP Tools",
-      "link": "https://academy.dair.ai/papers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 14:11:29 +0000",
-      "timestamp": 1791382289.0
-    },
-    {
-      "title": "AI-assisted proof of optimal packing for 11 squares",
-      "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 14:10:55 +0000",
-      "timestamp": 1791382255.0
-    },
-    {
-      "title": "McDonald's sued for allegedly using AI tool to determine pricing for franchises",
-      "link": "https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 14:10:46 +0000",
-      "timestamp": 1791382246.0
-    },
-    {
-      "title": "HSBC plans job cuts across UK wealth business in AI push",
-      "link": "https://www.ft.com/content/dd553fc2-532c-4afc-a773-47cd7f786260",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 14:08:40 +0000",
-      "timestamp": 1791382120.0
-    },
-    {
-      "title": "The Top 100 Gen AI Consumer Apps — 7th Edition",
-      "link": "https://a16z.com/100-gen-ai-apps-7/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 14:06:45 +0000",
-      "timestamp": 1791382005.0
-    },
-    {
-      "title": "Show HN: Attestlane – grounded AI for SOC-2 readiness",
-      "link": "https://attestlane.to",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 14:06:45 +0000",
-      "timestamp": 1791382005.0
-    },
-    {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 07 Oct 2026 14:00:00 +0000",
-      "timestamp": 1791381600.0
-    },
-    {
       "title": "Google’s new SynthID website can identify AI-generated media",
       "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
       "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
@@ -102,112 +372,13 @@
       "timestamp": 1791381600.0
     },
     {
-      "title": "Jon Stewart Speaks to Jacob Coxon on the Existential Threat of AI [video]",
-      "link": "https://www.youtube.com/watch?v=lnLDjXy2kRA",
-      "summary": "",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 13:57:58 +0000",
-      "timestamp": 1791381478.0
-    },
-    {
-      "title": "Workspace MCP v2 – Musings from the past 18 months building open source AI tools",
-      "link": "https://workspacemcp.com/release-notes/v2",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 13:48:33 +0000",
-      "timestamp": 1791380913.0
-    },
-    {
-      "title": "I used my brain instead of AI – now CI runs 70% faster",
-      "link": "https://shchoholiev.com/writing/use-your-brain-and-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 13:40:29 +0000",
-      "timestamp": 1791380429.0
-    },
-    {
-      "title": "How to Defend Against AI-Designed Viruses",
-      "link": "https://warontherocks.com/how-to-defend-against-ai-designed-viruses/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 13:40:14 +0000",
-      "timestamp": 1791380414.0
-    },
-    {
-      "title": "NYC AI Report; Job Postings in Design, Media, and Writing Down 40%",
-      "link": "https://pfnyc.org/research/artificial-intelligence-is-already-reshaping-new-york-city",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 13:38:44 +0000",
-      "timestamp": 1791380324.0
-    },
-    {
-      "title": "How to Catch AI Delegation Drift Before Your Board Does",
-      "link": "https://age-of-product.com/ai-delegation-audit-webinar/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 13:22:12 +0000",
-      "timestamp": 1791379332.0
-    },
-    {
-      "title": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked 100s More",
-      "link": "https://www.wsj.com/tech/ai/openai-ai-math-problems-millennium-prize-23d14511",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 13:20:45 +0000",
-      "timestamp": 1791379245.0
-    },
-    {
-      "title": "Bender: AI's 'Existential' Risk Is 'Fake' [video]",
-      "link": "https://www.youtube.com/watch?v=QuZjcKshf_c",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 13:19:30 +0000",
-      "timestamp": 1791379170.0
-    },
-    {
-      "title": "Ask HN: Will AI Longevity Models Optimize for Physical Scarcity?",
-      "link": "https://news.ycombinator.com/item?id=49992222",
-      "summary": "Since longevity has a high value and AI models are becoming capable of new leaps I think the dynamic of the market might look for physical scarcity so that a betting strategy for the tailored treatment will provide immense profits for such a search.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 13:06:00 +0000",
-      "timestamp": 1791378360.0
-    },
-    {
-      "title": "Show HN: Open model that checks stablecoin payments before an AI agent pays",
-      "link": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 12:49:31 +0000",
-      "timestamp": 1791377371.0
-    },
-    {
-      "title": "Tynbo – a daily team awareness board with no AI and no task management",
-      "link": "https://tynbo.me",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 12:47:07 +0000",
-      "timestamp": 1791377227.0
-    },
-    {
-      "title": "Show HN: A fun AI project that roasts tech news as COOKING or COOKED",
-      "link": "https://pranavworks100.github.io/fennec/",
-      "summary": "Hi HN, so i made a weekend fun project months ago which takes the top 10 tech stories or news from internet, roasts them and categorizes them into cooking or cooked instead of just giving dry summaries. $0 architecture: Github actions runs python script ones a day after extraction the news is news.json then github action updates the page to give us fresh news on frontend. This is open-sourced at https://github.com/pranavworks100/fennec so problem right now is sometimes roasts hit and sometimes they are just bland and generic. so if have ideas to make it even more funnier, please do so :) and a",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 12:37:45 +0000",
-      "timestamp": 1791376665.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791381600.0
     },
     {
       "title": "AI could upend food delivery",
@@ -327,15 +498,6 @@
       "timestamp": 1791304500.0
     },
     {
-      "title": "We can’t just change the definition of ‘recording’",
-      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-      "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-06T12:29:44-04:00",
-      "timestamp": 1791304184.0
-    },
-    {
       "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
       "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
       "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
@@ -354,42 +516,6 @@
       "timestamp": 1791300300.0
     },
     {
-      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 06 Oct 2026 14:33:16 +0000",
-      "timestamp": 1791297196.0
-    },
-    {
-      "title": "Pinterest’s AI now turns beauty Pins into action plans",
-      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 06 Oct 2026 14:00:49 +0000",
-      "timestamp": 1791295249.0
-    },
-    {
-      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-      "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-      "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 06 Oct 2026 14:00:00 +0000",
-      "timestamp": 1791295200.0
-    },
-    {
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-06T09:19:01-04:00",
-      "timestamp": 1791292741.0
-    },
-    {
       "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
       "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
       "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
@@ -397,15 +523,6 @@
       "source": "Wired AI",
       "published": "Tue, 06 Oct 2026 13:15:23 +0000",
       "timestamp": 1791292523.0
-    },
-    {
-      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-      "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-      "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-06T06:53:11-04:00",
-      "timestamp": 1791283991.0
     },
     {
       "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
@@ -417,87 +534,6 @@
       "timestamp": 1791282600.0
     },
     {
-      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-05T19:09:55-04:00",
-      "timestamp": 1791241795.0
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 05 Oct 2026 20:36:48 +0000",
-      "timestamp": 1791232608.0
-    },
-    {
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-05T16:14:57-04:00",
-      "timestamp": 1791231297.0
-    },
-    {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 05 Oct 2026 19:33:53 +0000",
-      "timestamp": 1791228833.0
-    },
-    {
-      "title": "All the drama around AI&#8217;s takeover of mathematics",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-05T15:28:59-04:00",
-      "timestamp": 1791228539.0
-    },
-    {
-      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-05T15:05:19-04:00",
-      "timestamp": 1791227119.0
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 05 Oct 2026 18:54:30 +0000",
-      "timestamp": 1791226470.0
-    },
-    {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 05 Oct 2026 18:29:00 +0000",
-      "timestamp": 1791224940.0
-    },
-    {
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 05 Oct 2026 17:29:22 +0000",
-      "timestamp": 1791221362.0
-    },
-    {
       "title": "Rural Data Centers Are in for a Big Federal Tax Break",
       "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
       "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
@@ -505,33 +541,6 @@
       "source": "Wired AI",
       "published": "Sun, 04 Oct 2026 10:00:00 +0000",
       "timestamp": 1791108000.0
-    },
-    {
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sat, 03 Oct 2026 18:00:00 +0000",
-      "timestamp": 1791050400.0
-    },
-    {
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sat, 03 Oct 2026 12:00:00 +0000",
-      "timestamp": 1791028800.0
-    },
-    {
-      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
-      "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 02 Oct 2026 16:00:00 +0000",
-      "timestamp": 1790956800.0
     }
   ]
 }
