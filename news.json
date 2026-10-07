@@ -1,15 +1,186 @@
 {
-  "scraped_at": "2026-10-07T00:40:28.778858+00:00",
+  "scraped_at": "2026-10-07T07:12:24.308752+00:00",
   "count": 58,
   "items": [
     {
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+      "title": "I'm starting a company that uses no AI, A letter from San Francisco, October '26",
+      "link": "https://no-ai-tau.vercel.app/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 23:50:33 +0000",
-      "timestamp": 1791330633.0
+      "published": "Wed, 07 Oct 2026 07:04:10 +0000",
+      "timestamp": 1791356650.0
+    },
+    {
+      "title": "LGTM: A parody of modern AI adoption in the tech industry [video]",
+      "link": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 07:00:38 +0000",
+      "timestamp": 1791356438.0
+    },
+    {
+      "title": "Tescreal hallucinations: Psychedelic and AI hype as inequality engines",
+      "link": "https://akjournals.com/view/journals/2054/7/S1/article-p22.xml",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 06:54:55 +0000",
+      "timestamp": 1791356095.0
+    },
+    {
+      "title": "Reframe an AI Short Film [video]",
+      "link": "https://www.youtube.com/watch?v=9MlK5VTMD88",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 06:54:33 +0000",
+      "timestamp": 1791356073.0
+    },
+    {
+      "title": "Show HN: Slopguesser – can you tell if code was written by AI or a human?",
+      "link": "https://slopguesser.dev",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 06:44:51 +0000",
+      "timestamp": 1791355491.0
+    },
+    {
+      "title": "JobFetch – free remote AI job board, pay shown up front",
+      "link": "https://jobfetch.work",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 05:45:32 +0000",
+      "timestamp": 1791351932.0
+    },
+    {
+      "title": "Toketer – See what every AI prompt costs you, live in your editor",
+      "link": "https://marketplace.visualstudio.com/items?itemName=toketer.toketer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 04:56:17 +0000",
+      "timestamp": 1791348977.0
+    },
+    {
+      "title": "Crunchbase Data Shows AI's Most Active Startups Are Becoming Serial Acquirers",
+      "link": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 04:50:33 +0000",
+      "timestamp": 1791348633.0
+    },
+    {
+      "title": "AI-powered time tracking for freelancers and agencies",
+      "link": "https://www.tracktimer.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 04:50:33 +0000",
+      "timestamp": 1791348633.0
+    },
+    {
+      "title": "Research;Open Sourcing Health Research with AI – Accelerating Evidence Synthesis",
+      "link": "https://zenodo.org/records/23199360",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 04:27:08 +0000",
+      "timestamp": 1791347228.0
+    },
+    {
+      "title": "Guide to Using Generative AI in Programming – Textbook by Antti Laaksonen",
+      "link": "https://link.springer.com/book/10.1007/978-3-032-07453-9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 04:13:50 +0000",
+      "timestamp": 1791346430.0
+    },
+    {
+      "title": "Ask HN: Does AI do better with CSS or Tailwind?",
+      "link": "https://news.ycombinator.com/item?id=49988056",
+      "summary": "For those who have let AI build sufficiently large projects, what worked out better for you: AI writing raw CSS, or restricting it to Tailwind utility classes?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 04:09:32 +0000",
+      "timestamp": 1791346172.0
+    },
+    {
+      "title": "Local AI is real now. And it's blowing my mind",
+      "link": "https://hive.technology/lab-notes/local-ai-is-real/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 04:02:20 +0000",
+      "timestamp": 1791345740.0
+    },
+    {
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "link": "https://github.com/nano-muse/nanoMuse",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 03:30:44 +0000",
+      "timestamp": 1791343844.0
+    },
+    {
+      "title": "Multiplayer AI coding workspace for teams and agents",
+      "link": "https://www.tryfridaywork.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 03:28:53 +0000",
+      "timestamp": 1791343733.0
+    },
+    {
+      "title": "Biology, Buddhism and AI: the Platonic space model and the rogue agent swarm",
+      "link": "https://okossa.com/biology-buddhism-and-ai-ff213a852eb4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 03:26:20 +0000",
+      "timestamp": 1791343580.0
+    },
+    {
+      "title": "AI Usage Typology – Fisherman",
+      "link": "https://news.ycombinator.com/item?id=49987478",
+      "summary": "The type of AI user you are can vary, just like people. I recently stumbled on the Centaur vs. Cyborg debate, and it made me look in the mirror and ask myself: am I a Centaur or a Cyborg? I thought about it for a while and came to a conclusion. I'm a Fisherman. Let me explain. Take this with a grain of salt. It comes from my own hands-on experience using AI at work at an enterprise level. I find the Centaur vs. Cyborg debate interesting because prompting is so nuanced, and which side you lean toward depends on how you learn and work best. When I started using AI more and more, I leaned Centaur",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 02:50:27 +0000",
+      "timestamp": 1791341427.0
+    },
+    {
+      "title": "Turn X Posts into Beautiful Visual Stories with AI",
+      "link": "https://github.com/mkantwala/iloveposts",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 02:28:03 +0000",
+      "timestamp": 1791340083.0
+    },
+    {
+      "title": "Contamos – a shared multi-currency ledger your AI assistant can read and write",
+      "link": "https://contamos.xyz/en",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 02:06:52 +0000",
+      "timestamp": 1791338812.0
+    },
+    {
+      "title": "Poll HN: Is there a skill to coding with AI?",
+      "link": "https://news.ycombinator.com/item?id=49986710",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 01:20:57 +0000",
+      "timestamp": 1791336057.0
     },
     {
       "title": "OpenAI drops another batch of mathematical breakthroughs",
@@ -21,24 +192,6 @@
       "timestamp": 1791329198.0
     },
     {
-      "title": "Where do we draw the line on AI in court filings?",
-      "link": "https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 23:21:07 +0000",
-      "timestamp": 1791328867.0
-    },
-    {
-      "title": "AI Hasn't Replaced Interpreters But It Has Degraded Their Working Conditions",
-      "link": "https://capitalandmain.com/ai-hasnt-replaced-these-interpreters-but-it-has-degraded-their-working-conditions",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 22:51:01 +0000",
-      "timestamp": 1791327061.0
-    },
-    {
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
       "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
@@ -46,114 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 06 Oct 2026 22:34:03 +0000",
       "timestamp": 1791326043.0
-    },
-    {
-      "title": "An Open Letter to Steven Pinker on AI",
-      "link": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 22:19:38 +0000",
-      "timestamp": 1791325178.0
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 22:17:21 +0000",
-      "timestamp": 1791325041.0
-    },
-    {
-      "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
-      "link": "https://agentability.org/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 22:00:58 +0000",
-      "timestamp": 1791324058.0
-    },
-    {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "link": "https://penguin-mail.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 21:59:43 +0000",
-      "timestamp": 1791323983.0
-    },
-    {
-      "title": "AI is going to run out of power",
-      "link": "https://www.transformernews.ai/p/ai-will-run-out-of-power",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 21:52:26 +0000",
-      "timestamp": 1791323546.0
-    },
-    {
-      "title": "Sulcus – observe and control AI agents while they run",
-      "link": "https://sulcus.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 21:51:54 +0000",
-      "timestamp": 1791323514.0
-    },
-    {
-      "title": "Italian PM files to trademark her voice against AI threats",
-      "link": "https://www.bbc.com/news/articles/ckly0g1ljq2yo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 21:50:09 +0000",
-      "timestamp": 1791323409.0
-    },
-    {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 21:42:59 +0000",
-      "timestamp": 1791322979.0
-    },
-    {
-      "title": "Mistral unveils new AI model it says rivals best open systems from China",
-      "link": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 21:32:18 +0000",
-      "timestamp": 1791322338.0
-    },
-    {
-      "title": "Daniel Kokotajlo's senate testimony on AI risk [pdf]",
-      "link": "https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 21:10:51 +0000",
-      "timestamp": 1791321051.0
-    },
-    {
-      "title": "Give Your AI Agent a Domain-Specific Language",
-      "link": "https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 20:57:32 +0000",
-      "timestamp": 1791320252.0
-    },
-    {
-      "title": "Record labels are in a spin over AI music",
-      "link": "https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 20:48:04 +0000",
-      "timestamp": 1791319684.0
     },
     {
       "title": "How AI decision models could change content moderation",
@@ -165,33 +210,6 @@
       "timestamp": 1791318920.0
     },
     {
-      "title": "Enterprise AI is vaporware without access to systems of record",
-      "link": "https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 20:25:45 +0000",
-      "timestamp": 1791318345.0
-    },
-    {
-      "title": "Meta's Muse AI agent is building a dossier on you",
-      "link": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 20:24:45 +0000",
-      "timestamp": 1791318285.0
-    },
-    {
-      "title": "Most AI data businesses should run as cash / dividend businesses",
-      "link": "https://twitter.com/gokulr/status/2107538431375241564",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 20:16:33 +0000",
-      "timestamp": 1791317793.0
-    },
-    {
       "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
       "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
       "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
@@ -201,15 +219,6 @@
       "timestamp": 1791316830.0
     },
     {
-      "title": "OpenAI Dots: The New Always-On AI Agents from OpenAI",
-      "link": "https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 19:58:01 +0000",
-      "timestamp": 1791316681.0
-    },
-    {
       "title": "The next hurdle for AI agents: getting websites to let them in",
       "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
       "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
@@ -217,15 +226,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 06 Oct 2026 19:56:50 +0000",
       "timestamp": 1791316610.0
-    },
-    {
-      "title": "Reducing the cognitive load of AI changes",
-      "link": "https://amoffat.github.io/blog/cognitive-load.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 06 Oct 2026 19:38:07 +0000",
-      "timestamp": 1791315487.0
     },
     {
       "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
