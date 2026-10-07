@@ -1,186 +1,249 @@
 {
-  "scraped_at": "2026-10-07T07:12:24.308752+00:00",
-  "count": 58,
+  "scraped_at": "2026-10-07T14:28:36.310643+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "I'm starting a company that uses no AI, A letter from San Francisco, October '26",
-      "link": "https://no-ai-tau.vercel.app/",
+      "title": "Stop Asking Whether AI Wrote It",
+      "link": "https://www.inc.com/lindsey-witmer-collins/stop-asking-whether-ai-wrote-it/91414942",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 07:04:10 +0000",
-      "timestamp": 1791356650.0
+      "published": "Wed, 07 Oct 2026 14:19:07 +0000",
+      "timestamp": 1791382747.0
     },
     {
-      "title": "LGTM: A parody of modern AI adoption in the tech industry [video]",
-      "link": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+      "title": "AI poker coaches, identify leaks, improves decisions",
+      "link": "https://sharkplay.org/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 07:00:38 +0000",
-      "timestamp": 1791356438.0
+      "published": "Wed, 07 Oct 2026 14:18:23 +0000",
+      "timestamp": 1791382703.0
     },
     {
-      "title": "Tescreal hallucinations: Psychedelic and AI hype as inequality engines",
-      "link": "https://akjournals.com/view/journals/2054/7/S1/article-p22.xml",
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 14:15:00 +0000",
+      "timestamp": 1791382500.0
+    },
+    {
+      "title": "AI Papers of the Week MCP Tools",
+      "link": "https://academy.dair.ai/papers",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 06:54:55 +0000",
-      "timestamp": 1791356095.0
+      "published": "Wed, 07 Oct 2026 14:11:29 +0000",
+      "timestamp": 1791382289.0
     },
     {
-      "title": "Reframe an AI Short Film [video]",
-      "link": "https://www.youtube.com/watch?v=9MlK5VTMD88",
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 06:54:33 +0000",
-      "timestamp": 1791356073.0
+      "published": "Wed, 07 Oct 2026 14:10:55 +0000",
+      "timestamp": 1791382255.0
     },
     {
-      "title": "Show HN: Slopguesser – can you tell if code was written by AI or a human?",
-      "link": "https://slopguesser.dev",
+      "title": "McDonald's sued for allegedly using AI tool to determine pricing for franchises",
+      "link": "https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 06:44:51 +0000",
-      "timestamp": 1791355491.0
+      "published": "Wed, 07 Oct 2026 14:10:46 +0000",
+      "timestamp": 1791382246.0
     },
     {
-      "title": "JobFetch – free remote AI job board, pay shown up front",
-      "link": "https://jobfetch.work",
+      "title": "HSBC plans job cuts across UK wealth business in AI push",
+      "link": "https://www.ft.com/content/dd553fc2-532c-4afc-a773-47cd7f786260",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 05:45:32 +0000",
-      "timestamp": 1791351932.0
+      "published": "Wed, 07 Oct 2026 14:08:40 +0000",
+      "timestamp": 1791382120.0
     },
     {
-      "title": "Toketer – See what every AI prompt costs you, live in your editor",
-      "link": "https://marketplace.visualstudio.com/items?itemName=toketer.toketer",
+      "title": "The Top 100 Gen AI Consumer Apps — 7th Edition",
+      "link": "https://a16z.com/100-gen-ai-apps-7/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 04:56:17 +0000",
-      "timestamp": 1791348977.0
+      "published": "Wed, 07 Oct 2026 14:06:45 +0000",
+      "timestamp": 1791382005.0
     },
     {
-      "title": "Crunchbase Data Shows AI's Most Active Startups Are Becoming Serial Acquirers",
-      "link": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
+      "title": "Show HN: Attestlane – grounded AI for SOC-2 readiness",
+      "link": "https://attestlane.to",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 04:50:33 +0000",
-      "timestamp": 1791348633.0
+      "published": "Wed, 07 Oct 2026 14:06:45 +0000",
+      "timestamp": 1791382005.0
     },
     {
-      "title": "AI-powered time tracking for freelancers and agencies",
-      "link": "https://www.tracktimer.app",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791381600.0
+    },
+    {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791381600.0
+    },
+    {
+      "title": "Jon Stewart Speaks to Jacob Coxon on the Existential Threat of AI [video]",
+      "link": "https://www.youtube.com/watch?v=lnLDjXy2kRA",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 04:50:33 +0000",
-      "timestamp": 1791348633.0
+      "published": "Wed, 07 Oct 2026 13:57:58 +0000",
+      "timestamp": 1791381478.0
     },
     {
-      "title": "Research;Open Sourcing Health Research with AI – Accelerating Evidence Synthesis",
-      "link": "https://zenodo.org/records/23199360",
+      "title": "Workspace MCP v2 – Musings from the past 18 months building open source AI tools",
+      "link": "https://workspacemcp.com/release-notes/v2",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 04:27:08 +0000",
-      "timestamp": 1791347228.0
+      "published": "Wed, 07 Oct 2026 13:48:33 +0000",
+      "timestamp": 1791380913.0
     },
     {
-      "title": "Guide to Using Generative AI in Programming – Textbook by Antti Laaksonen",
-      "link": "https://link.springer.com/book/10.1007/978-3-032-07453-9",
+      "title": "I used my brain instead of AI – now CI runs 70% faster",
+      "link": "https://shchoholiev.com/writing/use-your-brain-and-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 04:13:50 +0000",
-      "timestamp": 1791346430.0
+      "published": "Wed, 07 Oct 2026 13:40:29 +0000",
+      "timestamp": 1791380429.0
     },
     {
-      "title": "Ask HN: Does AI do better with CSS or Tailwind?",
-      "link": "https://news.ycombinator.com/item?id=49988056",
-      "summary": "For those who have let AI build sufficiently large projects, what worked out better for you: AI writing raw CSS, or restricting it to Tailwind utility classes?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 04:09:32 +0000",
-      "timestamp": 1791346172.0
-    },
-    {
-      "title": "Local AI is real now. And it's blowing my mind",
-      "link": "https://hive.technology/lab-notes/local-ai-is-real/",
+      "title": "How to Defend Against AI-Designed Viruses",
+      "link": "https://warontherocks.com/how-to-defend-against-ai-designed-viruses/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 04:02:20 +0000",
-      "timestamp": 1791345740.0
+      "published": "Wed, 07 Oct 2026 13:40:14 +0000",
+      "timestamp": 1791380414.0
     },
     {
-      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "link": "https://github.com/nano-muse/nanoMuse",
+      "title": "NYC AI Report; Job Postings in Design, Media, and Writing Down 40%",
+      "link": "https://pfnyc.org/research/artificial-intelligence-is-already-reshaping-new-york-city",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 03:30:44 +0000",
-      "timestamp": 1791343844.0
+      "published": "Wed, 07 Oct 2026 13:38:44 +0000",
+      "timestamp": 1791380324.0
     },
     {
-      "title": "Multiplayer AI coding workspace for teams and agents",
-      "link": "https://www.tryfridaywork.com",
+      "title": "How to Catch AI Delegation Drift Before Your Board Does",
+      "link": "https://age-of-product.com/ai-delegation-audit-webinar/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 03:28:53 +0000",
-      "timestamp": 1791343733.0
+      "published": "Wed, 07 Oct 2026 13:22:12 +0000",
+      "timestamp": 1791379332.0
     },
     {
-      "title": "Biology, Buddhism and AI: the Platonic space model and the rogue agent swarm",
-      "link": "https://okossa.com/biology-buddhism-and-ai-ff213a852eb4",
+      "title": "AI Solved One Math Problem and Everyone Freaked Out. It Just Cracked 100s More",
+      "link": "https://www.wsj.com/tech/ai/openai-ai-math-problems-millennium-prize-23d14511",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 03:26:20 +0000",
-      "timestamp": 1791343580.0
+      "published": "Wed, 07 Oct 2026 13:20:45 +0000",
+      "timestamp": 1791379245.0
     },
     {
-      "title": "AI Usage Typology – Fisherman",
-      "link": "https://news.ycombinator.com/item?id=49987478",
-      "summary": "The type of AI user you are can vary, just like people. I recently stumbled on the Centaur vs. Cyborg debate, and it made me look in the mirror and ask myself: am I a Centaur or a Cyborg? I thought about it for a while and came to a conclusion. I'm a Fisherman. Let me explain. Take this with a grain of salt. It comes from my own hands-on experience using AI at work at an enterprise level. I find the Centaur vs. Cyborg debate interesting because prompting is so nuanced, and which side you lean toward depends on how you learn and work best. When I started using AI more and more, I leaned Centaur",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 02:50:27 +0000",
-      "timestamp": 1791341427.0
-    },
-    {
-      "title": "Turn X Posts into Beautiful Visual Stories with AI",
-      "link": "https://github.com/mkantwala/iloveposts",
+      "title": "Bender: AI's 'Existential' Risk Is 'Fake' [video]",
+      "link": "https://www.youtube.com/watch?v=QuZjcKshf_c",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 02:28:03 +0000",
-      "timestamp": 1791340083.0
+      "published": "Wed, 07 Oct 2026 13:19:30 +0000",
+      "timestamp": 1791379170.0
     },
     {
-      "title": "Contamos – a shared multi-currency ledger your AI assistant can read and write",
-      "link": "https://contamos.xyz/en",
+      "title": "Ask HN: Will AI Longevity Models Optimize for Physical Scarcity?",
+      "link": "https://news.ycombinator.com/item?id=49992222",
+      "summary": "Since longevity has a high value and AI models are becoming capable of new leaps I think the dynamic of the market might look for physical scarcity so that a betting strategy for the tailored treatment will provide immense profits for such a search.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 13:06:00 +0000",
+      "timestamp": 1791378360.0
+    },
+    {
+      "title": "Show HN: Open model that checks stablecoin payments before an AI agent pays",
+      "link": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 02:06:52 +0000",
-      "timestamp": 1791338812.0
+      "published": "Wed, 07 Oct 2026 12:49:31 +0000",
+      "timestamp": 1791377371.0
     },
     {
-      "title": "Poll HN: Is there a skill to coding with AI?",
-      "link": "https://news.ycombinator.com/item?id=49986710",
+      "title": "Tynbo – a daily team awareness board with no AI and no task management",
+      "link": "https://tynbo.me",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 01:20:57 +0000",
-      "timestamp": 1791336057.0
+      "published": "Wed, 07 Oct 2026 12:47:07 +0000",
+      "timestamp": 1791377227.0
+    },
+    {
+      "title": "Show HN: A fun AI project that roasts tech news as COOKING or COOKED",
+      "link": "https://pranavworks100.github.io/fennec/",
+      "summary": "Hi HN, so i made a weekend fun project months ago which takes the top 10 tech stories or news from internet, roasts them and categorizes them into cooking or cooked instead of just giving dry summaries. $0 architecture: Github actions runs python script ones a day after extraction the news is news.json then github action updates the page to give us fresh news on frontend. This is open-sourced at https://github.com/pranavworks100/fennec so problem right now is sometimes roasts hit and sometimes they are just bland and generic. so if have ideas to make it even more funnier, please do so :) and a",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 12:37:45 +0000",
+      "timestamp": 1791376665.0
+    },
+    {
+      "title": "AI could upend food delivery",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-07T08:00:00-04:00",
+      "timestamp": 1791374400.0
+    },
+    {
+      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 07 Oct 2026 11:00:00 +0000",
+      "timestamp": 1791370800.0
+    },
+    {
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-07T05:00:00-04:00",
+      "timestamp": 1791363600.0
+    },
+    {
+      "title": "Your Next Great Read Might Be Certified ‘Organic’",
+      "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 07 Oct 2026 08:30:00 +0000",
+      "timestamp": 1791361800.0
     },
     {
       "title": "OpenAI drops another batch of mathematical breakthroughs",
@@ -426,15 +489,6 @@
       "timestamp": 1791224940.0
     },
     {
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-05T14:08:39-04:00",
-      "timestamp": 1791223719.0
-    },
-    {
       "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
       "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
       "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
@@ -442,33 +496,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 05 Oct 2026 17:29:22 +0000",
       "timestamp": 1791221362.0
-    },
-    {
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic. The interruption came [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-05T12:55:42-04:00",
-      "timestamp": 1791219342.0
-    },
-    {
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 05 Oct 2026 16:43:35 +0000",
-      "timestamp": 1791218615.0
-    },
-    {
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 05 Oct 2026 15:14:24 +0000",
-      "timestamp": 1791213264.0
     },
     {
       "title": "Rural Data Centers Are in for a Big Federal Tax Break",
@@ -505,24 +532,6 @@
       "source": "Wired AI",
       "published": "Fri, 02 Oct 2026 16:00:00 +0000",
       "timestamp": 1790956800.0
-    },
-    {
-      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-      "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 02 Oct 2026 15:00:00 +0000",
-      "timestamp": 1790953200.0
-    },
-    {
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 02 Oct 2026 09:45:00 +0000",
-      "timestamp": 1790934300.0
     }
   ]
 }
