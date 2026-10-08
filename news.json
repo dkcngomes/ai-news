@@ -1,15 +1,195 @@
 {
-  "scraped_at": "2026-10-07T20:35:50.891892+00:00",
+  "scraped_at": "2026-10-08T00:58:29.389146+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Google AI Edge Foresight – offline, private meeting transcripts",
-      "link": "https://developers.google.com/edge/foresight",
+      "title": "Someone Rebuilt Free, OSS Versions of Photoshop, Premiere, and Lightroom with AI",
+      "link": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 20:24:46 +0000",
-      "timestamp": 1791404686.0
+      "published": "Thu, 08 Oct 2026 00:56:21 +0000",
+      "timestamp": 1791420981.0
+    },
+    {
+      "title": "OpenAI's human rights lead: What military AI could do 'keeps me up at night'",
+      "link": "https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 08 Oct 2026 00:42:56 +0000",
+      "timestamp": 1791420176.0
+    },
+    {
+      "title": "AI cluster networking reading list: RDMA, collectives, fabrics",
+      "link": "https://github.com/Rewsr/unawesome-ai-fabric-engineering",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 08 Oct 2026 00:14:29 +0000",
+      "timestamp": 1791418469.0
+    },
+    {
+      "title": "Bold AI developer takes aim at Adobe with open source clones",
+      "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 08 Oct 2026 00:06:10 +0000",
+      "timestamp": 1791417970.0
+    },
+    {
+      "title": "What is the actual percentage of people For and Against AI?",
+      "link": "https://news.ycombinator.com/item?id=50000356",
+      "summary": "Ive started to think about it lately, a google search just doesn't yield a satisfiable result. What do you guys think ? How many people are actually against AI? Sometimes it feels like the majority are starting to be skeptical, but maybe that's just the environment im surrounded by.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 23:55:21 +0000",
+      "timestamp": 1791417321.0
+    },
+    {
+      "title": "Kelly's AI Tax Bill Struggles to Link Tech with Economic Harms",
+      "link": "https://news.bloombergtax.com/tax-insights-and-commentary/kellys-ai-tax-bill-struggles-to-link-tech-with-economic-harms",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 23:42:38 +0000",
+      "timestamp": 1791416558.0
+    },
+    {
+      "title": "When and why prototyping is still needed when working with AI agents",
+      "link": "https://emmflow.com/blog/when-and-why-prototyping-is-still-needed-when-working-with-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 23:27:47 +0000",
+      "timestamp": 1791415667.0
+    },
+    {
+      "title": "The AI Agents Pitching Lit Mags to Stay Alive",
+      "link": "https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 23:23:04 +0000",
+      "timestamp": 1791415384.0
+    },
+    {
+      "title": "Show HN: StayLeet – keeping skills sharp in AI coding era",
+      "link": "https://stayleet.com/",
+      "summary": "As AI writes more and more of the code, it's quite important to maintain sufficient skill and knowledge to even review or judge AI's output. Here is a little project I whipped up - I personally found deliberate practice quite useful. It focusses on non-coding skills (as I think LOC production is basically solved by AI, IMO). Rather I start with two tracks: general technical fluency (CS / systems / practical fundamentals), and system design. And yes it was built primarily with help of AI tooling. Would love to get some feedback - in particular, do others feel the same way about skill atrophy ri",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 23:19:20 +0000",
+      "timestamp": 1791415160.0
+    },
+    {
+      "title": "Dazzle AI – an AI assistant that uses your camera roll to better understand you",
+      "link": "https://dazzle.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 23:15:50 +0000",
+      "timestamp": 1791414950.0
+    },
+    {
+      "title": "Thoughts on humans keeping up with AI advances in math and software",
+      "link": "https://jcoc611.com/blog/what-happens-when-the-ai-slop-is-correct/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 23:01:30 +0000",
+      "timestamp": 1791414090.0
+    },
+    {
+      "title": "AI won't suppress legal rates",
+      "link": "https://lexifina.com/blog/who-keeps-the-ai-efficiency",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 22:53:22 +0000",
+      "timestamp": 1791413602.0
+    },
+    {
+      "title": "AI to Fight World Hunger",
+      "link": "https://features.csis.org/ai-to-fight-world-hunger/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 22:30:53 +0000",
+      "timestamp": 1791412253.0
+    },
+    {
+      "title": "Lathe: AI Workspace for Hardware Design",
+      "link": "https://www.lathelab.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 21:32:49 +0000",
+      "timestamp": 1791408769.0
+    },
+    {
+      "title": "Man took his own life after 'sextortion' blackmail involving AI-generated woman",
+      "link": "https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 21:22:14 +0000",
+      "timestamp": 1791408134.0
+    },
+    {
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 21:14:43 +0000",
+      "timestamp": 1791407683.0
+    },
+    {
+      "title": "Show HN: Chloe is a TypeScript AI agent",
+      "link": "https://chloejs.org/compare",
+      "summary": "As a forward deployed engineer at Meta, I spent the past 2 years working with businesses implementing AI agents. A few problems: 1) Businesses want control over their AI agents: the code, the tools, the skills, everything. Meta, for obvious reasons would never do that. Nor OpenAI, nor Anthropic. 2) The LLM does everything. But that costs money. There are many routines in an AI agents that don't need an LLM. 3) For an AI agent to solve a real business problem, the business must own the eval data set. Similar to point #1 above, most don't do that. Instead, I built an opensource AI agent that you",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 21:12:23 +0000",
+      "timestamp": 1791407543.0
+    },
+    {
+      "title": "Show HN: SheetRelay – Google Sheets as a back end for web pages and AI agents",
+      "link": "https://sheetrelay.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 21:07:54 +0000",
+      "timestamp": 1791407274.0
+    },
+    {
+      "title": "Dave W Plummer: \"AI Cloning should be illegal\"",
+      "link": "https://twitter.com/davepl1968/status/2107875089446580273",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 20:59:54 +0000",
+      "timestamp": 1791406794.0
+    },
+    {
+      "title": "AI companies say rivals are distilling their models and why it's so hard to stop",
+      "link": "https://www.scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 07 Oct 2026 20:55:19 +0000",
+      "timestamp": 1791406519.0
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 07 Oct 2026 20:48:45 +0000",
+      "timestamp": 1791406125.0
     },
     {
       "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
@@ -21,69 +201,6 @@
       "timestamp": 1791404557.0
     },
     {
-      "title": "How to turn your AI into a world-class designer",
-      "link": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 20:17:58 +0000",
-      "timestamp": 1791404278.0
-    },
-    {
-      "title": "A New AI Agent Oriented Programming Language",
-      "link": "https://github.com/itsmedit/grenat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 20:09:43 +0000",
-      "timestamp": 1791403783.0
-    },
-    {
-      "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
-      "link": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 19:40:34 +0000",
-      "timestamp": 1791402034.0
-    },
-    {
-      "title": "Claim Act drafted for AI libability discussion [pdf]",
-      "link": "https://trahan.house.gov/uploadedfiles/claim_act_final.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 19:32:58 +0000",
-      "timestamp": 1791401578.0
-    },
-    {
-      "title": "Eugenics, Silicon Valley, and AI: Ghost in the Machine [Documentary]",
-      "link": "https://www.pbs.org/video/ghost-in-the-machine-nynp3f/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 19:25:07 +0000",
-      "timestamp": 1791401107.0
-    },
-    {
-      "title": "AI has to replace the workers who were never born",
-      "link": "https://toex.substack.com/p/ai-workers-never-born",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 19:18:06 +0000",
-      "timestamp": 1791400686.0
-    },
-    {
-      "title": "The Two Words the AI Industry Hates More Than Anything [video]",
-      "link": "https://www.youtube.com/watch?v=7Z7oA9ndmdY",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 19:15:14 +0000",
-      "timestamp": 1791400514.0
-    },
-    {
       "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
       "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [&#8230;]",
@@ -91,33 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-10-07T15:10:42-04:00",
       "timestamp": 1791400242.0
-    },
-    {
-      "title": "McDonald's sued over AI tool that recommends prices to US franchisees",
-      "link": "https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 19:07:17 +0000",
-      "timestamp": 1791400037.0
-    },
-    {
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 18:49:40 +0000",
-      "timestamp": 1791398980.0
-    },
-    {
-      "title": "Get your AI agent connector or integration discovered on TryMuse",
-      "link": "https://trymuse.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 18:45:57 +0000",
-      "timestamp": 1791398757.0
     },
     {
       "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
@@ -138,24 +228,6 @@
       "timestamp": 1791398542.0
     },
     {
-      "title": "Ask HN: What will be the next AI wave?",
-      "link": "https://news.ycombinator.com/item?id=49997056",
-      "summary": "curious to have your point of view.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 18:41:45 +0000",
-      "timestamp": 1791398505.0
-    },
-    {
-      "title": "Ask HN: Will mental health improve as AI brings mathematicians down to earth?",
-      "link": "https://news.ycombinator.com/item?id=49996986",
-      "summary": "Do you think billions of people will now breathe a sigh of relief as the apparently superhuman intellectual abilities of mathematicians are automated away by AI?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 18:36:13 +0000",
-      "timestamp": 1791398173.0
-    },
-    {
       "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
       "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
       "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
@@ -163,24 +235,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 07 Oct 2026 18:30:57 +0000",
       "timestamp": 1791397857.0
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "link": "https://openai.com/index/teens-learn-and-plan/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 18:23:15 +0000",
-      "timestamp": 1791397395.0
-    },
-    {
-      "title": "Half a Century: From Dial-Up Modems to AI, and Everything in Between",
-      "link": "https://medium.com/@akumpera/half-a-century-from-dial-up-modems-to-ai-and-everything-in-between-bc220b68dd07",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 18:17:15 +0000",
-      "timestamp": 1791397035.0
     },
     {
       "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
@@ -192,24 +246,6 @@
       "timestamp": 1791396928.0
     },
     {
-      "title": "AI Model Groupthink",
-      "link": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 18:08:38 +0000",
-      "timestamp": 1791396518.0
-    },
-    {
-      "title": "Funding the AI revolution: evidence from euro area sectors",
-      "link": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261006~35bf3c24cb.en.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 18:03:48 +0000",
-      "timestamp": 1791396228.0
-    },
-    {
       "title": "Microsoft is giving Copilot more control over Windows and your files",
       "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
       "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of [&#8230;]",
@@ -217,15 +253,6 @@
       "source": "The Verge AI",
       "published": "2026-10-07T14:01:20-04:00",
       "timestamp": 1791396080.0
-    },
-    {
-      "title": "Running Inkling (975B) Across Eleven Intel AI PCs",
-      "link": "https://arxiv.org/abs/2610.07219",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 18:01:11 +0000",
-      "timestamp": 1791396071.0
     },
     {
       "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
@@ -253,24 +280,6 @@
       "source": "The Verge AI",
       "published": "2026-10-07T13:46:44-04:00",
       "timestamp": 1791395204.0
-    },
-    {
-      "title": "FICO cuts workforce by 15% in AI-driven restructuring",
-      "link": "https://www.reuters.com/business/world-at-work/fico-cuts-workforce-by-15-ai-driven-restructuring-2026-10-06/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 17:45:37 +0000",
-      "timestamp": 1791395137.0
-    },
-    {
-      "title": "AI, Work, and the Next Downturn",
-      "link": "https://watch.wilsoniumite.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 07 Oct 2026 17:36:02 +0000",
-      "timestamp": 1791394562.0
     },
     {
       "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
@@ -363,18 +372,18 @@
       "timestamp": 1791382500.0
     },
     {
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 07 Oct 2026 14:00:00 +0000",
       "timestamp": 1791381600.0
     },
     {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 07 Oct 2026 14:00:00 +0000",
@@ -505,15 +514,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 06 Oct 2026 16:00:00 +0000",
       "timestamp": 1791302400.0
-    },
-    {
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 06 Oct 2026 15:25:00 +0000",
-      "timestamp": 1791300300.0
     },
     {
       "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
