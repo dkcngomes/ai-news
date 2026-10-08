@@ -1,186 +1,240 @@
 {
-  "scraped_at": "2026-10-08T07:21:51.179486+00:00",
+  "scraped_at": "2026-10-08T15:34:12.489833+00:00",
   "count": 60,
   "items": [
     {
-      "title": "AI Development on Windows: From PyTorch and Llama.cpp to Windows ML",
-      "link": "https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/",
+      "title": "The SQL ran fine. 58% of the answers were wrong (AI agents on a real warehouse)",
+      "link": "https://github.com/neocatalystlabs/semlayer",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 07:06:59 +0000",
-      "timestamp": 1791443219.0
+      "published": "Thu, 08 Oct 2026 15:27:36 +0000",
+      "timestamp": 1791473256.0
     },
     {
-      "title": "Poetry is the new AI security threat",
-      "link": "https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672",
+      "title": "Fakegreen: Catch AI coding agents faking a green build (no LLM)",
+      "link": "https://github.com/fitzyracing1/fakegreen",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 06:59:50 +0000",
-      "timestamp": 1791442790.0
+      "published": "Thu, 08 Oct 2026 15:27:24 +0000",
+      "timestamp": 1791473244.0
     },
     {
-      "title": "Samsung $80B profit on AI boom, highest quarter for any tech company",
-      "link": "https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/",
+      "title": "Joining the dots between big AI",
+      "link": "https://www.ft.com/content/8475dc9b-b2d4-4e10-a6b6-12796b11758a",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 06:58:47 +0000",
-      "timestamp": 1791442727.0
+      "published": "Thu, 08 Oct 2026 15:26:27 +0000",
+      "timestamp": 1791473187.0
     },
     {
-      "title": "The review bottleneck: when AI writes faster than humans can check",
-      "link": "https://loopsfinity.com/blog-ai-code-review-bottleneck",
+      "title": "Strategies for Pricing an AI Coding Agent Subscription to Ensure Profitability",
+      "link": "https://www.rswebsols.com/news/strategies-for-pricing-an-ai-coding-agent-subscription-to-ensure-profitability/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 06:34:52 +0000",
-      "timestamp": 1791441292.0
+      "published": "Thu, 08 Oct 2026 15:25:42 +0000",
+      "timestamp": 1791473142.0
     },
     {
-      "title": "Sesterce plans a €10B AI campus in Jämsä",
-      "link": "https://www.sesterce.com/newsroom/sesterce-plans-ai-campus-kaipola-jamsa-finland",
+      "title": "AMD's EPYC Verano AI CPU reportedly uses SB1 socket with 24-channel LPDDR5X",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amds-epyc-verano-ai-host-cpu-will-reportedly-use-a-special-sb1-socket-zen-6-chip-pairs-72-cores-with-a-24-channel-lpddr5x-memory-subsystem",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 06:34:24 +0000",
-      "timestamp": 1791441264.0
+      "published": "Thu, 08 Oct 2026 15:21:47 +0000",
+      "timestamp": 1791472907.0
     },
     {
-      "title": "HSBC plans job cuts across UK wealth business in AI push",
-      "link": "https://www.ft.com/content/dd553fc2-532c-4afc-a773-47cd7f786260",
+      "title": "'Dystopian': Co-op becomes latest firm to put staff under AI surveillance",
+      "link": "https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 06:30:11 +0000",
-      "timestamp": 1791441011.0
+      "published": "Thu, 08 Oct 2026 15:16:14 +0000",
+      "timestamp": 1791472574.0
     },
     {
-      "title": "AI Crawler Index",
-      "link": "https://mojodojo.io/ai-crawler-index",
-      "summary": "",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 06:26:03 +0000",
-      "timestamp": 1791440763.0
+      "source": "TechCrunch AI",
+      "published": "Thu, 08 Oct 2026 15:00:00 +0000",
+      "timestamp": 1791471600.0
     },
     {
-      "title": "Ask HN: Are we losing control of AI?",
-      "link": "https://news.ycombinator.com/item?id=50002378",
+      "title": "How to build an AI-native software factory",
+      "link": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 06:20:23 +0000",
-      "timestamp": 1791440423.0
+      "published": "Thu, 08 Oct 2026 14:47:07 +0000",
+      "timestamp": 1791470827.0
     },
     {
-      "title": "How to Make a Song with AI: A Step-by-Step Guide",
-      "link": "https://sunov6ai.com/blog/how-to-make-a-song",
+      "title": "AI scrapers are hiding behind referrer spam",
+      "link": "https://disassociated.com/ai-scrapers-hiding-behind-referrer-spam/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 06:11:51 +0000",
-      "timestamp": 1791439911.0
+      "published": "Thu, 08 Oct 2026 14:45:41 +0000",
+      "timestamp": 1791470741.0
     },
     {
-      "title": "Will AI kill us all",
-      "link": "https://virev.ai/blog/will-ai-kill-us-all",
+      "title": "Smaller models are the future of AI sovereignty",
+      "link": "https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 06:09:00 +0000",
-      "timestamp": 1791439740.0
+      "published": "Thu, 08 Oct 2026 14:37:51 +0000",
+      "timestamp": 1791470271.0
     },
     {
-      "title": "Researcher Gets $300 from OpenAI for Major AI Security Flaw",
-      "link": "https://x.com/i/trending/2107776361859293195",
+      "title": "Show HN: Llmll – AI agents fill typed holes, an SMT solver rejects wrong fills",
+      "link": "https://github.com/machunter/llmll",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 06:01:05 +0000",
-      "timestamp": 1791439265.0
+      "published": "Thu, 08 Oct 2026 14:25:44 +0000",
+      "timestamp": 1791469544.0
     },
     {
-      "title": "Ex-ByteDance Intern's $200M AI Lab Takes on Fei-Fei Li",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-07/ex-bytedance-intern-s-200-million-ai-lab-takes-on-fei-fei-li",
+      "title": "AI Ends Closed-Source Software",
+      "link": "https://www.heise.de/en/news/Open-Source-Guru-Raymond-AI-Ends-Closed-Source-Software-11480690.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 05:46:36 +0000",
-      "timestamp": 1791438396.0
+      "published": "Thu, 08 Oct 2026 14:24:46 +0000",
+      "timestamp": 1791469486.0
     },
     {
-      "title": "Microsoft Execution Containers: Policy-driven containment for AI agents",
-      "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "title": "Show HN: I Put an AI Agent on a Nokia 110",
+      "link": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 05:44:18 +0000",
-      "timestamp": 1791438258.0
+      "published": "Thu, 08 Oct 2026 14:18:51 +0000",
+      "timestamp": 1791469131.0
     },
     {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "title": "Why the AI future will be awesome",
+      "link": "https://nullpaste.org/raw/t-0Um6AUv_CJ",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 04:48:59 +0000",
-      "timestamp": 1791434939.0
+      "published": "Thu, 08 Oct 2026 14:16:34 +0000",
+      "timestamp": 1791468994.0
     },
     {
-      "title": "Show HN: Pacer – will your AI coding subscription last until the reset?",
-      "link": "https://github.com/dkremsa/claude-pacer",
+      "title": "Why the Catholic Church Is AI Doom's Most Formidable Foe",
+      "link": "https://thedispatch.com/article/catholic-church-artificial-intelligence-millenarian/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 04:10:33 +0000",
-      "timestamp": 1791432633.0
+      "published": "Thu, 08 Oct 2026 14:16:25 +0000",
+      "timestamp": 1791468985.0
     },
     {
-      "title": "AI Changed the Team, Not the Process",
-      "link": "https://www.compile.la/ai-changed-the-team-not-the-process/",
+      "title": "Encrypted Word Hunt; game where AI understands what you say without hearing",
+      "link": "https://hotword.belfortlabs.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 04:10:21 +0000",
-      "timestamp": 1791432621.0
+      "published": "Thu, 08 Oct 2026 14:05:31 +0000",
+      "timestamp": 1791468331.0
     },
     {
-      "title": "The AI Pascal's Wager",
-      "link": "https://ploum.net/2026-10-01-pascal_wager.html",
-      "summary": "",
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+      "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 02:37:18 +0000",
-      "timestamp": 1791427038.0
+      "source": "TechCrunch AI",
+      "published": "Thu, 08 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791468000.0
     },
     {
-      "title": "Runtime – Your AI Agents Have a Home",
-      "link": "https://withruntime.com/",
-      "summary": "",
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 02:04:06 +0000",
-      "timestamp": 1791425046.0
+      "source": "TechCrunch AI",
+      "published": "Thu, 08 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791468000.0
     },
     {
-      "title": "Building alone, faster: a panel on what AI is doing to the product trio",
-      "link": "https://jennywanger.com/articles/building-alone-faster/",
+      "title": "Is Google limiting -AI Searches",
+      "link": "https://musings101.bearblog.dev/is-google-limiting-ai-searches/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 01:44:29 +0000",
-      "timestamp": 1791423869.0
+      "published": "Thu, 08 Oct 2026 13:56:38 +0000",
+      "timestamp": 1791467798.0
     },
     {
-      "title": "Exodus AI – Affordable face swapping tool for creators",
-      "link": "https://tally.so/r/44gGAB",
+      "title": "Google Granola Competitor: local first AI meeting dictation",
+      "link": "https://developers.google.com/edge/foresight",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 08 Oct 2026 01:40:57 +0000",
-      "timestamp": 1791423657.0
+      "published": "Thu, 08 Oct 2026 13:53:24 +0000",
+      "timestamp": 1791467604.0
+    },
+    {
+      "title": "Solo teen hiker hoisted from mountain cliff after using AI to plan route",
+      "link": "https://www.nsnews.com/local-news/solo-teen-hiker-hoisted-from-mountain-cliff-after-using-ai-to-plan-route-north-shore-rescue-says-12855671",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 08 Oct 2026 13:52:41 +0000",
+      "timestamp": 1791467561.0
+    },
+    {
+      "title": "The AI purge has begun",
+      "link": "https://joelgouveia.substack.com/p/the-ai-purge-has-begun",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 08 Oct 2026 13:42:12 +0000",
+      "timestamp": 1791466932.0
+    },
+    {
+      "title": "Walking Robotic Hand Uses AI to Learn New Tricks",
+      "link": "https://spectrum.ieee.org/walking-robotic-hand",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 08 Oct 2026 13:41:29 +0000",
+      "timestamp": 1791466889.0
+    },
+    {
+      "title": "Google releases a new local-first Granola competitor",
+      "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 08 Oct 2026 13:28:39 +0000",
+      "timestamp": 1791466119.0
+    },
+    {
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 08 Oct 2026 13:20:32 +0000",
+      "timestamp": 1791465632.0
+    },
+    {
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+      "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 08 Oct 2026 09:30:00 +0000",
+      "timestamp": 1791451800.0
     },
     {
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
@@ -453,24 +507,6 @@
       "timestamp": 1791318920.0
     },
     {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 06 Oct 2026 20:00:30 +0000",
-      "timestamp": 1791316830.0
-    },
-    {
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 06 Oct 2026 19:56:50 +0000",
-      "timestamp": 1791316610.0
-    },
-    {
       "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
       "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
       "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
@@ -480,15 +516,6 @@
       "timestamp": 1791312339.0
     },
     {
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 06 Oct 2026 18:22:45 +0000",
-      "timestamp": 1791310965.0
-    },
-    {
       "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
       "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
       "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
@@ -496,24 +523,6 @@
       "source": "Wired AI",
       "published": "Tue, 06 Oct 2026 17:28:33 +0000",
       "timestamp": 1791307713.0
-    },
-    {
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 06 Oct 2026 16:35:00 +0000",
-      "timestamp": 1791304500.0
-    },
-    {
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 06 Oct 2026 16:00:00 +0000",
-      "timestamp": 1791302400.0
     },
     {
       "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 06 Oct 2026 10:30:00 +0000",
       "timestamp": 1791282600.0
-    },
-    {
-      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sun, 04 Oct 2026 10:00:00 +0000",
-      "timestamp": 1791108000.0
     }
   ]
 }
