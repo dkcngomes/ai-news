@@ -1,186 +1,231 @@
 {
-  "scraped_at": "2026-10-09T09:00:26.175919+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-09T16:10:10.970950+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Aleph Alpha and Mistral launches fuel Europe's sovereign AI push",
-      "link": "https://www.renascence.io/news/96889/aleph-alpha-mistral-launches-fuel-europes-sovereign-ai-push",
+      "title": "Fired for Prioritizing AI Safety",
+      "link": "https://twitter.com/balesni/status/2108262814003687745",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 08:53:25 +0000",
-      "timestamp": 1791536005.0
+      "published": "Fri, 09 Oct 2026 15:50:56 +0000",
+      "timestamp": 1791561056.0
     },
     {
-      "title": "[video] Pedagogy in the Times of AI",
-      "link": "https://www.youtube.com/watch?v=N2a1J0UPeL4",
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "link": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 08:51:59 +0000",
-      "timestamp": 1791535919.0
+      "published": "Fri, 09 Oct 2026 15:49:51 +0000",
+      "timestamp": 1791560991.0
     },
     {
-      "title": "Kubernetes for AI agents: when code is cheap, proof matters",
-      "link": "https://kubedex.com/kubernetes-ai-agentic-development/",
+      "title": "Vinod Khosla Backs an AI Startup Building a Mind-Reading Baseball Cap",
+      "link": "https://www.forbes.com/sites/rashishrivastava/2026/10/09/vinod-khosla-backs-an-ai-startup-building-a-mind-reading-baseball-cap/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 08:34:35 +0000",
-      "timestamp": 1791534875.0
+      "published": "Fri, 09 Oct 2026 15:49:25 +0000",
+      "timestamp": 1791560965.0
     },
     {
-      "title": "AI has made it easier than ever to make apps nobody asked for",
-      "link": "https://boakandbailey.com/2026/09/ai-has-made-it-easier-than-ever-to-make-apps-nobody-asked-for/",
+      "title": "A16z’s Olivia Moore on the state of consumer AI",
+      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 09 Oct 2026 15:43:33 +0000",
+      "timestamp": 1791560613.0
+    },
+    {
+      "title": "AI, Autonomous Warfare and the Severance from Responsibility",
+      "link": "https://read.misalignedmag.com/ai-autonomous-warfare-and-the-severance-from-responsibility-480da36c7f65",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 08:32:00 +0000",
-      "timestamp": 1791534720.0
+      "published": "Fri, 09 Oct 2026 15:15:12 +0000",
+      "timestamp": 1791558912.0
     },
     {
-      "title": "Bengio: 'If you prioritize safety, leave frontier AI companies'",
-      "link": "https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies",
+      "title": "Agent Swarm: OSS multiplayer AI for your company",
+      "link": "https://github.com/desplega-ai/agent-swarm/releases",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 08:13:15 +0000",
-      "timestamp": 1791533595.0
+      "published": "Fri, 09 Oct 2026 15:11:36 +0000",
+      "timestamp": 1791558696.0
     },
     {
-      "title": "Where does your company draw the line on sensitive data in AI tools?",
-      "link": "https://privatesuperintelligence.si/",
+      "title": "A Code of Conduct for Humanist AI",
+      "link": "https://twitter.com/mustafasuleyman/status/2099488602418028917",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 08:07:50 +0000",
-      "timestamp": 1791533270.0
+      "published": "Fri, 09 Oct 2026 15:09:06 +0000",
+      "timestamp": 1791558546.0
     },
     {
-      "title": "Where Is the AI?",
-      "link": "https://johnomeara.com/blog/where-is-the-ai",
+      "title": "US charity plans to use AI to monitor its Gaza classrooms for 'hateful' speech",
+      "link": "https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53?taid=6ac898017a4b4a000148d491&utm_campaign=TrueAnthem&utm_medium=AP",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 07:50:04 +0000",
-      "timestamp": 1791532204.0
+      "published": "Fri, 09 Oct 2026 15:08:28 +0000",
+      "timestamp": 1791558508.0
     },
     {
-      "title": "Why the AI Ddeterminism Argument Annoys Me",
-      "link": "https://blog.demofox.org/2026/10/07/why-the-ai-determinism-argument-annoys-me/",
+      "title": "Vibe Session Manager keeps track of all your VSCode AI-chat-sessions",
+      "link": "https://github.com/Ruvan72/vibe-session-manager",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 07:31:29 +0000",
-      "timestamp": 1791531089.0
+      "published": "Fri, 09 Oct 2026 15:06:23 +0000",
+      "timestamp": 1791558383.0
     },
     {
-      "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "title": "Disrupting AI-enabled \"false front\" operations",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 07:23:46 +0000",
-      "timestamp": 1791530626.0
+      "published": "Fri, 09 Oct 2026 15:03:33 +0000",
+      "timestamp": 1791558213.0
     },
     {
-      "title": "Can an AI learn what you like, rather than just what you've searched for?",
-      "link": "https://news.ycombinator.com/item?id=50017172",
-      "summary": "I'm a writer who was pondering the problems with getting my work discovered and realized that current search/recommendation engines don't go very deep. So I thought about ways to address this. I was obviously mostly interested in books, so I worked on that first. I'd noticed LLMs are capable of pretty solid textual anaylsis these days, so I wondered if you could use that to generate good recommendations. So I sat down with an LLM- ChatGPT, Luna, for the curious- and spent about two hours explaining, in datail, my literary tastes- going into specifics like what sort of plot structure, character",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 07:18:41 +0000",
-      "timestamp": 1791530321.0
-    },
-    {
-      "title": "Pangram says my satire about Pangram is 100% AI",
-      "link": "https://www.reddit.com/r/Substack/comments/1x1e6yx/pangram_says_my_satire_about_pangram_is_100_ai_i/",
+      "title": "The future of programmers, after AI",
+      "link": "https://kevinaleman.com/the-future-after-ai-2767/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 07:05:40 +0000",
-      "timestamp": 1791529540.0
+      "published": "Fri, 09 Oct 2026 14:59:16 +0000",
+      "timestamp": 1791557956.0
     },
     {
-      "title": "Open Benchmark of AI Impact on Humans",
-      "link": "https://impactbench.media.mit.edu/",
+      "title": "Beijing Will Not Pace the Frontier: China's Speed-First AI Safety Regime",
+      "link": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 06:45:31 +0000",
-      "timestamp": 1791528331.0
+      "published": "Fri, 09 Oct 2026 14:56:57 +0000",
+      "timestamp": 1791557817.0
     },
     {
-      "title": "Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise",
-      "link": "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
+      "title": "Meatpupptry is far creepier than pure \"AI\" fakery",
+      "link": "https://news.ycombinator.com/item?id=50021296",
+      "summary": "Local pharmacy phoneline is answered by \"Caroline\" with convincing voice, mannerisms and even background typing noise. You only realise she's fake at the first stochastic parrotese. My bank sends emailed query responses signed by e.g. Sarah. No disclaimer, e.g. \"AI can make mistakes\". Again starts convincing but can degenerate into parrotese. If I politely ask bot/human?, I get \"human\"... but if I query nonsensical advice, I get a non-resolving answer classic of ChatGPT. The reverse centauar in all its ugly glory.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 09 Oct 2026 14:48:01 +0000",
+      "timestamp": 1791557281.0
+    },
+    {
+      "title": "AI Age Manager, Budgeting AI Spending, 10x Revenue by 10x Code?",
+      "link": "https://age-of-product.com/food-agile-thought-565-ai-age-manager/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 06:29:11 +0000",
-      "timestamp": 1791527351.0
+      "published": "Fri, 09 Oct 2026 14:38:20 +0000",
+      "timestamp": 1791556700.0
     },
     {
-      "title": "Agency offers staff two years pay if they can replace themselves with AI",
-      "link": "https://mumbrella.com.au/agency-offers-staff-two-years-pay-if-they-can-replace-themselves-with-ai-940294",
+      "title": "AI and the Future of Science",
+      "link": "https://sunelehmann.com/blog/ai-and-the-future-of-science/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 06:26:49 +0000",
-      "timestamp": 1791527209.0
+      "published": "Fri, 09 Oct 2026 14:26:57 +0000",
+      "timestamp": 1791556017.0
     },
     {
-      "title": "Show HN: Is this AI training on my prompts? A dated record of the fine print",
-      "link": "https://trainedon.me/",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-09T10:25:43-04:00",
+      "timestamp": 1791555943.0
+    },
+    {
+      "title": "SoftBank seeks $100B from Gulf investors to expand AI bet",
+      "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 05:46:51 +0000",
-      "timestamp": 1791524811.0
+      "published": "Fri, 09 Oct 2026 14:22:45 +0000",
+      "timestamp": 1791555765.0
     },
     {
-      "title": "Show HN: Wy – a Rust terminal tool for understanding AI-generated code",
-      "link": "https://github.com/grandimam/wy",
-      "summary": "I have been an opensource terminal tool for understanding AI-generated code. A git-diff shows what changed, but the context behind it lives somewhere within the agent's session context, and often goes missing in long running agent execution. Wy helps reduce that understanding gap, and helps engineers build judgement. This is especially useful for unfamiliar codebases, where agents are the primary interface for the developers. It is meant to be used alongside the With wy, you can: - Browse changes, and relevant agent notes in a terminal UI - Request explanation and ask follow up questions and c",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 05:21:32 +0000",
-      "timestamp": 1791523292.0
-    },
-    {
-      "title": "OpenAI cannot make AI safe on its own [pdf]",
-      "link": "https://mikitabalesni.com/letter/letter.pdf",
+      "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+      "link": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 05:16:53 +0000",
-      "timestamp": 1791523013.0
+      "published": "Fri, 09 Oct 2026 14:14:08 +0000",
+      "timestamp": 1791555248.0
     },
     {
-      "title": "AI model can reconstruct images from your brain",
-      "link": "https://petapixel.com/2026/10/07/fastest-ever-mind-reading-ai-model-can-reconstruct-images-from-your-brain/",
+      "title": "Step 5 Preview now available on AI Gateway",
+      "link": "https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 04:48:54 +0000",
-      "timestamp": 1791521334.0
+      "published": "Fri, 09 Oct 2026 14:01:45 +0000",
+      "timestamp": 1791554505.0
     },
     {
-      "title": "Cybernetics of AI Companies",
-      "link": "https://ai-cybernetics.grok.me",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 09 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791554400.0
+    },
+    {
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-09T10:00:00-04:00",
+      "timestamp": 1791554400.0
+    },
+    {
+      "title": "Michael I. Jordan on AI: \"Superintelligence is science fiction\"",
+      "link": "https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 04:43:20 +0000",
-      "timestamp": 1791521000.0
+      "published": "Fri, 09 Oct 2026 13:58:54 +0000",
+      "timestamp": 1791554334.0
     },
     {
-      "title": "AI Film Submmitted for Best Animated Feature Oscar",
-      "link": "https://twitter.com/fableshowrunner/status/2107522071647731768",
+      "title": "LocalMind: Pocket AI Assistant",
+      "link": "https://play.google.com/store/apps/details?id=com.pocketai.localmind&hl=en_US",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 04:26:09 +0000",
-      "timestamp": 1791519969.0
+      "published": "Fri, 09 Oct 2026 13:46:46 +0000",
+      "timestamp": 1791553606.0
+    },
+    {
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 09 Oct 2026 10:00:00 +0000",
+      "timestamp": 1791540000.0
+    },
+    {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &#8288;Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-09T05:48:26-04:00",
+      "timestamp": 1791539306.0
     },
     {
       "title": "Anthropic launches free AI security scans for open-source projects",
@@ -381,24 +426,6 @@
       "timestamp": 1791468000.0
     },
     {
-      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
-      "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mini sales earlier [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-08T10:00:00-04:00",
-      "timestamp": 1791468000.0
-    },
-    {
-      "title": "Artificial is a wicked satire that also sticks to the facts",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
-      "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-08T10:00:00-04:00",
-      "timestamp": 1791468000.0
-    },
-    {
       "title": "Google releases a new local-first Granola competitor",
       "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
       "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
@@ -444,15 +471,6 @@
       "timestamp": 1791404557.0
     },
     {
-      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-07T15:10:42-04:00",
-      "timestamp": 1791400242.0
-    },
-    {
       "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
       "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
       "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
@@ -469,24 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 07 Oct 2026 18:30:57 +0000",
       "timestamp": 1791397857.0
-    },
-    {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 07 Oct 2026 18:15:28 +0000",
-      "timestamp": 1791396928.0
-    },
-    {
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 07 Oct 2026 18:00:19 +0000",
-      "timestamp": 1791396019.0
     },
     {
       "title": "The New ChatGPT Is More Show Than Tell",
@@ -532,15 +532,6 @@
       "source": "Wired AI",
       "published": "Tue, 06 Oct 2026 18:45:39 +0000",
       "timestamp": 1791312339.0
-    },
-    {
-      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-      "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-      "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 06 Oct 2026 17:28:33 +0000",
-      "timestamp": 1791307713.0
     }
   ]
 }
