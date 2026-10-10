@@ -1,177 +1,222 @@
 {
-  "scraped_at": "2026-10-10T18:33:14.903448+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-10T22:29:25.216219+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "ShareBox – share the web tools your AI agent builds, like a Google Doc",
-      "link": "https://github.com/zalaso/sharebox",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-10T18:10:17-04:00",
+      "timestamp": 1791670217.0
+    },
+    {
+      "title": "We're All Working for AI Now",
+      "link": "https://medium.com/@mustafaydemir/were-all-working-for-ai-now-19353aa51e82",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 18:27:08 +0000",
-      "timestamp": 1791656828.0
+      "published": "Sat, 10 Oct 2026 22:09:03 +0000",
+      "timestamp": 1791670143.0
     },
     {
-      "title": "AI Driving Game Demo Forces Developer to Take Out Bank Loan to Keep It Running",
-      "link": "https://www.ign.com/articles/ai-driving-game-demo-bank-loan",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 10 Oct 2026 21:47:51 +0000",
+      "timestamp": 1791668871.0
+    },
+    {
+      "title": "Arrival Mind (children's book about AI risk – narrated)",
+      "link": "https://www.youtube.com/watch?v=5GISvEfdbm4",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 18:23:46 +0000",
-      "timestamp": 1791656626.0
+      "published": "Sat, 10 Oct 2026 21:40:54 +0000",
+      "timestamp": 1791668454.0
     },
     {
-      "title": "Is AI eating digital marketing too?",
-      "link": "https://medium.com/@whurthay/ai-is-automating-marketings-feedback-loop-2da124ead7f8",
+      "title": "Show HN: I built a macOS screensaver that reacts to AI coding agents",
+      "link": "https://www.ascendaflow.com/waterline",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 18:18:19 +0000",
-      "timestamp": 1791656299.0
+      "published": "Sat, 10 Oct 2026 21:39:20 +0000",
+      "timestamp": 1791668360.0
     },
     {
-      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-      "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+      "title": "Show HN: Try Free Long-Term Memory for AI 50M-Token Window",
+      "link": "https://github.com/corbenicai/galahad",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 18:10:54 +0000",
-      "timestamp": 1791655854.0
+      "published": "Sat, 10 Oct 2026 21:36:50 +0000",
+      "timestamp": 1791668210.0
     },
     {
-      "title": "Best Free AI APIs for Developers in 2026",
-      "link": "https://freeapihub.com/blog/best-free-ai-apis-developers",
+      "title": "The Token Economy: Why Falling Token Prices Have Not Lowered AI Bills",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 18:05:12 +0000",
-      "timestamp": 1791655512.0
+      "published": "Sat, 10 Oct 2026 21:18:52 +0000",
+      "timestamp": 1791667132.0
     },
     {
-      "title": "Computer scientist David Silver: 'Where are we going without AI?'",
-      "link": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828",
+      "title": "I bet AI would invent its own language; Claude Opus's survived every copy",
+      "link": "https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 17:37:58 +0000",
-      "timestamp": 1791653878.0
+      "published": "Sat, 10 Oct 2026 21:02:24 +0000",
+      "timestamp": 1791666144.0
     },
     {
-      "title": "Is AI Psychosis Real?",
-      "link": "https://debarshibasak.github.io/readables/blogs/ai-psychosis-is-real",
+      "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
+      "link": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 17:17:54 +0000",
-      "timestamp": 1791652674.0
+      "published": "Sat, 10 Oct 2026 20:17:41 +0000",
+      "timestamp": 1791663461.0
     },
     {
-      "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
-      "link": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/",
+      "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
+      "link": "https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 17:12:55 +0000",
-      "timestamp": 1791652375.0
+      "published": "Sat, 10 Oct 2026 20:17:15 +0000",
+      "timestamp": 1791663435.0
     },
     {
-      "title": "Building a safer path to autonomous industrial AI",
-      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "title": "Try On-Device AI with FM",
+      "link": "https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 17:10:30 +0000",
-      "timestamp": 1791652230.0
+      "published": "Sat, 10 Oct 2026 20:16:39 +0000",
+      "timestamp": 1791663399.0
     },
     {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "title": "Is AI conscious? Anthropic says 'maybe'",
+      "link": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 17:00:04 +0000",
-      "timestamp": 1791651604.0
+      "published": "Sat, 10 Oct 2026 20:15:48 +0000",
+      "timestamp": 1791663348.0
     },
     {
-      "title": "Evolocity is hiring AI researchers and engineers in Los Altos",
-      "link": "https://evolocity.ai/careers/",
+      "title": "The state of AI-assisted reverse-engineering of Apple Macs",
+      "link": "https://github.com/aurora-silicon/linux/discussions/70",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 16:54:19 +0000",
-      "timestamp": 1791651259.0
+      "published": "Sat, 10 Oct 2026 19:52:08 +0000",
+      "timestamp": 1791661928.0
     },
     {
-      "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
-      "link": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
+      "title": "Integrated Circuits, AI, and Wallabies",
+      "link": "https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 16:54:02 +0000",
-      "timestamp": 1791651242.0
+      "published": "Sat, 10 Oct 2026 19:51:26 +0000",
+      "timestamp": 1791661886.0
     },
     {
-      "title": "How do Lightroom/DxO achieve such good AI denoising results?",
-      "link": "https://news.ycombinator.com/item?id=50034715",
-      "summary": "I'm curious about the technical details behind the RAW denoising in Adobe Lightroom, DxO DeepPRIME, etc. What makes these propreitary solutions so much better than open-source models like RawNIND?",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 16:51:39 +0000",
-      "timestamp": 1791651099.0
+      "source": "TechCrunch AI",
+      "published": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "timestamp": 1791661800.0
     },
     {
-      "title": "Boro: Nvidia's Open-Source Effort for AI-Assisted Linux Kernel Development",
-      "link": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
+      "title": "Your AI Said \"Done.\" Make It Prove It.",
+      "link": "https://viaknox.com/blog/ai-said-done-make-it-prove-it",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 16:47:52 +0000",
-      "timestamp": 1791650872.0
+      "published": "Sat, 10 Oct 2026 19:47:10 +0000",
+      "timestamp": 1791661630.0
     },
     {
-      "title": "Show HN: I asked 10k people to describe AI in 1 word",
-      "link": "https://crowdle.gg/ai/",
+      "title": "Ask HN: What's your plan if AI takes your job?",
+      "link": "https://news.ycombinator.com/item?id=50036432",
+      "summary": "If AI took away my job and I cannot return to software engineering, I cannot imagine a fit for me at any place yet. I was wondering if anyone else had the same thought and what would you do?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 19:43:28 +0000",
+      "timestamp": 1791661408.0
+    },
+    {
+      "title": "I don't trust Lean code from AI",
+      "link": "https://karagila.org/2026/lean/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 16:27:45 +0000",
-      "timestamp": 1791649665.0
+      "published": "Sat, 10 Oct 2026 19:40:16 +0000",
+      "timestamp": 1791661216.0
     },
     {
-      "title": "AI Is Throwing a Roadside Picnic",
-      "link": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+      "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+      "link": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 16:19:23 +0000",
-      "timestamp": 1791649163.0
+      "published": "Sat, 10 Oct 2026 19:39:10 +0000",
+      "timestamp": 1791661150.0
     },
     {
-      "title": "Patient disputed $85,000 hospital bill, then an AI sweep added nearly $20k",
-      "link": "https://www.yahoo.com/news/us/articles/patient-disputed-85-000-hospital-032100813.html",
+      "title": "Google AI Edge Foresight – meeting notetaker on-device",
+      "link": "https://developers.google.com/edge/foresight",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 16:07:54 +0000",
-      "timestamp": 1791648474.0
+      "published": "Sat, 10 Oct 2026 19:31:17 +0000",
+      "timestamp": 1791660677.0
     },
     {
-      "title": "AI stance is not binary",
-      "link": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+      "title": "AI and Bottlenecks in Software Production [pdf]",
+      "link": "https://fion.ac/jellyfish.pdf",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 15:58:19 +0000",
-      "timestamp": 1791647899.0
+      "published": "Sat, 10 Oct 2026 19:28:58 +0000",
+      "timestamp": 1791660538.0
     },
     {
-      "title": "Can AI Break Cryptography?",
-      "link": "https://a16zcrypto.substack.com/p/can-ai-really-break-cryptography",
+      "title": "Is AI Killing the Value of Human Writing?",
+      "link": "https://transitions.substack.com/p/is-ai-killing-the-value-of-human",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 15:56:14 +0000",
-      "timestamp": 1791647774.0
+      "published": "Sat, 10 Oct 2026 19:28:46 +0000",
+      "timestamp": 1791660526.0
+    },
+    {
+      "title": "Ask HN: Why did Microsoft invest in AI that could rewrite its apps from scratch?",
+      "link": "https://news.ycombinator.com/item?id=50036146",
+      "summary": "Maybe they didn't anticipate how good AI would become at vibe coding apps in general and its office apps in particular?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 19:14:41 +0000",
+      "timestamp": 1791659681.0
+    },
+    {
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-10T14:52:07-04:00",
+      "timestamp": 1791658327.0
     },
     {
       "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
@@ -183,6 +228,15 @@
       "timestamp": 1791644400.0
     },
     {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-10T10:41:16-04:00",
+      "timestamp": 1791643276.0
+    },
+    {
       "title": "Here are the top AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -190,6 +244,15 @@
       "source": "TechCrunch AI",
       "published": "Sat, 10 Oct 2026 14:00:00 +0000",
       "timestamp": 1791640800.0
+    },
+    {
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-10T09:00:00-04:00",
+      "timestamp": 1791637200.0
     },
     {
       "title": "AI Is Getting Really Good at Messing With Cybercriminals",
@@ -354,15 +417,6 @@
       "timestamp": 1791539306.0
     },
     {
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-08T17:53:51-04:00",
-      "timestamp": 1791496431.0
-    },
-    {
       "title": "Inside Elon Musk’s Midterm Spending Spree",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
       "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
@@ -379,15 +433,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 08 Oct 2026 21:00:00 +0000",
       "timestamp": 1791493200.0
-    },
-    {
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-08T16:06:56-04:00",
-      "timestamp": 1791490016.0
     },
     {
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
@@ -451,42 +496,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 08 Oct 2026 18:16:24 +0000",
       "timestamp": 1791483384.0
-    },
-    {
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 08 Oct 2026 18:10:55 +0000",
-      "timestamp": 1791483055.0
-    },
-    {
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI's unauthorized use of [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-08T13:58:33-04:00",
-      "timestamp": 1791482313.0
-    },
-    {
-      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier Hansson's Linux project. According to Hansson's [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-08T13:57:01-04:00",
-      "timestamp": 1791482221.0
-    },
-    {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 08 Oct 2026 16:00:00 +0000",
-      "timestamp": 1791475200.0
     },
     {
       "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
