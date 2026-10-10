@@ -1,159 +1,195 @@
 {
-  "scraped_at": "2026-10-10T13:39:00.972697+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-10T18:33:14.903448+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "AI found solutions to problems in 22 scientific fields hiding in plain sight",
-      "link": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?referrer=https%3A%2F%2Fnews.google.com%2F",
+      "title": "ShareBox – share the web tools your AI agent builds, like a Google Doc",
+      "link": "https://github.com/zalaso/sharebox",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 13:34:27 +0000",
-      "timestamp": 1791639267.0
+      "published": "Sat, 10 Oct 2026 18:27:08 +0000",
+      "timestamp": 1791656828.0
     },
     {
-      "title": "Ask HN: How will socio-economic mobility look like in an AI future?",
-      "link": "https://news.ycombinator.com/item?id=50032742",
-      "summary": "The advantages which previously resided with intelligence or skills now move to capital. This takes away one of the last pathways us peasants had towards socio-economic mobility. Intelligence is effectively commoditized. In a post-AI future, presumably non-knowlegde-work jobs like Pizza Delivery worker, Kindergarten teacher or even Plumber would still exist. But these jobs have little place to shine since they entirely depend on human bottlenecks. Similarly jobs where regulation exists or workers are unionised might exist for a while. But those jobs do not present a clear pathway from lower mi",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 13:27:36 +0000",
-      "timestamp": 1791638856.0
-    },
-    {
-      "title": "Show HN: ShipOrNah – Free security scan for AI-generated apps",
-      "link": "https://shipornah.com",
+      "title": "AI Driving Game Demo Forces Developer to Take Out Bank Loan to Keep It Running",
+      "link": "https://www.ign.com/articles/ai-driving-game-demo-bank-loan",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 13:16:08 +0000",
-      "timestamp": 1791638168.0
+      "published": "Sat, 10 Oct 2026 18:23:46 +0000",
+      "timestamp": 1791656626.0
     },
     {
-      "title": "Jensen Huang Doing Michale Jackson Dance (AI)",
-      "link": "https://www.instagram.com/reel/DeRdcT5iGjW/",
+      "title": "Is AI eating digital marketing too?",
+      "link": "https://medium.com/@whurthay/ai-is-automating-marketings-feedback-loop-2da124ead7f8",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 13:11:34 +0000",
-      "timestamp": 1791637894.0
+      "published": "Sat, 10 Oct 2026 18:18:19 +0000",
+      "timestamp": 1791656299.0
     },
     {
-      "title": "Show HN: An MCP server for searching AI engineering jobs",
-      "link": "https://frontierroles.com/mcp/",
-      "summary": "An MCP server for frontierroles.com, a board of about 3,500 AI engineering roles pulled nightly from employers' own applicant tracking systems, with tools to search roles. No account or API key needed: https://mcp.frontierroles.com/mcp",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 13:09:31 +0000",
-      "timestamp": 1791637771.0
-    },
-    {
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-10T09:00:00-04:00",
-      "timestamp": 1791637200.0
-    },
-    {
-      "title": "An AI recorder that hides in plain sight on your glasses strap",
-      "link": "https://aicords.com/",
+      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+      "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:47:48 +0000",
-      "timestamp": 1791636468.0
+      "published": "Sat, 10 Oct 2026 18:10:54 +0000",
+      "timestamp": 1791655854.0
     },
     {
-      "title": "Rally for AI Rights: Organizing via MCP App",
-      "link": "https://rallyforairights.org",
+      "title": "Best Free AI APIs for Developers in 2026",
+      "link": "https://freeapihub.com/blog/best-free-ai-apis-developers",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:43:05 +0000",
-      "timestamp": 1791636185.0
+      "published": "Sat, 10 Oct 2026 18:05:12 +0000",
+      "timestamp": 1791655512.0
     },
     {
-      "title": "Show HN: OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
-      "link": "https://maplehill.openwants.com/",
-      "summary": "Iv'e been working on this for a while. Most of the effort went into what i call \"sophisticated simplicity\", keep the idea in the smallest version that still works. This one is a bit personal. it can feel like some sci-fi thing, but i've been obsessed with it for a very long time. its not a \"business\" that you used to see here speak about moat or tam, its more like an experiment, a way of me to take one question seriously and see where it leads and if there are others like me out there. AI models are on a path to keep getting better and better, personal ai agents are spreading fast, and we're s",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:42:25 +0000",
-      "timestamp": 1791636145.0
-    },
-    {
-      "title": "TORI 2.0 – A Math Framework for Cosmic AI Loops and Data Decay",
-      "link": "https://zenodo.org/records/23262675",
+      "title": "Computer scientist David Silver: 'Where are we going without AI?'",
+      "link": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:39:17 +0000",
-      "timestamp": 1791635957.0
+      "published": "Sat, 10 Oct 2026 17:37:58 +0000",
+      "timestamp": 1791653878.0
     },
     {
-      "title": "Prompt Injection Detection and Defense Tools for Enterprise AI Agents",
-      "link": "https://www.arcade.dev/blog/prompt-injection-detection-tools/",
+      "title": "Is AI Psychosis Real?",
+      "link": "https://debarshibasak.github.io/readables/blogs/ai-psychosis-is-real",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:30:32 +0000",
-      "timestamp": 1791635432.0
+      "published": "Sat, 10 Oct 2026 17:17:54 +0000",
+      "timestamp": 1791652674.0
     },
     {
-      "title": "AI borrowing slows as investors grow wary of debt binge",
-      "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9",
+      "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
+      "link": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:23:44 +0000",
-      "timestamp": 1791635024.0
+      "published": "Sat, 10 Oct 2026 17:12:55 +0000",
+      "timestamp": 1791652375.0
     },
     {
-      "title": "The AI Torture Chamber",
-      "link": "https://jesse.id/blog/the-ai-torture-chamber",
+      "title": "Building a safer path to autonomous industrial AI",
+      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:23:24 +0000",
-      "timestamp": 1791635004.0
+      "published": "Sat, 10 Oct 2026 17:10:30 +0000",
+      "timestamp": 1791652230.0
     },
     {
-      "title": "Microsoft Has $80B of AI Chips It Can't Plug in [video]",
-      "link": "https://www.youtube.com/watch?v=es4FfRU8saQ",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:15:03 +0000",
-      "timestamp": 1791634503.0
+      "published": "Sat, 10 Oct 2026 17:00:04 +0000",
+      "timestamp": 1791651604.0
     },
     {
-      "title": "Ariodb – a proxy that checks and can undo what AI agents do to your DB",
-      "link": "https://github.com/roozjalali/ariodb",
+      "title": "Evolocity is hiring AI researchers and engineers in Los Altos",
+      "link": "https://evolocity.ai/careers/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:11:06 +0000",
-      "timestamp": 1791634266.0
+      "published": "Sat, 10 Oct 2026 16:54:19 +0000",
+      "timestamp": 1791651259.0
     },
     {
-      "title": "Advancing mathematics research with AI-driven formal proof search",
-      "link": "https://www.science.org/doi/10.1126/science.aej2213",
+      "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
+      "link": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:10:14 +0000",
-      "timestamp": 1791634214.0
+      "published": "Sat, 10 Oct 2026 16:54:02 +0000",
+      "timestamp": 1791651242.0
     },
     {
-      "title": "AI model submitted false tip about unsolved murder, Philadelphia police say",
-      "link": "https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/",
+      "title": "How do Lightroom/DxO achieve such good AI denoising results?",
+      "link": "https://news.ycombinator.com/item?id=50034715",
+      "summary": "I'm curious about the technical details behind the RAW denoising in Adobe Lightroom, DxO DeepPRIME, etc. What makes these propreitary solutions so much better than open-source models like RawNIND?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 16:51:39 +0000",
+      "timestamp": 1791651099.0
+    },
+    {
+      "title": "Boro: Nvidia's Open-Source Effort for AI-Assisted Linux Kernel Development",
+      "link": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 12:01:14 +0000",
-      "timestamp": 1791633674.0
+      "published": "Sat, 10 Oct 2026 16:47:52 +0000",
+      "timestamp": 1791650872.0
+    },
+    {
+      "title": "Show HN: I asked 10k people to describe AI in 1 word",
+      "link": "https://crowdle.gg/ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 16:27:45 +0000",
+      "timestamp": 1791649665.0
+    },
+    {
+      "title": "AI Is Throwing a Roadside Picnic",
+      "link": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 16:19:23 +0000",
+      "timestamp": 1791649163.0
+    },
+    {
+      "title": "Patient disputed $85,000 hospital bill, then an AI sweep added nearly $20k",
+      "link": "https://www.yahoo.com/news/us/articles/patient-disputed-85-000-hospital-032100813.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 16:07:54 +0000",
+      "timestamp": 1791648474.0
+    },
+    {
+      "title": "AI stance is not binary",
+      "link": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 15:58:19 +0000",
+      "timestamp": 1791647899.0
+    },
+    {
+      "title": "Can AI Break Cryptography?",
+      "link": "https://a16zcrypto.substack.com/p/can-ai-really-break-cryptography",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 15:56:14 +0000",
+      "timestamp": 1791647774.0
+    },
+    {
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 10 Oct 2026 15:00:00 +0000",
+      "timestamp": 1791644400.0
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 10 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791640800.0
     },
     {
       "title": "AI Is Getting Really Good at Messing With Cybercriminals",
@@ -163,42 +199,6 @@
       "source": "Wired AI",
       "published": "Sat, 10 Oct 2026 12:00:00 +0000",
       "timestamp": 1791633600.0
-    },
-    {
-      "title": "Sitecopy.ai",
-      "link": "https://news.ycombinator.com/item?id=50032008",
-      "summary": "Tell me this tool is useful or not for more details ask me I give you a link to access the tool",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 11:54:44 +0000",
-      "timestamp": 1791633284.0
-    },
-    {
-      "title": "Sitecopy.ai",
-      "link": "https://news.ycombinator.com/item?id=50031985",
-      "summary": "Tell me it is useful tool or not if you are interested tell me I give you a link to access the tool",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 11:52:13 +0000",
-      "timestamp": 1791633133.0
-    },
-    {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "link": "https://github.com/rociiu/talorys",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 10:52:09 +0000",
-      "timestamp": 1791629529.0
-    },
-    {
-      "title": "Does YC use AI agents to review your pitch?",
-      "link": "https://news.ycombinator.com/item?id=50031461",
-      "summary": "was wondering if YC still manually reviews all pitch decks or its just agents?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 10:27:04 +0000",
-      "timestamp": 1791628024.0
     },
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -471,6 +471,15 @@
       "timestamp": 1791482313.0
     },
     {
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier Hansson's Linux project. According to Hansson's [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-08T13:57:01-04:00",
+      "timestamp": 1791482221.0
+    },
+    {
       "title": "Natura’s $99 smart ring puts AI agents on your finger",
       "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
       "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
@@ -478,24 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 08 Oct 2026 16:00:00 +0000",
       "timestamp": 1791475200.0
-    },
-    {
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 08 Oct 2026 16:00:00 +0000",
-      "timestamp": 1791475200.0
-    },
-    {
-      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 08 Oct 2026 15:00:00 +0000",
-      "timestamp": 1791471600.0
     },
     {
       "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
