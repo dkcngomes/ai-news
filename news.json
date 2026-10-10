@@ -1,7 +1,187 @@
 {
-  "scraped_at": "2026-10-10T00:48:08.234720+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-10T07:04:16.273620+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "Show HN: Check how readable your docs are to AI agents",
+      "link": "https://www.veludocs.com/agent-friendly-documentation/",
+      "summary": "Hi HN, I'm Aravind. We build Velu, a docs platform. Coding agents increasingly read docs before humans do, but most docs sites are hard for them: client-rendered pages, no llms.txt, no markdown versions, soft 404s, pages too big for a context window. This tool scores any docs URL against the open Agent-Friendly Documentation Spec (agentdocsspec.com), using its reference implementation, afdocs.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 06:48:05 +0000",
+      "timestamp": 1791614885.0
+    },
+    {
+      "title": "We must recall open-ended AI agents with internet access from the market",
+      "link": "https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 06:17:04 +0000",
+      "timestamp": 1791613024.0
+    },
+    {
+      "title": "Show HN: Kenerate – One workspace for AI image, video and music models",
+      "link": "https://kenerateai.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 06:12:37 +0000",
+      "timestamp": 1791612757.0
+    },
+    {
+      "title": "Researchers studied AI layoffs. Here's their warning. [video]",
+      "link": "https://www.youtube.com/watch?v=O3gYyCB2n9o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 06:09:00 +0000",
+      "timestamp": 1791612540.0
+    },
+    {
+      "title": "If AI keeps evolving,would you worry about your next generation's survival",
+      "link": "https://news.ycombinator.com/item?id=50029896",
+      "summary": "Imagine this. Twenty years from now, if AI is capable of handling all work, how will your kids make ends meet? If you want to prevent that future, what should you be doing today?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 05:33:21 +0000",
+      "timestamp": 1791610401.0
+    },
+    {
+      "title": "The U.S. Nuclear Plant Fleet Is Leaning into AI",
+      "link": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 05:31:48 +0000",
+      "timestamp": 1791610308.0
+    },
+    {
+      "title": "AI Writing Labels – Sloppate liberius, sloppate recte",
+      "link": "https://aialabels.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 05:30:46 +0000",
+      "timestamp": 1791610246.0
+    },
+    {
+      "title": "AI companies plot \"day after\" scenarios for public revolt",
+      "link": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 05:29:58 +0000",
+      "timestamp": 1791610198.0
+    },
+    {
+      "title": "Show HN: Rutter – shared decision memory across AI tools",
+      "link": "https://ruttermemory.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 05:18:38 +0000",
+      "timestamp": 1791609518.0
+    },
+    {
+      "title": "Show HN: Iimos – an AI app that ships as one chat box and rewrites itself",
+      "link": "https://github.com/yanglongyun/iimos",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 05:17:13 +0000",
+      "timestamp": 1791609433.0
+    },
+    {
+      "title": "If AI is conscient, then we are making slaves",
+      "link": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 04:51:26 +0000",
+      "timestamp": 1791607886.0
+    },
+    {
+      "title": "Zombie AI Video Generator – a zombie love story from two photos",
+      "link": "https://zombieaivideo.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 04:41:08 +0000",
+      "timestamp": 1791607268.0
+    },
+    {
+      "title": "Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
+      "link": "https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 04:37:18 +0000",
+      "timestamp": 1791607038.0
+    },
+    {
+      "title": "From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search",
+      "link": "https://arxiv.org/abs/2610.11932",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 04:07:09 +0000",
+      "timestamp": 1791605229.0
+    },
+    {
+      "title": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley",
+      "link": "https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 03:32:38 +0000",
+      "timestamp": 1791603158.0
+    },
+    {
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 03:32:27 +0000",
+      "timestamp": 1791603147.0
+    },
+    {
+      "title": "Antigravity Excel Engine – Dual-Core Excel Automation for AI Agents",
+      "link": "https://github.com/FranciscoGrandon/antigravity-excel-engine",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 02:13:48 +0000",
+      "timestamp": 1791598428.0
+    },
+    {
+      "title": "Trump Calls on AI to Speed Up Science–While Continuing to Defund It",
+      "link": "https://www.motherjones.com/politics/2026/10/trump-calls-on-ai-to-speed-up-science-while-continuing-to-defund-it/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 02:04:58 +0000",
+      "timestamp": 1791597898.0
+    },
+    {
+      "title": "Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip",
+      "link": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 01:33:51 +0000",
+      "timestamp": 1791596031.0
+    },
+    {
+      "title": "How to connect any AI assistant to governed enterprise data with MCP",
+      "link": "https://wesdias.medium.com/how-to-connect-any-ai-assistant-to-governed-enterprise-data-with-mcp-0d9cffa14231",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 00:56:58 +0000",
+      "timestamp": 1791593818.0
+    },
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -10,96 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 10 Oct 2026 00:18:32 +0000",
       "timestamp": 1791591512.0
-    },
-    {
-      "title": "Brockovich AI Datacenter Reporting: AI Data Centers Across the United States",
-      "link": "https://www.brockovichdatacenter.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 00:14:46 +0000",
-      "timestamp": 1791591286.0
-    },
-    {
-      "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
-      "link": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 23:37:34 +0000",
-      "timestamp": 1791589054.0
-    },
-    {
-      "title": "AI system submits false homicide tip to Philadelphia police",
-      "link": "https://www.washingtonpost.com/technology/2026/10/09/ai-system-submits-false-homicide-tip-philadelphia-police/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 23:24:23 +0000",
-      "timestamp": 1791588263.0
-    },
-    {
-      "title": "Boro: Nvidia's Open-Source Effort for AI-Assisted Linux Kernel Development",
-      "link": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 22:58:52 +0000",
-      "timestamp": 1791586732.0
-    },
-    {
-      "title": "AI Could Allow for 3-Day Workweeks and Single-Income Households",
-      "link": "https://www.forbes.com/sites/siladityaray/2026/10/08/jeff-bezos-claims-ai-could-allow-for-3-day-workweeks-and-one-income-families/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 22:56:43 +0000",
-      "timestamp": 1791586603.0
-    },
-    {
-      "title": "Show HN: See How Your Competitors Get Customers with AI",
-      "link": "https://findwinningfunnels.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 22:41:14 +0000",
-      "timestamp": 1791585674.0
-    },
-    {
-      "title": "Where're All the AI Chips?",
-      "link": "https://www.wheresyoured.at/wherere-all-the-ai-chips/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 22:33:34 +0000",
-      "timestamp": 1791585214.0
-    },
-    {
-      "title": "Japan urges firms to boost cybersecurity as AI-driven cyberattacks surge",
-      "link": "https://en.sedaily.com/international/2026/10/09/japan-urges-firms-to-boost-cybersecurity-as-ai-driven",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 22:16:39 +0000",
-      "timestamp": 1791584199.0
-    },
-    {
-      "title": "Can AI automate AI R&D yet?",
-      "link": "https://epoch.ai/publications/innovationeval",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 22:14:40 +0000",
-      "timestamp": 1791584080.0
-    },
-    {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 22:00:35 +0000",
-      "timestamp": 1791583235.0
     },
     {
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -111,15 +201,6 @@
       "timestamp": 1791582089.0
     },
     {
-      "title": "Teams too busy doing their job to experiment with AI are going to be replaced",
-      "link": "https://ghuntley.com/replaced/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 21:39:39 +0000",
-      "timestamp": 1791581979.0
-    },
-    {
       "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
       "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
@@ -127,78 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-10-09T17:15:38-04:00",
       "timestamp": 1791580538.0
-    },
-    {
-      "title": "Autonomous AI Lamp",
-      "link": "https://www.autonomous.ai/lamp",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 21:10:37 +0000",
-      "timestamp": 1791580237.0
-    },
-    {
-      "title": "AI companies plot \"the day after\"",
-      "link": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 20:58:04 +0000",
-      "timestamp": 1791579484.0
-    },
-    {
-      "title": "Ecosia switches from Mistral to open-weight AI models including Qwen, GLM, Kimi",
-      "link": "https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 20:55:42 +0000",
-      "timestamp": 1791579342.0
-    },
-    {
-      "title": "Show HN: Memdebug – See what changed in your AI agent's memory, and undo it",
-      "link": "https://github.com/juraj-jumic/memdebug",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 20:51:42 +0000",
-      "timestamp": 1791579102.0
-    },
-    {
-      "title": "Agent-history CLI – Fast OMZ/Bash cmd to jump between recent AI coding sessions",
-      "link": "https://github.com/aaronbronow/agent-history",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 20:41:15 +0000",
-      "timestamp": 1791578475.0
-    },
-    {
-      "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has",
-      "link": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 20:07:09 +0000",
-      "timestamp": 1791576429.0
-    },
-    {
-      "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
-      "link": "https://codeberg.org/ethical-foss/open-slopware",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 19:50:16 +0000",
-      "timestamp": 1791575416.0
-    },
-    {
-      "title": "I Reverse Engineered a Popular iPad App with AI",
-      "link": "https://computerchale.com/writing/i-reverse-engineered-a-popular-ipad-app-with-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 09 Oct 2026 19:45:16 +0000",
-      "timestamp": 1791575116.0
     },
     {
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
