@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-10-10T22:29:25.216219+00:00",
+  "scraped_at": "2026-10-11T01:51:08.844925+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "GMKtec EVO-X3 Mini-PC Review Looking at a 128GB AMD Local AI Box",
+      "link": "https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 01:43:22 +0000",
+      "timestamp": 1791683002.0
+    },
+    {
+      "title": "Ask HN: Resources for best practices in software development with AI?",
+      "link": "https://news.ycombinator.com/item?id=50038971",
+      "summary": "What resources (authors, podcasts, books, etc) do you follow to keep up with best practices, patterns, methodologies, for software development with AI? There is so much noise that I want to know a few trusted resources (especially authors) to follow to keep up with latest best practices (an example of an author in what I have in mind would be Simon Willison).",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 01:37:35 +0000",
+      "timestamp": 1791682655.0
+    },
+    {
+      "title": "Why your AI agents can't reach the tools you're signed in to, and how to fix it",
+      "link": "https://read.aindeev.com/p/why-your-ai-agents-cant-reach-the",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 01:03:41 +0000",
+      "timestamp": 1791680621.0
+    },
+    {
+      "title": "Long-term memory for AI coding agents as a tree of plain files",
+      "link": "https://github.com/gonzaroman/IHMT-MEMORY",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 01:02:14 +0000",
+      "timestamp": 1791680534.0
+    },
+    {
+      "title": "Generative AI scandal has come to one of Nikon's competitions",
+      "link": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 00:47:37 +0000",
+      "timestamp": 1791679657.0
+    },
+    {
+      "title": "Microsoft CEO Nadella Calls for 'Emergency Brake' on Advanced AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 00:07:08 +0000",
+      "timestamp": 1791677228.0
+    },
+    {
+      "title": "'AI slop' hides the conversations we should be having",
+      "link": "https://doi.org/10.1038/s44387-026-00161-8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 23:16:14 +0000",
+      "timestamp": 1791674174.0
+    },
+    {
+      "title": "A mountain of AI math, a few precious bytes",
+      "link": "https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 22:38:21 +0000",
+      "timestamp": 1791671901.0
+    },
+    {
+      "title": "A Stark Warning from a Former AI Doomer",
+      "link": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 10 Oct 2026 22:19:34 +0000",
+      "timestamp": 1791670774.0
+    },
     {
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
@@ -120,15 +201,6 @@
       "timestamp": 1791661928.0
     },
     {
-      "title": "Integrated Circuits, AI, and Wallabies",
-      "link": "https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 19:51:26 +0000",
-      "timestamp": 1791661886.0
-    },
-    {
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
       "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
       "summary": "Is Apple hoping to get into the AI-generated podcast business?",
@@ -136,78 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 10 Oct 2026 19:50:00 +0000",
       "timestamp": 1791661800.0
-    },
-    {
-      "title": "Your AI Said \"Done.\" Make It Prove It.",
-      "link": "https://viaknox.com/blog/ai-said-done-make-it-prove-it",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 19:47:10 +0000",
-      "timestamp": 1791661630.0
-    },
-    {
-      "title": "Ask HN: What's your plan if AI takes your job?",
-      "link": "https://news.ycombinator.com/item?id=50036432",
-      "summary": "If AI took away my job and I cannot return to software engineering, I cannot imagine a fit for me at any place yet. I was wondering if anyone else had the same thought and what would you do?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 19:43:28 +0000",
-      "timestamp": 1791661408.0
-    },
-    {
-      "title": "I don't trust Lean code from AI",
-      "link": "https://karagila.org/2026/lean/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 19:40:16 +0000",
-      "timestamp": 1791661216.0
-    },
-    {
-      "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
-      "link": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 19:39:10 +0000",
-      "timestamp": 1791661150.0
-    },
-    {
-      "title": "Google AI Edge Foresight – meeting notetaker on-device",
-      "link": "https://developers.google.com/edge/foresight",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 19:31:17 +0000",
-      "timestamp": 1791660677.0
-    },
-    {
-      "title": "AI and Bottlenecks in Software Production [pdf]",
-      "link": "https://fion.ac/jellyfish.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 19:28:58 +0000",
-      "timestamp": 1791660538.0
-    },
-    {
-      "title": "Is AI Killing the Value of Human Writing?",
-      "link": "https://transitions.substack.com/p/is-ai-killing-the-value-of-human",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 19:28:46 +0000",
-      "timestamp": 1791660526.0
-    },
-    {
-      "title": "Ask HN: Why did Microsoft invest in AI that could rewrite its apps from scratch?",
-      "link": "https://news.ycombinator.com/item?id=50036146",
-      "summary": "Maybe they didn't anticipate how good AI would become at vibe coding apps in general and its office apps in particular?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 19:14:41 +0000",
-      "timestamp": 1791659681.0
     },
     {
       "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
