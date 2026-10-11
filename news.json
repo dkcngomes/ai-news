@@ -1,7 +1,169 @@
 {
-  "scraped_at": "2026-10-11T01:51:08.844925+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-11T08:47:09.054414+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "'Vibe coding' makes the dictionary: AI terms recognized by Merriam-Webster",
+      "link": "https://www.nature.com/articles/d41586-026-03044-9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 08:33:43 +0000",
+      "timestamp": 1791707623.0
+    },
+    {
+      "title": "Anthropic opens its most powerful AI models to more security teams",
+      "link": "https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 08:28:39 +0000",
+      "timestamp": 1791707319.0
+    },
+    {
+      "title": "Hello World, AI Doompop",
+      "link": "https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 08:13:02 +0000",
+      "timestamp": 1791706382.0
+    },
+    {
+      "title": "Show HN: Four Questions to stop AI-gen PRs from DDoSing your GitHub repository",
+      "link": "https://github.com/ktwu01/agent-pr-gate",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 08:12:01 +0000",
+      "timestamp": 1791706321.0
+    },
+    {
+      "title": "What if AI prefers CVS written by AI?",
+      "link": "https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 08:07:08 +0000",
+      "timestamp": 1791706028.0
+    },
+    {
+      "title": "Ex-Anthropic's Jacob Coxon says he's 90% certain PRC has spies in US AI giants",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 07:19:43 +0000",
+      "timestamp": 1791703183.0
+    },
+    {
+      "title": "AI's leaders (probably) aren't faking their fear",
+      "link": "https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 06:43:59 +0000",
+      "timestamp": 1791701039.0
+    },
+    {
+      "title": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
+      "link": "https://github.com/Guksu/suta",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 06:10:15 +0000",
+      "timestamp": 1791699015.0
+    },
+    {
+      "title": "Every lawsuit against an AI company",
+      "link": "https://ailawsuittracker.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 05:26:22 +0000",
+      "timestamp": 1791696382.0
+    },
+    {
+      "title": "CortextAI – A private, offline AI workspace for email, notes, tasks, and files",
+      "link": "https://cortextai.saposs.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 04:41:48 +0000",
+      "timestamp": 1791693708.0
+    },
+    {
+      "title": "Europe confident its rules can thwart rogue AI",
+      "link": "https://www.rnz.co.nz/news/science-and-technology/1824809/europe-confident-its-rules-can-thwart-rogue-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 03:57:03 +0000",
+      "timestamp": 1791691023.0
+    },
+    {
+      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+      "link": "https://github.com/vscarpenter/gsd-task-manager",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 03:42:56 +0000",
+      "timestamp": 1791690176.0
+    },
+    {
+      "title": "AI agents in a stand-up call",
+      "link": "https://atoll92.github.io/agent-standup/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 03:42:47 +0000",
+      "timestamp": 1791690167.0
+    },
+    {
+      "title": "AI Layer – Claude Code Plugins with DuckDB Memory and CI Workflows",
+      "link": "https://gitlab.com/kriscodes2-claude-plugins/ai-layer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 03:23:53 +0000",
+      "timestamp": 1791689033.0
+    },
+    {
+      "title": "A new AI model that renders generative visuals of what you see",
+      "link": "https://www.weizmann.ac.il/pages/news/mathematics-and-computer-science/the-new-science-of-mind-reading",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 02:49:23 +0000",
+      "timestamp": 1791686963.0
+    },
+    {
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "link": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 02:41:19 +0000",
+      "timestamp": 1791686479.0
+    },
+    {
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 02:02:38 +0000",
+      "timestamp": 1791684158.0
+    },
+    {
+      "title": "Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]",
+      "link": "https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 11 Oct 2026 01:52:38 +0000",
+      "timestamp": 1791683558.0
+    },
     {
       "title": "GMKtec EVO-X3 Mini-PC Review Looking at a 128GB AMD Local AI Box",
       "link": "https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/",
@@ -10,78 +172,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 11 Oct 2026 01:43:22 +0000",
       "timestamp": 1791683002.0
-    },
-    {
-      "title": "Ask HN: Resources for best practices in software development with AI?",
-      "link": "https://news.ycombinator.com/item?id=50038971",
-      "summary": "What resources (authors, podcasts, books, etc) do you follow to keep up with best practices, patterns, methodologies, for software development with AI? There is so much noise that I want to know a few trusted resources (especially authors) to follow to keep up with latest best practices (an example of an author in what I have in mind would be Simon Willison).",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 01:37:35 +0000",
-      "timestamp": 1791682655.0
-    },
-    {
-      "title": "Why your AI agents can't reach the tools you're signed in to, and how to fix it",
-      "link": "https://read.aindeev.com/p/why-your-ai-agents-cant-reach-the",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 01:03:41 +0000",
-      "timestamp": 1791680621.0
-    },
-    {
-      "title": "Long-term memory for AI coding agents as a tree of plain files",
-      "link": "https://github.com/gonzaroman/IHMT-MEMORY",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 01:02:14 +0000",
-      "timestamp": 1791680534.0
-    },
-    {
-      "title": "Generative AI scandal has come to one of Nikon's competitions",
-      "link": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 00:47:37 +0000",
-      "timestamp": 1791679657.0
-    },
-    {
-      "title": "Microsoft CEO Nadella Calls for 'Emergency Brake' on Advanced AI",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 00:07:08 +0000",
-      "timestamp": 1791677228.0
-    },
-    {
-      "title": "'AI slop' hides the conversations we should be having",
-      "link": "https://doi.org/10.1038/s44387-026-00161-8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 23:16:14 +0000",
-      "timestamp": 1791674174.0
-    },
-    {
-      "title": "A mountain of AI math, a few precious bytes",
-      "link": "https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 22:38:21 +0000",
-      "timestamp": 1791671901.0
-    },
-    {
-      "title": "A Stark Warning from a Former AI Doomer",
-      "link": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 22:19:34 +0000",
-      "timestamp": 1791670774.0
     },
     {
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -93,15 +183,6 @@
       "timestamp": 1791670217.0
     },
     {
-      "title": "We're All Working for AI Now",
-      "link": "https://medium.com/@mustafaydemir/were-all-working-for-ai-now-19353aa51e82",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 22:09:03 +0000",
-      "timestamp": 1791670143.0
-    },
-    {
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
       "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
@@ -109,96 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 10 Oct 2026 21:47:51 +0000",
       "timestamp": 1791668871.0
-    },
-    {
-      "title": "Arrival Mind (children's book about AI risk – narrated)",
-      "link": "https://www.youtube.com/watch?v=5GISvEfdbm4",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 21:40:54 +0000",
-      "timestamp": 1791668454.0
-    },
-    {
-      "title": "Show HN: I built a macOS screensaver that reacts to AI coding agents",
-      "link": "https://www.ascendaflow.com/waterline",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 21:39:20 +0000",
-      "timestamp": 1791668360.0
-    },
-    {
-      "title": "Show HN: Try Free Long-Term Memory for AI 50M-Token Window",
-      "link": "https://github.com/corbenicai/galahad",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 21:36:50 +0000",
-      "timestamp": 1791668210.0
-    },
-    {
-      "title": "The Token Economy: Why Falling Token Prices Have Not Lowered AI Bills",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 21:18:52 +0000",
-      "timestamp": 1791667132.0
-    },
-    {
-      "title": "I bet AI would invent its own language; Claude Opus's survived every copy",
-      "link": "https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 21:02:24 +0000",
-      "timestamp": 1791666144.0
-    },
-    {
-      "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
-      "link": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 20:17:41 +0000",
-      "timestamp": 1791663461.0
-    },
-    {
-      "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
-      "link": "https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 20:17:15 +0000",
-      "timestamp": 1791663435.0
-    },
-    {
-      "title": "Try On-Device AI with FM",
-      "link": "https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 20:16:39 +0000",
-      "timestamp": 1791663399.0
-    },
-    {
-      "title": "Is AI conscious? Anthropic says 'maybe'",
-      "link": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 20:15:48 +0000",
-      "timestamp": 1791663348.0
-    },
-    {
-      "title": "The state of AI-assisted reverse-engineering of Apple Macs",
-      "link": "https://github.com/aurora-silicon/linux/discussions/70",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 10 Oct 2026 19:52:08 +0000",
-      "timestamp": 1791661928.0
     },
     {
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
