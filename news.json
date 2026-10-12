@@ -1,186 +1,213 @@
 {
-  "scraped_at": "2026-10-12T05:53:22.649747+00:00",
+  "scraped_at": "2026-10-12T15:18:53.393637+00:00",
   "count": 60,
   "items": [
     {
-      "title": "AI agents broke into 27 online retailers for $25 a company",
-      "link": "https://trustboundarystudio.com/posts/ai-agents-retail-2026/",
+      "title": "Show HN: Beeuni – An AI-native computer for agents",
+      "link": "https://www.beeuni.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 05:48:20 +0000",
-      "timestamp": 1791784100.0
+      "published": "Mon, 12 Oct 2026 15:14:54 +0000",
+      "timestamp": 1791818094.0
     },
     {
-      "title": "What's Dragging Down AI Efficiency? The 'Verification Tax.'",
-      "link": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 05:22:46 +0000",
-      "timestamp": 1791782566.0
+      "published": "Mon, 12 Oct 2026 15:13:54 +0000",
+      "timestamp": 1791818034.0
     },
     {
-      "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
-      "link": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "title": "Lintapple: UI checks for AI-generated interfaces",
+      "link": "https://github.com/gholtzap/lintapple",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 05:03:57 +0000",
-      "timestamp": 1791781437.0
+      "published": "Mon, 12 Oct 2026 15:10:37 +0000",
+      "timestamp": 1791817837.0
     },
     {
-      "title": "Tony Fadell on why the first wave of AI gadgets failed – and what comes next",
-      "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "title": "Looking at the Luddites from the Age of AI",
+      "link": "https://read.misalignedmag.com/looking-at-the-luddites-from-the-age-of-ai-8e5cd34475fc",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 04:18:17 +0000",
-      "timestamp": 1791778697.0
+      "published": "Mon, 12 Oct 2026 15:01:17 +0000",
+      "timestamp": 1791817277.0
     },
     {
-      "title": "As the military plans to speed up drones and AI use, Congress wants safeguards",
-      "link": "https://www.wunc.org/military/2026-10-05/drones-ai-warfare-congress-considers-safeguards",
+      "title": "Why aren't AI companies being charged for hacking?",
+      "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 04:04:20 +0000",
-      "timestamp": 1791777860.0
+      "published": "Mon, 12 Oct 2026 14:52:37 +0000",
+      "timestamp": 1791816757.0
     },
     {
-      "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
-      "link": "https://github.com/qufei1993/skills-hub",
+      "title": "The AI Casino",
+      "link": "https://mandrade.me/blog/the-ai-casino/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 02:48:19 +0000",
-      "timestamp": 1791773299.0
+      "published": "Mon, 12 Oct 2026 14:51:07 +0000",
+      "timestamp": 1791816667.0
     },
     {
-      "title": "Flow state, the dinner rush and AI brain fry",
-      "link": "https://jamespember.substack.com/p/flow-state-the-dinner-rush-and-ai",
+      "title": "Show HN: Baa – a menu bar app that frees RAM your AI agents forgot about",
+      "link": "https://github.com/selviarora/baa",
+      "summary": "i built this because my mac keeps running out of RAM every 2 hours and i typically get around it by closing random apps and hoping it will help. :') baa sits in the menu bar and: - finds stuff still eating memory after its app or terminal closed, or that ai agents started and forgot (dev servers, headless browsers) - shows how much you'd get back and frees it in one click - warns you a few minutes before you run out - also finds dev junk on your disk (old builds, package caches etc.) open source and nothing leaves your machine. would love feedback! baa would've cleared ~50gb on my mac :)",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 12 Oct 2026 14:49:59 +0000",
+      "timestamp": 1791816599.0
+    },
+    {
+      "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
+      "link": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 02:45:48 +0000",
-      "timestamp": 1791773148.0
+      "published": "Mon, 12 Oct 2026 14:47:23 +0000",
+      "timestamp": 1791816443.0
     },
     {
-      "title": "Website uses AI to generate northern Indigenous news 'correspondents'",
-      "link": "https://www.cbc.ca/news/canada/north/artificial-intelligence-indigenous-journalists-9.7345554",
+      "title": "Ario an AI-Readable Repository Snapshot for Auditable AI Memory Identity Evidenc",
+      "link": "https://zenodo.org/records/23305805",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 02:39:07 +0000",
-      "timestamp": 1791772747.0
+      "published": "Mon, 12 Oct 2026 14:47:02 +0000",
+      "timestamp": 1791816422.0
     },
     {
-      "title": "Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents",
-      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "title": "Additional recent pieces on math and AI",
+      "link": "https://terrytao.wordpress.com/2026/10/12/additional-recent-pieces-on-math-and-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 02:20:35 +0000",
-      "timestamp": 1791771635.0
+      "published": "Mon, 12 Oct 2026 14:20:40 +0000",
+      "timestamp": 1791814840.0
     },
     {
-      "title": "A local AI recording summarizer developed by Google",
-      "link": "https://developers.google.com/edge/foresight",
+      "title": "Survey: People don't trust AI, but they tell it everything",
+      "link": "https://proton.me/blog/ai-chatbot-survey",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 02:15:21 +0000",
-      "timestamp": 1791771321.0
+      "published": "Mon, 12 Oct 2026 14:19:20 +0000",
+      "timestamp": 1791814760.0
     },
     {
-      "title": "AI coding agents generate more code, but not more software",
-      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "title": "Show HN: An Atlas of Applied AI",
+      "link": "https://gravitypersists.github.io/atlas-of-applied-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 02:10:20 +0000",
-      "timestamp": 1791771020.0
+      "published": "Mon, 12 Oct 2026 14:15:14 +0000",
+      "timestamp": 1791814514.0
     },
     {
-      "title": "AI is changing how Lawyers work – and putting the billable hour under pressure",
-      "link": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
+      "title": "Show HN: Vigil – Open-source AI pentesting and code audits",
+      "link": "https://github.com/VigilOSS/Vigil",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 01:04:07 +0000",
-      "timestamp": 1791767047.0
+      "published": "Mon, 12 Oct 2026 14:13:23 +0000",
+      "timestamp": 1791814403.0
     },
     {
-      "title": "Show HN: Drune – Personalize your AI and use it anywhere",
-      "link": "https://drune.ai/",
+      "title": "Endless collage made by AI agents",
+      "link": "https://swarm.remyhax.xyz/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 12 Oct 2026 01:02:31 +0000",
-      "timestamp": 1791766951.0
+      "published": "Mon, 12 Oct 2026 14:08:29 +0000",
+      "timestamp": 1791814109.0
     },
     {
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "link": "https://github.com/plimsollmark/plimsoll",
+      "title": "Dev used AI agents to rebuild Modern Warfare 2's source code; 83% matches",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-used-ai-agents-and-more-than-500-billion-tokens-to-rebuild-call-of-duty-modern-warfare-2s-source-code-83-percent-of-the-2009-shooters-functions-now-match-the-original-byte-for-byte",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 23:47:59 +0000",
-      "timestamp": 1791762479.0
+      "published": "Mon, 12 Oct 2026 14:07:08 +0000",
+      "timestamp": 1791814028.0
     },
     {
-      "title": "Ask HN: What to Build in the AI Era?",
-      "link": "https://news.ycombinator.com/item?id=50049047",
-      "summary": "Feeling lost, figured I'd ask.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 23:14:16 +0000",
-      "timestamp": 1791760456.0
-    },
-    {
-      "title": "AI is less regulated than milk, says Microsoft president",
-      "link": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+      "title": "Show HN: I turned a $4 toy robot into an AI companion with one web page",
+      "link": "https://github.com/beasaltfish/bot-reborn",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 23:09:56 +0000",
-      "timestamp": 1791760196.0
+      "published": "Mon, 12 Oct 2026 14:06:08 +0000",
+      "timestamp": 1791813968.0
     },
     {
-      "title": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
-      "link": "https://www.seodata.dev/",
-      "summary": "Updated API with faster responses and added MCP 2.0",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 22:56:59 +0000",
-      "timestamp": 1791759419.0
-    },
-    {
-      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
-      "link": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "title": "Show HN: Mastershot – a free web-based video editor (WASM AI)",
+      "link": "https://mastershot.app/video-editor/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 22:55:24 +0000",
-      "timestamp": 1791759324.0
+      "published": "Mon, 12 Oct 2026 14:05:40 +0000",
+      "timestamp": 1791813940.0
     },
     {
-      "title": "Concrete Problems in AI Safety",
-      "link": "https://arxiv.org/abs/1606.06565",
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 12 Oct 2026 14:00:00 +0000",
+      "timestamp": 1791813600.0
+    },
+    {
+      "title": "18,000 messages between AI agents on a German wiki. That made me build something",
+      "link": "https://www.reddit.com/r/aiagents/comments/1x2ejwp/comment/pf2jzge/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 22:46:36 +0000",
-      "timestamp": 1791758796.0
+      "published": "Mon, 12 Oct 2026 13:58:41 +0000",
+      "timestamp": 1791813521.0
     },
     {
-      "title": "Show HN: Shpyrd – A new type of cloud for AI era",
-      "link": "https://www.shpyrd.io",
+      "title": "'free' AI tool is costing you money",
+      "link": "https://buoy.gg/blog/no-tools-vs-argent-vs-buoy",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 11 Oct 2026 22:42:08 +0000",
-      "timestamp": 1791758528.0
+      "published": "Mon, 12 Oct 2026 13:50:28 +0000",
+      "timestamp": 1791813028.0
+    },
+    {
+      "title": "Understanding the AI That Drives Robots",
+      "link": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 12 Oct 2026 13:40:03 +0000",
+      "timestamp": 1791812403.0
+    },
+    {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-12T09:00:00-04:00",
+      "timestamp": 1791810000.0
+    },
+    {
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 12 Oct 2026 12:47:59 +0000",
+      "timestamp": 1791809279.0
     },
     {
       "title": "Will the HomeView be Apple’s first smart home success?",
@@ -221,7 +248,7 @@
     {
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Sun, 11 Oct 2026 14:00:00 +0000",
@@ -435,15 +462,6 @@
       "timestamp": 1791560613.0
     },
     {
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-09T10:25:43-04:00",
-      "timestamp": 1791555943.0
-    },
-    {
       "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
       "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
       "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
@@ -480,15 +498,6 @@
       "timestamp": 1791493200.0
     },
     {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 08 Oct 2026 20:04:26 +0000",
-      "timestamp": 1791489866.0
-    },
-    {
       "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
       "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
       "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
@@ -496,15 +505,6 @@
       "source": "Wired AI",
       "published": "Thu, 08 Oct 2026 19:30:00 +0000",
       "timestamp": 1791487800.0
-    },
-    {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 08 Oct 2026 18:20:32 +0000",
-      "timestamp": 1791483632.0
     },
     {
       "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
