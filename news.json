@@ -1,7 +1,205 @@
 {
-  "scraped_at": "2026-10-13T19:14:42.179788+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-13T23:16:39.140353+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 13 Oct 2026 23:13:31 +0000",
+      "timestamp": 1791933211.0
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 13 Oct 2026 23:05:34 +0000",
+      "timestamp": 1791932734.0
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 13 Oct 2026 23:00:00 +0000",
+      "timestamp": 1791932400.0
+    },
+    {
+      "title": "AI Face Rating – Discover Your Face Rating Free",
+      "link": "https://face-rating.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 22:54:09 +0000",
+      "timestamp": 1791932049.0
+    },
+    {
+      "title": "Quartz website mainly produced by one AI-assisted reporter",
+      "link": "https://pressgazette.co.uk/publishers/digital-journalism/quartz-website-mainly-produced-by-one-ai-assisted-reporter-writing-50-stories-per-day/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 22:42:22 +0000",
+      "timestamp": 1791931342.0
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 13 Oct 2026 22:36:59 +0000",
+      "timestamp": 1791931019.0
+    },
+    {
+      "title": "AI bubble could burst and take global economy with it, IMF warns",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 22:34:47 +0000",
+      "timestamp": 1791930887.0
+    },
+    {
+      "title": "Show HN: Sugabots – Group chats where your team and AI agents work together",
+      "link": "https://sugabots.ai/",
+      "summary": "Showing off Sugabots, an internal project I built at work that we've decided to open-source. I got tired of the team just copying context between agents and Slack. So I built an internal tool for shared chats where our team and agents could work together, using our choice of models and tools. The team is now actively maintaining and building on it to add all the features we're missing. We've shared a hosted offering with a few other teams and has proven useful for them too. Its open-source (MIT) and self-hostable if you want to use it yourself. Let me know what you think.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 22:27:31 +0000",
+      "timestamp": 1791930451.0
+    },
+    {
+      "title": "Investing in Short AI Timelines",
+      "link": "https://cambrianmanagement.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 22:11:06 +0000",
+      "timestamp": 1791929466.0
+    },
+    {
+      "title": "Heterogeneity in AI: Pathways from Inference to Compound Systems (Dissertation)",
+      "link": "https://doi.org/10.26153/tsw/64881",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 21:24:52 +0000",
+      "timestamp": 1791926692.0
+    },
+    {
+      "title": "Michael I. Jordan on AI: \"Superintelligence is science fiction\"",
+      "link": "https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 21:19:29 +0000",
+      "timestamp": 1791926369.0
+    },
+    {
+      "title": "Surveys on AI and Writing",
+      "link": "https://news.ycombinator.com/item?id=50078659",
+      "summary": "1) For those who have let AI write (or rewrite) any part of their tech blog posts https://forms.gle/3zYuANeuCdcmFt9D9 2) For anyone who has used any level of AI assistance in any type of professional (tech) writing https://forms.gle/rnHUguku2mLDh1YNA",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 20:59:31 +0000",
+      "timestamp": 1791925171.0
+    },
+    {
+      "title": "The AI Curiosity Trap",
+      "link": "https://plpxsk.github.io/2026/10/13/curiosity-trap.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 20:47:04 +0000",
+      "timestamp": 1791924424.0
+    },
+    {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-13T16:45:25-04:00",
+      "timestamp": 1791924325.0
+    },
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 13 Oct 2026 20:36:44 +0000",
+      "timestamp": 1791923804.0
+    },
+    {
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "link": "https://parsimony.lasu.dev/",
+      "summary": "Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects. Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts \"coding units\": syntax elements like statements, calls, names and literals. I didn't use lines of code, so cramming code isn't rewarded. Deleted code is subtracted, so it measures net units. GPT-6 and Claude 5.5 have no public patches yet, so I ran them myse",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 19:50:31 +0000",
+      "timestamp": 1791921031.0
+    },
+    {
+      "title": "Shopify opens its catalog up to more AI agents",
+      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-13T15:42:42-04:00",
+      "timestamp": 1791920562.0
+    },
+    {
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 13 Oct 2026 19:35:29 +0000",
+      "timestamp": 1791920129.0
+    },
+    {
+      "title": "The UAE embraces AI for kindergartners",
+      "link": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 19:33:21 +0000",
+      "timestamp": 1791920001.0
+    },
+    {
+      "title": "Show HN: CoreXTrader – A cross-platform Trading DSL and Voice AI terminal",
+      "link": "https://corextrader.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 19:25:08 +0000",
+      "timestamp": 1791919508.0
+    },
+    {
+      "title": "AI Dividend: Economy of the Near Future",
+      "link": "https://robotpaidmoose.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 19:24:09 +0000",
+      "timestamp": 1791919449.0
+    },
+    {
+      "title": "Ask HN: In the new AI world, what's the best way to review code?",
+      "link": "https://news.ycombinator.com/item?id=50076985",
+      "summary": "Just as title says, in the world of ai accelerated code production, when you're in charge of a repo or project, how do you usually look at code from proposed changes ? I'm interested to find what your workflows look like these days.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 13 Oct 2026 19:09:15 +0000",
+      "timestamp": 1791918555.0
+    },
     {
       "title": "Xbox is officially embracing the chaos of AI-powered game ports",
       "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
@@ -66,42 +264,6 @@
       "timestamp": 1791916200.0
     },
     {
-      "title": "Character.ai Files for Bankruptcy",
-      "link": "https://www.lawcommentary.com/articles/character-ai-bankruptcy-disney-bid-platform-shutdown",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 18:22:01 +0000",
-      "timestamp": 1791915721.0
-    },
-    {
-      "title": "Zen and the Art of AI-Assisted Development",
-      "link": "https://blog.thanethomson.com/2026/10/13/zen-and-the-art-of-ai-assisted-development/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 18:18:13 +0000",
-      "timestamp": 1791915493.0
-    },
-    {
-      "title": "Kroger to lay off 3K corporate employees over 3 years as it leans into AI",
-      "link": "https://abcnews.com/Business/wireStory/kroger-lay-off-3000-corporate-employees-3-years-137228598",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 18:15:08 +0000",
-      "timestamp": 1791915308.0
-    },
-    {
-      "title": "Scaledown.ai Launches Constrained Decoding Models",
-      "link": "https://twitter.com/neal_k_patel/status/2109978626124898587",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 18:12:31 +0000",
-      "timestamp": 1791915151.0
-    },
-    {
       "title": "Facebook is giving users more control over their algorithm",
       "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
       "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
@@ -109,24 +271,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 13 Oct 2026 18:05:24 +0000",
       "timestamp": 1791914724.0
-    },
-    {
-      "title": "I Sent an AI to My Job Interview. So Did the Company. [video]",
-      "link": "https://www.youtube.com/watch?v=A0fECnj5sas",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 18:02:03 +0000",
-      "timestamp": 1791914523.0
-    },
-    {
-      "title": "Linus Torvalds is using AI to develop Linux kernel code now",
-      "link": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 18:00:20 +0000",
-      "timestamp": 1791914420.0
     },
     {
       "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
@@ -138,33 +282,6 @@
       "timestamp": 1791914400.0
     },
     {
-      "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
-      "link": "https://github.com/maharshi365/deslop",
-      "summary": "Catches unsafe types, duplicate code, and low-value tests.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 17:52:57 +0000",
-      "timestamp": 1791913977.0
-    },
-    {
-      "title": "Can we change an AI model's architecture without retraining it from scratch?",
-      "link": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 17:42:21 +0000",
-      "timestamp": 1791913341.0
-    },
-    {
-      "title": "The Tragedy of AI Coding",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 17:30:25 +0000",
-      "timestamp": 1791912625.0
-    },
-    {
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
       "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
       "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
@@ -174,15 +291,6 @@
       "timestamp": 1791912600.0
     },
     {
-      "title": "New AI fake text generator may be too dangerous to release, say creators (2019)",
-      "link": "https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 17:23:55 +0000",
-      "timestamp": 1791912235.0
-    },
-    {
       "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
       "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
       "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
@@ -190,33 +298,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 13 Oct 2026 17:18:25 +0000",
       "timestamp": 1791911905.0
-    },
-    {
-      "title": "Nvidia Run:AI Is Now Open Source as Part of Nvidia DSX AI Factory Platform",
-      "link": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 17:17:03 +0000",
-      "timestamp": 1791911823.0
-    },
-    {
-      "title": "Releasing AI-Generated Software",
-      "link": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 17:05:20 +0000",
-      "timestamp": 1791911120.0
-    },
-    {
-      "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
-      "link": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 17:02:45 +0000",
-      "timestamp": 1791910965.0
     },
     {
       "title": "Facebook will let you customize your feed algorithm using AI",
@@ -246,25 +327,7 @@
       "timestamp": 1791910800.0
     },
     {
-      "title": "We rebuilt the DOS prompt and called it AI",
-      "link": "https://www.thisandthat.chat/blog/the-prompt-you-keep-retyping/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 16:56:43 +0000",
-      "timestamp": 1791910603.0
-    },
-    {
-      "title": "Kroger to lay off 3k corporate employees over 3 years as it leans into AI",
-      "link": "https://apnews.com/article/kroger-layoffs-grocery-job-cuts-30f0a5d88377e9969ce8994644e14498",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 13 Oct 2026 16:49:57 +0000",
-      "timestamp": 1791910197.0
-    },
-    {
-      "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+      "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
       "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY BIGGEST FAN\" in bold black letters. [&#8230;]",
       "image": null,
@@ -345,15 +408,6 @@
       "timestamp": 1791896400.0
     },
     {
-      "title": "Apple launches HomeView, its first smart display for the home",
-      "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-      "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying photos, and providing information at a glance with Apple's [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-13T09:00:00-04:00",
-      "timestamp": 1791896400.0
-    },
-    {
       "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
       "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
       "summary": "The startup will sell some of its assets to Disney for $20 million.",
@@ -370,15 +424,6 @@
       "source": "Wired AI",
       "published": "Tue, 13 Oct 2026 11:00:00 +0000",
       "timestamp": 1791889200.0
-    },
-    {
-      "title": "Character.AI files for bankruptcy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-13T06:32:23-04:00",
-      "timestamp": 1791887543.0
     },
     {
       "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
@@ -444,51 +489,6 @@
       "timestamp": 1791819079.0
     },
     {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 12 Oct 2026 15:27:59 +0000",
-      "timestamp": 1791818879.0
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 12 Oct 2026 14:00:00 +0000",
-      "timestamp": 1791813600.0
-    },
-    {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 12 Oct 2026 12:47:59 +0000",
-      "timestamp": 1791809279.0
-    },
-    {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 11 Oct 2026 21:14:40 +0000",
-      "timestamp": 1791753280.0
-    },
-    {
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 11 Oct 2026 19:00:00 +0000",
-      "timestamp": 1791745200.0
-    },
-    {
       "title": "I Made Terrible Games With Google’s AI Playground",
       "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
       "summary": "A long day’s haul in the video game slop mines.",
@@ -532,15 +532,6 @@
       "source": "Wired AI",
       "published": "Thu, 08 Oct 2026 21:14:12 +0000",
       "timestamp": 1791494052.0
-    },
-    {
-      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-      "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 08 Oct 2026 19:30:00 +0000",
-      "timestamp": 1791487800.0
     }
   ]
 }
