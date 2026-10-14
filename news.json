@@ -1,11 +1,227 @@
 {
-  "scraped_at": "2026-10-14T18:36:54.695565+00:00",
-  "count": 40,
+  "scraped_at": "2026-10-14T22:17:12.717734+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "The Art of Building AI Coding Agents: The book that builds itself",
+      "link": "https://github.com/waywardgeek/ensemble",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 21:44:37 +0000",
+      "timestamp": 1792014277.0
+    },
+    {
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 14 Oct 2026 21:30:33 +0000",
+      "timestamp": 1792013433.0
+    },
+    {
+      "title": "SoftBank junk bond sale raises stakes for CEO Son's all-in AI bet",
+      "link": "https://www.japantimes.co.jp/business/2026/10/14/companies/softbank-junk-bond-sale/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 21:24:41 +0000",
+      "timestamp": 1792013081.0
+    },
+    {
+      "title": "I got $300K in startup credits for my AI company at 18: the playbook",
+      "link": "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 21:22:00 +0000",
+      "timestamp": 1792012920.0
+    },
+    {
+      "title": "Steering AI Beyond Automation: A Research Agenda and Plan for Action",
+      "link": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 21:14:57 +0000",
+      "timestamp": 1792012497.0
+    },
+    {
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-14T17:11:28-04:00",
+      "timestamp": 1792012288.0
+    },
+    {
+      "title": "Man sentenced to 18 months for AI music scam",
+      "link": "https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 21:08:55 +0000",
+      "timestamp": 1792012135.0
+    },
+    {
+      "title": "Veda – An AI-Native Operating System Built from the Ground Up",
+      "link": "https://github.com/vahmoh25/Veda/commit/4ff28a2a4530799f72117057c428a4eed3392bb4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 20:53:20 +0000",
+      "timestamp": 1792011200.0
+    },
+    {
+      "title": "The AI labor apocalypse is on hold (for now)",
+      "link": "https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 20:23:12 +0000",
+      "timestamp": 1792009392.0
+    },
+    {
+      "title": "Making 3D Model with Meta Oakley AI Glasses and Digital Tape Measure [video]",
+      "link": "https://www.youtube.com/shorts/g2mN4-uiW58",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 20:14:35 +0000",
+      "timestamp": 1792008875.0
+    },
+    {
+      "title": "AI systems are improving rapidly at Slay the Spire and its sequel",
+      "link": "https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 20:09:29 +0000",
+      "timestamp": 1792008569.0
+    },
+    {
+      "title": "We should reject AI in academia",
+      "link": "https://aeporreca.org/blog/why-we-should-reject-ai-in-academia/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 19:54:43 +0000",
+      "timestamp": 1792007683.0
+    },
+    {
+      "title": "Show HN: Checkobot – Detect Deepfakes and AI Images",
+      "link": "https://checkobot.ai",
+      "summary": "Hello HN, I am Kartikeya & we are building the best AI Slop Detector - Checkobot. Current AI Image Detectors are functionally jagged. Some are not able to detect deepfakes, some fail on the latest flux models. Some have an unacceptable false flag rate on genuine images. We have been solving the deepfake detection problem at our parent company - SpoofSense.ai for a while now & we wanted to train a general purpose AI Image Detector that actually works. Checkobot does 3 things: 1.Full Image Model - Detect for AI generator signals in the entire image. 2. Face Specialist - Focuses only on the face ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 19:52:36 +0000",
+      "timestamp": 1792007556.0
+    },
+    {
+      "title": "Show HN: OSS AI engineering telemetry without collecting prompts or code",
+      "link": "https://github.com/ascendaone-com/ai-engineer-tools",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 19:51:47 +0000",
+      "timestamp": 1792007507.0
+    },
+    {
+      "title": "AI agents overstate their results and remain far from autonomous",
+      "link": "https://www.renascence.io/news/104630/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 19:37:54 +0000",
+      "timestamp": 1792006674.0
+    },
+    {
+      "title": "Show HN: AI Interview Index – which companies allow AI in coding interviews",
+      "link": "https://aiinterviewindex.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 19:35:52 +0000",
+      "timestamp": 1792006552.0
+    },
+    {
+      "title": "AI safety money floods into politics",
+      "link": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 19:34:32 +0000",
+      "timestamp": 1792006472.0
+    },
+    {
+      "title": "Why Does AI Write Like Yoda?",
+      "link": "https://www.oreilly.com/radar/why-does-ai-write-like-yoda/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 19:26:04 +0000",
+      "timestamp": 1792005964.0
+    },
+    {
+      "title": "AI sector wipeout risks global financial contagion, IMF report warns",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/the-imf-highlights-how-a-financial-wipeout-in-the-ai-sector-could-become-a-global-contagion-agency-report-shines-light-on-circular-economics-and-leveraged-loans",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 19:18:55 +0000",
+      "timestamp": 1792005535.0
+    },
+    {
+      "title": "Show HN: Run AI-generated logic safely inside your app",
+      "link": "https://stof.dev/",
+      "summary": "Stof is an open-source runtime for logic you don't own or fully trust. Imagine a JSON document with functions inside, scoped to just the document that contains them. Stof instantiates this doc as a small wasm env, and makes these functions safe to call. They can't access or manipulate anything but their own doc. WebAssembly by itself is large in binary form, requires a lot of tooling, etc. Stof can be sent over the wire easily, is a superset of JSON for compatibility, and keeps the guarantees. I created Stof not to replace a data format or anything, but to be a glue layer for data and distribu",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 19:18:46 +0000",
+      "timestamp": 1792005526.0
+    },
+    {
+      "title": "The AI race is back on",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-14T15:06:03-04:00",
+      "timestamp": 1792004763.0
+    },
+    {
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-14T14:47:54-04:00",
+      "timestamp": 1792003674.0
+    },
+    {
+      "title": "Researchers cig-nal their faith in AI by taking up smoking",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 18:36:46 +0000",
+      "timestamp": 1792003006.0
+    },
+    {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 14 Oct 2026 18:32:52 +0000",
+      "timestamp": 1792002772.0
+    },
     {
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
       "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as involved in composition and vocals.",
+      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 14 Oct 2026 18:23:46 +0000",
@@ -138,15 +354,6 @@
       "timestamp": 1791988200.0
     },
     {
-      "title": "Epic&#8217;s new games launcher is ‘vibe coded’",
-      "link": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-      "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe coded.\" \"Programming is hard,\" Epic says in [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-14T09:55:02-04:00",
-      "timestamp": 1791986102.0
-    },
-    {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
       "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
       "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
@@ -228,15 +435,6 @@
       "timestamp": 1791931019.0
     },
     {
-      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-13T16:45:25-04:00",
-      "timestamp": 1791924325.0
-    },
-    {
       "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
       "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
       "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
@@ -244,15 +442,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 13 Oct 2026 20:36:44 +0000",
       "timestamp": 1791923804.0
-    },
-    {
-      "title": "Shopify opens its catalog up to more AI agents",
-      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-13T15:42:42-04:00",
-      "timestamp": 1791920562.0
     },
     {
       "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
@@ -316,15 +505,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 13 Oct 2026 16:30:00 +0000",
       "timestamp": 1791909000.0
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 13 Oct 2026 14:00:00 +0000",
-      "timestamp": 1791900000.0
     },
     {
       "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
