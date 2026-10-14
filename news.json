@@ -1,186 +1,42 @@
 {
-  "scraped_at": "2026-10-14T07:35:54.104335+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-14T13:42:02.089010+00:00",
+  "count": 40,
   "items": [
     {
-      "title": "Show HN: Agent Identity – Identity and communication infrastructure for AI agent",
-      "link": "https://www.agent-identity.dev/",
-      "summary": "",
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 07:20:57 +0000",
-      "timestamp": 1791962457.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 14 Oct 2026 11:00:00 +0000",
+      "timestamp": 1791975600.0
     },
     {
-      "title": "How to be more ambitious when using AI",
-      "link": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
-      "summary": "",
+      "title": "My Friend Has No Soul",
+      "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 07:01:13 +0000",
-      "timestamp": 1791961273.0
+      "source": "Wired AI",
+      "published": "Wed, 14 Oct 2026 11:00:00 +0000",
+      "timestamp": 1791975600.0
     },
     {
-      "title": "AI made feasibility almost trivial. Not touched: value, viability, or usability",
-      "link": "https://www.leadinginproduct.com/p/vibe-coding-product-management",
-      "summary": "",
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 06:14:31 +0000",
-      "timestamp": 1791958471.0
+      "source": "Wired AI",
+      "published": "Wed, 14 Oct 2026 09:30:00 +0000",
+      "timestamp": 1791970200.0
     },
     {
-      "title": "NetBSD may have found a new role: The AI-free FOSS OS",
-      "link": "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818",
-      "summary": "",
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 06:06:22 +0000",
-      "timestamp": 1791957982.0
-    },
-    {
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 06:00:32 +0000",
-      "timestamp": 1791957632.0
-    },
-    {
-      "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 05:53:36 +0000",
-      "timestamp": 1791957216.0
-    },
-    {
-      "title": "Disney strikes $20M deal for Character.ai's assets",
-      "link": "https://www.latimes.com/business/story/2026-10-13/disney-strikes-20-million-deal-for-character-ais-assets-as-ai-startup-files-for-bankruptcy",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 05:53:09 +0000",
-      "timestamp": 1791957189.0
-    },
-    {
-      "title": "Show HN: SuperLocalMemory\" AI brain that never bluffs: Laya, Jev, Google Gemma",
-      "link": "https://github.com/qualixar/superlocalmemory",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 05:21:35 +0000",
-      "timestamp": 1791955295.0
-    },
-    {
-      "title": "I Tested AI Cloning and It's Worse Than You Think [video]",
-      "link": "https://www.youtube.com/watch?v=KC31K-CUC5Y",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 05:14:19 +0000",
-      "timestamp": 1791954859.0
-    },
-    {
-      "title": "AI godfather Geoffrey Hinton: 'We're creating alien beings'",
-      "link": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 05:11:48 +0000",
-      "timestamp": 1791954708.0
-    },
-    {
-      "title": "Show HN: Fabee, an AI nutrition coach, get advice that fits you.(iOS)",
-      "link": "https://heyfabee.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 04:39:14 +0000",
-      "timestamp": 1791952754.0
-    },
-    {
-      "title": "AI writes most of the code now. Where does that leave software engineers?",
-      "link": "https://blog.msar.me/ai-writes-most-of-the-code-now-where-does-that-leave-us",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 04:33:30 +0000",
-      "timestamp": 1791952410.0
-    },
-    {
-      "title": "Show HN: AgentGate – Fast authorization gateway for AI agent tools",
-      "link": "https://github.com/mohitdebian/AgentGate",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 04:16:48 +0000",
-      "timestamp": 1791951408.0
-    },
-    {
-      "title": "Full list of uncensored AI chatbots",
-      "link": "https://nonrestrictive.chat/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 03:18:56 +0000",
-      "timestamp": 1791947936.0
-    },
-    {
-      "title": "To Keep Human Judgment, We Need AI Courts",
-      "link": "https://paxmachina.ai/to-keep-human-judgment-we-need-ai-courts",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 02:48:05 +0000",
-      "timestamp": 1791946085.0
-    },
-    {
-      "title": "OCP 2026: Agentic AI Pushes the Data Center from Chip to Grid",
-      "link": "https://www.datacenterfrontier.com/hyperscale/article/55411534/ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 02:19:16 +0000",
-      "timestamp": 1791944356.0
-    },
-    {
-      "title": "AI Scaling vs. Human Scaling",
-      "link": "https://www.tobyord.com/writing/ai-scaling-vs-human-scaling",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 01:50:17 +0000",
-      "timestamp": 1791942617.0
-    },
-    {
-      "title": "Ask HN: What do you think will be hot in 2027 with on-device AI",
-      "link": "https://news.ycombinator.com/item?id=50081396",
-      "summary": "What do you think will be the hot trend in 2027 with on-device AI?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 01:47:10 +0000",
-      "timestamp": 1791942430.0
-    },
-    {
-      "title": "An Open Letter on AI and Cybersecurity from the Scientific Community",
-      "link": "https://ai-security-letter.org/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 01:45:06 +0000",
-      "timestamp": 1791942306.0
-    },
-    {
-      "title": "Show HN: Can AI read your mind?",
-      "link": "https://jeffyclassify.com/blog/mind-reader/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 14 Oct 2026 01:40:51 +0000",
-      "timestamp": 1791942051.0
+      "source": "Wired AI",
+      "published": "Wed, 14 Oct 2026 09:00:00 +0000",
+      "timestamp": 1791968400.0
     },
     {
       "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
@@ -498,15 +354,6 @@
       "timestamp": 1791819900.0
     },
     {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 12 Oct 2026 15:31:19 +0000",
-      "timestamp": 1791819079.0
-    },
-    {
       "title": "I Made Terrible Games With Google’s AI Playground",
       "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
       "summary": "A long day’s haul in the video game slop mines.",
@@ -514,33 +361,6 @@
       "source": "Wired AI",
       "published": "Sun, 11 Oct 2026 11:30:00 +0000",
       "timestamp": 1791718200.0
-    },
-    {
-      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sat, 10 Oct 2026 12:00:00 +0000",
-      "timestamp": 1791633600.0
-    },
-    {
-      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-      "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 09 Oct 2026 19:28:49 +0000",
-      "timestamp": 1791574129.0
-    },
-    {
-      "title": "Even ‘Law & Order’ Is Terrified of AI",
-      "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 09 Oct 2026 10:00:00 +0000",
-      "timestamp": 1791540000.0
     }
   ]
 }
