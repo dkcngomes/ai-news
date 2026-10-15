@@ -1,51 +1,276 @@
 {
-  "scraped_at": "2026-10-15T11:25:02.499990+00:00",
+  "scraped_at": "2026-10-15T16:58:14.298740+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Show HN: Openkoda – Launch Insurance Innovations with AI",
-      "link": "https://openkoda.com/",
+      "title": "AI Safety Is Not a Corporate Plot",
+      "link": "https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 11:09:39 +0000",
-      "timestamp": 1792062579.0
+      "published": "Thu, 15 Oct 2026 16:53:10 +0000",
+      "timestamp": 1792083190.0
     },
     {
-      "title": "WhatsApp AI chatbot for business: costs and how it works",
-      "link": "https://madsalt.tech/blog/whatsapp-ai-chatbot-for-business/",
+      "title": "Build Self-Improving AI Agents with Temporal and Oodle",
+      "link": "https://blog.oodle.ai/self-improving-agent-loops/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 11:09:05 +0000",
-      "timestamp": 1792062545.0
+      "published": "Thu, 15 Oct 2026 16:48:46 +0000",
+      "timestamp": 1792082926.0
     },
     {
-      "title": "TheoPhysEval: Assessing AI agents at autonomous theoretical physics solving",
-      "link": "https://arxiv.org/abs/2610.16733",
+      "title": "TR-Core – A non-neural symbolic AI architecture built in pure Python",
+      "link": "https://github.com/Mardon-programm/tabula-rasa-core",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 11:08:54 +0000",
-      "timestamp": 1792062534.0
+      "published": "Thu, 15 Oct 2026 16:47:40 +0000",
+      "timestamp": 1792082860.0
     },
     {
-      "title": "How much does an AI agent cost to run? Numbers from 4 builds",
-      "link": "https://madsalt.tech/blog/how-much-does-an-ai-agent-cost/",
+      "title": "JEV: Type Safe AI",
+      "link": "https://typesafe.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 11:08:16 +0000",
-      "timestamp": 1792062496.0
+      "published": "Thu, 15 Oct 2026 16:40:21 +0000",
+      "timestamp": 1792082421.0
     },
     {
-      "title": "Run: AI Now Open Source",
-      "link": "https://github.com/dsx-ai-factory/run-ai",
+      "title": "Danish Supreme Court Finds That AI CSAM Is CSAM",
+      "link": "https://domstol.fe1.tangora.com/Domsoversigt-(H%C3%B8jesteret).31478.aspx?recordid31478=2930",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 11:01:56 +0000",
-      "timestamp": 1792062116.0
+      "published": "Thu, 15 Oct 2026 16:39:58 +0000",
+      "timestamp": 1792082398.0
+    },
+    {
+      "title": "Bill Gates returns to wage war on AI risks",
+      "link": "https://www.axios.com/2026/10/15/bill-gates-ai-safety-push",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:38:19 +0000",
+      "timestamp": 1792082299.0
+    },
+    {
+      "title": "AMD Helion for Agentic AI and Enterprise",
+      "link": "https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:37:49 +0000",
+      "timestamp": 1792082269.0
+    },
+    {
+      "title": "Researchers use AI to design proteins that cut up other protein",
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:27:55 +0000",
+      "timestamp": 1792081675.0
+    },
+    {
+      "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
+      "link": "https://github.com/rlshaw-ml/BlastLoop",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:26:39 +0000",
+      "timestamp": 1792081599.0
+    },
+    {
+      "title": "GLM-5.3 raises researcher fears the Chinese model can fake AI safety tests",
+      "link": "https://www.scmp.com/tech/big-tech/article/3370963/zais-glm-53-raises-researcher-fears-chinese-model-can-fake-ai-safety-tests",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:23:27 +0000",
+      "timestamp": 1792081407.0
+    },
+    {
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-15T12:21:45-04:00",
+      "timestamp": 1792081305.0
+    },
+    {
+      "title": "Show HN: Council AI. Spot biases / hallucinations in top AI models",
+      "link": "https://councilai.app",
+      "summary": "Examples: - The best and worst of AI in 2026. https://councilai.app/s/e305b362-2835-4ac3-94e4-6a7c935f948c - The best and worst of Trump 2026. https://councilai.app/s/9b4ca3f0-ee7e-47ed-9585-e5ab1b37a541",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:19:19 +0000",
+      "timestamp": 1792081159.0
+    },
+    {
+      "title": "Market selloff, rising rates test AI data centre deal boom",
+      "link": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:17:40 +0000",
+      "timestamp": 1792081060.0
+    },
+    {
+      "title": "Why Aren't AI Labs' Apps Better?",
+      "link": "https://davis7.substack.com/p/the-labs-have-the-best-models-with",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:17:14 +0000",
+      "timestamp": 1792081034.0
+    },
+    {
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes",
+      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:16:46 +0000",
+      "timestamp": 1792081006.0
+    },
+    {
+      "title": "Is It or Isn't It? How Generative AI Is Poisoning the Literary Well for Everyone",
+      "link": "https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:15:29 +0000",
+      "timestamp": 1792080929.0
+    },
+    {
+      "title": "Frontier Pre-Training at Microsoft AI",
+      "link": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:12:13 +0000",
+      "timestamp": 1792080733.0
+    },
+    {
+      "title": "Management in the Age of AI",
+      "link": "https://blog.staysaasy.com/p/management-in-the-age-of-ai-44f",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:05:18 +0000",
+      "timestamp": 1792080318.0
+    },
+    {
+      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+      "link": "https://terrytao.wordpress.com/2026/10/15/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 16:02:37 +0000",
+      "timestamp": 1792080157.0
+    },
+    {
+      "title": "Meta AI in Brazil: Lula Posters Blocked, Flávio Posters Generated",
+      "link": "https://explainx.ai/blog/meta-ai-whatsapp-brazil-lula-flavio-bolsonaro-campaign-posters-tse-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 15:54:49 +0000",
+      "timestamp": 1792079689.0
+    },
+    {
+      "title": "Reddit Unveils AI Moderation; Old Reddit Is Restricted to Logged-In Users",
+      "link": "https://www.ibtimes.co.uk/reddit-expands-ai-moderation-tools-1812693",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 15 Oct 2026 15:46:26 +0000",
+      "timestamp": 1792079186.0
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 15 Oct 2026 15:02:36 +0000",
+      "timestamp": 1792076556.0
+    },
+    {
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-15T10:30:00-04:00",
+      "timestamp": 1792074600.0
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 15 Oct 2026 14:29:33 +0000",
+      "timestamp": 1792074573.0
+    },
+    {
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the song \"Single [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-15T10:03:42-04:00",
+      "timestamp": 1792073022.0
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 15 Oct 2026 14:00:00 +0000",
+      "timestamp": 1792072800.0
+    },
+    {
+      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+      "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the creator and media spaces for his work investigating [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-15T10:00:00-04:00",
+      "timestamp": 1792072800.0
+    },
+    {
+      "title": "Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
+      "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-15T09:00:00-04:00",
+      "timestamp": 1792069200.0
+    },
+    {
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "timestamp": 1792065600.0
+    },
+    {
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-15T08:00:00-04:00",
+      "timestamp": 1792065600.0
     },
     {
       "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
@@ -55,141 +280,6 @@
       "source": "The Verge AI",
       "published": "2026-10-15T07:00:00-04:00",
       "timestamp": 1792062000.0
-    },
-    {
-      "title": "Will AI Grow the Pie or Just Hand It to Fewer People?",
-      "link": "https://www.vincentschmalbach.com/will-ai-grow-the-pie-or-hand-it-to-fewer-people/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 10:48:27 +0000",
-      "timestamp": 1792061307.0
-    },
-    {
-      "title": "Anthropic warns of AI 'worms' spreading across smart gadgets",
-      "link": "https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 10:37:46 +0000",
-      "timestamp": 1792060666.0
-    },
-    {
-      "title": "Sipeed announces MaixStation local AI computer",
-      "link": "https://sipeed.com/maixstation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 10:36:30 +0000",
-      "timestamp": 1792060590.0
-    },
-    {
-      "title": "Management in the Age of AI",
-      "link": "https://staysaasy.com/management-in-the-age-of-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 10:33:52 +0000",
-      "timestamp": 1792060432.0
-    },
-    {
-      "title": "How Researchers Made Contact with a Chinese AI Agent Fleet",
-      "link": "https://quickchat.ai/post/chinese-ai-agent-fleet",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 10:26:04 +0000",
-      "timestamp": 1792059964.0
-    },
-    {
-      "title": "How are you centralising AI for development at your company?",
-      "link": "https://news.ycombinator.com/item?id=50101587",
-      "summary": "I'm asking this because I'm seeing some frustrating patterns and if I may be bold, I think my answer is the correct one. Here's one I'm seeing: its the SDLC agent pattern and I think its wrong. Step 1: you have good AGENTS.md documentation for your code and other principles. (this is good) Step 2: There's a somewhat strict workflow and steps enforced like planner agent, reviewer agent, critique agent and directly create a PR from a ticket. Every human intervention here is considered an anti-pattern. I'd like it to be as simple as having documentation and giving developer full freedom with choi",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 10:15:21 +0000",
-      "timestamp": 1792059321.0
-    },
-    {
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 10:15:07 +0000",
-      "timestamp": 1792059307.0
-    },
-    {
-      "title": "Costs of Switching AI Models",
-      "link": "https://www.youtube.com/watch?v=zUCeaaGCRuc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 10:00:28 +0000",
-      "timestamp": 1792058428.0
-    },
-    {
-      "title": "Show HN: I built a rogue AI game, then let five AI models play it",
-      "link": "https://www.viberant.app/view.php?id=82",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 09:31:45 +0000",
-      "timestamp": 1792056705.0
-    },
-    {
-      "title": "AI has changed my engineering leadership role",
-      "link": "https://bjorg.bjornroche.com/management/AI-leadership/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 09:23:12 +0000",
-      "timestamp": 1792056192.0
-    },
-    {
-      "title": "Even Without AI, the Risk of a Biological Attack Is Terrifying",
-      "link": "https://www.motherjones.com/politics/2026/09/ai-anthropic-pandemic-biological-war-scenario-bioterrorism-annie-jacobsen-book-gain-function-research-pathogens-ethics/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 09:17:14 +0000",
-      "timestamp": 1792055834.0
-    },
-    {
-      "title": "Show HN: Reproducible failure drills for AI coding agents",
-      "link": "https://github.com/second-time-is-a-bug-book/book-companion",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 09:14:09 +0000",
-      "timestamp": 1792055649.0
-    },
-    {
-      "title": "WSP MCP – Free WordPress MCP for Connecting AI Coding Agents",
-      "link": "https://github.com/bilalnaseer/wsp-wordpress-mcp",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 08:45:10 +0000",
-      "timestamp": 1792053910.0
-    },
-    {
-      "title": "Kerno 1.0 – AI Back End Runtime QA Engineer",
-      "link": "https://kerno.io/blog/kerno-v1/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 08:31:15 +0000",
-      "timestamp": 1792053075.0
-    },
-    {
-      "title": "REA – I tested AI agent reverse engineering",
-      "link": "https://korben.info/en/rea-ai-agent-reverse-engineering-test.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 08:27:13 +0000",
-      "timestamp": 1792052833.0
     },
     {
       "title": "Figma announces new features to define how agents work on its platform",
@@ -212,7 +302,7 @@
     {
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
       "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]",
+      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 15 Oct 2026 00:00:00 +0000",
@@ -255,15 +345,6 @@
       "timestamp": 1792004763.0
     },
     {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-14T14:47:54-04:00",
-      "timestamp": 1792003674.0
-    },
-    {
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
       "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
       "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
@@ -271,15 +352,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 14 Oct 2026 18:23:46 +0000",
       "timestamp": 1792002226.0
-    },
-    {
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-14T14:22:56-04:00",
-      "timestamp": 1792002176.0
     },
     {
       "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
@@ -298,42 +370,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 14 Oct 2026 18:00:00 +0000",
       "timestamp": 1792000800.0
-    },
-    {
-      "title": "My AI doppelganger tells me what to eat",
-      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the first [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-14T13:00:00-04:00",
-      "timestamp": 1791997200.0
-    },
-    {
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company's operations in Asia. The [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-14T12:43:24-04:00",
-      "timestamp": 1791996204.0
-    },
-    {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-14T12:05:21-04:00",
-      "timestamp": 1791993921.0
-    },
-    {
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-14T12:00:00-04:00",
-      "timestamp": 1791993600.0
     },
     {
       "title": "Deezer will soon let you filter out AI-generated music",
@@ -462,15 +498,6 @@
       "timestamp": 1791931019.0
     },
     {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 13 Oct 2026 20:36:44 +0000",
-      "timestamp": 1791923804.0
-    },
-    {
       "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
       "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
       "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
@@ -478,33 +505,6 @@
       "source": "Wired AI",
       "published": "Tue, 13 Oct 2026 19:35:29 +0000",
       "timestamp": 1791920129.0
-    },
-    {
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 13 Oct 2026 18:30:00 +0000",
-      "timestamp": 1791916200.0
-    },
-    {
-      "title": "Facebook is giving users more control over their algorithm",
-      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 13 Oct 2026 18:05:24 +0000",
-      "timestamp": 1791914724.0
-    },
-    {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 13 Oct 2026 17:30:00 +0000",
-      "timestamp": 1791912600.0
     },
     {
       "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
