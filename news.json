@@ -1,33 +1,195 @@
 {
-  "scraped_at": "2026-10-15T23:40:53.840094+00:00",
+  "scraped_at": "2026-10-16T04:28:32.925591+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Linus Torvalds: \"banning AI is stupid and so are you\"",
-      "link": "https://lkml.org/lkml/2026/10/13/3242",
+      "title": "Show HN: Lobby Domains: Find Domains with Chrome's On-Device AI",
+      "link": "https://lobby.domains/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 23:25:57 +0000",
-      "timestamp": 1792106757.0
+      "published": "Fri, 16 Oct 2026 03:59:53 +0000",
+      "timestamp": 1792123193.0
     },
     {
-      "title": "No More Heroes – Terence Tao Talks to Numberphile About AI [video]",
-      "link": "https://www.youtube.com/watch?v=bAnwMdfcMVw",
+      "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+      "link": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 23:09:08 +0000",
-      "timestamp": 1792105748.0
+      "published": "Fri, 16 Oct 2026 03:49:35 +0000",
+      "timestamp": 1792122575.0
     },
     {
-      "title": "Show HN: My AI induced mania in embedded computer graphics engineering [video]",
-      "link": "https://www.youtube.com/watch?v=Ig2gYmOTuug",
+      "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
+      "link": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 22:43:44 +0000",
-      "timestamp": 1792104224.0
+      "published": "Fri, 16 Oct 2026 03:42:02 +0000",
+      "timestamp": 1792122122.0
+    },
+    {
+      "title": "Linus Torvalds on \"don't use AI for X\"",
+      "link": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 03:41:52 +0000",
+      "timestamp": 1792122112.0
+    },
+    {
+      "title": "Major AI Copyright Ruling Lawyer Explains [video]",
+      "link": "https://www.youtube.com/watch?v=SJCw54PUdXg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 03:29:52 +0000",
+      "timestamp": 1792121392.0
+    },
+    {
+      "title": "Researchers Stranded an AI Agent on a Virtual Island. Things Got Weird",
+      "link": "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 03:26:19 +0000",
+      "timestamp": 1792121179.0
+    },
+    {
+      "title": "$24,000 AI experiment ports TypeScript compiler to Rust",
+      "link": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 03:24:38 +0000",
+      "timestamp": 1792121078.0
+    },
+    {
+      "title": "MuscleMemory: Open-source procedural memory for AI agents",
+      "link": "https://github.com/TheWariend/MuscleMemory",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 03:06:23 +0000",
+      "timestamp": 1792119983.0
+    },
+    {
+      "title": "Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
+      "link": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 03:05:14 +0000",
+      "timestamp": 1792119914.0
+    },
+    {
+      "title": "AI training data and RL environment vendors",
+      "link": "https://whosellsdata.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 02:44:02 +0000",
+      "timestamp": 1792118642.0
+    },
+    {
+      "title": "Show HN: Firmenza – An AI employee for SAM.gov",
+      "link": "https://firmenza.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 02:26:57 +0000",
+      "timestamp": 1792117617.0
+    },
+    {
+      "title": "Space (AI agent containment sandbox) software open source",
+      "link": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 02:10:22 +0000",
+      "timestamp": 1792116622.0
+    },
+    {
+      "title": "Gemini 4 Argon in Antigravity to Paid Google AI Pro",
+      "link": "https://twitter.com/antigravity/status/2110866531932316011",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 02:08:44 +0000",
+      "timestamp": 1792116524.0
+    },
+    {
+      "title": "Zombie AI Trend",
+      "link": "https://www.zombieai.co",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 02:04:34 +0000",
+      "timestamp": 1792116274.0
+    },
+    {
+      "title": "AI landing pages that don't look like AI. We killed AI slop. B",
+      "link": "https://marquee.page",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 01:42:23 +0000",
+      "timestamp": 1792114943.0
+    },
+    {
+      "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+      "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 01:24:50 +0000",
+      "timestamp": 1792113890.0
+    },
+    {
+      "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
+      "link": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 00:56:54 +0000",
+      "timestamp": 1792112214.0
+    },
+    {
+      "title": "No AI. Just open a book, read it, and code whatever you want",
+      "link": "https://www.youtube.com/watch?v=kCVZWZzrBB4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 00:54:57 +0000",
+      "timestamp": 1792112097.0
+    },
+    {
+      "title": "What Nvidia's CEO thinks about the UK's AI future",
+      "link": "https://news.sky.com/video/what-nvidias-ceo-really-thinks-about-ais-safety-13599433",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 00:35:29 +0000",
+      "timestamp": 1792110929.0
+    },
+    {
+      "title": "Show HN: Sjq – Jq, but for AI Streaming",
+      "link": "https://github.com/vivgrid/sjq",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 00:34:51 +0000",
+      "timestamp": 1792110891.0
+    },
+    {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 15 Oct 2026 23:44:56 +0000",
+      "timestamp": 1792107896.0
     },
     {
       "title": "ChatGPT can peek at your Chrome tabs now",
@@ -39,15 +201,6 @@
       "timestamp": 1792104203.0
     },
     {
-      "title": "SK Hynix Unveils Next-Generation Memory Roadmap to Address AI Bottlenecks",
-      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=158124",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 22:38:29 +0000",
-      "timestamp": 1792103909.0
-    },
-    {
       "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
       "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
       "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]",
@@ -55,87 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-10-15T18:35:55-04:00",
       "timestamp": 1792103755.0
-    },
-    {
-      "title": "Linus Torvalds is using AI to develop Linux kernel code now",
-      "link": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 22:35:38 +0000",
-      "timestamp": 1792103738.0
-    },
-    {
-      "title": "We're not ready for superpersistent AI",
-      "link": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 22:17:13 +0000",
-      "timestamp": 1792102633.0
-    },
-    {
-      "title": "Will AI soon lead to double-digit growth?",
-      "link": "https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 22:11:50 +0000",
-      "timestamp": 1792102310.0
-    },
-    {
-      "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
-      "link": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 22:11:24 +0000",
-      "timestamp": 1792102284.0
-    },
-    {
-      "title": "AI usage causes broken windows (2005)",
-      "link": "https://blog.codinghorror.com/the-broken-window-theory/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 22:05:15 +0000",
-      "timestamp": 1792101915.0
-    },
-    {
-      "title": "Until – A workflow where developers decide what to build and AI does the coding",
-      "link": "https://until.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 22:01:32 +0000",
-      "timestamp": 1792101692.0
-    },
-    {
-      "title": "Show HN: Rebuilt our directory of 241 AI tools for hardware engineering",
-      "link": "https://productflo.io/ai-tools",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 21:44:08 +0000",
-      "timestamp": 1792100648.0
-    },
-    {
-      "title": "AI Building vs. AI Buying: The Transatlantic Split",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-building-vs-ai-buying-the-transatlantic-split",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 21:43:40 +0000",
-      "timestamp": 1792100620.0
-    },
-    {
-      "title": "We fired the frontier model from two AI pipelines. Here are the receipts",
-      "link": "https://seldon-ai.com/blog/we-fired-the-frontier-model",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 21:40:18 +0000",
-      "timestamp": 1792100418.0
     },
     {
       "title": "The tech backlash is now in theaters",
@@ -147,42 +219,6 @@
       "timestamp": 1792100392.0
     },
     {
-      "title": "AI Research Tools – Literature Discovery, LaTeX and Reproducibility",
-      "link": "https://github.com/mahmoudsajjadi/awesome-ai-research-tools",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 21:39:09 +0000",
-      "timestamp": 1792100349.0
-    },
-    {
-      "title": "Europe Is Financing the US AI Buildout",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/europe-is-financing-the-us-ai-buildout",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 21:33:57 +0000",
-      "timestamp": 1792100037.0
-    },
-    {
-      "title": "AI Coding Tools – Architecture, Local LLMs and SWE-Bench",
-      "link": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 21:29:39 +0000",
-      "timestamp": 1792099779.0
-    },
-    {
-      "title": "Character.ai files for bankruptcy following suits alleging ties to teen suicides",
-      "link": "https://www.cnn.com/2026/10/13/tech/character-ai-bankruptcy-filing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 21:25:41 +0000",
-      "timestamp": 1792099541.0
-    },
-    {
       "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
       "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
@@ -192,24 +228,6 @@
       "timestamp": 1792099095.0
     },
     {
-      "title": "The Future of AI Cryptanalysis",
-      "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 21:14:14 +0000",
-      "timestamp": 1792098854.0
-    },
-    {
-      "title": "AI Maestro, one year in: running a company of AI agents and humans",
-      "link": "https://github.com/23blocks-OS/ai-maestro",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 21:14:04 +0000",
-      "timestamp": 1792098844.0
-    },
-    {
       "title": "Trump posts AI-edited photo to brag about White House restoration work",
       "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
       "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or [&#8230;]",
@@ -217,15 +235,6 @@
       "source": "The Verge AI",
       "published": "2026-10-15T17:09:33-04:00",
       "timestamp": 1792098573.0
-    },
-    {
-      "title": "Sunny: Accessible, privacy-first desktop AI assistant for older adults",
-      "link": "https://github.com/MT25MB/Sunny",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 15 Oct 2026 21:03:18 +0000",
-      "timestamp": 1792098198.0
     },
     {
       "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
@@ -469,15 +478,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 14 Oct 2026 15:00:00 +0000",
       "timestamp": 1791990000.0
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 14 Oct 2026 14:30:00 +0000",
-      "timestamp": 1791988200.0
     },
     {
       "title": "My Friend Has No Soul",
