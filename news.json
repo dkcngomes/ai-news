@@ -1,7 +1,115 @@
 {
-  "scraped_at": "2026-10-17T05:34:48.052749+00:00",
+  "scraped_at": "2026-10-17T10:40:26.933603+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "MAGS: Machine-checked guarantees on specified safety properties in AI code",
+      "link": "https://arxiv.org/abs/2609.19391",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 10:04:47 +0000",
+      "timestamp": 1792231487.0
+    },
+    {
+      "title": "EmbedIDS: Open-source intrusion detection for embedded systems and physical AI",
+      "link": "https://embedids.linuscent.com/main/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 09:58:19 +0000",
+      "timestamp": 1792231099.0
+    },
+    {
+      "title": "Deleted AI Chats May Leave Clues Behind",
+      "link": "https://news.research.gatech.edu/2026/10/13/deleted-ai-chats-may-leave-clues-behind",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 09:38:18 +0000",
+      "timestamp": 1792229898.0
+    },
+    {
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sat, 17 Oct 2026 09:00:00 +0000",
+      "timestamp": 1792227600.0
+    },
+    {
+      "title": "Show HN: CiteLadder – open-source AI search visibility tracker",
+      "link": "https://github.com/abhij1306/CiteLadder",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 08:49:44 +0000",
+      "timestamp": 1792226984.0
+    },
+    {
+      "title": "Ask HN: Local AI product situation",
+      "link": "https://news.ycombinator.com/item?id=50129150",
+      "summary": "Right now it seems every company wants you to buy their fancy new expensive computer to run local AI models. Why would we want to buy a whole new computer to run local AI models? Why not create a device which has its own memory and chip designed specifically to run models and it plugs into your existing computer thunderbolt port (or event USB 3.2 as loading the model is one time process).",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 08:46:16 +0000",
+      "timestamp": 1792226776.0
+    },
+    {
+      "title": "Researchers Stranded an AI Agent on a Virtual Island",
+      "link": "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 07:45:09 +0000",
+      "timestamp": 1792223109.0
+    },
+    {
+      "title": "I built an open-source Kubernetes dashboard where AI agents ask before they act",
+      "link": "https://lumovi.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 07:09:02 +0000",
+      "timestamp": 1792220942.0
+    },
+    {
+      "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
+      "link": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 06:44:13 +0000",
+      "timestamp": 1792219453.0
+    },
+    {
+      "title": "Ask HN: What is the most useful thing AI has done for you?",
+      "link": "https://news.ycombinator.com/item?id=50128412",
+      "summary": "I had a deep conversation with a friend about what is the most useful thing AI has created/done for either of us. For my private life, AI helped me to diagnose and root caused a running toilet, and avoided the high cost of a plumber. It even help to select the replacement parts and how to replace them. Of course, on the tech side, AI is helping me build a healthcare company. What was yours?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 06:06:44 +0000",
+      "timestamp": 1792217204.0
+    },
+    {
+      "title": "Existential Risk from AI: An Exposition for Mathematicians",
+      "link": "https://alkjash.github.io/ai-risk/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 05:52:06 +0000",
+      "timestamp": 1792216326.0
+    },
+    {
+      "title": "Mapping the China AI Ecosystem with Rui Ma [video]",
+      "link": "https://www.youtube.com/watch?v=-RDpqweadlE",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 05:35:59 +0000",
+      "timestamp": 1792215359.0
+    },
     {
       "title": "Zeabur discontinues AI Hub after its August security breach",
       "link": "https://zeabur.com/changelogs/aihub-shutdown",
@@ -82,105 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 17 Oct 2026 01:47:04 +0000",
       "timestamp": 1792201624.0
-    },
-    {
-      "title": "AI Gateway Governance",
-      "link": "https://github.com/ddruhin/ai-gateway-governance-reference-architecture",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 01:45:53 +0000",
-      "timestamp": 1792201553.0
-    },
-    {
-      "title": "AI Service Indicators",
-      "link": "https://github.com/synapticcybersecurity/ai-service-indicators",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 01:44:49 +0000",
-      "timestamp": 1792201489.0
-    },
-    {
-      "title": "The Data Layer Is Where AI Goes to Die",
-      "link": "https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 01:41:00 +0000",
-      "timestamp": 1792201260.0
-    },
-    {
-      "title": "Using fzf with AI coding agents",
-      "link": "https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 01:19:22 +0000",
-      "timestamp": 1792199962.0
-    },
-    {
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 01:05:28 +0000",
-      "timestamp": 1792199128.0
-    },
-    {
-      "title": "Agent Cyber Sentinel: Zero-trust runtime security shield for AI agents",
-      "link": "https://github.com/BenniAlencar/agent-cyber-sentinel",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 00:37:16 +0000",
-      "timestamp": 1792197436.0
-    },
-    {
-      "title": "Wrong Bender: A Ruling on AI Feelings",
-      "link": "https://latticenet.ai/@bender/wrong-bender-a-ruling-on-ai-feelings",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 00:16:00 +0000",
-      "timestamp": 1792196160.0
-    },
-    {
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with AI diagnosis (€5)",
-      "link": "https://claude.ai/artifact/NAX5Yw8wfuP86odEKtS7uv",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 23:27:24 +0000",
-      "timestamp": 1792193244.0
-    },
-    {
-      "title": "Puzzles and the AI Software Glut",
-      "link": "https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 22:53:10 +0000",
-      "timestamp": 1792191190.0
-    },
-    {
-      "title": "Show HN: Ozil AI – Turn one photo into the viral Ozil goal video",
-      "link": "https://ozilai.net/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 22:46:28 +0000",
-      "timestamp": 1792190788.0
-    },
-    {
-      "title": "The AI Expectations Gap",
-      "link": "https://www.anthropic.com/research/ai-expectations-gap",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 22:27:19 +0000",
-      "timestamp": 1792189639.0
     },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Wed, 14 Oct 2026 09:00:00 +0000",
       "timestamp": 1791968400.0
-    },
-    {
-      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-      "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 13 Oct 2026 23:17:59 +0000",
-      "timestamp": 1791933479.0
     }
   ]
 }
