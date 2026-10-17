@@ -1,7 +1,124 @@
 {
-  "scraped_at": "2026-10-17T10:40:26.933603+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-17T14:12:03.404059+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "Show HN: Roadster AI – Turn a photo of your car into a kickflip video",
+      "link": "https://flyingcar-ai.net",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 14:05:52 +0000",
+      "timestamp": 1792245952.0
+    },
+    {
+      "title": "Illustrating the AI proof of the Mahler conjecture",
+      "link": "https://chessapig.github.io/Mahler",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 14:04:40 +0000",
+      "timestamp": 1792245880.0
+    },
+    {
+      "title": "Microsoft AI chief says the company beat OpenAI's models, using less compute",
+      "link": "https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 13:37:39 +0000",
+      "timestamp": 1792244259.0
+    },
+    {
+      "title": "FDE-Gym: The Last Mile of AI Delivery",
+      "link": "https://arxiv.org/abs/2610.22350",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 13:31:22 +0000",
+      "timestamp": 1792243882.0
+    },
+    {
+      "title": "Rescue AI models with one click",
+      "link": "https://pirateface.co/rescue",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 13:11:45 +0000",
+      "timestamp": 1792242705.0
+    },
+    {
+      "title": "AI Edge Foresight",
+      "link": "https://developers.google.com/edge/foresight",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 13:08:59 +0000",
+      "timestamp": 1792242539.0
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-17T09:00:00-04:00",
+      "timestamp": 1792242000.0
+    },
+    {
+      "title": "Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)",
+      "link": "https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 12:39:09 +0000",
+      "timestamp": 1792240749.0
+    },
+    {
+      "title": "What happens when AI can read our minds?",
+      "link": "https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 12:18:14 +0000",
+      "timestamp": 1792239494.0
+    },
+    {
+      "title": "As AI triggers a tsunami, computer science conferences impose caps",
+      "link": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 11:44:09 +0000",
+      "timestamp": 1792237449.0
+    },
+    {
+      "title": "AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM",
+      "link": "https://github.com/rajbos/ai-engineering-fluency",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 11:42:54 +0000",
+      "timestamp": 1792237374.0
+    },
+    {
+      "title": "The AI Expectations Gap",
+      "link": "https://www.anthropic.com/research/ai-expectations-gap",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 11:06:19 +0000",
+      "timestamp": 1792235179.0
+    },
+    {
+      "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 11:02:17 +0000",
+      "timestamp": 1792234937.0
+    },
     {
       "title": "MAGS: Machine-checked guarantees on specified safety properties in AI code",
       "link": "https://arxiv.org/abs/2609.19391",
@@ -73,123 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 17 Oct 2026 07:09:02 +0000",
       "timestamp": 1792220942.0
-    },
-    {
-      "title": "Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games",
-      "link": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 06:44:13 +0000",
-      "timestamp": 1792219453.0
-    },
-    {
-      "title": "Ask HN: What is the most useful thing AI has done for you?",
-      "link": "https://news.ycombinator.com/item?id=50128412",
-      "summary": "I had a deep conversation with a friend about what is the most useful thing AI has created/done for either of us. For my private life, AI helped me to diagnose and root caused a running toilet, and avoided the high cost of a plumber. It even help to select the replacement parts and how to replace them. Of course, on the tech side, AI is helping me build a healthcare company. What was yours?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 06:06:44 +0000",
-      "timestamp": 1792217204.0
-    },
-    {
-      "title": "Existential Risk from AI: An Exposition for Mathematicians",
-      "link": "https://alkjash.github.io/ai-risk/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 05:52:06 +0000",
-      "timestamp": 1792216326.0
-    },
-    {
-      "title": "Mapping the China AI Ecosystem with Rui Ma [video]",
-      "link": "https://www.youtube.com/watch?v=-RDpqweadlE",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 05:35:59 +0000",
-      "timestamp": 1792215359.0
-    },
-    {
-      "title": "Zeabur discontinues AI Hub after its August security breach",
-      "link": "https://zeabur.com/changelogs/aihub-shutdown",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 04:14:58 +0000",
-      "timestamp": 1792210498.0
-    },
-    {
-      "title": "AI engineers became hot property. Now they're targets for seduction",
-      "link": "https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 03:55:28 +0000",
-      "timestamp": 1792209328.0
-    },
-    {
-      "title": "AI is driving a boom in modestly successful software projects",
-      "link": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 03:47:39 +0000",
-      "timestamp": 1792208859.0
-    },
-    {
-      "title": "Show HN: AI agent follows instructions you never approved",
-      "link": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 03:33:00 +0000",
-      "timestamp": 1792207980.0
-    },
-    {
-      "title": "SF AI Founder's Zombie Shooter Game Turns Tenderloin Residents into Targets",
-      "link": "https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 02:21:55 +0000",
-      "timestamp": 1792203715.0
-    },
-    {
-      "title": "Show HN: Let AI order DoorDash for me – under my watch – no playwright",
-      "link": "https://www.wysebee.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 02:18:56 +0000",
-      "timestamp": 1792203536.0
-    },
-    {
-      "title": "Publishers' Trust in Nippan Dented by Unauthorized Book Sales for AI Training",
-      "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 02:08:03 +0000",
-      "timestamp": 1792202883.0
-    },
-    {
-      "title": "Show HN: Twain, a diff viewer like Meld, but for the age of AI",
-      "link": "https://github.com/andunieee/twain",
-      "summary": "I love Meld, I've been using it for a while now, it's amazing how many diff viewers exist these days and how they are all awful compared to Meld. But Meld was missing some features that I thought were worth having: - all files from a Git diff shown in the same view, sequentially + a file tree on the side. - show either the full files or only the parts that changed. - tree-sitter-based syntax highlighting. - the ability to comment on sets of changes and lines, and AIs can read these comments. - the ability to search through the entire set of modified files. Twain is in Rust and based on GTK4.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 02:03:40 +0000",
-      "timestamp": 1792202620.0
-    },
-    {
-      "title": "The trickle-down economics of the AI boom",
-      "link": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 01:47:04 +0000",
-      "timestamp": 1792201624.0
     },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -460,15 +460,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 15 Oct 2026 15:02:36 +0000",
       "timestamp": 1792076556.0
-    },
-    {
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-15T10:30:00-04:00",
-      "timestamp": 1792074600.0
     },
     {
       "title": "Google’s Universal Cart shopping tool launches in the US",
