@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-10-17T17:08:35.252091+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-17T19:22:34.257211+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "Anthropic pitches its own AI safety bill to lawmakers",
+      "link": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 19:15:11 +0000",
+      "timestamp": 1792264511.0
+    },
+    {
+      "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
+      "link": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 19:13:02 +0000",
+      "timestamp": 1792264382.0
+    },
+    {
+      "title": "Selfhosting my AI chats: more privacy and sovereignty",
+      "link": "https://janlukas.blog/thoughts/2026/10/selfhosting-ai-chats",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 19:08:23 +0000",
+      "timestamp": 1792264103.0
+    },
+    {
+      "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
+      "link": "https://nono.sh",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 18:58:22 +0000",
+      "timestamp": 1792263502.0
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 17 Oct 2026 18:48:08 +0000",
+      "timestamp": 1792262888.0
+    },
+    {
+      "title": "AI Can Write the Code. Who Verifies It?",
+      "link": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 18:31:30 +0000",
+      "timestamp": 1792261890.0
+    },
+    {
+      "title": "Local-first AI proxy with keys in your OS vault",
+      "link": "https://www.uptokey.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 18:22:59 +0000",
+      "timestamp": 1792261379.0
+    },
+    {
+      "title": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+      "link": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 18:16:03 +0000",
+      "timestamp": 1792260963.0
+    },
+    {
+      "title": "Torvalds calls AI disclosure rules 'utterly stupid' as Linux drops its tag",
+      "link": "https://thenextweb.com/news/torvalds-ai-assisted-by-tag-utterly-stupid-open-source-summit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 18:15:43 +0000",
+      "timestamp": 1792260943.0
+    },
+    {
+      "title": "Pareto frontier lines for AI are great but where are the Pareto planes?",
+      "link": "https://news.ycombinator.com/item?id=50133388",
+      "summary": "Pareto frontier lines are used a lot for comparing tradeoffs between two different attributes in AI models. I want to be able to see the Pareto frontier planes for 3 attributes (which probably look closer to a bumpy dome, similar to how pareto lines are actually more like bumpy curves). And although you wouldn't be able to visualize a pareto cube/tesseract for 4+ attributes, it might still be useful in some way.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 18:00:41 +0000",
+      "timestamp": 1792260041.0
+    },
+    {
+      "title": "Show HN: TezGrid – Experimenting with AI inference on idle computers and Macs",
+      "link": "https://tezgrid.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 17:50:18 +0000",
+      "timestamp": 1792259418.0
+    },
+    {
+      "title": "Anthropic says its AI model submitted a false case tip to Philadelphia police",
+      "link": "https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 17:48:41 +0000",
+      "timestamp": 1792259321.0
+    },
+    {
+      "title": "Show HN: Bitty – Turn AI coding wait time into brain breaks",
+      "link": "https://playbitty.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 17:32:27 +0000",
+      "timestamp": 1792258347.0
+    },
+    {
+      "title": "Show HN: Would You Merge It? – 24 bugs AI assistants write, as fix-it katas",
+      "link": "https://github.com/SohailKhan0525/would-you-merge",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 17:10:01 +0000",
+      "timestamp": 1792257001.0
+    },
+    {
+      "title": "The AI-Native Large-Scale Agile Software Development Manifesto",
+      "link": "https://arxiv.org/abs/2605.07717",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 16:57:41 +0000",
+      "timestamp": 1792256261.0
+    },
     {
       "title": "Alexandr Wang, Meta's Gen Z billionaire AI whizz",
       "link": "https://www.economist.com/the-world-in-brief",
@@ -48,49 +183,13 @@
       "timestamp": 1792254935.0
     },
     {
-      "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
       "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
       "published": "Sat, 17 Oct 2026 16:04:23 +0000",
       "timestamp": 1792253063.0
-    },
-    {
-      "title": "I Tested AI Cloning and It's Worse Than You Think",
-      "link": "https://www.youtube.com/watch?v=KC31K-CUC5Y",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 15:52:30 +0000",
-      "timestamp": 1792252350.0
-    },
-    {
-      "title": "Show HN: I built an AI cycling coach",
-      "link": "https://cuore.fit/",
-      "summary": "My friends and I have been toying with the idea of personalized (cycling indoor) training using AI to assist with planning and tailoring workouts around a busy schedule and ambitious goals, so I decided to build an experiment to see how it would work. Cycling is a sport that's very hard on the body and many cyclists burn out or get frustrated when trying to improve, so my hypothesis is that with proper analysis of training data, there's a lot of potential to build a good product.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 15:27:31 +0000",
-      "timestamp": 1792250851.0
-    },
-    {
-      "title": "He Wants AI Benchmarking to Be a Science, Not a Dark Art",
-      "link": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 15:14:07 +0000",
-      "timestamp": 1792250047.0
-    },
-    {
-      "title": "Perceptors AI – turning clinical expertise into reviewed courses",
-      "link": "https://www.perceptors.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 15:08:19 +0000",
-      "timestamp": 1792249699.0
     },
     {
       "title": "Meta removes language that may have allowed it to scrape news sites",
@@ -100,87 +199,6 @@
       "source": "The Verge AI",
       "published": "2026-10-17T11:04:36-04:00",
       "timestamp": 1792249476.0
-    },
-    {
-      "title": "Decompilations, AI, and the Chase for Clout",
-      "link": "https://jpeisach.github.io/blog/ai/legoisland/decompilation/porting/reverse-engineering/2026/10/16/decomps-clout-consoom.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 14:53:05 +0000",
-      "timestamp": 1792248785.0
-    },
-    {
-      "title": "Proactive AI for Superintelligent Agents",
-      "link": "https://research.google/pubs/proactive-ai-for-superintelligent-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 14:44:38 +0000",
-      "timestamp": 1792248278.0
-    },
-    {
-      "title": "ConvyCanvas – AI Tutor for Euclid's Elements",
-      "link": "https://convycanvas.com/elements/reader/#euclid_i/prop_001",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 14:37:28 +0000",
-      "timestamp": 1792247848.0
-    },
-    {
-      "title": "The AI Paradox",
-      "link": "https://www.youtube.com/watch?v=dcolM6W5Odc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 14:35:52 +0000",
-      "timestamp": 1792247752.0
-    },
-    {
-      "title": "Ask HN: How are you all ensuring your AI code isn't slop?",
-      "link": "https://github.com/trypando/pando",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 14:29:57 +0000",
-      "timestamp": 1792247397.0
-    },
-    {
-      "title": "\"thegentlemanpervert\" producing AI CSAM is a NJ prosecutor, say cops",
-      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 14:10:10 +0000",
-      "timestamp": 1792246210.0
-    },
-    {
-      "title": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
-      "link": "https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 14:08:03 +0000",
-      "timestamp": 1792246083.0
-    },
-    {
-      "title": "Show HN: Roadster AI – Turn a photo of your car into a kickflip video",
-      "link": "https://flyingcar-ai.net",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 14:05:52 +0000",
-      "timestamp": 1792245952.0
-    },
-    {
-      "title": "Illustrating the AI proof of the Mahler conjecture",
-      "link": "https://chessapig.github.io/Mahler",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 14:04:40 +0000",
-      "timestamp": 1792245880.0
     },
     {
       "title": "Websites are closing their doors to AI agents",
@@ -199,15 +217,6 @@
       "source": "Wired AI",
       "published": "Sat, 17 Oct 2026 09:00:00 +0000",
       "timestamp": 1792227600.0
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 16 Oct 2026 21:22:28 +0000",
-      "timestamp": 1792185748.0
     },
     {
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
