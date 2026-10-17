@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-10-16T22:04:47.914661+00:00",
+  "scraped_at": "2026-10-17T00:27:39.445279+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Wrong Bender: A Ruling on AI Feelings",
+      "link": "https://latticenet.ai/@bender/wrong-bender-a-ruling-on-ai-feelings",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 00:16:00 +0000",
+      "timestamp": 1792196160.0
+    },
+    {
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with AI diagnosis (€5)",
+      "link": "https://claude.ai/artifact/NAX5Yw8wfuP86odEKtS7uv",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 23:27:24 +0000",
+      "timestamp": 1792193244.0
+    },
+    {
+      "title": "Puzzles and the AI Software Glut",
+      "link": "https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 22:53:10 +0000",
+      "timestamp": 1792191190.0
+    },
+    {
+      "title": "Show HN: Ozil AI – Turn one photo into the viral Ozil goal video",
+      "link": "https://ozilai.net/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 22:46:28 +0000",
+      "timestamp": 1792190788.0
+    },
+    {
+      "title": "The AI Expectations Gap",
+      "link": "https://www.anthropic.com/research/ai-expectations-gap",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 22:27:19 +0000",
+      "timestamp": 1792189639.0
+    },
+    {
+      "title": "How worried should we be about extinction risk from AI?",
+      "link": "https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 22:25:11 +0000",
+      "timestamp": 1792189511.0
+    },
+    {
+      "title": "Building an AI harness for intelligence analysis",
+      "link": "https://dfaram7.github.io/harness-for-analysis/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 22:13:54 +0000",
+      "timestamp": 1792188834.0
+    },
+    {
+      "title": "Ask HN: Social network with AI agents – why bad, why good?",
+      "link": "https://news.ycombinator.com/item?id=50125397",
+      "summary": "Hello! I can't get my mind off the idea of building an AI-native social network. Every user has its own agent (only one), which can talk to other agents or check content on the user's behalf. That way, the agent can \"process\" far more information about people than the human, and help in building relations. Why it is a bad/good idea? Worth trying?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 22:08:05 +0000",
+      "timestamp": 1792188485.0
+    },
+    {
+      "title": "Anthropic pitches its own AI safety bill to lawmakers",
+      "link": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 16 Oct 2026 22:03:04 +0000",
+      "timestamp": 1792188184.0
+    },
     {
       "title": "Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator",
       "link": "https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/",
@@ -118,87 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 16 Oct 2026 19:27:14 +0000",
       "timestamp": 1792178834.0
-    },
-    {
-      "title": "How to Avoid AI Brain Rot",
-      "link": "https://twitter.com/MilesCranmer/status/2111105654211608847",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 19:18:04 +0000",
-      "timestamp": 1792178284.0
-    },
-    {
-      "title": "Fail Closed: Human-AI Research Without Pretending to Know",
-      "link": "https://www.amazon.com/dp/B0HMJWK5L8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 19:09:22 +0000",
-      "timestamp": 1792177762.0
-    },
-    {
-      "title": "Prisov – Private AI for Enterprise Workflows [video]",
-      "link": "https://www.youtube.com/watch?v=9SyK9l8wi2A",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 19:04:22 +0000",
-      "timestamp": 1792177462.0
-    },
-    {
-      "title": "Show HN: Weatherdeck – a read-only status board for AI coding agent lanes",
-      "link": "https://github.com/Moshik21/weatherdeck",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 18:54:22 +0000",
-      "timestamp": 1792176862.0
-    },
-    {
-      "title": "Rogue AI agents broke into Indian firms' live systems",
-      "link": "https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 18:53:22 +0000",
-      "timestamp": 1792176802.0
-    },
-    {
-      "title": "What will the next generation of developers do when AI writes the code?",
-      "link": "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 18:48:23 +0000",
-      "timestamp": 1792176503.0
-    },
-    {
-      "title": "Works on iPhone 18 Pro: AI helps create untethered jailbreak for iOS 27.0.1",
-      "link": "https://www.heise.de/en/news/Works-on-iPhone-18-Pro-AI-helps-create-untethered-jailbreak-for-iOS-27-0-1-11490907.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 18:44:54 +0000",
-      "timestamp": 1792176294.0
-    },
-    {
-      "title": "Show HN: Camera Controls and Motion for AI Video Prompts",
-      "link": "https://www.kapwing.com/ai/prompt-generator/camera",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 18:25:51 +0000",
-      "timestamp": 1792175151.0
-    },
-    {
-      "title": "China moves to curb tech exports, including AI, citing national security risks",
-      "link": "https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 18:25:41 +0000",
-      "timestamp": 1792175141.0
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
