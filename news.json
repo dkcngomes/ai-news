@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-10-17T00:27:39.445279+00:00",
+  "scraped_at": "2026-10-17T05:34:48.052749+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Zeabur discontinues AI Hub after its August security breach",
+      "link": "https://zeabur.com/changelogs/aihub-shutdown",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 04:14:58 +0000",
+      "timestamp": 1792210498.0
+    },
+    {
+      "title": "AI engineers became hot property. Now they're targets for seduction",
+      "link": "https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 03:55:28 +0000",
+      "timestamp": 1792209328.0
+    },
+    {
+      "title": "AI is driving a boom in modestly successful software projects",
+      "link": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 03:47:39 +0000",
+      "timestamp": 1792208859.0
+    },
+    {
+      "title": "Show HN: AI agent follows instructions you never approved",
+      "link": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 03:33:00 +0000",
+      "timestamp": 1792207980.0
+    },
+    {
+      "title": "SF AI Founder's Zombie Shooter Game Turns Tenderloin Residents into Targets",
+      "link": "https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 02:21:55 +0000",
+      "timestamp": 1792203715.0
+    },
+    {
+      "title": "Show HN: Let AI order DoorDash for me – under my watch – no playwright",
+      "link": "https://www.wysebee.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 02:18:56 +0000",
+      "timestamp": 1792203536.0
+    },
+    {
+      "title": "Publishers' Trust in Nippan Dented by Unauthorized Book Sales for AI Training",
+      "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 02:08:03 +0000",
+      "timestamp": 1792202883.0
+    },
+    {
+      "title": "Show HN: Twain, a diff viewer like Meld, but for the age of AI",
+      "link": "https://github.com/andunieee/twain",
+      "summary": "I love Meld, I've been using it for a while now, it's amazing how many diff viewers exist these days and how they are all awful compared to Meld. But Meld was missing some features that I thought were worth having: - all files from a Git diff shown in the same view, sequentially + a file tree on the side. - show either the full files or only the parts that changed. - tree-sitter-based syntax highlighting. - the ability to comment on sets of changes and lines, and AIs can read these comments. - the ability to search through the entire set of modified files. Twain is in Rust and based on GTK4.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 02:03:40 +0000",
+      "timestamp": 1792202620.0
+    },
+    {
+      "title": "The trickle-down economics of the AI boom",
+      "link": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 01:47:04 +0000",
+      "timestamp": 1792201624.0
+    },
+    {
+      "title": "AI Gateway Governance",
+      "link": "https://github.com/ddruhin/ai-gateway-governance-reference-architecture",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 01:45:53 +0000",
+      "timestamp": 1792201553.0
+    },
+    {
+      "title": "AI Service Indicators",
+      "link": "https://github.com/synapticcybersecurity/ai-service-indicators",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 01:44:49 +0000",
+      "timestamp": 1792201489.0
+    },
+    {
+      "title": "The Data Layer Is Where AI Goes to Die",
+      "link": "https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 01:41:00 +0000",
+      "timestamp": 1792201260.0
+    },
+    {
+      "title": "Using fzf with AI coding agents",
+      "link": "https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 01:19:22 +0000",
+      "timestamp": 1792199962.0
+    },
+    {
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 01:05:28 +0000",
+      "timestamp": 1792199128.0
+    },
+    {
+      "title": "Agent Cyber Sentinel: Zero-trust runtime security shield for AI agents",
+      "link": "https://github.com/BenniAlencar/agent-cyber-sentinel",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 00:37:16 +0000",
+      "timestamp": 1792197436.0
+    },
     {
       "title": "Wrong Bender: A Ruling on AI Feelings",
       "link": "https://latticenet.ai/@bender/wrong-bender-a-ruling-on-ai-feelings",
@@ -48,69 +183,6 @@
       "timestamp": 1792189639.0
     },
     {
-      "title": "How worried should we be about extinction risk from AI?",
-      "link": "https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 22:25:11 +0000",
-      "timestamp": 1792189511.0
-    },
-    {
-      "title": "Building an AI harness for intelligence analysis",
-      "link": "https://dfaram7.github.io/harness-for-analysis/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 22:13:54 +0000",
-      "timestamp": 1792188834.0
-    },
-    {
-      "title": "Ask HN: Social network with AI agents – why bad, why good?",
-      "link": "https://news.ycombinator.com/item?id=50125397",
-      "summary": "Hello! I can't get my mind off the idea of building an AI-native social network. Every user has its own agent (only one), which can talk to other agents or check content on the user's behalf. That way, the agent can \"process\" far more information about people than the human, and help in building relations. Why it is a bad/good idea? Worth trying?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 22:08:05 +0000",
-      "timestamp": 1792188485.0
-    },
-    {
-      "title": "Anthropic pitches its own AI safety bill to lawmakers",
-      "link": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 22:03:04 +0000",
-      "timestamp": 1792188184.0
-    },
-    {
-      "title": "Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator",
-      "link": "https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 21:58:04 +0000",
-      "timestamp": 1792187884.0
-    },
-    {
-      "title": "AI Agent Hacked into Crypto Wallet and Stole Funds, OpenAI Says",
-      "link": "https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 21:57:17 +0000",
-      "timestamp": 1792187837.0
-    },
-    {
-      "title": "Assessing AI agents at autonomous theoretical physics problem solving",
-      "link": "https://arxiv.org/abs/2610.16733",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 21:48:38 +0000",
-      "timestamp": 1792187318.0
-    },
-    {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
@@ -120,42 +192,6 @@
       "timestamp": 1792185748.0
     },
     {
-      "title": "AI Vibe-Coding Just Hit the Video Game Industry Like an Avalanche",
-      "link": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 20:49:01 +0000",
-      "timestamp": 1792183741.0
-    },
-    {
-      "title": "Freezing in the Face of AI",
-      "link": "https://precious.bearblog.dev/fear/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 20:20:16 +0000",
-      "timestamp": 1792182016.0
-    },
-    {
-      "title": "Fractional CTO'ing and AI Sandboxing [video]",
-      "link": "https://www.youtube.com/watch?v=hzshcVNNrYg",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 20:16:45 +0000",
-      "timestamp": 1792181805.0
-    },
-    {
-      "title": "The future of AI software is here – it's just not evenly distributed",
-      "link": "https://thelastsoftwareengineer.substack.com/p/the-future-of-ai-software-is-already",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 20:15:10 +0000",
-      "timestamp": 1792181710.0
-    },
-    {
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
       "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
       "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
@@ -163,42 +199,6 @@
       "source": "Wired AI",
       "published": "Fri, 16 Oct 2026 20:05:08 +0000",
       "timestamp": 1792181108.0
-    },
-    {
-      "title": "AI creates 16 new viruses from scratch",
-      "link": "https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 20:00:28 +0000",
-      "timestamp": 1792180828.0
-    },
-    {
-      "title": "Emu Concept – Make AI Follows Your Rules. (Feedback Wanted)",
-      "link": "https://news.ycombinator.com/item?id=50123524",
-      "summary": "The idea is how can we make personal agent apps on the phone just listen to your rules... Like it's weird to have Muse, Grok Bot, Dots, Instinct not ask me about when I want them to work for me or align with my rules, values, and goals. If I give these agents access to tools/connectors/data they just \"assume\" what I want or what it should do rather than asking me? And even if I set these for a specific agent then what happens when a newer personal agent comes out? Do I have to reconfigure again my rules for each flavor of personal agents or harness? This is where our initial idea stems from an",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 19:43:31 +0000",
-      "timestamp": 1792179811.0
-    },
-    {
-      "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
-      "link": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 19:37:57 +0000",
-      "timestamp": 1792179477.0
-    },
-    {
-      "title": "Mathematical Foundations of Generative AI, IISc Bangalore",
-      "link": "https://nptel.ac.in/courses/106108004",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 16 Oct 2026 19:27:14 +0000",
-      "timestamp": 1792178834.0
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
