@@ -1,7 +1,169 @@
 {
-  "scraped_at": "2026-10-17T14:12:03.404059+00:00",
+  "scraped_at": "2026-10-17T17:08:35.252091+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "Alexandr Wang, Meta's Gen Z billionaire AI whizz",
+      "link": "https://www.economist.com/the-world-in-brief",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 16:55:36 +0000",
+      "timestamp": 1792256136.0
+    },
+    {
+      "title": "Why the Creators of AI Do Not Understand Their Own Creations",
+      "link": "https://news.ycombinator.com/item?id=50132747",
+      "summary": "Just citations. Dario Amodei (CEO of Anthropic, 2025): \"People outside the field are often surprised and alarmed to learn that we do not understand how our own AI creations work. This lack of understanding is essentially unprecedented in the history of technology.\" MIT Technology Review: \"Despite all the stunning success, nobody really knows how — or why — it works.\" Yoshua Bengio (Turing Award laureate, 2024): \"If we continue as before, we are driving against the wall. Or at least we are driving into a fog, without knowing whether there is a wall.\" Mathematician Roman Vershynin (UC Irvine), i",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 16:54:50 +0000",
+      "timestamp": 1792256090.0
+    },
+    {
+      "title": "Show HN: Baa – find and free what your AI agents left running on your Mac",
+      "link": "https://github.com/selviarora/baa",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 16:46:48 +0000",
+      "timestamp": 1792255608.0
+    },
+    {
+      "title": "Show HN: AegisKernel – Test prompt injection attacks on AI agents in the browser",
+      "link": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 16:42:53 +0000",
+      "timestamp": 1792255373.0
+    },
+    {
+      "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 16:35:35 +0000",
+      "timestamp": 1792254935.0
+    },
+    {
+      "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
+      "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 16:04:23 +0000",
+      "timestamp": 1792253063.0
+    },
+    {
+      "title": "I Tested AI Cloning and It's Worse Than You Think",
+      "link": "https://www.youtube.com/watch?v=KC31K-CUC5Y",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 15:52:30 +0000",
+      "timestamp": 1792252350.0
+    },
+    {
+      "title": "Show HN: I built an AI cycling coach",
+      "link": "https://cuore.fit/",
+      "summary": "My friends and I have been toying with the idea of personalized (cycling indoor) training using AI to assist with planning and tailoring workouts around a busy schedule and ambitious goals, so I decided to build an experiment to see how it would work. Cycling is a sport that's very hard on the body and many cyclists burn out or get frustrated when trying to improve, so my hypothesis is that with proper analysis of training data, there's a lot of potential to build a good product.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 15:27:31 +0000",
+      "timestamp": 1792250851.0
+    },
+    {
+      "title": "He Wants AI Benchmarking to Be a Science, Not a Dark Art",
+      "link": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 15:14:07 +0000",
+      "timestamp": 1792250047.0
+    },
+    {
+      "title": "Perceptors AI – turning clinical expertise into reviewed courses",
+      "link": "https://www.perceptors.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 15:08:19 +0000",
+      "timestamp": 1792249699.0
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-17T11:04:36-04:00",
+      "timestamp": 1792249476.0
+    },
+    {
+      "title": "Decompilations, AI, and the Chase for Clout",
+      "link": "https://jpeisach.github.io/blog/ai/legoisland/decompilation/porting/reverse-engineering/2026/10/16/decomps-clout-consoom.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 14:53:05 +0000",
+      "timestamp": 1792248785.0
+    },
+    {
+      "title": "Proactive AI for Superintelligent Agents",
+      "link": "https://research.google/pubs/proactive-ai-for-superintelligent-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 14:44:38 +0000",
+      "timestamp": 1792248278.0
+    },
+    {
+      "title": "ConvyCanvas – AI Tutor for Euclid's Elements",
+      "link": "https://convycanvas.com/elements/reader/#euclid_i/prop_001",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 14:37:28 +0000",
+      "timestamp": 1792247848.0
+    },
+    {
+      "title": "The AI Paradox",
+      "link": "https://www.youtube.com/watch?v=dcolM6W5Odc",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 14:35:52 +0000",
+      "timestamp": 1792247752.0
+    },
+    {
+      "title": "Ask HN: How are you all ensuring your AI code isn't slop?",
+      "link": "https://github.com/trypando/pando",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 14:29:57 +0000",
+      "timestamp": 1792247397.0
+    },
+    {
+      "title": "\"thegentlemanpervert\" producing AI CSAM is a NJ prosecutor, say cops",
+      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 14:10:10 +0000",
+      "timestamp": 1792246210.0
+    },
+    {
+      "title": "Amazon's Bee AI devices have a bystander problem, says former security engineer",
+      "link": "https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 14:08:03 +0000",
+      "timestamp": 1792246083.0
+    },
     {
       "title": "Show HN: Roadster AI – Turn a photo of your car into a kickflip video",
       "link": "https://flyingcar-ai.net",
@@ -21,42 +183,6 @@
       "timestamp": 1792245880.0
     },
     {
-      "title": "Microsoft AI chief says the company beat OpenAI's models, using less compute",
-      "link": "https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 13:37:39 +0000",
-      "timestamp": 1792244259.0
-    },
-    {
-      "title": "FDE-Gym: The Last Mile of AI Delivery",
-      "link": "https://arxiv.org/abs/2610.22350",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 13:31:22 +0000",
-      "timestamp": 1792243882.0
-    },
-    {
-      "title": "Rescue AI models with one click",
-      "link": "https://pirateface.co/rescue",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 13:11:45 +0000",
-      "timestamp": 1792242705.0
-    },
-    {
-      "title": "AI Edge Foresight",
-      "link": "https://developers.google.com/edge/foresight",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 13:08:59 +0000",
-      "timestamp": 1792242539.0
-    },
-    {
       "title": "Websites are closing their doors to AI agents",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
@@ -66,87 +192,6 @@
       "timestamp": 1792242000.0
     },
     {
-      "title": "Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)",
-      "link": "https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 12:39:09 +0000",
-      "timestamp": 1792240749.0
-    },
-    {
-      "title": "What happens when AI can read our minds?",
-      "link": "https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 12:18:14 +0000",
-      "timestamp": 1792239494.0
-    },
-    {
-      "title": "As AI triggers a tsunami, computer science conferences impose caps",
-      "link": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 11:44:09 +0000",
-      "timestamp": 1792237449.0
-    },
-    {
-      "title": "AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM",
-      "link": "https://github.com/rajbos/ai-engineering-fluency",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 11:42:54 +0000",
-      "timestamp": 1792237374.0
-    },
-    {
-      "title": "The AI Expectations Gap",
-      "link": "https://www.anthropic.com/research/ai-expectations-gap",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 11:06:19 +0000",
-      "timestamp": 1792235179.0
-    },
-    {
-      "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 11:02:17 +0000",
-      "timestamp": 1792234937.0
-    },
-    {
-      "title": "MAGS: Machine-checked guarantees on specified safety properties in AI code",
-      "link": "https://arxiv.org/abs/2609.19391",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 10:04:47 +0000",
-      "timestamp": 1792231487.0
-    },
-    {
-      "title": "EmbedIDS: Open-source intrusion detection for embedded systems and physical AI",
-      "link": "https://embedids.linuscent.com/main/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 09:58:19 +0000",
-      "timestamp": 1792231099.0
-    },
-    {
-      "title": "Deleted AI Chats May Leave Clues Behind",
-      "link": "https://news.research.gatech.edu/2026/10/13/deleted-ai-chats-may-leave-clues-behind",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 09:38:18 +0000",
-      "timestamp": 1792229898.0
-    },
-    {
       "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
       "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
       "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
@@ -154,42 +199,6 @@
       "source": "Wired AI",
       "published": "Sat, 17 Oct 2026 09:00:00 +0000",
       "timestamp": 1792227600.0
-    },
-    {
-      "title": "Show HN: CiteLadder – open-source AI search visibility tracker",
-      "link": "https://github.com/abhij1306/CiteLadder",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 08:49:44 +0000",
-      "timestamp": 1792226984.0
-    },
-    {
-      "title": "Ask HN: Local AI product situation",
-      "link": "https://news.ycombinator.com/item?id=50129150",
-      "summary": "Right now it seems every company wants you to buy their fancy new expensive computer to run local AI models. Why would we want to buy a whole new computer to run local AI models? Why not create a device which has its own memory and chip designed specifically to run models and it plugs into your existing computer thunderbolt port (or event USB 3.2 as loading the model is one time process).",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 08:46:16 +0000",
-      "timestamp": 1792226776.0
-    },
-    {
-      "title": "Researchers Stranded an AI Agent on a Virtual Island",
-      "link": "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 07:45:09 +0000",
-      "timestamp": 1792223109.0
-    },
-    {
-      "title": "I built an open-source Kubernetes dashboard where AI agents ask before they act",
-      "link": "https://lumovi.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 07:09:02 +0000",
-      "timestamp": 1792220942.0
     },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -442,15 +451,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 15 Oct 2026 18:00:00 +0000",
       "timestamp": 1792087200.0
-    },
-    {
-      "title": "Friends don&#8217;t let friends feed their data to AI agents",
-      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-15T12:21:45-04:00",
-      "timestamp": 1792081305.0
     },
     {
       "title": "AI agents are coming to Rivian’s cars",
