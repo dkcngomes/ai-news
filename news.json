@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-10-18T20:39:21.601115+00:00",
+  "scraped_at": "2026-10-18T23:09:40.226841+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Anthropic proposes AI safety bill with $1B / 50-death treshold",
+      "link": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 22:46:19 +0000",
+      "timestamp": 1792363579.0
+    },
+    {
+      "title": "Eight-Dimension Audit for AI Governance: Anthropic, EU, China, UK",
+      "link": "https://sergemso.substack.com/p/ai-governance-eight-dimension-audit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 22:40:23 +0000",
+      "timestamp": 1792363223.0
+    },
+    {
+      "title": "Tkmd – A local CLI task manager and MCP server with AI agent review gates`",
+      "link": "https://github.com/ktreharrison/tkmd",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 22:27:30 +0000",
+      "timestamp": 1792362450.0
+    },
+    {
+      "title": "Meta Built a New App with AI-Native Engineering",
+      "link": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 22:27:23 +0000",
+      "timestamp": 1792362443.0
+    },
+    {
+      "title": "Subvert.fm AI Policy",
+      "link": "https://www.subvert.fm/pages/ai-policy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 21:29:08 +0000",
+      "timestamp": 1792358948.0
+    },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
@@ -163,51 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 18 Oct 2026 16:30:00 +0000",
       "timestamp": 1792341000.0
-    },
-    {
-      "title": "Would you switch credit cards for your rewards on your AI spend?",
-      "link": "https://news.ycombinator.com/item?id=50142494",
-      "summary": "currently exploring a \"bilt for AI spend\": a card that earns rewards on your AI token bills that you can redeem on sandbox, infra, compute, etc. if you spend heavily on tokens, would this make you switch cards?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 16:24:42 +0000",
-      "timestamp": 1792340682.0
-    },
-    {
-      "title": "Vertick – built with DominoKit and agentic AI",
-      "link": "https://dominokit.com/vertick/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 16:23:10 +0000",
-      "timestamp": 1792340590.0
-    },
-    {
-      "title": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
-      "link": "https://age-of-product.com/ai-assisted-product-discovery/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 15:55:35 +0000",
-      "timestamp": 1792338935.0
-    },
-    {
-      "title": "Microsoft drops AI datacentre project in Essex over power supply concerns",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 15:48:32 +0000",
-      "timestamp": 1792338512.0
-    },
-    {
-      "title": "Show HN: AI Zombie Trend–Generating multi-shot narrative videos from two photos",
-      "link": "https://aizombietrend.online/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 15:25:01 +0000",
-      "timestamp": 1792337101.0
     },
     {
       "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
