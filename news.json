@@ -1,15 +1,132 @@
 {
-  "scraped_at": "2026-10-18T04:28:20.893516+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-18T09:35:03.791457+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "My AI agent caught most of our sites saying sent while no email left the server",
-      "link": "https://iampneuma.com/the-function-returned-true/",
+      "title": "Deezer Will Let Listeners Filter Out AI Music",
+      "link": "https://www.engadget.com/2286898/deezer-will-let-listeners-completely-filter-out-ai-music/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 04:07:07 +0000",
-      "timestamp": 1792296427.0
+      "published": "Sun, 18 Oct 2026 09:19:13 +0000",
+      "timestamp": 1792315153.0
+    },
+    {
+      "title": "Why CoreWeave is in the crosshairs of the AI scare",
+      "link": "https://www.reuters.com/legal/transactional/why-coreweave-is-crosshairs-ai-scare-2026-10-16/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 09:17:02 +0000",
+      "timestamp": 1792315022.0
+    },
+    {
+      "title": "Show HN: Risphai – picks the AI model, tools and prompt for each request",
+      "link": "https://risphai.com",
+      "summary": "I noticed that a lot of non-technical people don’t use AI to its full extent. Like they use the wrong model for the task, the wrong reasoning effort, or vague prompts. That gap between \"what the AI can do\" and \"what people actually get\" is what I wanted to fix. So I spent the last two years in my spare time building a consumer AI product that tries to fix this issue. This is how it works: When it receives the request, an LLM decides the task type (chat, reasoning, coding, writing) and the tool calls that are needed (web search, image generation, video generation, audio generation). Then it rou",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 09:11:39 +0000",
+      "timestamp": 1792314699.0
+    },
+    {
+      "title": "The Universe as a Test Harness: Meat AI and God's Admin Panel",
+      "link": "https://rebecca-powell.com/posts/meat-ai-universe-test-harness/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 09:00:20 +0000",
+      "timestamp": 1792314020.0
+    },
+    {
+      "title": "Abolish AI Manifesto (under construction)",
+      "link": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 08:20:45 +0000",
+      "timestamp": 1792311645.0
+    },
+    {
+      "title": "Show HN: Connecting Captions Local Private AI Interpreter",
+      "link": "https://local-host.ai/connectingCaptions/",
+      "summary": "Hi HN, I built Connecting Captions, a live captioning and translation overlay for macOS that runs entirely on-device. Nothing goes over the network: no API calls, no audio leaving your machine, and it keeps working offline. I wanted live translation I could use in meetings and conversations without worrying about connectivity, latency spikes, or sending sensitive audio to a third party. The technically interesting part is a low-latency, self-correcting pipeline for speech-to-text and translation. It has two modes: Sentence mode: buffers until a sentence boundary, then translates with full cont",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 07:41:31 +0000",
+      "timestamp": 1792309291.0
+    },
+    {
+      "title": "AgentBlackBox – a policy gate and tamper-evident audit log for AI agents",
+      "link": "https://agent-blackbox-five.vercel.app/demo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 07:25:01 +0000",
+      "timestamp": 1792308301.0
+    },
+    {
+      "title": "ArXiv versus AI slop: will capping preprint submissions work?",
+      "link": "https://www.nature.com/articles/d41586-026-03194-w",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 07:15:57 +0000",
+      "timestamp": 1792307757.0
+    },
+    {
+      "title": "Weights AI – AI Song Cover Generator",
+      "link": "https://weightsai.net/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 07:11:34 +0000",
+      "timestamp": 1792307494.0
+    },
+    {
+      "title": "America's $10T AI infrastructure boom is starting to fray",
+      "link": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 06:46:50 +0000",
+      "timestamp": 1792306010.0
+    },
+    {
+      "title": "Anthropic turns to lawyers to help AI agents strike deals",
+      "link": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 06:03:17 +0000",
+      "timestamp": 1792303397.0
+    },
+    {
+      "title": "TurboScribe AI: Free video to text and audio to text converter",
+      "link": "https://www.turboscribeai.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 05:55:29 +0000",
+      "timestamp": 1792302929.0
+    },
+    {
+      "title": "AI Slop? Nay, AI Gourmet",
+      "link": "https://octomon.dev/blog/ai-slop-and-ai-gourmet/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 05:00:17 +0000",
+      "timestamp": 1792299617.0
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "link": "https://sphinx-six-theta.vercel.app/",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 04:33:49 +0000",
+      "timestamp": 1792298029.0
     },
     {
       "title": "Phishing emails are baiting your AI assistant",
@@ -64,114 +181,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 18 Oct 2026 00:50:48 +0000",
       "timestamp": 1792284648.0
-    },
-    {
-      "title": "Anthropic warns AI models could self-replicate across home devices",
-      "link": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 00:44:06 +0000",
-      "timestamp": 1792284246.0
-    },
-    {
-      "title": "Lazyagents – Lazygit for AI coding agents",
-      "link": "https://github.com/rogeriojunior31/lazyagents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 00:42:19 +0000",
-      "timestamp": 1792284139.0
-    },
-    {
-      "title": "AI Reviews All-In",
-      "link": "https://all-in-claim-check.pages.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 00:37:15 +0000",
-      "timestamp": 1792283835.0
-    },
-    {
-      "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
-      "link": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 00:36:34 +0000",
-      "timestamp": 1792283794.0
-    },
-    {
-      "title": "Romania names first AI minister: Bitdefender researcher Bogdan Dumitru",
-      "link": "https://www.newsminimalist.com/articles/romania-names-first-ai-minister-bitdefender-researcher-bogdan-dumitru-34e9985d",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 00:06:10 +0000",
-      "timestamp": 1792281970.0
-    },
-    {
-      "title": "AI Infrastructure Index",
-      "link": "https://www.stockatomics.com/ai-infrastructure-index",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 23:55:27 +0000",
-      "timestamp": 1792281327.0
-    },
-    {
-      "title": "I run my one-person business with ~17 narrow AI agents",
-      "link": "https://blakelapierre.substack.com/p/i-run-my-one-person-business-with",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 23:43:05 +0000",
-      "timestamp": 1792280585.0
-    },
-    {
-      "title": "Does code quality still matter when AI writes the code?",
-      "link": "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 23:33:53 +0000",
-      "timestamp": 1792280033.0
-    },
-    {
-      "title": "Doctors, Lawyers and Engineers joining AI's $400-an-Hour gig economy",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 23:33:37 +0000",
-      "timestamp": 1792280017.0
-    },
-    {
-      "title": "Diogenes: AI microservices over L402, x402 and MCP (pay per call)",
-      "link": "https://github.com/stand-out-of-my-sun/diogenes-l402-gateway",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 23:28:15 +0000",
-      "timestamp": 1792279695.0
-    },
-    {
-      "title": "Abolish AI Manifesto",
-      "link": "https://abolish-ai.net/abolish-ai-a-manifesto/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 23:23:46 +0000",
-      "timestamp": 1792279426.0
-    },
-    {
-      "title": "Astrax – Open-source MCP server for Windows desktop AI control",
-      "link": "https://github.com/AstraxOf/astrax-mcp",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 23:13:58 +0000",
-      "timestamp": 1792278838.0
     },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
