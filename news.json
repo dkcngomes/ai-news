@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-10-17T22:16:27.908294+00:00",
+  "scraped_at": "2026-10-18T00:04:25.939385+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "AI Infrastructure Index",
+      "link": "https://www.stockatomics.com/ai-infrastructure-index",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 23:55:27 +0000",
+      "timestamp": 1792281327.0
+    },
+    {
+      "title": "I run my one-person business with ~17 narrow AI agents",
+      "link": "https://blakelapierre.substack.com/p/i-run-my-one-person-business-with",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 23:43:05 +0000",
+      "timestamp": 1792280585.0
+    },
+    {
+      "title": "Does code quality still matter when AI writes the code?",
+      "link": "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 23:33:53 +0000",
+      "timestamp": 1792280033.0
+    },
+    {
+      "title": "Doctors, Lawyers and Engineers joining AI's $400-an-Hour gig economy",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 23:33:37 +0000",
+      "timestamp": 1792280017.0
+    },
+    {
+      "title": "Diogenes: AI microservices over L402, x402 and MCP (pay per call)",
+      "link": "https://github.com/stand-out-of-my-sun/diogenes-l402-gateway",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 23:28:15 +0000",
+      "timestamp": 1792279695.0
+    },
+    {
+      "title": "Abolish AI Manifesto",
+      "link": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 23:23:46 +0000",
+      "timestamp": 1792279426.0
+    },
+    {
+      "title": "Astrax – Open-source MCP server for Windows desktop AI control",
+      "link": "https://github.com/AstraxOf/astrax-mcp",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 23:13:58 +0000",
+      "timestamp": 1792278838.0
+    },
+    {
+      "title": "Gartner says only about 130 'AI agent' companies are real",
+      "link": "https://devanshranjan.medium.com/gartner-says-only-about-130-ai-agent-companies-are-real-i-build-agents-heres-how-to-tell-b79fdd03d764",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 23:04:47 +0000",
+      "timestamp": 1792278287.0
+    },
+    {
+      "title": "Measuring the exponential pace of AI-driven research",
+      "link": "https://eurekist.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 23:01:55 +0000",
+      "timestamp": 1792278115.0
+    },
+    {
+      "title": "How do you deal with AI Output of your boss?",
+      "link": "https://news.ycombinator.com/item?id=50135854",
+      "summary": "So, my boss goes on a rampage. You can clearly see the joy and at the same time the rage and impatience. AI is the tool he always wanted. We are too slow. Process is out of the window. No need for sprints anymore. No planning, just doing. All people downstream must somehow adapt. Whenever i see now his automated messages in slack, my natural reaction is: why do i even bother reading that? Thats for machines to read. He does not need me? Clearly i am not made for that. What is he expecting me to do? To confirm how great the AI did the job? Should i remember all these perfect presentations AI ha",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 17 Oct 2026 22:42:47 +0000",
+      "timestamp": 1792276967.0
+    },
     {
       "title": "AI coding interfaces make approval easy and understanding hard",
       "link": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
@@ -102,24 +192,6 @@
       "timestamp": 1792269406.0
     },
     {
-      "title": "Show HN: Thoreau's Walden as a 3D browser game with an AI guide",
-      "link": "https://walden.learnmer.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 20:33:22 +0000",
-      "timestamp": 1792269202.0
-    },
-    {
-      "title": "LOL Fuck AI by xplsv – a vibecoded demo",
-      "link": "https://xplsv.github.io/lolfuckai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 20:25:19 +0000",
-      "timestamp": 1792268719.0
-    },
-    {
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
       "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
@@ -127,78 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 17 Oct 2026 20:21:19 +0000",
       "timestamp": 1792268479.0
-    },
-    {
-      "title": "AutoMEP – The AI drafter for MEP engineers and designers",
-      "link": "https://automep.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 20:04:24 +0000",
-      "timestamp": 1792267464.0
-    },
-    {
-      "title": "Neuro-Symbolic AI",
-      "link": "https://en.wikipedia.org/wiki/Neuro-symbolic_AI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 19:53:40 +0000",
-      "timestamp": 1792266820.0
-    },
-    {
-      "title": "History's long-secret codes are being cracked by amateurs using AI",
-      "link": "https://www.nature.com/articles/d41586-026-03338-y",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 19:52:43 +0000",
-      "timestamp": 1792266763.0
-    },
-    {
-      "title": "Eight and One Predictions for AI in 2030",
-      "link": "https://philippdubach.com/posts/ai-in-2030/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 19:45:39 +0000",
-      "timestamp": 1792266339.0
-    },
-    {
-      "title": "Three LLM judges couldn't tell an AI agent's real memory from a counterfeit one",
-      "link": "https://kairos-experiment.com/checks.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 19:31:26 +0000",
-      "timestamp": 1792265486.0
-    },
-    {
-      "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
-      "link": "https://twitter.com/beeechimblind/status/2111227318534279501",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 19:26:43 +0000",
-      "timestamp": 1792265203.0
-    },
-    {
-      "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
-      "link": "https://github.com/Annora998/inboxwall",
-      "summary": "An open-source, local-first MCP server designed to sanitize email HTML and protect local AI agents from hidden CSS/Unicode prompt injections before the LLM processes the data.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 19:15:11 +0000",
-      "timestamp": 1792264511.0
-    },
-    {
-      "title": "Anthropic pitches its own AI safety bill to lawmakers",
-      "link": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 17 Oct 2026 19:15:11 +0000",
-      "timestamp": 1792264511.0
     },
     {
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
