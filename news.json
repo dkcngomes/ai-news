@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-10-18T17:20:38.864518+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-18T20:39:21.601115+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 18 Oct 2026 20:37:40 +0000",
+      "timestamp": 1792355860.0
+    },
+    {
+      "title": "Chinese researchers solve 3D Ghys conjecture with homegrown AI model",
+      "link": "https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 20:19:01 +0000",
+      "timestamp": 1792354741.0
+    },
+    {
+      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+      "link": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 19:39:36 +0000",
+      "timestamp": 1792352376.0
+    },
+    {
+      "title": "Beating Warcraft III's insane AI with self-play reinforcement learning on one PC",
+      "link": "https://warlock.ai/blog/warcraftsim-1/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 19:32:10 +0000",
+      "timestamp": 1792351930.0
+    },
+    {
+      "title": "Trustbut checks if an AI agent's new tests fail without its change",
+      "link": "https://github.com/isAlmogK/trustbut",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 19:07:31 +0000",
+      "timestamp": 1792350451.0
+    },
+    {
+      "title": "Self-hosted workspace where notes, tasks and AI chats are all items",
+      "link": "https://github.com/sianachi/nixsites",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 18:39:42 +0000",
+      "timestamp": 1792348782.0
+    },
+    {
+      "title": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+      "link": "https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 18:28:58 +0000",
+      "timestamp": 1792348138.0
+    },
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-18T14:28:10-04:00",
+      "timestamp": 1792348090.0
+    },
+    {
+      "title": "AI/Pangram and Writing",
+      "link": "https://ninza7.medium.com/ai-pangram-writing-966c1da59c48",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 18:26:11 +0000",
+      "timestamp": 1792347971.0
+    },
+    {
+      "title": "Why Clay Has an AI Writing Policy",
+      "link": "https://www.clay.com/blog/ai-writing-policy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 18 Oct 2026 18:05:41 +0000",
+      "timestamp": 1792346741.0
+    },
     {
       "title": "AI Is the Uber Moment for Mathematics",
       "link": "https://greyenlightenment.com/2026/09/27/ai-is-the-uber-moment-for-mathematics/",
@@ -68,7 +158,7 @@
     {
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal [&#8230;]",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Sun, 18 Oct 2026 16:30:00 +0000",
@@ -118,69 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 18 Oct 2026 15:25:01 +0000",
       "timestamp": 1792337101.0
-    },
-    {
-      "title": "Show HN: Wisp – a voice AI on your shoulder, with spatial audio in the browser",
-      "link": "https://wispplayer.com/?tab=ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 15:18:00 +0000",
-      "timestamp": 1792336680.0
-    },
-    {
-      "title": "GhostOS – Lightweight, Offline Desktop AI Assistant (macOS/Win/Linux)",
-      "link": "https://github.com/GhostOS-ai/GhostOS",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 15:08:54 +0000",
-      "timestamp": 1792336134.0
-    },
-    {
-      "title": "Show HN: TaskPocket, a to-do app with an MCP server instead of built-in AI",
-      "link": "https://taskpocket.io/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 14:39:55 +0000",
-      "timestamp": 1792334395.0
-    },
-    {
-      "title": "World Bank says 'small AI' could transform developing countries",
-      "link": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 14:37:55 +0000",
-      "timestamp": 1792334275.0
-    },
-    {
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 14:30:27 +0000",
-      "timestamp": 1792333827.0
-    },
-    {
-      "title": "Show HN: DocuMemory – Persistent memory and context for AI coding tools",
-      "link": "https://www.documemory.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 14:22:54 +0000",
-      "timestamp": 1792333374.0
-    },
-    {
-      "title": "Software is recursive and AI is the base case",
-      "link": "https://t3.at/blog/2026-10-06-ai-base-case/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 18 Oct 2026 14:18:09 +0000",
-      "timestamp": 1792333089.0
     },
     {
       "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
@@ -480,15 +507,6 @@
       "timestamp": 1792090606.0
     },
     {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-15T14:15:36-04:00",
-      "timestamp": 1792088136.0
-    },
-    {
       "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
       "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
       "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
@@ -505,15 +523,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 15 Oct 2026 15:02:36 +0000",
       "timestamp": 1792076556.0
-    },
-    {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "timestamp": 1792074573.0
     },
     {
       "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
