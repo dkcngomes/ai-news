@@ -1,15 +1,249 @@
 {
-  "scraped_at": "2026-10-19T19:19:13.421812+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-19T23:38:04.690847+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "Security patches need patches now that attackers have AI",
-      "link": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+      "title": "AI's transformation of mathematics is a turning point for science",
+      "link": "https://www.economist.com/science-and-technology/2026/10/12/ais-transformation-of-mathematics-is-a-turning-point-for-science",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 19:03:43 +0000",
-      "timestamp": 1792436623.0
+      "published": "Mon, 19 Oct 2026 23:14:38 +0000",
+      "timestamp": 1792451678.0
+    },
+    {
+      "title": "Show HN: MediationBench – testing AI mediators in 62 simulated conflicts",
+      "link": "https://mediationbench.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 23:06:41 +0000",
+      "timestamp": 1792451201.0
+    },
+    {
+      "title": "Is it too late to reduce catastrophic AI risk?",
+      "link": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 23:05:22 +0000",
+      "timestamp": 1792451122.0
+    },
+    {
+      "title": "Why AI is not conscious and perhaps never will be",
+      "link": "https://www.nature.com/articles/d41586-026-03313-7",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 22:52:13 +0000",
+      "timestamp": 1792450333.0
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face&#8217;s chief policy officer, during a discussion at TechCrunch [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 19 Oct 2026 22:49:27 +0000",
+      "timestamp": 1792450167.0
+    },
+    {
+      "title": "Profiling the Attack Surface of AI Agent Skills",
+      "link": "https://arxiv.org/abs/2610.19264",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 22:33:35 +0000",
+      "timestamp": 1792449215.0
+    },
+    {
+      "title": "Universal Basic AI",
+      "link": "https://www.bloomberg.com/opinion/newsletters/2026-10-19/universal-basic-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 22:19:37 +0000",
+      "timestamp": 1792448377.0
+    },
+    {
+      "title": "Jev Helps Multiplayer AI",
+      "link": "https://www.runtype.com/blog/jev-in-the-group-chat",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 22:13:54 +0000",
+      "timestamp": 1792448034.0
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 19 Oct 2026 22:04:28 +0000",
+      "timestamp": 1792447468.0
+    },
+    {
+      "title": "AI models can get brain rot, too",
+      "link": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 22:01:26 +0000",
+      "timestamp": 1792447286.0
+    },
+    {
+      "title": "The fossil fuel comeback is here",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-19T17:48:01-04:00",
+      "timestamp": 1792446481.0
+    },
+    {
+      "title": "Show HN: Accessibility Context for UI with AI",
+      "link": "https://www.typeui.sh/ui-foundations/configurator",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 21:46:15 +0000",
+      "timestamp": 1792446375.0
+    },
+    {
+      "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
+      "link": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 21:38:09 +0000",
+      "timestamp": 1792445889.0
+    },
+    {
+      "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
+      "link": "https://arxiv.org/abs/2610.16555",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 21:33:28 +0000",
+      "timestamp": 1792445608.0
+    },
+    {
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-19T17:28:20-04:00",
+      "timestamp": 1792445300.0
+    },
+    {
+      "title": "Technocapitalist AI-Powered Blues",
+      "link": "https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 21:15:44 +0000",
+      "timestamp": 1792444544.0
+    },
+    {
+      "title": "Quizera – Create and deploy AI-assisted assessments in minutes",
+      "link": "https://quizera.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 21:12:45 +0000",
+      "timestamp": 1792444365.0
+    },
+    {
+      "title": "Scope: Open-source evaluation for AI coding agents",
+      "link": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 20:57:44 +0000",
+      "timestamp": 1792443464.0
+    },
+    {
+      "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
+      "link": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 20:55:51 +0000",
+      "timestamp": 1792443351.0
+    },
+    {
+      "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
+      "link": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 20:54:50 +0000",
+      "timestamp": 1792443290.0
+    },
+    {
+      "title": "Blocking the Internet Archive Will Not Stop AI",
+      "link": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 20:49:29 +0000",
+      "timestamp": 1792442969.0
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 19 Oct 2026 20:09:24 +0000",
+      "timestamp": 1792440564.0
+    },
+    {
+      "title": "Red Hat Engineering Director Uses AI to Tackle Linux's Undocumented Driver Woes",
+      "link": "https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 19:56:58 +0000",
+      "timestamp": 1792439818.0
+    },
+    {
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 19 Oct 2026 19:49:17 +0000",
+      "timestamp": 1792439357.0
+    },
+    {
+      "title": "Linus Torvalds' AI Code Improved: Performance Wins with Reworked Code",
+      "link": "https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 19:48:58 +0000",
+      "timestamp": 1792439338.0
+    },
+    {
+      "title": "What is still hard to become good at as AI makes coding easier?",
+      "link": "https://news.ycombinator.com/item?id=50157098",
+      "summary": "Since LLMs came, how I build software changed for so many reasons. Since then, I’ve spent most of my time deciding what I want to build, how I want to build it, how I want to give the context, checking the result, seeing if there is an error, and paving the way for the LLM to do the right thing. And the difficult part, which is writing code and getting everything right, is handled by the LLM surprisingly well, from my work and the people around me and people who I look up to on the internet. Until now, my edge was that you can get really far by understanding how computers work, like networking",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 19:43:46 +0000",
+      "timestamp": 1792439026.0
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 19 Oct 2026 19:28:34 +0000",
+      "timestamp": 1792438114.0
     },
     {
       "title": "Tolan snags $30M for its AI companion that helps users navigate life",
@@ -21,33 +255,6 @@
       "timestamp": 1792436412.0
     },
     {
-      "title": "As the coding boom fades, CS grads focus on AI skills in choppy job market",
-      "link": "https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 18:59:42 +0000",
-      "timestamp": 1792436382.0
-    },
-    {
-      "title": "AI Came for Math. Now It's Chasing the Rest of Science",
-      "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 18:53:18 +0000",
-      "timestamp": 1792435998.0
-    },
-    {
-      "title": "AI is ushering in an age of personal media",
-      "link": "https://www.understandingai.org/p/ai-is-ushering-in-an-age-personal",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 18:49:21 +0000",
-      "timestamp": 1792435761.0
-    },
-    {
       "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
       "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
       "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
@@ -55,33 +262,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 19 Oct 2026 18:49:04 +0000",
       "timestamp": 1792435744.0
-    },
-    {
-      "title": "\"We were looking at it wrong\": The explosive claim that's upended the AI world",
-      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 18:43:48 +0000",
-      "timestamp": 1792435428.0
-    },
-    {
-      "title": "The AI boom: rational enthusiasm or the next dot-com bubble?",
-      "link": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260817~754a8a4418.en.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 18:40:43 +0000",
-      "timestamp": 1792435243.0
-    },
-    {
-      "title": "AI Hallucination Google Trends",
-      "link": "https://trends.google.com/explore",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 18:39:21 +0000",
-      "timestamp": 1792435161.0
     },
     {
       "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
@@ -93,117 +273,9 @@
       "timestamp": 1792435047.0
     },
     {
-      "title": "Lobster moderator's updates to site guidelines and AI/LLM tags",
-      "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 18:34:37 +0000",
-      "timestamp": 1792434877.0
-    },
-    {
-      "title": "Men, Shaping the Future of AI, Doesn't Mean They Know What They're Talking About",
-      "link": "https://gizmodo.com/men-are-shaping-the-future-of-ai-that-doesnt-mean-they-know-what-theyre-talking-about-2000825911",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 18:23:17 +0000",
-      "timestamp": 1792434197.0
-    },
-    {
-      "title": "Compare AI models to see which censors what.",
-      "link": "https://fromhebrew.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 18:22:17 +0000",
-      "timestamp": 1792434137.0
-    },
-    {
-      "title": "Elements of AI Course",
-      "link": "https://www.elementsofai.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 17:58:09 +0000",
-      "timestamp": 1792432689.0
-    },
-    {
-      "title": "AI agents are only as good as the personal information you share",
-      "link": "https://apnews.com/article/meta-muse-openai-dot-ai-privacy-449734d41d3750aad7038b761faa49c9",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 17:54:04 +0000",
-      "timestamp": 1792432444.0
-    },
-    {
-      "title": "Solidworks launches AI hw design features [video]",
-      "link": "https://www.youtube.com/watch?v=PdcEehTrux0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 17:47:44 +0000",
-      "timestamp": 1792432064.0
-    },
-    {
-      "title": "Build a Basic AI Agent from Scratch: Session Management",
-      "link": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-sessions/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 17:40:47 +0000",
-      "timestamp": 1792431647.0
-    },
-    {
-      "title": "Show HN: Senseplane open-source eyes and ears for AI agents, on your own cameras",
-      "link": "https://github.com/senseplane-ai/senseplane",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 17:25:01 +0000",
-      "timestamp": 1792430701.0
-    },
-    {
-      "title": "Bill Gross bets AI can help mass produce 1M new startups",
-      "link": "https://fortune.com/2026/10/19/bill-gross-idealab-ai-million-startups-jobs/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 17:16:14 +0000",
-      "timestamp": 1792430174.0
-    },
-    {
-      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-      "link": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 17:09:45 +0000",
-      "timestamp": 1792429785.0
-    },
-    {
-      "title": "Who Will Benefit from the AI Revolution?",
-      "link": "https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 17:04:26 +0000",
-      "timestamp": 1792429466.0
-    },
-    {
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 17:01:45 +0000",
-      "timestamp": 1792429305.0
-    },
-    {
       "title": "People are using AI to make their smart TVs dumb again",
       "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 19 Oct 2026 16:13:22 +0000",
@@ -444,15 +516,6 @@
       "timestamp": 1792162800.0
     },
     {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 16 Oct 2026 14:26:51 +0000",
-      "timestamp": 1792160811.0
-    },
-    {
       "title": "Meta’s new terms may allow it to train AI on news sites for free",
       "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
       "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
@@ -460,24 +523,6 @@
       "source": "The Verge AI",
       "published": "2026-10-16T10:02:40-04:00",
       "timestamp": 1792159360.0
-    },
-    {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 16 Oct 2026 14:00:00 +0000",
-      "timestamp": 1792159200.0
-    },
-    {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 16 Oct 2026 12:55:09 +0000",
-      "timestamp": 1792155309.0
     },
     {
       "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
@@ -489,33 +534,6 @@
       "timestamp": 1792148400.0
     },
     {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 15 Oct 2026 23:44:56 +0000",
-      "timestamp": 1792107896.0
-    },
-    {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-15T18:43:23-04:00",
-      "timestamp": 1792104203.0
-    },
-    {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-15T18:35:55-04:00",
-      "timestamp": 1792103755.0
-    },
-    {
       "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
       "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
@@ -523,15 +541,6 @@
       "source": "Wired AI",
       "published": "Thu, 15 Oct 2026 21:18:15 +0000",
       "timestamp": 1792099095.0
-    },
-    {
-      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 15 Oct 2026 21:00:28 +0000",
-      "timestamp": 1792098028.0
     }
   ]
 }
