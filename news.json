@@ -1,7 +1,169 @@
 {
-  "scraped_at": "2026-10-20T19:13:35.553929+00:00",
+  "scraped_at": "2026-10-20T22:17:19.638808+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-20T18:11:34-04:00",
+      "timestamp": 1792534294.0
+    },
+    {
+      "title": "AI Frontier – Discoveries and Community",
+      "link": "https://ai-frontier.co.uk/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 21:53:21 +0000",
+      "timestamp": 1792533201.0
+    },
+    {
+      "title": "What if we donated our spare AI subscriptions to math?",
+      "link": "https://blog.kolen.dev/math/math-at-home",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 21:44:30 +0000",
+      "timestamp": 1792532670.0
+    },
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 20 Oct 2026 21:25:22 +0000",
+      "timestamp": 1792531522.0
+    },
+    {
+      "title": "Foundry-protocol – A framework for orchestrating complex tasks with AI agents",
+      "link": "https://github.com/AlphaIAt/foundry-protocol",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 21:23:48 +0000",
+      "timestamp": 1792531428.0
+    },
+    {
+      "title": "Show HN: Tenbri, a log AI agents can’t secretly rewrite",
+      "link": "https://tenbri.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 21:03:56 +0000",
+      "timestamp": 1792530236.0
+    },
+    {
+      "title": "Bringing AI into business is hard",
+      "link": "https://pindexis.github.io",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 20:46:30 +0000",
+      "timestamp": 1792529190.0
+    },
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 20 Oct 2026 20:40:41 +0000",
+      "timestamp": 1792528841.0
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 20 Oct 2026 20:35:10 +0000",
+      "timestamp": 1792528510.0
+    },
+    {
+      "title": "Ask HN: Will AI = extreme concentration of power?",
+      "link": "https://news.ycombinator.com/item?id=50172133",
+      "summary": "Let's say that AI will continue to get better without being a major risk due to loss of control. I feel like in this paradigm, it will lead to: 1. Fewer and fewer people can make money via their labor. We will have a small minority of super-winners who magnify their work output 100x with AI, and most people will not be able to contribute, thus will not be able to make money. 2. More and more gains go to those who either own the best AI models (Anthropic, OpenAI, Google), own the infrastructure needed to serve those models (energy infrastructure, datacenters). Everyone else gets access to the b",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 20:23:04 +0000",
+      "timestamp": 1792527784.0
+    },
+    {
+      "title": "Show HN: Agent-Zero – Starter template for AI-native coding projects",
+      "link": "https://github.com/amorey/agent-zero",
+      "summary": "Hi All, Agent-Zero is a GitHub template that you can use for new coding projects that use AI-first development workflows. It includes the minimum necessary to nudge agents to write good code, work well in sandboxes, and get stuff done on GitHub (e.g. commits and PRs). It only includes a basic CLAUDE.md file and a few scripts and GitHub templates so it's very easy to customize. I've had good luck using it to produce high-quality coding output but that's subjective so your mileage may vary (e.g. https://github.com/kstackhq/kstack ). If you have any suggestions on how to improve the template let ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 20:21:43 +0000",
+      "timestamp": 1792527703.0
+    },
+    {
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 20:11:14 +0000",
+      "timestamp": 1792527074.0
+    },
+    {
+      "title": "We need a frictionless physical AI experience for builders, makers and tinkerers",
+      "link": "https://blog.marcolamina.me/p/we-need-a-frictionless-physical-ai-experience-for-builders-makers-and-tinkerers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 20:04:58 +0000",
+      "timestamp": 1792526698.0
+    },
+    {
+      "title": "On AI writing",
+      "link": "https://www.bolkunov.com/p/on-ai-writing",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 19:55:11 +0000",
+      "timestamp": 1792526111.0
+    },
+    {
+      "title": "Waste tsunami. Water and the hidden cost of AI data centres",
+      "link": "https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 19:37:54 +0000",
+      "timestamp": 1792525074.0
+    },
+    {
+      "title": "Show HN: Modula-9, a Wirth-family language designed for auditing AI-written code",
+      "link": "https://www.modula9.net",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 19:24:53 +0000",
+      "timestamp": 1792524293.0
+    },
+    {
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "link": "https://danielball.com/notes/ai_image_generation.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 19:22:39 +0000",
+      "timestamp": 1792524159.0
+    },
+    {
+      "title": "Anthropic redesigned source-control for AI agents",
+      "link": "https://www.anthropic.com/research/redesigning-source-control",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 19:08:21 +0000",
+      "timestamp": 1792523301.0
+    },
     {
       "title": "HoDoKu Revisited – Classic Java Sudoku Solver Ported to PWA with AI Coaching",
       "link": "https://hodokurevisited.com",
@@ -75,60 +237,6 @@
       "timestamp": 1792520849.0
     },
     {
-      "title": "Apache Airflow AI Provider 1.0",
-      "link": "https://airflow.apache.org/blog/common-ai-provider-1.0/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:23:24 +0000",
-      "timestamp": 1792520604.0
-    },
-    {
-      "title": "Rebuilding the monday.com API edge for AI Agents",
-      "link": "https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:22:18 +0000",
-      "timestamp": 1792520538.0
-    },
-    {
-      "title": "Minlit – an AI agent that reads CS/ML papers and answers with citations",
-      "link": "https://www.minlit.app/ask",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:19:25 +0000",
-      "timestamp": 1792520365.0
-    },
-    {
-      "title": "Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop",
-      "link": "https://respawnfirst.com/demands-for-ai-filter-steam-next-fest-ai-slop/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:15:00 +0000",
-      "timestamp": 1792520100.0
-    },
-    {
-      "title": "Skolimowski, AI, and Linus Torvalds",
-      "link": "https://jasonpolak.substack.com/p/skolimowski-ai-and-linus-torvalds",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:12:02 +0000",
-      "timestamp": 1792519922.0
-    },
-    {
-      "title": "Ahead of IPOs, AI companies are sketching plans to share their wealth",
-      "link": "https://apnews.com/article/anthropic-openai-public-benefit-fund-fc16c0ff997c8334dcd71e65d726aadc",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:09:24 +0000",
-      "timestamp": 1792519764.0
-    },
-    {
       "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
       "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
       "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [&#8230;]",
@@ -136,33 +244,6 @@
       "source": "The Verge AI",
       "published": "2026-10-20T14:07:34-04:00",
       "timestamp": 1792519654.0
-    },
-    {
-      "title": "The Kiwi AI tech saving our native bush from pests",
-      "link": "https://www.rnz.co.nz/news/environment/2044455/the-kiwi-ai-tech-saving-our-native-bush-from-pests",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:06:02 +0000",
-      "timestamp": 1792519562.0
-    },
-    {
-      "title": "Via reduces AI-coding costs",
-      "link": "https://via.dev/blogs/introducing-via",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 17:59:50 +0000",
-      "timestamp": 1792519190.0
-    },
-    {
-      "title": "What's the ROI of software engineers' spending on AI?",
-      "link": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 17:58:24 +0000",
-      "timestamp": 1792519104.0
     },
     {
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
@@ -174,15 +255,6 @@
       "timestamp": 1792518912.0
     },
     {
-      "title": "Show HN: Ankita – an open-source personal AI companion for the desktop",
-      "link": "https://github.com/akyourowngames/A.N.K.I.T.A",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 17:44:53 +0000",
-      "timestamp": 1792518293.0
-    },
-    {
       "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
       "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
       "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
@@ -190,42 +262,6 @@
       "source": "Wired AI",
       "published": "Tue, 20 Oct 2026 17:41:58 +0000",
       "timestamp": 1792518118.0
-    },
-    {
-      "title": "AI that was supposed to save us time is doing just the opposite",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 17:41:50 +0000",
-      "timestamp": 1792518110.0
-    },
-    {
-      "title": "Google support pages start defaulting to AI chatbots",
-      "link": "https://9to5google.com/2026/10/19/google-support-ai-summary-chatbot-update/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 17:32:57 +0000",
-      "timestamp": 1792517577.0
-    },
-    {
-      "title": "Can a Million AI Agents Create Superintelligence?",
-      "link": "https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 17:28:35 +0000",
-      "timestamp": 1792517315.0
-    },
-    {
-      "title": "AI's Midas problem: When code is free, features are worthless",
-      "link": "https://thenewstack.io/ai-commoditizes-software-value/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 17:14:12 +0000",
-      "timestamp": 1792516452.0
     },
     {
       "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
@@ -300,18 +336,18 @@
       "timestamp": 1792501200.0
     },
     {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. [&#8230;]",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 11:00:00 +0000",
       "timestamp": 1792494000.0
     },
     {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. [&#8230;]",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 11:00:00 +0000",
@@ -408,33 +444,6 @@
       "timestamp": 1792436412.0
     },
     {
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 19 Oct 2026 18:49:04 +0000",
-      "timestamp": 1792435744.0
-    },
-    {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 19 Oct 2026 18:37:27 +0000",
-      "timestamp": 1792435047.0
-    },
-    {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 19 Oct 2026 16:13:22 +0000",
-      "timestamp": 1792426402.0
-    },
-    {
       "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
       "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
       "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
@@ -505,15 +514,6 @@
       "source": "Wired AI",
       "published": "Sun, 18 Oct 2026 10:30:00 +0000",
       "timestamp": 1792319400.0
-    },
-    {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-17T11:04:36-04:00",
-      "timestamp": 1792249476.0
     },
     {
       "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
