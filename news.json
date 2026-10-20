@@ -1,7 +1,169 @@
 {
-  "scraped_at": "2026-10-20T04:46:15.937826+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-20T10:01:32.030629+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "Stateless Agents: How to make AI work for teams",
+      "link": "https://busabase.com/blog/how-to-make-ai-work-for-teams",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 09:49:33 +0000",
+      "timestamp": 1792489773.0
+    },
+    {
+      "title": "AI slop is a human problem",
+      "link": "https://nishanth.blog/posts/ai-slop-is-a-human-problem/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 09:38:19 +0000",
+      "timestamp": 1792489099.0
+    },
+    {
+      "title": "Everygen AI – AI Video, Image, Shorts and Ads Studio",
+      "link": "https://www.everygens.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 09:26:56 +0000",
+      "timestamp": 1792488416.0
+    },
+    {
+      "title": "HAR 1.0: The open harness for AI coding workflows you can trust and verify",
+      "link": "https://github.com/os-factory/har",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 09:25:59 +0000",
+      "timestamp": 1792488359.0
+    },
+    {
+      "title": "Show HN: Sandkiln – Fast Firecracker MicroVM sandboxes for AI-generated code",
+      "link": "https://sandkiln.vercel.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 09:09:46 +0000",
+      "timestamp": 1792487386.0
+    },
+    {
+      "title": "Show HN: I built an AI tool that turns two photos into a dance video",
+      "link": "https://a2oliteai.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 09:06:42 +0000",
+      "timestamp": 1792487202.0
+    },
+    {
+      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
+      "link": "https://chatgpt2notion.com/products/aiexporthub-hero/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 08:39:04 +0000",
+      "timestamp": 1792485544.0
+    },
+    {
+      "title": "The chase is becoming an AI feature. In Portugal, nobody asks yet",
+      "link": "https://gil-neto.com/blog/the-chase-is-becoming-an-ai-feature/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 08:24:35 +0000",
+      "timestamp": 1792484675.0
+    },
+    {
+      "title": "Reducing the cognitive load of AI changes",
+      "link": "https://amoffat.github.io/blog/cognitive-load.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 08:05:13 +0000",
+      "timestamp": 1792483513.0
+    },
+    {
+      "title": "Show HN: A practical framework for evaluating agentic AI systems",
+      "link": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 07:45:13 +0000",
+      "timestamp": 1792482313.0
+    },
+    {
+      "title": "I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]",
+      "link": "https://www.youtube.com/watch?v=ca7ufSI1Qxg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 07:45:05 +0000",
+      "timestamp": 1792482305.0
+    },
+    {
+      "title": "Will developing nations be able to handle AI agents?",
+      "link": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 07:40:14 +0000",
+      "timestamp": 1792482014.0
+    },
+    {
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 07:02:41 +0000",
+      "timestamp": 1792479761.0
+    },
+    {
+      "title": "Vite+ an excellent toolchain for AI agent development",
+      "link": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 06:40:49 +0000",
+      "timestamp": 1792478449.0
+    },
+    {
+      "title": "AegisKernel – Zero-Trust deterministic security runtime for AI agents",
+      "link": "https://github.com/adikshatriyag-crypto/aegis-kernel",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 06:12:48 +0000",
+      "timestamp": 1792476768.0
+    },
+    {
+      "title": "Ask HN: How do you decide to cut scope when AI makes it so easy to add?",
+      "link": "https://news.ycombinator.com/item?id=50161914",
+      "summary": "I've been having this conversation with my co-founder for months. It's so easy to add incremental features nowadays, and most seem useful. There's nothing obviously wrong with them. On top of that, people are using the software, and they appreciate how complete it is. The UX is cluttered, but 99% of interactions don't use it, so who cares. How do you decide to cut scope when in the current setup there's nothing to lose? Am I simply to old school? For context, this is the project: https://github.com/desplega-ai/agent-swarm",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 05:59:33 +0000",
+      "timestamp": 1792475973.0
+    },
+    {
+      "title": "Textus – WYSIWYG Markdown editor with built-in AI writing tools",
+      "link": "https://textus.catvinci.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 05:16:18 +0000",
+      "timestamp": 1792473378.0
+    },
+    {
+      "title": "Show HN: Visual heat map of AI news updated hourly",
+      "link": "https://ai-news.jagular.io",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 05:03:05 +0000",
+      "timestamp": 1792472585.0
+    },
     {
       "title": "A Forgotten 1980 Reversible Computer, and the AI That Just Cut Quantum Costs 17x",
       "link": "https://x.com/BrianRoemmele/article/2112202286441374119",
@@ -21,69 +183,6 @@
       "timestamp": 1792468174.0
     },
     {
-      "title": "Textideo Director – an AI video creation tool for scenes, shots",
-      "link": "https://textideo.com/director",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 03:13:03 +0000",
-      "timestamp": 1792465983.0
-    },
-    {
-      "title": "Show HN: Search for AI-agents and usefulness score",
-      "link": "https://xtract-production-2efc.up.railway.app/",
-      "summary": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. When we prompted agents with outdated alert about companies, 4 out of 7 times, they came up with outdated insights, even when they had recent news in context. A bigger model didnt fix it. So we built search for ai-agents with usefulness score on top. So, when you search each page comes with score+pric",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 02:57:52 +0000",
-      "timestamp": 1792465072.0
-    },
-    {
-      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
-      "link": "https://appmaker.io/",
-      "summary": "Hi HN, I've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code. https://appmaker.io Apps come with a database, authentication, and backend logic, and can be exported as standalone Node.js applications. It's still in beta, and I'd love to hear your feedback.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 02:55:31 +0000",
-      "timestamp": 1792464931.0
-    },
-    {
-      "title": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
-      "link": "https://github.com/yanacuti1121/yana-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 02:48:40 +0000",
-      "timestamp": 1792464520.0
-    },
-    {
-      "title": "New AI tool can predict cancer survival by a single patient selfie",
-      "link": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 01:50:20 +0000",
-      "timestamp": 1792461020.0
-    },
-    {
-      "title": "US banning Chinese AI DeepSeek from government agency IT systems",
-      "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 01:37:45 +0000",
-      "timestamp": 1792460265.0
-    },
-    {
-      "title": "AI experts to school Congress wanted",
-      "link": "https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 01:28:25 +0000",
-      "timestamp": 1792459705.0
-    },
-    {
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
       "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
       "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
@@ -91,96 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 01:27:03 +0000",
       "timestamp": 1792459623.0
-    },
-    {
-      "title": "Show HN: Self-hosted AI spend attribution",
-      "link": "https://demo.costura.ai/overview",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 01:08:20 +0000",
-      "timestamp": 1792458500.0
-    },
-    {
-      "title": "Self-hosted AI spend attribution",
-      "link": "https://github.com/CosturaAI/costura",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 01:04:38 +0000",
-      "timestamp": 1792458278.0
-    },
-    {
-      "title": "AI Discovery Index",
-      "link": "https://mojodojo.io/ai-discovery-index",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 00:38:55 +0000",
-      "timestamp": 1792456735.0
-    },
-    {
-      "title": "Ask HN: What have you built privately with AI that you'd like to share?",
-      "link": "https://news.ycombinator.com/item?id=50159886",
-      "summary": "An idea has circulated that a lot of us are just privately building software for our own projects without sharing the build We could however share the ideas of what we're building so that other people could build sometime similar to fill their own needs or the ideas could be incorporated in to other projects A lot of random things come to mind for me, like I started (but for now abandoned) some kind of picture icon viewer by date on Linux desktop. A lot of smartphone file viewers display pics this way automatically and it lets you look at what pics you've accumulated day by day, but I didn't s",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 00:37:45 +0000",
-      "timestamp": 1792456665.0
-    },
-    {
-      "title": "Game decompilation site is closing because AI has 'broken the community aspect'",
-      "link": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 00:17:11 +0000",
-      "timestamp": 1792455431.0
-    },
-    {
-      "title": "Skymizer HTX301 – IP Licensable AI Accelerator Card with 384GB for 700B Models",
-      "link": "https://skymizer.ai/products/htx301/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 00:15:09 +0000",
-      "timestamp": 1792455309.0
-    },
-    {
-      "title": "Show HN: OpenFlow – AI Agent Workflow Builder",
-      "link": "https://github.com/SeeRay11/OpenFlow",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 00:12:44 +0000",
-      "timestamp": 1792455164.0
-    },
-    {
-      "title": "Show HN: Chai-UI – A design system to generative AI apps",
-      "link": "https://chai-ui.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 00:06:14 +0000",
-      "timestamp": 1792454774.0
-    },
-    {
-      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-      "link": "https://www.bbc.com/news/articles/cjkgeq0k1wevo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 23:58:34 +0000",
-      "timestamp": 1792454314.0
-    },
-    {
-      "title": "Ask HN: Bring-your-own-AI hardware",
-      "link": "https://news.ycombinator.com/item?id=50159540",
-      "summary": "Wondering if you guys find any interesting bring-your-own AI hardware. Due to recent development in AI, people can easily develop their own \"brain\" for any hardware. I am curious to find out those hardware that are sold without software, or can be easily modify.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 23:49:59 +0000",
-      "timestamp": 1792453799.0
     },
     {
       "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
