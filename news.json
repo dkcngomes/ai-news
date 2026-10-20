@@ -1,96 +1,213 @@
 {
-  "scraped_at": "2026-10-19T23:38:04.690847+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-20T04:46:15.937826+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "AI's transformation of mathematics is a turning point for science",
-      "link": "https://www.economist.com/science-and-technology/2026/10/12/ais-transformation-of-mathematics-is-a-turning-point-for-science",
+      "title": "A Forgotten 1980 Reversible Computer, and the AI That Just Cut Quantum Costs 17x",
+      "link": "https://x.com/BrianRoemmele/article/2112202286441374119",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 23:14:38 +0000",
-      "timestamp": 1792451678.0
+      "published": "Tue, 20 Oct 2026 04:02:00 +0000",
+      "timestamp": 1792468920.0
     },
     {
-      "title": "Show HN: MediationBench – testing AI mediators in 62 simulated conflicts",
-      "link": "https://mediationbench.com/",
+      "title": "AWS CFO joked about the financial toll of AI. An internal recording reveals why",
+      "link": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 23:06:41 +0000",
-      "timestamp": 1792451201.0
+      "published": "Tue, 20 Oct 2026 03:49:34 +0000",
+      "timestamp": 1792468174.0
     },
     {
-      "title": "Is it too late to reduce catastrophic AI risk?",
-      "link": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
+      "title": "Textideo Director – an AI video creation tool for scenes, shots",
+      "link": "https://textideo.com/director",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 23:05:22 +0000",
-      "timestamp": 1792451122.0
+      "published": "Tue, 20 Oct 2026 03:13:03 +0000",
+      "timestamp": 1792465983.0
     },
     {
-      "title": "Why AI is not conscious and perhaps never will be",
-      "link": "https://www.nature.com/articles/d41586-026-03313-7",
+      "title": "Show HN: Search for AI-agents and usefulness score",
+      "link": "https://xtract-production-2efc.up.railway.app/",
+      "summary": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. When we prompted agents with outdated alert about companies, 4 out of 7 times, they came up with outdated insights, even when they had recent news in context. A bigger model didnt fix it. So we built search for ai-agents with usefulness score on top. So, when you search each page comes with score+pric",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 02:57:52 +0000",
+      "timestamp": 1792465072.0
+    },
+    {
+      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
+      "link": "https://appmaker.io/",
+      "summary": "Hi HN, I've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code. https://appmaker.io Apps come with a database, authentication, and backend logic, and can be exported as standalone Node.js applications. It's still in beta, and I'd love to hear your feedback.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 02:55:31 +0000",
+      "timestamp": 1792464931.0
+    },
+    {
+      "title": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
+      "link": "https://github.com/yanacuti1121/yana-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 22:52:13 +0000",
-      "timestamp": 1792450333.0
+      "published": "Tue, 20 Oct 2026 02:48:40 +0000",
+      "timestamp": 1792464520.0
+    },
+    {
+      "title": "New AI tool can predict cancer survival by a single patient selfie",
+      "link": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 01:50:20 +0000",
+      "timestamp": 1792461020.0
+    },
+    {
+      "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+      "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 01:37:45 +0000",
+      "timestamp": 1792460265.0
+    },
+    {
+      "title": "AI experts to school Congress wanted",
+      "link": "https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 01:28:25 +0000",
+      "timestamp": 1792459705.0
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 20 Oct 2026 01:27:03 +0000",
+      "timestamp": 1792459623.0
+    },
+    {
+      "title": "Show HN: Self-hosted AI spend attribution",
+      "link": "https://demo.costura.ai/overview",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 01:08:20 +0000",
+      "timestamp": 1792458500.0
+    },
+    {
+      "title": "Self-hosted AI spend attribution",
+      "link": "https://github.com/CosturaAI/costura",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 01:04:38 +0000",
+      "timestamp": 1792458278.0
+    },
+    {
+      "title": "AI Discovery Index",
+      "link": "https://mojodojo.io/ai-discovery-index",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 00:38:55 +0000",
+      "timestamp": 1792456735.0
+    },
+    {
+      "title": "Ask HN: What have you built privately with AI that you'd like to share?",
+      "link": "https://news.ycombinator.com/item?id=50159886",
+      "summary": "An idea has circulated that a lot of us are just privately building software for our own projects without sharing the build We could however share the ideas of what we're building so that other people could build sometime similar to fill their own needs or the ideas could be incorporated in to other projects A lot of random things come to mind for me, like I started (but for now abandoned) some kind of picture icon viewer by date on Linux desktop. A lot of smartphone file viewers display pics this way automatically and it lets you look at what pics you've accumulated day by day, but I didn't s",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 00:37:45 +0000",
+      "timestamp": 1792456665.0
+    },
+    {
+      "title": "Game decompilation site is closing because AI has 'broken the community aspect'",
+      "link": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 00:17:11 +0000",
+      "timestamp": 1792455431.0
+    },
+    {
+      "title": "Skymizer HTX301 – IP Licensable AI Accelerator Card with 384GB for 700B Models",
+      "link": "https://skymizer.ai/products/htx301/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 00:15:09 +0000",
+      "timestamp": 1792455309.0
+    },
+    {
+      "title": "Show HN: OpenFlow – AI Agent Workflow Builder",
+      "link": "https://github.com/SeeRay11/OpenFlow",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 00:12:44 +0000",
+      "timestamp": 1792455164.0
+    },
+    {
+      "title": "Show HN: Chai-UI – A design system to generative AI apps",
+      "link": "https://chai-ui.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 00:06:14 +0000",
+      "timestamp": 1792454774.0
+    },
+    {
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "link": "https://www.bbc.com/news/articles/cjkgeq0k1wevo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 23:58:34 +0000",
+      "timestamp": 1792454314.0
+    },
+    {
+      "title": "Ask HN: Bring-your-own-AI hardware",
+      "link": "https://news.ycombinator.com/item?id=50159540",
+      "summary": "Wondering if you guys find any interesting bring-your-own AI hardware. Due to recent development in AI, people can easily develop their own \"brain\" for any hardware. I am curious to find out those hardware that are sold without software, or can be easily modify.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 19 Oct 2026 23:49:59 +0000",
+      "timestamp": 1792453799.0
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 19 Oct 2026 23:39:38 +0000",
+      "timestamp": 1792453178.0
     },
     {
       "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
       "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face&#8217;s chief policy officer, during a discussion at TechCrunch [&#8230;]",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 19 Oct 2026 22:49:27 +0000",
       "timestamp": 1792450167.0
     },
     {
-      "title": "Profiling the Attack Surface of AI Agent Skills",
-      "link": "https://arxiv.org/abs/2610.19264",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 22:33:35 +0000",
-      "timestamp": 1792449215.0
-    },
-    {
-      "title": "Universal Basic AI",
-      "link": "https://www.bloomberg.com/opinion/newsletters/2026-10-19/universal-basic-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 22:19:37 +0000",
-      "timestamp": 1792448377.0
-    },
-    {
-      "title": "Jev Helps Multiplayer AI",
-      "link": "https://www.runtype.com/blog/jev-in-the-group-chat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 22:13:54 +0000",
-      "timestamp": 1792448034.0
-    },
-    {
       "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
       "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 19 Oct 2026 22:04:28 +0000",
       "timestamp": 1792447468.0
-    },
-    {
-      "title": "AI models can get brain rot, too",
-      "link": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 22:01:26 +0000",
-      "timestamp": 1792447286.0
     },
     {
       "title": "The fossil fuel comeback is here",
@@ -102,33 +219,6 @@
       "timestamp": 1792446481.0
     },
     {
-      "title": "Show HN: Accessibility Context for UI with AI",
-      "link": "https://www.typeui.sh/ui-foundations/configurator",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 21:46:15 +0000",
-      "timestamp": 1792446375.0
-    },
-    {
-      "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
-      "link": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 21:38:09 +0000",
-      "timestamp": 1792445889.0
-    },
-    {
-      "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
-      "link": "https://arxiv.org/abs/2610.16555",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 21:33:28 +0000",
-      "timestamp": 1792445608.0
-    },
-    {
       "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
       "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
@@ -136,60 +226,6 @@
       "source": "The Verge AI",
       "published": "2026-10-19T17:28:20-04:00",
       "timestamp": 1792445300.0
-    },
-    {
-      "title": "Technocapitalist AI-Powered Blues",
-      "link": "https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 21:15:44 +0000",
-      "timestamp": 1792444544.0
-    },
-    {
-      "title": "Quizera – Create and deploy AI-assisted assessments in minutes",
-      "link": "https://quizera.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 21:12:45 +0000",
-      "timestamp": 1792444365.0
-    },
-    {
-      "title": "Scope: Open-source evaluation for AI coding agents",
-      "link": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 20:57:44 +0000",
-      "timestamp": 1792443464.0
-    },
-    {
-      "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
-      "link": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 20:55:51 +0000",
-      "timestamp": 1792443351.0
-    },
-    {
-      "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
-      "link": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 20:54:50 +0000",
-      "timestamp": 1792443290.0
-    },
-    {
-      "title": "Blocking the Internet Archive Will Not Stop AI",
-      "link": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 20:49:29 +0000",
-      "timestamp": 1792442969.0
     },
     {
       "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
@@ -201,15 +237,6 @@
       "timestamp": 1792440564.0
     },
     {
-      "title": "Red Hat Engineering Director Uses AI to Tackle Linux's Undocumented Driver Woes",
-      "link": "https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 19:56:58 +0000",
-      "timestamp": 1792439818.0
-    },
-    {
       "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
       "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
       "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
@@ -217,24 +244,6 @@
       "source": "Wired AI",
       "published": "Mon, 19 Oct 2026 19:49:17 +0000",
       "timestamp": 1792439357.0
-    },
-    {
-      "title": "Linus Torvalds' AI Code Improved: Performance Wins with Reworked Code",
-      "link": "https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 19:48:58 +0000",
-      "timestamp": 1792439338.0
-    },
-    {
-      "title": "What is still hard to become good at as AI makes coding easier?",
-      "link": "https://news.ycombinator.com/item?id=50157098",
-      "summary": "Since LLMs came, how I build software changed for so many reasons. Since then, I’ve spent most of my time deciding what I want to build, how I want to build it, how I want to give the context, checking the result, seeing if there is an error, and paving the way for the LLM to do the right thing. And the difficult part, which is writing code and getting everything right, is handled by the LLM surprisingly well, from my work and the people around me and people who I look up to on the internet. Until now, my edge was that you can get really far by understanding how computers work, like networking",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 19 Oct 2026 19:43:46 +0000",
-      "timestamp": 1792439026.0
     },
     {
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
@@ -478,24 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 16 Oct 2026 16:30:00 +0000",
       "timestamp": 1792168200.0
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 16 Oct 2026 16:01:37 +0000",
-      "timestamp": 1792166497.0
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 16 Oct 2026 15:33:49 +0000",
-      "timestamp": 1792164829.0
     },
     {
       "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
