@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-10-21T01:33:25.336011+00:00",
+  "scraped_at": "2026-10-21T07:36:07.803594+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Empires of AI: The Rise and Fall of a New Global Order",
+      "link": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 07:30:56 +0000",
+      "timestamp": 1792567856.0
+    },
+    {
+      "title": "Show HN: See AI trends heat up in real time",
+      "link": "https://ai-news.jagular.io",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 06:49:14 +0000",
+      "timestamp": 1792565354.0
+    },
+    {
+      "title": "Show HN: Grafista – AI graphic designer built to fight slop",
+      "link": "https://grafista.io/",
+      "summary": "You don't need advanced prompt or design skills to create a professional designs using Grafista. Just add your content and your brand. Fully editable designs in any language. Plans from €10/month, no per seat charge. Startups get 50% for the first 3 months.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 06:43:17 +0000",
+      "timestamp": 1792564997.0
+    },
+    {
+      "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 06:37:47 +0000",
+      "timestamp": 1792564667.0
+    },
+    {
+      "title": "Giving AI video some Remembrance of things past",
+      "link": "https://www.unite.ai/giving-ai-video-some-remembrance-of-things-past/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 06:09:27 +0000",
+      "timestamp": 1792562967.0
+    },
+    {
+      "title": "AI Benchmarks: Climbing the Wrong Hills",
+      "link": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 05:46:13 +0000",
+      "timestamp": 1792561573.0
+    },
+    {
+      "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 03:50:30 +0000",
+      "timestamp": 1792554630.0
+    },
+    {
+      "title": "A2O Lite Neon AI Dance Generator",
+      "link": "https://www.a2oliteneon.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 03:28:14 +0000",
+      "timestamp": 1792553294.0
+    },
+    {
+      "title": "Blueprints, Not Prompts: Using TLA+ to Guide AI-Written Code",
+      "link": "https://mulgadc.com/blog/blueprints-not-prompts-tla-plus",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 03:03:11 +0000",
+      "timestamp": 1792551791.0
+    },
+    {
+      "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
+      "link": "https://github.com/zhitongblog/unterm",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 01:39:06 +0000",
+      "timestamp": 1792546746.0
+    },
     {
       "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
       "link": "https://agentitter.com/",
@@ -93,15 +183,6 @@
       "timestamp": 1792538329.0
     },
     {
-      "title": "Revisiting Open Science in the Age of AI",
-      "link": "https://carlystrasser.substack.com/p/revisiting-open-science-in-the-age",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 23:16:17 +0000",
-      "timestamp": 1792538177.0
-    },
-    {
       "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
       "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
@@ -113,56 +194,20 @@
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
       "timestamp": 1792537283.0
     },
     {
-      "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
-      "link": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 22:49:50 +0000",
-      "timestamp": 1792536590.0
-    },
-    {
-      "title": "Fleet of AI agents used httpbin to get past their sandbox",
-      "link": "https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 22:48:33 +0000",
-      "timestamp": 1792536513.0
-    },
-    {
-      "title": "Agent Economics: Who Keeps the Ledger of AI Labor?",
-      "link": "https://centrail.org/newsletter/agent-economics-who-keeps-the-ledger-of-ai-labor",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 22:41:43 +0000",
-      "timestamp": 1792536103.0
-    },
-    {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 22:24:02 +0000",
       "timestamp": 1792535042.0
-    },
-    {
-      "title": "How we're Approaching AI at BioRxiv and MedRxiv",
-      "link": "https://openrxiv.org/approach-to-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 22:13:29 +0000",
-      "timestamp": 1792534409.0
     },
     {
       "title": "Google’s more personalized Gemini AI is heading to your car",
@@ -174,24 +219,6 @@
       "timestamp": 1792534294.0
     },
     {
-      "title": "AI Frontier – Discoveries and Community",
-      "link": "https://ai-frontier.co.uk/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 21:53:21 +0000",
-      "timestamp": 1792533201.0
-    },
-    {
-      "title": "What if we donated our spare AI subscriptions to math?",
-      "link": "https://blog.kolen.dev/math/math-at-home",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 21:44:30 +0000",
-      "timestamp": 1792532670.0
-    },
-    {
       "title": "Anthropic’s cloud partnerships are getting messy",
       "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
       "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
@@ -201,36 +228,9 @@
       "timestamp": 1792531522.0
     },
     {
-      "title": "Foundry-protocol – A framework for orchestrating complex tasks with AI agents",
-      "link": "https://github.com/AlphaIAt/foundry-protocol",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 21:23:48 +0000",
-      "timestamp": 1792531428.0
-    },
-    {
-      "title": "Show HN: Tenbri, a log AI agents can’t secretly rewrite",
-      "link": "https://tenbri.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 21:03:56 +0000",
-      "timestamp": 1792530236.0
-    },
-    {
-      "title": "Bringing AI into business is hard",
-      "link": "https://pindexis.github.io",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 20:46:30 +0000",
-      "timestamp": 1792529190.0
-    },
-    {
       "title": "SpaceX’s AI business is beating expectations",
       "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 20:40:41 +0000",
@@ -275,7 +275,7 @@
     {
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 17:55:12 +0000",
@@ -291,13 +291,22 @@
       "timestamp": 1792518118.0
     },
     {
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
       "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 17:12:48 +0000",
       "timestamp": 1792516368.0
+    },
+    {
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 20 Oct 2026 16:20:06 +0000",
+      "timestamp": 1792513206.0
     },
     {
       "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
@@ -363,18 +372,18 @@
       "timestamp": 1792501200.0
     },
     {
-      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 11:00:00 +0000",
       "timestamp": 1792494000.0
     },
     {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 11:00:00 +0000",
@@ -433,15 +442,6 @@
       "source": "The Verge AI",
       "published": "2026-10-19T17:28:20-04:00",
       "timestamp": 1792445300.0
-    },
-    {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 19 Oct 2026 20:09:24 +0000",
-      "timestamp": 1792440564.0
     },
     {
       "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
