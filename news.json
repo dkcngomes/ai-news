@@ -1,7 +1,169 @@
 {
-  "scraped_at": "2026-10-20T22:17:19.638808+00:00",
+  "scraped_at": "2026-10-21T01:33:25.336011+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
+      "link": "https://agentitter.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 01:30:27 +0000",
+      "timestamp": 1792546227.0
+    },
+    {
+      "title": "Dataville Takes the Guesswork Out of Data for AI",
+      "link": "https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 01:28:10 +0000",
+      "timestamp": 1792546090.0
+    },
+    {
+      "title": "Secret trigger words could make AI-powered robots dangerous",
+      "link": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 00:40:56 +0000",
+      "timestamp": 1792543256.0
+    },
+    {
+      "title": "SpaceX revenue soars 161% as AI business grows",
+      "link": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 00:25:45 +0000",
+      "timestamp": 1792542345.0
+    },
+    {
+      "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 00:24:20 +0000",
+      "timestamp": 1792542260.0
+    },
+    {
+      "title": "Writing Code vs. Shipping Code: Productivity Effects Across AI Tool Generations [pdf]",
+      "link": "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 00:13:06 +0000",
+      "timestamp": 1792541586.0
+    },
+    {
+      "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+      "link": "https://altchan.org/sh/41",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 23:41:17 +0000",
+      "timestamp": 1792539677.0
+    },
+    {
+      "title": "AGI-S – an AI platform I'm building",
+      "link": "https://news.ycombinator.com/item?id=50174174",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 23:35:38 +0000",
+      "timestamp": 1792539338.0
+    },
+    {
+      "title": "When AI agents take matters into their own hands",
+      "link": "https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 23:30:40 +0000",
+      "timestamp": 1792539040.0
+    },
+    {
+      "title": "Show HN: Pace or Pause – Explore where people stand on AI development",
+      "link": "https://paceorpause.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 23:18:49 +0000",
+      "timestamp": 1792538329.0
+    },
+    {
+      "title": "Revisiting Open Science in the Age of AI",
+      "link": "https://carlystrasser.substack.com/p/revisiting-open-science-in-the-age",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 23:16:17 +0000",
+      "timestamp": 1792538177.0
+    },
+    {
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-20T19:04:19-04:00",
+      "timestamp": 1792537459.0
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 20 Oct 2026 23:01:23 +0000",
+      "timestamp": 1792537283.0
+    },
+    {
+      "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "link": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 22:49:50 +0000",
+      "timestamp": 1792536590.0
+    },
+    {
+      "title": "Fleet of AI agents used httpbin to get past their sandbox",
+      "link": "https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 22:48:33 +0000",
+      "timestamp": 1792536513.0
+    },
+    {
+      "title": "Agent Economics: Who Keeps the Ledger of AI Labor?",
+      "link": "https://centrail.org/newsletter/agent-economics-who-keeps-the-ledger-of-ai-labor",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 22:41:43 +0000",
+      "timestamp": 1792536103.0
+    },
+    {
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
+      "timestamp": 1792535042.0
+    },
+    {
+      "title": "How we're Approaching AI at BioRxiv and MedRxiv",
+      "link": "https://openrxiv.org/approach-to-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 20 Oct 2026 22:13:29 +0000",
+      "timestamp": 1792534409.0
+    },
     {
       "title": "Google’s more personalized Gemini AI is heading to your car",
       "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
@@ -84,123 +246,6 @@
       "timestamp": 1792528510.0
     },
     {
-      "title": "Ask HN: Will AI = extreme concentration of power?",
-      "link": "https://news.ycombinator.com/item?id=50172133",
-      "summary": "Let's say that AI will continue to get better without being a major risk due to loss of control. I feel like in this paradigm, it will lead to: 1. Fewer and fewer people can make money via their labor. We will have a small minority of super-winners who magnify their work output 100x with AI, and most people will not be able to contribute, thus will not be able to make money. 2. More and more gains go to those who either own the best AI models (Anthropic, OpenAI, Google), own the infrastructure needed to serve those models (energy infrastructure, datacenters). Everyone else gets access to the b",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 20:23:04 +0000",
-      "timestamp": 1792527784.0
-    },
-    {
-      "title": "Show HN: Agent-Zero – Starter template for AI-native coding projects",
-      "link": "https://github.com/amorey/agent-zero",
-      "summary": "Hi All, Agent-Zero is a GitHub template that you can use for new coding projects that use AI-first development workflows. It includes the minimum necessary to nudge agents to write good code, work well in sandboxes, and get stuff done on GitHub (e.g. commits and PRs). It only includes a basic CLAUDE.md file and a few scripts and GitHub templates so it's very easy to customize. I've had good luck using it to produce high-quality coding output but that's subjective so your mileage may vary (e.g. https://github.com/kstackhq/kstack ). If you have any suggestions on how to improve the template let ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 20:21:43 +0000",
-      "timestamp": 1792527703.0
-    },
-    {
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 20:11:14 +0000",
-      "timestamp": 1792527074.0
-    },
-    {
-      "title": "We need a frictionless physical AI experience for builders, makers and tinkerers",
-      "link": "https://blog.marcolamina.me/p/we-need-a-frictionless-physical-ai-experience-for-builders-makers-and-tinkerers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 20:04:58 +0000",
-      "timestamp": 1792526698.0
-    },
-    {
-      "title": "On AI writing",
-      "link": "https://www.bolkunov.com/p/on-ai-writing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 19:55:11 +0000",
-      "timestamp": 1792526111.0
-    },
-    {
-      "title": "Waste tsunami. Water and the hidden cost of AI data centres",
-      "link": "https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 19:37:54 +0000",
-      "timestamp": 1792525074.0
-    },
-    {
-      "title": "Show HN: Modula-9, a Wirth-family language designed for auditing AI-written code",
-      "link": "https://www.modula9.net",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 19:24:53 +0000",
-      "timestamp": 1792524293.0
-    },
-    {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "link": "https://danielball.com/notes/ai_image_generation.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 19:22:39 +0000",
-      "timestamp": 1792524159.0
-    },
-    {
-      "title": "Anthropic redesigned source-control for AI agents",
-      "link": "https://www.anthropic.com/research/redesigning-source-control",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 19:08:21 +0000",
-      "timestamp": 1792523301.0
-    },
-    {
-      "title": "HoDoKu Revisited – Classic Java Sudoku Solver Ported to PWA with AI Coaching",
-      "link": "https://hodokurevisited.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:58:23 +0000",
-      "timestamp": 1792522703.0
-    },
-    {
-      "title": "AWS launches open-source Physical AI Toolchain for robotics",
-      "link": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:47:08 +0000",
-      "timestamp": 1792522028.0
-    },
-    {
-      "title": "Agentic AI has potential uses in prior-authorization protocols",
-      "link": "https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:40:17 +0000",
-      "timestamp": 1792521617.0
-    },
-    {
-      "title": "Think App store shared revenue but for AI models",
-      "link": "https://dismodels.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:38:37 +0000",
-      "timestamp": 1792521517.0
-    },
-    {
       "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
       "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
       "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
@@ -217,24 +262,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 18:36:53 +0000",
       "timestamp": 1792521413.0
-    },
-    {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:34:30 +0000",
-      "timestamp": 1792521270.0
-    },
-    {
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 20 Oct 2026 18:27:29 +0000",
-      "timestamp": 1792520849.0
     },
     {
       "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
@@ -311,7 +338,7 @@
     {
       "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
       "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 13:07:24 +0000",
@@ -329,25 +356,25 @@
     {
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
       "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 13:00:00 +0000",
       "timestamp": 1792501200.0
     },
     {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 11:00:00 +0000",
       "timestamp": 1792494000.0
     },
     {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. [&#8230;]",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 11:00:00 +0000",
@@ -426,24 +453,6 @@
       "timestamp": 1792439357.0
     },
     {
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 19 Oct 2026 19:28:34 +0000",
-      "timestamp": 1792438114.0
-    },
-    {
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 19 Oct 2026 19:00:12 +0000",
-      "timestamp": 1792436412.0
-    },
-    {
       "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
       "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
       "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
@@ -487,15 +496,6 @@
       "source": "Wired AI",
       "published": "Mon, 19 Oct 2026 09:00:00 +0000",
       "timestamp": 1792400400.0
-    },
-    {
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-18T14:28:10-04:00",
-      "timestamp": 1792348090.0
     },
     {
       "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
