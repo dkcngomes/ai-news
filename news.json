@@ -1,7 +1,178 @@
 {
-  "scraped_at": "2026-10-22T01:28:59.927228+00:00",
+  "scraped_at": "2026-10-22T07:31:59.246440+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "ZK-irp-firewall: Zero-knowledge invariant enforcement for AI agents",
+      "link": "https://github.com/trenttrinder1111-byte/zk-irp-firewall",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 07:23:18 +0000",
+      "timestamp": 1792653798.0
+    },
+    {
+      "title": "AI Agent Observability with OpenTelemetry",
+      "link": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 07:17:06 +0000",
+      "timestamp": 1792653426.0
+    },
+    {
+      "title": "Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
+      "link": "https://github.com/MvikManners/aw1-circuit-breaker",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 07:09:39 +0000",
+      "timestamp": 1792652979.0
+    },
+    {
+      "title": "AI firms say UK has a year to head off datacentre protests",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 06:43:26 +0000",
+      "timestamp": 1792651406.0
+    },
+    {
+      "title": "AI revealed 400 years of seafaring history",
+      "link": "https://www.bbc.com/news/articles/cr93z9zq5l9jo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 06:28:14 +0000",
+      "timestamp": 1792650494.0
+    },
+    {
+      "title": "AI Hasn't Spurred Widespread Layoffs Yet. Why Not?",
+      "link": "https://www.library.hbs.edu/working-knowledge/ai-hasnt-spurred-widespread-layoffs-yet-why-not",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 06:22:53 +0000",
+      "timestamp": 1792650173.0
+    },
+    {
+      "title": "A sovereign, local AI browser for professionals who want to save time",
+      "link": "https://ricuicui.com/en/articles/a-sovereign-local-ai-browser-for-professionals-who-want-to-save-time",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 05:39:42 +0000",
+      "timestamp": 1792647582.0
+    },
+    {
+      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom",
+      "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 05:23:59 +0000",
+      "timestamp": 1792646639.0
+    },
+    {
+      "title": "Show HN: TenseMem – deterministic memory for AI agents",
+      "link": "https://github.com/tensemem/tensemem",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 05:19:23 +0000",
+      "timestamp": 1792646363.0
+    },
+    {
+      "title": "Scentronic: AI–assisted olfactory interface for remote odor transmission",
+      "link": "https://www.science.org/doi/10.1126/sciadv.aee9266",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 04:35:29 +0000",
+      "timestamp": 1792643729.0
+    },
+    {
+      "title": "Ask HN: How has your company adapted interviews in the AI world?",
+      "link": "https://news.ycombinator.com/item?id=50191025",
+      "summary": "As the title suggests, how has your company adapted interview process, especially for Software Engineers in the AI world. Also, do you know of companies that have updated it?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 03:58:28 +0000",
+      "timestamp": 1792641508.0
+    },
+    {
+      "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+      "link": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 03:57:19 +0000",
+      "timestamp": 1792641439.0
+    },
+    {
+      "title": "AI agent on your notch, equipped with his own computer",
+      "link": "https://notcho.si",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 03:22:27 +0000",
+      "timestamp": 1792639347.0
+    },
+    {
+      "title": "Nokia, T-Mobile and Nvidia complete first AI-RAN call",
+      "link": "https://www.nokia.com/blog/from-the-lab-to-the-live-network-nokia-t-mobile-and-nvidia-complete-worlds-first-ai-ran-call/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 02:59:08 +0000",
+      "timestamp": 1792637948.0
+    },
+    {
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 22 Oct 2026 02:24:17 +0000",
+      "timestamp": 1792635857.0
+    },
+    {
+      "title": "Show HN: HN Sieve – every Show HN scored and summarized by AI",
+      "link": "https://hnsieve.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 02:24:10 +0000",
+      "timestamp": 1792635850.0
+    },
+    {
+      "title": "Can AI generate reliable product demos directly from source code?",
+      "link": "https://news.ycombinator.com/item?id=50190257",
+      "summary": "Discuss the challenges of understanding application workflows, identifying meaningful UI states, and synchronizing animations with narration.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 02:03:30 +0000",
+      "timestamp": 1792634610.0
+    },
+    {
+      "title": "AI Overlay that Lives on your Desktop",
+      "link": "https://www.lumenoverlay.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 02:01:57 +0000",
+      "timestamp": 1792634517.0
+    },
+    {
+      "title": "Amazon warns new cyber flaws detected using AI are being 'broadly exploited'",
+      "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 01:38:59 +0000",
+      "timestamp": 1792633139.0
+    },
     {
       "title": "Can a malicious webpage hijack an AI agent?",
       "link": "https://victorribeiro.com/bots/",
@@ -21,33 +192,6 @@
       "timestamp": 1792628998.0
     },
     {
-      "title": "Unsupervised AI agent reportedly deletes TV show's edit before release",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 00:26:56 +0000",
-      "timestamp": 1792628816.0
-    },
-    {
-      "title": "Russia cracks down on AI bears as real attacks spread fear",
-      "link": "https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 23:57:02 +0000",
-      "timestamp": 1792627022.0
-    },
-    {
-      "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
-      "link": "https://arxiv.org/abs/2610.19005",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 23:29:32 +0000",
-      "timestamp": 1792625372.0
-    },
-    {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
       "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
@@ -55,15 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 21 Oct 2026 22:51:22 +0000",
       "timestamp": 1792623082.0
-    },
-    {
-      "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
-      "link": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 22:48:02 +0000",
-      "timestamp": 1792622882.0
     },
     {
       "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
@@ -82,42 +217,6 @@
       "source": "The Verge AI",
       "published": "2026-10-21T18:33:44-04:00",
       "timestamp": 1792622024.0
-    },
-    {
-      "title": "Dense Sand – Sovereign BYOA AI SoC Platform for AWS",
-      "link": "https://aws.amazon.com/marketplace/pp/prodview-iamlatxnobx7o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 22:31:41 +0000",
-      "timestamp": 1792621901.0
-    },
-    {
-      "title": "Firmenza – An AI assistant for SAM.gov registration and federal contracts",
-      "link": "https://firmenza.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 22:15:11 +0000",
-      "timestamp": 1792620911.0
-    },
-    {
-      "title": "Agency: Open-source platform for debugging, profiling, and analyzing AI agents",
-      "link": "https://github.com/agency-project/agency",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 21:56:31 +0000",
-      "timestamp": 1792619791.0
-    },
-    {
-      "title": "Obsession with AI May Be Starving the Research Fields It Needs to Survive",
-      "link": "https://www.unite.ai/obsession-with-ai-may-be-starving-the-research-fields-it-needs-to-survive/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 21:33:18 +0000",
-      "timestamp": 1792618398.0
     },
     {
       "title": "Meta to create a new class of shares to fund AI push",
@@ -140,47 +239,11 @@
     {
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 21 Oct 2026 21:14:19 +0000",
       "timestamp": 1792617259.0
-    },
-    {
-      "title": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
-      "link": "https://www.reuters.com/business/media-telecom/tesla-revenue-beats-estimates-deliveries-rebound-energy-storage-grows-2026-10-21/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 20:52:33 +0000",
-      "timestamp": 1792615953.0
-    },
-    {
-      "title": "AI Is Anti-Punk",
-      "link": "https://www.techdirt.com/2026/10/21/ai-is-anti-punk/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 20:48:31 +0000",
-      "timestamp": 1792615711.0
-    },
-    {
-      "title": "France's OVHcloud plans frontier AI models to become Europe's second LLM player",
-      "link": "https://www.reuters.com/world/asia-pacific/frances-ovhcloud-plans-frontier-ai-models-become-europes-second-llm-player-2026-06-17/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 20:47:38 +0000",
-      "timestamp": 1792615658.0
-    },
-    {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "link": "https://arxiv.org/abs/2610.27251",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 20:35:09 +0000",
-      "timestamp": 1792614909.0
     },
     {
       "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
@@ -190,60 +253,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 21 Oct 2026 20:27:41 +0000",
       "timestamp": 1792614461.0
-    },
-    {
-      "title": "Proof – Making AI Easier",
-      "link": "https://proof.diy",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 20:21:52 +0000",
-      "timestamp": 1792614112.0
-    },
-    {
-      "title": "Indiana Jones and the Fate of Atlantis (2026) – Fan Film Live-Action AI Concept [video]",
-      "link": "https://www.youtube.com/watch?v=O8k7PP38gws",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 20:12:28 +0000",
-      "timestamp": 1792613548.0
-    },
-    {
-      "title": "Show HN: I made a free Mac app to annotate screen for AI agents",
-      "link": "https://www.trylasso.online",
-      "summary": "Hey HN, I'm Nika. I've built a tool for myself that lets user draw on the screen to annotate important parts and use it as simpler pointers for AI agents screenshot inputs.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 20:07:52 +0000",
-      "timestamp": 1792613272.0
-    },
-    {
-      "title": "Who's Winning AI, a live scoreboard for the AI race",
-      "link": "https://whoswinningai.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 20:01:40 +0000",
-      "timestamp": 1792612900.0
-    },
-    {
-      "title": "AI Early adopters share their views on AI status",
-      "link": "https://automato.substack.com/p/where-is-ai-heading-in-october-2026",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 20:00:15 +0000",
-      "timestamp": 1792612815.0
-    },
-    {
-      "title": "AI Portability in 2026: Breaking Up Is Hard to Do",
-      "link": "https://peckjon.substack.com/p/ai-portability-in-2026",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 19:57:23 +0000",
-      "timestamp": 1792612643.0
     },
     {
       "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
@@ -514,15 +523,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 16:00:00 +0000",
       "timestamp": 1792512000.0
-    },
-    {
-      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 20 Oct 2026 15:07:43 +0000",
-      "timestamp": 1792508863.0
     },
     {
       "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
