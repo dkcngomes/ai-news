@@ -1,132 +1,249 @@
 {
-  "scraped_at": "2026-10-22T07:31:59.246440+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-22T13:45:34.306560+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "ZK-irp-firewall: Zero-knowledge invariant enforcement for AI agents",
-      "link": "https://github.com/trenttrinder1111-byte/zk-irp-firewall",
+      "title": "Why Industrial AI Deals Stall at Capex",
+      "link": "https://deploy95.substack.com/p/how-capex-really-gets-approved-and",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 07:23:18 +0000",
-      "timestamp": 1792653798.0
+      "published": "Thu, 22 Oct 2026 13:33:13 +0000",
+      "timestamp": 1792675993.0
     },
     {
-      "title": "AI Agent Observability with OpenTelemetry",
-      "link": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
+      "title": "Show HN: FiscaLLM:open-source per-user AI cost for subscription apps",
+      "link": "https://github.com/magna56/fiscallm",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 07:17:06 +0000",
-      "timestamp": 1792653426.0
+      "published": "Thu, 22 Oct 2026 13:27:23 +0000",
+      "timestamp": 1792675643.0
     },
     {
-      "title": "Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
-      "link": "https://github.com/MvikManners/aw1-circuit-breaker",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 22 Oct 2026 13:26:52 +0000",
+      "timestamp": 1792675612.0
+    },
+    {
+      "title": "OpenAI says its AI agents disabled their own safety monitors",
+      "link": "https://techxplore.com/news/2026-10-openai-ai-agents-disabled-safety.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 07:09:39 +0000",
-      "timestamp": 1792652979.0
+      "published": "Thu, 22 Oct 2026 13:19:40 +0000",
+      "timestamp": 1792675180.0
     },
     {
-      "title": "AI firms say UK has a year to head off datacentre protests",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "title": "My Spec-First Workflow for AI Coding Agents",
+      "link": "https://www.i-kh.net/p/my-spec-first-workflow-for-ai-coding",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 06:43:26 +0000",
-      "timestamp": 1792651406.0
+      "published": "Thu, 22 Oct 2026 13:17:10 +0000",
+      "timestamp": 1792675030.0
     },
     {
-      "title": "AI revealed 400 years of seafaring history",
-      "link": "https://www.bbc.com/news/articles/cr93z9zq5l9jo",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 22 Oct 2026 13:11:13 +0000",
+      "timestamp": 1792674673.0
+    },
+    {
+      "title": "\"We were looking at it wrong\": The explosive claim that's upended the AI world",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 06:28:14 +0000",
-      "timestamp": 1792650494.0
+      "published": "Thu, 22 Oct 2026 13:08:54 +0000",
+      "timestamp": 1792674534.0
     },
     {
-      "title": "AI Hasn't Spurred Widespread Layoffs Yet. Why Not?",
-      "link": "https://www.library.hbs.edu/working-knowledge/ai-hasnt-spurred-widespread-layoffs-yet-why-not",
+      "title": "Wagtail's Progress on DX with AI",
+      "link": "https://wagtail.org/blog/our-progress-on-dx-with-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 06:22:53 +0000",
-      "timestamp": 1792650173.0
+      "published": "Thu, 22 Oct 2026 13:07:40 +0000",
+      "timestamp": 1792674460.0
     },
     {
-      "title": "A sovereign, local AI browser for professionals who want to save time",
-      "link": "https://ricuicui.com/en/articles/a-sovereign-local-ai-browser-for-professionals-who-want-to-save-time",
+      "title": "How to Protect Humanity from AI – Robert Reich",
+      "link": "https://robertreich.substack.com/p/how-to-protect-humanity-from-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 05:39:42 +0000",
-      "timestamp": 1792647582.0
+      "published": "Thu, 22 Oct 2026 13:06:14 +0000",
+      "timestamp": 1792674374.0
     },
     {
-      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom",
-      "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+      "title": "A map of 44 tools that make AI agents' API calls reliable",
+      "link": "https://www.okapi.bot/blog/ai-agent-api-reliability-stack/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 05:23:59 +0000",
-      "timestamp": 1792646639.0
+      "published": "Thu, 22 Oct 2026 13:02:58 +0000",
+      "timestamp": 1792674178.0
     },
     {
-      "title": "Show HN: TenseMem – deterministic memory for AI agents",
-      "link": "https://github.com/tensemem/tensemem",
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-22T09:00:00-04:00",
+      "timestamp": 1792674000.0
+    },
+    {
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 22 Oct 2026 13:00:00 +0000",
+      "timestamp": 1792674000.0
+    },
+    {
+      "title": "Show HN: I made a Chrome extension to dim YouTube videos labeled \"Made with AI\"",
+      "link": "https://github.com/Nova-47/ai-label-filter-for-youtube",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 05:19:23 +0000",
-      "timestamp": 1792646363.0
+      "published": "Thu, 22 Oct 2026 12:45:52 +0000",
+      "timestamp": 1792673152.0
     },
     {
-      "title": "Scentronic: AI–assisted olfactory interface for remote odor transmission",
-      "link": "https://www.science.org/doi/10.1126/sciadv.aee9266",
+      "title": "Show HN: Lumabri – Run large AI models across your computers and servers.Pure C",
+      "link": "https://github.com/JustVugg/lumabri/blob/main/README.md",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 04:35:29 +0000",
-      "timestamp": 1792643729.0
+      "published": "Thu, 22 Oct 2026 12:30:35 +0000",
+      "timestamp": 1792672235.0
     },
     {
-      "title": "Ask HN: How has your company adapted interviews in the AI world?",
-      "link": "https://news.ycombinator.com/item?id=50191025",
-      "summary": "As the title suggests, how has your company adapted interview process, especially for Software Engineers in the AI world. Also, do you know of companies that have updated it?",
+      "title": "AI agents are ready to shop. Some retailers are wary.",
+      "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-22T08:30:00-04:00",
+      "timestamp": 1792672200.0
+    },
+    {
+      "title": "Claude did not invent scorpion antivenom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-22T08:21:07-04:00",
+      "timestamp": 1792671667.0
+    },
+    {
+      "title": "Show HN: Whybook, tackling the gap between AI notebooks and human understanding",
+      "link": "https://whybook.dev/",
+      "summary": "Whybook is a JupyterLab extension, a research prototype that explores how to close the understanding gap in data analysis: the divide between what AI can effortlessly produce and what the analyst can understand without scratching their head for hours.",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 03:58:28 +0000",
-      "timestamp": 1792641508.0
+      "published": "Thu, 22 Oct 2026 12:19:01 +0000",
+      "timestamp": 1792671541.0
     },
     {
-      "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
-      "link": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+      "title": "China Moves to Lock Its Own Top AI and Chip Designs Behind Export Controls",
+      "link": "https://techpresso.co/blog/china-ai-export-controls-models-chip-designs",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 03:57:19 +0000",
-      "timestamp": 1792641439.0
+      "published": "Thu, 22 Oct 2026 12:11:06 +0000",
+      "timestamp": 1792671066.0
     },
     {
-      "title": "AI agent on your notch, equipped with his own computer",
-      "link": "https://notcho.si",
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+      "link": "https://www.nngroup.com/articles/big-ball-of-mud-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 03:22:27 +0000",
-      "timestamp": 1792639347.0
+      "published": "Thu, 22 Oct 2026 11:55:18 +0000",
+      "timestamp": 1792670118.0
     },
     {
-      "title": "Nokia, T-Mobile and Nvidia complete first AI-RAN call",
-      "link": "https://www.nokia.com/blog/from-the-lab-to-the-live-network-nokia-t-mobile-and-nvidia-complete-worlds-first-ai-ran-call/",
+      "title": "Diplomatic Ways to Critique AI Slop",
+      "link": "https://www.seascapemodels.org/posts/2026-10-20-diplomatic-critique-of-ai-slop/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 02:59:08 +0000",
-      "timestamp": 1792637948.0
+      "published": "Thu, 22 Oct 2026 11:52:39 +0000",
+      "timestamp": 1792669959.0
+    },
+    {
+      "title": "Talking to the robots (my first encounter with an AI agent)",
+      "link": "https://blog.excelpricefeed.com/2026/10/22/talking-to-the-robots/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 11:29:01 +0000",
+      "timestamp": 1792668541.0
+    },
+    {
+      "title": "What 1,866 popular GitHub projects tell their AI coding agents",
+      "link": "https://secondtimeisabug.com/blog/what-projects-tell-ai-coding-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 11:28:27 +0000",
+      "timestamp": 1792668507.0
+    },
+    {
+      "title": "How Do AI Agents Remember Things Across Tasks?",
+      "link": "https://twitter.com/AgentMemoryL/status/2112544370348241108",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 11:23:30 +0000",
+      "timestamp": 1792668210.0
+    },
+    {
+      "title": "Barclays to cut 5k jobs as bank's bosses hail AI productivity advances",
+      "link": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 11:19:51 +0000",
+      "timestamp": 1792667991.0
+    },
+    {
+      "title": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
+      "link": "https://returnledger.site",
+      "summary": "Hi HN, I made a simple single-page tool that computes portfolios return / performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It's client-side, with no accounts, and data lives in the browser localStorage. It started as a personal tool . I wanted a way to understand what was the return of my portfolio and of a tenanted rental property (XIRR). The experimental part is an import: you upload a broker's trade notice PDF and an LLM proposes one ledger row, which you confirm. It solves a problem I had: understanding my bank's documents, especially for bon",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 11:13:54 +0000",
+      "timestamp": 1792667634.0
+    },
+    {
+      "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+      "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-22T07:00:00-04:00",
+      "timestamp": 1792666800.0
+    },
+    {
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "timestamp": 1792663200.0
     },
     {
       "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
@@ -136,60 +253,6 @@
       "source": "Wired AI",
       "published": "Thu, 22 Oct 2026 02:24:17 +0000",
       "timestamp": 1792635857.0
-    },
-    {
-      "title": "Show HN: HN Sieve – every Show HN scored and summarized by AI",
-      "link": "https://hnsieve.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 02:24:10 +0000",
-      "timestamp": 1792635850.0
-    },
-    {
-      "title": "Can AI generate reliable product demos directly from source code?",
-      "link": "https://news.ycombinator.com/item?id=50190257",
-      "summary": "Discuss the challenges of understanding application workflows, identifying meaningful UI states, and synchronizing animations with narration.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 02:03:30 +0000",
-      "timestamp": 1792634610.0
-    },
-    {
-      "title": "AI Overlay that Lives on your Desktop",
-      "link": "https://www.lumenoverlay.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 02:01:57 +0000",
-      "timestamp": 1792634517.0
-    },
-    {
-      "title": "Amazon warns new cyber flaws detected using AI are being 'broadly exploited'",
-      "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 01:38:59 +0000",
-      "timestamp": 1792633139.0
-    },
-    {
-      "title": "Can a malicious webpage hijack an AI agent?",
-      "link": "https://victorribeiro.com/bots/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 00:50:05 +0000",
-      "timestamp": 1792630205.0
-    },
-    {
-      "title": "Databricks launches AI Runtime for managed GPU training on enterprise data",
-      "link": "https://www.databricks.com/blog/ai-runtime-generally-available",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 00:29:58 +0000",
-      "timestamp": 1792628998.0
     },
     {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -381,24 +444,6 @@
       "timestamp": 1792578600.0
     },
     {
-      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
-      "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
-      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 21 Oct 2026 08:30:00 +0000",
-      "timestamp": 1792571400.0
-    },
-    {
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-20T19:04:19-04:00",
-      "timestamp": 1792537459.0
-    },
-    {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
@@ -415,15 +460,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 22:24:02 +0000",
       "timestamp": 1792535042.0
-    },
-    {
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-20T18:11:34-04:00",
-      "timestamp": 1792534294.0
     },
     {
       "title": "Anthropic’s cloud partnerships are getting messy",
@@ -471,15 +507,6 @@
       "timestamp": 1792521413.0
     },
     {
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-20T14:07:34-04:00",
-      "timestamp": 1792519654.0
-    },
-    {
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
       "summary": "Eric Schmidt’s fortune is about to get even bigger.",
@@ -487,15 +514,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 17:55:12 +0000",
       "timestamp": 1792518912.0
-    },
-    {
-      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-      "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 20 Oct 2026 17:41:58 +0000",
-      "timestamp": 1792518118.0
     },
     {
       "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
@@ -514,33 +532,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 16:20:06 +0000",
       "timestamp": 1792513206.0
-    },
-    {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "timestamp": 1792512000.0
-    },
-    {
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-      "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-      "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-20T10:18:37-04:00",
-      "timestamp": 1792505917.0
-    },
-    {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 20 Oct 2026 14:13:32 +0000",
-      "timestamp": 1792505612.0
     }
   ]
 }
