@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-10-21T22:18:38.578422+00:00",
+  "scraped_at": "2026-10-22T01:28:59.927228+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Can a malicious webpage hijack an AI agent?",
+      "link": "https://victorribeiro.com/bots/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 00:50:05 +0000",
+      "timestamp": 1792630205.0
+    },
+    {
+      "title": "Databricks launches AI Runtime for managed GPU training on enterprise data",
+      "link": "https://www.databricks.com/blog/ai-runtime-generally-available",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 00:29:58 +0000",
+      "timestamp": 1792628998.0
+    },
+    {
+      "title": "Unsupervised AI agent reportedly deletes TV show's edit before release",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 00:26:56 +0000",
+      "timestamp": 1792628816.0
+    },
+    {
+      "title": "Russia cracks down on AI bears as real attacks spread fear",
+      "link": "https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 23:57:02 +0000",
+      "timestamp": 1792627022.0
+    },
+    {
+      "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+      "link": "https://arxiv.org/abs/2610.19005",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 23:29:32 +0000",
+      "timestamp": 1792625372.0
+    },
+    {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 21 Oct 2026 22:51:22 +0000",
+      "timestamp": 1792623082.0
+    },
+    {
+      "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+      "link": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 22:48:02 +0000",
+      "timestamp": 1792622882.0
+    },
+    {
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 21 Oct 2026 22:39:50 +0000",
+      "timestamp": 1792622390.0
+    },
+    {
+      "title": "Data centers could erase decades of air quality gains",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-21T18:33:44-04:00",
+      "timestamp": 1792622024.0
+    },
+    {
+      "title": "Dense Sand – Sovereign BYOA AI SoC Platform for AWS",
+      "link": "https://aws.amazon.com/marketplace/pp/prodview-iamlatxnobx7o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 22:31:41 +0000",
+      "timestamp": 1792621901.0
+    },
+    {
+      "title": "Firmenza – An AI assistant for SAM.gov registration and federal contracts",
+      "link": "https://firmenza.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 21 Oct 2026 22:15:11 +0000",
+      "timestamp": 1792620911.0
+    },
     {
       "title": "Agency: Open-source platform for debugging, profiling, and analyzing AI agents",
       "link": "https://github.com/agency-project/agency",
@@ -147,15 +246,6 @@
       "timestamp": 1792612643.0
     },
     {
-      "title": "The AI-Hacking Apocalypse Began Last Night",
-      "link": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 19:55:38 +0000",
-      "timestamp": 1792612538.0
-    },
-    {
       "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
       "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [&#8230;]",
@@ -163,33 +253,6 @@
       "source": "The Verge AI",
       "published": "2026-10-21T15:53:20-04:00",
       "timestamp": 1792612400.0
-    },
-    {
-      "title": "Ask HN: How do you handle AI security for automated vulnerability management?",
-      "link": "https://news.ycombinator.com/item?id=50186510",
-      "summary": "Hello World! So I am new to the world of cybersecurity, and after some back and forth with AI, I chose to use a specific tool that was recommended for automated vulnerability detection & patching, but I think the issue I encountered is something common to all similar platforms that provide AI security fixes in 2026. It proposed a fix to an issue labeled 'critical'. I gave the specific file and the fix to Gemini, and, it disagreed strongly. My trust in the platform immediately degraded. It shows in my thinking that AI security platforms for repositories are unreliable, unless you cross check ev",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 19:43:49 +0000",
-      "timestamp": 1792611829.0
-    },
-    {
-      "title": "Ask HN: How will programming language design change as more code comes from AI?",
-      "link": "https://news.ycombinator.com/item?id=50186311",
-      "summary": "It appears that we're moving to a world where human programmers deal less and less with specific code details. How do you expect/prefer language designers' priorities to shift? e.g. less toward human friendliness changes, more towards machine verifiability, etc?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 19:31:41 +0000",
-      "timestamp": 1792611101.0
-    },
-    {
-      "title": "LLM-D 1.0 Takes Open-Source Kubernetes AI Inference into Production",
-      "link": "https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 19:31:37 +0000",
-      "timestamp": 1792611097.0
     },
     {
       "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
@@ -210,40 +273,22 @@
       "timestamp": 1792611000.0
     },
     {
-      "title": "The $15B 'viral' AI startup changing how American doctors treat patients",
-      "link": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc",
-      "summary": "",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 19:29:10 +0000",
-      "timestamp": 1792610950.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 21 Oct 2026 17:59:12 +0000",
+      "timestamp": 1792605552.0
     },
     {
-      "title": "Ask HN: What AI tools help me understand a MR?",
-      "link": "https://news.ycombinator.com/item?id=50186182",
-      "summary": "I'm trying to incorporate AI code tools into my flow, but my issue is that I spend a lot of time code reviewing AI. I know there is vibe-coding vs engineering and I'm trying to stay on the engineering side while trying to figure out how to properly use AI. In that spirit, I wanted to find an AI tool that helps me code review better. More specifically, look at a diff and present it to me in a way that makes it easier for me to understand what is going on. I am not looking for a tool to do a code review in my place. Does anyone have a flow or tool they use already to do this? Thanks!",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 19:24:46 +0000",
-      "timestamp": 1792610686.0
-    },
-    {
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 19:21:41 +0000",
-      "timestamp": 1792610501.0
-    },
-    {
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "link": "https://openai.com/index/empowering-cyber-defenders/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 21 Oct 2026 19:19:32 +0000",
-      "timestamp": 1792610372.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 21 Oct 2026 17:18:27 +0000",
+      "timestamp": 1792603107.0
     },
     {
       "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
@@ -496,51 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 14:13:32 +0000",
       "timestamp": 1792505612.0
-    },
-    {
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 20 Oct 2026 13:07:24 +0000",
-      "timestamp": 1792501644.0
-    },
-    {
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-      "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-20T09:06:44-04:00",
-      "timestamp": 1792501604.0
-    },
-    {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 20 Oct 2026 13:00:00 +0000",
-      "timestamp": 1792501200.0
-    },
-    {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "timestamp": 1792494000.0
-    },
-    {
-      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 19 Oct 2026 19:49:17 +0000",
-      "timestamp": 1792439357.0
     }
   ]
 }
