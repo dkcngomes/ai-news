@@ -1,33 +1,276 @@
 {
-  "scraped_at": "2026-10-22T18:30:36.908555+00:00",
+  "scraped_at": "2026-10-22T22:18:19.962390+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Award-Winning AI Literature",
-      "link": "https://jamesyu.org/award-winning-ai-literature/",
+      "title": "Liquid AI launches sub-20ms latency stack",
+      "link": "https://www.liquid.ai/blog/low-latency",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 18:28:26 +0000",
-      "timestamp": 1792693706.0
+      "published": "Thu, 22 Oct 2026 22:11:16 +0000",
+      "timestamp": 1792707076.0
     },
     {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "link": "https://arxiv.org/abs/2610.27251",
+      "title": "The $300k Competition to Hijack AI Agents",
+      "link": "https://www.aiengineering.report/p/inside-the-300k-competition-to-hijack",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 18:28:16 +0000",
-      "timestamp": 1792693696.0
+      "published": "Thu, 22 Oct 2026 22:09:58 +0000",
+      "timestamp": 1792706998.0
     },
     {
-      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era",
+      "title": "Show HN: Stumble Upon for AI News",
+      "link": "https://ainews247.org/",
+      "summary": "I built an AI news tabulator. Inspired by Stumble Upon from years ago. Cheers.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 22:08:10 +0000",
+      "timestamp": 1792706890.0
+    },
+    {
+      "title": "Thoughts on AI in game development (from the trenches)",
+      "link": "https://www.reddit.com/r/Games/comments/1xcr1au/thoughts_on_ai_in_game_development_from_the/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 18:26:23 +0000",
-      "timestamp": 1792693583.0
+      "published": "Thu, 22 Oct 2026 21:55:46 +0000",
+      "timestamp": 1792706146.0
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-22T17:51:25-04:00",
+      "timestamp": 1792705885.0
+    },
+    {
+      "title": "US banks are blocking third-party AI agents access to customer accounts",
+      "link": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 21:43:46 +0000",
+      "timestamp": 1792705426.0
+    },
+    {
+      "title": "Public-Interest Information in an AI-Intermediated Age",
+      "link": "https://www.journalismfutures.org/three-layer-cake",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 21:29:15 +0000",
+      "timestamp": 1792704555.0
+    },
+    {
+      "title": "Show HN: AI Prompt Chain Builder – offline multi-step prompt workflows",
+      "link": "https://theaioperatorstore.gumroad.com/l/kjxamb",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 21:26:53 +0000",
+      "timestamp": 1792704413.0
+    },
+    {
+      "title": "1Password adds browser login feature for AI agents",
+      "link": "https://1password.com/personal-ai-agent-integrations",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 21:21:55 +0000",
+      "timestamp": 1792704115.0
+    },
+    {
+      "title": "AI vs. no AI? not much of interest to me",
+      "link": "https://mvndy.cl/blog/a-sort-of-declaration",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 21:18:27 +0000",
+      "timestamp": 1792703907.0
+    },
+    {
+      "title": "Show HN: AI for Group Chats",
+      "link": "https://boba.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 21:08:25 +0000",
+      "timestamp": 1792703305.0
+    },
+    {
+      "title": "SpaceX $40B debt deal gets pricey as AI fears spread",
+      "link": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 21:07:20 +0000",
+      "timestamp": 1792703240.0
+    },
+    {
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "link": "https://microsoft.ai/news/building-medical-superintelligence/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 20:57:45 +0000",
+      "timestamp": 1792702665.0
+    },
+    {
+      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+      "link": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 20:51:23 +0000",
+      "timestamp": 1792702283.0
+    },
+    {
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-22T16:32:05-04:00",
+      "timestamp": 1792701125.0
+    },
+    {
+      "title": "Meta turns Muse sharing back on",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-22T16:24:04-04:00",
+      "timestamp": 1792700644.0
+    },
+    {
+      "title": "Show HN: Secure your AI agents on Mac",
+      "link": "https://installplango.com/",
+      "summary": "Plango is a Mac native security suite for anyone running AI coding tools. It works by running a custom local security model that evaluates threats against the lethal trifecta (data access, communication, exposure). Some cool features: - Restrict Agent access by type of data (ssh keys, env files) or finder tags (finally a good reason to use the color tags in finder). - On device security model, but can switch to another local agent or bring your own key. - Review your Mac's privacy and access, apps, startup & extensions. - Automatically move env secrets into keychain. - Network blocks/allow lis",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 20:15:37 +0000",
+      "timestamp": 1792700137.0
+    },
+    {
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 22 Oct 2026 19:56:32 +0000",
+      "timestamp": 1792698992.0
+    },
+    {
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-22T15:45:00-04:00",
+      "timestamp": 1792698300.0
+    },
+    {
+      "title": "Messaging for AI Agents",
+      "link": "https://trycrabmail.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 19:38:13 +0000",
+      "timestamp": 1792697893.0
+    },
+    {
+      "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on",
+      "link": "https://www.businessinsider.com/amazon-nvidia-ai-gpu-data-centers-power-shortages-2026-10",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 19:33:50 +0000",
+      "timestamp": 1792697630.0
+    },
+    {
+      "title": "New prize launches for books co-written with AI",
+      "link": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 19:29:38 +0000",
+      "timestamp": 1792697378.0
+    },
+    {
+      "title": "Banks Are Struggling to Protect Customers from Their Own AI Agents",
+      "link": "https://www.motherjones.com/politics/2026/10/banks-ai-axios-agents-rogue-financial-decisions-security/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 19:23:44 +0000",
+      "timestamp": 1792697024.0
+    },
+    {
+      "title": "US Banks Blocking AI Agents in Accounts",
+      "link": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 19:22:23 +0000",
+      "timestamp": 1792696943.0
+    },
+    {
+      "title": "Show HN: Forked – Git for AI agent state",
+      "link": "https://github.com/clibequilibrium/forked",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 22 Oct 2026 19:17:12 +0000",
+      "timestamp": 1792696632.0
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 22 Oct 2026 19:07:09 +0000",
+      "timestamp": 1792696029.0
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "timestamp": 1792695600.0
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "timestamp": 1792695600.0
+    },
+    {
+      "title": "Discord now formats Markdown previews right",
+      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-22T14:58:19-04:00",
+      "timestamp": 1792695499.0
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 22 Oct 2026 18:43:53 +0000",
+      "timestamp": 1792694633.0
     },
     {
       "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
@@ -39,69 +282,6 @@
       "timestamp": 1792692900.0
     },
     {
-      "title": "Security Sweet: Get your AI agents on a leash for security patch",
-      "link": "https://github.com/blencorp/security-sweep",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 18:10:38 +0000",
-      "timestamp": 1792692638.0
-    },
-    {
-      "title": "Meta and chip stocks decline as AI trade comes under pressure",
-      "link": "https://finance.yahoo.com/markets/article/meta-and-chip-stocks-decline-as-ai-trade-comes-under-pressure-alphacheck-140107733.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 18:08:30 +0000",
-      "timestamp": 1792692510.0
-    },
-    {
-      "title": "I built a free library of 900 motion design techniques you can recreate with AI",
-      "link": "https://oneshotprompts.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 18:05:20 +0000",
-      "timestamp": 1792692320.0
-    },
-    {
-      "title": "AI, Quiz Me!",
-      "link": "https://thoughts.kristiandupont.com/p/ai-quiz-me",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 18:05:09 +0000",
-      "timestamp": 1792692309.0
-    },
-    {
-      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 18:02:54 +0000",
-      "timestamp": 1792692174.0
-    },
-    {
-      "title": "Five AI assistants, first impressions",
-      "link": "https://paolo.blog/five-ai-assistants-first-impressions/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 18:02:45 +0000",
-      "timestamp": 1792692165.0
-    },
-    {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 18:00:15 +0000",
-      "timestamp": 1792692015.0
-    },
-    {
       "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
       "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human [&#8230;]",
@@ -109,96 +289,6 @@
       "source": "The Verge AI",
       "published": "2026-10-22T14:00:00-04:00",
       "timestamp": 1792692000.0
-    },
-    {
-      "title": "We gave AI agents a mobile dev environment",
-      "link": "https://shopify.engineering/remote-dev",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 17:52:31 +0000",
-      "timestamp": 1792691551.0
-    },
-    {
-      "title": "Cerbère – taint tracking for AI agents",
-      "link": "https://github.com/chrismsmr-celcom/cerbere-AG",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 17:51:30 +0000",
-      "timestamp": 1792691490.0
-    },
-    {
-      "title": "AI Isn't Coming to Make You Obsolete. It's Coming to Make You Extraordinary",
-      "link": "https://medsiri.substack.com/p/ai-isnt-coming-to-make-you-obsolete",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 17:50:37 +0000",
-      "timestamp": 1792691437.0
-    },
-    {
-      "title": "Show HN: MintPage – a SaaS I let an AI agent build and run (I never look at it)",
-      "link": "https://mintpage.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 17:49:08 +0000",
-      "timestamp": 1792691348.0
-    },
-    {
-      "title": "AI Agent Builders can configure their retrieval in 5 minutes",
-      "link": "https://www.claix.dev/for/ai-agent-creators",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 17:47:57 +0000",
-      "timestamp": 1792691277.0
-    },
-    {
-      "title": "AI Can Parallelize the Work. It Cannot Parallelize My Attention",
-      "link": "https://palmesi.com/blog/knowledge-work-needs-awareness/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 17:46:49 +0000",
-      "timestamp": 1792691209.0
-    },
-    {
-      "title": "Why is AI-generated language so hard to understand?",
-      "link": "https://arxiv.org/abs/2610.29162",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 17:42:29 +0000",
-      "timestamp": 1792690949.0
-    },
-    {
-      "title": "Is this AI business or investment? A live model",
-      "link": "https://hyperc.com/research/business-investment-atlas/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 17:34:02 +0000",
-      "timestamp": 1792690442.0
-    },
-    {
-      "title": "Securing AI Agents Requires Hazmat Suits",
-      "link": "https://infisical.com/blog/ai-agent-security-hazmat-suits",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 17:33:07 +0000",
-      "timestamp": 1792690387.0
-    },
-    {
-      "title": "Google Pushed AI into Schools–and Even Students Say It's Gone Too Far",
-      "link": "https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 17:32:12 +0000",
-      "timestamp": 1792690332.0
     },
     {
       "title": "Someone hacked the Switch 2 by using an old game and AI",
@@ -246,15 +336,6 @@
       "timestamp": 1792684230.0
     },
     {
-      "title": "PHP: The three little letters wreaking havoc across the web",
-      "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-      "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporarily shut down after the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-22T11:12:27-04:00",
-      "timestamp": 1792681947.0
-    },
-    {
       "title": "Spotify’s current AI bet is about being the music service that agents choose",
       "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
       "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
@@ -262,15 +343,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 15:03:58 +0000",
       "timestamp": 1792681438.0
-    },
-    {
-      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-      "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-22T10:00:00-04:00",
-      "timestamp": 1792677600.0
     },
     {
       "title": "Claude Duet app is Anthropic’s bet on agents",
@@ -300,15 +372,6 @@
       "timestamp": 1792674673.0
     },
     {
-      "title": "1Password lets AI agents use your passwords without seeing them",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-22T09:00:00-04:00",
-      "timestamp": 1792674000.0
-    },
-    {
       "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
       "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
       "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
@@ -316,24 +379,6 @@
       "source": "Wired AI",
       "published": "Thu, 22 Oct 2026 13:00:00 +0000",
       "timestamp": 1792674000.0
-    },
-    {
-      "title": "AI agents are ready to shop. Some retailers are wary",
-      "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-22T08:30:00-04:00",
-      "timestamp": 1792672200.0
-    },
-    {
-      "title": "Claude did not invent scorpion antivenom",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-22T08:21:07-04:00",
-      "timestamp": 1792671667.0
     },
     {
       "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
@@ -489,15 +534,6 @@
       "timestamp": 1792586100.0
     },
     {
-      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-      "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
-      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 21 Oct 2026 10:30:00 +0000",
-      "timestamp": 1792578600.0
-    },
-    {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
@@ -505,42 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
       "timestamp": 1792537283.0
-    },
-    {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
-      "timestamp": 1792535042.0
-    },
-    {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 20 Oct 2026 21:25:22 +0000",
-      "timestamp": 1792531522.0
-    },
-    {
-      "title": "SpaceX’s AI business is beating expectations",
-      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 20 Oct 2026 20:40:41 +0000",
-      "timestamp": 1792528841.0
-    },
-    {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 20 Oct 2026 20:35:10 +0000",
-      "timestamp": 1792528510.0
     }
   ]
 }
