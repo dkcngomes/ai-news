@@ -1,42 +1,24 @@
 {
-  "scraped_at": "2026-10-22T22:18:19.962390+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-23T01:28:57.672866+00:00",
+  "count": 40,
   "items": [
     {
-      "title": "Liquid AI launches sub-20ms latency stack",
-      "link": "https://www.liquid.ai/blog/low-latency",
-      "summary": "",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 22:11:16 +0000",
-      "timestamp": 1792707076.0
+      "source": "TechCrunch AI",
+      "published": "Fri, 23 Oct 2026 00:45:37 +0000",
+      "timestamp": 1792716337.0
     },
     {
-      "title": "The $300k Competition to Hijack AI Agents",
-      "link": "https://www.aiengineering.report/p/inside-the-300k-competition-to-hijack",
-      "summary": "",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 22:09:58 +0000",
-      "timestamp": 1792706998.0
-    },
-    {
-      "title": "Show HN: Stumble Upon for AI News",
-      "link": "https://ainews247.org/",
-      "summary": "I built an AI news tabulator. Inspired by Stumble Upon from years ago. Cheers.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 22:08:10 +0000",
-      "timestamp": 1792706890.0
-    },
-    {
-      "title": "Thoughts on AI in game development (from the trenches)",
-      "link": "https://www.reddit.com/r/Games/comments/1xcr1au/thoughts_on_ai_in_game_development_from_the/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 21:55:46 +0000",
-      "timestamp": 1792706146.0
+      "source": "TechCrunch AI",
+      "published": "Thu, 22 Oct 2026 22:08:24 +0000",
+      "timestamp": 1792706904.0
     },
     {
       "title": "Canva’s first AI image model plans designs before generating them",
@@ -46,87 +28,6 @@
       "source": "The Verge AI",
       "published": "2026-10-22T17:51:25-04:00",
       "timestamp": 1792705885.0
-    },
-    {
-      "title": "US banks are blocking third-party AI agents access to customer accounts",
-      "link": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 21:43:46 +0000",
-      "timestamp": 1792705426.0
-    },
-    {
-      "title": "Public-Interest Information in an AI-Intermediated Age",
-      "link": "https://www.journalismfutures.org/three-layer-cake",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 21:29:15 +0000",
-      "timestamp": 1792704555.0
-    },
-    {
-      "title": "Show HN: AI Prompt Chain Builder – offline multi-step prompt workflows",
-      "link": "https://theaioperatorstore.gumroad.com/l/kjxamb",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 21:26:53 +0000",
-      "timestamp": 1792704413.0
-    },
-    {
-      "title": "1Password adds browser login feature for AI agents",
-      "link": "https://1password.com/personal-ai-agent-integrations",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 21:21:55 +0000",
-      "timestamp": 1792704115.0
-    },
-    {
-      "title": "AI vs. no AI? not much of interest to me",
-      "link": "https://mvndy.cl/blog/a-sort-of-declaration",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 21:18:27 +0000",
-      "timestamp": 1792703907.0
-    },
-    {
-      "title": "Show HN: AI for Group Chats",
-      "link": "https://boba.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 21:08:25 +0000",
-      "timestamp": 1792703305.0
-    },
-    {
-      "title": "SpaceX $40B debt deal gets pricey as AI fears spread",
-      "link": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 21:07:20 +0000",
-      "timestamp": 1792703240.0
-    },
-    {
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "link": "https://microsoft.ai/news/building-medical-superintelligence/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 20:57:45 +0000",
-      "timestamp": 1792702665.0
-    },
-    {
-      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-      "link": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 20:51:23 +0000",
-      "timestamp": 1792702283.0
     },
     {
       "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
@@ -147,15 +48,6 @@
       "timestamp": 1792700644.0
     },
     {
-      "title": "Show HN: Secure your AI agents on Mac",
-      "link": "https://installplango.com/",
-      "summary": "Plango is a Mac native security suite for anyone running AI coding tools. It works by running a custom local security model that evaluates threats against the lethal trifecta (data access, communication, exposure). Some cool features: - Restrict Agent access by type of data (ssh keys, env files) or finder tags (finally a good reason to use the color tags in finder). - On device security model, but can switch to another local agent or bring your own key. - Review your Mac's privacy and access, apps, startup & extensions. - Automatically move env secrets into keychain. - Network blocks/allow lis",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 20:15:37 +0000",
-      "timestamp": 1792700137.0
-    },
-    {
       "title": "The Social Society Helping Women Join the AI Boom",
       "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
       "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
@@ -172,60 +64,6 @@
       "source": "The Verge AI",
       "published": "2026-10-22T15:45:00-04:00",
       "timestamp": 1792698300.0
-    },
-    {
-      "title": "Messaging for AI Agents",
-      "link": "https://trycrabmail.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 19:38:13 +0000",
-      "timestamp": 1792697893.0
-    },
-    {
-      "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on",
-      "link": "https://www.businessinsider.com/amazon-nvidia-ai-gpu-data-centers-power-shortages-2026-10",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 19:33:50 +0000",
-      "timestamp": 1792697630.0
-    },
-    {
-      "title": "New prize launches for books co-written with AI",
-      "link": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 19:29:38 +0000",
-      "timestamp": 1792697378.0
-    },
-    {
-      "title": "Banks Are Struggling to Protect Customers from Their Own AI Agents",
-      "link": "https://www.motherjones.com/politics/2026/10/banks-ai-axios-agents-rogue-financial-decisions-security/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 19:23:44 +0000",
-      "timestamp": 1792697024.0
-    },
-    {
-      "title": "US Banks Blocking AI Agents in Accounts",
-      "link": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 19:22:23 +0000",
-      "timestamp": 1792696943.0
-    },
-    {
-      "title": "Show HN: Forked – Git for AI agent state",
-      "link": "https://github.com/clibequilibrium/forked",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 22 Oct 2026 19:17:12 +0000",
-      "timestamp": 1792696632.0
     },
     {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -507,15 +345,6 @@
       "timestamp": 1792592779.0
     },
     {
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 21 Oct 2026 14:00:00 +0000",
-      "timestamp": 1792591200.0
-    },
-    {
       "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
       "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
       "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
@@ -532,15 +361,6 @@
       "source": "Wired AI",
       "published": "Wed, 21 Oct 2026 12:35:00 +0000",
       "timestamp": 1792586100.0
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "timestamp": 1792537283.0
     }
   ]
 }
