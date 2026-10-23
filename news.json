@@ -1,7 +1,196 @@
 {
-  "scraped_at": "2026-10-23T01:28:57.672866+00:00",
-  "count": 40,
+  "scraped_at": "2026-10-23T07:28:42.910986+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "Show HN: Audimind – Create audiobooks in one AI-powered workspace",
+      "link": "https://www.audimind.ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 07:05:22 +0000",
+      "timestamp": 1792739122.0
+    },
+    {
+      "title": "Why is AI-generated language so hard to understand?",
+      "link": "https://arxiv.org/abs/2610.29162",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 07:04:30 +0000",
+      "timestamp": 1792739070.0
+    },
+    {
+      "title": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 07:02:52 +0000",
+      "timestamp": 1792738972.0
+    },
+    {
+      "title": "10x Engineer (AI Psychosis)",
+      "link": "https://www.youtube.com/watch?v=WV6A1Zf3F2Q",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 06:52:27 +0000",
+      "timestamp": 1792738347.0
+    },
+    {
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "link": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 06:41:11 +0000",
+      "timestamp": 1792737671.0
+    },
+    {
+      "title": "Breakthrough Method for Agile AI Driven Development",
+      "link": "https://github.com/bmad-code-org/bmad-method",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 06:30:42 +0000",
+      "timestamp": 1792737042.0
+    },
+    {
+      "title": "Four Important AI Questions",
+      "link": "https://freddiedeboer.substack.com/p/four-direct-reasonable-and-important",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 06:19:08 +0000",
+      "timestamp": 1792736348.0
+    },
+    {
+      "title": "How to turn consumer hardware into AI infra",
+      "link": "https://neurogrid.cc/en",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 06:04:30 +0000",
+      "timestamp": 1792735470.0
+    },
+    {
+      "title": "The AI Expectations Gap [pdf]",
+      "link": "https://www-cdn.anthropic.com/a28f24814c56e2834a3eae7b13946f19d3e97ec4/The%20AI%20Expectations%20Gap.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 05:56:15 +0000",
+      "timestamp": 1792734975.0
+    },
+    {
+      "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks",
+      "link": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 05:43:38 +0000",
+      "timestamp": 1792734218.0
+    },
+    {
+      "title": "When AI Agrees Too Much: Manipulating Automated Code Review via Bias Injection [pdf]",
+      "link": "https://dimitro.gr/assets/pdf/AASM27.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 05:41:53 +0000",
+      "timestamp": 1792734113.0
+    },
+    {
+      "title": "Mapping Economic Theory with AI [pdf]",
+      "link": "https://andreaciccarone.github.io/claim_graphs_draft.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 04:56:40 +0000",
+      "timestamp": 1792731400.0
+    },
+    {
+      "title": "An artist's take on AI in math",
+      "link": "https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 04:51:14 +0000",
+      "timestamp": 1792731074.0
+    },
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "timestamp": 1792728000.0
+    },
+    {
+      "title": "AI Agents Kinda Broke the Internet",
+      "link": "https://jacobg.co/ai-agents/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 03:48:55 +0000",
+      "timestamp": 1792727335.0
+    },
+    {
+      "title": "The Customer Is the Builder: how AI coding agents change software economics",
+      "link": "https://arxiv.org/abs/2610.30307",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 03:24:24 +0000",
+      "timestamp": 1792725864.0
+    },
+    {
+      "title": "AI RSS reader with summaries – Brew beta",
+      "link": "https://testflight.apple.com/join/CgRdkqc4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 03:00:46 +0000",
+      "timestamp": 1792724446.0
+    },
+    {
+      "title": "Show HN: TenseMem – deterministic memory for AI agents",
+      "link": "https://github.com/tensemem/tensemem",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 02:57:16 +0000",
+      "timestamp": 1792724236.0
+    },
+    {
+      "title": "The Surprising Popularity of AI",
+      "link": "https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 02:36:05 +0000",
+      "timestamp": 1792722965.0
+    },
+    {
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "link": "https://zordt.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 02:25:18 +0000",
+      "timestamp": 1792722318.0
+    },
+    {
+      "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
+      "link": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 02:21:45 +0000",
+      "timestamp": 1792722105.0
+    },
     {
       "title": "Left alone with nothing to do, AI agents started playing",
       "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
@@ -75,18 +264,18 @@
       "timestamp": 1792696029.0
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "timestamp": 1792695600.0
     },
     {
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
@@ -307,15 +496,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 21 Oct 2026 17:59:12 +0000",
       "timestamp": 1792605552.0
-    },
-    {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 21 Oct 2026 17:18:27 +0000",
-      "timestamp": 1792603107.0
     },
     {
       "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
