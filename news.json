@@ -1,11 +1,119 @@
 {
-  "scraped_at": "2026-10-23T22:08:01.104409+00:00",
+  "scraped_at": "2026-10-24T00:39:31.292782+00:00",
   "count": 60,
   "items": [
     {
+      "title": "Algernon – A B2B compliance and security oracle for AI agents on Base via x402",
+      "link": "https://github.com/tobiaslofton/algernon-x402-oracle",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 00:26:14 +0000",
+      "timestamp": 1792801574.0
+    },
+    {
+      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 23:46:43 +0000",
+      "timestamp": 1792799203.0
+    },
+    {
+      "title": "Soma – memory and proofs for AI agents, measured not asserted",
+      "link": "https://github.com/mrpkk/soma-protocol",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 23:31:45 +0000",
+      "timestamp": 1792798305.0
+    },
+    {
+      "title": "Using AI to clean your smart TV",
+      "link": "https://github.com/Gathin23/cleanyourtv",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 23:17:28 +0000",
+      "timestamp": 1792797448.0
+    },
+    {
+      "title": "Show HN: AI Crash Debugging Gauntlet",
+      "link": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+      "summary": "One of the core conceits of ForensicDbg was that if we build a significantly improved crash debugging core, that value would carry through, regardless of the final workflow. Our testers have helped us confirm that on the more traditional, visual debugging side. But how do you confirm that for AI debugging workflows? With a crash dump evaluation gauntlet, of course! If you just want the results, or even grab a pdf with the raw testing results, that is all at the bottom.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 23:11:06 +0000",
+      "timestamp": 1792797066.0
+    },
+    {
+      "title": "AgentProbe – test AI agents by making the systems around them fail",
+      "link": "https://sampact.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 23:10:48 +0000",
+      "timestamp": 1792797048.0
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "timestamp": 1792796749.0
+    },
+    {
+      "title": "Aethyro – AI chat SaaS, and a billing bypass I found by attacking my own product",
+      "link": "https://aethyro.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 22:43:32 +0000",
+      "timestamp": 1792795412.0
+    },
+    {
+      "title": "Wall Street prepares for AI's \"day after\"",
+      "link": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 22:36:07 +0000",
+      "timestamp": 1792794967.0
+    },
+    {
+      "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
+      "link": "https://aakatheeri.github.io/narrative-deck/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 22:18:39 +0000",
+      "timestamp": 1792793919.0
+    },
+    {
+      "title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
+      "link": "https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 22:04:21 +0000",
+      "timestamp": 1792793061.0
+    },
+    {
+      "title": "AI devours a fifth of companies' IT budgets",
+      "link": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 23 Oct 2026 22:00:05 +0000",
+      "timestamp": 1792792805.0
+    },
+    {
       "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
       "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "summary": "The robots, stomping their little feet and making tiny R2D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 23 Oct 2026 21:59:19 +0000",
@@ -37,6 +145,15 @@
       "source": "Hacker News (AI)",
       "published": "Fri, 23 Oct 2026 21:11:59 +0000",
       "timestamp": 1792789919.0
+    },
+    {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-23T17:11:07-04:00",
+      "timestamp": 1792789867.0
     },
     {
       "title": "Show HN: AI Detector that is private, free and unlimited use",
@@ -93,40 +210,13 @@
       "timestamp": 1792786527.0
     },
     {
-      "title": "AI Coding Agent Security Benchmark",
-      "link": "https://www.endorlabs.com/research/ai-code-security-benchmark",
-      "summary": "",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 20:08:49 +0000",
-      "timestamp": 1792786129.0
-    },
-    {
-      "title": "The \"AI-Last\" Methodology",
-      "link": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 20:00:24 +0000",
-      "timestamp": 1792785624.0
-    },
-    {
-      "title": "Show HN: Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm",
-      "link": "https://github.com/rla-labs/argus",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 19:33:30 +0000",
-      "timestamp": 1792784010.0
-    },
-    {
-      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-      "link": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 19:31:36 +0000",
-      "timestamp": 1792783896.0
+      "source": "The Verge AI",
+      "published": "2026-10-23T15:32:39-04:00",
+      "timestamp": 1792783959.0
     },
     {
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
@@ -136,69 +226,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 23 Oct 2026 19:06:23 +0000",
       "timestamp": 1792782383.0
-    },
-    {
-      "title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
-      "link": "https://useinstantsearch.com/",
-      "summary": "Hi HN! Instant Search is the first accurate local AI file search that uses the latest embedding models from Perplexity to find the exact file (and page) with the content you’re looking for with a 95% hit rate. Search never worked properly, especially with local files. Now, you can find the right image, document, or Obsidian file in seconds. Looking for your driver’s license? Just type “driver’s license”. Looking for a particular note? Just explain the context. Why not Finder/Spotlight? Spotlight is just a keyword search. It doesn’t understand file content. Instant finds the exact file you’re d",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 18:52:34 +0000",
-      "timestamp": 1792781554.0
-    },
-    {
-      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
-      "link": "https://theaioperatorstore.gumroad.com/l/womuyx",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 18:40:46 +0000",
-      "timestamp": 1792780846.0
-    },
-    {
-      "title": "Show HN: UPA – An explicit organizational model for humans and AI",
-      "link": "https://github.com/julianfromano/upa-organization-brain",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 18:27:18 +0000",
-      "timestamp": 1792780038.0
-    },
-    {
-      "title": "Writing Code vs. Shipping Code: Productivity Across Generations of AI Code Tools",
-      "link": "https://www.nber.org/papers/w35275",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 18:16:14 +0000",
-      "timestamp": 1792779374.0
-    },
-    {
-      "title": "Behavior-Centric AI Design",
-      "link": "https://swamp-club.com/behavior",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 18:14:06 +0000",
-      "timestamp": 1792779246.0
-    },
-    {
-      "title": "AI models think humans are a bunch of amoral sheep",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 18:13:54 +0000",
-      "timestamp": 1792779234.0
-    },
-    {
-      "title": "Show HN: AI Heat Map powered by over 120 data feeds",
-      "link": "https://ai-news.jagular.io",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 23 Oct 2026 18:06:53 +0000",
-      "timestamp": 1792778813.0
     },
     {
       "title": "The iPhone Duo should have been an iPad",
@@ -318,15 +345,6 @@
       "timestamp": 1792696029.0
     },
     {
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "timestamp": 1792695600.0
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
@@ -336,13 +354,13 @@
       "timestamp": 1792695600.0
     },
     {
-      "title": "Discord now formats Markdown previews right",
-      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects [&#8230;]",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-22T14:58:19-04:00",
-      "timestamp": 1792695499.0
+      "source": "TechCrunch AI",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "timestamp": 1792695600.0
     },
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -352,15 +370,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 18:43:53 +0000",
       "timestamp": 1792694633.0
-    },
-    {
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-22T14:15:00-04:00",
-      "timestamp": 1792692900.0
     },
     {
       "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
@@ -487,15 +496,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 21 Oct 2026 21:14:19 +0000",
       "timestamp": 1792617259.0
-    },
-    {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 21 Oct 2026 20:27:41 +0000",
-      "timestamp": 1792614461.0
     },
     {
       "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
