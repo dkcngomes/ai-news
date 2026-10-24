@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-10-24T20:45:45.335538+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-24T23:11:04.698621+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "What we learned making 12 apps usable by AI agents with WebMCP",
+      "link": "https://mindoodb.com/blog/2026/10/27.10.2026090000KLEAGT/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 22:59:31 +0000",
+      "timestamp": 1792882771.0
+    },
+    {
+      "title": "AI Generated launch videos are starting to get insane",
+      "link": "https://motioncrackers.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 22:58:20 +0000",
+      "timestamp": 1792882700.0
+    },
+    {
+      "title": "AI Is Planning to Kill You",
+      "link": "https://hanzo.blog/2026-10-16-your-ai-is-planning-to-kill-you/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 22:40:45 +0000",
+      "timestamp": 1792881645.0
+    },
+    {
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-24T17:29:12-04:00",
+      "timestamp": 1792877352.0
+    },
+    {
+      "title": "Ask HN: Any real cases where AI slop ruined a codebase and forced a rewrite?",
+      "link": "https://news.ycombinator.com/item?id=50225469",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 21:23:44 +0000",
+      "timestamp": 1792877024.0
+    },
+    {
+      "title": "Making My Blog Readable by AI Agents",
+      "link": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 21:21:33 +0000",
+      "timestamp": 1792876893.0
+    },
+    {
+      "title": "Sevenbox, find what an AI agent's wrong decision affected",
+      "link": "https://github.com/sevenboxlabs/sevenbox",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 21:09:47 +0000",
+      "timestamp": 1792876187.0
+    },
+    {
+      "title": "How AI is transforming economic research and analysis",
+      "link": "https://www.axios.com/2026/10/23/ai-economic-research-analysis",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 20:50:56 +0000",
+      "timestamp": 1792875056.0
+    },
+    {
+      "title": "Which AI in UX or HCI conference is in your radar for 2027?",
+      "link": "https://www.uxness.in/2026/08/top-ux-conferences-to-attend-in-2027.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 20:48:44 +0000",
+      "timestamp": 1792874924.0
+    },
+    {
+      "title": "Decompiling Games with AI: Virtueel Zoetermeer",
+      "link": "https://bou.ke/blog/zoetermeer/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 20:44:09 +0000",
+      "timestamp": 1792874649.0
+    },
+    {
+      "title": "An explosion of AI-powered hacks will reshape life online",
+      "link": "https://www.theatlantic.com/technology/2026/10/the-safe-internet-is-shrinking/689130/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 24 Oct 2026 20:35:23 +0000",
+      "timestamp": 1792874123.0
+    },
     {
       "title": "AI agents, in separate VMs without network, communicated through the CPU cache",
       "link": "https://twitter.com/rynorhn/status/2113757656498196605",
@@ -30,7 +129,7 @@
       "timestamp": 1792871991.0
     },
     {
-      "title": "No Signs of AI Payoff Outside the Tech Sector",
+      "title": "No signs of AI payoff outside the tech sector",
       "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "summary": "",
       "image": null,
@@ -100,105 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 24 Oct 2026 18:25:53 +0000",
       "timestamp": 1792866353.0
-    },
-    {
-      "title": "What if you could have AI applied to your brain?",
-      "link": "https://news.ycombinator.com/item?id=50223726",
-      "summary": "Imagine this. You can control Alexa with your voice and ask it to play songs, remember grocery lists, add reminders to your calendar. Elon Musk's Neuralink can interface with your brain and reduce the latency with which you can communicate with computers. What if you had AI applied to your brain and you could train it to think like you just like how you train your agents at work?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 18:16:47 +0000",
-      "timestamp": 1792865807.0
-    },
-    {
-      "title": "The AI Trade Is Shifting from Chip Stocks to Cybersecurity",
-      "link": "https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 18:13:39 +0000",
-      "timestamp": 1792865619.0
-    },
-    {
-      "title": "Why is AI generated language so hard to understand?",
-      "link": "https://arxiv.org/abs/2610.29162",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 18:04:57 +0000",
-      "timestamp": 1792865097.0
-    },
-    {
-      "title": "I created an selfimproment AI predictions site for soccer",
-      "link": "https://road2sushi.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 18:04:42 +0000",
-      "timestamp": 1792865082.0
-    },
-    {
-      "title": "Show HN: AI Trend Video – Put your photo into viral AI video templates",
-      "link": "https://aitrendvideo.net",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 18:03:05 +0000",
-      "timestamp": 1792864985.0
-    },
-    {
-      "title": "Norwegian AI Championship 2027",
-      "link": "https://ainm.no/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 18:01:56 +0000",
-      "timestamp": 1792864916.0
-    },
-    {
-      "title": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
-      "link": "https://news.ycombinator.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 17:26:28 +0000",
-      "timestamp": 1792862788.0
-    },
-    {
-      "title": "Botchelor – a dating show where AI agents bring their own characters over MCP",
-      "link": "https://botchelor.com/gate?from=%2Fagents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 17:25:31 +0000",
-      "timestamp": 1792862731.0
-    },
-    {
-      "title": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
-      "link": "https://medium.com/@ivan_43200/i-built-a-saas-with-ai-two-months-later-i-have-zero-active-users-1e93436a5b39",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 17:25:02 +0000",
-      "timestamp": 1792862702.0
-    },
-    {
-      "title": "A sovereign AI lab on one machine in my apartment – zero cloud",
-      "link": "https://www.shuffle-on.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 17:06:44 +0000",
-      "timestamp": 1792861604.0
-    },
-    {
-      "title": "Show HN: Loböle, open-source parametric CAD that AI agents can drive",
-      "link": "https://github.com/eliasaronson/lobole",
-      "summary": "I could never get used to FreeCAD, so I built my own. It turns out Claude is really good at using it. Loböle is a parametric B-Rep CAD built on OpenCASCADE and Vulkan, with sketches, assemblies, drawings, FEM and CAM. The GUI, Python scripts and AI agents all go through the same commands, so an agent can do anything you can in the GUI. The engine, watch and bicycle in the README were each built by Claude writing a script against it.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 16:58:21 +0000",
-      "timestamp": 1792861101.0
     },
     {
       "title": "Block’s new voice model sounds eerily human",
@@ -361,15 +361,6 @@
       "source": "The Verge AI",
       "published": "2026-10-22T16:32:05-04:00",
       "timestamp": 1792701125.0
-    },
-    {
-      "title": "Meta turns Muse sharing back on",
-      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-22T16:24:04-04:00",
-      "timestamp": 1792700644.0
     },
     {
       "title": "The Social Society Helping Women Join the AI Boom",
