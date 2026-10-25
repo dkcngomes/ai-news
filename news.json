@@ -1,105 +1,186 @@
 {
-  "scraped_at": "2026-10-25T16:13:36.277198+00:00",
-  "count": 58,
+  "scraped_at": "2026-10-25T19:02:38.784218+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Human Creativity in the Age of AI [video]",
-      "link": "https://www.youtube.com/watch?v=kD5qYiLIhJc",
+      "title": "AI-Powered Automatic Lockpick Machine [video]",
+      "link": "https://www.youtube.com/watch?v=o4AUKGdScNI",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 15:42:15 +0000",
-      "timestamp": 1792942935.0
+      "published": "Sun, 25 Oct 2026 18:53:06 +0000",
+      "timestamp": 1792954386.0
     },
     {
-      "title": "Red-teaming AI agent monitors with an LLM that fakes tool outputs",
-      "link": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
+      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 15:41:09 +0000",
-      "timestamp": 1792942869.0
+      "published": "Sun, 25 Oct 2026 18:44:11 +0000",
+      "timestamp": 1792953851.0
     },
     {
-      "title": "Enjoy – A free AI creative studio for macOS, Windows, and Linux",
-      "link": "https://enjoy.dev/hn/",
+      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+      "link": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 15:39:33 +0000",
-      "timestamp": 1792942773.0
+      "published": "Sun, 25 Oct 2026 18:42:23 +0000",
+      "timestamp": 1792953743.0
     },
     {
-      "title": "If AI Can Copy Photoshop, Why Would Anyone Build the Next Figma?",
-      "link": "https://www.vincentschmalbach.com/if-ai-can-copy-photoshop-why-build-the-next-figma/",
+      "title": "Show HN: Optio – A self-hosted orchestration platform for AI agents",
+      "link": "https://optio.host/",
+      "summary": "Hey HN! I shared Optio here back in March. Originally it was focused on getting swarms of coding agents (claude code/codex) to drive PRs towards a merge by automatically resuming them on CI failures or PR comments. Since then, I've reworked the project to be a general platform for running any kind of AI workflow on your infra by allowing users to configure each component of a possible workflow: When: On demand, a cron schedule, or triggered by external events such as a webhook, slack message, ticket (jira/linear/gh), pagerduty/datadog/alertsmanager/pylon/sentry. Where: In a k8s pod or any mach",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 18:37:48 +0000",
+      "timestamp": 1792953468.0
+    },
+    {
+      "title": "Free AI education: certifications, hands-on technical courses, and resources",
+      "link": "https://www.aicertificationcouncil.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 15:20:51 +0000",
-      "timestamp": 1792941651.0
+      "published": "Sun, 25 Oct 2026 18:31:23 +0000",
+      "timestamp": 1792953083.0
     },
     {
-      "title": "Snowflake per-user quotas for capping Cortex AI spend [video]",
-      "link": "https://www.youtube.com/shorts/P4z9L17uEgk",
+      "title": "Why AI companies keep saying AI will kill us? [video]",
+      "link": "https://www.youtube.com/watch?v=Yfn8fSo9rgM",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 15:20:38 +0000",
-      "timestamp": 1792941638.0
+      "published": "Sun, 25 Oct 2026 18:27:49 +0000",
+      "timestamp": 1792952869.0
     },
     {
-      "title": "Show HN: Directory 958 inspirational artisans, craftspeople, smiths, for post-AI",
-      "link": "https://www.worldofbuilders.com/",
+      "title": "Show HN: Open Accountant – AI-customizable budgeting app for freelancers",
+      "link": "https://github.com/finereli/open-accountant",
+      "summary": "This is my own very opinionated take on personal accounting / budgeting for freelancers and small business owners operating in multiple currencies. A lot of this is influenced by my circumstances: - consultant / freelancer / business owner with multiple revenue streams - revenue fluctuates a lot and changes month to month - we're nomad, so currencies and shops change a lot, but categories stay stable - mobile and agentic first (PWA and MCP) with good desktop support on top - import from Wise, Plaid (so most banks), CSV, + screenshots and PDFs from mobile apps when all else fails - automatic ca",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 18:18:13 +0000",
+      "timestamp": 1792952293.0
+    },
+    {
+      "title": "China's first AI-generated film hits cinemas but ticket sales lag",
+      "link": "https://www.channelnewsasia.com/east-asia/china-first-ai-film-cinemas-ticket-sales-6485401",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 15:12:26 +0000",
-      "timestamp": 1792941146.0
+      "published": "Sun, 25 Oct 2026 18:16:09 +0000",
+      "timestamp": 1792952169.0
     },
     {
-      "title": "Ask HN: Can we do something about this impending AI dystopia",
-      "link": "https://news.ycombinator.com/item?id=50232407",
-      "summary": "There have been, increasingly, a large number of posts [1] on HN in the past few weeks, where developers are slowly coming to terms with the breakneck speed with which Agentic Coding has advanced in the past few months. We all agree that an average software developer today is closely resembling the horse-carriage just when automobiles were becoming mainstream around 120 years ago. And coming to HN daily and finding at least one such lament from a software engineer is becoming quite tiresome. We are all, mostly, rational thinkers and worship logic and reasoning even more than our respective god",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 15:12:10 +0000",
-      "timestamp": 1792941130.0
-    },
-    {
-      "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
-      "link": "https://reddit.com/opensource_projects",
+      "title": "Lightning.ai October 2026 Security Incident",
+      "link": "https://lightning.ai/security-incident/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 15:03:44 +0000",
-      "timestamp": 1792940624.0
+      "published": "Sun, 25 Oct 2026 18:08:32 +0000",
+      "timestamp": 1792951712.0
     },
     {
-      "title": "Can AI Make Us So Productive That It Destroys the Economy?",
-      "link": "https://www.vincentschmalbach.com/can-ai-make-us-so-productive-it-destroys-the-economy/",
+      "title": "Ask HN: Can superintelligent AI alignement be decentralized?",
+      "link": "https://news.ycombinator.com/item?id=50234251",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 14:32:18 +0000",
-      "timestamp": 1792938738.0
+      "published": "Sun, 25 Oct 2026 18:05:07 +0000",
+      "timestamp": 1792951507.0
     },
     {
-      "title": "Skyl – One Go interface for 400 AI models",
-      "link": "https://skyl-docs.vercel.app/",
+      "title": "AI Boom Looks a Lot Like the Housing Bubble",
+      "link": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 14:28:48 +0000",
-      "timestamp": 1792938528.0
+      "published": "Sun, 25 Oct 2026 18:00:28 +0000",
+      "timestamp": 1792951228.0
     },
     {
-      "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
-      "link": "https://www.phoronix.com/news/Linux-7.4-Sound",
+      "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
+      "link": "https://news.ycombinator.com/item?id=50234108",
+      "summary": "Hey guys, today I read a statistic that showed that Agentic traffic surpassed human traffic on the internet and that statistic was very shocking to me. At the same time I saw another statistic that showed only 10% of agents built, actually get into production. These two statistics seemed ironic to me. So I wondered to myself what is the major bottleneck that is causing a lot of the agents that are being built not get into production and what is the infrastructure missing to make Agentic traffic to thrive even more?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 17:52:28 +0000",
+      "timestamp": 1792950748.0
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "timestamp": 1792947452.0
+    },
+    {
+      "title": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
+      "link": "https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 14:10:31 +0000",
-      "timestamp": 1792937431.0
+      "published": "Sun, 25 Oct 2026 16:53:40 +0000",
+      "timestamp": 1792947220.0
+    },
+    {
+      "title": "Show HN: Junior – an open-source AI junior engineer that runs on your Mac",
+      "link": "https://github.com/usejunior-sh/junior",
+      "summary": "Hi HN, I'm Samar, a software engineer. I built Junior because I was spending more time fixing CI issues, babysitting PRs and resolving merge conflicts. I thought maybe i should automate all of it, and that's why I started building Junior. Junior is an agent that runs locally on macOS and picks up that kind of work. It connects with my Linear, Slack, Github etc and autopicks work for himself. It works on it and shares a report for me to review. It's open source under. I'd love feedback, especially on the permission model and how autonomous should it work. Happy to answer anything.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 16:45:33 +0000",
+      "timestamp": 1792946733.0
+    },
+    {
+      "title": "Turning real engineering stories into HBO' Silicon Valley 2.0 AI episodes",
+      "link": "https://dramadrama.ai/share-your-story/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 16:39:48 +0000",
+      "timestamp": 1792946388.0
+    },
+    {
+      "title": "A Mathematician Reads the AI Future",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 16:31:21 +0000",
+      "timestamp": 1792945881.0
+    },
+    {
+      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+      "link": "https://github.com/socrates6969/jukebox-os",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 16:29:46 +0000",
+      "timestamp": 1792945786.0
+    },
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 16:28:26 +0000",
+      "timestamp": 1792945706.0
+    },
+    {
+      "title": "Is Anybody Out There? Art in the Post-AI Era",
+      "link": "https://programmingattack.com/articles/is-anybody-out-there-art-in-the-post-ai-era/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 16:24:21 +0000",
+      "timestamp": 1792945461.0
     },
     {
       "title": "The hottest AI wearables and gadgets you should know about",
@@ -111,60 +192,6 @@
       "timestamp": 1792937400.0
     },
     {
-      "title": "Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents",
-      "link": "https://github.com/NoMac-app/simulator-use",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 14:05:18 +0000",
-      "timestamp": 1792937118.0
-    },
-    {
-      "title": "Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 13:56:49 +0000",
-      "timestamp": 1792936609.0
-    },
-    {
-      "title": "Show HN: Kolo – share your AI coding sessions with anyone",
-      "link": "https://github.com/komovaar/kolo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 13:49:15 +0000",
-      "timestamp": 1792936155.0
-    },
-    {
-      "title": "Empires of AI: The Rise and Fall of a New Global Order",
-      "link": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 13:41:46 +0000",
-      "timestamp": 1792935706.0
-    },
-    {
-      "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
-      "link": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 13:41:19 +0000",
-      "timestamp": 1792935679.0
-    },
-    {
-      "title": "To make AI morally good, tech companies are turning to religion",
-      "link": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 13:29:41 +0000",
-      "timestamp": 1792934981.0
-    },
-    {
       "title": "r/opensource just banned AI, non-English speakers, and more",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
       "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source [&#8230;]",
@@ -172,15 +199,6 @@
       "source": "The Verge AI",
       "published": "2026-10-25T09:25:32-04:00",
       "timestamp": 1792934732.0
-    },
-    {
-      "title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
-      "link": "https://github.com/insanai/ccm",
-      "summary": "I worked a lot with cloc, sloc and scc and used them in various prohects. But with AI driven development some of the models COCOMO I and II might not be applicable. So built a new cli ccm short for code counter machine with new calculation model which estimate the new AI driven development costs. The formula, logic and the estimates used are there in the docs. Documentation: https://insanai.github.io/ccm/",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 13:13:26 +0000",
-      "timestamp": 1792934006.0
     },
     {
       "title": "Google’s AI search changes upended online publishing",
@@ -451,15 +469,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 13:53:26 +0000",
       "timestamp": 1792677206.0
-    },
-    {
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 22 Oct 2026 13:26:52 +0000",
-      "timestamp": 1792675612.0
     },
     {
       "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
