@@ -1,7 +1,142 @@
 {
-  "scraped_at": "2026-10-25T19:02:38.784218+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-25T21:45:13.076491+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "China increasingly depends on copying American AI",
+      "link": "https://economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 21:41:29 +0000",
+      "timestamp": 1792964489.0
+    },
+    {
+      "title": "Report says 'circular financing' shows AI bubble 'primed to pop'",
+      "link": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 21:36:09 +0000",
+      "timestamp": 1792964169.0
+    },
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 25 Oct 2026 21:31:16 +0000",
+      "timestamp": 1792963876.0
+    },
+    {
+      "title": "Crawlerpeek – check which AI crawlers your site lets in (CLI, MCP)",
+      "link": "https://github.com/crawlerpeek/crawlerpeek",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 21:11:05 +0000",
+      "timestamp": 1792962665.0
+    },
+    {
+      "title": "Struggling to Keep AI Out",
+      "link": "https://blog.eunach.scot/struggling-to-keep-ai-out",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 20:47:39 +0000",
+      "timestamp": 1792961259.0
+    },
+    {
+      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+      "link": "https://github.com/SRN0129/Agenttrust",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 20:46:50 +0000",
+      "timestamp": 1792961210.0
+    },
+    {
+      "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
+      "link": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 20:44:07 +0000",
+      "timestamp": 1792961047.0
+    },
+    {
+      "title": "I Let AI Port an Xbox 360 Game to PC (and It Worked) [video]",
+      "link": "https://www.youtube.com/watch?v=rojjkW74d-k",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 20:16:46 +0000",
+      "timestamp": 1792959406.0
+    },
+    {
+      "title": "AI and Humans: The Three-Speed Problem",
+      "link": "https://www.fasttrackfemme.com/p/ai-humans-the-three-speed-problem",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 20:16:13 +0000",
+      "timestamp": 1792959373.0
+    },
+    {
+      "title": "The Power Grab of the AI Doomers",
+      "link": "https://www.aipanic.news/p/the-power-grab-of-the-ai-doomers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 20:01:52 +0000",
+      "timestamp": 1792958512.0
+    },
+    {
+      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
+      "link": "https://theaioperatorstore.gumroad.com/l/womuyx",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 19:54:45 +0000",
+      "timestamp": 1792958085.0
+    },
+    {
+      "title": "Show HN: Hycli – reverse-engineer websites into CLI and MCP tools for AI agents",
+      "link": "https://github.com/Hybirdss/Hycli",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 19:51:45 +0000",
+      "timestamp": 1792957905.0
+    },
+    {
+      "title": "Reclaim disk space with an AI agent",
+      "link": "https://github.com/riza/ai-disk-cleanup",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 19:31:08 +0000",
+      "timestamp": 1792956668.0
+    },
+    {
+      "title": "People are using AI to 'dumb down' their smart TVs. Is that a good idea?",
+      "link": "https://www.cbc.ca/news/world/ai-coding-hack-smart-tvs-9.7392179",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 19:10:53 +0000",
+      "timestamp": 1792955453.0
+    },
+    {
+      "title": "The Question After the Answer: AI prediction and human autonomy",
+      "link": "https://aegissolisarchive.org/the-question-after-the-answer/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 18:58:04 +0000",
+      "timestamp": 1792954684.0
+    },
     {
       "title": "AI-Powered Automatic Lockpick Machine [video]",
       "link": "https://www.youtube.com/watch?v=o4AUKGdScNI",
@@ -57,60 +192,6 @@
       "timestamp": 1792952869.0
     },
     {
-      "title": "Show HN: Open Accountant – AI-customizable budgeting app for freelancers",
-      "link": "https://github.com/finereli/open-accountant",
-      "summary": "This is my own very opinionated take on personal accounting / budgeting for freelancers and small business owners operating in multiple currencies. A lot of this is influenced by my circumstances: - consultant / freelancer / business owner with multiple revenue streams - revenue fluctuates a lot and changes month to month - we're nomad, so currencies and shops change a lot, but categories stay stable - mobile and agentic first (PWA and MCP) with good desktop support on top - import from Wise, Plaid (so most banks), CSV, + screenshots and PDFs from mobile apps when all else fails - automatic ca",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:18:13 +0000",
-      "timestamp": 1792952293.0
-    },
-    {
-      "title": "China's first AI-generated film hits cinemas but ticket sales lag",
-      "link": "https://www.channelnewsasia.com/east-asia/china-first-ai-film-cinemas-ticket-sales-6485401",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:16:09 +0000",
-      "timestamp": 1792952169.0
-    },
-    {
-      "title": "Lightning.ai October 2026 Security Incident",
-      "link": "https://lightning.ai/security-incident/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:08:32 +0000",
-      "timestamp": 1792951712.0
-    },
-    {
-      "title": "Ask HN: Can superintelligent AI alignement be decentralized?",
-      "link": "https://news.ycombinator.com/item?id=50234251",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:05:07 +0000",
-      "timestamp": 1792951507.0
-    },
-    {
-      "title": "AI Boom Looks a Lot Like the Housing Bubble",
-      "link": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:00:28 +0000",
-      "timestamp": 1792951228.0
-    },
-    {
-      "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
-      "link": "https://news.ycombinator.com/item?id=50234108",
-      "summary": "Hey guys, today I read a statistic that showed that Agentic traffic surpassed human traffic on the internet and that statistic was very shocking to me. At the same time I saw another statistic that showed only 10% of agents built, actually get into production. These two statistics seemed ironic to me. So I wondered to myself what is the major bottleneck that is causing a lot of the agents that are being built not get into production and what is the infrastructure missing to make Agentic traffic to thrive even more?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 17:52:28 +0000",
-      "timestamp": 1792950748.0
-    },
-    {
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
@@ -118,69 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 25 Oct 2026 16:57:32 +0000",
       "timestamp": 1792947452.0
-    },
-    {
-      "title": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
-      "link": "https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 16:53:40 +0000",
-      "timestamp": 1792947220.0
-    },
-    {
-      "title": "Show HN: Junior – an open-source AI junior engineer that runs on your Mac",
-      "link": "https://github.com/usejunior-sh/junior",
-      "summary": "Hi HN, I'm Samar, a software engineer. I built Junior because I was spending more time fixing CI issues, babysitting PRs and resolving merge conflicts. I thought maybe i should automate all of it, and that's why I started building Junior. Junior is an agent that runs locally on macOS and picks up that kind of work. It connects with my Linear, Slack, Github etc and autopicks work for himself. It works on it and shares a report for me to review. It's open source under. I'd love feedback, especially on the permission model and how autonomous should it work. Happy to answer anything.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 16:45:33 +0000",
-      "timestamp": 1792946733.0
-    },
-    {
-      "title": "Turning real engineering stories into HBO' Silicon Valley 2.0 AI episodes",
-      "link": "https://dramadrama.ai/share-your-story/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 16:39:48 +0000",
-      "timestamp": 1792946388.0
-    },
-    {
-      "title": "A Mathematician Reads the AI Future",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 16:31:21 +0000",
-      "timestamp": 1792945881.0
-    },
-    {
-      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-      "link": "https://github.com/socrates6969/jukebox-os",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 16:29:46 +0000",
-      "timestamp": 1792945786.0
-    },
-    {
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 16:28:26 +0000",
-      "timestamp": 1792945706.0
-    },
-    {
-      "title": "Is Anybody Out There? Art in the Post-AI Era",
-      "link": "https://programmingattack.com/articles/is-anybody-out-there-art-in-the-post-ai-era/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 16:24:21 +0000",
-      "timestamp": 1792945461.0
     },
     {
       "title": "The hottest AI wearables and gadgets you should know about",
@@ -408,18 +426,18 @@
       "timestamp": 1792696029.0
     },
     {
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "timestamp": 1792695600.0
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
@@ -460,15 +478,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 15:03:58 +0000",
       "timestamp": 1792681438.0
-    },
-    {
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 22 Oct 2026 13:53:26 +0000",
-      "timestamp": 1792677206.0
     },
     {
       "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
