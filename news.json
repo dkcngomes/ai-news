@@ -1,24 +1,195 @@
 {
-  "scraped_at": "2026-10-25T11:22:33.822217+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-25T16:13:36.277198+00:00",
+  "count": 58,
   "items": [
     {
-      "title": "Show HN: Echoboard where AI agents do science and humans only watch",
-      "link": "https://jevontane.com/echoboard/",
+      "title": "Human Creativity in the Age of AI [video]",
+      "link": "https://www.youtube.com/watch?v=kD5qYiLIhJc",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 10:18:31 +0000",
-      "timestamp": 1792923511.0
+      "published": "Sun, 25 Oct 2026 15:42:15 +0000",
+      "timestamp": 1792942935.0
     },
     {
-      "title": "The design skill that ends AI slop",
-      "link": "https://github.com/Nutlope/hallmark",
+      "title": "Red-teaming AI agent monitors with an LLM that fakes tool outputs",
+      "link": "https://www.redwoodresearch.org/blog/simulated-control-evaluations",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 10:18:22 +0000",
-      "timestamp": 1792923502.0
+      "published": "Sun, 25 Oct 2026 15:41:09 +0000",
+      "timestamp": 1792942869.0
+    },
+    {
+      "title": "Enjoy – A free AI creative studio for macOS, Windows, and Linux",
+      "link": "https://enjoy.dev/hn/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 15:39:33 +0000",
+      "timestamp": 1792942773.0
+    },
+    {
+      "title": "If AI Can Copy Photoshop, Why Would Anyone Build the Next Figma?",
+      "link": "https://www.vincentschmalbach.com/if-ai-can-copy-photoshop-why-build-the-next-figma/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 15:20:51 +0000",
+      "timestamp": 1792941651.0
+    },
+    {
+      "title": "Snowflake per-user quotas for capping Cortex AI spend [video]",
+      "link": "https://www.youtube.com/shorts/P4z9L17uEgk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 15:20:38 +0000",
+      "timestamp": 1792941638.0
+    },
+    {
+      "title": "Show HN: Directory 958 inspirational artisans, craftspeople, smiths, for post-AI",
+      "link": "https://www.worldofbuilders.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 15:12:26 +0000",
+      "timestamp": 1792941146.0
+    },
+    {
+      "title": "Ask HN: Can we do something about this impending AI dystopia",
+      "link": "https://news.ycombinator.com/item?id=50232407",
+      "summary": "There have been, increasingly, a large number of posts [1] on HN in the past few weeks, where developers are slowly coming to terms with the breakneck speed with which Agentic Coding has advanced in the past few months. We all agree that an average software developer today is closely resembling the horse-carriage just when automobiles were becoming mainstream around 120 years ago. And coming to HN daily and finding at least one such lament from a software engineer is becoming quite tiresome. We are all, mostly, rational thinkers and worship logic and reasoning even more than our respective god",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 15:12:10 +0000",
+      "timestamp": 1792941130.0
+    },
+    {
+      "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
+      "link": "https://reddit.com/opensource_projects",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 15:03:44 +0000",
+      "timestamp": 1792940624.0
+    },
+    {
+      "title": "Can AI Make Us So Productive That It Destroys the Economy?",
+      "link": "https://www.vincentschmalbach.com/can-ai-make-us-so-productive-it-destroys-the-economy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 14:32:18 +0000",
+      "timestamp": 1792938738.0
+    },
+    {
+      "title": "Skyl – One Go interface for 400 AI models",
+      "link": "https://skyl-docs.vercel.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 14:28:48 +0000",
+      "timestamp": 1792938528.0
+    },
+    {
+      "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
+      "link": "https://www.phoronix.com/news/Linux-7.4-Sound",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 14:10:31 +0000",
+      "timestamp": 1792937431.0
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 25 Oct 2026 14:10:00 +0000",
+      "timestamp": 1792937400.0
+    },
+    {
+      "title": "Show HN: The fastest, most token-efficient iOS Simulator MCP for AI agents",
+      "link": "https://github.com/NoMac-app/simulator-use",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 14:05:18 +0000",
+      "timestamp": 1792937118.0
+    },
+    {
+      "title": "Apollo's Slok Says AI Has Delivered Zero Payoff Outside of Tech",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 13:56:49 +0000",
+      "timestamp": 1792936609.0
+    },
+    {
+      "title": "Show HN: Kolo – share your AI coding sessions with anyone",
+      "link": "https://github.com/komovaar/kolo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 13:49:15 +0000",
+      "timestamp": 1792936155.0
+    },
+    {
+      "title": "Empires of AI: The Rise and Fall of a New Global Order",
+      "link": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 13:41:46 +0000",
+      "timestamp": 1792935706.0
+    },
+    {
+      "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+      "link": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 13:41:19 +0000",
+      "timestamp": 1792935679.0
+    },
+    {
+      "title": "To make AI morally good, tech companies are turning to religion",
+      "link": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 13:29:41 +0000",
+      "timestamp": 1792934981.0
+    },
+    {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-25T09:25:32-04:00",
+      "timestamp": 1792934732.0
+    },
+    {
+      "title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
+      "link": "https://github.com/insanai/ccm",
+      "summary": "I worked a lot with cloc, sloc and scc and used them in various prohects. But with AI driven development some of the models COCOMO I and II might not be applicable. So built a new cli ccm short for code counter machine with new calculation model which estimate the new AI driven development costs. The formula, logic and the estimates used are there in the docs. Documentation: https://insanai.github.io/ccm/",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 13:13:26 +0000",
+      "timestamp": 1792934006.0
+    },
+    {
+      "title": "Google’s AI search changes upended online publishing",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-25T08:00:00-04:00",
+      "timestamp": 1792929600.0
     },
     {
       "title": "What the US Movement Against Data Centers Can Learn From Abroad",
@@ -28,168 +199,6 @@
       "source": "Wired AI",
       "published": "Sun, 25 Oct 2026 10:00:00 +0000",
       "timestamp": 1792922400.0
-    },
-    {
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 09:51:17 +0000",
-      "timestamp": 1792921877.0
-    },
-    {
-      "title": "An artist's take on AI in math",
-      "link": "https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 09:50:22 +0000",
-      "timestamp": 1792921822.0
-    },
-    {
-      "title": "The AI and Steve Strogatz",
-      "link": "https://cultureandcompass.substack.com/p/the-ai-and-steve-strogatz",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 09:48:23 +0000",
-      "timestamp": 1792921703.0
-    },
-    {
-      "title": "Bill Gates warns the 'evolutionary' age of AI will be brutal for workers",
-      "link": "https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 09:19:04 +0000",
-      "timestamp": 1792919944.0
-    },
-    {
-      "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
-      "link": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 09:15:56 +0000",
-      "timestamp": 1792919756.0
-    },
-    {
-      "title": "AI writes the code. So what's left for Engineers?",
-      "link": "https://www.youtube.com/watch?v=kspZP5BgkEU",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 08:52:03 +0000",
-      "timestamp": 1792918323.0
-    },
-    {
-      "title": "Show HN: AI:Predict, Retrieve, Generate, Recommend, Decide, Act, and Orchestrate",
-      "link": "https://www.researchgate.net/publication/415644138_EASCM_White_Paper_Luthera_2026_v10",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 08:42:21 +0000",
-      "timestamp": 1792917741.0
-    },
-    {
-      "title": "The Surprising Popularity of AI",
-      "link": "https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 08:38:59 +0000",
-      "timestamp": 1792917539.0
-    },
-    {
-      "title": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
-      "link": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 08:21:40 +0000",
-      "timestamp": 1792916500.0
-    },
-    {
-      "title": "Making the case for context-aware AI",
-      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 08:20:56 +0000",
-      "timestamp": 1792916456.0
-    },
-    {
-      "title": "How Bad Is AI History Content? [video]",
-      "link": "https://www.youtube.com/watch?v=iIm3f1qTvp8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 07:51:59 +0000",
-      "timestamp": 1792914719.0
-    },
-    {
-      "title": "Games can now be merged with AI",
-      "link": "https://melty.gg",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 07:22:43 +0000",
-      "timestamp": 1792912963.0
-    },
-    {
-      "title": "AI Detection Is Set to Transform Live Streaming",
-      "link": "https://www.red5.net/blog/ai-detection-is-set-to-transform-live-streaming/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 07:15:51 +0000",
-      "timestamp": 1792912551.0
-    },
-    {
-      "title": "TaskWire An MCP-based taskboard for managing AI agent workflows",
-      "link": "https://taskwire.si",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 06:44:53 +0000",
-      "timestamp": 1792910693.0
-    },
-    {
-      "title": "Free SEO audit and AI search tools. No sign-up",
-      "link": "https://seowins.net/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 06:39:46 +0000",
-      "timestamp": 1792910386.0
-    },
-    {
-      "title": "AI Is Rotting Your Brain [video]",
-      "link": "https://www.youtube.com/watch?v=ZumXpZzDsgo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 06:38:17 +0000",
-      "timestamp": 1792910297.0
-    },
-    {
-      "title": "Kevin Kelly – We don't want the best AI, we want the only AI",
-      "link": "https://kevinkelly.substack.com/p/most-improbable-agent-of-you",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 03:53:52 +0000",
-      "timestamp": 1792900432.0
-    },
-    {
-      "title": "Tokens aren't valuable: No more AI",
-      "link": "https://www.reddit.com/r/opensource/s/Vmk5Fd1N8H",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 03:25:18 +0000",
-      "timestamp": 1792898718.0
     },
     {
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
@@ -363,24 +372,6 @@
       "timestamp": 1792706904.0
     },
     {
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-22T17:51:25-04:00",
-      "timestamp": 1792705885.0
-    },
-    {
-      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-22T16:32:05-04:00",
-      "timestamp": 1792701125.0
-    },
-    {
       "title": "The Social Society Helping Women Join the AI Boom",
       "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
       "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
@@ -469,15 +460,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 13:26:52 +0000",
       "timestamp": 1792675612.0
-    },
-    {
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 22 Oct 2026 13:11:13 +0000",
-      "timestamp": 1792674673.0
     },
     {
       "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
