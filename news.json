@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-10-25T01:07:56.522127+00:00",
+  "scraped_at": "2026-10-25T06:05:13.980133+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "Kevin Kelly – We don't want the best AI, we want the only AI",
+      "link": "https://kevinkelly.substack.com/p/most-improbable-agent-of-you",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 03:53:52 +0000",
+      "timestamp": 1792900432.0
+    },
+    {
+      "title": "Tokens aren't valuable: No more AI",
+      "link": "https://www.reddit.com/r/opensource/s/Vmk5Fd1N8H",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 03:25:18 +0000",
+      "timestamp": 1792898718.0
+    },
+    {
+      "title": "Show HN: AI Heat Map Sourced from over 140 News Feeds",
+      "link": "https://ai.jagular.io",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 03:25:15 +0000",
+      "timestamp": 1792898715.0
+    },
+    {
+      "title": "Show HN: Close the UI building AI agent loop with Protoshot",
+      "link": "https://npmjs.com/protoshot",
+      "summary": "Protoshot scans your css files and components and lets you write just some JSX to preview it. A much simpler setup than having to orchestrate agent-browser or puppeteer instance for just seeing what UI looks like.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 03:10:26 +0000",
+      "timestamp": 1792897826.0
+    },
+    {
+      "title": "UK government sets out $800M of AI security funding",
+      "link": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 03:00:56 +0000",
+      "timestamp": 1792897256.0
+    },
+    {
+      "title": "Break It on Purpose: an AI pipeline that triages and fixes its own bugs",
+      "link": "https://zontakllc.com/articles/break-it-on-purpose",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 02:28:51 +0000",
+      "timestamp": 1792895331.0
+    },
+    {
+      "title": "Show HN: AI Senate – AI senators debate live policy and vote on the record",
+      "link": "https://aisenatus.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 02:15:29 +0000",
+      "timestamp": 1792894529.0
+    },
+    {
+      "title": "AI Performance in the Security Theater",
+      "link": "https://bykozy.me/blog/ai-performance-at-the-security-theater/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 01:54:28 +0000",
+      "timestamp": 1792893268.0
+    },
+    {
+      "title": "OneMemory – self-hosted shared memory for AI agents over MCP",
+      "link": "https://github.com/calasdan-sketch/onememory",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 01:54:19 +0000",
+      "timestamp": 1792893259.0
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 01:33:49 +0000",
+      "timestamp": 1792892029.0
+    },
+    {
+      "title": "Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21",
+      "link": "https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 01:21:49 +0000",
+      "timestamp": 1792891309.0
+    },
     {
       "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
       "link": "https://adrs.systems",
@@ -39,7 +138,7 @@
       "timestamp": 1792883701.0
     },
     {
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "summary": "",
       "image": null,
@@ -82,105 +181,6 @@
       "source": "The Verge AI",
       "published": "2026-10-24T17:29:12-04:00",
       "timestamp": 1792877352.0
-    },
-    {
-      "title": "Ask HN: Any real cases where AI slop ruined a codebase and forced a rewrite?",
-      "link": "https://news.ycombinator.com/item?id=50225469",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 21:23:44 +0000",
-      "timestamp": 1792877024.0
-    },
-    {
-      "title": "Making My Blog Readable by AI Agents",
-      "link": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 21:21:33 +0000",
-      "timestamp": 1792876893.0
-    },
-    {
-      "title": "Sevenbox, find what an AI agent's wrong decision affected",
-      "link": "https://github.com/sevenboxlabs/sevenbox",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 21:09:47 +0000",
-      "timestamp": 1792876187.0
-    },
-    {
-      "title": "How AI is transforming economic research and analysis",
-      "link": "https://www.axios.com/2026/10/23/ai-economic-research-analysis",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 20:50:56 +0000",
-      "timestamp": 1792875056.0
-    },
-    {
-      "title": "Which AI in UX or HCI conference is in your radar for 2027?",
-      "link": "https://www.uxness.in/2026/08/top-ux-conferences-to-attend-in-2027.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 20:48:44 +0000",
-      "timestamp": 1792874924.0
-    },
-    {
-      "title": "Decompiling Games with AI: Virtueel Zoetermeer",
-      "link": "https://bou.ke/blog/zoetermeer/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 20:44:09 +0000",
-      "timestamp": 1792874649.0
-    },
-    {
-      "title": "An explosion of AI-powered hacks will reshape life online",
-      "link": "https://www.theatlantic.com/technology/2026/10/the-safe-internet-is-shrinking/689130/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 20:35:23 +0000",
-      "timestamp": 1792874123.0
-    },
-    {
-      "title": "AI agents, in separate VMs without network, communicated through the CPU cache",
-      "link": "https://twitter.com/rynorhn/status/2113757656498196605",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 20:28:50 +0000",
-      "timestamp": 1792873730.0
-    },
-    {
-      "title": "Will AI stop us getting ripped off?",
-      "link": "https://www.optimallyirrational.com/p/will-ai-stop-us-getting-ripped-off",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 20:01:53 +0000",
-      "timestamp": 1792872113.0
-    },
-    {
-      "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 19:59:51 +0000",
-      "timestamp": 1792871991.0
-    },
-    {
-      "title": "No signs of AI payoff outside the tech sector",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 24 Oct 2026 19:47:19 +0000",
-      "timestamp": 1792871239.0
     },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -381,18 +381,18 @@
       "timestamp": 1792696029.0
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "timestamp": 1792695600.0
     },
     {
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
