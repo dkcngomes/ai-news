@@ -1,168 +1,285 @@
 {
-  "scraped_at": "2026-10-26T12:56:49.178983+00:00",
-  "count": 58,
+  "scraped_at": "2026-10-26T19:16:29.985472+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "AegisKernel – OS syscall interceptor for AI agents (<0.016ms)",
-      "link": "https://news.ycombinator.com/item?id=50242712",
-      "summary": "Hi HN, I’m building AegisKernel, an open-source deterministic capability boundary for autonomous AI agents (CrewAI, LangChain, Claude Agent SDK, AutoGen). GitHub: https://github.com/adikshatriyag-crypto/aegis-kernel Live Demo / Sandbox: https://adikshatriyag-crypto.github.io/aegis-kernel/ PyPI: pip install aegis-kernel The Problem: Autonomous agents with terminal or bash execution permissions have unrestricted access to the host OS. When LLMs encounter indirect prompt injections or multi-turn jailbreaks, prompt-based guardrails consistently fail because the LLM is evaluated in token-space. An ",
+      "title": "Ask HN: What are your career plans in the age of AI?",
+      "link": "https://news.ycombinator.com/item?id=50249194",
+      "summary": "I expect more and more professions getting affected in the next 3 to 5 years, not all on the positive side. Software dev is already changing. What are your plans? Are you planning to quit software altogether? Or stop coding and adapt, accept AI but stay in software field? Or something else? If you’re not in software, what plans then? It would be helpful if you can include what career level are you at (or age range, if you prefer)",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:48:00 +0000",
-      "timestamp": 1793018880.0
+      "published": "Mon, 26 Oct 2026 19:00:26 +0000",
+      "timestamp": 1793041226.0
     },
     {
-      "title": "I wrote a chess engine and still can't play chess: AI coding and skill decay",
-      "link": "https://www.youtube.com/watch?v=DJa1JGji2V0",
+      "title": "Michigan prof creates Python-like Jac language for AI agents",
+      "link": "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:40:34 +0000",
-      "timestamp": 1793018434.0
+      "published": "Mon, 26 Oct 2026 18:31:10 +0000",
+      "timestamp": 1793039470.0
     },
     {
-      "title": "Stackoverflow for AI Agents",
-      "link": "https://agentoverflow.aphantic.skinticals.com/",
+      "title": "Four Direct, Reasonable, and Important AI Questions",
+      "link": "https://freddiedeboer.substack.com/p/four-direct-reasonable-and-important",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:35:45 +0000",
-      "timestamp": 1793018145.0
+      "published": "Mon, 26 Oct 2026 18:26:39 +0000",
+      "timestamp": 1793039199.0
     },
     {
-      "title": "Code.org's Excellent Beginner Programming Courses Get Lost in the AI Hype",
-      "link": "https://news.ycombinator.com/item?id=50242573",
-      "summary": "I’m a computer science teacher. I recognize that AI can do useful programming. What worries me, however, is that all the hype surrounding AI is crowding out the learning of programming. \"Prompting\" is not programming. I’ve often recommended Code.org, with its memorable name. Their \"Introduction to Computer Science\" courses are among the best beginner programming courses I know. But since the platform was rebranded as CodeAI, they’ve been getting lost amid all the AI-related content. https://code.org/curriculum/computer-science-fundamentals",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:33:46 +0000",
-      "timestamp": 1793018026.0
-    },
-    {
-      "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
-      "link": "https://github.com/goyohan0611-png/graph-mind",
+      "title": "Plan for AI-run companies challenged by US lawmakers",
+      "link": "https://www.ft.com/content/d5021cdf-816e-4cb9-bbf9-e4ba816a004f",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:30:12 +0000",
-      "timestamp": 1793017812.0
+      "published": "Mon, 26 Oct 2026 18:26:01 +0000",
+      "timestamp": 1793039161.0
     },
     {
-      "title": "Show HN: Managing AI Models After Launch-Versioning, Evaluations, and Fallbacks",
-      "link": "https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:27:55 +0000",
-      "timestamp": 1793017675.0
+      "published": "Mon, 26 Oct 2026 18:16:01 +0000",
+      "timestamp": 1793038561.0
     },
     {
-      "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
-      "link": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
+      "title": "SpaceX closes $40B debt deal for AI chips",
+      "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:20:05 +0000",
-      "timestamp": 1793017205.0
+      "published": "Mon, 26 Oct 2026 17:59:53 +0000",
+      "timestamp": 1793037593.0
     },
     {
-      "title": "IDHN – Task-scoped filesystem permissions for AI coding agents",
-      "link": "https://github.com/mohsa/idhn",
+      "title": "Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI Compute",
+      "link": "https://teslanorth.com/2026/10/26/anthropic-s1-spacex-120b-compute/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:18:52 +0000",
-      "timestamp": 1793017132.0
+      "published": "Mon, 26 Oct 2026 17:59:23 +0000",
+      "timestamp": 1793037563.0
     },
     {
-      "title": "Show HN: AI Watermark Scrambler, blur statistical LLM text watermarks locally",
-      "link": "https://github.com/novatechflow/ai-watermark-scrambler",
+      "title": "Using AI Verification and Fix Loop for IaC (Terraform, OpenTofu, Pulumi)",
+      "link": "https://masterpoint.io/blog/ai-verification-fix-loop-iac/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:08:58 +0000",
-      "timestamp": 1793016538.0
+      "published": "Mon, 26 Oct 2026 17:34:31 +0000",
+      "timestamp": 1793036071.0
     },
     {
-      "title": "Meta Plans to Raise Up to $95B for AI Push",
-      "link": "https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e",
+      "title": "Show HN: Portable, signed agreements for AI agents",
+      "link": "https://covenant-common.github.io/covenant-docs/",
+      "summary": "Hi team, Have been working on something to help agents draft complex agreements with other agents and also have a way to figure out if agreements have been upheld, revise existing agreements, make payments and hold monies in escrow, resort to evidence elsewhere etc. and store this on the blockchain or any other place. I've attached some docs explaining what it does if of interest pls reach out to the email therein. Best JS",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 17:32:24 +0000",
+      "timestamp": 1793035944.0
+    },
+    {
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-26T13:30:55-04:00",
+      "timestamp": 1793035855.0
+    },
+    {
+      "title": "Thyonix – Find Local Businesses Without Websites and Build AI-Powered Demos",
+      "link": "https://www.thyonix.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:01:59 +0000",
-      "timestamp": 1793016119.0
+      "published": "Mon, 26 Oct 2026 17:20:46 +0000",
+      "timestamp": 1793035246.0
     },
     {
-      "title": "Nobody Could Say Which AI Agent Did It",
-      "link": "https://www.anuclei.com/blog/nobody-could-say-which-agent-did-it",
+      "title": "Microsoft HAX Toolkit: Guidelines and Tools for Human-AI Interaction",
+      "link": "https://www.microsoft.com/en-us/haxtoolkit/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 12:01:50 +0000",
-      "timestamp": 1793016110.0
+      "published": "Mon, 26 Oct 2026 17:12:29 +0000",
+      "timestamp": 1793034749.0
     },
     {
-      "title": "Anthropic's Claude AI model accessed Georgia voter data in US",
-      "link": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees in AI efficiency push",
+      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 11:48:22 +0000",
-      "timestamp": 1793015302.0
+      "published": "Mon, 26 Oct 2026 17:11:35 +0000",
+      "timestamp": 1793034695.0
     },
     {
-      "title": "AI Scope Creep and Productivity",
-      "link": "https://ayende.com/blog/204195-a/ai-scope-creep-productivity",
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-26T13:10:23-04:00",
+      "timestamp": 1793034623.0
+    },
+    {
+      "title": "What end-to-end AI systems mean for the future of assisted and automated driving",
+      "link": "https://www.aptiv.com/en/insights/article/q-a-from-modular-software-to-end-to-end-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 11:39:30 +0000",
-      "timestamp": 1793014770.0
+      "published": "Mon, 26 Oct 2026 17:07:19 +0000",
+      "timestamp": 1793034439.0
     },
     {
-      "title": "Show HN: Ankita v2.7.1 – desktop AI companion with undo",
-      "link": "https://github.com/akyourowngames/A.N.K.I.T.A/releases/tag/v2.7.1",
+      "title": "Free AI education: certifications, hands-on technical courses, and resources",
+      "link": "https://www.aicertificationcouncil.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 11:14:26 +0000",
-      "timestamp": 1793013266.0
+      "published": "Mon, 26 Oct 2026 17:07:08 +0000",
+      "timestamp": 1793034428.0
     },
     {
-      "title": "AI Is Making Verification the Bottleneck for Companies",
-      "link": "https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies",
+      "title": "Private Tests, Public Code: Protecting Stalwart from AI Clones",
+      "link": "https://stalw.art/blog/protecting-stalwart/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 11:14:19 +0000",
-      "timestamp": 1793013259.0
+      "published": "Mon, 26 Oct 2026 16:53:39 +0000",
+      "timestamp": 1793033619.0
     },
     {
-      "title": "Build your first AI agent from scratch in Python: a web research agent",
-      "link": "https://github.com/iayanpahwa/research-agent-from-scratch",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 26 Oct 2026 16:49:42 +0000",
+      "timestamp": 1793033382.0
+    },
+    {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 26 Oct 2026 16:46:36 +0000",
+      "timestamp": 1793033196.0
+    },
+    {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 11:13:18 +0000",
-      "timestamp": 1793013198.0
+      "published": "Mon, 26 Oct 2026 16:40:28 +0000",
+      "timestamp": 1793032828.0
     },
     {
-      "title": "Show HN: Retro AI Concept",
-      "link": "https://airetro.vercel.app",
+      "title": "I'm all for AI, but art should stay ours",
+      "link": "https://programmingattack.com/articles/is-anybody-out-there-art-in-the-post-ai-era/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 11:09:32 +0000",
-      "timestamp": 1793012972.0
+      "published": "Mon, 26 Oct 2026 16:38:00 +0000",
+      "timestamp": 1793032680.0
     },
     {
-      "title": "Cleanyourtv.ai",
-      "link": "https://cleanyourtv.ai/",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 10:58:52 +0000",
-      "timestamp": 1793012332.0
+      "published": "Mon, 26 Oct 2026 16:35:44 +0000",
+      "timestamp": 1793032544.0
+    },
+    {
+      "title": "Humanlayer: Way to get AI coding agents in complex codebases",
+      "link": "https://github.com/humanlayer/humanlayer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 16:32:14 +0000",
+      "timestamp": 1793032334.0
+    },
+    {
+      "title": "Anthropic Files for IPO That Could Value AI Firm at Up to $2T",
+      "link": "https://meridian.news/p/5165819640925503938/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 16:17:00 +0000",
+      "timestamp": 1793031420.0
+    },
+    {
+      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+      "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+      "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 26 Oct 2026 16:01:55 +0000",
+      "timestamp": 1793030515.0
+    },
+    {
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-26T11:58:27-04:00",
+      "timestamp": 1793030307.0
+    },
+    {
+      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+      "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 26 Oct 2026 14:50:47 +0000",
+      "timestamp": 1793026247.0
+    },
+    {
+      "title": "Anthropic officially files for its public debut",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 26 Oct 2026 14:35:22 +0000",
+      "timestamp": 1793025322.0
+    },
+    {
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-26T10:00:00-04:00",
+      "timestamp": 1793023200.0
+    },
+    {
+      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-26T09:32:49-04:00",
+      "timestamp": 1793021569.0
+    },
+    {
+      "title": "Can AI help solve the COBOL code crisis?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-26T09:15:00-04:00",
+      "timestamp": 1793020500.0
     },
     {
       "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
@@ -246,6 +363,15 @@
       "timestamp": 1792877352.0
     },
     {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "timestamp": 1792872933.0
+    },
+    {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -300,7 +426,7 @@
       "timestamp": 1792843200.0
     },
     {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
       "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
       "image": null,
@@ -318,24 +444,6 @@
       "timestamp": 1792792759.0
     },
     {
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-23T17:11:07-04:00",
-      "timestamp": 1792789867.0
-    },
-    {
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-23T15:32:39-04:00",
-      "timestamp": 1792783959.0
-    },
-    {
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
       "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
       "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
@@ -343,42 +451,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 23 Oct 2026 19:06:23 +0000",
       "timestamp": 1792782383.0
-    },
-    {
-      "title": "The iPhone Duo should have been an iPad",
-      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-23T13:00:18-04:00",
-      "timestamp": 1792774818.0
-    },
-    {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-23T12:52:55-04:00",
-      "timestamp": 1792774375.0
-    },
-    {
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-23T10:47:41-04:00",
-      "timestamp": 1792766861.0
-    },
-    {
-      "title": "Retro gaming is being overrun with AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-23T08:00:00-04:00",
-      "timestamp": 1792756800.0
     },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
@@ -426,15 +498,6 @@
       "timestamp": 1792696029.0
     },
     {
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "timestamp": 1792695600.0
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
@@ -444,40 +507,13 @@
       "timestamp": 1792695600.0
     },
     {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "image": null,
       "source": "TechCrunch AI",
-      "published": "Thu, 22 Oct 2026 18:43:53 +0000",
-      "timestamp": 1792694633.0
-    },
-    {
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 22 Oct 2026 16:47:17 +0000",
-      "timestamp": 1792687637.0
-    },
-    {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 22 Oct 2026 16:00:00 +0000",
-      "timestamp": 1792684800.0
-    },
-    {
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 22 Oct 2026 15:03:58 +0000",
-      "timestamp": 1792681438.0
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "timestamp": 1792695600.0
     },
     {
       "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
@@ -505,24 +541,6 @@
       "source": "Wired AI",
       "published": "Thu, 22 Oct 2026 02:24:17 +0000",
       "timestamp": 1792635857.0
-    },
-    {
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 21 Oct 2026 22:39:50 +0000",
-      "timestamp": 1792622390.0
-    },
-    {
-      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-      "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 21 Oct 2026 16:00:00 +0000",
-      "timestamp": 1792598400.0
     }
   ]
 }
