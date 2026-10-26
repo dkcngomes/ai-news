@@ -1,7 +1,88 @@
 {
-  "scraped_at": "2026-10-25T21:45:13.076491+00:00",
+  "scraped_at": "2026-10-26T00:20:42.222559+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Bend: A fast language that blocks AI mistakes via proof",
+      "link": "https://github.com/bendlang/bend",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 23:41:04 +0000",
+      "timestamp": 1792971664.0
+    },
+    {
+      "title": "AI is getting good at math, here's why",
+      "link": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 23:30:52 +0000",
+      "timestamp": 1792971052.0
+    },
+    {
+      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "link": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 22:49:06 +0000",
+      "timestamp": 1792968546.0
+    },
+    {
+      "title": "You don't have to build the model to compete in AI",
+      "link": "https://www.purifigroup.com/index.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 22:39:55 +0000",
+      "timestamp": 1792967995.0
+    },
+    {
+      "title": "Show HN: Glitchrupt: Glitch your desktop when your AI agent needs your attention",
+      "link": "https://github.com/elbee19/glitchrupt",
+      "summary": "I keep missing my AI agents' requests for my attention. So I had it build a thing that glitches the whole screen, like the glitches in the SpiderVerse movies.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 22:22:32 +0000",
+      "timestamp": 1792966952.0
+    },
+    {
+      "title": "Germany's Idle Nuclear Plants Eye New Life as AI Data Centers",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 22:20:19 +0000",
+      "timestamp": 1792966819.0
+    },
+    {
+      "title": "Disadvantages of Designating Mathematicians for AI Output Releases",
+      "link": "https://terrytao.wordpress.com/2026/10/25/disadvantages-of-designating-mathematicians-for-ai-output-releases/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 22:18:47 +0000",
+      "timestamp": 1792966727.0
+    },
+    {
+      "title": "Nvidia eyes converting old nuclear plants into AI data centers",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 22:11:27 +0000",
+      "timestamp": 1792966287.0
+    },
+    {
+      "title": "Show HN: I built an AI agent to find customers on Telegram while I sleep",
+      "link": "https://opensparta.com/en",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 25 Oct 2026 21:53:11 +0000",
+      "timestamp": 1792965191.0
+    },
     {
       "title": "China increasingly depends on copying American AI",
       "link": "https://economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
@@ -109,87 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 25 Oct 2026 19:51:45 +0000",
       "timestamp": 1792957905.0
-    },
-    {
-      "title": "Reclaim disk space with an AI agent",
-      "link": "https://github.com/riza/ai-disk-cleanup",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 19:31:08 +0000",
-      "timestamp": 1792956668.0
-    },
-    {
-      "title": "People are using AI to 'dumb down' their smart TVs. Is that a good idea?",
-      "link": "https://www.cbc.ca/news/world/ai-coding-hack-smart-tvs-9.7392179",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 19:10:53 +0000",
-      "timestamp": 1792955453.0
-    },
-    {
-      "title": "The Question After the Answer: AI prediction and human autonomy",
-      "link": "https://aegissolisarchive.org/the-question-after-the-answer/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:58:04 +0000",
-      "timestamp": 1792954684.0
-    },
-    {
-      "title": "AI-Powered Automatic Lockpick Machine [video]",
-      "link": "https://www.youtube.com/watch?v=o4AUKGdScNI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:53:06 +0000",
-      "timestamp": 1792954386.0
-    },
-    {
-      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:44:11 +0000",
-      "timestamp": 1792953851.0
-    },
-    {
-      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "link": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:42:23 +0000",
-      "timestamp": 1792953743.0
-    },
-    {
-      "title": "Show HN: Optio – A self-hosted orchestration platform for AI agents",
-      "link": "https://optio.host/",
-      "summary": "Hey HN! I shared Optio here back in March. Originally it was focused on getting swarms of coding agents (claude code/codex) to drive PRs towards a merge by automatically resuming them on CI failures or PR comments. Since then, I've reworked the project to be a general platform for running any kind of AI workflow on your infra by allowing users to configure each component of a possible workflow: When: On demand, a cron schedule, or triggered by external events such as a webhook, slack message, ticket (jira/linear/gh), pagerduty/datadog/alertsmanager/pylon/sentry. Where: In a k8s pod or any mach",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:37:48 +0000",
-      "timestamp": 1792953468.0
-    },
-    {
-      "title": "Free AI education: certifications, hands-on technical courses, and resources",
-      "link": "https://www.aicertificationcouncil.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:31:23 +0000",
-      "timestamp": 1792953083.0
-    },
-    {
-      "title": "Why AI companies keep saying AI will kill us? [video]",
-      "link": "https://www.youtube.com/watch?v=Yfn8fSo9rgM",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 18:27:49 +0000",
-      "timestamp": 1792952869.0
     },
     {
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
@@ -426,18 +426,18 @@
       "timestamp": 1792696029.0
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "timestamp": 1792695600.0
     },
     {
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
