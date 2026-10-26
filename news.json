@@ -1,186 +1,186 @@
 {
-  "scraped_at": "2026-10-26T06:09:56.201605+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-26T12:56:49.178983+00:00",
+  "count": 58,
   "items": [
     {
-      "title": "Local-first video production workspace for people and AI agents",
-      "link": "https://github.com/TriHerm/cutmark",
+      "title": "AegisKernel – OS syscall interceptor for AI agents (<0.016ms)",
+      "link": "https://news.ycombinator.com/item?id=50242712",
+      "summary": "Hi HN, I’m building AegisKernel, an open-source deterministic capability boundary for autonomous AI agents (CrewAI, LangChain, Claude Agent SDK, AutoGen). GitHub: https://github.com/adikshatriyag-crypto/aegis-kernel Live Demo / Sandbox: https://adikshatriyag-crypto.github.io/aegis-kernel/ PyPI: pip install aegis-kernel The Problem: Autonomous agents with terminal or bash execution permissions have unrestricted access to the host OS. When LLMs encounter indirect prompt injections or multi-turn jailbreaks, prompt-based guardrails consistently fail because the LLM is evaluated in token-space. An ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 12:48:00 +0000",
+      "timestamp": 1793018880.0
+    },
+    {
+      "title": "I wrote a chess engine and still can't play chess: AI coding and skill decay",
+      "link": "https://www.youtube.com/watch?v=DJa1JGji2V0",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 04:39:10 +0000",
-      "timestamp": 1792989550.0
+      "published": "Mon, 26 Oct 2026 12:40:34 +0000",
+      "timestamp": 1793018434.0
     },
     {
-      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "title": "Stackoverflow for AI Agents",
+      "link": "https://agentoverflow.aphantic.skinticals.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 04:11:40 +0000",
-      "timestamp": 1792987900.0
+      "published": "Mon, 26 Oct 2026 12:35:45 +0000",
+      "timestamp": 1793018145.0
     },
     {
-      "title": "Show HN: UIPalooza – Do AI models have a recognizable design taste?",
-      "link": "https://uipalooza.ai/",
-      "summary": "This question has been bugging me for a while: do different AI models have a different design sense? Does it matter which one I pick? I built UI Palooza to explore that. I gave models the same four frontend briefs, with enough room to choose their own typography, colors, layouts, and interactions. Then I repeated the runs with different design skills and sample directions. The public collection has 1,784 designs. You can compare them side by side and open the working websites, not just screenshots. No signup required. One way to explore it: pick a brief and Baseline A, then compare Vanilla wit",
+      "title": "Code.org's Excellent Beginner Programming Courses Get Lost in the AI Hype",
+      "link": "https://news.ycombinator.com/item?id=50242573",
+      "summary": "I’m a computer science teacher. I recognize that AI can do useful programming. What worries me, however, is that all the hype surrounding AI is crowding out the learning of programming. \"Prompting\" is not programming. I’ve often recommended Code.org, with its memorable name. Their \"Introduction to Computer Science\" courses are among the best beginner programming courses I know. But since the platform was rebranded as CodeAI, they’ve been getting lost amid all the AI-related content. https://code.org/curriculum/computer-science-fundamentals",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 04:00:04 +0000",
-      "timestamp": 1792987204.0
+      "published": "Mon, 26 Oct 2026 12:33:46 +0000",
+      "timestamp": 1793018026.0
     },
     {
-      "title": "Show HN: AI Client Lead Qualifier and Review Responder for Agencies",
-      "link": "https://news.ycombinator.com/item?id=50238873",
+      "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
+      "link": "https://github.com/goyohan0611-png/graph-mind",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 03:49:12 +0000",
-      "timestamp": 1792986552.0
+      "published": "Mon, 26 Oct 2026 12:30:12 +0000",
+      "timestamp": 1793017812.0
     },
     {
-      "title": "Show HN: AI Client Lead Qualifier and Review Responder for Agencies",
-      "link": "https://news.ycombinator.com/item?id=50238870",
+      "title": "Show HN: Managing AI Models After Launch-Versioning, Evaluations, and Fallbacks",
+      "link": "https://geekyants.com/blog/how-geekyants-manages-ai-models-after-launch-to-maintain-security-control-and-flexibility",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 03:48:52 +0000",
-      "timestamp": 1792986532.0
+      "published": "Mon, 26 Oct 2026 12:27:55 +0000",
+      "timestamp": 1793017675.0
     },
     {
-      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
-      "link": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+      "title": "An American Answer to China's Open AI Models: A Safe Harbor for Open Weights",
+      "link": "https://manhattan.institute/article/an-american-answer-to-chinas-open-ai-models-a-safe-harbor-for-open-weights",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 03:04:17 +0000",
-      "timestamp": 1792983857.0
+      "published": "Mon, 26 Oct 2026 12:20:05 +0000",
+      "timestamp": 1793017205.0
     },
     {
-      "title": "Ask HN: Does your company require human review of AI-generated code?",
-      "link": "https://news.ycombinator.com/item?id=50238496",
-      "summary": "Mid-size SaaS ~2k employees. We still require human review of every PR. I imagine 99% of the industry is still doing the same but was curious if there has been a meaningful shift in this balance in recent weeks/months.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 02:50:27 +0000",
-      "timestamp": 1792983027.0
-    },
-    {
-      "title": "If AI displaces human workers, they will lose more than just pay",
-      "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "title": "IDHN – Task-scoped filesystem permissions for AI coding agents",
+      "link": "https://github.com/mohsa/idhn",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 02:22:38 +0000",
-      "timestamp": 1792981358.0
+      "published": "Mon, 26 Oct 2026 12:18:52 +0000",
+      "timestamp": 1793017132.0
     },
     {
-      "title": "Show HN: Depono – Chat with many AI models at cost and 10%, files kept in Git",
-      "link": "https://depono.xyz/",
+      "title": "Show HN: AI Watermark Scrambler, blur statistical LLM text watermarks locally",
+      "link": "https://github.com/novatechflow/ai-watermark-scrambler",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 01:12:25 +0000",
-      "timestamp": 1792977145.0
+      "published": "Mon, 26 Oct 2026 12:08:58 +0000",
+      "timestamp": 1793016538.0
     },
     {
-      "title": "One gateway for your AI agents, APIs and MCP servers",
-      "link": "https://github.com/Clivern/Sloth",
+      "title": "Meta Plans to Raise Up to $95B for AI Push",
+      "link": "https://www.wsj.com/tech/ai/meta-plans-35-billion-stock-offering-to-power-ai-buildout-eyes-95-billion-total-plan-10b8947e",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 00:38:22 +0000",
-      "timestamp": 1792975102.0
+      "published": "Mon, 26 Oct 2026 12:01:59 +0000",
+      "timestamp": 1793016119.0
     },
     {
-      "title": "I Think My AI Company Needs HR",
-      "link": "https://www.fasttrackfemme.com/p/i-think-my-ai-company-needs-hr",
+      "title": "Nobody Could Say Which AI Agent Did It",
+      "link": "https://www.anuclei.com/blog/nobody-could-say-which-agent-did-it",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 00:08:49 +0000",
-      "timestamp": 1792973329.0
+      "published": "Mon, 26 Oct 2026 12:01:50 +0000",
+      "timestamp": 1793016110.0
     },
     {
-      "title": "Bend: A fast language that blocks AI mistakes via proof",
-      "link": "https://github.com/bendlang/bend",
+      "title": "Anthropic's Claude AI model accessed Georgia voter data in US",
+      "link": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 23:41:04 +0000",
-      "timestamp": 1792971664.0
+      "published": "Mon, 26 Oct 2026 11:48:22 +0000",
+      "timestamp": 1793015302.0
     },
     {
-      "title": "AI is getting good at math, here's why",
-      "link": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "title": "AI Scope Creep and Productivity",
+      "link": "https://ayende.com/blog/204195-a/ai-scope-creep-productivity",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 23:30:52 +0000",
-      "timestamp": 1792971052.0
+      "published": "Mon, 26 Oct 2026 11:39:30 +0000",
+      "timestamp": 1793014770.0
     },
     {
-      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-      "link": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "title": "Show HN: Ankita v2.7.1 – desktop AI companion with undo",
+      "link": "https://github.com/akyourowngames/A.N.K.I.T.A/releases/tag/v2.7.1",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 22:49:06 +0000",
-      "timestamp": 1792968546.0
+      "published": "Mon, 26 Oct 2026 11:14:26 +0000",
+      "timestamp": 1793013266.0
     },
     {
-      "title": "You don't have to build the model to compete in AI",
-      "link": "https://www.purifigroup.com/index.html",
+      "title": "AI Is Making Verification the Bottleneck for Companies",
+      "link": "https://hbr.org/2026/10/ai-is-making-verification-the-bottleneck-for-companies",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 22:39:55 +0000",
-      "timestamp": 1792967995.0
+      "published": "Mon, 26 Oct 2026 11:14:19 +0000",
+      "timestamp": 1793013259.0
     },
     {
-      "title": "Show HN: Glitchrupt: Glitch your desktop when your AI agent needs your attention",
-      "link": "https://github.com/elbee19/glitchrupt",
-      "summary": "I keep missing my AI agents' requests for my attention. So I had it build a thing that glitches the whole screen, like the glitches in the SpiderVerse movies.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 22:22:32 +0000",
-      "timestamp": 1792966952.0
-    },
-    {
-      "title": "Germany's Idle Nuclear Plants Eye New Life as AI Data Centers",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers",
+      "title": "Build your first AI agent from scratch in Python: a web research agent",
+      "link": "https://github.com/iayanpahwa/research-agent-from-scratch",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 22:20:19 +0000",
-      "timestamp": 1792966819.0
+      "published": "Mon, 26 Oct 2026 11:13:18 +0000",
+      "timestamp": 1793013198.0
     },
     {
-      "title": "Disadvantages of Designating Mathematicians for AI Output Releases",
-      "link": "https://terrytao.wordpress.com/2026/10/25/disadvantages-of-designating-mathematicians-for-ai-output-releases/",
+      "title": "Show HN: Retro AI Concept",
+      "link": "https://airetro.vercel.app",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 22:18:47 +0000",
-      "timestamp": 1792966727.0
+      "published": "Mon, 26 Oct 2026 11:09:32 +0000",
+      "timestamp": 1793012972.0
     },
     {
-      "title": "Nvidia eyes converting old nuclear plants into AI data centers",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+      "title": "Cleanyourtv.ai",
+      "link": "https://cleanyourtv.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 22:11:27 +0000",
-      "timestamp": 1792966287.0
+      "published": "Mon, 26 Oct 2026 10:58:52 +0000",
+      "timestamp": 1793012332.0
     },
     {
-      "title": "Show HN: I built an AI agent to find customers on Telegram while I sleep",
-      "link": "https://opensparta.com/en",
-      "summary": "",
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 21:53:11 +0000",
-      "timestamp": 1792965191.0
+      "source": "Wired AI",
+      "published": "Mon, 26 Oct 2026 09:30:00 +0000",
+      "timestamp": 1793007000.0
+    },
+    {
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 26 Oct 2026 09:00:00 +0000",
+      "timestamp": 1793005200.0
     },
     {
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -426,18 +426,18 @@
       "timestamp": 1792696029.0
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "timestamp": 1792695600.0
     },
     {
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
@@ -523,24 +523,6 @@
       "source": "Wired AI",
       "published": "Wed, 21 Oct 2026 16:00:00 +0000",
       "timestamp": 1792598400.0
-    },
-    {
-      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 21 Oct 2026 15:02:15 +0000",
-      "timestamp": 1792594935.0
-    },
-    {
-      "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-      "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 21 Oct 2026 14:26:19 +0000",
-      "timestamp": 1792592779.0
     }
   ]
 }
