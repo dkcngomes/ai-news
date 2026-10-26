@@ -1,7 +1,106 @@
 {
-  "scraped_at": "2026-10-26T00:20:42.222559+00:00",
+  "scraped_at": "2026-10-26T06:09:56.201605+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Local-first video production workspace for people and AI agents",
+      "link": "https://github.com/TriHerm/cutmark",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 04:39:10 +0000",
+      "timestamp": 1792989550.0
+    },
+    {
+      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 04:11:40 +0000",
+      "timestamp": 1792987900.0
+    },
+    {
+      "title": "Show HN: UIPalooza – Do AI models have a recognizable design taste?",
+      "link": "https://uipalooza.ai/",
+      "summary": "This question has been bugging me for a while: do different AI models have a different design sense? Does it matter which one I pick? I built UI Palooza to explore that. I gave models the same four frontend briefs, with enough room to choose their own typography, colors, layouts, and interactions. Then I repeated the runs with different design skills and sample directions. The public collection has 1,784 designs. You can compare them side by side and open the working websites, not just screenshots. No signup required. One way to explore it: pick a brief and Baseline A, then compare Vanilla wit",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 04:00:04 +0000",
+      "timestamp": 1792987204.0
+    },
+    {
+      "title": "Show HN: AI Client Lead Qualifier and Review Responder for Agencies",
+      "link": "https://news.ycombinator.com/item?id=50238873",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 03:49:12 +0000",
+      "timestamp": 1792986552.0
+    },
+    {
+      "title": "Show HN: AI Client Lead Qualifier and Review Responder for Agencies",
+      "link": "https://news.ycombinator.com/item?id=50238870",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 03:48:52 +0000",
+      "timestamp": 1792986532.0
+    },
+    {
+      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "link": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 03:04:17 +0000",
+      "timestamp": 1792983857.0
+    },
+    {
+      "title": "Ask HN: Does your company require human review of AI-generated code?",
+      "link": "https://news.ycombinator.com/item?id=50238496",
+      "summary": "Mid-size SaaS ~2k employees. We still require human review of every PR. I imagine 99% of the industry is still doing the same but was curious if there has been a meaningful shift in this balance in recent weeks/months.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 02:50:27 +0000",
+      "timestamp": 1792983027.0
+    },
+    {
+      "title": "If AI displaces human workers, they will lose more than just pay",
+      "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 02:22:38 +0000",
+      "timestamp": 1792981358.0
+    },
+    {
+      "title": "Show HN: Depono – Chat with many AI models at cost and 10%, files kept in Git",
+      "link": "https://depono.xyz/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 01:12:25 +0000",
+      "timestamp": 1792977145.0
+    },
+    {
+      "title": "One gateway for your AI agents, APIs and MCP servers",
+      "link": "https://github.com/Clivern/Sloth",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 00:38:22 +0000",
+      "timestamp": 1792975102.0
+    },
+    {
+      "title": "I Think My AI Company Needs HR",
+      "link": "https://www.fasttrackfemme.com/p/i-think-my-ai-company-needs-hr",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 00:08:49 +0000",
+      "timestamp": 1792973329.0
+    },
     {
       "title": "Bend: A fast language that blocks AI mistakes via proof",
       "link": "https://github.com/bendlang/bend",
@@ -84,24 +183,6 @@
       "timestamp": 1792965191.0
     },
     {
-      "title": "China increasingly depends on copying American AI",
-      "link": "https://economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 21:41:29 +0000",
-      "timestamp": 1792964489.0
-    },
-    {
-      "title": "Report says 'circular financing' shows AI bubble 'primed to pop'",
-      "link": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 21:36:09 +0000",
-      "timestamp": 1792964169.0
-    },
-    {
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
       "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
@@ -109,87 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 25 Oct 2026 21:31:16 +0000",
       "timestamp": 1792963876.0
-    },
-    {
-      "title": "Crawlerpeek – check which AI crawlers your site lets in (CLI, MCP)",
-      "link": "https://github.com/crawlerpeek/crawlerpeek",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 21:11:05 +0000",
-      "timestamp": 1792962665.0
-    },
-    {
-      "title": "Struggling to Keep AI Out",
-      "link": "https://blog.eunach.scot/struggling-to-keep-ai-out",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 20:47:39 +0000",
-      "timestamp": 1792961259.0
-    },
-    {
-      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
-      "link": "https://github.com/SRN0129/Agenttrust",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 20:46:50 +0000",
-      "timestamp": 1792961210.0
-    },
-    {
-      "title": "Why I'm Short the AI Buildout Even Though I'm Long Computers",
-      "link": "https://unverifiablerewards.substack.com/p/why-im-short-the-ai-buildout-even",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 20:44:07 +0000",
-      "timestamp": 1792961047.0
-    },
-    {
-      "title": "I Let AI Port an Xbox 360 Game to PC (and It Worked) [video]",
-      "link": "https://www.youtube.com/watch?v=rojjkW74d-k",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 20:16:46 +0000",
-      "timestamp": 1792959406.0
-    },
-    {
-      "title": "AI and Humans: The Three-Speed Problem",
-      "link": "https://www.fasttrackfemme.com/p/ai-humans-the-three-speed-problem",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 20:16:13 +0000",
-      "timestamp": 1792959373.0
-    },
-    {
-      "title": "The Power Grab of the AI Doomers",
-      "link": "https://www.aipanic.news/p/the-power-grab-of-the-ai-doomers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 20:01:52 +0000",
-      "timestamp": 1792958512.0
-    },
-    {
-      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
-      "link": "https://theaioperatorstore.gumroad.com/l/womuyx",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 19:54:45 +0000",
-      "timestamp": 1792958085.0
-    },
-    {
-      "title": "Show HN: Hycli – reverse-engineer websites into CLI and MCP tools for AI agents",
-      "link": "https://github.com/Hybirdss/Hycli",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 25 Oct 2026 19:51:45 +0000",
-      "timestamp": 1792957905.0
     },
     {
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
@@ -426,18 +426,18 @@
       "timestamp": 1792696029.0
     },
     {
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
       "timestamp": 1792695600.0
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "title": "Canva releases its first image generation model",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
