@@ -1,24 +1,231 @@
 {
-  "scraped_at": "2026-10-27T20:04:28.588742+00:00",
+  "scraped_at": "2026-10-27T23:45:48.043696+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "link": "https://www.brangus.io/survival-llm",
-      "summary": "",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 19:55:06 +0000",
-      "timestamp": 1793130906.0
+      "source": "TechCrunch AI",
+      "published": "Tue, 27 Oct 2026 23:34:27 +0000",
+      "timestamp": 1793144067.0
     },
     {
-      "title": "Meta plans $95B stock offering to bankroll AI expansion",
-      "link": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555",
+      "title": "AI giants are [...] They could learn a lot from the nuclear industry",
+      "link": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 19:49:31 +0000",
-      "timestamp": 1793130571.0
+      "published": "Tue, 27 Oct 2026 23:25:55 +0000",
+      "timestamp": 1793143555.0
+    },
+    {
+      "title": "A case against AI – Chet Faliszek [video]",
+      "link": "https://www.youtube.com/watch?v=g9koXZ5JhDU",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 23:15:21 +0000",
+      "timestamp": 1793142921.0
+    },
+    {
+      "title": "OpenCode-Muse: Use Meta AI's Muse Code Subscription in OpenCode",
+      "link": "https://github.com/pgquiles/opencode-muse",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 22:56:05 +0000",
+      "timestamp": 1793141765.0
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 27 Oct 2026 22:55:41 +0000",
+      "timestamp": 1793141741.0
+    },
+    {
+      "title": "Delaware plan would let AI agents run businesses",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 22:49:27 +0000",
+      "timestamp": 1793141367.0
+    },
+    {
+      "title": "Patent Strategy in the Age of AI – Dan Gelbart [video]",
+      "link": "https://www.youtube.com/watch?v=v5d8nwgiSYI",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 22:48:59 +0000",
+      "timestamp": 1793141339.0
+    },
+    {
+      "title": "Why Programming Is Especially Exposed to AI Automation",
+      "link": "https://asawicki.info/news_1805_6_reasons_why_programming_is_especially_exposed_to_ai_automation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 22:38:06 +0000",
+      "timestamp": 1793140686.0
+    },
+    {
+      "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
+      "link": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 22:29:50 +0000",
+      "timestamp": 1793140190.0
+    },
+    {
+      "title": "The Retirement Machine: AI, high earners, and the risk to global stock markets",
+      "link": "https://www.schroders.com/en-gb/uk/intermediary/insights/the-retirement-machine-ai-high-earners-and-the-hidden-risk-to-global-stock-markets/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 22:29:43 +0000",
+      "timestamp": 1793140183.0
+    },
+    {
+      "title": "AI search explained: indexing, retrieval and reranking",
+      "link": "https://www.thinkmill.com.au/blog/ai-search-explained-indexing-retrieval-and-reranking",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 22:29:24 +0000",
+      "timestamp": 1793140164.0
+    },
+    {
+      "title": "This Is Not Sustainable: On Cybersecurity and AI",
+      "link": "https://www.netmeister.org/blog/defense-ddos.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 22:13:49 +0000",
+      "timestamp": 1793139229.0
+    },
+    {
+      "title": "Popular AI Agent Skills Ranked by GitHub Stars",
+      "link": "https://jsdev.space/30-agent-skills/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 22:06:14 +0000",
+      "timestamp": 1793138774.0
+    },
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 27 Oct 2026 21:44:34 +0000",
+      "timestamp": 1793137474.0
+    },
+    {
+      "title": "Show HN: Spend Extra AI Usage Transcribing Murray's New English Dictionary",
+      "link": "https://github.com/timjonez/new-english-dictionary",
+      "summary": "I've been working on transcribing the New English Dictionary ( NED ) into clean text using my extra usage on my AI sub. Thought I'd open it up to everyone and see if anyone want's to put their leftover usage to good use! Also would welcome any pointers getting something like this transcribed. Thanks!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 21:44:13 +0000",
+      "timestamp": 1793137453.0
+    },
+    {
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 27 Oct 2026 21:38:28 +0000",
+      "timestamp": 1793137108.0
+    },
+    {
+      "title": "The doorman fallacy in the age of AI",
+      "link": "https://www.adriankrebs.ch/blog/ai-and-the-doorman-fallacy/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 21:31:42 +0000",
+      "timestamp": 1793136702.0
+    },
+    {
+      "title": "Head of ADL claims they are \"cleaning up\" AI and Wikipedia",
+      "link": "https://twitter.com/infolibnews/status/2115106467460108731",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 21:27:55 +0000",
+      "timestamp": 1793136475.0
+    },
+    {
+      "title": "Meta launches plan for $95B stock offering to fund AI expansion",
+      "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 21:08:59 +0000",
+      "timestamp": 1793135339.0
+    },
+    {
+      "title": "I put an AI in the Garden of Eden. Then I introduced the serpent",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1xh30mr/i_put_an_ai_in_the_garden_of_eden_then_i/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 20:51:54 +0000",
+      "timestamp": 1793134314.0
+    },
+    {
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-27T16:48:58-04:00",
+      "timestamp": 1793134138.0
+    },
+    {
+      "title": "In China, the AI bubble has burst",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 20:44:20 +0000",
+      "timestamp": 1793133860.0
+    },
+    {
+      "title": "The US AI Labs, Part 2: The Suppliers Are Financing Their Own Customers",
+      "link": "https://codingplans.dev/briefs/us-model-labs-part-2/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 20:37:03 +0000",
+      "timestamp": 1793133423.0
+    },
+    {
+      "title": "Ask HN: How will HN transition to allowing AI writing when society accepts it?",
+      "link": "https://news.ycombinator.com/item?id=50265376",
+      "summary": "In the near future, using AI to write will be just as acceptable as using glasses to read. How will HN make the transition when this happens?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 20:33:42 +0000",
+      "timestamp": 1793133222.0
+    },
+    {
+      "title": "Can maths survive AI? Fields medallist Terence Tao calls for a 'Maths 2.0' world",
+      "link": "https://www.nature.com/articles/d41586-026-03389-1",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 20:22:48 +0000",
+      "timestamp": 1793132568.0
     },
     {
       "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
@@ -30,69 +237,6 @@
       "timestamp": 1793129944.0
     },
     {
-      "title": "Show HN: Autosomal.ai Free AI-Based Age, Gender, and Ethnicity Guesser",
-      "link": "https://autosomal.ai/",
-      "summary": "The age and gender prediction are based on open models. The ethnicity guesser is a private model I have been developing. Accuracy is continuously being fine-tuned. Please submit feedback on the site when a model predicts incorrectly so we can improve the model.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 19:32:36 +0000",
-      "timestamp": 1793129556.0
-    },
-    {
-      "title": "AI refutes 30-year-old mathematical assumption in computer science",
-      "link": "https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 19:31:16 +0000",
-      "timestamp": 1793129476.0
-    },
-    {
-      "title": "Working with AI: Lessons from software's head start",
-      "link": "https://jackdamon.org/blog/working-with-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 19:17:06 +0000",
-      "timestamp": 1793128626.0
-    },
-    {
-      "title": "Show HN: Dola AI – AI images, video, creative and office tools",
-      "link": "https://dola-ai.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 19:13:29 +0000",
-      "timestamp": 1793128409.0
-    },
-    {
-      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20k AI data centers",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 19:10:17 +0000",
-      "timestamp": 1793128217.0
-    },
-    {
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 19:07:19 +0000",
-      "timestamp": 1793128039.0
-    },
-    {
-      "title": "How to match sizes and colors across stores so AI agents can buy the right one",
-      "link": "https://trychannel3.com/blog/matching-product-variants",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 19:06:15 +0000",
-      "timestamp": 1793127975.0
-    },
-    {
       "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
       "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
       "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
@@ -100,105 +244,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 27 Oct 2026 18:55:35 +0000",
       "timestamp": 1793127335.0
-    },
-    {
-      "title": "Giotto Sovereign European AI Models",
-      "link": "https://www.giotto.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:54:59 +0000",
-      "timestamp": 1793127299.0
-    },
-    {
-      "title": "AI Can Save the Public Sphere",
-      "link": "https://www.persuasion.community/p/ai-can-save-the-public-sphere",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:41:11 +0000",
-      "timestamp": 1793126471.0
-    },
-    {
-      "title": "Nobody Tells You How Funny It Is When Your AI Agents Start Fighting",
-      "link": "https://medium.com/@donkan168/nobody-tells-you-how-funny-it-is-when-your-ai-agents-start-fighting-f76e2a2e1ff4",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:38:43 +0000",
-      "timestamp": 1793126323.0
-    },
-    {
-      "title": "Securing sensitive data in the AI era",
-      "link": "https://blog.piotrnalepa.pl/en/2026/10/27/shadow-ai-in-a-development-team-how-to-keep-your-clients-code-out-of-the-chat/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:36:41 +0000",
-      "timestamp": 1793126201.0
-    },
-    {
-      "title": "Show HN: I built flightdeck – Observability and control plane for AI agents",
-      "link": "https://flightdeck-hq.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:34:12 +0000",
-      "timestamp": 1793126052.0
-    },
-    {
-      "title": "Did the Hardest Problem in AI Just Get Much Easier?",
-      "link": "https://www.nytimes.com/2026/10/27/science/ai-problem-interpretability.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:17:19 +0000",
-      "timestamp": 1793125039.0
-    },
-    {
-      "title": "Running Local AI on Nvidia DGX Spark Without CUDA",
-      "link": "https://github.com/aien-dev/CUDApp",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:11:49 +0000",
-      "timestamp": 1793124709.0
-    },
-    {
-      "title": "Blazle – Block prompt injection and secret leaks before AI agents act",
-      "link": "https://www.blazle.io/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:11:13 +0000",
-      "timestamp": 1793124673.0
-    },
-    {
-      "title": "Microsoft and Epic Games DCMA AI-Gen Clones",
-      "link": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:09:57 +0000",
-      "timestamp": 1793124597.0
-    },
-    {
-      "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
-      "link": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:08:20 +0000",
-      "timestamp": 1793124500.0
-    },
-    {
-      "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
-      "link": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 27 Oct 2026 18:06:49 +0000",
-      "timestamp": 1793124409.0
     },
     {
       "title": "VisionQuest is what happens when AI really goes rogue",
@@ -311,7 +356,7 @@
     {
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
       "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Tue, 27 Oct 2026 11:00:00 +0000",
@@ -397,15 +442,6 @@
       "source": "The Verge AI",
       "published": "2026-10-26T13:30:55-04:00",
       "timestamp": 1793035855.0
-    },
-    {
-      "title": "Five weird details from Anthropic’s IPO filing",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-26T13:10:23-04:00",
-      "timestamp": 1793034623.0
     },
     {
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
@@ -505,42 +541,6 @@
       "source": "Wired AI",
       "published": "Sun, 25 Oct 2026 10:00:00 +0000",
       "timestamp": 1792922400.0
-    },
-    {
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 24 Oct 2026 20:15:33 +0000",
-      "timestamp": 1792872933.0
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 24 Oct 2026 19:00:00 +0000",
-      "timestamp": 1792868400.0
-    },
-    {
-      "title": "Block’s new voice model sounds eerily human",
-      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 24 Oct 2026 16:00:00 +0000",
-      "timestamp": 1792857600.0
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "timestamp": 1792854000.0
     }
   ]
 }
