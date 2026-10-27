@@ -1,60 +1,204 @@
 {
-  "scraped_at": "2026-10-26T23:09:09.684186+00:00",
+  "scraped_at": "2026-10-27T02:03:25.359352+00:00",
   "count": 60,
   "items": [
     {
-      "title": "US political candidates tailor messages for AI models used by voters",
-      "link": "https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/",
+      "title": "AI and the Rise of Cognitive Overload",
+      "link": "https://www.psychologytoday.com/us/blog/the-mindful-epidemiologist/202603/ai-and-the-rise-of-cognitive-overload",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 22:58:50 +0000",
-      "timestamp": 1793055530.0
+      "published": "Tue, 27 Oct 2026 01:54:14 +0000",
+      "timestamp": 1793066054.0
     },
     {
-      "title": "What is bigger than AI?",
-      "link": "https://www.exponentialview.co/p/what-is-bigger-than-ai",
+      "title": "AI Science vs. Human Science",
+      "link": "https://lacuna.tiptreesystems.com/paper/ai-science-vs-human-science/art_3901430d6c0e4bddb284362100ef8548",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 22:53:40 +0000",
-      "timestamp": 1793055220.0
+      "published": "Tue, 27 Oct 2026 01:51:04 +0000",
+      "timestamp": 1793065864.0
     },
     {
-      "title": "The Paradox of Contemporary AI: Engineering Success and Institutional Failure",
-      "link": "https://3quarksdaily.com/3quarksdaily/2026/03/the-paradox-of-contemporary-ai-engineering-success-and-institutional-failure.html",
+      "title": "What to do if you discover AI models trained using your copywrighted book?",
+      "link": "https://news.ycombinator.com/item?id=50253561",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 22:47:09 +0000",
-      "timestamp": 1793054829.0
+      "published": "Tue, 27 Oct 2026 01:18:50 +0000",
+      "timestamp": 1793063930.0
     },
     {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "summary": "",
+      "title": "Do you want to keep your job? Stop feeding AI models",
+      "link": "https://news.ycombinator.com/item?id=50253524",
+      "summary": "How about we stop giving your skills to these guys who are putting us out of work?",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 22:41:48 +0000",
-      "timestamp": 1793054508.0
+      "published": "Tue, 27 Oct 2026 01:14:09 +0000",
+      "timestamp": 1793063649.0
     },
     {
-      "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
-      "link": "https://codingplans.dev/briefs/us-model-labs-part-1/",
-      "summary": "",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 21:48:19 +0000",
-      "timestamp": 1793051299.0
+      "source": "TechCrunch AI",
+      "published": "Tue, 27 Oct 2026 01:12:21 +0000",
+      "timestamp": 1793063541.0
     },
     {
-      "title": "Wall St banksline up $63B to finance Broadcom AI chips for Anthropic",
-      "link": "https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/",
+      "title": "AI wasn't overhyped. Almost everyone underestimated it",
+      "link": "https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 21:48:01 +0000",
-      "timestamp": 1793051281.0
+      "published": "Tue, 27 Oct 2026 01:07:00 +0000",
+      "timestamp": 1793063220.0
+    },
+    {
+      "title": "The \"let-it-rip\" camp is wrong on AI",
+      "link": "https://economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-is-wrong-on-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 01:00:27 +0000",
+      "timestamp": 1793062827.0
+    },
+    {
+      "title": "Show HN: Marlow – Build full-stack apps with AI and own your code",
+      "link": "https://marlow.app/beta",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 01:00:23 +0000",
+      "timestamp": 1793062823.0
+    },
+    {
+      "title": "Request for Immediate Release of Yang–Mills AI Output",
+      "link": "https://agmai.org/#request-immediate-release",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 00:51:10 +0000",
+      "timestamp": 1793062270.0
+    },
+    {
+      "title": "Why using AI saves doctors time but won't fix physician burnout",
+      "link": "https://theconversation.com/why-using-ai-saves-doctors-time-but-wont-fix-physician-burnout-291250",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 00:48:39 +0000",
+      "timestamp": 1793062119.0
+    },
+    {
+      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis and Complexity Theory [video]",
+      "link": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 00:47:20 +0000",
+      "timestamp": 1793062040.0
+    },
+    {
+      "title": "Meaning After an AI Eucatastrophe",
+      "link": "https://meaningness.substack.com/p/meaning-after-an-ai-eucatastrophe",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 00:45:16 +0000",
+      "timestamp": 1793061916.0
+    },
+    {
+      "title": "In China, the AI bubble has already burst",
+      "link": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 00:44:23 +0000",
+      "timestamp": 1793061863.0
+    },
+    {
+      "title": "Goldman Sachs puts $500M into small-business AI with four AI labs",
+      "link": "https://thenextweb.com/news/goldman-sachs-frontier-models-small-business-ai-institute-500m",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 00:43:55 +0000",
+      "timestamp": 1793061835.0
+    },
+    {
+      "title": "Show HN: Aroha – signed, shrinking permissions for AI agents, checked offline",
+      "link": "https://github.com/ArohaLabs/aroha-protocol",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 00:43:16 +0000",
+      "timestamp": 1793061796.0
+    },
+    {
+      "title": "Some cybersecurity x AI dichotomies",
+      "link": "https://cje.io/2026/10/26/some-cyber-ai-dichotomies/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 00:01:35 +0000",
+      "timestamp": 1793059295.0
+    },
+    {
+      "title": "AI talk has nearly doubled outside tech. Proof of payoff is still rare",
+      "link": "https://equibles.com/research/ai-talk-has-nearly-doubled-outside-tech-proof-of-payoff-is-still-rare",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 27 Oct 2026 00:00:26 +0000",
+      "timestamp": 1793059226.0
+    },
+    {
+      "title": "Software stack is an abstraction made for humans. AI can skip it",
+      "link": "https://vithushansylvester.com/writing/what-is-left-when-the-programmer-is-not-human",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 23:52:04 +0000",
+      "timestamp": 1793058724.0
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-26T19:34:58-04:00",
+      "timestamp": 1793057698.0
+    },
+    {
+      "title": "A directory for AI-slop games",
+      "link": "https://claudeslop.bryanhu.com",
+      "summary": "Hello HN! As someone who would have otherwise never got into game development if it wasn't for AI, I'm really sorry to see how many peoples' creations get immediately overlooked because it's \"AI slop.\" Slop or not, many people have very interesting and/or original concepts, and regardless of the means of production I believe there should be a place for someone to at least enjoy. The issue is that if they want to share it, the only places we have right now include Twitter, Reddit, Hacker News, and the other means such as Itch and other traditional game distribution platforms. But for small, qui",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 23:11:56 +0000",
+      "timestamp": 1793056316.0
+    },
+    {
+      "title": "Show HN: Hugonot – Sponsor a Dedicated AI Blogger",
+      "link": "https://www.hugonot.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 23:11:15 +0000",
+      "timestamp": 1793056275.0
+    },
+    {
+      "title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
+      "link": "https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 26 Oct 2026 23:08:10 +0000",
+      "timestamp": 1793056090.0
     },
     {
       "title": "Anthropic is burning gas to feed the AI boom",
@@ -66,33 +210,6 @@
       "timestamp": 1793051131.0
     },
     {
-      "title": "Police Pulling People over Because AI Deems Their Driving Patterns \"Suspicious\"",
-      "link": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 21:45:23 +0000",
-      "timestamp": 1793051123.0
-    },
-    {
-      "title": "You can hack your TVs and gadgets with AI for free now – but should you?",
-      "link": "https://www.zdnet.com/innovation/ai-reverse-engineering-old-gadgets-smart-tvs/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 21:32:10 +0000",
-      "timestamp": 1793050330.0
-    },
-    {
-      "title": "Analysis – In China, the AI bubble has burst",
-      "link": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 21:29:44 +0000",
-      "timestamp": 1793050184.0
-    },
-    {
       "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
       "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
       "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
@@ -100,105 +217,6 @@
       "source": "Wired AI",
       "published": "Mon, 26 Oct 2026 21:27:15 +0000",
       "timestamp": 1793050035.0
-    },
-    {
-      "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-      "link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 21:13:59 +0000",
-      "timestamp": 1793049239.0
-    },
-    {
-      "title": "What we learned from 250k public workers about AI adoption",
-      "link": "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 21:07:06 +0000",
-      "timestamp": 1793048826.0
-    },
-    {
-      "title": "AI models cost more when you don't use English",
-      "link": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 21:03:22 +0000",
-      "timestamp": 1793048602.0
-    },
-    {
-      "title": "Rules of relevance: Carlyle's new paper on AI and markets",
-      "link": "https://www.carlyle.com/global-insights/research/rules-of-relevance",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 20:45:43 +0000",
-      "timestamp": 1793047543.0
-    },
-    {
-      "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
-      "link": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 20:41:12 +0000",
-      "timestamp": 1793047272.0
-    },
-    {
-      "title": "DealVector AI – Tracking True Days on Market and Price Cuts in Canada",
-      "link": "https://dealvectorai.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 20:39:00 +0000",
-      "timestamp": 1793047140.0
-    },
-    {
-      "title": "The Shrugflation Triangle: How AI, Oil, and Treasuries Are Impacting the Economy",
-      "link": "https://kyla.substack.com/p/the-shrugflation-triangle-how-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 20:37:37 +0000",
-      "timestamp": 1793047057.0
-    },
-    {
-      "title": "AI agents have few qualms with log tampering",
-      "link": "https://www.manifold.security/blog/agent-log-tampering",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 20:31:43 +0000",
-      "timestamp": 1793046703.0
-    },
-    {
-      "title": "Grand theft AI: Highway thieves are stealing millions in data center gear",
-      "link": "https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 20:28:32 +0000",
-      "timestamp": 1793046512.0
-    },
-    {
-      "title": "Twins AI moved its production AI voice platform from GCP to Azure",
-      "link": "https://www.twinsai.com/blog/google-cloud-to-azure-migration",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 20:07:16 +0000",
-      "timestamp": 1793045236.0
-    },
-    {
-      "title": "A dated, inspectable AI citation checker (no fake rankings)",
-      "link": "https://citysignal.date/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 26 Oct 2026 19:56:48 +0000",
-      "timestamp": 1793044608.0
     },
     {
       "title": "The RealReal won’t let AI agents hog designer clothing",
@@ -372,15 +390,6 @@
       "timestamp": 1792922400.0
     },
     {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-24T17:29:12-04:00",
-      "timestamp": 1792877352.0
-    },
-    {
       "title": "Will AI expose the rickety infrastructure of the internet?",
       "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
       "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
@@ -510,15 +519,6 @@
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "timestamp": 1792695600.0
-    },
-    {
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
