@@ -1,7 +1,250 @@
 {
-  "scraped_at": "2026-10-28T18:50:50.297254+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-28T23:12:33.811077+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "Our AI Agent Executed the Same Successful SQL Query 254 Times",
+      "link": "https://armincat.com/articles/ai-agent-executed-same-query-254-times",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 22:29:54 +0000",
+      "timestamp": 1793226594.0
+    },
+    {
+      "title": "Postgres 19 is Late, and it's AI's Fault",
+      "link": "https://neon.com/blog/postgres-19-is-late-and-its-ais-fault",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 22:26:19 +0000",
+      "timestamp": 1793226379.0
+    },
+    {
+      "title": "Open AI Math Proofs modified sandbox",
+      "link": "https://zenodo.org/records/23717719",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 22:26:13 +0000",
+      "timestamp": 1793226373.0
+    },
+    {
+      "title": "When AI goes rogue, its human overseers may be to blame",
+      "link": "https://www.sciencenews.org/article/rogue-ai-agents-human-blame-safety",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 22:04:55 +0000",
+      "timestamp": 1793225095.0
+    },
+    {
+      "title": "Can AI forecast elections better than experts?",
+      "link": "https://ballotbench.com/?",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 22:00:10 +0000",
+      "timestamp": 1793224810.0
+    },
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 28 Oct 2026 21:58:32 +0000",
+      "timestamp": 1793224712.0
+    },
+    {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 28 Oct 2026 21:48:37 +0000",
+      "timestamp": 1793224117.0
+    },
+    {
+      "title": "Ask HN: We tax labour, why not tax AI?",
+      "link": "https://news.ycombinator.com/item?id=50281372",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 21:45:07 +0000",
+      "timestamp": 1793223907.0
+    },
+    {
+      "title": "AI agent skills for better second-hand decisions",
+      "link": "https://github.com/budna-marketplace/recommerce",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 21:42:12 +0000",
+      "timestamp": 1793223732.0
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 28 Oct 2026 21:34:30 +0000",
+      "timestamp": 1793223270.0
+    },
+    {
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-28T17:34:04-04:00",
+      "timestamp": 1793223244.0
+    },
+    {
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 28 Oct 2026 21:25:30 +0000",
+      "timestamp": 1793222730.0
+    },
+    {
+      "title": "AI training platform Outlier illegally surveils European platform workers",
+      "link": "https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 21:22:15 +0000",
+      "timestamp": 1793222535.0
+    },
+    {
+      "title": "The cultish behavior of top AI figures (2024)",
+      "link": "https://www.rollingstone.com/culture/culture-features/ai-companies-advocates-cult-1234954528/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 21:15:16 +0000",
+      "timestamp": 1793222116.0
+    },
+    {
+      "title": "How to Outrun the AI Hackers",
+      "link": "https://www.thefp.com/p/tyler-cowen-how-to-outrun-the-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 20:57:02 +0000",
+      "timestamp": 1793221022.0
+    },
+    {
+      "title": "When AI Does the Work, What Will Humans Do?",
+      "link": "https://project507.substack.com/p/when-ai-does-the-work-what-will-humans",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 20:52:31 +0000",
+      "timestamp": 1793220751.0
+    },
+    {
+      "title": "AI Startups Are Getting an Inch and Taking a Mile",
+      "link": "https://tedium.co/2026/10/27/ai-startups-sketchy-behavior/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 20:51:35 +0000",
+      "timestamp": 1793220695.0
+    },
+    {
+      "title": "Getting good at AI takes time and practice",
+      "link": "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 20:31:36 +0000",
+      "timestamp": 1793219496.0
+    },
+    {
+      "title": "Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp",
+      "link": "https://github.com/ChrystianSchutz/ThreadShelf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 20:23:34 +0000",
+      "timestamp": 1793219014.0
+    },
+    {
+      "title": "AI for Science expands to foundations and institutions",
+      "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 20:15:12 +0000",
+      "timestamp": 1793218512.0
+    },
+    {
+      "title": "Show HN: Race Radar – HYROX ticket alerts, run day to day by an AI CEO",
+      "link": "https://raceradar.fit/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 20:15:07 +0000",
+      "timestamp": 1793218507.0
+    },
+    {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 20:10:16 +0000",
+      "timestamp": 1793218216.0
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-28T16:03:00-04:00",
+      "timestamp": 1793217780.0
+    },
+    {
+      "title": "GoDaddy Says AI-Driven Cyberattack Exposed Website Customer Information",
+      "link": "https://vinnews.com/2026/10/28/godaddy-says-ai-driven-cyberattack-exposed-website-customer-information/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 19:52:37 +0000",
+      "timestamp": 1793217157.0
+    },
+    {
+      "title": "OpenAI no longer training AI models on live internet, citing 'significant risks'",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 19:28:16 +0000",
+      "timestamp": 1793215696.0
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "timestamp": 1793215198.0
+    },
+    {
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 28 Oct 2026 19:05:46 +0000",
+      "timestamp": 1793214346.0
+    },
     {
       "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
       "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
@@ -12,31 +255,13 @@
       "timestamp": 1793213439.0
     },
     {
-      "title": "Agent Scrum: Running a team of AI coding agents in two-hour sprints",
-      "link": "https://daveremy.github.io/agent-scrum/",
-      "summary": "",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 18:47:09 +0000",
-      "timestamp": 1793213229.0
-    },
-    {
-      "title": "Show HN: Measuring how much of an AI-assisted design is yours",
-      "link": "https://claude.ai/artifact/Xxm7H6eLCKgoxJVrSqTigH",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 18:41:45 +0000",
-      "timestamp": 1793212905.0
-    },
-    {
-      "title": "Prime's first AI-generated show is here, and it's a Vaseline-smeared mess",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/oct/29/castle-walls-review-prime-first-fully-ai-generated-tv-show",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 18:40:21 +0000",
-      "timestamp": 1793212821.0
+      "source": "The Verge AI",
+      "published": "2026-10-28T14:36:26-04:00",
+      "timestamp": 1793212586.0
     },
     {
       "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
@@ -46,150 +271,6 @@
       "source": "Wired AI",
       "published": "Wed, 28 Oct 2026 18:30:00 +0000",
       "timestamp": 1793212200.0
-    },
-    {
-      "title": "IFTTT Is Now IFTTT.ai",
-      "link": "https://ifttt.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 18:19:41 +0000",
-      "timestamp": 1793211581.0
-    },
-    {
-      "title": "C# and NATS.io for agentic AI orchestration",
-      "link": "https://nats.io/blog/nats-native-protocol-for-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 18:16:32 +0000",
-      "timestamp": 1793211392.0
-    },
-    {
-      "title": "Powerful Dem trio demands faster AI incident disclosures",
-      "link": "https://www.politico.com/live-updates/2026/10/28/congress/powerful-dem-trio-demands-faster-ai-incident-disclosures-01138531",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 18:09:54 +0000",
-      "timestamp": 1793210994.0
-    },
-    {
-      "title": "Amazon engineering leadership on the role of the developer in the age of AI",
-      "link": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 18:06:43 +0000",
-      "timestamp": 1793210803.0
-    },
-    {
-      "title": "What Women Want from AI",
-      "link": "https://www.elenaverna.com/p/dear-new-york-times-thats-not-what",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 18:06:31 +0000",
-      "timestamp": 1793210791.0
-    },
-    {
-      "title": "The Boring Future of AI Coding",
-      "link": "https://metamagic.substack.com/p/the-boring-future-of-ai-coding",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 18:05:53 +0000",
-      "timestamp": 1793210753.0
-    },
-    {
-      "title": "When the Job Description Says AI, but the Data Doesn't",
-      "link": "https://seeglassbox.com/market/entry-level-software/when-the-job-description-says-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 18:02:43 +0000",
-      "timestamp": 1793210563.0
-    },
-    {
-      "title": "Particle: AI inference layer for open weight models",
-      "link": "https://particle.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 17:58:56 +0000",
-      "timestamp": 1793210336.0
-    },
-    {
-      "title": "Show HN: AI Zen Garden",
-      "link": "https://zen-garden.ai",
-      "summary": "A place to spend your extra tokens. It's not really a game; It's not really anything I guess. You can bookmark specific locations and have an LLM add stuff.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 17:53:48 +0000",
-      "timestamp": 1793210028.0
-    },
-    {
-      "title": "Rent the model, own the harness: how to build a model-agnostic AI agent",
-      "link": "https://blog.getwerk.ai/posts/rent-the-model-own-the-harness",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 17:51:10 +0000",
-      "timestamp": 1793209870.0
-    },
-    {
-      "title": "Clonecode – Copy any website, run it locally, hand the design to your AI",
-      "link": "https://getclonecode.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 17:41:11 +0000",
-      "timestamp": 1793209271.0
-    },
-    {
-      "title": "Show HN: Preview video timelines live in the browser as AI agents edit them",
-      "link": "https://github.com/tellers-ai/skills",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 17:39:29 +0000",
-      "timestamp": 1793209169.0
-    },
-    {
-      "title": "A living document tracking my personal AI usage policy",
-      "link": "https://maevyn.codes/addenda/ai-usage-policy-and-guide",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 17:30:47 +0000",
-      "timestamp": 1793208647.0
-    },
-    {
-      "title": "I Used AI to Replace Apps I Was Paying for [video]",
-      "link": "https://www.youtube.com/watch?v=CFY_gHuMhUU",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 17:29:26 +0000",
-      "timestamp": 1793208566.0
-    },
-    {
-      "title": "AI at Whitman: Curiosity, Connection and Critique",
-      "link": "https://www.whitman.edu/whitman-stories/ai-at-whitman-curiosity-connection-and-critique",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 17:15:56 +0000",
-      "timestamp": 1793207756.0
-    },
-    {
-      "title": "AI financing driving private credit growth as refinancing risks rise – Moodys",
-      "link": "https://www.reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 17:14:26 +0000",
-      "timestamp": 1793207666.0
     },
     {
       "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
@@ -217,15 +298,6 @@
       "source": "The Verge AI",
       "published": "2026-10-28T13:00:00-04:00",
       "timestamp": 1793206800.0
-    },
-    {
-      "title": "Show HN: X402 integrations for an AI-agent data API, checked in a clean room",
-      "link": "https://www.blockchainiq.co/blog/x402-integrations-from-the-build-bounty",
-      "summary": "I run Blockchain IQ. We sell some crypto data to software agents per request over x402 (HTTP 402, USDC on Base, no account or API key). In October we paid for integrations: 22 were submitted and we checked each one by matching its on-chain payment to our purchase log and running it in a clean temporary folder with a throwaway wallet. Twenty passed; the post lists all of them with the exact commits we ran. To try the API: `curl -i https://www.blockchainiq.co/api/x402/v1/brief ` returns the 402 with the price ($0.01), and a wallet's first call is free. Questions about how we checked the code or ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 16:50:10 +0000",
-      "timestamp": 1793206210.0
     },
     {
       "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
@@ -417,42 +489,6 @@
       "timestamp": 1793120888.0
     },
     {
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-27T12:51:22-04:00",
-      "timestamp": 1793119882.0
-    },
-    {
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 27 Oct 2026 16:30:57 +0000",
-      "timestamp": 1793118657.0
-    },
-    {
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-27T12:14:18-04:00",
-      "timestamp": 1793117658.0
-    },
-    {
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-27T12:00:00-04:00",
-      "timestamp": 1793116800.0
-    },
-    {
       "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
       "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
       "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
@@ -460,51 +496,6 @@
       "source": "Wired AI",
       "published": "Tue, 27 Oct 2026 15:10:26 +0000",
       "timestamp": 1793113826.0
-    },
-    {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 27 Oct 2026 14:59:09 +0000",
-      "timestamp": 1793113149.0
-    },
-    {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 27 Oct 2026 13:32:57 +0000",
-      "timestamp": 1793107977.0
-    },
-    {
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "timestamp": 1793106000.0
-    },
-    {
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "timestamp": 1793106000.0
-    },
-    {
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "timestamp": 1793098800.0
     },
     {
       "title": "AI Agents Are Media’s New Favorite Audience",
