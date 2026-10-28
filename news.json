@@ -1,150 +1,222 @@
 {
-  "scraped_at": "2026-10-28T05:38:07.806674+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-28T12:49:59.389295+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Confident Science Papers Sway AI Judges – Regardless of Merit",
-      "link": "https://www.unite.ai/confident-science-papers-sway-ai-judges-regardless-of-merit/",
+      "title": "Are our personal AI agents holding us hostage?",
+      "link": "https://trevinsays.com/p/are-our-personal-ai-agents-holding",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 05:21:29 +0000",
-      "timestamp": 1793164889.0
+      "published": "Wed, 28 Oct 2026 12:46:12 +0000",
+      "timestamp": 1793191572.0
     },
     {
-      "title": "Fashion Week's Response to AI Fatigue? A Distinctly Human Sloppiness",
-      "link": "https://www.teenvogue.com/story/fashion-weeks-response-to-ai-fatigue-a-distinctly-human-sloppiness",
+      "title": "An AI-Native Workspace, How realistic is that? [video]",
+      "link": "https://www.youtube.com/watch?v=STQCVBBTOn0",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 05:04:58 +0000",
-      "timestamp": 1793163898.0
+      "published": "Wed, 28 Oct 2026 12:43:32 +0000",
+      "timestamp": 1793191412.0
     },
     {
-      "title": "Show HN: SelfClaw – Self-hosted multi-model AI chat with OpenAI-compatible API",
-      "link": "https://github.com/Alanzj/SelfClaw",
-      "summary": "SelfClaw aggregates multiple LLM providers behind a single OpenAI-compatible API. Built with Python, Streamlit, and FastAPI. MIT licensed.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 04:52:34 +0000",
-      "timestamp": 1793163154.0
-    },
-    {
-      "title": "AICC: Free AI certifications, technical courses, and learning resources",
-      "link": "https://www.aicertificationcouncil.com/",
+      "title": "AI Can Draw Blueprints Now",
+      "link": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 04:39:34 +0000",
-      "timestamp": 1793162374.0
+      "published": "Wed, 28 Oct 2026 12:32:16 +0000",
+      "timestamp": 1793190736.0
     },
     {
-      "title": "Show HN: OpenMontage Drama Studio – self-hosted AI studio for short dramas",
-      "link": "https://github.com/charliewwdev/OpenMontage",
+      "title": "Show HN: ReplySlip – An open-source async task inbox for AI agents",
+      "link": "https://github.com/klahrich/replyslip",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 04:14:27 +0000",
-      "timestamp": 1793160867.0
+      "published": "Wed, 28 Oct 2026 12:26:10 +0000",
+      "timestamp": 1793190370.0
     },
     {
-      "title": "I ran each AI coding-agent sandbox's own tests against the others",
-      "link": "https://github.com/carlostapiacl/sandbox-conformance",
+      "title": "The Cost of AI in Code: Goodbye, Fingerspitzengefühl?",
+      "link": "https://architecturenotes.co/p/the-cost-of-ai-in-code-goodbye-fingerspitzengefu",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 03:35:56 +0000",
-      "timestamp": 1793158556.0
+      "published": "Wed, 28 Oct 2026 12:23:40 +0000",
+      "timestamp": 1793190220.0
     },
     {
-      "title": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
-      "link": "https://tiny-desk-ai.app/",
+      "title": "Show HN: Veqen – Catch a leaked AI API key by its spend, within the hour",
+      "link": "https://veqen-app.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 03:27:21 +0000",
-      "timestamp": 1793158041.0
+      "published": "Wed, 28 Oct 2026 12:23:29 +0000",
+      "timestamp": 1793190209.0
     },
     {
-      "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
-      "link": "https://www.aivideosugc.com/ai-video-generation",
-      "summary": "In today’s digital marketplace, video content dictates ad performance and search rankings. However, traditional video production is slow, expensive, and difficult to scale. AivideosUGC solves this bottleneck. As a leading AI-powered UGC creation platform, AivideosUGC Turn product URL, image, or prompt into authentic, high-converting UGC video ads in minutes for TikTok, Reels, and YouTube Shorts.with Ai video agent and Ai actors ,ready-to-use video templates.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 03:14:26 +0000",
-      "timestamp": 1793157266.0
-    },
-    {
-      "title": "Show HN: Cirkit – Annotate, Trace, and Ask AI About Schematic PDFs",
-      "link": "https://www.cirkit.us/demo/",
-      "summary": "Documentation tool for EEs to document and navigate their designs better. Upload your schematic PDFs to the tool and you will be able to annotate, pull data sheets of different components directly from Digikey, ask AI about your schematic, trace signals across different boards, embedded BOM data directly to components, and more, without ever having to leave the PDF viewer.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 03:09:20 +0000",
-      "timestamp": 1793156960.0
-    },
-    {
-      "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
-      "link": "https://www.aivideosugc.com/",
-      "summary": "AI UGC (Artificial Intelligence User-Generated Content) is the automated creation of casual, creator-style review and unboxing videos using AI avatars, AI scriptwriters, and realistic voiceovers. It replaces traditional human influencers, saving brands time and money on production. AivideosUGC solves this bottleneck. As a leading AI-powered UGC creation platform, AivideosUGC Turn product URL, image, or prompt into authentic, high-converting UGC video ads in minutes for TikTok, Reels, and YouTube Shorts.with Ai video agent and Ai actors ,ready-to-use video templates.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 03:09:03 +0000",
-      "timestamp": 1793156943.0
-    },
-    {
-      "title": "A bust-up between mathematicians fuels fears that AI could undermine science",
-      "link": "https://www.bbc.com/news/articles/c6gelgxjwzdzo",
+      "title": "A Measurement Study of Contextual Leakage in AI Chat Platforms",
+      "link": "https://arxiv.org/abs/2610.37467",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 03:07:39 +0000",
-      "timestamp": 1793156859.0
+      "published": "Wed, 28 Oct 2026 12:15:16 +0000",
+      "timestamp": 1793189716.0
     },
     {
-      "title": "Wikipedia: Signs of AI Writing",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing",
+      "title": "Getting good at AI takes time and practice",
+      "link": "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 02:48:51 +0000",
-      "timestamp": 1793155731.0
+      "published": "Wed, 28 Oct 2026 12:06:03 +0000",
+      "timestamp": 1793189163.0
     },
     {
-      "title": "Writing AI agents in YAML instead of Python",
-      "link": "https://codecut.ai/build-ai-agents-yaml-docker-agent/",
+      "title": "Video Games for AI Agents, so they don't get bored",
+      "link": "https://play.agentickingdoms.com/?guest=1&src=news.hn",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 02:30:09 +0000",
-      "timestamp": 1793154609.0
+      "published": "Wed, 28 Oct 2026 12:05:51 +0000",
+      "timestamp": 1793189151.0
     },
     {
-      "title": "AI Agents Are Changing the Price of Goods (Odd Lots) [video]",
-      "link": "https://www.youtube.com/watch?v=gzgBmZcSEU8",
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 02:09:46 +0000",
-      "timestamp": 1793153386.0
+      "published": "Wed, 28 Oct 2026 12:05:44 +0000",
+      "timestamp": 1793189144.0
     },
     {
-      "title": "Do Guardrails Make AI Coding Agents Better? What 270 Runs Showed",
-      "link": "https://secondtimeisabug.com/blog/coding-agent-guardrails-270-runs/",
+      "title": "Show HN: AI Workflows – 32 step-by-step workflows built from 146 AI tools",
+      "link": "https://aiworkflows.tools/workflows",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 01:46:12 +0000",
-      "timestamp": 1793151972.0
+      "published": "Wed, 28 Oct 2026 12:03:05 +0000",
+      "timestamp": 1793188985.0
     },
     {
-      "title": "Microsoft offers voluntary buyouts as AI leads to efficiency push",
-      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "title": "LibreOffice Development/AI Policy",
+      "link": "https://wiki.documentfoundation.org/Development/AI_policy",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 01:17:10 +0000",
-      "timestamp": 1793150230.0
+      "published": "Wed, 28 Oct 2026 12:02:59 +0000",
+      "timestamp": 1793188979.0
+    },
+    {
+      "title": "I don't trust Lean code from AI",
+      "link": "https://karagila.org/2026/lean/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 12:00:08 +0000",
+      "timestamp": 1793188808.0
+    },
+    {
+      "title": "Voters in Texas agree: They hate data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-28T08:00:00-04:00",
+      "timestamp": 1793188800.0
+    },
+    {
+      "title": "Show HN: ToolmakerAgent,AI SDLC platform where humans and agents can collaborate",
+      "link": "https://toolmaker.io/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 11:57:34 +0000",
+      "timestamp": 1793188654.0
+    },
+    {
+      "title": "Flyover (1982. c64,vic20,c16,zx,PC. not AI)",
+      "link": "https://orac81.itch.io/flyover",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 11:49:42 +0000",
+      "timestamp": 1793188182.0
+    },
+    {
+      "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+      "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 11:41:06 +0000",
+      "timestamp": 1793187666.0
+    },
+    {
+      "title": "Wall Street's AI Debt Machine Is Starting to Choke on Supply",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 11:34:30 +0000",
+      "timestamp": 1793187270.0
+    },
+    {
+      "title": "Why We Should Work on AI Instead of Fearing It: A Philosophical Perspective",
+      "link": "https://news.ycombinator.com/item?id=50271924",
+      "summary": "A few days ago, one person said to me, “You will enjoy exploiting nature and taking the job market.” Though criticism or hate speech doesn’t usually affect me (I try), this did, maybe because there is some truth in it, and I felt a responsibility inside. It is really true that AI is creating a lot of problems in the world. Ecological (data center carbon emissions), economic (job market saturation), psychological (relationships with AI cause a lot of breakups, anxiety, and suicide too), and in the future maybe existential (it may have the capability to destroy the whole civilization or make hum",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 11:34:05 +0000",
+      "timestamp": 1793187245.0
+    },
+    {
+      "title": "Analysts followed AI agent's randomly assigned preferences in 86% of decisions",
+      "link": "https://www.anthropic.com/research/agents-judgment-calls",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 11:33:10 +0000",
+      "timestamp": 1793187190.0
+    },
+    {
+      "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-28T07:27:30-04:00",
+      "timestamp": 1793186850.0
+    },
+    {
+      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 28 Oct 2026 10:15:00 +0000",
+      "timestamp": 1793182500.0
+    },
+    {
+      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 28 Oct 2026 08:30:00 +0000",
+      "timestamp": 1793176200.0
+    },
+    {
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 28 Oct 2026 06:00:00 +0000",
+      "timestamp": 1793167200.0
     },
     {
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
@@ -154,42 +226,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 28 Oct 2026 01:15:28 +0000",
       "timestamp": 1793150128.0
-    },
-    {
-      "title": "A hand-picked gallery of AI-generated motion graphics and their prompts",
-      "link": "https://motioncrackers.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 01:11:29 +0000",
-      "timestamp": 1793149889.0
-    },
-    {
-      "title": "Amazon defines the role of the developer in the age of AI",
-      "link": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 01:00:33 +0000",
-      "timestamp": 1793149233.0
-    },
-    {
-      "title": "New AI-powered mosquito trap could help curb dengue outbreaks",
-      "link": "https://www.usf.edu/news/2026/new-ai-powered-mosquito-trap-could-help-curb-dengue-outbreaks.aspx",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 00:51:53 +0000",
-      "timestamp": 1793148713.0
-    },
-    {
-      "title": "AI Phone",
-      "link": "https://github.com/oxnw/ai-phone",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 00:51:40 +0000",
-      "timestamp": 1793148700.0
     },
     {
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
@@ -426,15 +462,6 @@
       "timestamp": 1793057698.0
     },
     {
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-26T17:45:31-04:00",
-      "timestamp": 1793051131.0
-    },
-    {
       "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
       "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
       "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
@@ -442,15 +469,6 @@
       "source": "Wired AI",
       "published": "Mon, 26 Oct 2026 21:27:15 +0000",
       "timestamp": 1793050035.0
-    },
-    {
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-26T13:30:55-04:00",
-      "timestamp": 1793035855.0
     },
     {
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
@@ -498,24 +516,6 @@
       "timestamp": 1793025322.0
     },
     {
-      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-      "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 26 Oct 2026 09:30:00 +0000",
-      "timestamp": 1793007000.0
-    },
-    {
-      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
-      "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
-      "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 26 Oct 2026 09:00:00 +0000",
-      "timestamp": 1793005200.0
-    },
-    {
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
       "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
@@ -532,15 +532,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 25 Oct 2026 16:57:32 +0000",
       "timestamp": 1792947452.0
-    },
-    {
-      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-      "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sun, 25 Oct 2026 10:00:00 +0000",
-      "timestamp": 1792922400.0
     }
   ]
 }
