@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-10-28T23:12:33.811077+00:00",
+  "scraped_at": "2026-10-29T02:25:31.142861+00:00",
   "count": 59,
   "items": [
+    {
+      "title": "A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)",
+      "link": "https://ai-agent-antivirus.space/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 29 Oct 2026 01:56:16 +0000",
+      "timestamp": 1793238976.0
+    },
+    {
+      "title": "Opera adds local AI to its browsers",
+      "link": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 29 Oct 2026 01:30:06 +0000",
+      "timestamp": 1793237406.0
+    },
+    {
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 29 Oct 2026 00:30:37 +0000",
+      "timestamp": 1793233837.0
+    },
+    {
+      "title": "Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)",
+      "link": "https://supermhel.github.io/fengarde/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 29 Oct 2026 00:24:55 +0000",
+      "timestamp": 1793233495.0
+    },
+    {
+      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 29 Oct 2026 00:16:08 +0000",
+      "timestamp": 1793232968.0
+    },
+    {
+      "title": "Victory You Can Now Exclude Apps from Siri AI",
+      "link": "https://www.eff.org/deeplinks/2026/10/victory-you-can-now-exclude-apps-siri-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 23:49:35 +0000",
+      "timestamp": 1793231375.0
+    },
+    {
+      "title": "Daily AI Stock Scanner",
+      "link": "https://aismarketcap.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 23:29:49 +0000",
+      "timestamp": 1793230189.0
+    },
+    {
+      "title": "Show HN: Open-source AI workspace with shared procedural memory",
+      "link": "https://github.com/TheWariend/CleanSlate",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 23:18:59 +0000",
+      "timestamp": 1793229539.0
+    },
+    {
+      "title": "Google AI Search Refuses to Say Who Won the 2020 Election",
+      "link": "https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 28 Oct 2026 23:13:59 +0000",
+      "timestamp": 1793229239.0
+    },
+    {
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-28T19:05:39-04:00",
+      "timestamp": 1793228739.0
+    },
     {
       "title": "Our AI Agent Executed the Same Successful SQL Query 254 Times",
       "link": "https://armincat.com/articles/ai-agent-executed-same-query-254-times",
@@ -138,69 +228,6 @@
       "timestamp": 1793221022.0
     },
     {
-      "title": "When AI Does the Work, What Will Humans Do?",
-      "link": "https://project507.substack.com/p/when-ai-does-the-work-what-will-humans",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 20:52:31 +0000",
-      "timestamp": 1793220751.0
-    },
-    {
-      "title": "AI Startups Are Getting an Inch and Taking a Mile",
-      "link": "https://tedium.co/2026/10/27/ai-startups-sketchy-behavior/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 20:51:35 +0000",
-      "timestamp": 1793220695.0
-    },
-    {
-      "title": "Getting good at AI takes time and practice",
-      "link": "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 20:31:36 +0000",
-      "timestamp": 1793219496.0
-    },
-    {
-      "title": "Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp",
-      "link": "https://github.com/ChrystianSchutz/ThreadShelf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 20:23:34 +0000",
-      "timestamp": 1793219014.0
-    },
-    {
-      "title": "AI for Science expands to foundations and institutions",
-      "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 20:15:12 +0000",
-      "timestamp": 1793218512.0
-    },
-    {
-      "title": "Show HN: Race Radar – HYROX ticket alerts, run day to day by an AI CEO",
-      "link": "https://raceradar.fit/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 20:15:07 +0000",
-      "timestamp": 1793218507.0
-    },
-    {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 20:10:16 +0000",
-      "timestamp": 1793218216.0
-    },
-    {
       "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
       "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
       "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
@@ -208,24 +235,6 @@
       "source": "The Verge AI",
       "published": "2026-10-28T16:03:00-04:00",
       "timestamp": 1793217780.0
-    },
-    {
-      "title": "GoDaddy Says AI-Driven Cyberattack Exposed Website Customer Information",
-      "link": "https://vinnews.com/2026/10/28/godaddy-says-ai-driven-cyberattack-exposed-website-customer-information/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 19:52:37 +0000",
-      "timestamp": 1793217157.0
-    },
-    {
-      "title": "OpenAI no longer training AI models on live internet, citing 'significant risks'",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 28 Oct 2026 19:28:16 +0000",
-      "timestamp": 1793215696.0
     },
     {
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
@@ -469,15 +478,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 27 Oct 2026 18:55:35 +0000",
       "timestamp": 1793127335.0
-    },
-    {
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-27T13:30:00-04:00",
-      "timestamp": 1793122200.0
     },
     {
       "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
