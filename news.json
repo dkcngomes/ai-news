@@ -1,159 +1,240 @@
 {
-  "scraped_at": "2026-10-30T15:54:46.492872+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-30T20:46:18.270176+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "ANSI 16-bit Art Design Studio with AI integration",
-      "link": "https://ansi.studio/",
+      "title": "US tech stocks tumble as concerns over AI spending intensify",
+      "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 15:52:50 +0000",
-      "timestamp": 1793375570.0
+      "published": "Fri, 30 Oct 2026 20:42:45 +0000",
+      "timestamp": 1793392965.0
     },
     {
-      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
-      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "title": "Big Tech sheds nearly $900B in rout over soaring AI spending",
+      "link": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 15:52:18 +0000",
-      "timestamp": 1793375538.0
+      "published": "Fri, 30 Oct 2026 20:42:00 +0000",
+      "timestamp": 1793392920.0
     },
     {
-      "title": "Data Centers, Debt and the Risks of AI's Finances Ed Zitron Jon Stewart [video]",
-      "link": "https://www.youtube.com/watch?v=3sDzlv-VI2U",
+      "title": "Blog: AI is in its Homelab era",
+      "link": "https://spencer.imbleau.com/blog/ai/2026/09/07/ai-is-still-in-its-homelab-era.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 15:46:55 +0000",
-      "timestamp": 1793375215.0
+      "published": "Fri, 30 Oct 2026 20:41:37 +0000",
+      "timestamp": 1793392897.0
     },
     {
-      "title": "Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "link": "https://huggingface.co/blog/announcing-project-protostar",
+      "title": "Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia's H200",
+      "link": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 15:45:38 +0000",
-      "timestamp": 1793375138.0
+      "published": "Fri, 30 Oct 2026 20:36:37 +0000",
+      "timestamp": 1793392597.0
     },
     {
-      "title": "There are several ways your AI chat conversations can be made public",
-      "link": "https://www.computerworld.com/article/4242386/dont-trust-ai-to-keep-your-secrets.html",
+      "title": "PrimeForge AI – Multi-channel marketing campaign generator from a single prompt",
+      "link": "https://news.ycombinator.com/item?id=50309788",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 15:42:26 +0000",
-      "timestamp": 1793374946.0
+      "published": "Fri, 30 Oct 2026 20:34:51 +0000",
+      "timestamp": 1793392491.0
     },
     {
-      "title": "AI being great at math makes human mathematicians more valuable, not less",
-      "link": "https://www.programmablemutter.com/p/ai-being-great-at-math-makes-human",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-30T16:26:10-04:00",
+      "timestamp": 1793391970.0
+    },
+    {
+      "title": "What's happening in Kubernetes to support AI workloads",
+      "link": "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 15:42:19 +0000",
-      "timestamp": 1793374939.0
+      "published": "Fri, 30 Oct 2026 20:24:53 +0000",
+      "timestamp": 1793391893.0
     },
     {
-      "title": "`We love how we look but AI tried to 'fix' our visible differences`",
-      "link": "https://www.bbc.com/news/articles/cmx28e44xxx7o",
+      "title": "Reddit is going logged-in only. Blame Google AI Overviews",
+      "link": "https://www.businessinsider.com/reddits-logged-in-google-ai-overviews-traffic-2026-10",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 15:19:10 +0000",
-      "timestamp": 1793373550.0
+      "published": "Fri, 30 Oct 2026 20:23:22 +0000",
+      "timestamp": 1793391802.0
     },
     {
-      "title": "UK ministers had time for AI datacenter bosses, but not for environmental groups",
-      "link": "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654",
+      "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+      "link": "https://www.phoronix.com/news/PostgreSQL-19-Late",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 15:13:37 +0000",
-      "timestamp": 1793373217.0
+      "published": "Fri, 30 Oct 2026 20:06:12 +0000",
+      "timestamp": 1793390772.0
     },
     {
-      "title": "Proton is AI-pilled and calls caution \"loser thinking\"",
-      "link": "https://werd.io/proton-is-ai-pilled-and-calls-caution-loser-thinking/",
+      "title": "EasyRE-Agent – an AI agent that solves crackmes and checks its own answers",
+      "link": "https://github.com/wojtas99/EasyRE-Agent",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 15:07:15 +0000",
-      "timestamp": 1793372835.0
+      "published": "Fri, 30 Oct 2026 19:54:48 +0000",
+      "timestamp": 1793390088.0
     },
     {
-      "title": "Show HN: Omneum – Local, text-blind context control plane for AI agents",
-      "link": "https://github.com/cole-h06/omneum",
+      "title": "Google plans to support shared AI training opt-out via robots.txt",
+      "link": "https://developers.google.com/search/blog/2026/10/ai-training-control",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 15:03:29 +0000",
-      "timestamp": 1793372609.0
+      "published": "Fri, 30 Oct 2026 19:51:58 +0000",
+      "timestamp": 1793389918.0
     },
     {
-      "title": "Show HN: Argument duello game with your friend – AI judge decides who's right",
-      "link": "https://wram.sprucekit.app/",
+      "title": "Put AI to Work for You",
+      "link": "https://ifttt.com/explore/put-ai-to-work-for-you",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 14:53:53 +0000",
-      "timestamp": 1793372033.0
+      "published": "Fri, 30 Oct 2026 18:58:52 +0000",
+      "timestamp": 1793386732.0
     },
     {
-      "title": "Show HN: AI agent needs process to build a commercial application",
-      "link": "https://nomorehappypath.com/",
-      "summary": "I decided to test this claim with my app, NoMoreHappyPath (NMHP), against Claude on a real project. Here is the test: I built Acremuse, a commercial real estate analysis platform, with Claude Desktop and Codex as a reviewer. It is deployed and used today by a couple of investors. Then I wondered what I'd missed that might bite me later. ~ 374,000 Lines of program code - 1,070 Source files (Python and TypeScript) - ~ 11,400 Functions and methods - 3,067 Automated tests So I gave the same 374k-line code snapshot and the same brief to one Claude session that can use Codex as a reviewer and to my ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 14:49:17 +0000",
-      "timestamp": 1793371757.0
-    },
-    {
-      "title": "Show HN: Beolis – Manage your coding AI agents",
-      "link": "https://beolis.com",
-      "summary": "Hey HN, I'm Fabio, the creator of Beolis. I've built Beolis ( https://beolis.com ) to better handle coding on agentic scenarios. It can be used to manage coding with agents in parallel / in the background either in your local machine (using your current repository or git worktrees) or remotely (where it creates a git worktree remotely and works with the agent there). Although it uses agents you don't need to \"chat\" with the agent at each step as you usually do when dealing with agents (although you still can), but rather create workflows where you can code the default steps you want. This mean",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 14:22:14 +0000",
-      "timestamp": 1793370134.0
-    },
-    {
-      "title": "Neal Stephenson on AI and What Comes Next [video]",
-      "link": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+      "title": "Tracking 11,709 AI launches on Hacker News",
+      "link": "https://spark.site/blog/ai-startup-failure-rate",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 14:18:34 +0000",
-      "timestamp": 1793369914.0
+      "published": "Fri, 30 Oct 2026 18:56:52 +0000",
+      "timestamp": 1793386612.0
     },
     {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+      "title": "Rival AI models write an encyclopedia and judge each other blind",
+      "link": "https://scio.md/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 14:08:20 +0000",
-      "timestamp": 1793369300.0
+      "published": "Fri, 30 Oct 2026 18:53:04 +0000",
+      "timestamp": 1793386384.0
     },
     {
-      "title": "AI Panic Rhymes with Mercantilism, AI Payoff Anywhere? Food 4 Agile Thought 568",
-      "link": "https://age-of-product.com/food-agile-thought-568-ai-panic/",
+      "title": "CoreWeave: Borrowing to Build the AI Cloud",
+      "link": "https://editide.com/pintura/coreweave/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 14:05:33 +0000",
-      "timestamp": 1793369133.0
+      "published": "Fri, 30 Oct 2026 18:45:29 +0000",
+      "timestamp": 1793385929.0
     },
     {
-      "title": "Making Failure Diagnosis Reliable with Pensive AI",
-      "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015",
+      "title": "Gnosh.ai – super intelligent AI that thinks, plans, recalls in Go",
+      "link": "https://gnosh.ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 14:03:44 +0000",
-      "timestamp": 1793369024.0
+      "published": "Fri, 30 Oct 2026 18:26:49 +0000",
+      "timestamp": 1793384809.0
+    },
+    {
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-30T14:21:38-04:00",
+      "timestamp": 1793384498.0
+    },
+    {
+      "title": "Bend 2: Is formal verification the future of AI coding? [video]",
+      "link": "https://www.youtube.com/watch?v=9ahgxINOJlo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 18:06:55 +0000",
+      "timestamp": 1793383615.0
+    },
+    {
+      "title": "AI \"Ghost Students\" Steal Millions in Student Loans, DOJ Says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 18:06:42 +0000",
+      "timestamp": 1793383602.0
+    },
+    {
+      "title": "AI review of the research of Emmanuel Saez and Gabriel Zucman",
+      "link": "https://saez-zucman-audit-replication.vercel.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 17:53:21 +0000",
+      "timestamp": 1793382801.0
+    },
+    {
+      "title": "MecAgent (AI agent for SolidWorks) scans drives for CAD files and uploads them",
+      "link": "https://www.reddit.com/r/SolidWorks/comments/1xjhrvz/psa_mecagent_ai_agent_for_solidworks_scans_your/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 17:50:43 +0000",
+      "timestamp": 1793382643.0
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 30 Oct 2026 17:47:12 +0000",
+      "timestamp": 1793382432.0
+    },
+    {
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-30T13:38:04-04:00",
+      "timestamp": 1793381884.0
+    },
+    {
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "timestamp": 1793379600.0
+    },
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 30 Oct 2026 16:03:45 +0000",
+      "timestamp": 1793376225.0
+    },
+    {
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-30T10:58:06-04:00",
+      "timestamp": 1793372286.0
     },
     {
       "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
@@ -165,40 +246,13 @@
       "timestamp": 1793368800.0
     },
     {
-      "title": "AI Can Breach Crypto Apps, Not Bitcoin – That's Where the Real Risk Lives",
-      "link": "https://www.ainvest.com/news/ai-breach-crypto-apps-bitcoin-real-risk-lives-2610/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 13:56:59 +0000",
-      "timestamp": 1793368619.0
-    },
-    {
       "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
       "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "summary": "DoorDash said that it is open to working with third-party agent makers",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 30 Oct 2026 13:54:25 +0000",
       "timestamp": 1793368465.0
-    },
-    {
-      "title": "AI Bubble Burst",
-      "link": "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 13:47:50 +0000",
-      "timestamp": 1793368070.0
-    },
-    {
-      "title": "Show HN: Navital Gym – open environments for testing AI agents on Indian tasks",
-      "link": "https://github.com/Navitallabs/navital-gym",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 13:19:15 +0000",
-      "timestamp": 1793366355.0
     },
     {
       "title": "Silicon Valley wants you to invest in miracles",
@@ -381,15 +435,6 @@
       "timestamp": 1793286000.0
     },
     {
-      "title": "The NYT Cooking app is testing AI recipe modifications",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-      "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-29T10:39:37-04:00",
-      "timestamp": 1793284777.0
-    },
-    {
       "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
       "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
       "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
@@ -399,15 +444,6 @@
       "timestamp": 1793284526.0
     },
     {
-      "title": "Anthropic is asking Wall Street to believe in AGI",
-      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-29T10:00:00-04:00",
-      "timestamp": 1793282400.0
-    },
-    {
       "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
       "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
       "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
@@ -415,15 +451,6 @@
       "source": "Wired AI",
       "published": "Thu, 29 Oct 2026 14:00:00 +0000",
       "timestamp": 1793282400.0
-    },
-    {
-      "title": "Anthropic’s business plan: Build God or die trying",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-29T09:30:00-04:00",
-      "timestamp": 1793280600.0
     },
     {
       "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
@@ -444,15 +471,6 @@
       "timestamp": 1793278800.0
     },
     {
-      "title": "AI has come for Arizona’s water",
-      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-29T06:00:04-04:00",
-      "timestamp": 1793268004.0
-    },
-    {
       "title": "I Gave My Blood to the AI Death Clock",
       "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
       "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
@@ -460,33 +478,6 @@
       "source": "Wired AI",
       "published": "Thu, 29 Oct 2026 10:00:00 +0000",
       "timestamp": 1793268000.0
-    },
-    {
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 28 Oct 2026 21:58:32 +0000",
-      "timestamp": 1793224712.0
-    },
-    {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 28 Oct 2026 21:48:37 +0000",
-      "timestamp": 1793224117.0
-    },
-    {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 28 Oct 2026 21:34:30 +0000",
-      "timestamp": 1793223270.0
     },
     {
       "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
