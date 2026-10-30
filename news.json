@@ -1,15 +1,177 @@
 {
-  "scraped_at": "2026-10-30T01:56:47.023587+00:00",
-  "count": 60,
+  "scraped_at": "2026-10-30T08:36:35.561730+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Google eng is sure AI will destroy humanity he's stopped saving for retirement",
-      "link": "https://finance.yahoo.com/technology/ai/articles/former-google-engineer-sure-ai-103000827.html",
+      "title": "Timestral Tested: How Much Data AI Demand Forecasting Needs",
+      "link": "https://winder.ai/timestral-ai-demand-forecasting/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 01:56:00 +0000",
-      "timestamp": 1793325360.0
+      "published": "Fri, 30 Oct 2026 08:34:52 +0000",
+      "timestamp": 1793349292.0
+    },
+    {
+      "title": "Show HN: Send21 – Crypto pay links an AI agent can create but can't spend",
+      "link": "https://send21.io/demo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 08:26:44 +0000",
+      "timestamp": 1793348804.0
+    },
+    {
+      "title": "Etsy to restrict AI-generated content in effort to combat seller slop",
+      "link": "https://www.nbcnews.com/business/consumer/etsy-restricts-ai-generated-seller-slop-rcna605216",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 08:23:31 +0000",
+      "timestamp": 1793348611.0
+    },
+    {
+      "title": "How (not) to use AI for pull requests and code reviews",
+      "link": "https://paulbakker.io/writing/how-not-to-use-ai-for-pull-requests-and-code-changes/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 08:23:22 +0000",
+      "timestamp": 1793348602.0
+    },
+    {
+      "title": "Spotify aims to launch AI music remix service early next year",
+      "link": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 08:16:44 +0000",
+      "timestamp": 1793348204.0
+    },
+    {
+      "title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
+      "link": "https://github.com/ZKStamp/AgentWallet",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 08:05:56 +0000",
+      "timestamp": 1793347556.0
+    },
+    {
+      "title": "Patterns in AI-Driven Software Development",
+      "link": "https://akos.ma/blog/patterns-in-ai-driven-software-development/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 07:21:56 +0000",
+      "timestamp": 1793344916.0
+    },
+    {
+      "title": "AI will bring in universal income and everyone will get wealthier",
+      "link": "https://www.thenationalnews.com/business/money/2026/10/28/ai-will-bring-in-universal-income-and-everyone-will-get-wealthier-oracles-larry-ellison-says/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 06:48:23 +0000",
+      "timestamp": 1793342903.0
+    },
+    {
+      "title": "AI Powered Cold Email",
+      "link": "https://usemailrush.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 06:45:03 +0000",
+      "timestamp": 1793342703.0
+    },
+    {
+      "title": "Canada to invest up to $1.6B in Toronto-based AI company Cohere",
+      "link": "https://www.cbc.ca/news/business/canada-cohere-ai-investment-9.7401367",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 06:11:52 +0000",
+      "timestamp": 1793340712.0
+    },
+    {
+      "title": "Plan R: AI Safety by ASICs",
+      "link": "https://www.lesswrong.com/posts/n8u3BfqFoGh4jnzpo/plan-r-ai-safety-by-asics",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 06:11:45 +0000",
+      "timestamp": 1793340705.0
+    },
+    {
+      "title": "Show HN: Breatic – Collaborative canvases and documents with an AI agent",
+      "link": "https://github.com/orime-org/breatic",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 04:23:59 +0000",
+      "timestamp": 1793334239.0
+    },
+    {
+      "title": "Show HN: HiPath AI – CS learning roadmaps where a quiz unlocks each lesson",
+      "link": "https://www.hipathai.me",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 03:45:17 +0000",
+      "timestamp": 1793331917.0
+    },
+    {
+      "title": "AI killed my software career [video]",
+      "link": "https://www.youtube.com/watch?v=cwsy-6gu5p4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 03:31:38 +0000",
+      "timestamp": 1793331098.0
+    },
+    {
+      "title": "I Built the Most AI-Pilled Company in the World",
+      "link": "https://twitter.com/jsnnsa/status/2115623382721126826",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 03:23:31 +0000",
+      "timestamp": 1793330611.0
+    },
+    {
+      "title": "China increasingly depends on copying American AI",
+      "link": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 03:21:06 +0000",
+      "timestamp": 1793330466.0
+    },
+    {
+      "title": "Ambition in the Age of AI",
+      "link": "https://aumitleon.dev/ambition-in-the-age-of-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 03:00:27 +0000",
+      "timestamp": 1793329227.0
+    },
+    {
+      "title": "The hard problem of AI therapy",
+      "link": "https://www.theseedsofscience.pub/p/the-hard-problem-of-ai-therapy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 02:45:50 +0000",
+      "timestamp": 1793328350.0
+    },
+    {
+      "title": "How I Built the Most AI-Pilled Company in the World",
+      "link": "https://x.com/jsnnsa/status/2115623382721126826?a=fjiH4cVowfsIKfO0urI&s=46",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 02:12:57 +0000",
+      "timestamp": 1793326377.0
     },
     {
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -21,184 +183,13 @@
       "timestamp": 1793323248.0
     },
     {
-      "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
-      "link": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 01:15:43 +0000",
-      "timestamp": 1793322943.0
-    },
-    {
-      "title": "How to Ace Interviews and Meetings with AI Assistance",
-      "link": "https://sanityos.com/blog/ai-meeting-interview-assistant",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 00:45:56 +0000",
-      "timestamp": 1793321156.0
-    },
-    {
-      "title": "GitHub trending projects with bilingual AI reviews and MCP access",
-      "link": "https://hotrepo.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 00:25:34 +0000",
-      "timestamp": 1793319934.0
-    },
-    {
-      "title": "Rich Hickey: \"AI\" is not a tool",
-      "link": "https://gist.github.com/richhickey/a2e19ef3f6f69ca0cca617a8a0da2268",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 00:06:00 +0000",
-      "timestamp": 1793318760.0
-    },
-    {
-      "title": "A Diary Has a Creditor: What Character.ai's Bankruptcy Hits Freedom of Thought",
-      "link": "https://www.techdirt.com/2026/10/29/your-diary-has-a-creditor-what-character-ais-bankruptcy-does-to-freedom-of-thought/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 23:54:07 +0000",
-      "timestamp": 1793318047.0
-    },
-    {
-      "title": "Deterministic AI: Why LLMs Aren't, and How to Build Products That Are Anyway",
-      "link": "https://broutonlab.com/blog/deterministic-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 23:52:20 +0000",
-      "timestamp": 1793317940.0
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 29 Oct 2026 23:42:22 +0000",
       "timestamp": 1793317342.0
-    },
-    {
-      "title": "AI, Mathematics, Education, and a public goods problem",
-      "link": "https://terrytao.wordpress.com/2026/10/29/ai-mathematics-education-and-a-public-goods-problem/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 23:28:44 +0000",
-      "timestamp": 1793316524.0
-    },
-    {
-      "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
-      "link": "https://judgementlabs.app/blog/the-coalition-room",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 23:19:01 +0000",
-      "timestamp": 1793315941.0
-    },
-    {
-      "title": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 23:15:33 +0000",
-      "timestamp": 1793315733.0
-    },
-    {
-      "title": "AI training platform Outlier illegally surveils European platform workers",
-      "link": "https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 23:13:41 +0000",
-      "timestamp": 1793315621.0
-    },
-    {
-      "title": "Are we in an AI Bubble? Lessons from 1873 and 2000",
-      "link": "https://samissermoyer.substack.com/p/are-we-in-an-ai-bubble-lessons-from",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 23:06:48 +0000",
-      "timestamp": 1793315208.0
-    },
-    {
-      "title": "When AI Starts Writing Systems Code",
-      "link": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 22:59:36 +0000",
-      "timestamp": 1793314776.0
-    },
-    {
-      "title": "Dartmouth provost resigns following accusations he used AI for writing",
-      "link": "https://apnews.com/article/dartmouth-provost-ai-a9f71dc5e9e10461c7c2390febcd1b5a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 22:35:31 +0000",
-      "timestamp": 1793313331.0
-    },
-    {
-      "title": "DIY AI Lockpicking Robot: ESP32 and Claude AI Opens Any Lock [video]",
-      "link": "https://www.youtube.com/watch?v=o4AUKGdScNI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 22:34:46 +0000",
-      "timestamp": 1793313286.0
-    },
-    {
-      "title": "Open-weight AI models can exploit the patch gap",
-      "link": "https://epoch.ai/publications/open-weight-models-patch-gap",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 22:32:46 +0000",
-      "timestamp": 1793313166.0
-    },
-    {
-      "title": "Google value plunges by $500B as AI fears rattle Wall Street",
-      "link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 22:22:13 +0000",
-      "timestamp": 1793312533.0
-    },
-    {
-      "title": "Biltong.ai",
-      "link": "https://biltong.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 22:17:48 +0000",
-      "timestamp": 1793312268.0
-    },
-    {
-      "title": "Building an AI-native engineering org",
-      "link": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 21:58:34 +0000",
-      "timestamp": 1793311114.0
-    },
-    {
-      "title": "Why Is AI Bad at Writing?",
-      "link": "https://weightythoughts.com/p/why-is-ai-bad-at-writing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 29 Oct 2026 21:51:29 +0000",
-      "timestamp": 1793310689.0
     },
     {
       "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
