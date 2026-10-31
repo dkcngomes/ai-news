@@ -1,51 +1,258 @@
 {
-  "scraped_at": "2026-10-30T20:46:18.270176+00:00",
-  "count": 59,
+  "scraped_at": "2026-10-31T00:45:59.859030+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "US tech stocks tumble as concerns over AI spending intensify",
-      "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3",
+      "title": "Show HN: Governor, a firewall for AI agent spend and tool calls",
+      "link": "https://bsvkey-governor-demo.fly.dev/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 20:42:45 +0000",
-      "timestamp": 1793392965.0
+      "published": "Sat, 31 Oct 2026 00:27:46 +0000",
+      "timestamp": 1793406466.0
     },
     {
-      "title": "Big Tech sheds nearly $900B in rout over soaring AI spending",
-      "link": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc",
+      "title": "Black October: At least nine AI developer platforms breached this month",
+      "link": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 20:42:00 +0000",
-      "timestamp": 1793392920.0
+      "published": "Sat, 31 Oct 2026 00:11:32 +0000",
+      "timestamp": 1793405492.0
     },
     {
-      "title": "Blog: AI is in its Homelab era",
-      "link": "https://spencer.imbleau.com/blog/ai/2026/09/07/ai-is-still-in-its-homelab-era.html",
+      "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+      "link": "https://judgementlabs.app/blog/the-coalition-room",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 20:41:37 +0000",
-      "timestamp": 1793392897.0
+      "published": "Sat, 31 Oct 2026 00:06:00 +0000",
+      "timestamp": 1793405160.0
     },
     {
-      "title": "Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia's H200",
-      "link": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates",
+      "title": "AI agents shape experts' judgment calls",
+      "link": "https://www.anthropic.com/research/agents-judgment-calls",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 20:36:37 +0000",
-      "timestamp": 1793392597.0
+      "published": "Fri, 30 Oct 2026 23:39:19 +0000",
+      "timestamp": 1793403559.0
     },
     {
-      "title": "PrimeForge AI – Multi-channel marketing campaign generator from a single prompt",
-      "link": "https://news.ycombinator.com/item?id=50309788",
+      "title": "AI changed what I can build",
+      "link": "https://tanner.place/blog/how-ai-changed-what-i-can-build",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 20:34:51 +0000",
-      "timestamp": 1793392491.0
+      "published": "Fri, 30 Oct 2026 23:10:13 +0000",
+      "timestamp": 1793401813.0
+    },
+    {
+      "title": "Reddit shares plunge as Google's AI search squeezes traffic",
+      "link": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 23:02:48 +0000",
+      "timestamp": 1793401368.0
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 30 Oct 2026 22:56:13 +0000",
+      "timestamp": 1793400973.0
+    },
+    {
+      "title": "Assure – your AI agent says \"done.\" This checks if it's lying",
+      "link": "https://github.com/mgasparin67-cmd/Agent-verification_Assure",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 22:48:05 +0000",
+      "timestamp": 1793400485.0
+    },
+    {
+      "title": "AI's Bill Is Due – Intelligence or Brand? – Cold Logic – EP01",
+      "link": "https://www.youtube.com/undefined",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 22:41:10 +0000",
+      "timestamp": 1793400070.0
+    },
+    {
+      "title": "Defining AI",
+      "link": "https://ali-alkhatib.com/blog/defining-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 22:37:13 +0000",
+      "timestamp": 1793399833.0
+    },
+    {
+      "title": "Now what? After the AI crash",
+      "link": "https://sorathompson.substack.com/p/now-what",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 22:36:10 +0000",
+      "timestamp": 1793399770.0
+    },
+    {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-30T18:32:53-04:00",
+      "timestamp": 1793399573.0
+    },
+    {
+      "title": "Google's $500B bloodbath reflects the danger it faces from AI",
+      "link": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 22:25:40 +0000",
+      "timestamp": 1793399140.0
+    },
+    {
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 22:22:14 +0000",
+      "timestamp": 1793398934.0
+    },
+    {
+      "title": "INTC and ORCL to Collab Around Agentic AI on OCI",
+      "link": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-oracle-collaborate-on-enterprise-and-agentic-ai.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 22:19:07 +0000",
+      "timestamp": 1793398747.0
+    },
+    {
+      "title": "Ignore AI and ask for that pay rise",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/29/ignore-ai-and-ask-for-that-pay-rise",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 22:16:09 +0000",
+      "timestamp": 1793398569.0
+    },
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 30 Oct 2026 21:54:34 +0000",
+      "timestamp": 1793397274.0
+    },
+    {
+      "title": "Show HN: I'm killing AI slop spam with a simple Google script",
+      "link": "https://news.ycombinator.com/item?id=50310650",
+      "summary": "As a founder, I've been getting an increasing amount of useless unsolicited outreach, all of which is clearly generated using AI. For some reason, Google's spam filter doesn't flag these emails as spam, so my phone buzzes throughout the day (especially in the morning) when one of these AI-generated messages arrives. I know there are some subscription tools I could use to filter these out, and there are some friction-creating tools I can use to keep them out of my inbox (like the ones that force senders to prove they're human 1x before their emails are delivered). But I figured there had to be ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 21:53:31 +0000",
+      "timestamp": 1793397211.0
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 30 Oct 2026 21:52:03 +0000",
+      "timestamp": 1793397123.0
+    },
+    {
+      "title": "Why my AI agents keep lie-ing? How do we trust?",
+      "link": "https://dotpals.vercel.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 21:47:31 +0000",
+      "timestamp": 1793396851.0
+    },
+    {
+      "title": "How much of an environmental menace is AI?",
+      "link": "https://www.cnn.com/2026/10/16/climate/ai-environmental-impact-energy-water-noise-explainer",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 21:44:54 +0000",
+      "timestamp": 1793396694.0
+    },
+    {
+      "title": "AI Capital Spending Is Booming. But What About Shareholder Returns?",
+      "link": "https://michaelhillaert1.substack.com/p/valuation-dislocation-october-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 21:41:07 +0000",
+      "timestamp": 1793396467.0
+    },
+    {
+      "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+      "link": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 21:32:35 +0000",
+      "timestamp": 1793395955.0
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 30 Oct 2026 21:26:59 +0000",
+      "timestamp": 1793395619.0
+    },
+    {
+      "title": "Using AI to Revive Frozen Bubble",
+      "link": "https://github.com/guax/frozen-bubble",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 30 Oct 2026 21:26:11 +0000",
+      "timestamp": 1793395571.0
+    },
+    {
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 30 Oct 2026 21:19:26 +0000",
+      "timestamp": 1793395166.0
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 30 Oct 2026 21:17:40 +0000",
+      "timestamp": 1793395060.0
+    },
+    {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-30T16:48:43-04:00",
+      "timestamp": 1793393323.0
     },
     {
       "title": "The biggest names in AI are backing a new way to opt out of scraping",
@@ -57,96 +264,6 @@
       "timestamp": 1793391970.0
     },
     {
-      "title": "What's happening in Kubernetes to support AI workloads",
-      "link": "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 20:24:53 +0000",
-      "timestamp": 1793391893.0
-    },
-    {
-      "title": "Reddit is going logged-in only. Blame Google AI Overviews",
-      "link": "https://www.businessinsider.com/reddits-logged-in-google-ai-overviews-traffic-2026-10",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 20:23:22 +0000",
-      "timestamp": 1793391802.0
-    },
-    {
-      "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
-      "link": "https://www.phoronix.com/news/PostgreSQL-19-Late",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 20:06:12 +0000",
-      "timestamp": 1793390772.0
-    },
-    {
-      "title": "EasyRE-Agent – an AI agent that solves crackmes and checks its own answers",
-      "link": "https://github.com/wojtas99/EasyRE-Agent",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 19:54:48 +0000",
-      "timestamp": 1793390088.0
-    },
-    {
-      "title": "Google plans to support shared AI training opt-out via robots.txt",
-      "link": "https://developers.google.com/search/blog/2026/10/ai-training-control",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 19:51:58 +0000",
-      "timestamp": 1793389918.0
-    },
-    {
-      "title": "Put AI to Work for You",
-      "link": "https://ifttt.com/explore/put-ai-to-work-for-you",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 18:58:52 +0000",
-      "timestamp": 1793386732.0
-    },
-    {
-      "title": "Tracking 11,709 AI launches on Hacker News",
-      "link": "https://spark.site/blog/ai-startup-failure-rate",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 18:56:52 +0000",
-      "timestamp": 1793386612.0
-    },
-    {
-      "title": "Rival AI models write an encyclopedia and judge each other blind",
-      "link": "https://scio.md/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 18:53:04 +0000",
-      "timestamp": 1793386384.0
-    },
-    {
-      "title": "CoreWeave: Borrowing to Build the AI Cloud",
-      "link": "https://editide.com/pintura/coreweave/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 18:45:29 +0000",
-      "timestamp": 1793385929.0
-    },
-    {
-      "title": "Gnosh.ai – super intelligent AI that thinks, plans, recalls in Go",
-      "link": "https://gnosh.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 18:26:49 +0000",
-      "timestamp": 1793384809.0
-    },
-    {
       "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
       "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
       "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in [&#8230;]",
@@ -154,42 +271,6 @@
       "source": "The Verge AI",
       "published": "2026-10-30T14:21:38-04:00",
       "timestamp": 1793384498.0
-    },
-    {
-      "title": "Bend 2: Is formal verification the future of AI coding? [video]",
-      "link": "https://www.youtube.com/watch?v=9ahgxINOJlo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 18:06:55 +0000",
-      "timestamp": 1793383615.0
-    },
-    {
-      "title": "AI \"Ghost Students\" Steal Millions in Student Loans, DOJ Says",
-      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 18:06:42 +0000",
-      "timestamp": 1793383602.0
-    },
-    {
-      "title": "AI review of the research of Emmanuel Saez and Gabriel Zucman",
-      "link": "https://saez-zucman-audit-replication.vercel.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 17:53:21 +0000",
-      "timestamp": 1793382801.0
-    },
-    {
-      "title": "MecAgent (AI agent for SolidWorks) scans drives for CAD files and uploads them",
-      "link": "https://www.reddit.com/r/SolidWorks/comments/1xjhrvz/psa_mecagent_ai_agent_for_solidworks_scans_your/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 30 Oct 2026 17:50:43 +0000",
-      "timestamp": 1793382643.0
     },
     {
       "title": "Zest’s new AI agent finds restaurants and books reservations over text",
@@ -363,15 +444,6 @@
       "timestamp": 1793301276.0
     },
     {
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-29T14:45:31-04:00",
-      "timestamp": 1793299531.0
-    },
-    {
       "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
       "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
@@ -399,33 +471,6 @@
       "timestamp": 1793293200.0
     },
     {
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 29 Oct 2026 16:42:32 +0000",
-      "timestamp": 1793292152.0
-    },
-    {
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 29 Oct 2026 16:21:00 +0000",
-      "timestamp": 1793290860.0
-    },
-    {
-      "title": "Microsoft’s AI future has fewer jobs",
-      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-29T12:00:00-04:00",
-      "timestamp": 1793289600.0
-    },
-    {
       "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
       "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
       "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
@@ -435,15 +480,6 @@
       "timestamp": 1793286000.0
     },
     {
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 29 Oct 2026 14:35:26 +0000",
-      "timestamp": 1793284526.0
-    },
-    {
       "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
       "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
       "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
@@ -451,24 +487,6 @@
       "source": "Wired AI",
       "published": "Thu, 29 Oct 2026 14:00:00 +0000",
       "timestamp": 1793282400.0
-    },
-    {
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "timestamp": 1793278800.0
-    },
-    {
-      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-      "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "timestamp": 1793278800.0
     },
     {
       "title": "I Gave My Blood to the AI Death Clock",
@@ -523,15 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 27 Oct 2026 19:39:04 +0000",
       "timestamp": 1793129944.0
-    },
-    {
-      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 27 Oct 2026 15:10:26 +0000",
-      "timestamp": 1793113826.0
     }
   ]
 }
