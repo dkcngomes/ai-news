@@ -1,69 +1,204 @@
 {
-  "scraped_at": "2026-10-31T13:37:54.592517+00:00",
+  "scraped_at": "2026-10-31T18:31:34.732600+00:00",
   "count": 60,
   "items": [
     {
-      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "title": "Software is Eating AI (2017)",
+      "link": "https://hyperparameter.space/blog/software-is-eating-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 13:25:10 +0000",
-      "timestamp": 1793453110.0
+      "published": "Sat, 31 Oct 2026 18:27:27 +0000",
+      "timestamp": 1793471247.0
     },
     {
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
+      "link": "https://www.arxo.io/findings/ARXO-2026-0413/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 13:25:00 +0000",
-      "timestamp": 1793453100.0
+      "published": "Sat, 31 Oct 2026 18:14:17 +0000",
+      "timestamp": 1793470457.0
     },
     {
-      "title": "To Bin or Not to Bin: A Tutorial on Fast Feedback Loops for AI Capabilities",
-      "link": "https://alexhans.github.io/posts/to-bin-or-not-to-bin.html",
+      "title": "The Impact of Generative AI on Critical Thinking",
+      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 13:20:47 +0000",
-      "timestamp": 1793452847.0
+      "published": "Sat, 31 Oct 2026 18:02:29 +0000",
+      "timestamp": 1793469749.0
     },
     {
-      "title": "Ask HN: If AI agents can run 24/7, why is almost nothing shipped overnight?",
-      "link": "https://news.ycombinator.com/item?id=50315898",
+      "title": "Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android",
+      "link": "https://zenodo.org/records/21909447",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 13:12:54 +0000",
-      "timestamp": 1793452374.0
+      "published": "Sat, 31 Oct 2026 17:59:27 +0000",
+      "timestamp": 1793469567.0
     },
     {
-      "title": "Show HN: NullPrime – do AI models know when they can't know?",
-      "link": "https://github.com/bmiedlar/nullprime",
+      "title": "Show HN: Publishub. An AI copilot for video creators and editors.",
+      "link": "https://www.getpublishub.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 12:30:31 +0000",
-      "timestamp": 1793449831.0
+      "published": "Sat, 31 Oct 2026 17:52:36 +0000",
+      "timestamp": 1793469156.0
     },
     {
-      "title": "Open Science: The open-source AI workbench for scientific research",
-      "link": "https://github.com/synthetic-sciences/openscience",
+      "title": "NichiHab Android app blocker with Gemini AI task verification",
+      "link": "https://github.com/alepoll/NichiHab",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 12:16:33 +0000",
-      "timestamp": 1793448993.0
+      "published": "Sat, 31 Oct 2026 17:37:54 +0000",
+      "timestamp": 1793468274.0
     },
     {
-      "title": "UriScanAI – An AI-powered urine color analyzer and hydration tracker",
-      "link": "https://play.google.com/store/apps/details?id=com.uriscanai.app&hl=en_US",
+      "title": "AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030",
+      "link": "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 12:02:30 +0000",
-      "timestamp": 1793448150.0
+      "published": "Sat, 31 Oct 2026 17:34:23 +0000",
+      "timestamp": 1793468063.0
+    },
+    {
+      "title": "Ask HN: Is AI destroying public online community as a protective moat?",
+      "link": "https://news.ycombinator.com/item?id=50318091",
+      "summary": "Initially my question was going to be about Reddit and how/why they let it go down the tubes with AI slop and declining confidence in ranking to a human. But as I think through it, the question applies to all of social media. Are they afraid if they meaningfully prevent bots traffic and [perceived] shareholder value will drop? Counter argument is X/Twitter. Musk has contorted it in all sorts of ways, but people stick around anyway.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 17:25:32 +0000",
+      "timestamp": 1793467532.0
+    },
+    {
+      "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 17:21:16 +0000",
+      "timestamp": 1793467276.0
+    },
+    {
+      "title": "Cheaper AI inference is making it harder to profit from renting out compute",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 17:13:50 +0000",
+      "timestamp": 1793466830.0
+    },
+    {
+      "title": "Jonathan Swift vs. AI",
+      "link": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 17:02:12 +0000",
+      "timestamp": 1793466132.0
+    },
+    {
+      "title": "AI-Run Companies Are Coming. Delaware Wants to Get Ahead of Them",
+      "link": "https://news.bloomberglaw.com/esg/ai-run-companies-are-coming-delaware-wants-to-get-ahead-of-them",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 16:44:45 +0000",
+      "timestamp": 1793465085.0
+    },
+    {
+      "title": "Show HN: CiteLLM – Verify AI Answers in PDFs",
+      "link": "https://citellm.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 16:29:43 +0000",
+      "timestamp": 1793464183.0
+    },
+    {
+      "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+      "link": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 16:25:38 +0000",
+      "timestamp": 1793463938.0
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 31 Oct 2026 16:12:55 +0000",
+      "timestamp": 1793463175.0
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-10-31T12:05:00-04:00",
+      "timestamp": 1793462700.0
+    },
+    {
+      "title": "Ask HN: Are you using AI to do election choices like Mayor, Special Measures",
+      "link": "https://news.ycombinator.com/item?id=50317351",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 15:59:29 +0000",
+      "timestamp": 1793462369.0
+    },
+    {
+      "title": "Anthropic hacked by AI startup in less than 12hrs",
+      "link": "https://www.msn.com/en-au/news/other/anthropic-hacked-by-ai-startup-in-less-than-12-hours/ar-AA2gaEHw",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 15:56:16 +0000",
+      "timestamp": 1793462176.0
+    },
+    {
+      "title": "Hans Moravec was right about AI. Is he right about the fate of humanity?",
+      "link": "https://www.msn.com/en-us/science/general/hans-moravec-was-right-about-ai-is-he-right-about-the-fate-of-humanity/ar-AA28ALzg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 15:48:35 +0000",
+      "timestamp": 1793461715.0
+    },
+    {
+      "title": "Photo Studios Are Closing as the Fashion Industry Embraces Generative AI",
+      "link": "https://petapixel.com/2026/10/28/photo-studios-are-closing-as-the-fashion-industry-embraces-generative-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 15:41:39 +0000",
+      "timestamp": 1793461299.0
+    },
+    {
+      "title": "Ask HN: How are the other sciences using AI?",
+      "link": "https://news.ycombinator.com/item?id=50317158",
+      "summary": "I understand CS and mathematics. But I've heard it claimed that a lot of the other sciences are using LLMs every day as well. Can anybody explain these workflows?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 15:38:33 +0000",
+      "timestamp": 1793461113.0
+    },
+    {
+      "title": "mobile-agent: faster mobile app iteration for AI coding agents",
+      "link": "https://mobileagent.dev",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 15:21:57 +0000",
+      "timestamp": 1793460117.0
     },
     {
       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
@@ -73,33 +208,6 @@
       "source": "Wired AI",
       "published": "Sat, 31 Oct 2026 12:00:00 +0000",
       "timestamp": 1793448000.0
-    },
-    {
-      "title": "Collaborative AI agents for autonomous experimental research",
-      "link": "https://arxiv.org/abs/2610.40589",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 11:34:17 +0000",
-      "timestamp": 1793446457.0
-    },
-    {
-      "title": "What Is Work For? Labor, Politics, and Meaning in the Age of AI",
-      "link": "https://arxiv.org/abs/2610.39375",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 11:28:42 +0000",
-      "timestamp": 1793446122.0
-    },
-    {
-      "title": "Entire Insurance industry could be overwhelmed by catastrophic AI event",
-      "link": "https://www.intelligentinsurer.com/entire-insurance-industry-could-be-overwhelmed-by-catastrophic-ai-event-anthropic",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 11:02:58 +0000",
-      "timestamp": 1793444578.0
     },
     {
       "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
@@ -118,96 +226,6 @@
       "source": "Wired AI",
       "published": "Sat, 31 Oct 2026 10:00:00 +0000",
       "timestamp": 1793440800.0
-    },
-    {
-      "title": "The supercomputer powering Greece's AI ambitions",
-      "link": "https://www.ekathimerini.com/economy/1319798/inside-the-supercomputer-powering-greeces-ai-ambitions/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 09:56:52 +0000",
-      "timestamp": 1793440612.0
-    },
-    {
-      "title": "Show HN: JJ Suna AI – Open 5B Flow-Matching DiT for 48 KHz Music Synthesis",
-      "link": "https://suna.jjcoders.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 09:55:29 +0000",
-      "timestamp": 1793440529.0
-    },
-    {
-      "title": "Are There Problems Beyond the Reach of AI [video]",
-      "link": "https://www.youtube.com/watch?v=NWNbAEivyvs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 09:19:58 +0000",
-      "timestamp": 1793438398.0
-    },
-    {
-      "title": "Show HN: I benchmarked a voice AI against real people. It scored at chance",
-      "link": "https://mundi.chat/try",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 09:18:05 +0000",
-      "timestamp": 1793438285.0
-    },
-    {
-      "title": "Ask HN: Books about AI Revolution happening now",
-      "link": "https://news.ycombinator.com/item?id=50314339",
-      "summary": "Hi HN, what books are worth reading about the AI Revolution happening right now? I would prefer rational and critical analysis with pros and cons. But not necessarily some blind optimism.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 09:08:51 +0000",
-      "timestamp": 1793437731.0
-    },
-    {
-      "title": "An AI agent read a Shift_JIS page as 208,953 replacement characters",
-      "link": "https://github.com/openclaw/openclaw/pull/188766",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 09:05:23 +0000",
-      "timestamp": 1793437523.0
-    },
-    {
-      "title": "Open-weight AI models can exploit the patch gap",
-      "link": "https://epoch.ai/publications/open-weight-models-patch-gap",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 08:53:31 +0000",
-      "timestamp": 1793436811.0
-    },
-    {
-      "title": "Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools",
-      "link": "https://news.ycombinator.com/item?id=50314217",
-      "summary": "I'm not naive enough to think that these companies don't already have some internal detection tools, but they clearly are not being used enough. Lately researching anything using agents has been a pain (especially if the query leads up to buying intent) - the sources quoted are often AI slop, which are then used to deterministically argue a point. On the first challenge to logic, the reply is usually an apology followed by a tangential search and agreement on the user argued point - sometimes even a hedge. There is a simple problem embedded at the center of this, that at least partially explai",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 08:36:25 +0000",
-      "timestamp": 1793435785.0
-    },
-    {
-      "title": "State of the Prompt: What People Ask AI",
-      "link": "https://stateoftheprompt.net/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 08:02:35 +0000",
-      "timestamp": 1793433755.0
-    },
-    {
-      "title": "Ask HN: Is anyone else struggling with AI wealth FOMO?",
-      "link": "https://news.ycombinator.com/item?id=50313645",
-      "summary": "I’ve lately been struggling with enjoying a perfectly good life when I’m constantly reminded that other people are experiencing extraordinary financial success. And that success feels…strange? I don’t know how to put words to it. Like the monetary values associated are untethered to delivering value?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 06:14:28 +0000",
-      "timestamp": 1793427268.0
     },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -417,15 +435,6 @@
       "timestamp": 1793358000.0
     },
     {
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-30T05:00:00-04:00",
-      "timestamp": 1793350800.0
-    },
-    {
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
       "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
@@ -487,15 +496,6 @@
       "source": "Wired AI",
       "published": "Thu, 29 Oct 2026 18:39:43 +0000",
       "timestamp": 1793299183.0
-    },
-    {
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 29 Oct 2026 17:54:38 +0000",
-      "timestamp": 1793296478.0
     },
     {
       "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
