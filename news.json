@@ -1,7 +1,97 @@
 {
-  "scraped_at": "2026-10-31T22:27:42.261377+00:00",
+  "scraped_at": "2026-11-01T02:12:27.192866+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
+      "link": "https://github.com/shashtag-ventures/linkedin-ops",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 01:46:21 +0000",
+      "timestamp": 1793497581.0
+    },
+    {
+      "title": "How AI may drive union-resistant tech workers to the bargaining table",
+      "link": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 00:49:23 +0000",
+      "timestamp": 1793494163.0
+    },
+    {
+      "title": "The Elephant-Goldfish Model plugin for spec-driven AI development",
+      "link": "https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 00:39:58 +0000",
+      "timestamp": 1793493598.0
+    },
+    {
+      "title": "Wikimedia Foundation Tries to Save Itself by Brokering AI Copyright Deal",
+      "link": "https://gizmodo.com/wikimedia-foundation-tries-to-save-itself-from-oblivion-by-brokering-ai-copyright-deal-2000833099",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 00:30:34 +0000",
+      "timestamp": 1793493034.0
+    },
+    {
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 00:19:20 +0000",
+      "timestamp": 1793492360.0
+    },
+    {
+      "title": "Honest Government Ad – AI Data Centres [video]",
+      "link": "https://www.youtube.com/watch?v=kON2ZI2BNj8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 00:05:14 +0000",
+      "timestamp": 1793491514.0
+    },
+    {
+      "title": "Writing was flagged as AI. What does that mean?",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 23:37:51 +0000",
+      "timestamp": 1793489871.0
+    },
+    {
+      "title": "When AI writes almost all code, what happens to software engineering?",
+      "link": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 23:34:14 +0000",
+      "timestamp": 1793489654.0
+    },
+    {
+      "title": "Yours.ai- a Studio for Interesting Ideas",
+      "link": "https://www.yoursai.in",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 23:04:53 +0000",
+      "timestamp": 1793487893.0
+    },
+    {
+      "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 31 Oct 2026 22:57:27 +0000",
+      "timestamp": 1793487447.0
+    },
     {
       "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
       "link": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/",
@@ -118,96 +208,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 31 Oct 2026 19:25:06 +0000",
       "timestamp": 1793474706.0
-    },
-    {
-      "title": "The Limits of AI as an Economic Weapon",
-      "link": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 18:56:26 +0000",
-      "timestamp": 1793472986.0
-    },
-    {
-      "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
-      "link": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 18:54:27 +0000",
-      "timestamp": 1793472867.0
-    },
-    {
-      "title": "Ask HN: Has Google started cleaning their search results from AI slop?",
-      "link": "https://news.ycombinator.com/item?id=50318869",
-      "summary": "Hey everyone, I'm maintaining a couple personal pet projects and I've recently noticed in google search console that on both projects impressions and clicks went from 500-700 impressions / 10-15 clicks daily to almost zero in one day. First I thought that I broke something (e.g. added noindex by mistake or so), but everything was good and content was good, fresh and up to date. I went researching and it turned out Google changed their anti-spam policy and dropped A LOT of links from their index around Oct 26 or so. From what I see is that they're trying to remove a lot of fake abusive AI-gener",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 18:50:25 +0000",
-      "timestamp": 1793472625.0
-    },
-    {
-      "title": "Google's AI satellite sends a expensive haiku to Earth",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 18:48:53 +0000",
-      "timestamp": 1793472533.0
-    },
-    {
-      "title": "Software is Eating AI (2017)",
-      "link": "https://hyperparameter.space/blog/software-is-eating-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 18:27:27 +0000",
-      "timestamp": 1793471247.0
-    },
-    {
-      "title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
-      "link": "https://www.arxo.io/findings/ARXO-2026-0413/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 18:14:17 +0000",
-      "timestamp": 1793470457.0
-    },
-    {
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/...",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 18:02:29 +0000",
-      "timestamp": 1793469749.0
-    },
-    {
-      "title": "Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android",
-      "link": "https://zenodo.org/records/21909447",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 17:59:27 +0000",
-      "timestamp": 1793469567.0
-    },
-    {
-      "title": "Show HN: Publishub. An AI copilot for video creators and editors.",
-      "link": "https://www.getpublishub.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 17:52:36 +0000",
-      "timestamp": 1793469156.0
-    },
-    {
-      "title": "NichiHab Android app blocker with Gemini AI task verification",
-      "link": "https://github.com/alepoll/NichiHab",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 31 Oct 2026 17:37:54 +0000",
-      "timestamp": 1793468274.0
     },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
