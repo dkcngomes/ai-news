@@ -1,186 +1,195 @@
 {
-  "scraped_at": "2026-11-01T09:13:07.825137+00:00",
+  "scraped_at": "2026-11-01T16:01:05.299898+00:00",
   "count": 60,
   "items": [
     {
-      "title": "What operational task would you hand to a 7-day custom AI tool?",
-      "link": "https://www.indiehackers.com/post/i-m-building-25-free-ai-tools-for-small-businesses-in-7-days-each-here-s-why-and-what-i-need-from-you-e253531348",
+      "title": "Codedict – a no-AI code index that cut my Claude Code tokens by 63%",
+      "link": "https://github.com/Marqueos/codedict",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 09:02:12 +0000",
-      "timestamp": 1793523732.0
+      "published": "Sun, 01 Nov 2026 15:54:21 +0000",
+      "timestamp": 1793548461.0
     },
     {
-      "title": "Early Career Researcher Responses to AI in Math",
-      "link": "https://arxiv.org/abs/2610.40584",
+      "title": "Is this the first clear evidence of AI's impact on the labour market?",
+      "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 08:47:22 +0000",
-      "timestamp": 1793522842.0
+      "published": "Sun, 01 Nov 2026 15:52:57 +0000",
+      "timestamp": 1793548377.0
     },
     {
-      "title": "Is AI Cheap Enough to Replace Developers?",
-      "link": "https://zyvop.com/is-ai-actually-cheap-enough-to-replace-developers-8i74u",
+      "title": "Ransomware gang bypassed AI guardrails by posing as red-team testers",
+      "link": "https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 08:04:48 +0000",
-      "timestamp": 1793520288.0
+      "published": "Sun, 01 Nov 2026 15:21:57 +0000",
+      "timestamp": 1793546517.0
     },
     {
-      "title": "Ghost in the machine: how AI is haunting the search for the supernatural",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting",
+      "title": "How to Prove What Your AI Agent Did – ZizkaDB's Two GitHub Actions",
+      "link": "https://medium.com/@MirArshadTalpur/how-to-prove-what-your-ai-agent-did-in-minutes-zizkadbs-two-github-actions-and-mcp-listing-7d3d6669dab6",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 07:46:28 +0000",
-      "timestamp": 1793519188.0
+      "published": "Sun, 01 Nov 2026 15:05:16 +0000",
+      "timestamp": 1793545516.0
     },
     {
-      "title": "Bubbuild/republic: A Python library for AI providers",
-      "link": "https://github.com/bubbuild/republic",
+      "title": "AI as Social Technology",
+      "link": "https://knightcolumbia.org/content/ai-as-social-technology",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 07:32:47 +0000",
-      "timestamp": 1793518367.0
+      "published": "Sun, 01 Nov 2026 14:36:44 +0000",
+      "timestamp": 1793543804.0
     },
     {
-      "title": "Show HN: AnchorGit – Hardware-signed Git decision ledger for AI code",
-      "link": "https://www.anchorgit.com",
+      "title": "Opt out of AI use at work based on religious freedoms law",
+      "link": "https://fortune.com/2026/10/30/kentucky-administrator-ai-religious-exemption-title-vii-humanism/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 07:04:15 +0000",
-      "timestamp": 1793516655.0
+      "published": "Sun, 01 Nov 2026 14:24:38 +0000",
+      "timestamp": 1793543078.0
     },
     {
-      "title": "How to Live with AI",
-      "link": "https://humanpro.co/articles/how-to-live-with-ai/",
+      "title": "Terence Tao on how AI math solutions miss the point",
+      "link": "https://www.sciencefriday.com/segments/terence-tao-ai-math-solutions/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 06:54:59 +0000",
-      "timestamp": 1793516099.0
+      "published": "Sun, 01 Nov 2026 14:22:38 +0000",
+      "timestamp": 1793542958.0
     },
     {
-      "title": "Who pays for the AI power boom?",
-      "link": "https://www.axios.com/2026/10/31/who-pays-ai-power-boom",
+      "title": "Show HN: Let formal specs test AI implementations",
+      "link": "https://github.com/mrasu/spec-guardian",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 06:20:11 +0000",
-      "timestamp": 1793514011.0
+      "published": "Sun, 01 Nov 2026 14:11:06 +0000",
+      "timestamp": 1793542266.0
     },
     {
-      "title": "Work, Art, and Study: AI and Ownership",
-      "link": "https://ninchiai.substack.com/p/work-art-and-study-ai-and-ownership",
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 06:11:38 +0000",
-      "timestamp": 1793513498.0
+      "published": "Sun, 01 Nov 2026 13:47:24 +0000",
+      "timestamp": 1793540844.0
     },
     {
-      "title": "The AI cost of JavaScript frameworks",
-      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "title": "What does good AI mean?",
+      "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 06:06:19 +0000",
-      "timestamp": 1793513179.0
+      "published": "Sun, 01 Nov 2026 13:39:34 +0000",
+      "timestamp": 1793540374.0
     },
     {
-      "title": "Computerized clairvoyance: psychics push back against AI-generated readings",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
+      "title": "AI is a technological version of the Homeric songs",
+      "link": "https://www.economist.com/by-invitation/2026/10/28/ai-is-a-technological-version-of-the-homeric-songs",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 05:32:41 +0000",
-      "timestamp": 1793511161.0
+      "published": "Sun, 01 Nov 2026 13:38:09 +0000",
+      "timestamp": 1793540289.0
     },
     {
-      "title": "Meridian: A peer-to-peer browser game world built by an AI agent",
-      "link": "https://blakelapierre.substack.com/p/meridian-in-action-play-it-in-your",
+      "title": "Vibe Coding an Autonomous Agent Harness in Go: Self-Healing AI Workflows",
+      "link": "https://medium.com/@vishwanathanraman/vibe-coding-an-autonomous-agent-harness-in-go-from-zero-to-self-healing-ai-workflows-785d82f981b6",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 05:25:33 +0000",
-      "timestamp": 1793510733.0
+      "published": "Sun, 01 Nov 2026 13:37:38 +0000",
+      "timestamp": 1793540258.0
     },
     {
-      "title": "The AI boom spawns job market for data-center liaisons",
-      "link": "https://www.semafor.com/article/10/30/2026/the-ai-boom-spawns-job-market-for-data-center-liaisons",
+      "title": "Agentic AI is myth set in motion",
+      "link": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 04:54:39 +0000",
-      "timestamp": 1793508879.0
+      "published": "Sun, 01 Nov 2026 13:34:05 +0000",
+      "timestamp": 1793540045.0
     },
     {
-      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-      "link": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "title": "A 90% Chance of AI Saving Humanity",
+      "link": "https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 03:27:55 +0000",
-      "timestamp": 1793503675.0
+      "published": "Sun, 01 Nov 2026 13:19:04 +0000",
+      "timestamp": 1793539144.0
     },
     {
-      "title": "AI Made Me Homeless",
-      "link": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
+      "title": "The question we should all be asking about AI",
+      "link": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 02:38:11 +0000",
-      "timestamp": 1793500691.0
+      "published": "Sun, 01 Nov 2026 12:44:36 +0000",
+      "timestamp": 1793537076.0
     },
     {
-      "title": "James Mickens' Talk: A Sober Analysis of AI Impact (LABScon '26)",
-      "link": "https://www.youtube.com/watch?v=usZLo_9Jz54",
+      "title": "Context Mode – An Open-Source MCP Server That Reduces AI Coding Context Usage",
+      "link": "https://github.com/mksglu/context-mode",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 02:17:57 +0000",
-      "timestamp": 1793499477.0
+      "published": "Sun, 01 Nov 2026 11:56:19 +0000",
+      "timestamp": 1793534179.0
     },
     {
-      "title": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
-      "link": "https://github.com/shashtag-ventures/linkedin-ops",
+      "title": "When AI Writes the Code, Show Your Judgment",
+      "link": "https://www.eyosias.dev/case-studies/ai-mailbox-analysis",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 01:46:21 +0000",
-      "timestamp": 1793497581.0
+      "published": "Sun, 01 Nov 2026 11:44:25 +0000",
+      "timestamp": 1793533465.0
     },
     {
-      "title": "How AI may drive union-resistant tech workers to the bargaining table",
-      "link": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+      "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
+      "link": "https://agenticresourcediscovery.org/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 00:49:23 +0000",
-      "timestamp": 1793494163.0
+      "published": "Sun, 01 Nov 2026 11:39:35 +0000",
+      "timestamp": 1793533175.0
     },
     {
-      "title": "The Elephant-Goldfish Model plugin for spec-driven AI development",
-      "link": "https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html",
+      "title": "Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
+      "link": "https://github.com/matricphase-dot/aiops",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 00:39:58 +0000",
-      "timestamp": 1793493598.0
+      "published": "Sun, 01 Nov 2026 10:48:39 +0000",
+      "timestamp": 1793530119.0
     },
     {
-      "title": "Wikimedia Foundation Tries to Save Itself by Brokering AI Copyright Deal",
-      "link": "https://gizmodo.com/wikimedia-foundation-tries-to-save-itself-from-oblivion-by-brokering-ai-copyright-deal-2000833099",
+      "title": "AI Warning for Steam – Increases Visibility of AI Generated Content Disclosures",
+      "link": "https://github.com/seeeeew/aiwarningforsteam",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 00:30:34 +0000",
-      "timestamp": 1793493034.0
+      "published": "Sun, 01 Nov 2026 10:47:55 +0000",
+      "timestamp": 1793530075.0
+    },
+    {
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sun, 01 Nov 2026 10:30:00 +0000",
+      "timestamp": 1793529000.0
     },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Wed, 28 Oct 2026 18:30:00 +0000",
       "timestamp": 1793212200.0
-    },
-    {
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 28 Oct 2026 10:15:00 +0000",
-      "timestamp": 1793182500.0
     }
   ]
 }
