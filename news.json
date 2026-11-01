@@ -1,186 +1,186 @@
 {
-  "scraped_at": "2026-11-01T16:01:05.299898+00:00",
+  "scraped_at": "2026-11-01T20:29:07.839123+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Codedict – a no-AI code index that cut my Claude Code tokens by 63%",
-      "link": "https://github.com/Marqueos/codedict",
+      "title": "Are There Problems Beyond the Reach of AI [video]",
+      "link": "https://www.youtube.com/watch?v=NWNbAEivyvs",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 15:54:21 +0000",
-      "timestamp": 1793548461.0
+      "published": "Sun, 01 Nov 2026 20:06:51 +0000",
+      "timestamp": 1793563611.0
     },
     {
-      "title": "Is this the first clear evidence of AI's impact on the labour market?",
-      "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487",
+      "title": "Show HN: Castov – A local-first desktop automation engine using local AI",
+      "link": "https://castov.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 15:52:57 +0000",
-      "timestamp": 1793548377.0
+      "published": "Sun, 01 Nov 2026 19:59:55 +0000",
+      "timestamp": 1793563195.0
     },
     {
-      "title": "Ransomware gang bypassed AI guardrails by posing as red-team testers",
-      "link": "https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution",
+      "title": "Slop Code Monitor – scanned 2.6B of code to quantify AI cognitive debt",
+      "link": "https://slopcodemonitor.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 15:21:57 +0000",
-      "timestamp": 1793546517.0
+      "published": "Sun, 01 Nov 2026 19:30:12 +0000",
+      "timestamp": 1793561412.0
     },
     {
-      "title": "How to Prove What Your AI Agent Did – ZizkaDB's Two GitHub Actions",
-      "link": "https://medium.com/@MirArshadTalpur/how-to-prove-what-your-ai-agent-did-in-minutes-zizkadbs-two-github-actions-and-mcp-listing-7d3d6669dab6",
-      "summary": "",
+      "title": "Ask HN: What mistakes did AI make in your codebase?",
+      "link": "https://news.ycombinator.com/item?id=50328797",
+      "summary": "In the past few weeks I've beeing working with frontier AI - Opus 5.5, Astra, Sol 6.1, Fable 5.1 and Gemini Argon. AI has become really good at coding in some sense, that's undeniable, and there are people that say you don't really need to review their code anymore. But I keep getting stuck in a sensation that's between cognitive dissonance, FOMO, and a vague sense of being gaslit, because when I review the code it writes - and this is all of them - 80% of it is right, and 20% is wrong, but in extremely subtle ways; only when you deeply understand the system and carefully review it do you spot",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 15:05:16 +0000",
-      "timestamp": 1793545516.0
+      "published": "Sun, 01 Nov 2026 19:25:25 +0000",
+      "timestamp": 1793561125.0
     },
     {
-      "title": "AI as Social Technology",
-      "link": "https://knightcolumbia.org/content/ai-as-social-technology",
+      "title": "\"AI for everyone would cost a tenth of a kettle a day",
+      "link": "https://allyburns.com/musings/ai-for-all/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 14:36:44 +0000",
-      "timestamp": 1793543804.0
+      "published": "Sun, 01 Nov 2026 19:23:16 +0000",
+      "timestamp": 1793560996.0
     },
     {
-      "title": "Opt out of AI use at work based on religious freedoms law",
-      "link": "https://fortune.com/2026/10/30/kentucky-administrator-ai-religious-exemption-title-vii-humanism/",
+      "title": "Versuscraft: Fact-checked AI comparison posts for dev tools",
+      "link": "https://versuscraft.xyz/sample",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 14:24:38 +0000",
-      "timestamp": 1793543078.0
+      "published": "Sun, 01 Nov 2026 19:10:41 +0000",
+      "timestamp": 1793560241.0
     },
     {
-      "title": "Terence Tao on how AI math solutions miss the point",
-      "link": "https://www.sciencefriday.com/segments/terence-tao-ai-math-solutions/",
+      "title": "It wasn't AI that flipped Proton's charge",
+      "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 14:22:38 +0000",
-      "timestamp": 1793542958.0
+      "published": "Sun, 01 Nov 2026 18:53:55 +0000",
+      "timestamp": 1793559235.0
     },
     {
-      "title": "Show HN: Let formal specs test AI implementations",
-      "link": "https://github.com/mrasu/spec-guardian",
+      "title": "VisionQuest is what happens when AI goes rogue",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 14:11:06 +0000",
-      "timestamp": 1793542266.0
+      "published": "Sun, 01 Nov 2026 18:51:37 +0000",
+      "timestamp": 1793559097.0
     },
     {
-      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "title": "The AI bubble could expose your deepest secrets",
+      "link": "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 13:47:24 +0000",
-      "timestamp": 1793540844.0
+      "published": "Sun, 01 Nov 2026 18:41:23 +0000",
+      "timestamp": 1793558483.0
     },
     {
-      "title": "What does good AI mean?",
-      "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+      "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
+      "link": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 13:39:34 +0000",
-      "timestamp": 1793540374.0
+      "published": "Sun, 01 Nov 2026 18:39:51 +0000",
+      "timestamp": 1793558391.0
     },
     {
-      "title": "AI is a technological version of the Homeric songs",
-      "link": "https://www.economist.com/by-invitation/2026/10/28/ai-is-a-technological-version-of-the-homeric-songs",
+      "title": "Making it easier for websites to express AI training preferences",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 13:38:09 +0000",
-      "timestamp": 1793540289.0
+      "published": "Sun, 01 Nov 2026 18:39:20 +0000",
+      "timestamp": 1793558360.0
     },
     {
-      "title": "Vibe Coding an Autonomous Agent Harness in Go: Self-Healing AI Workflows",
-      "link": "https://medium.com/@vishwanathanraman/vibe-coding-an-autonomous-agent-harness-in-go-from-zero-to-self-healing-ai-workflows-785d82f981b6",
+      "title": "I didn't hand my NPM updates to an AI",
+      "link": "https://medium.com/@balazs.csaba.diy/why-i-didnt-hand-my-npm-updates-to-an-ai-ca5603552e70",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 13:37:38 +0000",
-      "timestamp": 1793540258.0
+      "published": "Sun, 01 Nov 2026 18:35:47 +0000",
+      "timestamp": 1793558147.0
     },
     {
-      "title": "Agentic AI is myth set in motion",
-      "link": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
+      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+      "link": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 13:34:05 +0000",
-      "timestamp": 1793540045.0
+      "published": "Sun, 01 Nov 2026 18:33:02 +0000",
+      "timestamp": 1793557982.0
     },
     {
-      "title": "A 90% Chance of AI Saving Humanity",
-      "link": "https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee",
+      "title": "Hot take: AI skills getting obsolete after months",
+      "link": "https://jakobbr.eu/2026/10/14/hot-take-ai-skills-already-getting-obsolete-after-months/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 13:19:04 +0000",
-      "timestamp": 1793539144.0
+      "published": "Sun, 01 Nov 2026 18:27:16 +0000",
+      "timestamp": 1793557636.0
     },
     {
-      "title": "The question we should all be asking about AI",
-      "link": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
+      "title": "Italian Police Used AI to Identify $200M. Worth of Stolen Art and Antiquities",
+      "link": "https://www.artnews.com/art-news/news/italian-police-ai-identify-stolen-art-antiquities-1234804277/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 12:44:36 +0000",
-      "timestamp": 1793537076.0
+      "published": "Sun, 01 Nov 2026 18:18:54 +0000",
+      "timestamp": 1793557134.0
     },
     {
-      "title": "Context Mode – An Open-Source MCP Server That Reduces AI Coding Context Usage",
-      "link": "https://github.com/mksglu/context-mode",
+      "title": "We tested 12 search APIs for AI agents. Even the best one isn't enough",
+      "link": "https://telem.ai/blog/even-the-best-search-provider",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 11:56:19 +0000",
-      "timestamp": 1793534179.0
+      "published": "Sun, 01 Nov 2026 17:57:19 +0000",
+      "timestamp": 1793555839.0
     },
     {
-      "title": "When AI Writes the Code, Show Your Judgment",
-      "link": "https://www.eyosias.dev/case-studies/ai-mailbox-analysis",
+      "title": "Beyond the Breakthrough: What Comes Next for AI [video] [Peter Norvig]",
+      "link": "https://www.youtube.com/watch?v=GU9msk_eH7w",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 11:44:25 +0000",
-      "timestamp": 1793533465.0
+      "published": "Sun, 01 Nov 2026 17:50:09 +0000",
+      "timestamp": 1793555409.0
     },
     {
-      "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
-      "link": "https://agenticresourcediscovery.org/",
+      "title": "DIY AI Lockpicking Robot: ESP32 and Claude AI Opens Any Lock [video]",
+      "link": "https://www.youtube.com/watch?v=o4AUKGdScNI",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 11:39:35 +0000",
-      "timestamp": 1793533175.0
+      "published": "Sun, 01 Nov 2026 17:47:17 +0000",
+      "timestamp": 1793555237.0
     },
     {
-      "title": "Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
-      "link": "https://github.com/matricphase-dot/aiops",
+      "title": "AI Software Clones Are Coming for Big-Name Companies Like Adobe",
+      "link": "https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 10:48:39 +0000",
-      "timestamp": 1793530119.0
+      "published": "Sun, 01 Nov 2026 17:37:47 +0000",
+      "timestamp": 1793554667.0
     },
     {
-      "title": "AI Warning for Steam – Increases Visibility of AI Generated Content Disclosures",
-      "link": "https://github.com/seeeeew/aiwarningforsteam",
+      "title": "AI Data Annotation and Evaluation Contractor",
+      "link": "https://iungotech.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 10:47:55 +0000",
-      "timestamp": 1793530075.0
+      "published": "Sun, 01 Nov 2026 17:37:32 +0000",
+      "timestamp": 1793554652.0
     },
     {
       "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
