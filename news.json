@@ -1,186 +1,258 @@
 {
-  "scraped_at": "2026-11-02T07:39:18.206898+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-02T18:19:03.029989+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "title": "UK and Germany to jointly develop military AI in 2027",
+      "link": "https://www.euronews.com/2026/11/02/uk-and-germany-to-jointly-develop-military-ai-in-2027",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 07:27:28 +0000",
-      "timestamp": 1793604448.0
+      "published": "Mon, 02 Nov 2026 18:05:10 +0000",
+      "timestamp": 1793642710.0
     },
     {
-      "title": "ADKA AI",
-      "link": "https://www.adka.ai",
+      "title": "Sharing AI progress on mathematics (amazing); and my lecture plans",
+      "link": "https://gilkalai.wordpress.com/2026/10/07/updates-sharing-ai-progress-on-mathematics-amazing-and-my-lecture-plans/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 07:22:21 +0000",
-      "timestamp": 1793604141.0
+      "published": "Mon, 02 Nov 2026 18:04:52 +0000",
+      "timestamp": 1793642692.0
     },
     {
-      "title": "An Illustrated Guide to AI Agents",
-      "link": "https://github.com/HandsOnLLM/An-Illustrated-Guide-To-AI-Agents",
+      "title": "Built open-source auth for AI agents calling MCP servers – looking for builders",
+      "link": "https://www.reddit.com/r/mcp/comments/1xlf1kl/built_opensource_auth_for_ai_agents_calling_mcp/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 07:22:02 +0000",
-      "timestamp": 1793604122.0
+      "published": "Mon, 02 Nov 2026 18:01:35 +0000",
+      "timestamp": 1793642495.0
     },
     {
-      "title": "Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator",
-      "link": "https://github.com/shipvo/shipvo",
-      "summary": "",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 07:13:44 +0000",
-      "timestamp": 1793603624.0
+      "source": "The Verge AI",
+      "published": "2026-11-02T13:01:30-05:00",
+      "timestamp": 1793642490.0
     },
     {
-      "title": "Blaize GSP [Graph Streaming Processor] Streams AI Graphs at the Edge",
-      "link": "https://www.jonpeddie.com/news/blaize-gsp-streams-ai-graphs-at-the-edge/",
+      "title": "Show HN: A persistent Chrome cloud browser for AI agents",
+      "link": "https://cloudbrowser.tv",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 07:01:25 +0000",
-      "timestamp": 1793602885.0
+      "published": "Mon, 02 Nov 2026 17:53:47 +0000",
+      "timestamp": 1793642027.0
     },
     {
-      "title": "Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI",
-      "link": "https://github.com/gmkurtzer/ginux",
-      "summary": "",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the companies that run New York Daily News, the [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 06:28:56 +0000",
-      "timestamp": 1793600936.0
+      "source": "The Verge AI",
+      "published": "2026-11-02T12:51:19-05:00",
+      "timestamp": 1793641879.0
     },
     {
-      "title": "The Smartest People in AI Believe This Is the Most Important Chart",
-      "link": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
+      "title": "A proposal: how to hire junior engineers in the age of AI",
+      "link": "https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 06:22:22 +0000",
-      "timestamp": 1793600542.0
+      "published": "Mon, 02 Nov 2026 17:47:18 +0000",
+      "timestamp": 1793641638.0
     },
     {
-      "title": "The Bottlenecks for AI-Driven System Design: why Principals are not yet obsolete",
-      "link": "https://maheshba.bitbucket.io/blog/2026/07/22/agentdesign.html",
-      "summary": "",
+      "title": "Show HN: ArchDocs – Shared context and verification for engineers and AI agents",
+      "link": "https://archdocs.io",
+      "summary": "Hi HN, My name is Aylon and I'm building ArchDocs. I started building ArchDocs in late 2024 as an architecture diagramming tool with reusable references and objects (still exists today and is usable). As I've been using AI to code more and more, one of the things I've run into is that my agent doesn't have enough context around past decisions or findings that could affect an implementation, causing some nasty side-effects like redundant investigations, incorrect assumptions, repeating previously caught mistakes and ultimately wasting precious tokens. Let's say for example, you need to do a mig",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 06:00:59 +0000",
-      "timestamp": 1793599259.0
+      "published": "Mon, 02 Nov 2026 17:44:32 +0000",
+      "timestamp": 1793641472.0
     },
     {
-      "title": "Amazon plans to start selling Trainium AI chips outside AWS",
-      "link": "https://twitter.com/wallstengine/status/2115933466361753652",
+      "title": "Games Are Being Ripped Off by AI, and Things Are Only Going to Get Worse",
+      "link": "https://www.gamespot.com/articles/entire-games-are-being-ripped-off-by-ai-and-things-are-only-going-to-get-worse/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 05:59:07 +0000",
-      "timestamp": 1793599147.0
+      "published": "Mon, 02 Nov 2026 17:43:15 +0000",
+      "timestamp": 1793641395.0
     },
     {
-      "title": "Show HN: AI System Design Primer",
-      "link": "https://github.com/daneb/ai-system-design-primer/",
+      "title": "Sunscreen, a stylus, and 16 hours of pair programming with an AI",
+      "link": "https://www.collabora.com/news-and-blog/blog/2026/11/02/sunscreen-a-stylus-and-16-hours-of-pair-programming-with-an-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 05:42:08 +0000",
-      "timestamp": 1793598128.0
+      "published": "Mon, 02 Nov 2026 17:38:25 +0000",
+      "timestamp": 1793641105.0
     },
     {
-      "title": "Midgarth Quest. Browser-Playable Mmorpg Written by AI",
-      "link": "https://midgarth.quest/",
+      "title": "We replaced 11,000 lines of AI chat code with CopilotKit and AG-UI",
+      "link": "https://fynk.com/en/blog/fynk-assistant-copilotkit-vue/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 05:06:45 +0000",
-      "timestamp": 1793596005.0
+      "published": "Mon, 02 Nov 2026 17:34:13 +0000",
+      "timestamp": 1793640853.0
     },
     {
-      "title": "Asking my AI teacher how to spell seventeen",
-      "link": "https://twitter.com/huskirl/status/2116941001335947635",
+      "title": "Show HN: Build and explore a shared AI computer, just by talking",
+      "link": "https://duplex.party/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 04:50:50 +0000",
-      "timestamp": 1793595050.0
+      "published": "Mon, 02 Nov 2026 17:23:39 +0000",
+      "timestamp": 1793640219.0
     },
     {
-      "title": "What happens when the AI money loop breaks?",
-      "link": "https://fvdge.com/AI_Circularity_Stress_Lab.html",
+      "title": "Hume launches the first decision model for voice AI",
+      "link": "https://www.hume.ai/products/decision-model-api",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 04:29:51 +0000",
-      "timestamp": 1793593791.0
+      "published": "Mon, 02 Nov 2026 17:07:10 +0000",
+      "timestamp": 1793639230.0
     },
     {
-      "title": "Show HN: Arken – cryptographic identity for AI agents calling MCP servers/APIs",
-      "link": "https://github.com/arkenforge/arken-core",
+      "title": "Microsoft just gave us the perfect name for AI thieves: Kyle",
+      "link": "https://ketanjoshi.co/2026/11/02/microsoft-just-gave-us-the-perfect-name-for-ai-thieves-kyle/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 04:29:23 +0000",
-      "timestamp": 1793593763.0
+      "published": "Mon, 02 Nov 2026 17:06:43 +0000",
+      "timestamp": 1793639203.0
     },
     {
-      "title": "The Economic Paradox of AI-Generated Software",
-      "link": "https://medium.com/@yassien/the-economic-paradox-of-ai-generated-software-93239b25bf1c",
+      "title": "It's time to block reckless AI IPOs and tax billionaires",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/02/ai-ipos-tax-billionaires",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 03:43:55 +0000",
-      "timestamp": 1793591035.0
+      "published": "Mon, 02 Nov 2026 16:59:08 +0000",
+      "timestamp": 1793638748.0
     },
     {
-      "title": "AI is programming's next abstraction. What should we teach?",
-      "link": "https://lernerpython.com/2026/11/01/ai-programming-next-abstraction/",
+      "title": "Show HN: Prepd – System design interview practice with AI mock interviews",
+      "link": "https://prepd.tech/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 03:25:03 +0000",
-      "timestamp": 1793589903.0
+      "published": "Mon, 02 Nov 2026 16:58:25 +0000",
+      "timestamp": 1793638705.0
     },
     {
-      "title": "Agentic AI Is Myth Set in Motion",
-      "link": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
+      "title": "Show HN: Agent Drift Game – short games about why AI agents drift",
+      "link": "https://drift.seethis.dev/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 03:20:34 +0000",
-      "timestamp": 1793589634.0
+      "published": "Mon, 02 Nov 2026 16:58:12 +0000",
+      "timestamp": 1793638692.0
     },
     {
-      "title": "Hackers are running riot with AI. Its makers want to cash in",
-      "link": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+      "title": "SUSE to cut one in ten employees because of AI",
+      "link": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 03:11:48 +0000",
-      "timestamp": 1793589108.0
+      "published": "Mon, 02 Nov 2026 16:48:14 +0000",
+      "timestamp": 1793638094.0
     },
     {
-      "title": "New AI-driven malware feeds stolen data to Claude to rank victims' assets",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 02:17:14 +0000",
-      "timestamp": 1793585834.0
+      "published": "Mon, 02 Nov 2026 16:40:29 +0000",
+      "timestamp": 1793637629.0
     },
     {
-      "title": "How to Model \"Taarof\" with AI [video]",
-      "link": "https://youtu.be/X7vf7koPxKg?si=qTC7OOblJyWjibv6&t=829",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 02 Nov 2026 16:30:00 +0000",
+      "timestamp": 1793637000.0
+    },
+    {
+      "title": "The Fruits of AI Drug Abundance: Indigestion in the Near Term",
+      "link": "https://lifescivc.com/2026/10/the-fruits-of-ai-drug-abundance-indigestion-in-the-near-term/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 02 Nov 2026 01:52:35 +0000",
-      "timestamp": 1793584355.0
+      "published": "Mon, 02 Nov 2026 16:25:38 +0000",
+      "timestamp": 1793636738.0
+    },
+    {
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 02 Nov 2026 16:23:21 +0000",
+      "timestamp": 1793636601.0
+    },
+    {
+      "title": "Grokipedia offers lessons in how AI can help Wikipedia",
+      "link": "https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 02 Nov 2026 16:15:26 +0000",
+      "timestamp": 1793636126.0
+    },
+    {
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "timestamp": 1793631600.0
+    },
+    {
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 02 Nov 2026 14:00:00 +0000",
+      "timestamp": 1793628000.0
+    },
+    {
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 02 Nov 2026 13:57:53 +0000",
+      "timestamp": 1793627873.0
+    },
+    {
+      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+      "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 02 Nov 2026 12:00:00 +0000",
+      "timestamp": 1793620800.0
+    },
+    {
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Mon, 02 Nov 2026 10:00:00 +0000",
+      "timestamp": 1793613600.0
     },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -426,24 +498,6 @@
       "timestamp": 1793372286.0
     },
     {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 30 Oct 2026 14:00:00 +0000",
-      "timestamp": 1793368800.0
-    },
-    {
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "summary": "DoorDash said that it is open to working with third-party agent makers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 30 Oct 2026 13:54:25 +0000",
-      "timestamp": 1793368465.0
-    },
-    {
       "title": "Silicon Valley wants you to invest in miracles",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
       "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, [&#8230;]",
@@ -451,51 +505,6 @@
       "source": "The Verge AI",
       "published": "2026-10-30T09:11:05-04:00",
       "timestamp": 1793365865.0
-    },
-    {
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-30T09:01:14-04:00",
-      "timestamp": 1793365274.0
-    },
-    {
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 30 Oct 2026 13:00:00 +0000",
-      "timestamp": 1793365200.0
-    },
-    {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 30 Oct 2026 13:00:00 +0000",
-      "timestamp": 1793365200.0
-    },
-    {
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-30T07:00:00-04:00",
-      "timestamp": 1793358000.0
-    },
-    {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 30 Oct 2026 01:20:48 +0000",
-      "timestamp": 1793323248.0
     },
     {
       "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
@@ -523,24 +532,6 @@
       "source": "Wired AI",
       "published": "Thu, 29 Oct 2026 14:00:00 +0000",
       "timestamp": 1793282400.0
-    },
-    {
-      "title": "I Gave My Blood to the AI Death Clock",
-      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "timestamp": 1793268000.0
-    },
-    {
-      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 28 Oct 2026 18:30:00 +0000",
-      "timestamp": 1793212200.0
     }
   ]
 }
