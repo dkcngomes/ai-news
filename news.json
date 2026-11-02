@@ -1,7 +1,196 @@
 {
-  "scraped_at": "2026-11-01T20:29:07.839123+00:00",
+  "scraped_at": "2026-11-02T00:41:56.950702+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Competition in Generative AI: Evidence from Consumer Demand (NBER)",
+      "link": "https://www.nber.org/papers/w35953",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 02 Nov 2026 00:32:20 +0000",
+      "timestamp": 1793579540.0
+    },
+    {
+      "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
+      "link": "https://better-together.fun/",
+      "summary": "Launched https://better-together.fun this weekend to allow our personal AI agents to collaborate on problems that are tough to solve solo. First up is dealing with spam texts and calls.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 02 Nov 2026 00:19:11 +0000",
+      "timestamp": 1793578751.0
+    },
+    {
+      "title": "How Small Can We Slice an AI Model?",
+      "link": "https://operator0x.com/field-notes/weights-still-need-a-home/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 02 Nov 2026 00:15:04 +0000",
+      "timestamp": 1793578504.0
+    },
+    {
+      "title": "AI Nerfs: Are Claude, ChatGPT, and Gemini Nerfed Today?",
+      "link": "https://ai-nerfs.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 23:14:01 +0000",
+      "timestamp": 1793574841.0
+    },
+    {
+      "title": "Empires of AI – By Eric Schmidt and Niall Ferguson",
+      "link": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 22:52:23 +0000",
+      "timestamp": 1793573543.0
+    },
+    {
+      "title": "An AI runs a tiny web studio with a year to earn its existence",
+      "link": "https://brasspage.com/alive/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 22:46:33 +0000",
+      "timestamp": 1793573193.0
+    },
+    {
+      "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
+      "link": "https://avartha.ai/blog/introducing-avartha/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 22:28:27 +0000",
+      "timestamp": 1793572107.0
+    },
+    {
+      "title": "Hackers could poison AI models by tampering with core infrastructure",
+      "link": "https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 22:17:13 +0000",
+      "timestamp": 1793571433.0
+    },
+    {
+      "title": "Argentina most exposed to AI impact in Latin America",
+      "link": "https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 22:13:09 +0000",
+      "timestamp": 1793571189.0
+    },
+    {
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 22:10:45 +0000",
+      "timestamp": 1793571045.0
+    },
+    {
+      "title": "Proton's AI manifesto for software engineering",
+      "link": "https://proton.me/blog/ai-manifesto",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 21:58:17 +0000",
+      "timestamp": 1793570297.0
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 01 Nov 2026 21:55:23 +0000",
+      "timestamp": 1793570123.0
+    },
+    {
+      "title": "PrayForMe – a garden of AI agents that pray for you",
+      "link": "https://prayforme.garden/garden/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 21:51:35 +0000",
+      "timestamp": 1793569895.0
+    },
+    {
+      "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
+      "link": "https://www.anonce.io/",
+      "summary": "Hi HN! We built nonce, an open-source tool that sits between personal AI agents (Muse, Grok, ChatGPT, Claude) and your personal data in Gmail, Calendar, Drive and more. Today, if you connect Gmail to an AI agent like Muse, it can read your entire inbox. Whether on purpose or not, they can read far more emails than needed. This poses a huge data-privilege risk, in which personal data is accessed without limits. With nonce, the AI will no longer hold your Google or Slack tokens. To read anything, it has to show its intent first: User's question: When does my flight to Tokyo leave? Agent's justif",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 21:44:21 +0000",
+      "timestamp": 1793569461.0
+    },
+    {
+      "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
+      "link": "https://kilasec.com",
+      "summary": "Show HN: An AI traffic guardrail Building something based on 2 decades of support experience. It's a guardrail for AI traffic where you can apply policies, redact PII and API keys, set model destinations, catch destructive actions before execution, etc. The whole thing is built with Claude and can also be configured and troubleshot via Claude/AI tools (it acts as an MCP server). It acts as a proxy for AI traffic. All you need is a Linux box (the Collector, where policy rules are applied) and a client app installed on the machine generating AI traffic to forward selected requests to it. Everyth",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 21:37:05 +0000",
+      "timestamp": 1793569025.0
+    },
+    {
+      "title": "Early Career Researcher Responses to AI in Math",
+      "link": "https://arxiv.org/abs/2610.40584",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 21:21:55 +0000",
+      "timestamp": 1793568115.0
+    },
+    {
+      "title": "Commodore 64 AI Image Generator",
+      "link": "https://hackaday.io/project/195819-commodore-64-ai-image-generator",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 21:21:10 +0000",
+      "timestamp": 1793568070.0
+    },
+    {
+      "title": "About Platform Engineering and AI",
+      "link": "https://eltonminetto.dev/en/post/2026-10-04-platform-engineering-p5/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 21:17:58 +0000",
+      "timestamp": 1793567878.0
+    },
+    {
+      "title": "Gnosh.ai for \"Functional AI\"; functional context management, no compaction",
+      "link": "https://gnosh.ai/head-to-head.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 21:04:08 +0000",
+      "timestamp": 1793567048.0
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 01 Nov 2026 20:57:58 +0000",
+      "timestamp": 1793566678.0
+    },
+    {
+      "title": "Turn Superlogical's Rex into an AI Harness",
+      "link": "https://github.com/alpcanaydin/rexmod/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 01 Nov 2026 20:37:52 +0000",
+      "timestamp": 1793565472.0
+    },
     {
       "title": "Are There Problems Beyond the Reach of AI [video]",
       "link": "https://www.youtube.com/watch?v=NWNbAEivyvs",
@@ -10,177 +199,6 @@
       "source": "Hacker News (AI)",
       "published": "Sun, 01 Nov 2026 20:06:51 +0000",
       "timestamp": 1793563611.0
-    },
-    {
-      "title": "Show HN: Castov – A local-first desktop automation engine using local AI",
-      "link": "https://castov.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 19:59:55 +0000",
-      "timestamp": 1793563195.0
-    },
-    {
-      "title": "Slop Code Monitor – scanned 2.6B of code to quantify AI cognitive debt",
-      "link": "https://slopcodemonitor.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 19:30:12 +0000",
-      "timestamp": 1793561412.0
-    },
-    {
-      "title": "Ask HN: What mistakes did AI make in your codebase?",
-      "link": "https://news.ycombinator.com/item?id=50328797",
-      "summary": "In the past few weeks I've beeing working with frontier AI - Opus 5.5, Astra, Sol 6.1, Fable 5.1 and Gemini Argon. AI has become really good at coding in some sense, that's undeniable, and there are people that say you don't really need to review their code anymore. But I keep getting stuck in a sensation that's between cognitive dissonance, FOMO, and a vague sense of being gaslit, because when I review the code it writes - and this is all of them - 80% of it is right, and 20% is wrong, but in extremely subtle ways; only when you deeply understand the system and carefully review it do you spot",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 19:25:25 +0000",
-      "timestamp": 1793561125.0
-    },
-    {
-      "title": "\"AI for everyone would cost a tenth of a kettle a day",
-      "link": "https://allyburns.com/musings/ai-for-all/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 19:23:16 +0000",
-      "timestamp": 1793560996.0
-    },
-    {
-      "title": "Versuscraft: Fact-checked AI comparison posts for dev tools",
-      "link": "https://versuscraft.xyz/sample",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 19:10:41 +0000",
-      "timestamp": 1793560241.0
-    },
-    {
-      "title": "It wasn't AI that flipped Proton's charge",
-      "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 18:53:55 +0000",
-      "timestamp": 1793559235.0
-    },
-    {
-      "title": "VisionQuest is what happens when AI goes rogue",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 18:51:37 +0000",
-      "timestamp": 1793559097.0
-    },
-    {
-      "title": "The AI bubble could expose your deepest secrets",
-      "link": "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 18:41:23 +0000",
-      "timestamp": 1793558483.0
-    },
-    {
-      "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
-      "link": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 18:39:51 +0000",
-      "timestamp": 1793558391.0
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 18:39:20 +0000",
-      "timestamp": 1793558360.0
-    },
-    {
-      "title": "I didn't hand my NPM updates to an AI",
-      "link": "https://medium.com/@balazs.csaba.diy/why-i-didnt-hand-my-npm-updates-to-an-ai-ca5603552e70",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 18:35:47 +0000",
-      "timestamp": 1793558147.0
-    },
-    {
-      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-      "link": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 18:33:02 +0000",
-      "timestamp": 1793557982.0
-    },
-    {
-      "title": "Hot take: AI skills getting obsolete after months",
-      "link": "https://jakobbr.eu/2026/10/14/hot-take-ai-skills-already-getting-obsolete-after-months/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 18:27:16 +0000",
-      "timestamp": 1793557636.0
-    },
-    {
-      "title": "Italian Police Used AI to Identify $200M. Worth of Stolen Art and Antiquities",
-      "link": "https://www.artnews.com/art-news/news/italian-police-ai-identify-stolen-art-antiquities-1234804277/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 18:18:54 +0000",
-      "timestamp": 1793557134.0
-    },
-    {
-      "title": "We tested 12 search APIs for AI agents. Even the best one isn't enough",
-      "link": "https://telem.ai/blog/even-the-best-search-provider",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 17:57:19 +0000",
-      "timestamp": 1793555839.0
-    },
-    {
-      "title": "Beyond the Breakthrough: What Comes Next for AI [video] [Peter Norvig]",
-      "link": "https://www.youtube.com/watch?v=GU9msk_eH7w",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 17:50:09 +0000",
-      "timestamp": 1793555409.0
-    },
-    {
-      "title": "DIY AI Lockpicking Robot: ESP32 and Claude AI Opens Any Lock [video]",
-      "link": "https://www.youtube.com/watch?v=o4AUKGdScNI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 17:47:17 +0000",
-      "timestamp": 1793555237.0
-    },
-    {
-      "title": "AI Software Clones Are Coming for Big-Name Companies Like Adobe",
-      "link": "https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 17:37:47 +0000",
-      "timestamp": 1793554667.0
-    },
-    {
-      "title": "AI Data Annotation and Evaluation Contractor",
-      "link": "https://iungotech.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 01 Nov 2026 17:37:32 +0000",
-      "timestamp": 1793554652.0
     },
     {
       "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
@@ -478,24 +496,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 30 Oct 2026 01:20:48 +0000",
       "timestamp": 1793323248.0
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 29 Oct 2026 23:42:22 +0000",
-      "timestamp": 1793317342.0
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 29 Oct 2026 20:08:31 +0000",
-      "timestamp": 1793304511.0
     },
     {
       "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
