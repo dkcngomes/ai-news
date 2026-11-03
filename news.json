@@ -1,78 +1,285 @@
 {
-  "scraped_at": "2026-11-03T09:29:30.024596+00:00",
-  "count": 59,
+  "scraped_at": "2026-11-03T17:49:36.561304+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "The AI Layoff Experiment Is Backfiring as Companies Rehire Humans",
-      "link": "https://www.gadgetreview.com/the-ai-layoff-experiment-is-backfiring-and-companies-are-quietly-rehiring-humans",
+      "title": "Binance says hackers used fake job interviews, AI tool to steal $6.3B",
+      "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 09:13:21 +0000",
-      "timestamp": 1793697201.0
+      "published": "Tue, 03 Nov 2026 17:44:26 +0000",
+      "timestamp": 1793727866.0
     },
     {
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+      "link": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 09:04:15 +0000",
-      "timestamp": 1793696655.0
+      "published": "Tue, 03 Nov 2026 17:43:27 +0000",
+      "timestamp": 1793727807.0
     },
     {
-      "title": "Show HN: Try an AI agent wallet in the browser – buy a stamp from a bot",
-      "link": "https://proof.zketernity.app/stamps/try.html",
+      "title": "Show HN: Slopgrid – create your own AI model benchmarks without code",
+      "link": "https://slopgrid.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 08:43:55 +0000",
-      "timestamp": 1793695435.0
+      "published": "Tue, 03 Nov 2026 17:26:05 +0000",
+      "timestamp": 1793726765.0
     },
     {
-      "title": "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
-      "link": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 08:21:31 +0000",
-      "timestamp": 1793694091.0
+      "published": "Tue, 03 Nov 2026 17:22:37 +0000",
+      "timestamp": 1793726557.0
     },
     {
-      "title": "DocMaker AI – Free AI Document Generator, PDF Maker and Online Editor",
-      "link": "https://docmaker.ai",
+      "title": "Anthropic's S-1/A diffed against its S-1 on the AI R&D acceleration threshold",
+      "link": "https://theainewsreport.com/2026-11-03-anthropic-s1-ai-accelerated-progress-explained.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 08:20:24 +0000",
-      "timestamp": 1793694024.0
+      "published": "Tue, 03 Nov 2026 17:16:19 +0000",
+      "timestamp": 1793726179.0
     },
     {
-      "title": "Show HN: Clarpex – Free AI photo fixer, no sign-up needed",
-      "link": "https://clarpex.ai/",
+      "title": "Solve the cold start problem with an AI outreach system",
+      "link": "https://steadily.ca/newsletter/edition/solve-cold-start-problem-with-ai-outreach",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 08:07:50 +0000",
-      "timestamp": 1793693270.0
+      "published": "Tue, 03 Nov 2026 17:14:23 +0000",
+      "timestamp": 1793726063.0
     },
     {
-      "title": "Pay-per-use APIs for AI agents",
-      "link": "https://adagasolutions.lu/toolbox/",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 03 Nov 2026 17:07:01 +0000",
+      "timestamp": 1793725621.0
+    },
+    {
+      "title": "Genie Studio – a browser DAW where AI can generate and edit tracks",
+      "link": "https://melodygenie.app/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 08:00:18 +0000",
-      "timestamp": 1793692818.0
+      "published": "Tue, 03 Nov 2026 17:06:39 +0000",
+      "timestamp": 1793725599.0
     },
     {
-      "title": "SUSE to cut one in ten employees because of AI",
+      "title": "Google's own AI judged us against Google Translate. Google lost 108 to 1",
+      "link": "https://airtranslate.ai/blog/dialect-benchmark",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 17:04:33 +0000",
+      "timestamp": 1793725473.0
+    },
+    {
+      "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+      "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-03T12:00:04-05:00",
+      "timestamp": 1793725204.0
+    },
+    {
+      "title": "Writing was flagged as AI. What does that mean?",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:55:54 +0000",
+      "timestamp": 1793724954.0
+    },
+    {
+      "title": "AI Detectors Like Pangram Are Changing Human Writing",
+      "link": "https://www.bloomberg.com/news/features/2026-10-30/how-ai-detectors-like-pangram-are-changing-human-writing",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:55:35 +0000",
+      "timestamp": 1793724935.0
+    },
+    {
+      "title": "Show HN: Cinnamon – a household AI agent with private and shared context",
+      "link": "https://getcinnamon.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:48:01 +0000",
+      "timestamp": 1793724481.0
+    },
+    {
+      "title": "Silicon Valley dating now means spreadsheets, AI and $5K-a-month coaches",
+      "link": "https://www.techspot.com/news/114425-dating-silicon-valley-now-involves-spreadsheets-ai-analysis.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:36:34 +0000",
+      "timestamp": 1793723794.0
+    },
+    {
+      "title": "Researchers warn secret \"trigger words\" can make hacked AI robots attack people",
+      "link": "https://www.dexerto.com/entertainment/researchers-warn-secret-trigger-words-can-make-hacked-ai-robots-turn-on-people-and-attack-them-3424454/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:35:53 +0000",
+      "timestamp": 1793723753.0
+    },
+    {
+      "title": "Why Physical AI Is So Hard to Engineer",
+      "link": "https://semiengineering.com/why-physical-ai-is-so-hard-to-engineer/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:35:42 +0000",
+      "timestamp": 1793723742.0
+    },
+    {
+      "title": "HPE Spaceborne Computer-4 Will Bring AI and HPC to the Moon on Astrolab Flip",
+      "link": "https://www.servethehome.com/hpe-spaceborne-computer-4-will-bring-ai-and-hpc-to-the-moon-on-astrolab-flip/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:33:06 +0000",
+      "timestamp": 1793723586.0
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 03 Nov 2026 16:30:34 +0000",
+      "timestamp": 1793723434.0
+    },
+    {
+      "title": "SUSE fires one in ten due to AI",
       "link": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 07:48:48 +0000",
-      "timestamp": 1793692128.0
+      "published": "Tue, 03 Nov 2026 16:15:18 +0000",
+      "timestamp": 1793722518.0
+    },
+    {
+      "title": "Ask HN: Will cheap high-quality AI end this December?",
+      "link": "https://news.ycombinator.com/item?id=50353859",
+      "summary": "OpenAI will no longer have the (apparently) unrestricted high-quality chat mode in the Plus subscription. Of course, maybe the high-quality chat mode is already limited in an invisible way to the user and the change coming this December would mostly make it visible and perhaps not much more limited than it is now.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:13:30 +0000",
+      "timestamp": 1793722410.0
+    },
+    {
+      "title": "How governments worldwide are shaping what AI can say about politics",
+      "link": "https://theconversation.com/how-governments-worldwide-are-shaping-what-ai-can-say-about-politics-294097",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:10:39 +0000",
+      "timestamp": 1793722239.0
+    },
+    {
+      "title": "Show HN: 8 years of \"Who's Hiring?\" in charts (hiring boom, bust, and AI trends)",
+      "link": "https://hn-hiring-2019-2026.lancecj.chatgpt.site/",
+      "summary": "After seeing Andrej's HackerTube post (and given my sons are both junior-mid developers) I decided to point Codex at 8 years of \"Who's hiring?\" posts and rip through some tokens on semantic analysis of all that content. I started pre-COVID, thru October 2026, and the data was retrieved via HN API data. 5 things that stand out: 1. AI is now in half the posts. AI or machine learning appeared in 50% of 2026 posts, up from 17% in 2019. 2. Most employers posted in only one month. Across all 94 monthly threads, 53% of the employers we identified appeared in just one month. 3. Frontend roles fell fro",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:07:59 +0000",
+      "timestamp": 1793722079.0
+    },
+    {
+      "title": "What Happens When AI Replaces Everyone's Thinking?",
+      "link": "https://kyle.cascade.family/posts/what-happens-when-ai-replaces-everyones-thinking/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 03 Nov 2026 16:02:51 +0000",
+      "timestamp": 1793721771.0
+    },
+    {
+      "title": "Midterm elections 2026: all the news",
+      "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "summary": "The 2026 midterm elections will determine the scope of President Donald Trump&#8217;s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year&#8217;s races are expected to be most broadly defined by affordability issues, there are several topics impacting the tech industry that [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-03T10:58:39-05:00",
+      "timestamp": 1793721519.0
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 03 Nov 2026 15:38:27 +0000",
+      "timestamp": 1793720307.0
+    },
+    {
+      "title": "Apple is all in on AI — its own and everyone else&#8217;s",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-03T10:24:51-05:00",
+      "timestamp": 1793719491.0
+    },
+    {
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-03T10:00:44-05:00",
+      "timestamp": 1793718044.0
+    },
+    {
+      "title": "Here’s Why You Shouldn’t Use AI to Vote",
+      "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 03 Nov 2026 14:45:08 +0000",
+      "timestamp": 1793717108.0
+    },
+    {
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 03 Nov 2026 14:30:00 +0000",
+      "timestamp": 1793716200.0
+    },
+    {
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "timestamp": 1793714400.0
+    },
+    {
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 03 Nov 2026 11:00:00 +0000",
+      "timestamp": 1793703600.0
     },
     {
       "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
@@ -84,96 +291,6 @@
       "timestamp": 1793690400.0
     },
     {
-      "title": "AI Arbitrator",
-      "link": "https://www.adr.org/ai-arbitrator/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 06:57:21 +0000",
-      "timestamp": 1793689041.0
-    },
-    {
-      "title": "Show HN: Trifecta Checker – a pre-flight safety check for AI agents",
-      "link": "https://meta-global-ai-hackathon-trifecta-c.vercel.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 06:15:49 +0000",
-      "timestamp": 1793686549.0
-    },
-    {
-      "title": "Ask HN: Any tool to remove AI Watermark from image?",
-      "link": "https://news.ycombinator.com/item?id=50348613",
-      "summary": "I have created few AI images using Claude. The image is perfectly created. But at the bottom there is a watermark image of AI that keeps coming up. I want to remove that watermark. I already tried using ChatGPT, Canva, Adobe, Gemini but still the output doesn't match the original one generated by claude. Anyone knows of any free tools which can be used to do this ? (I don't want to sign up and create an account to access this tool)",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 06:03:24 +0000",
-      "timestamp": 1793685804.0
-    },
-    {
-      "title": "How AI is creating a lopsided US economy",
-      "link": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 05:58:27 +0000",
-      "timestamp": 1793685507.0
-    },
-    {
-      "title": "Vercel: Computer use CLI for AI agents",
-      "link": "https://agent-browser.dev/desktop",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 05:26:34 +0000",
-      "timestamp": 1793683594.0
-    },
-    {
-      "title": "VeilCC – AI-resistant binary hardening that seals critical logic",
-      "link": "https://veilcc.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 04:55:38 +0000",
-      "timestamp": 1793681738.0
-    },
-    {
-      "title": "AI advisors debate your business decision in Claude Code",
-      "link": "https://github.com/nateherkai/roast-room",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 04:12:40 +0000",
-      "timestamp": 1793679160.0
-    },
-    {
-      "title": "Code-First Internal Tools vs. Low-Code in the Age of AI",
-      "link": "https://openrun.dev/blog/code-first-internal-tools/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 03:59:46 +0000",
-      "timestamp": 1793678386.0
-    },
-    {
-      "title": "MVP for a WW2 FPS Written by AI",
-      "link": "https://hng-production-47bb.up.railway.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 03:45:22 +0000",
-      "timestamp": 1793677522.0
-    },
-    {
-      "title": "Show HN: CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano",
-      "link": "https://www.predatorray.me/CheapGPT/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 03:42:52 +0000",
-      "timestamp": 1793677372.0
-    },
-    {
       "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
       "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
@@ -181,15 +298,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 03 Nov 2026 03:30:00 +0000",
       "timestamp": 1793676600.0
-    },
-    {
-      "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
-      "link": "https://ownhackertube.cc/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 03:14:06 +0000",
-      "timestamp": 1793675646.0
     },
     {
       "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
@@ -363,51 +471,6 @@
       "timestamp": 1793529000.0
     },
     {
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sun, 01 Nov 2026 02:22:10 +0000",
-      "timestamp": 1793499730.0
-    },
-    {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 31 Oct 2026 21:41:00 +0000",
-      "timestamp": 1793482860.0
-    },
-    {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 31 Oct 2026 21:36:07 +0000",
-      "timestamp": 1793482567.0
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 31 Oct 2026 21:17:03 +0000",
-      "timestamp": 1793481423.0
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 31 Oct 2026 16:12:55 +0000",
-      "timestamp": 1793463175.0
-    },
-    {
       "title": "I built an AI Tamagotchi before Meta could",
       "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]",
@@ -419,7 +482,7 @@
     {
       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
       "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "summary": "Named Volta-Autodoxer, the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
       "image": null,
       "source": "Wired AI",
       "published": "Sat, 31 Oct 2026 12:00:00 +0000",
@@ -471,42 +534,6 @@
       "timestamp": 1793393323.0
     },
     {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-30T16:26:10-04:00",
-      "timestamp": 1793391970.0
-    },
-    {
-      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-30T14:21:38-04:00",
-      "timestamp": 1793384498.0
-    },
-    {
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-30T13:38:04-04:00",
-      "timestamp": 1793381884.0
-    },
-    {
-      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-10-30T10:58:06-04:00",
-      "timestamp": 1793372286.0
-    },
-    {
       "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
       "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
@@ -514,24 +541,6 @@
       "source": "Wired AI",
       "published": "Thu, 29 Oct 2026 18:39:43 +0000",
       "timestamp": 1793299183.0
-    },
-    {
-      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 29 Oct 2026 15:00:00 +0000",
-      "timestamp": 1793286000.0
-    },
-    {
-      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "timestamp": 1793282400.0
     }
   ]
 }
