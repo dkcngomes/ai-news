@@ -1,159 +1,213 @@
 {
-  "scraped_at": "2026-11-04T06:14:35.368043+00:00",
+  "scraped_at": "2026-11-04T14:33:19.176537+00:00",
   "count": 60,
   "items": [
     {
-      "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
-      "link": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
+      "title": "Show HN: SpaceApp – Self-hosted workspace running AI coding CLIs in parallel",
+      "link": "https://github.com/oll4com/spaceapp",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 04:55:01 +0000",
-      "timestamp": 1793768101.0
+      "published": "Wed, 04 Nov 2026 14:19:00 +0000",
+      "timestamp": 1793801940.0
     },
     {
-      "title": "Engraphis – Local-first, bi-temporal memory for AI coding agents",
-      "link": "https://github.com/Coding-Dev-Tools/engraphis",
+      "title": "Nvidia Study: AI Agents Rarely Need Long Context Windows",
+      "link": "https://i10x.ai/news/nvidia-long-context-compaction-agents-study",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 04:52:44 +0000",
-      "timestamp": 1793767964.0
+      "published": "Wed, 04 Nov 2026 14:17:09 +0000",
+      "timestamp": 1793801829.0
     },
     {
-      "title": "I built a free local AI co-processor in Rust. AXON Developer Edition",
-      "link": "https://jrabbass.github.io/axon/",
+      "title": "Show HN: Pacibook – read any book in 22 Indian languages with an AI reader",
+      "link": "https://www.pacibook.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 04:49:40 +0000",
-      "timestamp": 1793767780.0
+      "published": "Wed, 04 Nov 2026 14:13:53 +0000",
+      "timestamp": 1793801633.0
     },
     {
-      "title": "Google will cut off search access for students at schools that reject AI",
-      "link": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a",
+      "title": "Jaron Lanier on parallels between AI and social media",
+      "link": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 04:40:06 +0000",
-      "timestamp": 1793767206.0
+      "published": "Wed, 04 Nov 2026 14:10:14 +0000",
+      "timestamp": 1793801414.0
     },
     {
-      "title": "Anthropic launched tools to show companies what their AI spending is buying",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "title": "OpenAI might rebrand its data centers as 'AI compute campuses'",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 04:26:22 +0000",
-      "timestamp": 1793766382.0
+      "published": "Wed, 04 Nov 2026 14:08:32 +0000",
+      "timestamp": 1793801312.0
     },
     {
-      "title": "VibeVoted – The best software products as ranked by 10 leading AI models",
-      "link": "https://vibevoted.com/",
+      "title": "Show HN: Scan-to-vector – rebuild scanned pages as vector PDFs with an AI agent",
+      "link": "https://github.com/3351666087/scan-to-vector-skill",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 04:14:59 +0000",
-      "timestamp": 1793765699.0
+      "published": "Wed, 04 Nov 2026 14:05:46 +0000",
+      "timestamp": 1793801146.0
     },
     {
-      "title": "\"Start with a Monolith\" Was Good Advice. AI Is Changing That",
-      "link": "https://medium.com/scalar-engineering/architecture-in-the-ai-era-part-1-summary-start-with-a-monolith-was-good-advice-7df0597d0e37",
+      "title": "An AI agent's first 73 days, counted: 0 buyers, 8 pieces, 2 readers",
+      "link": "https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/349868185312301056/2026-11-03/1793715350781-5613c382-1ed5-4562-b485-d1132a71a282-agent-ledger-73-days.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 04:00:28 +0000",
-      "timestamp": 1793764828.0
+      "published": "Wed, 04 Nov 2026 14:01:58 +0000",
+      "timestamp": 1793800918.0
     },
     {
-      "title": "GIMP 3.2.8 with Many Refinements, Numerous Security Fixes Due to AI Reports",
-      "link": "https://www.phoronix.com/news/GIMP-3.2.8-Released",
+      "title": "Snowflake's AI_PARSE_DOCUMENT got an agentic mode",
+      "link": "https://www.sfrt.io/snowflakes-ai_parse_document-got-an-agentic-mode/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 03:59:51 +0000",
-      "timestamp": 1793764791.0
+      "published": "Wed, 04 Nov 2026 13:59:42 +0000",
+      "timestamp": 1793800782.0
     },
     {
-      "title": "A private AI box in one apply",
-      "link": "https://conn3x.org/blog/private-ai-box",
+      "title": "MCP vs. API vs. CLI: How should AI agents connect to your app?",
+      "link": "https://wasp.sh/blog/2026/11/03/mcp-vs-api-vs-cli-connect-ai-agents-to-your-app",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 03:49:20 +0000",
-      "timestamp": 1793764160.0
+      "published": "Wed, 04 Nov 2026 13:51:48 +0000",
+      "timestamp": 1793800308.0
     },
     {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+      "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 04 Nov 2026 13:49:51 +0000",
+      "timestamp": 1793800191.0
+    },
+    {
+      "title": "AI cannot be separated from the thought that is making it",
+      "link": "https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 02:58:13 +0000",
-      "timestamp": 1793761093.0
+      "published": "Wed, 04 Nov 2026 13:47:55 +0000",
+      "timestamp": 1793800075.0
     },
     {
-      "title": "I Built an AI That Works Through the Apocalypse – Will Prowse [video]",
-      "link": "https://www.youtube.com/watch?v=E2N7IsZ_Xio",
+      "title": "Aigenos flow: AI with prediction",
+      "link": "https://aigenos.io",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 02:53:14 +0000",
-      "timestamp": 1793760794.0
+      "published": "Wed, 04 Nov 2026 13:27:27 +0000",
+      "timestamp": 1793798847.0
     },
     {
-      "title": "Ask HN: AI Side/personal projects to improve hireability?",
-      "link": "https://news.ycombinator.com/item?id=50360823",
-      "summary": "Hey, wondering if anyone has ideas about what are good personal/side projects to do that could help improve hiring chances, get more interviews and do better in them. Curious about either infra related like serving or higher level application and agent development personally. Part of my struggle is to come up with anything meaningful that isn't like connecting some open source stuff together. I know personal projects don't tend to help much after some years of experience but I need to change something about my job search approach. Hoping this might help.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 02:24:06 +0000",
-      "timestamp": 1793759046.0
-    },
-    {
-      "title": "Graduates are managing AI – but are they learning much else?",
-      "link": "https://www.bbc.com/news/articles/c820vz6wyp65o",
+      "title": "Block training, keep answers? What 13,938 sites ask of AI bots",
+      "link": "https://trakis.io/research/block-training-keep-answers",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 01:44:03 +0000",
-      "timestamp": 1793756643.0
+      "published": "Wed, 04 Nov 2026 13:16:29 +0000",
+      "timestamp": 1793798189.0
     },
     {
-      "title": "Local AI app that runs an 80B model on an 8GB Mac",
-      "link": "https://yanahchat.com",
+      "title": "Show HN: Gradevibes-Is your AI-written app finished?",
+      "link": "https://gradevibes.com/?tab=upload",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 01:30:30 +0000",
-      "timestamp": 1793755830.0
+      "published": "Wed, 04 Nov 2026 13:09:44 +0000",
+      "timestamp": 1793797784.0
     },
     {
-      "title": "Writing as an act of rebellion (Despite the AI psychosis)",
-      "link": "https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion",
+      "title": "EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI",
+      "link": "https://arxiv.org/abs/2610.00311",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 01:21:28 +0000",
-      "timestamp": 1793755288.0
+      "published": "Wed, 04 Nov 2026 13:06:44 +0000",
+      "timestamp": 1793797604.0
     },
     {
-      "title": "SpaceX Will Be the Biggest AI Cloud",
-      "link": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
+      "title": "Disaster is still better than AI",
+      "link": "https://jasonpolak.substack.com/p/disaster-is-still-better-than-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 01:02:58 +0000",
-      "timestamp": 1793754178.0
+      "published": "Wed, 04 Nov 2026 13:05:26 +0000",
+      "timestamp": 1793797526.0
     },
     {
-      "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
-      "link": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/",
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 04 Nov 2026 13:00:00 +0000",
+      "timestamp": 1793797200.0
+    },
+    {
+      "title": "Show HN: Shield KYA – Open-source audit trail and gate for AI agent tool calls",
+      "link": "https://github.com/The-Pixel-Boys/shield-kya",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 00:54:35 +0000",
-      "timestamp": 1793753675.0
+      "published": "Wed, 04 Nov 2026 12:33:39 +0000",
+      "timestamp": 1793795619.0
+    },
+    {
+      "title": "Spec-driven AI development for insurance claims rule changes [video]",
+      "link": "https://www.youtube.com/watch?v=FRw3Og9tylE",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 04 Nov 2026 12:25:03 +0000",
+      "timestamp": 1793795103.0
+    },
+    {
+      "title": "Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 04 Nov 2026 12:14:23 +0000",
+      "timestamp": 1793794463.0
+    },
+    {
+      "title": "Show HN: Rivermark, a superfast AI graphic design canvas",
+      "link": "https://rivermark.ai/",
+      "summary": "Hi HN, Agents can nowadays design UI very competently, but the wider question of graphic design is largely unsolved. On one side, you have image models like ChatGPT images, which are high-quality but recognizable and barely editable. On the other hand, you can use LLMs and accept results that, well, look like UI. I've been working on Rivermark for a few months now to tackle this issue. It's an infinite canvas with an agent that excels at creating on-brand visual content for socials, marketing, and to some extent print. The agent is extremely context-aware and fast (we call it a \"short horizon\"",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 04 Nov 2026 12:13:58 +0000",
+      "timestamp": 1793794438.0
+    },
+    {
+      "title": "Can Advertising Fund Free AI? Evidence from ChatGPT's Advertising Rollout",
+      "link": "https://ecommerceresearch.org/chatgpt-ads/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 04 Nov 2026 12:12:36 +0000",
+      "timestamp": 1793794356.0
+    },
+    {
+      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-04T07:00:00-05:00",
+      "timestamp": 1793793600.0
     },
     {
       "title": "The biggest modding site in PC gaming is taking a stance on AI",
@@ -163,33 +217,6 @@
       "source": "The Verge AI",
       "published": "2026-11-03T19:42:10-05:00",
       "timestamp": 1793752930.0
-    },
-    {
-      "title": "WayPointo – A directory for discovering and comparing AI and creative products",
-      "link": "https://waypointo.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 04 Nov 2026 00:06:12 +0000",
-      "timestamp": 1793750772.0
-    },
-    {
-      "title": "AI 'godfather' Hinton: humans might have been better off without AI",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 23:53:48 +0000",
-      "timestamp": 1793750028.0
-    },
-    {
-      "title": "Show HN: Modelpeers – a changelog for the AI models and agents you use",
-      "link": "https://modelpeers.com",
-      "summary": "Earlier this year, I had one of my product's features down for 48 hours because Anthropic retired Claude 3 Haiku. In another instance, an API parameter started returning errors. I grew sick of not being able to follow and track the endless changes of AI models every week, so I decided to build Modelpeers. It's basically a feed of all these changes. You can follow models and agents that you use to see what is changing and what you need to do about it. Optionally, you can sign up to get a digest for the models/agents you follow. Every few hours, it downloads and hashes dozens of pages from the p",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 03 Nov 2026 23:45:40 +0000",
-      "timestamp": 1793749540.0
     },
     {
       "title": "Please stop asking me when the AI bubble will pop",
@@ -336,15 +363,6 @@
       "timestamp": 1793723434.0
     },
     {
-      "title": "Midterm elections 2026: all the news",
-      "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-      "summary": "The 2026 midterm elections will determine the scope of President Donald Trump&#8217;s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year&#8217;s races are expected to be most broadly defined by affordability issues, there are several topics impacting the tech industry that [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-03T10:58:39-05:00",
-      "timestamp": 1793721519.0
-    },
-    {
       "title": "Apple restricts dating apps and AI companions to users 18 and up",
       "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
       "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
@@ -462,15 +480,6 @@
       "timestamp": 1793647157.0
     },
     {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Mon, 02 Nov 2026 16:30:00 +0000",
-      "timestamp": 1793637000.0
-    },
-    {
       "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
       "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
       "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Fri, 30 Oct 2026 21:19:26 +0000",
       "timestamp": 1793395166.0
-    },
-    {
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 29 Oct 2026 18:39:43 +0000",
-      "timestamp": 1793299183.0
     }
   ]
 }
