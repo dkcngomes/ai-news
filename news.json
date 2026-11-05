@@ -1,7 +1,358 @@
 {
-  "scraped_at": "2026-11-05T10:49:38.373123+00:00",
+  "scraped_at": "2026-11-05T18:42:55.321547+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "An AI chief of staff running on governed context, with agents and tasks [video]",
+      "link": "https://www.youtube.com/watch?v=EGF3A7RRGHo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 18:35:01 +0000",
+      "timestamp": 1793903701.0
+    },
+    {
+      "title": "Stocks plunge as midterm results send AI trade into a tailspin",
+      "link": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 18:33:16 +0000",
+      "timestamp": 1793903596.0
+    },
+    {
+      "title": "Redditor uses AI to get Switch games running natively on Apple TV",
+      "link": "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 18:28:41 +0000",
+      "timestamp": 1793903321.0
+    },
+    {
+      "title": "Show HN: GPT-Live and GPT-Realtime: Arch Trade-Offs Behind Continuous Voice AI",
+      "link": "https://agentunicorn.ai/research/gpt-live-voice-ai-tradeoffs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 18:27:30 +0000",
+      "timestamp": 1793903250.0
+    },
+    {
+      "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
+      "link": "https://www.reuters.com/technology/anthropics-models-improving-nearly-twice-fast-with-help-ai-study-finds-2026-11-05/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 18:18:35 +0000",
+      "timestamp": 1793902715.0
+    },
+    {
+      "title": "Show HN: Replay three AI agent approval failures in five seconds, in Python",
+      "link": "https://github.com/salahmakboul/call4agents",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 18:17:19 +0000",
+      "timestamp": 1793902639.0
+    },
+    {
+      "title": "Show HN: Resilient AI Worker Queue with Redis, BullMQ, and Budget Kill Switches",
+      "link": "https://github.com/sidsri14/resilient-ai-worker-kit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 18:15:58 +0000",
+      "timestamp": 1793902558.0
+    },
+    {
+      "title": "Show HN: Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams",
+      "link": "https://magertron.com/#install",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 18:13:57 +0000",
+      "timestamp": 1793902437.0
+    },
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "summary": "OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 05 Nov 2026 18:02:27 +0000",
+      "timestamp": 1793901747.0
+    },
+    {
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 18:00:01 +0000",
+      "timestamp": 1793901601.0
+    },
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "timestamp": 1793901600.0
+    },
+    {
+      "title": "Claude AI can plug directly into your bank account",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-05T13:00:00-05:00",
+      "timestamp": 1793901600.0
+    },
+    {
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-05T12:51:52-05:00",
+      "timestamp": 1793901112.0
+    },
+    {
+      "title": "AI e-nose and wearable device deliver programmable smells with 73% accuracy",
+      "link": "https://news.osu.edu/new-tech-passes-the-smell-test/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 17:50:58 +0000",
+      "timestamp": 1793901058.0
+    },
+    {
+      "title": "Ask HN: How to verify response generated by AI in API response quickly",
+      "link": "https://news.ycombinator.com/item?id=50382039",
+      "summary": "like im working on this app currently a website so in my product basically i need response of ai at one particular step now i am using openrouter for that now either the response is false man a times or it takes too long to respond and sends an error i have been working on this issue past few days now and this is the only element i am stuck on how can i fix this i tried this that openrouter sends the response to an slm it validates and sends but its also not working i my case and is there an open source way to fix this issue",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 17:47:57 +0000",
+      "timestamp": 1793900877.0
+    },
+    {
+      "title": "The FP reporter Olivia Reingold posts AI generated image without disclosure",
+      "link": "https://twitter.com/mjnblack/status/2118359682460823685",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 17:28:03 +0000",
+      "timestamp": 1793899683.0
+    },
+    {
+      "title": "We built the necessary security layer between your database and your AI Agents",
+      "link": "https://medium.com/@ganayacarballo/how-to-connect-an-ai-agent-to-your-database-safely-2026-guide-db8a51b206c4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 17:28:01 +0000",
+      "timestamp": 1793899681.0
+    },
+    {
+      "title": "Which AI labs pay the most for engineers? Disclosed base pay, October 2026",
+      "link": "https://workatailab.com/blog/which-ai-labs-pay-the-most-for-engineers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 17:24:49 +0000",
+      "timestamp": 1793899489.0
+    },
+    {
+      "title": "We should train AI as though it is conscious just in case",
+      "link": "https://mathewingramblog.wordpress.com/2026/11/05/we-should-train-ai-as-though-it-is-conscious-just-in-case/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 17:23:00 +0000",
+      "timestamp": 1793899380.0
+    },
+    {
+      "title": "Vetto ScienceBench: Expanding Scientific Capabilities of Frontier AI Models",
+      "link": "https://vetto.ai/companies/vetto-science-bench/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 17:15:32 +0000",
+      "timestamp": 1793898932.0
+    },
+    {
+      "title": "The AI fatfinger economy has come for my receipts app",
+      "link": "https://pluralistic.net/2026/11/04/genius-scan-is-neither/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 17:02:54 +0000",
+      "timestamp": 1793898174.0
+    },
+    {
+      "title": "Basemodo: AI lets anyone build. We let anyone deploy",
+      "link": "https://basemodo.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 17:01:15 +0000",
+      "timestamp": 1793898075.0
+    },
+    {
+      "title": "An AI agent for generating data pipelines from Slack requests",
+      "link": "https://www.godaddy.com/resources/news/building-an-ai-agent-for-data-pipeline-creation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 17:00:38 +0000",
+      "timestamp": 1793898038.0
+    },
+    {
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-05T12:00:00-05:00",
+      "timestamp": 1793898000.0
+    },
+    {
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-05T12:00:00-05:00",
+      "timestamp": 1793898000.0
+    },
+    {
+      "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+      "link": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 05 Nov 2026 16:51:34 +0000",
+      "timestamp": 1793897494.0
+    },
+    {
+      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 05 Nov 2026 16:26:57 +0000",
+      "timestamp": 1793896017.0
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 05 Nov 2026 16:16:45 +0000",
+      "timestamp": 1793895405.0
+    },
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 05 Nov 2026 15:19:05 +0000",
+      "timestamp": 1793891945.0
+    },
+    {
+      "title": "The hidden supply chain costs of the AI boom",
+      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-05T10:00:00-05:00",
+      "timestamp": 1793890800.0
+    },
+    {
+      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+      "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-05T10:00:00-05:00",
+      "timestamp": 1793890800.0
+    },
+    {
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 05 Nov 2026 14:42:00 +0000",
+      "timestamp": 1793889720.0
+    },
+    {
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "timestamp": 1793887200.0
+    },
+    {
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "link": "https://www.wired.com/story/aina-smart-ring/",
+      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "timestamp": 1793887200.0
+    },
+    {
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "timestamp": 1793883600.0
+    },
+    {
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "timestamp": 1793883600.0
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "timestamp": 1793880000.0
+    },
+    {
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "timestamp": 1793880000.0
+    },
+    {
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 05 Nov 2026 11:45:00 +0000",
+      "timestamp": 1793879100.0
+    },
     {
       "title": "Big Tech’s big AI buildout will not end until someone stops it",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
@@ -12,189 +363,9 @@
       "timestamp": 1793875500.0
     },
     {
-      "title": "Ask HN: How do you use AI to learn complex new Math/CS topics?",
-      "link": "https://news.ycombinator.com/item?id=50377523",
-      "summary": "Hello, what setup do you use? Are there any prompts you've found extremely useful to learn new topics as a self-learner? Let's say you're trying to learn a new math or a CS concept, what's your process? Do you talk to AI? Or do you generate a tutorial first? What prompts have you found useful? I've been asking AI to generate tutorials about new topics I intend to learn but often it makes things more complex or at least I feel that way. I wonder if my prompts are ineffective? Thanks for the help.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 10:33:49 +0000",
-      "timestamp": 1793874829.0
-    },
-    {
-      "title": "Agent Delegability Index: How much of the work can AI agents take over?",
-      "link": "https://balamlabs.org/adi",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 10:31:55 +0000",
-      "timestamp": 1793874715.0
-    },
-    {
-      "title": "Faaah (Filesystem as an AI Handler) – Agent Subscription as OpenAI API via Files",
-      "link": "https://github.com/sebastiancarlos/faaah",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 10:12:19 +0000",
-      "timestamp": 1793873539.0
-    },
-    {
-      "title": "One in 20 UK adults now pays for an AI assistant",
-      "link": "https://whopaysfor.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 10:03:47 +0000",
-      "timestamp": 1793873027.0
-    },
-    {
-      "title": "Experiments trying to push the boundaries of Amiga Games with AI [video]",
-      "link": "https://www.youtube.com/watch?v=JoeP7mhcq3A",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 10:00:10 +0000",
-      "timestamp": 1793872810.0
-    },
-    {
-      "title": "Sam Altman slammed over AI \"bad things\" comment",
-      "link": "https://iol.co.za/technology/big-tech/2026-11-03-sam-altman-faces-fierce-backlash-after-saying-society-must-accept-bad-things-for-ai-progress/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 09:28:01 +0000",
-      "timestamp": 1793870881.0
-    },
-    {
-      "title": "Ask HN: Any way to have inbuild second screen for AI to control",
-      "link": "https://news.ycombinator.com/item?id=50376975",
-      "summary": "Hey HN! I was thinking in windows and linux having running computer use, but rather than full control, a way agent sees the screen like layer of application like z index but then also send the click and insert text there too ? its possible on mac i can see chatgpt has done it but how about windows or linux ?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 09:15:56 +0000",
-      "timestamp": 1793870156.0
-    },
-    {
-      "title": "AI Is Never Wrong",
-      "link": "https://aineverwrong.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 08:53:36 +0000",
-      "timestamp": 1793868816.0
-    },
-    {
-      "title": "The Wild Web: Is AI is bringing back Web 1.0 blog culture?",
-      "link": "https://blog.chaoticgood.computer/content/notes/the-wild-web",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 08:51:47 +0000",
-      "timestamp": 1793868707.0
-    },
-    {
-      "title": "Ask HN: Can current AI models reverse engineer CUDA drivers?",
-      "link": "https://news.ycombinator.com/item?id=50376606",
-      "summary": "I want to ask this question to people who're deeply involved in reverse engineering. Do you think current level of AI models can pull this off ?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 08:25:13 +0000",
-      "timestamp": 1793867113.0
-    },
-    {
-      "title": "Tile downgrading: getting a 2048 AI to 32,768 without more training [video]",
-      "link": "https://www.youtube.com/watch?v=2JgszpB4Cos",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 07:57:49 +0000",
-      "timestamp": 1793865469.0
-    },
-    {
-      "title": "AI-Lost In The Middle, possible solution",
-      "link": "https://zenodo.org/records/23686384",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 07:35:54 +0000",
-      "timestamp": 1793864154.0
-    },
-    {
-      "title": "I Built the Most AI-Pilled Company in the World",
-      "link": "https://twitter.com/jsnnsa/status/2115623382721126826",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 07:16:36 +0000",
-      "timestamp": 1793862996.0
-    },
-    {
-      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-      "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 07:15:12 +0000",
-      "timestamp": 1793862912.0
-    },
-    {
-      "title": "Generating 2k Consistent AI Images: The House Method",
-      "link": "http://blog.lockboxx.org/2026/11/generating-2k-consistent-ai-images.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 07:12:16 +0000",
-      "timestamp": 1793862736.0
-    },
-    {
-      "title": "EP 37 – Microsoft Stock Analysis: AI Bubble? Explain These Earnings. [video]",
-      "link": "https://www.youtube.com/watch?v=-4aITC7loeo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 05:59:44 +0000",
-      "timestamp": 1793858384.0
-    },
-    {
-      "title": "AI isn't slop. It's just the generic average. And not you",
-      "link": "https://www.catchkill9.dev/posts/voiceprint-open-source.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 05:53:36 +0000",
-      "timestamp": 1793858016.0
-    },
-    {
-      "title": "Big Tech claims voters' AI backlash is \"anti-Trump\" not \"anti-tech\"",
-      "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 05:38:01 +0000",
-      "timestamp": 1793857081.0
-    },
-    {
-      "title": "LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks [pdf]",
-      "link": "https://cdn.openai.com/pdf/lifeval.pdf",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 05:25:34 +0000",
-      "timestamp": 1793856334.0
-    },
-    {
-      "title": "Secure meeting room for humans that AI can't see",
-      "link": "https://qube.so",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 05 Nov 2026 05:21:44 +0000",
-      "timestamp": 1793856104.0
-    },
-    {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Thu, 05 Nov 2026 01:26:22 +0000",
@@ -345,33 +516,6 @@
       "timestamp": 1793817897.0
     },
     {
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-04T13:26:07-05:00",
-      "timestamp": 1793816767.0
-    },
-    {
-      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-04T13:00:00-05:00",
-      "timestamp": 1793815200.0
-    },
-    {
-      "title": "ChatGPT will now make you animated GIFs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-04T13:00:00-05:00",
-      "timestamp": 1793815200.0
-    },
-    {
       "title": "The Results Are In: Voters Hate Data Centers",
       "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
       "summary": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
@@ -397,150 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 04 Nov 2026 16:17:22 +0000",
       "timestamp": 1793809042.0
-    },
-    {
-      "title": "Data centers lost the midterms",
-      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-04T11:05:39-05:00",
-      "timestamp": 1793808339.0
-    },
-    {
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-04T10:58:45-05:00",
-      "timestamp": 1793807925.0
-    },
-    {
-      "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-04T09:46:01-05:00",
-      "timestamp": 1793803561.0
-    },
-    {
-      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-      "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 04 Nov 2026 13:49:51 +0000",
-      "timestamp": 1793800191.0
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 04 Nov 2026 13:00:00 +0000",
-      "timestamp": 1793797200.0
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 03 Nov 2026 22:41:03 +0000",
-      "timestamp": 1793745663.0
-    },
-    {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 03 Nov 2026 22:19:53 +0000",
-      "timestamp": 1793744393.0
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 03 Nov 2026 21:43:08 +0000",
-      "timestamp": 1793742188.0
-    },
-    {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 03 Nov 2026 21:05:55 +0000",
-      "timestamp": 1793739955.0
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 03 Nov 2026 19:34:43 +0000",
-      "timestamp": 1793734483.0
-    },
-    {
-      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 03 Nov 2026 18:42:16 +0000",
-      "timestamp": 1793731336.0
-    },
-    {
-      "title": "Anthropic is still grappling with the economics of compute",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 03 Nov 2026 17:07:01 +0000",
-      "timestamp": 1793725621.0
-    },
-    {
-      "title": "Here’s Why You Shouldn’t Use AI to Vote",
-      "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 03 Nov 2026 14:45:08 +0000",
-      "timestamp": 1793717108.0
-    },
-    {
-      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 03 Nov 2026 11:00:00 +0000",
-      "timestamp": 1793703600.0
-    },
-    {
-      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-      "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 02 Nov 2026 12:00:00 +0000",
-      "timestamp": 1793620800.0
-    },
-    {
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 02 Nov 2026 10:00:00 +0000",
-      "timestamp": 1793613600.0
     }
   ]
 }
