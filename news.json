@@ -1,7 +1,52 @@
 {
-  "scraped_at": "2026-11-06T06:42:12.504144+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-06T15:00:18.559995+00:00",
+  "count": 40,
   "items": [
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 06 Nov 2026 14:10:00 +0000",
+      "timestamp": 1793974200.0
+    },
+    {
+      "title": "Amazon will let you text Alexa your shopping list",
+      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-06T09:00:00-05:00",
+      "timestamp": 1793973600.0
+    },
+    {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 06 Nov 2026 13:02:16 +0000",
+      "timestamp": 1793970136.0
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 06 Nov 2026 13:00:00 +0000",
+      "timestamp": 1793970000.0
+    },
+    {
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-06T06:55:19-05:00",
+      "timestamp": 1793966119.0
+    },
     {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -10,186 +55,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 06 Nov 2026 06:28:32 +0000",
       "timestamp": 1793946512.0
-    },
-    {
-      "title": "Delaware plan would let AI agents run businesses",
-      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 06:26:56 +0000",
-      "timestamp": 1793946416.0
-    },
-    {
-      "title": "AI is changing mathematics – but not how you think",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6010471/ai-math-navier-stokes-mathematicians-openai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 06:25:40 +0000",
-      "timestamp": 1793946340.0
-    },
-    {
-      "title": "Taiwan stocks in steepest-ever fall, South Korea halts trading amid AI rout",
-      "link": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 06:02:01 +0000",
-      "timestamp": 1793944921.0
-    },
-    {
-      "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
-      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 05:52:54 +0000",
-      "timestamp": 1793944374.0
-    },
-    {
-      "title": "Japan's Nikkei Poised to Enter Bear Market as AI Selloff Deepens",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 05:37:26 +0000",
-      "timestamp": 1793943446.0
-    },
-    {
-      "title": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
-      "link": "https://app.stitch.ai/auth/signup",
-      "summary": "Our team is excited to launch Stitch.ai this week. We've been working hard to bring knowledge workers, freelancers and founders a workspace that doesn't require hopping between apps and tabs; everything is in one app. The Stitch.ai app includes mail, calendar, contacts, tasks, notes, sheets, slides, files, boards and forms. We sort of still can't believe we managed to build so many tools! We use auto-generated Knots and Tags to label your work, helping you surface related items with one click. Stitching is also a great feature that allows you to 'Stitch'. your items together. You can Stitch ta",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 05:19:36 +0000",
-      "timestamp": 1793942376.0
-    },
-    {
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 05:19:04 +0000",
-      "timestamp": 1793942344.0
-    },
-    {
-      "title": "How accurately did science fiction stories predict AI?",
-      "link": "https://jamesyu.org/science-fiction-predictions-of-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 04:36:22 +0000",
-      "timestamp": 1793939782.0
-    },
-    {
-      "title": "AI and the Future of the Product Role",
-      "link": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 03:54:13 +0000",
-      "timestamp": 1793937253.0
-    },
-    {
-      "title": "Are We Cooked? CMU Faculty on AI, Careers and Learning [video]",
-      "link": "https://www.youtube.com/watch?v=U2DDKdUvq6k",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 03:53:21 +0000",
-      "timestamp": 1793937201.0
-    },
-    {
-      "title": "Meta Warns Midterm Backlash Threatens AI Data Centers",
-      "link": "https://epyhia.com/meta-warns-midterm-backlash-threatens-ai-data-centers-goldman-sees-45",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 03:51:26 +0000",
-      "timestamp": 1793937086.0
-    },
-    {
-      "title": "Open AI Cellular: Open platform for prototyping and testing AI based 6G",
-      "link": "https://www.openaicellular.org",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 03:16:54 +0000",
-      "timestamp": 1793935014.0
-    },
-    {
-      "title": "You Had Me at \"Hello\": A Chinese‑Language Framework Targeting AI Infrastructure",
-      "link": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 03:15:49 +0000",
-      "timestamp": 1793934949.0
-    },
-    {
-      "title": "Closed AI models dominate the price-performance frontier",
-      "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 02:49:56 +0000",
-      "timestamp": 1793933396.0
-    },
-    {
-      "title": "Somebody made an AI clone of Mark Brown's indie game [video]",
-      "link": "https://www.youtube.com/watch?v=8LMau1qXPYE",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 02:18:39 +0000",
-      "timestamp": 1793931519.0
-    },
-    {
-      "title": "The Dangerous Illusion of the \"Two-Week AI Expert\"",
-      "link": "https://medcitynews.com/2026/11/the-dangerous-illusion-of-the-two-week-ai-expert-a-call-to-action-against-superficial-medical-education/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 02:14:08 +0000",
-      "timestamp": 1793931248.0
-    },
-    {
-      "title": "Scarce Positions of Economic Power Gain from Increasingly Capable AI",
-      "link": "https://commanding-heights.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 01:41:27 +0000",
-      "timestamp": 1793929287.0
-    },
-    {
-      "title": "Supermicro Super AI Station Review: The AI Server That Doubles as a Workstation",
-      "link": "https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 01:27:59 +0000",
-      "timestamp": 1793928479.0
-    },
-    {
-      "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
-      "link": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 01:11:40 +0000",
-      "timestamp": 1793927500.0
-    },
-    {
-      "title": "Axiom – blocks AI agents from inventing limits your code never defined",
-      "link": "https://github.com/axiom-csc/axiom-skill",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 01:00:43 +0000",
-      "timestamp": 1793926843.0
     },
     {
       "title": "OpenAI is stepping back from NDAs for data center projects",
@@ -354,24 +219,6 @@
       "timestamp": 1793891945.0
     },
     {
-      "title": "The hidden supply chain costs of the AI boom",
-      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-05T10:00:00-05:00",
-      "timestamp": 1793890800.0
-    },
-    {
-      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-      "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-05T10:00:00-05:00",
-      "timestamp": 1793890800.0
-    },
-    {
       "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
       "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
       "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
@@ -487,33 +334,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 04 Nov 2026 22:13:16 +0000",
       "timestamp": 1793830396.0
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 04 Nov 2026 21:56:01 +0000",
-      "timestamp": 1793829361.0
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 04 Nov 2026 21:25:44 +0000",
-      "timestamp": 1793827544.0
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 04 Nov 2026 21:10:56 +0000",
-      "timestamp": 1793826656.0
     },
     {
       "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
