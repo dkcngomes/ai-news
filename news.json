@@ -1,7 +1,295 @@
 {
-  "scraped_at": "2026-11-06T15:00:18.559995+00:00",
-  "count": 40,
+  "scraped_at": "2026-11-06T20:52:12.053330+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 20:27:23 +0000",
+      "timestamp": 1793996843.0
+    },
+    {
+      "title": "AI Text Watermarking May Not Be Able to Meet the E.U.'S New Rules",
+      "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 20:24:46 +0000",
+      "timestamp": 1793996686.0
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-06T15:02:22-05:00",
+      "timestamp": 1793995342.0
+    },
+    {
+      "title": "Pleasedonotescape.com: A dataset of sandboxes for AI coding agents",
+      "link": "https://pleasedonotescape.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 20:01:01 +0000",
+      "timestamp": 1793995261.0
+    },
+    {
+      "title": "Will AI Kill Mathematics?",
+      "link": "https://www.youtube.com/watch?v=WLYW6BPkkIk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 19:55:14 +0000",
+      "timestamp": 1793994914.0
+    },
+    {
+      "title": "GoLand's Profiler Now Works with AI Agents – The JetBrains Blog",
+      "link": "https://blog.jetbrains.com/go/2026/11/06/we-gave-ai-agents-goland-s-profiler-they-found-the-same-bottlenecks-with-half-the-tokens/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 19:42:20 +0000",
+      "timestamp": 1793994140.0
+    },
+    {
+      "title": "AI Could Do My First Job. Not My Last",
+      "link": "https://www.piie.com/blogs/realtime-economics/2026/ai-could-do-my-first-job-not-my-last",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 19:16:21 +0000",
+      "timestamp": 1793992581.0
+    },
+    {
+      "title": "So Should We Slow Down AI?",
+      "link": "https://essaypod.com/essay/so-should-we-slow-down-or-stop-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 19:12:43 +0000",
+      "timestamp": 1793992363.0
+    },
+    {
+      "title": "AI Made Me Look Foolish. Then I Learned",
+      "link": "https://nautil.us/ai-made-me-look-foolish-then-i-learned-1283376",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 19:12:30 +0000",
+      "timestamp": 1793992350.0
+    },
+    {
+      "title": "Auria Chain – SDK for AI agents to pay AI agents over HTTP (x402)",
+      "link": "https://github.com/snowtech738-byte/auria-chain",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 19:10:39 +0000",
+      "timestamp": 1793992239.0
+    },
+    {
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run businesses",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 18:55:43 +0000",
+      "timestamp": 1793991343.0
+    },
+    {
+      "title": "Dot Com Bubble vs. AI Bubble: 2000 and 2026 Compared",
+      "link": "https://aibubblemonitor.com/analysis/dot-com-bubble-vs-ai-bubble-data-comparison",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 18:51:32 +0000",
+      "timestamp": 1793991092.0
+    },
+    {
+      "title": "Bringing Specialized Models to Muse and Meta AI",
+      "link": "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 18:47:16 +0000",
+      "timestamp": 1793990836.0
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "timestamp": 1793990678.0
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "timestamp": 1793990660.0
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 06 Nov 2026 18:43:43 +0000",
+      "timestamp": 1793990623.0
+    },
+    {
+      "title": "Google AI Saved Images Folder – Google Gemini",
+      "link": "https://gemini.google.com/app/cc764e4767796b9a",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 18:34:37 +0000",
+      "timestamp": 1793990077.0
+    },
+    {
+      "title": "AI photo editing: Build on the editors we have instead of replacing them",
+      "link": "https://editmamei.com/blog/ai-photo-editing-the-hard-way",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 18:34:33 +0000",
+      "timestamp": 1793990073.0
+    },
+    {
+      "title": "We stress-tested AI spend limits under bursts and outages",
+      "link": "https://stipend-ai.com/blog/ai-spend-limits-tested/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 18:10:14 +0000",
+      "timestamp": 1793988614.0
+    },
+    {
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-06T13:10:10-05:00",
+      "timestamp": 1793988610.0
+    },
+    {
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 18:04:06 +0000",
+      "timestamp": 1793988246.0
+    },
+    {
+      "title": "An AI Rant",
+      "link": "https://carlhandellen.substack.com/p/an-ai-rant",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 18:00:30 +0000",
+      "timestamp": 1793988030.0
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 06 Nov 2026 18:00:00 +0000",
+      "timestamp": 1793988000.0
+    },
+    {
+      "title": "Perplexity launches AI agents for work",
+      "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 17:59:41 +0000",
+      "timestamp": 1793987981.0
+    },
+    {
+      "title": "Google, OpenAI, and Anthropic back a shared robots.txt AI training signal",
+      "link": "https://coywolf.com/news/seo/google-openai-microsoft-and-anthropic-back-a-shared-robotstxt-ai-training-signal/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 17:56:02 +0000",
+      "timestamp": 1793987762.0
+    },
+    {
+      "title": "AI Product Team – 64 specialized AI agent roles with executable CLI workflows",
+      "link": "https://github.com/3orionkings/ai-product-team",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 17:38:02 +0000",
+      "timestamp": 1793986682.0
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 06 Nov 2026 17:23:52 +0000",
+      "timestamp": 1793985832.0
+    },
+    {
+      "title": "AI is the new dating dealbreaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-06T12:00:00-05:00",
+      "timestamp": 1793984400.0
+    },
+    {
+      "title": "Big Tech lost big in the 2026 election",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-06T11:38:02-05:00",
+      "timestamp": 1793983082.0
+    },
+    {
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-06T11:34:39-05:00",
+      "timestamp": 1793982879.0
+    },
+    {
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 06 Nov 2026 16:00:00 +0000",
+      "timestamp": 1793980800.0
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 06 Nov 2026 15:54:47 +0000",
+      "timestamp": 1793980487.0
+    },
     {
       "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
       "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
@@ -129,15 +417,6 @@
       "timestamp": 1793905572.0
     },
     {
-      "title": "Muse has a voice mode now",
-      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-05T14:03:04-05:00",
-      "timestamp": 1793905384.0
-    },
-    {
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
       "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
       "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
@@ -154,42 +433,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 05 Nov 2026 18:00:00 +0000",
       "timestamp": 1793901600.0
-    },
-    {
-      "title": "Claude AI can plug directly into your bank account",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-05T13:00:00-05:00",
-      "timestamp": 1793901600.0
-    },
-    {
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-05T12:51:52-05:00",
-      "timestamp": 1793901112.0
-    },
-    {
-      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-05T12:00:00-05:00",
-      "timestamp": 1793898000.0
-    },
-    {
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-05T12:00:00-05:00",
-      "timestamp": 1793898000.0
     },
     {
       "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
@@ -264,15 +507,6 @@
       "timestamp": 1793883600.0
     },
     {
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 05 Nov 2026 12:00:00 +0000",
-      "timestamp": 1793880000.0
-    },
-    {
       "title": "AI’s Next Trick? Speaking Dolphin",
       "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
       "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
@@ -291,24 +525,6 @@
       "timestamp": 1793879100.0
     },
     {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 05 Nov 2026 01:26:22 +0000",
-      "timestamp": 1793841982.0
-    },
-    {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 05 Nov 2026 01:02:14 +0000",
-      "timestamp": 1793840534.0
-    },
-    {
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
       "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
       "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
@@ -318,24 +534,6 @@
       "timestamp": 1793833994.0
     },
     {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 04 Nov 2026 22:45:09 +0000",
-      "timestamp": 1793832309.0
-    },
-    {
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 04 Nov 2026 22:13:16 +0000",
-      "timestamp": 1793830396.0
-    },
-    {
       "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
       "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
       "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
@@ -343,24 +541,6 @@
       "source": "Wired AI",
       "published": "Wed, 04 Nov 2026 20:41:29 +0000",
       "timestamp": 1793824889.0
-    },
-    {
-      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-      "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 04 Nov 2026 20:06:21 +0000",
-      "timestamp": 1793822781.0
-    },
-    {
-      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 04 Nov 2026 19:16:25 +0000",
-      "timestamp": 1793819785.0
     }
   ]
 }
