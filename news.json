@@ -1,7 +1,178 @@
 {
-  "scraped_at": "2026-11-07T07:06:14.485216+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-07T13:58:38.758177+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "Show HN: I made a guardrail against AI outreach slop (API/MCP)",
+      "link": "https://maildignity.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 13:48:09 +0000",
+      "timestamp": 1794059289.0
+    },
+    {
+      "title": "Why does America hate AI?",
+      "link": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 13:46:27 +0000",
+      "timestamp": 1794059187.0
+    },
+    {
+      "title": "AI Santa Video Generator – Personalized Santa Videos",
+      "link": "https://aisantavideo.net",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 13:38:30 +0000",
+      "timestamp": 1794058710.0
+    },
+    {
+      "title": "Baidu Hit with Securities Fraud Class Action over AI Growth Claims",
+      "link": "https://epyhia.com/baidu-hit-with-securities-fraud-class-action-over-ai-growth-claims",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 13:25:34 +0000",
+      "timestamp": 1794057934.0
+    },
+    {
+      "title": "AI is turning protectionists into free traders",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 13:20:23 +0000",
+      "timestamp": 1794057623.0
+    },
+    {
+      "title": "Post-AI Computer Science – Volume 4",
+      "link": "https://thingspool.net/shards-of-sanity/page-4.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 13:19:33 +0000",
+      "timestamp": 1794057573.0
+    },
+    {
+      "title": "The Joy of Coding Is Gone: My Honest Take on AI",
+      "link": "https://www.youtube.com/watch?v=gIvVjepvdMg",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 13:11:50 +0000",
+      "timestamp": 1794057110.0
+    },
+    {
+      "title": "AI is a technological version of the Homeric songs",
+      "link": "https://www.economist.com/by-invitation/2026/10/28/ai-is-a-technological-version-of-the-homeric-songs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 12:48:07 +0000",
+      "timestamp": 1794055687.0
+    },
+    {
+      "title": "Climate skeptics used AI to review their work. It told them they were biased",
+      "link": "https://thebulletin.org/2026/10/climate-skeptics-used-ai-to-review-their-work-it-told-them-they-were-biased/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 12:40:05 +0000",
+      "timestamp": 1794055205.0
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-07T07:30:00-05:00",
+      "timestamp": 1794054600.0
+    },
+    {
+      "title": "Nordic AI Health Map",
+      "link": "https://healthmap.newnordics.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 11:10:38 +0000",
+      "timestamp": 1794049838.0
+    },
+    {
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "timestamp": 1794049200.0
+    },
+    {
+      "title": "The Pentagon wants to know who checks code when AI writes it",
+      "link": "https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 10:52:46 +0000",
+      "timestamp": 1794048766.0
+    },
+    {
+      "title": "Trace – Crash-safe durable Sagas for autonomous AI agents",
+      "link": "https://github.com/orikami048/trace-agent-lang",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 10:28:19 +0000",
+      "timestamp": 1794047299.0
+    },
+    {
+      "title": "Show HN: Service for the parallel execution of AI agent tasks on remote devices",
+      "link": "https://rungrid.space",
+      "summary": "I'm building Rungrid, a platform for running and managing tasks across multiple remote devices from a single interface. The project is currently in the MVP stage. If you're interested, you can join the waitlist to get notified when it launches.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 08:53:45 +0000",
+      "timestamp": 1794041625.0
+    },
+    {
+      "title": "AI Source Code Analysis Detection Evasion Techniques",
+      "link": "https://cipher.org.uk/2026/11/06/AI-Source-Code-Analysis-Detection-Evasion-Techniques/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 08:52:16 +0000",
+      "timestamp": 1794041536.0
+    },
+    {
+      "title": "APM – A dependency manager for AI agents",
+      "link": "https://microsoft.github.io/apm/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 08:51:43 +0000",
+      "timestamp": 1794041503.0
+    },
+    {
+      "title": "An internet radio station run by AI",
+      "link": "https://radio.neoncurrent.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 08:40:49 +0000",
+      "timestamp": 1794040849.0
+    },
+    {
+      "title": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
+      "link": "https://digitalminds.cam/inter-ai-morality.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 08:02:02 +0000",
+      "timestamp": 1794038522.0
+    },
     {
       "title": "Church quits role at AI startup claims 'sleazy' behavior stole credit",
       "link": "https://endpoints.news/church-quits-role-at-ai-startup-radical-claims-sleazy-behavior-stole-credit-from-partner/",
@@ -12,103 +183,13 @@
       "timestamp": 1794032204.0
     },
     {
-      "title": "Show HN: Help me pick a logo animation for my in-browser AI creature game",
-      "link": "https://id-le.com/review/intro-logo-animation",
+      "title": "Show HN:A tool your AI uses just changed. Would you know?",
+      "link": "https://mcp.brydge-ai.com/diff.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 04:54:01 +0000",
-      "timestamp": 1794027241.0
-    },
-    {
-      "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It",
-      "link": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 04:39:33 +0000",
-      "timestamp": 1794026373.0
-    },
-    {
-      "title": "The AI Business Model Just Collapsed",
-      "link": "https://www.honest-broker.com/p/the-ai-business-model-just-collapsed",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 04:30:10 +0000",
-      "timestamp": 1794025810.0
-    },
-    {
-      "title": "Show HN: Backwords – Let AI teach you how to speak in reverse",
-      "link": "https://backwords.greg.technology/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 03:39:46 +0000",
-      "timestamp": 1794022786.0
-    },
-    {
-      "title": "YC Backed Bron AI Accused of Using LeBron's Name and Likeness",
-      "link": "https://frontofficesports.com/article/lebron-james-demands-ai-betting-app-stop-using-his-likeness/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 03:34:25 +0000",
-      "timestamp": 1794022465.0
-    },
-    {
-      "title": "DeepMind AI agents find two weaknesses in legacy 1024-bit RSA cryptosystems",
-      "link": "https://twitter.com/pushmeet/status/2118752095859794390",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 03:07:49 +0000",
-      "timestamp": 1794020869.0
-    },
-    {
-      "title": "Brave Sells Its Search Index to AI, and Your Website Is Probably in It",
-      "link": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 02:59:27 +0000",
-      "timestamp": 1794020367.0
-    },
-    {
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 02:20:06 +0000",
-      "timestamp": 1794018006.0
-    },
-    {
-      "title": "Coding agents ranked for builders shipping AI software",
-      "link": "https://rankings.leffke.com/categories/coding-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 02:16:19 +0000",
-      "timestamp": 1794017779.0
-    },
-    {
-      "title": "Show HN: I built an AI photo editor powered by GPT-Image-2.6",
-      "link": "https://getaiphotoeditor.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 02:07:58 +0000",
-      "timestamp": 1794017278.0
-    },
-    {
-      "title": "Show HN: Select – AI agents that earn autonomy through verified work",
-      "link": "https://github.com/Kirby54/Select",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 01:55:27 +0000",
-      "timestamp": 1794016527.0
+      "published": "Sat, 07 Nov 2026 05:47:35 +0000",
+      "timestamp": 1794030455.0
     },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -120,60 +201,6 @@
       "timestamp": 1794015628.0
     },
     {
-      "title": "Reverse Engineering with AI: Your Decompiler Can Lie to You",
-      "link": "https://prod.codes/blog/reverse-engineering-with-ai-your-decompiler-can-lie-to-you/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 01:31:19 +0000",
-      "timestamp": 1794015079.0
-    },
-    {
-      "title": "A woman possibly using AI to help murder her husband – a play",
-      "link": "http://awbvious.com/LittleRose.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 00:56:12 +0000",
-      "timestamp": 1794012972.0
-    },
-    {
-      "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
-      "link": "https://github.com/meshapplied/Goethe",
-      "summary": "Hey, we launched Goethe, because deploying models on hardware you control end-to-end is pain in the ass. Goethe is like Vercel, but for AI models and hardware. It manages your models and hardware you point it and runs corresponding optimal inference. -- install it -- deploy any model you want -- get an API you can use with any client securely",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 00:26:21 +0000",
-      "timestamp": 1794011181.0
-    },
-    {
-      "title": "The Slop Index: Which AI Model Writes the Least Like AI?",
-      "link": "https://www.theslopindex.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 23:57:51 +0000",
-      "timestamp": 1794009471.0
-    },
-    {
-      "title": "Terra Tempora: we shouldn't entrust our understanding of history to AI",
-      "link": "https://scholar.social/@JubalBarca/117570024280604981",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 23:48:40 +0000",
-      "timestamp": 1794008920.0
-    },
-    {
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "link": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 23:46:51 +0000",
-      "timestamp": 1794008811.0
-    },
-    {
       "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
@@ -181,24 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-11-06T18:46:18-05:00",
       "timestamp": 1794008778.0
-    },
-    {
-      "title": "Show HN: Cinnamon – a household AI agent with shared context and memories",
-      "link": "https://getcinnamon.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 23:44:55 +0000",
-      "timestamp": 1794008695.0
-    },
-    {
-      "title": "ECB considers review of bank data center lending on AI risk",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-considers-review-of-banks-data-center-lending-as-fears-rise",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 23:19:22 +0000",
-      "timestamp": 1794007162.0
     },
     {
       "title": "China reportedly recruited AI exec to spy on Jensen Huang",
@@ -381,15 +390,6 @@
       "timestamp": 1793946512.0
     },
     {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-05T19:37:56-05:00",
-      "timestamp": 1793925476.0
-    },
-    {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
       "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
@@ -532,15 +532,6 @@
       "source": "Wired AI",
       "published": "Wed, 04 Nov 2026 23:13:14 +0000",
       "timestamp": 1793833994.0
-    },
-    {
-      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-      "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 04 Nov 2026 20:41:29 +0000",
-      "timestamp": 1793824889.0
     }
   ]
 }
