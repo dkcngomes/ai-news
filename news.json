@@ -1,24 +1,213 @@
 {
-  "scraped_at": "2026-11-06T20:52:12.053330+00:00",
+  "scraped_at": "2026-11-07T00:54:55.719317+00:00",
   "count": 60,
   "items": [
     {
-      "title": "AI is dramatically accelerating AI research",
-      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "summary": "",
+      "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
+      "link": "https://github.com/meshapplied/Goethe",
+      "summary": "Hey, we launched Goethe, because deploying models on hardware you control end-to-end is pain in the ass. Goethe is like Vercel, but for AI models and hardware. It manages your models and hardware you point it and runs corresponding optimal inference. -- install it -- deploy any model you want -- get an API you can use with any client securely",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 20:27:23 +0000",
-      "timestamp": 1793996843.0
+      "published": "Sat, 07 Nov 2026 00:26:21 +0000",
+      "timestamp": 1794011181.0
     },
     {
-      "title": "AI Text Watermarking May Not Be Able to Meet the E.U.'S New Rules",
-      "link": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
+      "title": "The Slop Index: Which AI Model Writes the Least Like AI?",
+      "link": "https://www.theslopindex.com",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 20:24:46 +0000",
-      "timestamp": 1793996686.0
+      "published": "Fri, 06 Nov 2026 23:57:51 +0000",
+      "timestamp": 1794009471.0
+    },
+    {
+      "title": "Terra Tempora: we shouldn't entrust our understanding of history to AI",
+      "link": "https://scholar.social/@JubalBarca/117570024280604981",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 23:48:40 +0000",
+      "timestamp": 1794008920.0
+    },
+    {
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "link": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 23:46:51 +0000",
+      "timestamp": 1794008811.0
+    },
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-06T18:46:18-05:00",
+      "timestamp": 1794008778.0
+    },
+    {
+      "title": "Show HN: Cinnamon – a household AI agent with shared context and memories",
+      "link": "https://getcinnamon.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 23:44:55 +0000",
+      "timestamp": 1794008695.0
+    },
+    {
+      "title": "ECB considers review of bank data center lending on AI risk",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-considers-review-of-banks-data-center-lending-as-fears-rise",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 23:19:22 +0000",
+      "timestamp": 1794007162.0
+    },
+    {
+      "title": "Live now: attacking P vs. NP using only AI, written out in real time",
+      "link": "https://x.com/i/broadcasts/2OdXnjKkaKWmkV",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 23:15:16 +0000",
+      "timestamp": 1794006916.0
+    },
+    {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-06T18:00:44-05:00",
+      "timestamp": 1794006044.0
+    },
+    {
+      "title": "Show HN: I asked HN about AI agentic setups, here are 750 of the comments mapped",
+      "link": "https://news.ycombinator.com/item?id=50399637",
+      "summary": "A few days back I posted here asking about how people were using AI / doing agentic coding (see: https://news.ycombinator.com/item?id=50366117 ). Needless to say, I was overwhelmed by the response! The one challenge I found, however, was that the comments were almost impossible to parse: some users answered my questions in the format I provided, others answered in any order, but either way it was really hard to get a picture of who was using what from that thread alone. So, I spent last night building an interactive site out of people's answers. I used Claude to pull the tools, models and plan",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 22:58:34 +0000",
+      "timestamp": 1794005914.0
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "timestamp": 1794005626.0
+    },
+    {
+      "title": "Open Source Neuron Hunt on AI Research Collaboration Platform",
+      "link": "https://app.station-house.net",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 22:46:15 +0000",
+      "timestamp": 1794005175.0
+    },
+    {
+      "title": "DeepFinance: Can AI diligence a $100M deal?",
+      "link": "https://www.juliusresearch.ai/blog/deep-finance",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 22:44:04 +0000",
+      "timestamp": 1794005044.0
+    },
+    {
+      "title": "AbMaze: Evaluating frontier AI agents on protein fitness landscapes",
+      "link": "https://valenlabs.com/blog/abmaze",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 22:31:45 +0000",
+      "timestamp": 1794004305.0
+    },
+    {
+      "title": "Show HN: AJX – Find out where AI agents get stuck using your product",
+      "link": "https://ajx.dev/",
+      "summary": "Hi HN. I made AJX (Agent Journey Experience). It is a CLI and skill bundle that you run to test what your product feels like to use from the point of view of an agent, and you get back a list of \"asks\" that would improve your product from an agentic usability perspective: so that agents spend less time, tokens and retries to accomplish tasks with it. How? It works by having an outer loop (AJX harness skill + CLI) that controls an \"inner loop\": the agent that actually tries out your product. The outer loop investigates the inner loop once it finishes. To try it, copy the prompt from the main pa",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 22:31:02 +0000",
+      "timestamp": 1794004262.0
+    },
+    {
+      "title": "Can AI self-improvement overcome diminishing returns?",
+      "link": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 22:20:04 +0000",
+      "timestamp": 1794003604.0
+    },
+    {
+      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 21:51:21 +0000",
+      "timestamp": 1794001881.0
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 21:51:16 +0000",
+      "timestamp": 1794001876.0
+    },
+    {
+      "title": "Combining freelancing, social networking, and AI",
+      "link": "https://freelancer.svoxx.com/int/en",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 21:43:59 +0000",
+      "timestamp": 1794001439.0
+    },
+    {
+      "title": "Ask HN: Are AI-written reviews a safety risk? Evidence from ICLR2027 scores",
+      "link": "https://news.ycombinator.com/item?id=50398781",
+      "summary": "There are two things I noticed. First, it seems that interpretability research got the lowest scores. And that the highest scored paper (444 with highest confidence) is the \"Context Language Models\" paper which lets models modify their context. This seems to support OpenAI latest findings. scores by domain: https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/ scores by paper: https://shiqiangw.github.io/iclr-2027-scores/ OpenAI safety findings: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 21:29:50 +0000",
+      "timestamp": 1794000590.0
+    },
+    {
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 21:27:07 +0000",
+      "timestamp": 1794000427.0
+    },
+    {
+      "title": "How I Learned to Stop Worrying and Love AI",
+      "link": "https://koenvangilst.nl/lab/how-i-stopped-worrying-and-learned-to-love-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 21:25:47 +0000",
+      "timestamp": 1794000347.0
+    },
+    {
+      "title": "Ballast – cold email infrastructure with AI and MCP",
+      "link": "https://ballast.to",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 06 Nov 2026 21:25:33 +0000",
+      "timestamp": 1794000333.0
     },
     {
       "title": "All the latest updates on AI data centers",
@@ -28,96 +217,6 @@
       "source": "The Verge AI",
       "published": "2026-11-06T15:02:22-05:00",
       "timestamp": 1793995342.0
-    },
-    {
-      "title": "Pleasedonotescape.com: A dataset of sandboxes for AI coding agents",
-      "link": "https://pleasedonotescape.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 20:01:01 +0000",
-      "timestamp": 1793995261.0
-    },
-    {
-      "title": "Will AI Kill Mathematics?",
-      "link": "https://www.youtube.com/watch?v=WLYW6BPkkIk",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 19:55:14 +0000",
-      "timestamp": 1793994914.0
-    },
-    {
-      "title": "GoLand's Profiler Now Works with AI Agents – The JetBrains Blog",
-      "link": "https://blog.jetbrains.com/go/2026/11/06/we-gave-ai-agents-goland-s-profiler-they-found-the-same-bottlenecks-with-half-the-tokens/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 19:42:20 +0000",
-      "timestamp": 1793994140.0
-    },
-    {
-      "title": "AI Could Do My First Job. Not My Last",
-      "link": "https://www.piie.com/blogs/realtime-economics/2026/ai-could-do-my-first-job-not-my-last",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 19:16:21 +0000",
-      "timestamp": 1793992581.0
-    },
-    {
-      "title": "So Should We Slow Down AI?",
-      "link": "https://essaypod.com/essay/so-should-we-slow-down-or-stop-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 19:12:43 +0000",
-      "timestamp": 1793992363.0
-    },
-    {
-      "title": "AI Made Me Look Foolish. Then I Learned",
-      "link": "https://nautil.us/ai-made-me-look-foolish-then-i-learned-1283376",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 19:12:30 +0000",
-      "timestamp": 1793992350.0
-    },
-    {
-      "title": "Auria Chain – SDK for AI agents to pay AI agents over HTTP (x402)",
-      "link": "https://github.com/snowtech738-byte/auria-chain",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 19:10:39 +0000",
-      "timestamp": 1793992239.0
-    },
-    {
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run businesses",
-      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 18:55:43 +0000",
-      "timestamp": 1793991343.0
-    },
-    {
-      "title": "Dot Com Bubble vs. AI Bubble: 2000 and 2026 Compared",
-      "link": "https://aibubblemonitor.com/analysis/dot-com-bubble-vs-ai-bubble-data-comparison",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 18:51:32 +0000",
-      "timestamp": 1793991092.0
-    },
-    {
-      "title": "Bringing Specialized Models to Muse and Meta AI",
-      "link": "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 18:47:16 +0000",
-      "timestamp": 1793990836.0
     },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -147,33 +246,6 @@
       "timestamp": 1793990623.0
     },
     {
-      "title": "Google AI Saved Images Folder – Google Gemini",
-      "link": "https://gemini.google.com/app/cc764e4767796b9a",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 18:34:37 +0000",
-      "timestamp": 1793990077.0
-    },
-    {
-      "title": "AI photo editing: Build on the editors we have instead of replacing them",
-      "link": "https://editmamei.com/blog/ai-photo-editing-the-hard-way",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 18:34:33 +0000",
-      "timestamp": 1793990073.0
-    },
-    {
-      "title": "We stress-tested AI spend limits under bursts and outages",
-      "link": "https://stipend-ai.com/blog/ai-spend-limits-tested/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 18:10:14 +0000",
-      "timestamp": 1793988614.0
-    },
-    {
       "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
       "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
       "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by [&#8230;]",
@@ -183,24 +255,6 @@
       "timestamp": 1793988610.0
     },
     {
-      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-      "link": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 18:04:06 +0000",
-      "timestamp": 1793988246.0
-    },
-    {
-      "title": "An AI Rant",
-      "link": "https://carlhandellen.substack.com/p/an-ai-rant",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 18:00:30 +0000",
-      "timestamp": 1793988030.0
-    },
-    {
       "title": "How a Blue Wave midterm might reshape the AI industry",
       "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
@@ -208,33 +262,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 06 Nov 2026 18:00:00 +0000",
       "timestamp": 1793988000.0
-    },
-    {
-      "title": "Perplexity launches AI agents for work",
-      "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 17:59:41 +0000",
-      "timestamp": 1793987981.0
-    },
-    {
-      "title": "Google, OpenAI, and Anthropic back a shared robots.txt AI training signal",
-      "link": "https://coywolf.com/news/seo/google-openai-microsoft-and-anthropic-back-a-shared-robotstxt-ai-training-signal/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 17:56:02 +0000",
-      "timestamp": 1793987762.0
-    },
-    {
-      "title": "AI Product Team – 64 specialized AI agent roles with executable CLI workflows",
-      "link": "https://github.com/3orionkings/ai-product-team",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 06 Nov 2026 17:38:02 +0000",
-      "timestamp": 1793986682.0
     },
     {
       "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -354,15 +381,6 @@
       "timestamp": 1793925476.0
     },
     {
-      "title": "Airbnb is working on an AI travel agent",
-      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-05T19:06:12-05:00",
-      "timestamp": 1793923572.0
-    },
-    {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
       "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
@@ -370,15 +388,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 05 Nov 2026 22:40:55 +0000",
       "timestamp": 1793918455.0
-    },
-    {
-      "title": "Perplexity launches its own take on AI agents for work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-05T17:26:50-05:00",
-      "timestamp": 1793917610.0
     },
     {
       "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
@@ -487,15 +496,6 @@
       "source": "Wired AI",
       "published": "Thu, 05 Nov 2026 14:00:00 +0000",
       "timestamp": 1793887200.0
-    },
-    {
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 05 Nov 2026 13:00:00 +0000",
-      "timestamp": 1793883600.0
     },
     {
       "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
