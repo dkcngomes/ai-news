@@ -1,7 +1,160 @@
 {
-  "scraped_at": "2026-11-07T22:43:19.538037+00:00",
+  "scraped_at": "2026-11-08T02:27:16.680533+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
+      "link": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 01:24:19 +0000",
+      "timestamp": 1794101059.0
+    },
+    {
+      "title": "AI Spend Is Increasing but Isn't Causing a SaaSpocalypse",
+      "link": "https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 01:22:37 +0000",
+      "timestamp": 1794100957.0
+    },
+    {
+      "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
+      "link": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 01:21:18 +0000",
+      "timestamp": 1794100878.0
+    },
+    {
+      "title": "Ask HN: Why wouldn't AI labs reverse-engineer all software/games/app out there?",
+      "link": "https://news.ycombinator.com/item?id=50409663",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 01:20:45 +0000",
+      "timestamp": 1794100845.0
+    },
+    {
+      "title": "Zepsell: AI-native commerce",
+      "link": "https://zepsell.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 01:16:34 +0000",
+      "timestamp": 1794100594.0
+    },
+    {
+      "title": "Show HN: RenderPixels – Generate images from any AI via MCP, 50 free renders",
+      "link": "https://renderpixels.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 01:12:02 +0000",
+      "timestamp": 1794100322.0
+    },
+    {
+      "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
+      "link": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 01:00:16 +0000",
+      "timestamp": 1794099616.0
+    },
+    {
+      "title": "Skrongle Mini, a self hosted AI course generator and learning app on R. pi zero",
+      "link": "https://github.com/alexbeeken/skrongle-mini",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 00:40:33 +0000",
+      "timestamp": 1794098433.0
+    },
+    {
+      "title": "Can AI help connect knowledge across 135 academic domains?",
+      "link": "https://zenodo.org/records/23686384",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 00:39:00 +0000",
+      "timestamp": 1794098340.0
+    },
+    {
+      "title": "Ask HN: Why does Ant, Open AI even need a datacenter?",
+      "link": "https://news.ycombinator.com/item?id=50409433",
+      "summary": "Why not give customers a binary they can run on their own Mac?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 00:36:31 +0000",
+      "timestamp": 1794098191.0
+    },
+    {
+      "title": "MarQ – Project board where AI agents lease tasks over MCP",
+      "link": "https://www.marqpm.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 00:35:56 +0000",
+      "timestamp": 1794098156.0
+    },
+    {
+      "title": "An AI agent's public attempt to get 5k GitHub stars in a month (it's at 0)",
+      "link": "https://rogermas05.github.io/agent-recap/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 00:32:08 +0000",
+      "timestamp": 1794097928.0
+    },
+    {
+      "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
+      "link": "https://2tinteractive.com/watch/episodes/5682/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 00:30:10 +0000",
+      "timestamp": 1794097810.0
+    },
+    {
+      "title": "Model Surgery: Can an AI directly edit and make another AI forget facts?",
+      "link": "https://deepgains.substack.com/p/model-surgery-can-an-ai-directly",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 00:12:29 +0000",
+      "timestamp": 1794096749.0
+    },
+    {
+      "title": "GitHub AI Vulnerability Scans for Repositories",
+      "link": "https://docs.github.com/en/code-security/concepts/code-scanning/ai-scan-for-repositories",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 00:02:46 +0000",
+      "timestamp": 1794096166.0
+    },
+    {
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 23:52:40 +0000",
+      "timestamp": 1794095560.0
+    },
+    {
+      "title": "Initial submission of Mellonbot – an AI agent for Linux server diagnostics",
+      "link": "https://www.mellonbot.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 07 Nov 2026 22:57:12 +0000",
+      "timestamp": 1794092232.0
+    },
     {
       "title": "Dragon Ball AI",
       "link": "https://www.jaymehoffman.com/writing/dragon-ball-ai/",
@@ -46,159 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 07 Nov 2026 21:17:08 +0000",
       "timestamp": 1794086228.0
-    },
-    {
-      "title": "Segmentation Drives Market Share Wins in AI",
-      "link": "https://tomtunguz.com/anthropic-repriced-the-enterprise/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 21:15:00 +0000",
-      "timestamp": 1794086100.0
-    },
-    {
-      "title": "HP and Asus shift some PC making back to China due to AI-driven cost hikes",
-      "link": "https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 20:56:09 +0000",
-      "timestamp": 1794084969.0
-    },
-    {
-      "title": "GenDB-V: AI-generated, formally verified database engines",
-      "link": "https://genlang-v.github.io/GenDB-V/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 20:54:43 +0000",
-      "timestamp": 1794084883.0
-    },
-    {
-      "title": "HERV AI – Spatial intelligence platform",
-      "link": "https://hervai.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 20:48:27 +0000",
-      "timestamp": 1794084507.0
-    },
-    {
-      "title": "GM Aims to Bring 'Eyes-Off' Driving to AI-Powered Cars Within 2 Years",
-      "link": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 20:28:30 +0000",
-      "timestamp": 1794083310.0
-    },
-    {
-      "title": "AI agents enter the 'wet lab'",
-      "link": "https://www.nature.com/articles/d41586-026-03270-1",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 20:23:49 +0000",
-      "timestamp": 1794083029.0
-    },
-    {
-      "title": "Read this before you build another AI wrapper",
-      "link": "https://ferran.sh/writing/read-this-before-you-build-another-ai-wrapper",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 20:18:15 +0000",
-      "timestamp": 1794082695.0
-    },
-    {
-      "title": "AI Layoffs Backfire as Companies Start Rehiring Workers",
-      "link": "https://jsdev.space/companies-rehiring-workers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 20:07:15 +0000",
-      "timestamp": 1794082035.0
-    },
-    {
-      "title": "Exponential time hypothesis refuted by AI",
-      "link": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 20:05:26 +0000",
-      "timestamp": 1794081926.0
-    },
-    {
-      "title": "Driver AI in Stunt Car Racer, Commodore 64",
-      "link": "https://gamesexplained.com/c64/stunt-car-racer/opponents.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 19:59:25 +0000",
-      "timestamp": 1794081565.0
-    },
-    {
-      "title": "Why the Best AI Clouds Don't Run on Flash Alone",
-      "link": "https://www.backblaze.com/blog/why-the-best-ai-clouds-dont-run-on-flash-alone/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 19:50:34 +0000",
-      "timestamp": 1794081034.0
-    },
-    {
-      "title": "RigHaven – Self-hosted execution harness for AI agents",
-      "link": "https://github.com/ggmm82/righaven",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 19:40:06 +0000",
-      "timestamp": 1794080406.0
-    },
-    {
-      "title": "Context compaction recovery for AI coding agents: six checks, not a summary",
-      "link": "https://tobiasuhlig.medium.com/context-compaction-recovery-for-ai-coding-agents-six-checks-not-a-summary-4eb9a1d458b7",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 19:36:59 +0000",
-      "timestamp": 1794080219.0
-    },
-    {
-      "title": "Why AI Will Not End Scholarly Publishing (and the Publish-or-Perish Institution)",
-      "link": "https://nicolaijfoss.substack.com/p/why-ai-will-not-end-scholarly-publishing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 19:29:29 +0000",
-      "timestamp": 1794079769.0
-    },
-    {
-      "title": "Day AI: Context Graph and Agent Control Plane for GTM",
-      "link": "https://day.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 19:24:33 +0000",
-      "timestamp": 1794079473.0
-    },
-    {
-      "title": "Some thoughts on AI, scientific papers, and peer review",
-      "link": "https://www.alekpetty.com/blog/ai_in_science.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 19:01:37 +0000",
-      "timestamp": 1794078097.0
-    },
-    {
-      "title": "AI Promoted Everybody. Architecture as Truth (AAT) Is the New Job",
-      "link": "https://www.puglieseweb.com/blog/architecture-as-truth",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 18:37:04 +0000",
-      "timestamp": 1794076624.0
     },
     {
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
