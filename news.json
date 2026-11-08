@@ -1,7 +1,169 @@
 {
-  "scraped_at": "2026-11-08T02:27:16.680533+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-08T10:16:10.222211+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sun, 08 Nov 2026 10:00:00 +0000",
+      "timestamp": 1794132000.0
+    },
+    {
+      "title": "What Can AI Hack? Inside Frontier Labs' Tests",
+      "link": "https://dorcohen.dev/posts/what-can-ai-actually-hack/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 09:42:03 +0000",
+      "timestamp": 1794130923.0
+    },
+    {
+      "title": "Researchers unveiled new techniques to protect AI from backdoor attacks",
+      "link": "https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 09:32:43 +0000",
+      "timestamp": 1794130363.0
+    },
+    {
+      "title": "ThinkStream – AI generates the work. We still need to understand it",
+      "link": "https://thinkstream.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 09:20:04 +0000",
+      "timestamp": 1794129604.0
+    },
+    {
+      "title": "Being a line cook without talking to AI",
+      "link": "https://knhash.in/no-ai-line-cook/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 08:16:14 +0000",
+      "timestamp": 1794125774.0
+    },
+    {
+      "title": "Show HN: Ramen – an AI agent that has to earn its own rent",
+      "link": "https://usdt-kit-production.up.railway.app/ramen",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 07:38:55 +0000",
+      "timestamp": 1794123535.0
+    },
+    {
+      "title": "Show HN: I built an AI code editor that for teams",
+      "link": "https://www.rxcode.dev/",
+      "summary": "I built an open-source AI code editor for team collaboration, featuring a built-in sprint board and the ability to assign tasks to different agents. I’d love to get your feedback and suggestions! PR and issues are very welcome",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 06:12:09 +0000",
+      "timestamp": 1794118329.0
+    },
+    {
+      "title": "AI labs are paying $100K–$2M for internal company workflow data",
+      "link": "https://calendly.com/d/d3ss-w9w-7vs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 06:03:02 +0000",
+      "timestamp": 1794117782.0
+    },
+    {
+      "title": "70% of Brits say please or thank you when speaking to AI, some even apologize",
+      "link": "https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 05:58:20 +0000",
+      "timestamp": 1794117500.0
+    },
+    {
+      "title": "Show HN: Codend – Build and publish web apps with AI agents",
+      "link": "https://codend.dev",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 05:49:42 +0000",
+      "timestamp": 1794116982.0
+    },
+    {
+      "title": "AI Live Speech Rewriting Patent",
+      "link": "https://patentlyze.com/patent/microsoft-live-ai-video-rewrites-speech/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 05:41:50 +0000",
+      "timestamp": 1794116510.0
+    },
+    {
+      "title": "The internet has a human slop problem, and AI is exposing it",
+      "link": "https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 05:09:25 +0000",
+      "timestamp": 1794114565.0
+    },
+    {
+      "title": "Show HN: Reges Code – a free AI code editor that runs on local models",
+      "link": "https://regescode.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 04:32:44 +0000",
+      "timestamp": 1794112364.0
+    },
+    {
+      "title": "Show HN: Reges Town – a 3D city run by AI citizens, in the browser",
+      "link": "https://regestown.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 03:44:10 +0000",
+      "timestamp": 1794109450.0
+    },
+    {
+      "title": "I Love the Smiths AI: A Familiar Elevator Scene, with You in It",
+      "link": "https://medium.com/@wangjiayiliuyan/i-love-the-smiths-ai-a-familiar-elevator-scene-with-you-in-it-51e69e0711e6",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 03:35:16 +0000",
+      "timestamp": 1794108916.0
+    },
+    {
+      "title": "Good Night, and Good Luck: AI, fear and what the job data says",
+      "link": "https://rpallas.xyz/good-night-and-good-luck/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 03:14:51 +0000",
+      "timestamp": 1794107691.0
+    },
+    {
+      "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 02:39:59 +0000",
+      "timestamp": 1794105599.0
+    },
+    {
+      "title": "Why mandating AI use in the workplace can backfire",
+      "link": "https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 02:31:51 +0000",
+      "timestamp": 1794105111.0
+    },
     {
       "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
       "link": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
@@ -21,150 +183,6 @@
       "timestamp": 1794100957.0
     },
     {
-      "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
-      "link": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 01:21:18 +0000",
-      "timestamp": 1794100878.0
-    },
-    {
-      "title": "Ask HN: Why wouldn't AI labs reverse-engineer all software/games/app out there?",
-      "link": "https://news.ycombinator.com/item?id=50409663",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 01:20:45 +0000",
-      "timestamp": 1794100845.0
-    },
-    {
-      "title": "Zepsell: AI-native commerce",
-      "link": "https://zepsell.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 01:16:34 +0000",
-      "timestamp": 1794100594.0
-    },
-    {
-      "title": "Show HN: RenderPixels – Generate images from any AI via MCP, 50 free renders",
-      "link": "https://renderpixels.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 01:12:02 +0000",
-      "timestamp": 1794100322.0
-    },
-    {
-      "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
-      "link": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 01:00:16 +0000",
-      "timestamp": 1794099616.0
-    },
-    {
-      "title": "Skrongle Mini, a self hosted AI course generator and learning app on R. pi zero",
-      "link": "https://github.com/alexbeeken/skrongle-mini",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 00:40:33 +0000",
-      "timestamp": 1794098433.0
-    },
-    {
-      "title": "Can AI help connect knowledge across 135 academic domains?",
-      "link": "https://zenodo.org/records/23686384",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 00:39:00 +0000",
-      "timestamp": 1794098340.0
-    },
-    {
-      "title": "Ask HN: Why does Ant, Open AI even need a datacenter?",
-      "link": "https://news.ycombinator.com/item?id=50409433",
-      "summary": "Why not give customers a binary they can run on their own Mac?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 00:36:31 +0000",
-      "timestamp": 1794098191.0
-    },
-    {
-      "title": "MarQ – Project board where AI agents lease tasks over MCP",
-      "link": "https://www.marqpm.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 00:35:56 +0000",
-      "timestamp": 1794098156.0
-    },
-    {
-      "title": "An AI agent's public attempt to get 5k GitHub stars in a month (it's at 0)",
-      "link": "https://rogermas05.github.io/agent-recap/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 00:32:08 +0000",
-      "timestamp": 1794097928.0
-    },
-    {
-      "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
-      "link": "https://2tinteractive.com/watch/episodes/5682/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 00:30:10 +0000",
-      "timestamp": 1794097810.0
-    },
-    {
-      "title": "Model Surgery: Can an AI directly edit and make another AI forget facts?",
-      "link": "https://deepgains.substack.com/p/model-surgery-can-an-ai-directly",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 00:12:29 +0000",
-      "timestamp": 1794096749.0
-    },
-    {
-      "title": "GitHub AI Vulnerability Scans for Repositories",
-      "link": "https://docs.github.com/en/code-security/concepts/code-scanning/ai-scan-for-repositories",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 00:02:46 +0000",
-      "timestamp": 1794096166.0
-    },
-    {
-      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-      "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 23:52:40 +0000",
-      "timestamp": 1794095560.0
-    },
-    {
-      "title": "Initial submission of Mellonbot – an AI agent for Linux server diagnostics",
-      "link": "https://www.mellonbot.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 22:57:12 +0000",
-      "timestamp": 1794092232.0
-    },
-    {
-      "title": "Dragon Ball AI",
-      "link": "https://www.jaymehoffman.com/writing/dragon-ball-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 22:35:18 +0000",
-      "timestamp": 1794090918.0
-    },
-    {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
       "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
@@ -172,24 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Sat, 07 Nov 2026 22:07:22 +0000",
       "timestamp": 1794089242.0
-    },
-    {
-      "title": "Ask HN What to learn for AI Researcher interview?",
-      "link": "https://github.com/sergey-kurshev/AiPrepLab",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 22:04:24 +0000",
-      "timestamp": 1794089064.0
-    },
-    {
-      "title": "AI productivity boost UK firms",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 07 Nov 2026 21:37:33 +0000",
-      "timestamp": 1794087453.0
     },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -532,15 +532,6 @@
       "source": "Wired AI",
       "published": "Thu, 05 Nov 2026 11:45:00 +0000",
       "timestamp": 1793879100.0
-    },
-    {
-      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 04 Nov 2026 23:13:14 +0000",
-      "timestamp": 1793833994.0
     }
   ]
 }
