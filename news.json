@@ -1,9 +1,135 @@
 {
-  "scraped_at": "2026-11-08T21:08:13.946717+00:00",
+  "scraped_at": "2026-11-09T00:51:24.266956+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Nvidia says it’s investigating CEO Jensen Huang’s relationship with possible Chinese spy",
+      "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+      "link": "https://www.youtube.com/watch?v=4NExTWq_wvk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 09 Nov 2026 00:43:39 +0000",
+      "timestamp": 1794185019.0
+    },
+    {
+      "title": "The Commanding Heights: Where AI will create wealth [pdf]",
+      "link": "https://commanding-heights.com/commanding-heights.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 09 Nov 2026 00:41:06 +0000",
+      "timestamp": 1794184866.0
+    },
+    {
+      "title": "Open Source AI Research Collaboration Platform",
+      "link": "https://station-house.net/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 09 Nov 2026 00:24:27 +0000",
+      "timestamp": 1794183867.0
+    },
+    {
+      "title": "I am building Threadz. Human first AI writing app",
+      "link": "https://news.ycombinator.com/item?id=50419308",
+      "summary": "https://threadz.app I am building Threadz. This is for the bloggers, students and anyone who writes. Your thoughts and learnings go in first and the AI reviews your notes for any factual errors and misleading statements. This is what Threadz is in a nutshell. Source code will be open sourced very soon :)",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 09 Nov 2026 00:20:12 +0000",
+      "timestamp": 1794183612.0
+    },
+    {
+      "title": "Ask HN: What do you use to get the latest technical AI news?",
+      "link": "https://news.ycombinator.com/item?id=50419260",
+      "summary": "It can be newsletters, channels, news articles, etc. I've been watching AI Search on YouTube which posts weekly updates, but I'm curious about others.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 09 Nov 2026 00:15:18 +0000",
+      "timestamp": 1794183318.0
+    },
+    {
+      "title": "I'm Not Convinced the AI Bubble Exists",
+      "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 23:44:36 +0000",
+      "timestamp": 1794181476.0
+    },
+    {
+      "title": "AI model to learn language the way children do",
+      "link": "https://pni.princeton.edu/news/2026/princeton-researchers-train-ai-model-learn-language-way-children-do",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 23:24:44 +0000",
+      "timestamp": 1794180284.0
+    },
+    {
+      "title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
+      "link": "https://en.gamegpu.com/news/zhelezo/polzovateli-nachali-massovo-skupat-videokarty-rtx-5060-ti-16gb-radi-ii",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 23:22:40 +0000",
+      "timestamp": 1794180160.0
+    },
+    {
+      "title": "AI to find vulnerabilities in global legislation (on Git)",
+      "link": "https://github.com/lexifina/global-law/tree/main/vulnerabilities",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 23:13:27 +0000",
+      "timestamp": 1794179607.0
+    },
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-08T17:54:50-05:00",
+      "timestamp": 1794178490.0
+    },
+    {
+      "title": "Exody – Native macOS AI Workbench (5-stage loop, 100% BYOK, $0 markup)",
+      "link": "https://www.exody.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 22:50:39 +0000",
+      "timestamp": 1794178239.0
+    },
+    {
+      "title": "AI, Bullshit and Art Speak: How the art world prepared us for the age of AI slop",
+      "link": "https://jaymollica.com/blog/ai-bullshit-and-art-speak/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 22:46:58 +0000",
+      "timestamp": 1794178018.0
+    },
+    {
+      "title": "Show HN: My first project, an AI-powered financial news analyzer",
+      "link": "https://github.com/lamarcol/NotBot",
+      "summary": "I'm 17, and I started NotBot a few months ago to see whether I could turn an idea into a working project. My main interest is economics, not becoming a programmer, but I enjoy experimenting with code. A few months ago, I had the idea of creating a program that would analyze the most recent news about a specific stock and calculate a weighted average of their polarity to create a sort of sentiment indicator. While researching, I found a YouTube video about creating a simple GitHub repository that did, in a simplified and imprecise way, what I had in mind. At first glance, I realized it was a ve",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 22:34:06 +0000",
+      "timestamp": 1794177246.0
+    },
+    {
+      "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
+      "link": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 08 Nov 2026 21:57:07 +0000",
+      "timestamp": 1794175027.0
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
       "summary": "In a memo to the company, Huang admitted that he had an affair.",
       "image": null,
@@ -84,15 +210,6 @@
       "timestamp": 1794166662.0
     },
     {
-      "title": "AI detection trap: When machines put human creativity on trial",
-      "link": "https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 19:25:16 +0000",
-      "timestamp": 1794165916.0
-    },
-    {
       "title": "Apple is racing to make Siri more agentic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
       "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
@@ -102,69 +219,6 @@
       "timestamp": 1794165499.0
     },
     {
-      "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-      "link": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 19:14:41 +0000",
-      "timestamp": 1794165281.0
-    },
-    {
-      "title": "Ask HN- Will AI agents behave differently in a swarm?",
-      "link": "https://world.emergence.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 19:11:54 +0000",
-      "timestamp": 1794165114.0
-    },
-    {
-      "title": "Canada's AI translation tool keeps making hilarious mistakes",
-      "link": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 18:52:42 +0000",
-      "timestamp": 1794163962.0
-    },
-    {
-      "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
-      "link": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 18:46:42 +0000",
-      "timestamp": 1794163602.0
-    },
-    {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 18:43:07 +0000",
-      "timestamp": 1794163387.0
-    },
-    {
-      "title": "Show HN: Is your product AI slop?",
-      "link": "https://slopcalculator.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 18:32:31 +0000",
-      "timestamp": 1794162751.0
-    },
-    {
-      "title": "Etsy Expands AI Training Rights over Content, Restricts 3rd Party Training",
-      "link": "https://www.valueaddedresource.net/etsy-expands-ai-training-rights/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 17:31:42 +0000",
-      "timestamp": 1794159102.0
-    },
-    {
       "title": "Elvis and Eminem rights holders are suing Suno",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
       "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]",
@@ -172,51 +226,6 @@
       "source": "The Verge AI",
       "published": "2026-11-08T12:23:19-05:00",
       "timestamp": 1794158599.0
-    },
-    {
-      "title": "China's AI models, led by Kimi, dominate open-source enterprise spending",
-      "link": "https://www.scmp.com/tech/tech-trends/article/3373550/chinas-ai-models-led-kimi-dominate-open-source-enterprise-spending",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 16:34:28 +0000",
-      "timestamp": 1794155668.0
-    },
-    {
-      "title": "One of Classical Music's Biggest Stars Says AI Is Degrading Our Taste",
-      "link": "https://www.bloomberg.com/features/2026-max-richter-weekend-interview/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 16:32:55 +0000",
-      "timestamp": 1794155575.0
-    },
-    {
-      "title": "Show HN: ModelRefs – Interactive reference hub for AI models",
-      "link": "https://modelrefs.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 16:31:01 +0000",
-      "timestamp": 1794155461.0
-    },
-    {
-      "title": "The 0rwx framework for AI usage attribution",
-      "link": "http://0rwx.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 16:15:31 +0000",
-      "timestamp": 1794154531.0
-    },
-    {
-      "title": "Show HN: Cinnamon AI – an agent you can share with your household",
-      "link": "https://getcinnamon.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 08 Nov 2026 16:13:44 +0000",
-      "timestamp": 1794154424.0
     },
     {
       "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
@@ -334,15 +343,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 06 Nov 2026 22:53:46 +0000",
       "timestamp": 1794005626.0
-    },
-    {
-      "title": "All the latest updates on AI data centers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-06T15:02:22-05:00",
-      "timestamp": 1793995342.0
     },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
