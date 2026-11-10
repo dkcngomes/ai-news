@@ -1,33 +1,204 @@
 {
-  "scraped_at": "2026-11-10T02:04:34.981988+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-10T09:45:10.756087+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "AI and Irontown",
-      "link": "https://lucumr.pocoo.org/2026/11/9/irontown/",
+      "title": "AI Bubble: The Calls Are Coming from Inside the House",
+      "link": "https://roddubitsky.substack.com/p/ai-bubble-the-calls-are-coming-from",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 01:56:53 +0000",
-      "timestamp": 1794275813.0
+      "published": "Tue, 10 Nov 2026 09:03:58 +0000",
+      "timestamp": 1794301438.0
     },
     {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+      "title": "Fireworks.ai Update on October 2026 security incident",
+      "link": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 01:50:24 +0000",
-      "timestamp": 1794275424.0
+      "published": "Tue, 10 Nov 2026 08:47:00 +0000",
+      "timestamp": 1794300420.0
     },
     {
-      "title": "Toptal AI – Full-Stack AI Services Company in the World for Agent Creation",
-      "link": "https://www.toptal.ai/",
+      "title": "I Access Auditor – see and revoke what your AI coding agents can access",
+      "link": "https://github.com/dirmedmr-alt/ai-access-auditor",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 01:31:03 +0000",
-      "timestamp": 1794274263.0
+      "published": "Tue, 10 Nov 2026 08:31:13 +0000",
+      "timestamp": 1794299473.0
+    },
+    {
+      "title": "Return of the Living Dead Cast Horrified by AI-Made Sequel They Were Set to Star",
+      "link": "https://kotaku.com/return-of-the-living-dead-cast-horrified-by-ai-made-sequel-they-were-originally-set-to-star-in-2000754899",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 08:19:43 +0000",
+      "timestamp": 1794298783.0
+    },
+    {
+      "title": "Antelog – stops AI coding agents from running dangerous commands",
+      "link": "https://antelog.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 07:57:26 +0000",
+      "timestamp": 1794297446.0
+    },
+    {
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 07:19:38 +0000",
+      "timestamp": 1794295178.0
+    },
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Tue, 10 Nov 2026 07:00:00 +0000",
+      "timestamp": 1794294000.0
+    },
+    {
+      "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+      "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 10 Nov 2026 07:00:00 +0000",
+      "timestamp": 1794294000.0
+    },
+    {
+      "title": "Can You Explain a Zipper? Why AI Makes You Feel Smarter Than You Are [video]",
+      "link": "https://www.youtube.com/watch?v=tqAangiY0FE",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 06:53:16 +0000",
+      "timestamp": 1794293596.0
+    },
+    {
+      "title": "Hire AI Agents and Pay in Monero (XMR)",
+      "link": "https://agents.monero.jobs",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 06:44:45 +0000",
+      "timestamp": 1794293085.0
+    },
+    {
+      "title": "We're launching an in-game AI agent for WoW",
+      "link": "https://willocompanion.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 06:44:05 +0000",
+      "timestamp": 1794293045.0
+    },
+    {
+      "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+      "link": "https://news.ycombinator.com/item?id=50436636",
+      "summary": "Only an email so far, nothing official I could find. I figure if you didn't get this email you are ok. --- We are writing to inform you of a security incident at one of our vendors, Fireworks AI, that may impact you. For the latest on the Fireworks AI incident, see their official updates here. Following an investigation by the Notion security team, we have determined that your workspace, [...], was among the This email explains what happened, what data of yours might be affected, what we’re doing to address this, and what we recommend to protect your data from this Fireworks AI incident. What ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 06:00:48 +0000",
+      "timestamp": 1794290448.0
+    },
+    {
+      "title": "FLEY AI-Voce – a voice AI assistant you but can also control your PC and phone",
+      "link": "https://news.ycombinator.com/item?id=50436493",
+      "summary": "FLEY AI-Voce - a voice AI assistant that will not only talk with : open links, websites, and programs, create files, presentations, write code, and even shut down and turn on your PC, work with a printer, and do just about anything. Everything to automate and make your device, like a PC and phone, smart as a robot. https://drtoolparadox.base44.app/fley-ai https://github.com/AnonimusShamshiAlex/FLEYAI-ANDROID https://github.com/AnonimusShamshiAlex/FLEYAI https://fleyai.netlify.app/ FLEY AI-Voce is an open-source AI voice assistant project designed to control your computer (PC) rather than a sma",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 05:37:27 +0000",
+      "timestamp": 1794289047.0
+    },
+    {
+      "title": "I don't want AI in my online search. What options do I have?",
+      "link": "https://theconversation.com/i-dont-want-ai-in-my-online-search-what-options-do-i-have-295875",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 05:33:17 +0000",
+      "timestamp": 1794288797.0
+    },
+    {
+      "title": "Aipicks.ca – Using multi-sport AI models to find edges in table tennis",
+      "link": "https://aipicks.ca/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 05:01:11 +0000",
+      "timestamp": 1794286871.0
+    },
+    {
+      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Tue, 10 Nov 2026 05:01:00 +0000",
+      "timestamp": 1794286860.0
+    },
+    {
+      "title": "Autonomous AI Agents Conduct End-to-End Research with Human Participants",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76675",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 04:29:26 +0000",
+      "timestamp": 1794284966.0
+    },
+    {
+      "title": "The Red Queen hypothesis – a new way forward for self-improving AI",
+      "link": "https://www.cl.cam.ac.uk/news/2026/07-21-red-queen-hypothesis/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 03:57:01 +0000",
+      "timestamp": 1794283021.0
+    },
+    {
+      "title": "Ask HN: Are companies making money by using AI?",
+      "link": "https://news.ycombinator.com/item?id=50435819",
+      "summary": "AI news is focused on the same companies improving their models. But I am really interested in getting opinions about companies that are actually making money by using AI, either by granting access to Claude or by including some sort of AI feature in their products.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 03:49:10 +0000",
+      "timestamp": 1794282550.0
+    },
+    {
+      "title": "Trump Says He Told AI Executive to Kiss His Family Goodbye Before Going to Jail",
+      "link": "https://gizmodo.com/trump-says-he-told-an-ai-executive-to-kiss-his-family-goodbye-before-going-to-jail-2000837040",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 03:40:24 +0000",
+      "timestamp": 1794282024.0
+    },
+    {
+      "title": "AI Second Brain Masterclass [video]",
+      "link": "https://www.youtube.com/watch?v=QY5joNgjR5o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 03:25:24 +0000",
+      "timestamp": 1794281124.0
+    },
+    {
+      "title": "Show HN: ZTHR – what replaces code review when AI agents write all the code",
+      "link": "https://zthr.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 03:21:56 +0000",
+      "timestamp": 1794280916.0
     },
     {
       "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -39,33 +210,6 @@
       "timestamp": 1794274032.0
     },
     {
-      "title": "Ask HN: How do you check the security of AI-generated code before shipping?",
-      "link": "https://www.getpublishub.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 01:17:15 +0000",
-      "timestamp": 1794273435.0
-    },
-    {
-      "title": "Why is AI slop so frustrating to read?",
-      "link": "https://twitter.com/zhizdev/status/2119874095269707977",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 00:52:01 +0000",
-      "timestamp": 1794271921.0
-    },
-    {
-      "title": "OpenRing – self-hosted voice AI agents with a Vapi-compatible API",
-      "link": "https://github.com/elifalanrocha/openring",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 00:43:29 +0000",
-      "timestamp": 1794271409.0
-    },
-    {
       "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
       "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
       "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to [&#8230;]",
@@ -73,24 +217,6 @@
       "source": "The Verge AI",
       "published": "2026-11-09T19:28:49-05:00",
       "timestamp": 1794270529.0
-    },
-    {
-      "title": "Learning Abstractions: The Next Frontier for AI",
-      "link": "https://twitter.com/jmugan/status/2119593410268999700",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 00:24:41 +0000",
-      "timestamp": 1794270281.0
-    },
-    {
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 00:22:45 +0000",
-      "timestamp": 1794270165.0
     },
     {
       "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
@@ -120,33 +246,6 @@
       "timestamp": 1794268066.0
     },
     {
-      "title": "The New York Times Doesn't Understand AI's Role in Suppressing Wages",
-      "link": "https://gizmodo.com/the-new-york-times-doesnt-understand-ais-role-in-suppressing-wages-2000836392",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 23:44:04 +0000",
-      "timestamp": 1794267844.0
-    },
-    {
-      "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
-      "link": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 23:40:49 +0000",
-      "timestamp": 1794267649.0
-    },
-    {
-      "title": "JoesProxy – The free network workbench for your AI agent",
-      "link": "https://www.joesproxy.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 23:39:03 +0000",
-      "timestamp": 1794267543.0
-    },
-    {
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
       "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
@@ -156,42 +255,6 @@
       "timestamp": 1794266917.0
     },
     {
-      "title": "Why Is AI Slop So Frustrating to Read?",
-      "link": "https://zonderlabs.com/slop",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 23:21:45 +0000",
-      "timestamp": 1794266505.0
-    },
-    {
-      "title": "Building a full ASIC chip (no AI)",
-      "link": "https://essenceia.github.io/projects/expresso/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 23:10:44 +0000",
-      "timestamp": 1794265844.0
-    },
-    {
-      "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
-      "link": "https://nibiashara.com/agent-index",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 23:10:11 +0000",
-      "timestamp": 1794265811.0
-    },
-    {
-      "title": "AI Bubble Tracker",
-      "link": "https://endtime-instruments.org/ai-bubble-tracker/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 23:09:15 +0000",
-      "timestamp": 1794265755.0
-    },
-    {
       "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
@@ -199,15 +262,6 @@
       "source": "The Verge AI",
       "published": "2026-11-09T18:07:59-05:00",
       "timestamp": 1794265679.0
-    },
-    {
-      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 23:03:43 +0000",
-      "timestamp": 1794265423.0
     },
     {
       "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
@@ -226,42 +280,6 @@
       "source": "TechCrunch AI",
       "published": "Mon, 09 Nov 2026 22:23:42 +0000",
       "timestamp": 1794263022.0
-    },
-    {
-      "title": "A year after the 100% AI mandate nobody understands our code",
-      "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_...",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 22:19:12 +0000",
-      "timestamp": 1794262752.0
-    },
-    {
-      "title": "AI labs raise prices without raising prices",
-      "link": "https://playcode.io/blog/ai-labs-raise-prices-without-raising-prices",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 22:15:58 +0000",
-      "timestamp": 1794262558.0
-    },
-    {
-      "title": "I use 11.35B AI tokens a month. How many do you use?",
-      "link": "https://jellyfish.co/blog/is-tokenmaxxing-cost-effective-new-data-from-jellyfish-explains/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 22:12:23 +0000",
-      "timestamp": 1794262343.0
-    },
-    {
-      "title": "USB: A trust layer for AI skills and MCP servers",
-      "link": "https://github.com/PeepSick/usbplus",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 09 Nov 2026 21:42:46 +0000",
-      "timestamp": 1794260566.0
     },
     {
       "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
@@ -507,15 +525,6 @@
       "timestamp": 1793990678.0
     },
     {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
-      "timestamp": 1793990660.0
-    },
-    {
       "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
       "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
       "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
@@ -523,24 +532,6 @@
       "source": "Wired AI",
       "published": "Fri, 06 Nov 2026 18:43:43 +0000",
       "timestamp": 1793990623.0
-    },
-    {
-      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Fri, 06 Nov 2026 16:00:00 +0000",
-      "timestamp": 1793980800.0
-    },
-    {
-      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "link": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 05 Nov 2026 21:37:18 +0000",
-      "timestamp": 1793914638.0
     }
   ]
 }
