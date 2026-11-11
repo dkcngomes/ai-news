@@ -1,7 +1,133 @@
 {
-  "scraped_at": "2026-11-10T23:16:48.951069+00:00",
-  "count": 59,
+  "scraped_at": "2026-11-11T02:49:56.721694+00:00",
+  "count": 58,
   "items": [
+    {
+      "title": "Ask HN: Why doesn't Ramp AI Index include OpenRouter or other aggregators?",
+      "link": "https://news.ycombinator.com/item?id=50449024",
+      "summary": "I spend a lot of time looking at these two open data resources, which I'm sure many of you do as well: Open Router Rankings, especially the first raw tokens per week by model (first chart) https://openrouter.ai/rankings And also Ramp AI Index token volume by model maker https://ramp.com/data/ai-index?metric=token-volume&detail=maker&mode=volume What I can never square with these two charts is how they affect each other? One of my biggest questions, is why does Ramp only really show Anthropic/OpenAI/X? There must be hundreds of their companies spending large amounts on OpenRouter, but this does",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 02:12:47 +0000",
+      "timestamp": 1794363167.0
+    },
+    {
+      "title": "Show HN: A company running in an AI harness",
+      "link": "https://restless.run/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 02:06:59 +0000",
+      "timestamp": 1794362819.0
+    },
+    {
+      "title": "How to Be a Good Farrier: What the Car Teaches Us About AI and Your Job",
+      "link": "https://www.sethserver.com/ai/how-to-be-a-good-farrier.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 01:53:38 +0000",
+      "timestamp": 1794362018.0
+    },
+    {
+      "title": "Could AI's leading men become as powerful as Ford or Rockefeller?",
+      "link": "https://www.economist.com/business/2026/04/16/could-ais-leading-men-become-as-powerful-as-ford-or-rockefeller",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 01:48:45 +0000",
+      "timestamp": 1794361725.0
+    },
+    {
+      "title": "Yahoo is betting the house on its new AI, from search to all its services",
+      "link": "https://www.fastcompany.com/91637528/yahoo-scout-new-search-ux",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 01:33:15 +0000",
+      "timestamp": 1794360795.0
+    },
+    {
+      "title": "AI proved your code correct. What did it actually prove?",
+      "link": "https://kellerai.io/resources/ai-proved-your-code-correct",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 01:01:30 +0000",
+      "timestamp": 1794358890.0
+    },
+    {
+      "title": "The Four Tiers of AI Intelligence",
+      "link": "https://blog.coship.fyi/blog/ai-tiers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 00:56:38 +0000",
+      "timestamp": 1794358598.0
+    },
+    {
+      "title": "Exploring AI Contextual Coherence Across 500K+ Words and 1,788 Messages",
+      "link": "https://zenodo.org/records/23686384",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 00:28:37 +0000",
+      "timestamp": 1794356917.0
+    },
+    {
+      "title": "Australia considers criminal charges for AI companies that fail to prevent harm",
+      "link": "https://www.abc.net.au/news/2026-11-11/australia-considers-criminal-charges-for-ai-companies/107368676",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 00:27:27 +0000",
+      "timestamp": 1794356847.0
+    },
+    {
+      "title": "US regulator postpones Wall Street push to trade AI computing futures",
+      "link": "https://www.ft.com/content/269b0245-44c4-4e34-94df-202bef642539",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 00:19:05 +0000",
+      "timestamp": 1794356345.0
+    },
+    {
+      "title": "AI is an information gateway. Audiences still don't want it making their news",
+      "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 00:15:33 +0000",
+      "timestamp": 1794356133.0
+    },
+    {
+      "title": "Show HN: Cinnamon AI – an agent for your household",
+      "link": "https://getcinnamon.ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 23:45:15 +0000",
+      "timestamp": 1794354315.0
+    },
+    {
+      "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 23:26:24 +0000",
+      "timestamp": 1794353184.0
+    },
+    {
+      "title": "Aegis Solis: AI Coexistence Research Dataset with 112 Registered Questions",
+      "link": "https://huggingface.co/datasets/AegisSolis/aegis-solis-hfc16m-public-beta",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 10 Nov 2026 23:12:59 +0000",
+      "timestamp": 1794352379.0
+    },
     {
       "title": "Noah Smith and Azeem Azhar Discuss the AI Boom",
       "link": "https://www.noahpinion.blog/p/noah-smith-and-azeem-azhar-discuss",
@@ -39,96 +165,6 @@
       "timestamp": 1794351179.0
     },
     {
-      "title": "Show HN: SketchUp compatible modeler with AI capabilities",
-      "link": "https://pushform.io/",
-      "summary": "Try framing out a house, generating kitchen cabinets, or even populating an entire kitchen.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 22:09:53 +0000",
-      "timestamp": 1794348593.0
-    },
-    {
-      "title": "The humans are coming for AI's jobs",
-      "link": "https://www.youtube.com/watch?v=EMSQtqUIlXY",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 22:02:53 +0000",
-      "timestamp": 1794348173.0
-    },
-    {
-      "title": "UK government AI strategy not tied to US models that currently dominate",
-      "link": "https://www.computerweekly.com/news/366654593/UK-government-AI-strategy-not-tied-to-US-models-that-currently-dominate",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:38:41 +0000",
-      "timestamp": 1794346721.0
-    },
-    {
-      "title": "AgentGuard – Transaction guardrails for AI agents that hold wallets",
-      "link": "https://github.com/Radmo3/agentguard",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:37:21 +0000",
-      "timestamp": 1794346641.0
-    },
-    {
-      "title": "Show HN: CodeLens AI-Augmented Code Review Tool",
-      "link": "https://github.com/blong8334/codeLens",
-      "summary": "As AI writes more code, the bottleneck has become human-driven code reviews. Code Lens serves to aid that task by augmenting the review outside of line-level AI feedback. Check it out and let me know what you think. Thanks. Try it on a public PR: npx @blong8334/codelens pr https://github.com/expressjs/express/pull/7574",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:36:32 +0000",
-      "timestamp": 1794346592.0
-    },
-    {
-      "title": "Show HN: AI agents that barter your stuff for things you want",
-      "link": "https://barterpilot.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:36:17 +0000",
-      "timestamp": 1794346577.0
-    },
-    {
-      "title": "Show HN: Notebook AI – local-first meeting notes for Mac",
-      "link": "https://github.com/sridharchaildn/notebook-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:31:17 +0000",
-      "timestamp": 1794346277.0
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:25:03 +0000",
-      "timestamp": 1794345903.0
-    },
-    {
-      "title": "JetBrains back to square one on no-AI IDE installs",
-      "link": "https://youtrack.jetbrains.com/issue/IJAI-3469",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:22:39 +0000",
-      "timestamp": 1794345759.0
-    },
-    {
-      "title": "Show HN: Aisync, advisory file claims so two AI agents don't edit one repo",
-      "link": "https://github.com/MaxonT/aisync",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:13:03 +0000",
-      "timestamp": 1794345183.0
-    },
-    {
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
       "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
       "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
@@ -136,51 +172,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 10 Nov 2026 21:08:52 +0000",
       "timestamp": 1794344932.0
-    },
-    {
-      "title": "My AI Agents Found an Unmapped Maya Site",
-      "link": "https://pietromiotti.com/latest/maya-site/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:04:58 +0000",
-      "timestamp": 1794344698.0
-    },
-    {
-      "title": "An AI agent said the code was verified. The evidence said otherwise",
-      "link": "https://brian.biz/blog/ai-agents-verify/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:04:47 +0000",
-      "timestamp": 1794344687.0
-    },
-    {
-      "title": "Ask HN: How do you care about a project that is predominately generated by AI?",
-      "link": "https://news.ycombinator.com/item?id=50446309",
-      "summary": "Title.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 21:04:13 +0000",
-      "timestamp": 1794344653.0
-    },
-    {
-      "title": "In open-weight AI, America is the one playing catch-up",
-      "link": "https://village.dev/blog/in-open-weight-ai-america-is-the-one-playing-catch-up/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 20:53:09 +0000",
-      "timestamp": 1794343989.0
-    },
-    {
-      "title": "Tim O'Reilly – The New Knowledge Artifacts of the AI Economy",
-      "link": "https://oreillyradar.substack.com/p/the-new-knowledge-artifacts-of-the",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 10 Nov 2026 20:52:23 +0000",
-      "timestamp": 1794343943.0
     },
     {
       "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
