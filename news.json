@@ -1,186 +1,294 @@
 {
-  "scraped_at": "2026-11-11T18:40:33.748692+00:00",
+  "scraped_at": "2026-11-12T01:31:26.452914+00:00",
   "count": 60,
   "items": [
     {
-      "title": "US vs. China, last 20 days of VC: the US bets on AI agents, China bets on robots",
-      "link": "https://justraised.io/blog/us-vs-china-agents-vs-robots",
+      "title": "Show HN: Lynx – open-source fully-customizable AI workspace",
+      "link": "https://github.com/yakkomajuri/lynx",
+      "summary": "I was finding that managing multiple agent threads with walls of text was getting tiring and inefficient for me and that I wanted a more visual way to interact with my agents, so I built Lynx. Lynx lets you quickly build fully custom interfaces connected to your data sources (e.g. via MCP or API) and trigger agents running on your machine from them (e.g. with Claude Code or Codex). I built it as an experiment but have found myself doing 80-90% of my work from inside Lynx. I have my own Conductor-like workspace for coding, a Mail client, a workspace for my writing, and various others for dashbo",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 12 Nov 2026 01:26:11 +0000",
+      "timestamp": 1794446771.0
+    },
+    {
+      "title": "What gives you the chills? AI can engineer it",
+      "link": "https://medium.com/@joshbocanegra/how-to-engineer-goosebumps-e18935bcb1d2",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 18:29:35 +0000",
-      "timestamp": 1794421775.0
+      "published": "Thu, 12 Nov 2026 00:13:26 +0000",
+      "timestamp": 1794442406.0
     },
     {
-      "title": "Swatters are using AI voices to deceive 911 dispatchers, and it's getting worse",
-      "link": "https://text.npr.org/nx-s1-6034449",
+      "title": "Yes, you should panic about AI",
+      "link": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 18:28:33 +0000",
-      "timestamp": 1794421713.0
+      "published": "Thu, 12 Nov 2026 00:11:49 +0000",
+      "timestamp": 1794442309.0
     },
     {
-      "title": "If AI Takes Jobs, What Happens to Us? [video]",
-      "link": "https://www.youtube.com/watch?v=GPfXfkin2FY",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 11 Nov 2026 23:50:00 +0000",
+      "timestamp": 1794441000.0
+    },
+    {
+      "title": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+      "link": "https://acneally.vercel.app",
+      "summary": "I’ve had acne for 10 years and I'm so exhausted of dont know what happened. So, I'm building AcneAlly to learn you overtime to figure out what's causing your acne, and to give personalized support. Instead of tracking your skin or logging daily habits, you can just talk or interact with it like a companion. You can share about your acne, share your concerns, or ask anything you want. Based on what you share, it uses Al to reasoning to make guesses about what could be causing your acne. As you share more, it update it understanding abt you, its guesses abt the cause and it suggestions. This is ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 23:49:11 +0000",
+      "timestamp": 1794440951.0
+    },
+    {
+      "title": "Agentic AI for Military Cyberoperations (West Point Press) [pdf]",
+      "link": "https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 18:27:29 +0000",
-      "timestamp": 1794421649.0
+      "published": "Wed, 11 Nov 2026 23:36:07 +0000",
+      "timestamp": 1794440167.0
     },
     {
-      "title": "Why Am I So Tired If AI Is Doing All the Work?",
-      "link": "https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/",
+      "title": "Composing data pipelines in an AI-native workflow",
+      "link": "https://www.fivetran.com/blog/composing-data-pipelines-in-an-ai-native-workflow",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 18:25:15 +0000",
-      "timestamp": 1794421515.0
+      "published": "Wed, 11 Nov 2026 23:29:56 +0000",
+      "timestamp": 1794439796.0
     },
     {
-      "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
-      "link": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 11 Nov 2026 23:28:45 +0000",
+      "timestamp": 1794439725.0
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 11 Nov 2026 23:17:05 +0000",
+      "timestamp": 1794439025.0
+    },
+    {
+      "title": "Who gets cheaper security from AI?",
+      "link": "https://franklyspeaking.substack.com/p/who-actually-gets-cheaper-security",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 18:23:31 +0000",
-      "timestamp": 1794421411.0
+      "published": "Wed, 11 Nov 2026 22:49:50 +0000",
+      "timestamp": 1794437390.0
     },
     {
-      "title": "Show HN: AI Spar – Let Claude, GPT, and Gemini Debate a Question",
-      "link": "https://aispar.app/",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-11T17:44:36-05:00",
+      "timestamp": 1794437076.0
+    },
+    {
+      "title": "HuggingFace/Kernels: 200 WebGPU Kernels for Local AI",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 18:17:54 +0000",
-      "timestamp": 1794421074.0
+      "published": "Wed, 11 Nov 2026 22:12:54 +0000",
+      "timestamp": 1794435174.0
     },
     {
-      "title": "Railway's $740K AI Key Incident: How Two Trust Failures Exposed Customer Secrets",
-      "link": "https://medium.com/@inclinq/railways-740k-ai-key-incident-how-two-trust-failures-exposed-customer-secrets-0e018353ff88",
+      "title": "An AI-driven proof of the Aaronson-Ambainis conjecture was announced",
+      "link": "https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 18:15:51 +0000",
-      "timestamp": 1794420951.0
+      "published": "Wed, 11 Nov 2026 22:09:10 +0000",
+      "timestamp": 1794434950.0
     },
     {
-      "title": "United Airlines Is Banning AI Bots from Booking Flights",
-      "link": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38",
+      "title": "Show HN: Zumungo – AI-driven home automation",
+      "link": "https://zumungo.com/get-started.html",
+      "summary": "Just released Zumungo AI driven Home Automation zumungo.com. Zumungo uses the power and flexibility of well established open source projects such as HomeAssitant, Frigate, Whisper, go2rtc, Piper, Open AI, Ollama, etc. It wraps everything in easy to use user interface for non professional users. In addition Zumungo allows users to add their own devices that are not part of the catalog. Of course Zumungo is full blown Home Automation platform and has build-in servers for managing all IoT protocols such as Matter, Thread, Zigbee, Zwave, MQTT, BT, TCP, mDNS etc. Special attention is paid to securi",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 11 Nov 2026 21:58:28 +0000",
+      "timestamp": 1794434308.0
+    },
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-11T16:54:21-05:00",
+      "timestamp": 1794434061.0
+    },
+    {
+      "title": "An AI-assisted RP2040 audio board that worked on first spin in 5 days",
+      "link": "https://solderable.dev/blog/fluid",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 18:07:39 +0000",
-      "timestamp": 1794420459.0
+      "published": "Wed, 11 Nov 2026 21:43:47 +0000",
+      "timestamp": 1794433427.0
     },
     {
-      "title": "Show HN: Griyd – Multiplayer AI",
-      "link": "https://griyd.com",
+      "title": "Pundit Claims – Open-Source Register of AI Claims by Gary Marcus and Ed Zitron",
+      "link": "https://punditclaims.ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 18:05:05 +0000",
-      "timestamp": 1794420305.0
+      "published": "Wed, 11 Nov 2026 21:39:36 +0000",
+      "timestamp": 1794433176.0
     },
     {
-      "title": "Talos 0.20 – A self-hosted AI agent with a permission kernel",
-      "link": "https://github.com/talos-kernel/Talos",
+      "title": "Some IGF Jurors released a statement about AI usage",
+      "link": "https://blog.lauramichet.com/some-igf-jurors-released-a-statement-about-ai-usage/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:55:37 +0000",
-      "timestamp": 1794419737.0
+      "published": "Wed, 11 Nov 2026 21:34:05 +0000",
+      "timestamp": 1794432845.0
     },
     {
-      "title": "Revu – Code review in times of AI",
-      "link": "https://revu.enspirit.dev/",
+      "title": "Is the AI Singularity Coming?",
+      "link": "https://www.youtube.com/watch?v=IlgvRtTwaUs",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:39:48 +0000",
-      "timestamp": 1794418788.0
+      "published": "Wed, 11 Nov 2026 21:28:57 +0000",
+      "timestamp": 1794432537.0
     },
     {
-      "title": "I found an API key leak in MLflow, and why your AI agent may have one too",
-      "link": "https://github.com/ralis-ai/weir/blob/main/docs/cve-2026-116691.md",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:33:57 +0000",
-      "timestamp": 1794418437.0
+      "published": "Wed, 11 Nov 2026 21:24:35 +0000",
+      "timestamp": 1794432275.0
     },
     {
-      "title": "Gmail's AI summary presented a phishing email as a USPTO appointment",
-      "link": "https://www.projectsapiens.ai/images/gmail-phishing/gmail-ai-phishing-redacted.png",
+      "title": "Apple II Agent: An AI Coding Environment for the Apple II",
+      "link": "https://www.vintagecomputing.com/index.php/archives/3746/apple-ii-agent-an-ai-coding-environment-for-the-apple-ii",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:27:26 +0000",
-      "timestamp": 1794418046.0
+      "published": "Wed, 11 Nov 2026 21:20:03 +0000",
+      "timestamp": 1794432003.0
     },
     {
-      "title": "Show HN: Dedoomify – AI news, minus the doom",
-      "link": "https://dedoomify.com/",
-      "summary": "What if AI failures were described like ordinary software issues? Paste a link to an AI article and dedoomify turns down the apocalypse: \"the model is misaligned\" becomes \"the model has a bug\". Less Skynet. More software. And every change is highlighted with the original text one hover or tap away. You can try an example without signing up or installing anything! The default engine runs on quick phrase rules or you can run a local AI model in your browser via WebGPU; there's also a Chrome extension that applies the rules to the page you’re reading. And all the code is open source! https://gith",
+      "title": "Show HN: Version History for Your Synced Notes (AI Agent Safety)",
+      "link": "https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents",
+      "summary": "In addition to real-time multiplayer collaboration, your markdown notes in a synced graph in EtherPK - https://app.etherpk.com now keep a version history for every page and journal entry. It also keeps the pages, journal entries and files you delete, so you can restore them if needed. Versioning is an especially important piece of functionality along side AI agent editing or your notes. While versioning is a useful feature for human editing, it becomes more important when AI Agents have the capability to make broad changes at speed. EtherPK has recently added additional AI integration features",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:26:46 +0000",
-      "timestamp": 1794418006.0
+      "published": "Wed, 11 Nov 2026 21:19:24 +0000",
+      "timestamp": 1794431964.0
     },
     {
-      "title": "Do 9/10 new AI SaaS websites seem like they should be an editor command to you?",
-      "link": "https://news.ycombinator.com/item?id=50455964",
-      "summary": "This question is stuck in my head. Thought I would drill a hole and pour it on the floor.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:26:16 +0000",
-      "timestamp": 1794417976.0
-    },
-    {
-      "title": "No employees and prototypes within days: AI agents supercharge startups",
-      "link": "https://www.ft.com/content/d338594b-ca66-418a-9884-8f562a175fed",
+      "title": "The role of natural scientists and hardware engineers in AI safety",
+      "link": "https://www.reinvent.science/p/the-role-of-natural-scientists-and",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:25:37 +0000",
-      "timestamp": 1794417937.0
+      "published": "Wed, 11 Nov 2026 21:17:52 +0000",
+      "timestamp": 1794431872.0
     },
     {
-      "title": "Pharmaceutical advertising and drug recommendations by consumer-facing AI",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2589750026001378?via%3Dihub",
+      "title": "SFT for professionals in software, AI, systems, science and others",
+      "link": "https://app.outlier.ai/en/expert/referrals/link/3FKWhSGJnWvE8htqBdLKT9ZdU-w",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:22:43 +0000",
-      "timestamp": 1794417763.0
+      "published": "Wed, 11 Nov 2026 21:14:58 +0000",
+      "timestamp": 1794431698.0
     },
     {
-      "title": "Meta, TikTok join Google to push back on Indonesia's AI copyright law revisions",
-      "link": "https://www.reuters.com/legal/litigation/meta-tiktok-join-google-push-back-indonesias-planned-ai-copyright-law-revisions-2026-11-11/",
+      "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "link": "https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:20:40 +0000",
-      "timestamp": 1794417640.0
+      "published": "Wed, 11 Nov 2026 21:06:05 +0000",
+      "timestamp": 1794431165.0
     },
     {
-      "title": "Tech Allies Rally Behind Jensen Huang, Calling Him Vital in AI Race (Gift Link)",
-      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
-      "summary": "",
+      "title": "Why the data center you dread might never even be built",
+      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:05:37 +0000",
-      "timestamp": 1794416737.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 11 Nov 2026 20:15:15 +0000",
+      "timestamp": 1794428115.0
     },
     {
-      "title": "AI models built outside the US and China are nearly a year behind",
-      "link": "https://village.dev/blog/outside-the-us-and-china-the-world-is-building-last-years-ai/",
-      "summary": "",
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 11 Nov 2026 17:03:11 +0000",
-      "timestamp": 1794416591.0
+      "source": "TechCrunch AI",
+      "published": "Wed, 11 Nov 2026 20:12:01 +0000",
+      "timestamp": 1794427921.0
+    },
+    {
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 11 Nov 2026 20:02:14 +0000",
+      "timestamp": 1794427334.0
+    },
+    {
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 11 Nov 2026 19:55:54 +0000",
+      "timestamp": 1794426954.0
+    },
+    {
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 11 Nov 2026 19:54:00 +0000",
+      "timestamp": 1794426840.0
+    },
+    {
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 11 Nov 2026 19:34:55 +0000",
+      "timestamp": 1794425695.0
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 11 Nov 2026 19:22:22 +0000",
+      "timestamp": 1794424942.0
     },
     {
       "title": "A Startup Wants to Fight AI Bioweapons With AI",
@@ -239,7 +347,7 @@
     {
       "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
       "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 11 Nov 2026 15:00:00 +0000",
@@ -372,15 +480,6 @@
       "timestamp": 1794331967.0
     },
     {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 10 Nov 2026 17:30:00 +0000",
-      "timestamp": 1794331800.0
-    },
-    {
       "title": "Anthropic has its own AI-powered office suite now",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
       "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint [&#8230;]",
@@ -388,15 +487,6 @@
       "source": "The Verge AI",
       "published": "2026-11-10T12:30:00-05:00",
       "timestamp": 1794331800.0
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 10 Nov 2026 17:04:19 +0000",
-      "timestamp": 1794330259.0
     },
     {
       "title": "eBay appears to have shut the door on third-party AI agents",
@@ -408,78 +498,6 @@
       "timestamp": 1794327630.0
     },
     {
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-10T11:00:00-05:00",
-      "timestamp": 1794326400.0
-    },
-    {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 10 Nov 2026 15:54:08 +0000",
-      "timestamp": 1794326048.0
-    },
-    {
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 10 Nov 2026 15:29:30 +0000",
-      "timestamp": 1794324570.0
-    },
-    {
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-10T09:06:54-05:00",
-      "timestamp": 1794319614.0
-    },
-    {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 10 Nov 2026 14:05:10 +0000",
-      "timestamp": 1794319510.0
-    },
-    {
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 10 Nov 2026 14:01:39 +0000",
-      "timestamp": 1794319299.0
-    },
-    {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "timestamp": 1794319200.0
-    },
-    {
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "timestamp": 1794319200.0
-    },
-    {
       "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
       "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
       "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
@@ -487,15 +505,6 @@
       "source": "Wired AI",
       "published": "Tue, 10 Nov 2026 14:00:00 +0000",
       "timestamp": 1794319200.0
-    },
-    {
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 10 Nov 2026 13:30:00 +0000",
-      "timestamp": 1794317400.0
     },
     {
       "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 10 Nov 2026 05:01:00 +0000",
       "timestamp": 1794286860.0
-    },
-    {
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 10 Nov 2026 00:18:19 +0000",
-      "timestamp": 1794269899.0
     }
   ]
 }
