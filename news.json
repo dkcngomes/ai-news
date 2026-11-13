@@ -1,51 +1,249 @@
 {
-  "scraped_at": "2026-11-13T15:22:00.227284+00:00",
+  "scraped_at": "2026-11-13T21:58:01.569694+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
-      "link": "https://github.com/langfuse/langfuse/tree/main/ai-gateway",
-      "summary": "Hi HN, this is Max, Marc and Clemens, co-founders of Langfuse, the open source tool for agent & observability & evals ( https://github.com/langfuse/langfuse ). It’s been a minute since our last Show HN in August 2023 ( https://news.ycombinator.com/item?id=37310070 ) - we’ve been busy building out and serving our tracing & eval pieces over the past years and have been very lucky to build a successful company and open source project around it. Today, we are happy to show the beta of Langfuse AI Gateway: https://github.com/langfuse/langfuse/tree/main/ai-gateway . You may ask, why an AI Gateway as",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 15:10:20 +0000",
-      "timestamp": 1794582620.0
-    },
-    {
-      "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "title": "Warning of interruptions as AI models by Anthropic, OpenAI and others evolve",
+      "link": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 15:08:44 +0000",
-      "timestamp": 1794582524.0
+      "published": "Fri, 13 Nov 2026 21:44:15 +0000",
+      "timestamp": 1794606255.0
     },
     {
-      "title": "Nil-3B Open Source Sovereign AI",
-      "link": "https://huggingface.co/nioncorp/nil-3b-gguf",
+      "title": "Skills that stop AI coding agents from touching production",
+      "link": "https://github.com/simbaTmotsi/simba-skills",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 14:59:20 +0000",
-      "timestamp": 1794581960.0
+      "published": "Fri, 13 Nov 2026 21:37:07 +0000",
+      "timestamp": 1794605827.0
     },
     {
-      "title": "Ask HN: Can anyone name anything new that AI has done?",
-      "link": "https://news.ycombinator.com/item?id=50484426",
-      "summary": "We're 2 years into this. Still looking for something that an AI did all by itself that is actually new. Everything I've seen so far still involves a human sussing out the new thing or the model is just aggregating data that is already there from disconnected sources that never got tied together.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 14:53:56 +0000",
-      "timestamp": 1794581636.0
-    },
-    {
-      "title": "From action to static description–How AI changed Jørn Lier Horst's writing style",
-      "link": "https://jilltxt.net/from-action-to-static-descriptions-how-using-ai-to-write-with-changed-jorn-lier-horsts-style/",
+      "title": "FAA Rolls Out AI Air Traffic Tool (2026-11-12)",
+      "link": "https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 14:53:15 +0000",
-      "timestamp": 1794581595.0
+      "published": "Fri, 13 Nov 2026 21:35:12 +0000",
+      "timestamp": 1794605712.0
+    },
+    {
+      "title": "Evidence Chinese AI labs built their newest models on Nvidia's Blackwell chips",
+      "link": "https://twitter.com/willdepue/status/2120992457630326841",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 21:05:19 +0000",
+      "timestamp": 1794603919.0
+    },
+    {
+      "title": "Rainshare: Mutual aid for AI coding plans and usage limits",
+      "link": "https://rainshare.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:54:38 +0000",
+      "timestamp": 1794603278.0
+    },
+    {
+      "title": "Show HN: Free AI Image Gallery",
+      "link": "https://images.skynettstudio.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:51:08 +0000",
+      "timestamp": 1794603068.0
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-13T15:45:10-05:00",
+      "timestamp": 1794602710.0
+    },
+    {
+      "title": "The Chinese city powering the country's AI ambitions with data farms",
+      "link": "https://www.nbcnews.com/world/asia/china-ai-data-center-construction-inner-mongolia-rcna608934",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:33:22 +0000",
+      "timestamp": 1794602002.0
+    },
+    {
+      "title": "AI Company Employees Should Unionize",
+      "link": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:29:19 +0000",
+      "timestamp": 1794601759.0
+    },
+    {
+      "title": "DeepMind opens the datasets behind its AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:28:58 +0000",
+      "timestamp": 1794601738.0
+    },
+    {
+      "title": "A board game where you play an AI lab CEO racing to AGI [video]",
+      "link": "https://www.youtube.com/watch?v=SXnxZuntM0w",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:25:11 +0000",
+      "timestamp": 1794601511.0
+    },
+    {
+      "title": "How the U.S.'s biggest news union is fighting an AI onslaught",
+      "link": "https://www.fastcompany.com/91637688/newsguild-jon-schleuss-ai-human-journalists",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:23:36 +0000",
+      "timestamp": 1794601416.0
+    },
+    {
+      "title": "What the 'AI Torture Chamber' Debate Got Wrong About the Research",
+      "link": "https://www.techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:22:26 +0000",
+      "timestamp": 1794601346.0
+    },
+    {
+      "title": "AI escapes from containers faster than me – so what?",
+      "link": "https://some-natalie.dev/blog/escapes-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:13:30 +0000",
+      "timestamp": 1794600810.0
+    },
+    {
+      "title": "Mellonbot An AI agent that finds the root cause of server issues and fixes them",
+      "link": "https://www.mellonbot.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:08:09 +0000",
+      "timestamp": 1794600489.0
+    },
+    {
+      "title": "I Used to Be Excited About Software Conferences. AI KILLed That",
+      "link": "https://medium.com/@badrbellaj/i-used-to-be-excited-about-software-conferences-not-so-much-anymore-28a7ddd6a6b4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 20:04:34 +0000",
+      "timestamp": 1794600274.0
+    },
+    {
+      "title": "The AI megatrade's mounting portfolio concentration risk problem",
+      "link": "https://www.ft.com/content/2f4d39dd-dee8-4620-996d-3fe978b7522b",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 19:53:08 +0000",
+      "timestamp": 1794599588.0
+    },
+    {
+      "title": "No AI Slop: A Manifesto",
+      "link": "https://www.slopmanifesto.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 19:51:56 +0000",
+      "timestamp": 1794599516.0
+    },
+    {
+      "title": "Ghost Writing: On AI Before AI",
+      "link": "https://lithub.com/ghost-writing-on-ai-before-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 19:46:51 +0000",
+      "timestamp": 1794599211.0
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+      "timestamp": 1794598677.0
+    },
+    {
+      "title": "Nvidia looks for successor after exit of CEO Jensen Huang, shake the AI industry",
+      "link": "https://news.northeastern.edu/2026/11/12/jensen-huang-resigns-nvidia-successor/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 19:15:41 +0000",
+      "timestamp": 1794597341.0
+    },
+    {
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 13 Nov 2026 19:08:57 +0000",
+      "timestamp": 1794596937.0
+    },
+    {
+      "title": "Crypto and AI lost the midterms, and why they say they didn't",
+      "link": "https://www.citationneeded.news/crypto-ai-lost-the-midterms/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 13 Nov 2026 19:05:43 +0000",
+      "timestamp": 1794596743.0
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "timestamp": 1794595230.0
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "timestamp": 1794585612.0
+    },
+    {
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 13 Nov 2026 16:00:00 +0000",
+      "timestamp": 1794585600.0
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Fri, 13 Nov 2026 15:58:00 +0000",
+      "timestamp": 1794585480.0
     },
     {
       "title": "What&#8217;s really at stake in the Jensen Huang saga",
@@ -66,51 +264,6 @@
       "timestamp": 1794581088.0
     },
     {
-      "title": "Let an AI agent query your prodution database safely with read-only SQL over MCP",
-      "link": "https://railyard.run/blog/ai-agent-read-only-sql/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 14:36:34 +0000",
-      "timestamp": 1794580594.0
-    },
-    {
-      "title": "Amodei Says AI Will Cure Cancer in a Decade. Doctors Are Skeptical",
-      "link": "https://www.businessinsider.com/dario-amodei-anthropic-cancer-cure-ipo-roadshow-backlash-doctors-2026-11",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 14:34:13 +0000",
-      "timestamp": 1794580453.0
-    },
-    {
-      "title": "Mandat – Authorization, delegation and audit for AI agent actions",
-      "link": "https://github.com/vosidov-msaid/Mandat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 14:14:24 +0000",
-      "timestamp": 1794579264.0
-    },
-    {
-      "title": "Drawing the Line on AI Writing",
-      "link": "https://notes.archie-hall.com/p/drawing-the-line-on-ai-writing-literally",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 14:14:19 +0000",
-      "timestamp": 1794579259.0
-    },
-    {
-      "title": "Show HN: Aisync exits 3 when two AI agents claim the same file",
-      "link": "https://github.com/MaxonT/aisync/blob/main/ai_sync/collab.py",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 14:00:05 +0000",
-      "timestamp": 1794578405.0
-    },
-    {
       "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
       "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [&#8230;]",
@@ -118,96 +271,6 @@
       "source": "The Verge AI",
       "published": "2026-11-13T09:00:00-05:00",
       "timestamp": 1794578400.0
-    },
-    {
-      "title": "So you want to buy AI for your company",
-      "link": "https://idiallo.com/byte-size/buying-ai-for-your-company",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 13:53:31 +0000",
-      "timestamp": 1794578011.0
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
-      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 13:53:29 +0000",
-      "timestamp": 1794578009.0
-    },
-    {
-      "title": "Politicians Must 'Call Bullshit' on AI Companies [video]",
-      "link": "https://www.youtube.com/watch?v=xpwKob9bjko",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 13:50:26 +0000",
-      "timestamp": 1794577826.0
-    },
-    {
-      "title": "How Microsoft's Principal Software Engineering Manager Works and Uses AI",
-      "link": "https://newsletter.eng-leadership.com/p/how-microsofts-principal-software",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 13:50:08 +0000",
-      "timestamp": 1794577808.0
-    },
-    {
-      "title": "What CS bodies are worth studying in the age of AI?",
-      "link": "https://news.ycombinator.com/item?id=50483458",
-      "summary": "Programming languages? Algorithms? AI itself? The field is already so gigantic that it was difficult to choose what to focus on 5 years ago; it now feels impossible.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 13:49:28 +0000",
-      "timestamp": 1794577768.0
-    },
-    {
-      "title": "Show HN: Practice coding with AI on real tickets",
-      "link": "https://algocademy.com/ai-coding-practice/",
-      "summary": "I run AlgoCademy and we've just built what we think can become the LeetCode for AI Coding / Engineering. Would love to hear your feedback! First task is free and doesn't need an account.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 13:35:59 +0000",
-      "timestamp": 1794576959.0
-    },
-    {
-      "title": "How to Build Reliable Agentic AI Systems for Vertical AI Companies",
-      "link": "https://medium.com/@MirArshadTalpur/how-to-build-reliable-agentic-ai-systems-for-vertical-ai-companies-290564214ff5",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 13:27:19 +0000",
-      "timestamp": 1794576439.0
-    },
-    {
-      "title": "Never Twice dont let the AI agent do mistake again",
-      "link": "https://clawhub.ai/cognicore-dev/skills/never-twice",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 13:23:39 +0000",
-      "timestamp": 1794576219.0
-    },
-    {
-      "title": "Show HN: CloudHike – A backend your AI coding agent can set up over MCP",
-      "link": "https://cloudhike.dev",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 13:18:41 +0000",
-      "timestamp": 1794575921.0
-    },
-    {
-      "title": "Tentative Advice on Building with AI",
-      "link": "https://oath.tech/pub/2026/08/tentative-advice-building-with-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 13:08:18 +0000",
-      "timestamp": 1794575298.0
     },
     {
       "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -289,15 +352,6 @@
       "source": "The Verge AI",
       "published": "2026-11-12T16:55:32-05:00",
       "timestamp": 1794520532.0
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 12 Nov 2026 21:35:00 +0000",
-      "timestamp": 1794519300.0
     },
     {
       "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
@@ -480,42 +534,6 @@
       "timestamp": 1794501153.0
     },
     {
-      "title": "Jensen Huang is out. What did China want from him?",
-      "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-12T11:30:00-05:00",
-      "timestamp": 1794501000.0
-    },
-    {
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 12 Nov 2026 16:12:44 +0000",
-      "timestamp": 1794499964.0
-    },
-    {
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 12 Nov 2026 15:37:29 +0000",
-      "timestamp": 1794497849.0
-    },
-    {
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "summary": "This is the investment firm's largest fund to date.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 12 Nov 2026 15:18:14 +0000",
-      "timestamp": 1794496694.0
-    },
-    {
       "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
       "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
       "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
@@ -523,24 +541,6 @@
       "source": "Wired AI",
       "published": "Thu, 12 Nov 2026 14:14:33 +0000",
       "timestamp": 1794492873.0
-    },
-    {
-      "title": "Jensen Huang Resigns as Nvidia CEO",
-      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-      "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 12 Nov 2026 13:58:06 +0000",
-      "timestamp": 1794491886.0
-    },
-    {
-      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-      "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
-      "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 12 Nov 2026 10:30:00 +0000",
-      "timestamp": 1794479400.0
     }
   ]
 }
