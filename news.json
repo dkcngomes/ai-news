@@ -1,7 +1,151 @@
 {
-  "scraped_at": "2026-11-14T02:25:25.542989+00:00",
+  "scraped_at": "2026-11-14T10:20:25.101485+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Show HN: Autoeditor – AI for retention video editing",
+      "link": "https://www.autoeditor.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 10:10:13 +0000",
+      "timestamp": 1794651013.0
+    },
+    {
+      "title": "Backdooring LLMs – Do you trust your AI provider?",
+      "link": "https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 09:20:54 +0000",
+      "timestamp": 1794648054.0
+    },
+    {
+      "title": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
+      "link": "https://gammapdf.com/",
+      "summary": "Author here. I have been reading papers and taking notes for years, using Zotero for the PDFs, Obsidian for the notes, and, recently, an AI chat tab for my questions. Gamma PDF is my attempt to make that one place. In Gamma, you open a paper by simply pasting an arXiv (or DOI) link. Highlight a sentence, or drag a box round a figure, and it becomes a note beside the page with the quote and a link back. You can ask the AI about a figure or some text, and you get an answer that cites a page you can click. You can read and annotate papers on an iPad with the Apple Pencil. Notability (Goodnotes) i",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 08:08:11 +0000",
+      "timestamp": 1794643691.0
+    },
+    {
+      "title": "WhatsTask – An AI project manager for teams of people and agents",
+      "link": "https://www.whatstask.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 07:57:04 +0000",
+      "timestamp": 1794643024.0
+    },
+    {
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "link": "https://news.ycombinator.com/item?id=50494696",
+      "summary": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 06:56:42 +0000",
+      "timestamp": 1794639402.0
+    },
+    {
+      "title": "AI Productivity Gains Mainly Benefit People at the Top",
+      "link": "https://nelson.cloud/ai-productivity-gains-mainly-benefit-people-at-the-top/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 06:19:36 +0000",
+      "timestamp": 1794637176.0
+    },
+    {
+      "title": "Every Flight Is Grounded on Day Trump Admin Installed AI Controls",
+      "link": "https://www.thedailybeast.com/faa-abruptly-grounds-all-flights-for-first-time-since-911",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 06:19:17 +0000",
+      "timestamp": 1794637157.0
+    },
+    {
+      "title": "ShieldFont – Protect human muffins by poisoning unauthorized AI starfish",
+      "link": "https://shieldfont.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 05:43:30 +0000",
+      "timestamp": 1794635010.0
+    },
+    {
+      "title": "Transforming Ripgrep's Documentation with AI Automation and MkDocs",
+      "link": "https://entropicdrift.com/blog/mkdocs-drift-automation/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 05:19:51 +0000",
+      "timestamp": 1794633591.0
+    },
+    {
+      "title": "Show HN: EDNA – 100% on-device human sensing so AI can perceive the user",
+      "link": "https://openos.space",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 05:04:37 +0000",
+      "timestamp": 1794632677.0
+    },
+    {
+      "title": "Sick of Herding AI Cats?",
+      "link": "https://clowder.sh",
+      "summary": "I'm 54 and I've been a developer for 40 odd years, but the last couple of years have been the strangest yet. I've gone from hand crafting and taking pride in every line of code, module, system design, architecture, etc. to basically trying to wrangle the best out of AI. I have to admit, it's knowledge, research skills and speed far outstrip my own, but it's attention to detail and design, both graphical and application wise and feature thoughts and general love of the output leave me cold. Also, given that every AI request takes more time than my very short attention span, I've found myself ki",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 04:13:42 +0000",
+      "timestamp": 1794629622.0
+    },
+    {
+      "title": "MathHelm: A Place to discuss AI-generated papers",
+      "link": "https://mathhelm.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 03:49:58 +0000",
+      "timestamp": 1794628198.0
+    },
+    {
+      "title": "Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)",
+      "link": "https://browserr.dev",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 03:22:22 +0000",
+      "timestamp": 1794626542.0
+    },
+    {
+      "title": "MathHelm: A Place to discuss AI-generated papers",
+      "link": "https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 03:20:33 +0000",
+      "timestamp": 1794626433.0
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+      "timestamp": 1794624779.0
+    },
+    {
+      "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
+      "link": "https://opencyclone.vercel.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 02:46:12 +0000",
+      "timestamp": 1794624372.0
+    },
     {
       "title": "Of Course Americans Blamed the Ground Stop on AI",
       "link": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/",
@@ -39,33 +183,6 @@
       "timestamp": 1794616930.0
     },
     {
-      "title": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
-      "link": "https://kingstonyip.com/portal2bench",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 00:40:55 +0000",
-      "timestamp": 1794616855.0
-    },
-    {
-      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "link": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 00:28:11 +0000",
-      "timestamp": 1794616091.0
-    },
-    {
-      "title": "Agentic studio 5 head AI built a 3D game engine in 4 hours – one pass",
-      "link": "https://dev-head.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 00:14:50 +0000",
-      "timestamp": 1794615290.0
-    },
-    {
       "title": "Amazon has a plan to index the world’s online shopping data",
       "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
       "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
@@ -75,33 +192,6 @@
       "timestamp": 1794613751.0
     },
     {
-      "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
-      "link": "https://github.com/mjha-arya/DOC-foundry",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 23:40:12 +0000",
-      "timestamp": 1794613212.0
-    },
-    {
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 23:02:44 +0000",
-      "timestamp": 1794610964.0
-    },
-    {
-      "title": "QuAIA: An open-source team of AI agents that handles the whole test process",
-      "link": "https://quaia.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 22:53:09 +0000",
-      "timestamp": 1794610389.0
-    },
-    {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
@@ -109,96 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Fri, 13 Nov 2026 22:43:00 +0000",
       "timestamp": 1794609780.0
-    },
-    {
-      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
-      "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 22:38:07 +0000",
-      "timestamp": 1794609487.0
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
-      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 22:37:24 +0000",
-      "timestamp": 1794609444.0
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
-      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 22:20:18 +0000",
-      "timestamp": 1794608418.0
-    },
-    {
-      "title": "My first two months with AI agents: some confident assertions",
-      "link": "https://www.mikehermele.com/blog/first-two-months/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 22:18:33 +0000",
-      "timestamp": 1794608313.0
-    },
-    {
-      "title": "DSPy vs. LangGraph: AI Agent Frameworks Explained – Stanford CS329Z [video]",
-      "link": "https://www.youtube.com/watch?v=q0Q-Hy8TTps",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 22:03:34 +0000",
-      "timestamp": 1794607414.0
-    },
-    {
-      "title": "Warning of interruptions as AI models by Anthropic, OpenAI and others evolve",
-      "link": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 21:44:15 +0000",
-      "timestamp": 1794606255.0
-    },
-    {
-      "title": "Skills that stop AI coding agents from touching production",
-      "link": "https://github.com/simbaTmotsi/simba-skills",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 21:37:07 +0000",
-      "timestamp": 1794605827.0
-    },
-    {
-      "title": "FAA Rolls Out AI Air Traffic Tool (2026-11-12)",
-      "link": "https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 21:35:12 +0000",
-      "timestamp": 1794605712.0
-    },
-    {
-      "title": "Evidence Chinese AI labs built their newest models on Nvidia's Blackwell chips",
-      "link": "https://twitter.com/willdepue/status/2120992457630326841",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 21:05:19 +0000",
-      "timestamp": 1794603919.0
-    },
-    {
-      "title": "Rainshare: Mutual aid for AI coding plans and usage limits",
-      "link": "https://rainshare.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 13 Nov 2026 20:54:38 +0000",
-      "timestamp": 1794603278.0
     },
     {
       "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
