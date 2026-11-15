@@ -1,7 +1,160 @@
 {
-  "scraped_at": "2026-11-14T21:27:25.046678+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-15T01:52:55.540638+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "AI in the Search for Extraterrestrial Life",
+      "link": "https://datarootlabs.com/blog/ai-search-extraterrestrial-life",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 01:31:26 +0000",
+      "timestamp": 1794706286.0
+    },
+    {
+      "title": "Korea Tax Accountant Top Scorer Confesses AI Cheating",
+      "link": "https://www.chosun.com/english/national-en/2026/11/15/3AYAGNRWENBAJISSMVP6HZQZ3E/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 01:29:52 +0000",
+      "timestamp": 1794706192.0
+    },
+    {
+      "title": "The First AI Music Awards",
+      "link": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 01:29:25 +0000",
+      "timestamp": 1794706165.0
+    },
+    {
+      "title": "Can the AI boom make enough money to sustain itself?",
+      "link": "https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 01:24:39 +0000",
+      "timestamp": 1794705879.0
+    },
+    {
+      "title": "Microsoft patent describes using idle gaming GPUs into paid AI training hardware",
+      "link": "https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 00:34:55 +0000",
+      "timestamp": 1794702895.0
+    },
+    {
+      "title": "The AI revolution is leaving younger tech workers behind",
+      "link": "https://twitter.com/KobeissiLetter/status/2121689817301819425",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 00:18:01 +0000",
+      "timestamp": 1794701881.0
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 15 Nov 2026 00:08:07 +0000",
+      "timestamp": 1794701287.0
+    },
+    {
+      "title": "Ask HN: Is post-training make AI models dumber?",
+      "link": "https://news.ycombinator.com/item?id=50502344",
+      "summary": "Post-training is making models better at benchmarks. They seem more consistent at coding, but dumber to me and I want to know what y'all are noticing. Here are the big three I'm noticing (mostly in claude): 1) Agents cannot write natural language well. Claude uses vague phrases to avoid any technical term such as \"What the caller calls\" instead of saying \"callee\". 2) Agents cannot manage encapsulation; they always make spaghetti code. 3) Agents are afraid to break anything. They always add more code to work around the code that's already there rather than restructuring it. No amount of rules o",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 23:53:20 +0000",
+      "timestamp": 1794700400.0
+    },
+    {
+      "title": "Bing is the anti-AI search engine you should be using",
+      "link": "https://www.pcworld.com/article/3115405/bing-is-the-anti-ai-search-engine-you-should-be-using.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 23:48:24 +0000",
+      "timestamp": 1794700104.0
+    },
+    {
+      "title": "Microsoft Patent Tips Using Idle Gaming PCs to Train AI in Exchange for Rewards",
+      "link": "https://www.pcmag.com/news/microsoft-patent-describes-using-your-idle-gaming-pc-to-train-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 23:23:18 +0000",
+      "timestamp": 1794698598.0
+    },
+    {
+      "title": "AI submissions cause end of game coding contest",
+      "link": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 23:18:24 +0000",
+      "timestamp": 1794698304.0
+    },
+    {
+      "title": "Show HN: Daily puzzles to keep AI users sharp",
+      "link": "https://brainsaver.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 23:15:33 +0000",
+      "timestamp": 1794698133.0
+    },
+    {
+      "title": "Toward a future space-based, highly scalable AI infrastructure system design",
+      "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 23:12:20 +0000",
+      "timestamp": 1794697940.0
+    },
+    {
+      "title": "AI Quest – Interactive sandboxes for agentic web apps",
+      "link": "https://ai-quest.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 22:34:26 +0000",
+      "timestamp": 1794695666.0
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 14 Nov 2026 21:41:22 +0000",
+      "timestamp": 1794692482.0
+    },
+    {
+      "title": "Competition in Generative AI: Evidence from Consumer Demand",
+      "link": "https://www.nber.org/papers/w35953",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 21:36:04 +0000",
+      "timestamp": 1794692164.0
+    },
+    {
+      "title": "See and revoke what your AI coding agents can access",
+      "link": "https://github.com/dirmedmr-alt/ai-access-auditor",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 14 Nov 2026 21:35:05 +0000",
+      "timestamp": 1794692105.0
+    },
     {
       "title": "From AI ambition to business impact",
       "link": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
@@ -37,150 +190,6 @@
       "source": "Hacker News (AI)",
       "published": "Sat, 14 Nov 2026 20:46:30 +0000",
       "timestamp": 1794689190.0
-    },
-    {
-      "title": "0rwx: A simple model of AI usage, inspired by Unix permissions",
-      "link": "https://0rwx.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 20:38:53 +0000",
-      "timestamp": 1794688733.0
-    },
-    {
-      "title": "FAA's Smart AI System Now Active at All 22 ARTCCs [Nov 10]",
-      "link": "https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 20:35:14 +0000",
-      "timestamp": 1794688514.0
-    },
-    {
-      "title": "What I Learned Using AI When My Brother Got Sick",
-      "link": "https://www.getmakingthings.com/thoughts/ai-and-health/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 20:26:57 +0000",
-      "timestamp": 1794688017.0
-    },
-    {
-      "title": "AI Company Employees Should Unionize",
-      "link": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 19:47:33 +0000",
-      "timestamp": 1794685653.0
-    },
-    {
-      "title": "WhatWeRun, a database of real production AI agent stacks",
-      "link": "https://whatwerun.dev",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 19:42:04 +0000",
-      "timestamp": 1794685324.0
-    },
-    {
-      "title": "Wojak-Bench 3D: Which AI is best at 3D printing?",
-      "link": "https://wojak-bench.dev.pion.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 19:33:22 +0000",
-      "timestamp": 1794684802.0
-    },
-    {
-      "title": "Show HN: Smart Node, a self-hosted crew of AI agents for a small business",
-      "link": "https://github.com/dklymentiev/smart-node",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 19:17:50 +0000",
-      "timestamp": 1794683870.0
-    },
-    {
-      "title": "Tactical Team Changes from AI",
-      "link": "https://staysaasy.com/tactical-team-changes-from-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 19:04:28 +0000",
-      "timestamp": 1794683068.0
-    },
-    {
-      "title": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
-      "link": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 19:01:34 +0000",
-      "timestamp": 1794682894.0
-    },
-    {
-      "title": "An update on AI's most important number",
-      "link": "https://epochai.substack.com/p/an-update-on-ais-most-important-number",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 18:53:22 +0000",
-      "timestamp": 1794682402.0
-    },
-    {
-      "title": "Thousands turn out in Edinburgh to protest against AI data centres",
-      "link": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 18:47:10 +0000",
-      "timestamp": 1794682030.0
-    },
-    {
-      "title": "AI School Bus Cameras Cash in on Drivers Who Fail to Stop",
-      "link": "https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 18:33:37 +0000",
-      "timestamp": 1794681217.0
-    },
-    {
-      "title": "Show HN: AI Time Estimator – how long Claude Code will take, from your own logs",
-      "link": "https://github.com/noambrand/ai-time-estimator",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 18:32:30 +0000",
-      "timestamp": 1794681150.0
-    },
-    {
-      "title": "How AI can achieve human-level intelligence: researchers call for change in tack",
-      "link": "https://www.nature.com/articles/d41586-025-00649-4",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 18:31:36 +0000",
-      "timestamp": 1794681096.0
-    },
-    {
-      "title": "Nonna's ragù: AI skill files only get you started",
-      "link": "https://andreaazzini.com/notes/nonnas-ragu",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 18:03:43 +0000",
-      "timestamp": 1794679423.0
-    },
-    {
-      "title": "Christophe Pettus: Stop Using AI to Report PostgreSQL Bugs",
-      "link": "https://thebuild.com/blog/stop-using-ai-to-report-postgresql-bugs/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 14 Nov 2026 17:58:50 +0000",
-      "timestamp": 1794679130.0
     },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -523,24 +532,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 12 Nov 2026 17:36:40 +0000",
       "timestamp": 1794505000.0
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 12 Nov 2026 17:17:58 +0000",
-      "timestamp": 1794503878.0
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 12 Nov 2026 17:00:52 +0000",
-      "timestamp": 1794502852.0
     }
   ]
 }
