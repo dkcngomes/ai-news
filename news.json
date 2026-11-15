@@ -1,186 +1,33 @@
 {
-  "scraped_at": "2026-11-15T09:20:27.943586+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-15T17:06:18.891734+00:00",
+  "count": 40,
   "items": [
     {
-      "title": "Baltimore County schools phase out AI reading program",
-      "link": "https://www.thebanner.com/education/k-12-schools/county-schools-artificial-intelligence-453DCFYJL5CDBAM4AY3NYY4ILU/",
-      "summary": "",
+      "title": "An overview of Jensen Huang’s messy days",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 07:40:07 +0000",
-      "timestamp": 1794728407.0
+      "source": "The Verge AI",
+      "published": "2026-11-15T08:00:00-05:00",
+      "timestamp": 1794747600.0
     },
     {
-      "title": "I tested an AI dance edit on five seconds of footage, then tried the whole clip",
-      "link": "https://medium.com/@wangjiayiliuyan/i-tested-an-ai-dance-edit-on-five-seconds-of-footage-then-i-tried-the-whole-clip-2e733305eee1",
-      "summary": "",
+      "title": "AI DJs Completely Kill My Groove",
+      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 06:58:46 +0000",
-      "timestamp": 1794725926.0
+      "source": "Wired AI",
+      "published": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "timestamp": 1794744000.0
     },
     {
-      "title": "Show HN: ShadowDiff – Shadow testing and SQL diffing for AI-migrated back ends",
-      "link": "https://github.com/vishalrajofficial/ShadowDiff",
-      "summary": "",
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 06:54:38 +0000",
-      "timestamp": 1794725678.0
-    },
-    {
-      "title": "Jaab – AI Job Hunt Copilot",
-      "link": "https://chromewebstore.google.com/detail/jaab-ai-job-hunt-copilot/anpjlacmlihooopakbogefcdffpibpll",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 06:34:24 +0000",
-      "timestamp": 1794724464.0
-    },
-    {
-      "title": "The Coming Patent Storm in AI Hardware",
-      "link": "https://www.troutman.com/insights/the-coming-patent-storm-in-ai-hardware-what-the-capital-flows-the-memory-wall-and-the-optical-interconnect-race-mean-for-your-ip-strategy/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 06:32:32 +0000",
-      "timestamp": 1794724352.0
-    },
-    {
-      "title": "Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 06:19:01 +0000",
-      "timestamp": 1794723541.0
-    },
-    {
-      "title": "Stonebrook Quill: full-featured AI-authored fantasy font",
-      "link": "https://swordcoastmap.com/font",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 06:16:30 +0000",
-      "timestamp": 1794723390.0
-    },
-    {
-      "title": "IBM Spyre AI Accelerator Card (75W PCIe Card with 128GB of LPDDR5)",
-      "link": "https://www.ibm.com/docs/en/systems-hardware/zsystems/9175-ME1?topic=introduction-spyre-accelerator",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 06:13:17 +0000",
-      "timestamp": 1794723197.0
-    },
-    {
-      "title": "Beau – An AI boyfriend app focused on everyday conversations",
-      "link": "https://play.google.com/store/apps/details?id=com.beau.aiboyfriend&hl=en_US",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 05:54:38 +0000",
-      "timestamp": 1794722078.0
-    },
-    {
-      "title": "BrowserDo·Embiody – a browser built for AI agents",
-      "link": "https://embiody.com/blog/embiody-0-9-preview/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 05:47:36 +0000",
-      "timestamp": 1794721656.0
-    },
-    {
-      "title": "Confessions of an AI Skeptic",
-      "link": "https://daniel-azuma.com/blog/2026-11-12-ai-skeptic/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 05:20:55 +0000",
-      "timestamp": 1794720055.0
-    },
-    {
-      "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
-      "link": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 04:42:37 +0000",
-      "timestamp": 1794717757.0
-    },
-    {
-      "title": "Smart AI Keyboard: Translate",
-      "link": "https://play.google.com/store/apps/details?id=smart.ai.keyboard&hl=en_US",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 04:28:32 +0000",
-      "timestamp": 1794716912.0
-    },
-    {
-      "title": "Anthropic bought a one-person, AI-powered biotech",
-      "link": "https://www.nature.com/articles/d41586-026-03640-9",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 04:01:16 +0000",
-      "timestamp": 1794715276.0
-    },
-    {
-      "title": "Linus Torvalds Wonders If Linux's AI-Prompted Patch Flood Has Peaked",
-      "link": "https://linux.slashdot.org/story/26/11/14/0827227/linus-torvalds-wonders-if-linuxs-ai-prompted-patch-flood-has-peaked",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 03:56:48 +0000",
-      "timestamp": 1794715008.0
-    },
-    {
-      "title": "ChatMate: Remote Prompt Execution on AI Assistants Through Sandbox Escaping [video]",
-      "link": "https://www.youtube.com/watch?v=MspRSCAb6uI",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 02:49:18 +0000",
-      "timestamp": 1794710958.0
-    },
-    {
-      "title": "Medicare's AI Experiment",
-      "link": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 02:49:09 +0000",
-      "timestamp": 1794710949.0
-    },
-    {
-      "title": "Multi-agent AI (LangGraph) to audit AI papers for reproducibility",
-      "link": "https://github.com/owenpatience2010-cmyk/paperpulse",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 02:35:18 +0000",
-      "timestamp": 1794710118.0
-    },
-    {
-      "title": "AI in the Search for Extraterrestrial Life",
-      "link": "https://datarootlabs.com/blog/ai-search-extraterrestrial-life",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 01:31:26 +0000",
-      "timestamp": 1794706286.0
-    },
-    {
-      "title": "Korea Tax Accountant Top Scorer Confesses AI Cheating",
-      "link": "https://www.chosun.com/english/national-en/2026/11/15/3AYAGNRWENBAJISSMVP6HZQZ3E/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 01:29:52 +0000",
-      "timestamp": 1794706192.0
+      "source": "Wired AI",
+      "published": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "timestamp": 1794740400.0
     },
     {
       "title": "Where was Nvidia’s security team?",
@@ -498,15 +345,6 @@
       "timestamp": 1794510660.0
     },
     {
-      "title": "Jensen Huang’s $470 Billion Affair",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 12 Nov 2026 18:59:58 +0000",
-      "timestamp": 1794509998.0
-    },
-    {
       "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
       "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
       "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
@@ -514,24 +352,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 12 Nov 2026 18:39:23 +0000",
       "timestamp": 1794508763.0
-    },
-    {
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-12T13:06:54-05:00",
-      "timestamp": 1794506814.0
-    },
-    {
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Thu, 12 Nov 2026 18:05:41 +0000",
-      "timestamp": 1794506741.0
     },
     {
       "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
