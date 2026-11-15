@@ -1,7 +1,214 @@
 {
-  "scraped_at": "2026-11-15T17:06:18.891734+00:00",
-  "count": 40,
+  "scraped_at": "2026-11-15T21:46:10.051716+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "Current human speed versus AI speed [video]",
+      "link": "https://www.youtube.com/watch?v=9PznwFjA4to",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 21:30:24 +0000",
+      "timestamp": 1794778224.0
+    },
+    {
+      "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+      "link": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 20:53:28 +0000",
+      "timestamp": 1794776008.0
+    },
+    {
+      "title": "Ask HN: What do coding interviews look like in the age of AI?",
+      "link": "https://news.ycombinator.com/item?id=50510540",
+      "summary": "I'm a senior Rails/React dev with 13+ years of experience. Recent AI-driven layoffs have me (soon) looking for work again. But I've barely hand-written a line of code in the past year. All that has been necessary is good prompt writing and tedious, patient code review with tweaks for style / formatting and obviously re-prompting for bad architectural decisions. Should I go back and hit the books / write a bunch of components by hand to get the muscle memory back? Or have programming interviews changed to catch up with the technology and do things now look broader and more architectural?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 20:45:34 +0000",
+      "timestamp": 1794775534.0
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-15T15:43:49-05:00",
+      "timestamp": 1794775429.0
+    },
+    {
+      "title": "Inference Gateway Desktop, an AI client for any model provider",
+      "link": "https://github.com/inference-gateway/desktop",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 20:36:06 +0000",
+      "timestamp": 1794774966.0
+    },
+    {
+      "title": "A browser API for choosing and running local AI models",
+      "link": "https://www.webmodels.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 20:35:53 +0000",
+      "timestamp": 1794774953.0
+    },
+    {
+      "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+      "link": "https://www.getlivewire.app/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 20:27:24 +0000",
+      "timestamp": 1794774444.0
+    },
+    {
+      "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+      "link": "https://zenodo.org/records/23958737",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 20:27:00 +0000",
+      "timestamp": 1794774420.0
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 15 Nov 2026 20:20:57 +0000",
+      "timestamp": 1794774057.0
+    },
+    {
+      "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+      "link": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 20:17:21 +0000",
+      "timestamp": 1794773841.0
+    },
+    {
+      "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+      "link": "https://www.youtube.com/watch?v=4NExTWq_wvk",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 20:09:52 +0000",
+      "timestamp": 1794773392.0
+    },
+    {
+      "title": "OBR: Britain faces 'painful' job losses from AI",
+      "link": "https://www.telegraph.co.uk/business/2026/11/13/britain-faces-very-painful-job-losses-from-ai-obr-chief-war/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 20:00:03 +0000",
+      "timestamp": 1794772803.0
+    },
+    {
+      "title": "Show HN: Perfectclone – Yoink the source code of any website, not an AI clone",
+      "link": "https://github.com/eshaangulati123/perfectclone",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 19:51:10 +0000",
+      "timestamp": 1794772270.0
+    },
+    {
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 19:39:46 +0000",
+      "timestamp": 1794771586.0
+    },
+    {
+      "title": "First pre-2020 long-form writing detected as 100% AI by Pangram",
+      "link": "https://twitter.com/max_spero_/status/2122032840204226687",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 19:38:10 +0000",
+      "timestamp": 1794771490.0
+    },
+    {
+      "title": "AI streamlined my digital life",
+      "link": "https://www.pangglow.com/files/blog/run-my-desktop.html?from=hn-agweb#life-hacks",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 19:26:06 +0000",
+      "timestamp": 1794770766.0
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-15T14:15:43-05:00",
+      "timestamp": 1794770143.0
+    },
+    {
+      "title": "Show HN: Aegis – A Layer-4 Postgres proxy in Go to block destructive AI SQL",
+      "link": "https://github.com/raymondhani/aegis-proxy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 19:11:40 +0000",
+      "timestamp": 1794769900.0
+    },
+    {
+      "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+      "link": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 19:06:03 +0000",
+      "timestamp": 1794769563.0
+    },
+    {
+      "title": "The Weak-Link Asymmetry: AI's Peril and Promise [pdf]",
+      "link": "https://christophertonetti.com/files/papers/JonesTonetti_WeakLinksRisk.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 18:44:21 +0000",
+      "timestamp": 1794768261.0
+    },
+    {
+      "title": "How AI will change engineering leadership in 2027",
+      "link": "https://bjorg.bjornroche.com/management/ai-in-2027/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 18:11:07 +0000",
+      "timestamp": 1794766267.0
+    },
+    {
+      "title": "We handed our lives to closed software. AI is about to show us the cost",
+      "link": "https://news.ycombinator.com/item?id=50509195",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 18:10:48 +0000",
+      "timestamp": 1794766248.0
+    },
+    {
+      "title": "NY AI Rules: Confidential Reports, Daily Fines, and a Kill Switch Wish List",
+      "link": "https://reclaimthenet.org/new-york-raise-act-ai-registration-rules",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 15 Nov 2026 18:04:16 +0000",
+      "timestamp": 1794765856.0
+    },
     {
       "title": "An overview of Jensen Huang’s messy days",
       "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
@@ -282,15 +489,6 @@
       "timestamp": 1794521681.0
     },
     {
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-12T16:55:32-05:00",
-      "timestamp": 1794520532.0
-    },
-    {
       "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
       "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
       "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
@@ -318,15 +516,6 @@
       "timestamp": 1794515207.0
     },
     {
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-12T14:42:40-05:00",
-      "timestamp": 1794512560.0
-    },
-    {
       "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
       "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
       "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
@@ -352,15 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 12 Nov 2026 18:39:23 +0000",
       "timestamp": 1794508763.0
-    },
-    {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 12 Nov 2026 17:36:40 +0000",
-      "timestamp": 1794505000.0
     }
   ]
 }
