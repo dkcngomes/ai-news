@@ -1,51 +1,186 @@
 {
-  "scraped_at": "2026-11-16T02:01:44.789758+00:00",
-  "count": 59,
+  "scraped_at": "2026-11-16T09:37:03.761082+00:00",
+  "count": 60,
   "items": [
     {
-      "title": "Show HN: AquarIum – pick your favorite (AI-generated) fish tank",
-      "link": "https://galleries.artfish.ai/aquarium/",
-      "summary": "I asked 12 different AI models to build the HTML to fill its own tank at an aquarium — then displayed them for you to see and vote on your favorite one! I did this for several other \"gallery\" themes, such as fungi, fairy cards, bonsai trees, and constellations. Maybe not surprising, but it was interesting to see how often the models converged. Certain archetypes, such as moths or cranes in the \"planetarium\" gallery, appear frequently, not just in the same model family but also across model families. In the aquarium, I counted two cuttlefish, two octopuses, and two puffers (out of all of the fi",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 01:56:34 +0000",
-      "timestamp": 1794794194.0
-    },
-    {
-      "title": "Will the AI boom continue? Forecasting the trajectory of the AI industry",
-      "link": "https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting",
+      "title": "We found 1,698 Internet-visible AI offensive-security endpoints",
+      "link": "https://gcore.com/blog/ai-offensive-security-endpoints-artex-pentagi-cairn",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 01:54:34 +0000",
-      "timestamp": 1794794074.0
+      "published": "Mon, 16 Nov 2026 09:26:57 +0000",
+      "timestamp": 1794821217.0
     },
     {
-      "title": "A.I. Stories in the Age of AI Hype: A Conversation with Ted Chiang",
-      "link": "https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation/",
+      "title": "Can AI Do Science? [video]",
+      "link": "https://www.youtube.com/watch?v=Mnhq6v_dvE4",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 01:53:01 +0000",
-      "timestamp": 1794793981.0
+      "published": "Mon, 16 Nov 2026 08:31:14 +0000",
+      "timestamp": 1794817874.0
     },
     {
-      "title": "Apple launches research study to explore the use of AI for health",
-      "link": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+      "title": "Irrigator: Local AI agent orchestration with recovery and spending limits",
+      "link": "https://irrigator.dev/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 01:43:47 +0000",
-      "timestamp": 1794793427.0
+      "published": "Mon, 16 Nov 2026 08:22:15 +0000",
+      "timestamp": 1794817335.0
     },
     {
-      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "link": "https://www.hntrends.com/2026/november.html",
+      "title": "Alibaba says new AI model cuts task costs by 60% and tightens cyber safeguards",
+      "link": "https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 01:31:30 +0000",
-      "timestamp": 1794792690.0
+      "published": "Mon, 16 Nov 2026 07:55:50 +0000",
+      "timestamp": 1794815750.0
+    },
+    {
+      "title": "I'm Glad That Literary Awards Are Going to AI",
+      "link": "https://twitter.com/EneaszWrites/status/2122076407803363641",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 07:36:21 +0000",
+      "timestamp": 1794814581.0
+    },
+    {
+      "title": "OpenTelemetry and AI Agents' Observability",
+      "link": "https://signoz.io/blog/opentelemetry-ai-agent-observability/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 07:30:19 +0000",
+      "timestamp": 1794814219.0
+    },
+    {
+      "title": "Can We Fix AI?",
+      "link": "https://peterbloem.nl/blog/fix-ai-data",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 07:19:35 +0000",
+      "timestamp": 1794813575.0
+    },
+    {
+      "title": "Show HN: Blue-harness – audit and harden binaries against AI-assisted reversing",
+      "link": "https://github.com/seifheakal/blue-harness",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 07:17:12 +0000",
+      "timestamp": 1794813432.0
+    },
+    {
+      "title": "Can You Trust AI Cybersecurity Tools?",
+      "link": "https://forenclarity.com/can-you-trust-ai-cybersecurity-tools/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 07:12:11 +0000",
+      "timestamp": 1794813131.0
+    },
+    {
+      "title": "Show HN: Figma Like AI Landing Page Builder",
+      "link": "https://codecainehq.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 06:57:49 +0000",
+      "timestamp": 1794812269.0
+    },
+    {
+      "title": "TrustGraph – ACLs that follow the data through your AI agents",
+      "link": "https://github.com/skishore23/trustgraph",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 06:44:22 +0000",
+      "timestamp": 1794811462.0
+    },
+    {
+      "title": "Skills for AI coding agents to create diagrams in Markdown",
+      "link": "https://github.com/markdown-viewer/skills",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 06:27:50 +0000",
+      "timestamp": 1794810470.0
+    },
+    {
+      "title": "Flova AI",
+      "link": "https://www.crunchbase.com/organization/flova-tech-inc",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 06:24:02 +0000",
+      "timestamp": 1794810242.0
+    },
+    {
+      "title": "Vstack – AI for Management and Leadership",
+      "link": "https://github.com/ivikash/vstack",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 06:20:29 +0000",
+      "timestamp": 1794810029.0
+    },
+    {
+      "title": "Automatar – An Intelligent AI Guitar",
+      "link": "https://www.creativeapplications.net/member/automatar-an-intelligent-ai-guitar/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 05:44:53 +0000",
+      "timestamp": 1794807893.0
+    },
+    {
+      "title": "Show HN: OpenButterfly – Tracking the environmental impact of the AI ecosystem",
+      "link": "https://openbutterfly.com",
+      "summary": "I built OpenButterfly to help people understand the environmental impact of the AI ecosystem. Openbutterfly tracks major AI companies (AI labs, cloud providers, chip makers and data center operators) and maps data center sites with their local grid carbon and water stress. Every disclosed figure links to the report page it came from. Missing figures show as \"not disclosed\", and estimates are clearly labeled. A few things surprised me. Eight of the 35 companies publish no energy, emissions or water figures at all, and seven of those eight are AI developers, including OpenAI, Anthropic, xAI and ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 05:06:56 +0000",
+      "timestamp": 1794805616.0
+    },
+    {
+      "title": "Google AI Ultra Subscription Not Worth It",
+      "link": "https://www.reddit.com/r/google_antigravity/comments/1xx9nl3/google_ai_ultra_subscription_not_worth_it/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 04:59:22 +0000",
+      "timestamp": 1794805162.0
+    },
+    {
+      "title": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
+      "link": "https://github.com/shubhamjoshipromail-svg/software-world-model",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 04:49:45 +0000",
+      "timestamp": 1794804585.0
+    },
+    {
+      "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+      "link": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 04:03:51 +0000",
+      "timestamp": 1794801831.0
+    },
+    {
+      "title": "Show HN: Free AI Background Remover with Local Browser Privacy Mode (No Sign-Up)",
+      "link": "https://toolifyhub.tools/tools/background-remover",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 04:01:19 +0000",
+      "timestamp": 1794801679.0
     },
     {
       "title": "Apple launches new app to study how people use AI for health",
@@ -57,15 +192,6 @@
       "timestamp": 1794792600.0
     },
     {
-      "title": "Agentic AI Designs an Analog Synthesizer",
-      "link": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 01:28:10 +0000",
-      "timestamp": 1794792490.0
-    },
-    {
       "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
       "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
       "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
@@ -73,60 +199,6 @@
       "source": "The Verge AI",
       "published": "2026-11-15T20:26:56-05:00",
       "timestamp": 1794792416.0
-    },
-    {
-      "title": "Everything Made by an AI Is in the Public Domain",
-      "link": "https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 01:24:15 +0000",
-      "timestamp": 1794792255.0
-    },
-    {
-      "title": "I Sustained 500K Words of Human–AI Dialogue Through Continuous Correction",
-      "link": "https://uka-135-map.pplx.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 01:17:32 +0000",
-      "timestamp": 1794791852.0
-    },
-    {
-      "title": "'It's like the Wild West': how AI has rocked the literary world",
-      "link": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 00:52:00 +0000",
-      "timestamp": 1794790320.0
-    },
-    {
-      "title": "Amazon MadPot: Honeypot for AI Agents",
-      "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-with-artex-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 00:50:59 +0000",
-      "timestamp": 1794790259.0
-    },
-    {
-      "title": "CrowdGPT – AI Owned by Everyone",
-      "link": "https://www.crowdgpt.net/#home",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Mon, 16 Nov 2026 00:13:30 +0000",
-      "timestamp": 1794788010.0
-    },
-    {
-      "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
-      "link": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 23:33:53 +0000",
-      "timestamp": 1794785633.0
     },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -138,60 +210,6 @@
       "timestamp": 1794785400.0
     },
     {
-      "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
-      "link": "https://finance.biggo.com/news/71888475bad974d6",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 23:27:34 +0000",
-      "timestamp": 1794785254.0
-    },
-    {
-      "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
-      "link": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 22:39:01 +0000",
-      "timestamp": 1794782341.0
-    },
-    {
-      "title": "Thales unveils software protection against AI-led reverse engineering",
-      "link": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 22:35:38 +0000",
-      "timestamp": 1794782138.0
-    },
-    {
-      "title": "Technocracy, AI, and the End of the World",
-      "link": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 22:27:07 +0000",
-      "timestamp": 1794781627.0
-    },
-    {
-      "title": "Delaware considers AI-managed companies",
-      "link": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 22:05:04 +0000",
-      "timestamp": 1794780304.0
-    },
-    {
-      "title": "Sandboxes for AI Agents",
-      "link": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 22:02:01 +0000",
-      "timestamp": 1794780121.0
-    },
-    {
       "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
       "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
@@ -199,15 +217,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 15 Nov 2026 21:56:35 +0000",
       "timestamp": 1794779795.0
-    },
-    {
-      "title": "The AI-Box Experiment (2002)",
-      "link": "https://www.yudkowsky.net/singularity/aibox",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 15 Nov 2026 21:43:35 +0000",
-      "timestamp": 1794779015.0
     },
     {
       "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
