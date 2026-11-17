@@ -1,11 +1,245 @@
 {
-  "scraped_at": "2026-11-16T20:26:12.929587+00:00",
-  "count": 40,
+  "scraped_at": "2026-11-17T03:49:20.694350+00:00",
+  "count": 59,
   "items": [
+    {
+      "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
+      "link": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 03:02:59 +0000",
+      "timestamp": 1794884579.0
+    },
+    {
+      "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
+      "link": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 02:18:46 +0000",
+      "timestamp": 1794881926.0
+    },
+    {
+      "title": "Show HN: A free interactive course on AI agent governance",
+      "link": "https://studio.sinapsdata.com.br",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 02:12:13 +0000",
+      "timestamp": 1794881533.0
+    },
+    {
+      "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
+      "link": "https://robert-mcdermott.github.io/astrum/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 02:10:21 +0000",
+      "timestamp": 1794881421.0
+    },
+    {
+      "title": "The AI Ascent",
+      "link": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 01:45:59 +0000",
+      "timestamp": 1794879959.0
+    },
+    {
+      "title": "Own your AI, at full speed",
+      "link": "https://www.ycombinator.com/launches/XcZ-rightnow-own-your-ai-at-full-speed",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 01:13:26 +0000",
+      "timestamp": 1794878006.0
+    },
+    {
+      "title": "Gemini Decision 1 can't separate AI voices made after 2024",
+      "link": "https://echo.ls/posts/gemini-decision-ai-voices/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 01:08:11 +0000",
+      "timestamp": 1794877691.0
+    },
+    {
+      "title": "Statement on Sharing Research Produced by AI Companies in Theoretical Physics",
+      "link": "https://hep-open-release.org/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 00:55:17 +0000",
+      "timestamp": 1794876917.0
+    },
+    {
+      "title": "Forward Deployed Engineer – AI/ML and Data Science",
+      "link": "https://www.dialogkey.com/careers/119ce7f304",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 00:28:21 +0000",
+      "timestamp": 1794875301.0
+    },
+    {
+      "title": "2027 AI Power Shortfall of 15 GW",
+      "link": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 00:22:53 +0000",
+      "timestamp": 1794874973.0
+    },
+    {
+      "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
+      "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Tue, 17 Nov 2026 00:04:18 +0000",
+      "timestamp": 1794873858.0
+    },
+    {
+      "title": "AI Lives Don't Matter",
+      "link": "https://www.ailivesdontmatter.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 23:57:26 +0000",
+      "timestamp": 1794873446.0
+    },
+    {
+      "title": "Ask HN: Who's really winning with AI-Coding?",
+      "link": "https://news.ycombinator.com/item?id=50525329",
+      "summary": "I've noticed the same pattern across three different Claude-coded projects now. Initial velocity is strong, but starts to fade until returns are negative. It seems a combination of changes in model behavior and increasing code base size—emphasis on the latter. The larger the code base and documented history/progress (e.g. through updates to completed work and instructions, as in .md files), the more drift starts to set in. At a certain point, you get collapse. This is where it can't maintain consistency within a single unit of work. It can manifest, for example, as adding a similar element to ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 23:52:37 +0000",
+      "timestamp": 1794873157.0
+    },
+    {
+      "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
+      "link": "https://github.com/debarshibasak/listodo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 23:45:49 +0000",
+      "timestamp": 1794872749.0
+    },
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 16 Nov 2026 23:32:32 +0000",
+      "timestamp": 1794871952.0
+    },
+    {
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-16T18:17:34-05:00",
+      "timestamp": 1794871054.0
+    },
+    {
+      "title": "CopySpeech – AI text-to-speech for your clipboard",
+      "link": "https://github.com/ilyaizen/CopySpeech",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 23:08:26 +0000",
+      "timestamp": 1794870506.0
+    },
+    {
+      "title": "We got AI to Wombo Combo – collaborative agents in Melee",
+      "link": "https://www.frisson-labs.com/reyn",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 23:03:19 +0000",
+      "timestamp": 1794870199.0
+    },
+    {
+      "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
+      "link": "https://standardsupport.dev/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 23:00:44 +0000",
+      "timestamp": 1794870044.0
+    },
+    {
+      "title": "Show HN: AI Dating photos – can you tell they're AI?",
+      "link": "https://datingprofile.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 22:47:54 +0000",
+      "timestamp": 1794869274.0
+    },
+    {
+      "title": "Show HN: We submitted 105 AI-built contact forms – 27 said \"sent\", sent nothing",
+      "link": "https://github.com/formgong/dead-forms-study",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 16 Nov 2026 22:47:31 +0000",
+      "timestamp": 1794869251.0
+    },
+    {
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 16 Nov 2026 22:03:02 +0000",
+      "timestamp": 1794866582.0
+    },
+    {
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-16T15:46:01-05:00",
+      "timestamp": 1794861961.0
+    },
+    {
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-16T15:41:28-05:00",
+      "timestamp": 1794861688.0
+    },
+    {
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-16T15:29:37-05:00",
+      "timestamp": 1794860977.0
+    },
+    {
+      "title": "US data centers now burn more electricity than a midsized country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-16T15:27:58-05:00",
+      "timestamp": 1794860878.0
+    },
     {
       "title": "California state AG sues OpenAI over rogue agent incidents",
       "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 16 Nov 2026 20:07:13 +0000",
@@ -48,7 +282,7 @@
       "timestamp": 1794854615.0
     },
     {
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
       "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
       "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
       "image": null,
@@ -57,9 +291,9 @@
       "timestamp": 1794852670.0
     },
     {
-      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
       "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 16 Nov 2026 17:36:43 +0000",
@@ -86,7 +320,7 @@
     {
       "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
       "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 16 Nov 2026 17:00:00 +0000",
@@ -147,15 +381,6 @@
       "timestamp": 1794837600.0
     },
     {
-      "title": "The Nvidia scandal isn’t slowing down",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-16T08:00:00-05:00",
-      "timestamp": 1794834000.0
-    },
-    {
       "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
       "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
       "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
@@ -176,25 +401,16 @@
     {
       "title": "Apple launches new app to study how people use AI for health",
       "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "summary": "Apple's new app for a study will answer everyday medical questions.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Mon, 16 Nov 2026 01:30:00 +0000",
       "timestamp": 1794792600.0
     },
     {
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-15T20:26:56-05:00",
-      "timestamp": 1794792416.0
-    },
-    {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Sun, 15 Nov 2026 23:30:00 +0000",
@@ -210,15 +426,6 @@
       "timestamp": 1794779795.0
     },
     {
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-15T15:43:49-05:00",
-      "timestamp": 1794775429.0
-    },
-    {
       "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
       "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
       "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
@@ -226,24 +433,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 15 Nov 2026 20:20:57 +0000",
       "timestamp": 1794774057.0
-    },
-    {
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-15T14:15:43-05:00",
-      "timestamp": 1794770143.0
-    },
-    {
-      "title": "An overview of Jensen Huang’s messy days",
-      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-15T08:00:00-05:00",
-      "timestamp": 1794747600.0
     },
     {
       "title": "AI DJs Completely Kill My Groove",
@@ -291,15 +480,6 @@
       "timestamp": 1794677400.0
     },
     {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Sat, 14 Nov 2026 16:34:15 +0000",
-      "timestamp": 1794674055.0
-    },
-    {
       "title": "Beware the New AI-Fueled Ransomware Boom",
       "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
       "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
@@ -316,15 +496,6 @@
       "source": "Wired AI",
       "published": "Sat, 14 Nov 2026 11:00:00 +0000",
       "timestamp": 1794654000.0
-    },
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "timestamp": 1794609780.0
     },
     {
       "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
