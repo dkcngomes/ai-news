@@ -1,60 +1,357 @@
 {
-  "scraped_at": "2026-11-18T13:07:20.012456+00:00",
-  "count": 59,
+  "scraped_at": "2026-11-18T21:24:59.595163+00:00",
+  "count": 60,
   "items": [
+    {
+      "title": "Haru-4B: A voice AI that can listen and speak at the same time",
+      "link": "https://blog.higurashi.ai/melte/haru4b/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 21:19:43 +0000",
+      "timestamp": 1795036783.0
+    },
+    {
+      "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
+      "link": "https://www.msn.com/en-us/technology/tech-companies/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says/ar-AA2hHxP8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 21:19:25 +0000",
+      "timestamp": 1795036765.0
+    },
+    {
+      "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+      "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 18 Nov 2026 21:15:00 +0000",
+      "timestamp": 1795036500.0
+    },
+    {
+      "title": "Ben Evans AI Questions",
+      "link": "https://www.ben-evans.com/presentations",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 21:14:09 +0000",
+      "timestamp": 1795036449.0
+    },
+    {
+      "title": "Struggling to understand why AI would harm humans? This explains it perfectly",
+      "link": "https://the-case-for-ai-safety.vercel.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 21:13:38 +0000",
+      "timestamp": 1795036418.0
+    },
+    {
+      "title": "AI use is up 330×. The bill is up 115×",
+      "link": "https://www.modelcompare.ai/blog/ai-tokens-vs-spending",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 21:13:01 +0000",
+      "timestamp": 1795036381.0
+    },
+    {
+      "title": "Daily Mail, New Scientist Daily Mail join publishers taking on AI news scrapers",
+      "link": "https://pressgazette.co.uk/news/daily-mail-joins-coalition-of-publishers-taking-on-ai-news-scrapers/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 20:53:18 +0000",
+      "timestamp": 1795035198.0
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 20:27:10 +0000",
+      "timestamp": 1795033630.0
+    },
+    {
+      "title": "Bugmageddon? Patchpocalypse? Naming the AI Vulnerability Flood",
+      "link": "https://www.techpolicy.press/bugmageddon-patchpocalypse-naming-the-ai-vulnerability-flood/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 20:07:23 +0000",
+      "timestamp": 1795032443.0
+    },
+    {
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 20:07:01 +0000",
+      "timestamp": 1795032421.0
+    },
+    {
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 19:56:39 +0000",
+      "timestamp": 1795031799.0
+    },
+    {
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-18T14:40:36-05:00",
+      "timestamp": 1795030836.0
+    },
+    {
+      "title": "I don't use an AI assistant for writing",
+      "link": "https://www.suramya.com/blog/2026/11/why-i-dont-use-ai-assistant-for-writing/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 19:34:39 +0000",
+      "timestamp": 1795030479.0
+    },
+    {
+      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-18T14:30:00-05:00",
+      "timestamp": 1795030200.0
+    },
+    {
+      "title": "Show HN: Intrusive.ai – open-source AI attack simulation",
+      "link": "https://intrusive.ai/",
+      "summary": "I created the INTRUSIVE.AI platform to give agent builders the ability to evaluate their agents against OWASP's Top 10 for Agentic Applications (and more generally, just to allow for comprehensive testing in a non-production environment). Through my own experience with evaluating agents, I found indirect prompt injection testing to be especially difficult due to the architectural nature of it. To overcome that challenge, I created Interceptor Sandbox - a sandbox that runs agents in a simulated environment where all of the services an agent might rely on (HTTP, MCP, Postgres/pgvector to name a ",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 19:29:25 +0000",
+      "timestamp": 1795030165.0
+    },
+    {
+      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+      "link": "https://www.kradle.ai?1",
+      "summary": "Hi HN - This is James and Kemal. In past lives we led Firebase and Tensorflow/JAX respectively. HN has been a particularly big part of my (James’) career and the trajectory I’ve taken would be meaningfully different without it. Thank you! Our team shipped a benchmark: KradleBench. We test AI in Minecraft Worlds. 1. The worlds are multi-agent. Humans and other AIs are in there too, often pursuing their own goals. Collaboration and conflict skills fall out of this property. 2. The world are dynamic. They constantly change, which means that agents need to react. “Capture the Flag” has a single wi",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 19:14:28 +0000",
+      "timestamp": 1795029268.0
+    },
+    {
+      "title": "The AI Repo Man: Exploiting Agentic AI Debt Collection Platforms",
+      "link": "https://eaton-works.com/2026/11/18/credit-nirvana-hack/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 19:13:47 +0000",
+      "timestamp": 1795029227.0
+    },
+    {
+      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for the end of forced arbitration for online [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-18T14:07:29-05:00",
+      "timestamp": 1795028849.0
+    },
+    {
+      "title": "LeBron James sues makers of AI sports-betting app, saying they used his likeness",
+      "link": "https://abcnews.com/Technology/wireStory/lebron-james-sues-makers-ai-sports-betting-app-138229791",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 18:57:08 +0000",
+      "timestamp": 1795028228.0
+    },
+    {
+      "title": "Show HN: SourcePost – a hand-reviewed directory for AI agents (API and MCP)",
+      "link": "https://sourcepost.dev",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 18:54:42 +0000",
+      "timestamp": 1795028082.0
+    },
+    {
+      "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+      "link": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 18:53:17 +0000",
+      "timestamp": 1795027997.0
+    },
+    {
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 18:49:41 +0000",
+      "timestamp": 1795027781.0
+    },
+    {
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang (the former CEO [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-18T13:34:15-05:00",
+      "timestamp": 1795026855.0
+    },
+    {
+      "title": "Our new book on AI agents is out, and it hit #1",
+      "link": "https://newsletter.languagemodels.co/p/our-new-book-on-ai-agents-is-out",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 18:22:22 +0000",
+      "timestamp": 1795026142.0
+    },
+    {
+      "title": "AI chatbots and agents, ranked for your country (sovereignty first)",
+      "link": "https://botshub.com",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 18:16:10 +0000",
+      "timestamp": 1795025770.0
+    },
+    {
+      "title": "CEO discovers AI costs more than humans [video]",
+      "link": "https://www.youtube.com/shorts/vj-XbrZGT2M",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 18:14:31 +0000",
+      "timestamp": 1795025671.0
+    },
+    {
+      "title": "A free interactive course on AI agent governance",
+      "link": "https://studio.sinapsdata.com.br",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 18:13:47 +0000",
+      "timestamp": 1795025627.0
+    },
+    {
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 18:04:05 +0000",
+      "timestamp": 1795025045.0
+    },
+    {
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&#38;D has revealed three new Audio-Animatronic prototypes that rely on Amazon's [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-18T12:50:57-05:00",
+      "timestamp": 1795024257.0
+    },
+    {
+      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+      "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+      "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 18 Nov 2026 17:33:07 +0000",
+      "timestamp": 1795023187.0
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 17:32:10 +0000",
+      "timestamp": 1795023130.0
+    },
+    {
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 16:59:00 +0000",
+      "timestamp": 1795021140.0
+    },
+    {
+      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+      "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
+      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 18 Nov 2026 16:35:24 +0000",
+      "timestamp": 1795019724.0
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 16:14:09 +0000",
+      "timestamp": 1795018449.0
+    },
+    {
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-18T10:44:02-05:00",
+      "timestamp": 1795016642.0
+    },
+    {
+      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
+      "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+      "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 18 Nov 2026 15:02:40 +0000",
+      "timestamp": 1795014160.0
+    },
+    {
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-18T09:00:00-05:00",
+      "timestamp": 1795010400.0
+    },
     {
       "title": "Nvidia isn’t selling any more AI chips to China",
       "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
+      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
       "image": null,
       "source": "The Verge AI",
       "published": "2026-11-18T08:01:05-05:00",
       "timestamp": 1795006865.0
     },
     {
-      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
       "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
       "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 18 Nov 2026 13:00:00 +0000",
       "timestamp": 1795006800.0
-    },
-    {
-      "title": "Show HN: Hallucination-as-a-service – API for AI excuses",
-      "link": "https://haas.antoniorodriguez.no/hallucination",
-      "summary": "There are a lot of fantastic projects posted here. So I thought, why not share something simple and completely pointless for a change? I've been wanting to build a small, silly side project for a while. Something simple, fun, and not necessarily meant to solve an actual problem. So I built Hallucination as a Service (HaaS). The idea is pretty straightforward: an API that returns random excuses for when AI fails to complete a task. It's obviously a satirical take on all the AI hype we've been hearing lately. AI is a useful tool, but it's not magic. And sometimes, things just don't work. Base en",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 12:48:36 +0000",
-      "timestamp": 1795006116.0
-    },
-    {
-      "title": "Designing the Langfuse AI Gateway",
-      "link": "https://langfuse.com/blog/2026-11-11-building-the-langfuse-ai-gateway",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 12:37:14 +0000",
-      "timestamp": 1795005434.0
-    },
-    {
-      "title": "What Does Agentic AI Cost? A Task-Level Framework 4 Enterprise Investment",
-      "link": "https://knowledge.wharton.upenn.edu/special-report/wharton-accenture-agentic-cost-framework/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 12:19:36 +0000",
-      "timestamp": 1795004376.0
-    },
-    {
-      "title": "Getting good at AI takes time and practice",
-      "link": "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 12:10:55 +0000",
-      "timestamp": 1795003855.0
     },
     {
       "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
@@ -66,22 +363,13 @@
       "timestamp": 1795003200.0
     },
     {
-      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
       "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 18 Nov 2026 11:30:00 +0000",
       "timestamp": 1795001400.0
-    },
-    {
-      "title": "Show HN: Korean company registry for AI agents – free MCP server and CSV batch",
-      "link": "https://comepass.xyz/?lang=en",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 11:24:17 +0000",
-      "timestamp": 1795001057.0
     },
     {
       "title": "Suno now lets you make AI videos for your AI music",
@@ -93,60 +381,6 @@
       "timestamp": 1795000613.0
     },
     {
-      "title": "New Study Shows How Young People Feel About AI Companions",
-      "link": "https://www.404media.co/gallup-study-friendship-ai-companions/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 11:16:52 +0000",
-      "timestamp": 1795000612.0
-    },
-    {
-      "title": "Anamnesis – Local archive of your AI chats, searchable by any agent",
-      "link": "https://github.com/devHaitham481/anamnesis",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 11:12:49 +0000",
-      "timestamp": 1795000369.0
-    },
-    {
-      "title": "Mozilla AI launches Otari, one API key for every model",
-      "link": "https://otari.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 11:00:55 +0000",
-      "timestamp": 1794999655.0
-    },
-    {
-      "title": "Show HN: A living archive told by an AI, in your language, ending sealed",
-      "link": "https://satoshi-interface.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 10:58:55 +0000",
-      "timestamp": 1794999535.0
-    },
-    {
-      "title": "Show HN: Prototype of a product management tool for AI agent companies",
-      "link": "https://featurestream-prototype.vercel.app/",
-      "summary": "Hi HN, I'm a solo founder. Teams building AI agents in a specific domain (legal, healthcare, etc.) have to piece together customer, product and market signals to decide which features to build next for their agent. This prototype is a product management tool that automates that manual process for PMs and helps them manage the agentic product. It currently runs on sample data (a fictional loans and insurance company). I'm about to start the MVP, and I'd love feedback from AI agent builders and PMs. In particular: how do you decide what to build today, and what would v1 need to do for you to try",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 10:42:09 +0000",
-      "timestamp": 1794998529.0
-    },
-    {
-      "title": "Show HN: Qpilot – an AI agent that runs plain-text manual test cases in Chrome",
-      "link": "https://github.com/broxhq/qpilot",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 10:15:10 +0000",
-      "timestamp": 1794996910.0
-    },
-    {
       "title": "Lovable Wants You to Vibe Code Your Dream Job",
       "link": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
       "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
@@ -154,78 +388,6 @@
       "source": "Wired AI",
       "published": "Wed, 18 Nov 2026 10:00:00 +0000",
       "timestamp": 1794996000.0
-    },
-    {
-      "title": "Jacob Tsimerman on AI can supercharge mathematics [video]",
-      "link": "https://www.youtube.com/watch?v=kbzIVh405r8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 09:54:54 +0000",
-      "timestamp": 1794995694.0
-    },
-    {
-      "title": "A new AI agent builder. No-code visual builder with customer support platform",
-      "link": "https://agentrow.io",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 09:54:25 +0000",
-      "timestamp": 1794995665.0
-    },
-    {
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 09:46:34 +0000",
-      "timestamp": 1794995194.0
-    },
-    {
-      "title": "AI researcher at Anthropic hosts \"consensual non-consent\" orgies",
-      "link": "https://twitter.com/aaronsibarium/status/2122361245357478085",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 09:26:26 +0000",
-      "timestamp": 1794993986.0
-    },
-    {
-      "title": "Procedural Semantic Defence: How AI Restricts the Exploration of a Topic",
-      "link": "https://medium.com/@smoking2man/procedural-semantic-defence-how-ai-restricts-the-exploration-of-a-topic-without-refusing-to-2425f62b5785",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 09:13:12 +0000",
-      "timestamp": 1794993192.0
-    },
-    {
-      "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 09:11:42 +0000",
-      "timestamp": 1794993102.0
-    },
-    {
-      "title": "FBI says AI hacking tool ARTEX can break into networks in under three hours",
-      "link": "https://thenextweb.com/news/fbi-artex-ai-hacking-tool-amazon-barracuda",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 09:10:47 +0000",
-      "timestamp": 1794993047.0
-    },
-    {
-      "title": "Show HN: College Essay Grader – free AI score for college essays\"",
-      "link": "https://collegeessaygrader.app/",
-      "summary": "College Essay Grader: Free AI Feedback for Common App Essays",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 08:58:46 +0000",
-      "timestamp": 1794992326.0
     },
     {
       "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
@@ -318,15 +480,6 @@
       "timestamp": 1794952087.0
     },
     {
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-17T16:40:59-05:00",
-      "timestamp": 1794951659.0
-    },
-    {
       "title": "Google joins the tech outage trend by announcing it’s not having one",
       "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
       "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
@@ -334,15 +487,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 17 Nov 2026 21:34:50 +0000",
       "timestamp": 1794951290.0
-    },
-    {
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-17T16:00:55-05:00",
-      "timestamp": 1794949255.0
     },
     {
       "title": "Model ML raises $250M to automate investment banking grunt work",
@@ -363,15 +507,6 @@
       "timestamp": 1794942140.0
     },
     {
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-17T13:58:01-05:00",
-      "timestamp": 1794941881.0
-    },
-    {
       "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
       "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
       "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
@@ -379,78 +514,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 17 Nov 2026 18:48:23 +0000",
       "timestamp": 1794941303.0
-    },
-    {
-      "title": "As decision model use skyrockets, is customization the next frontier?",
-      "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 18:10:00 +0000",
-      "timestamp": 1794939000.0
-    },
-    {
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 18:04:16 +0000",
-      "timestamp": 1794938656.0
-    },
-    {
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 17:32:25 +0000",
-      "timestamp": 1794936745.0
-    },
-    {
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 17:20:41 +0000",
-      "timestamp": 1794936041.0
-    },
-    {
-      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-      "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 16:44:15 +0000",
-      "timestamp": 1794933855.0
-    },
-    {
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 16:32:55 +0000",
-      "timestamp": 1794933175.0
-    },
-    {
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-17T11:19:03-05:00",
-      "timestamp": 1794932343.0
-    },
-    {
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-17T11:09:57-05:00",
-      "timestamp": 1794931797.0
     },
     {
       "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
@@ -478,60 +541,6 @@
       "source": "Wired AI",
       "published": "Tue, 17 Nov 2026 10:47:45 +0000",
       "timestamp": 1794912465.0
-    },
-    {
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-16T18:17:34-05:00",
-      "timestamp": 1794871054.0
-    },
-    {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-16T15:46:01-05:00",
-      "timestamp": 1794861961.0
-    },
-    {
-      "title": "Jensen Huang Is Gone. Now What?",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 16 Nov 2026 16:12:51 +0000",
-      "timestamp": 1794845571.0
-    },
-    {
-      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 16 Nov 2026 11:00:00 +0000",
-      "timestamp": 1794826800.0
-    },
-    {
-      "title": "AI DJs Completely Kill My Groove",
-      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sun, 15 Nov 2026 12:00:00 +0000",
-      "timestamp": 1794744000.0
-    },
-    {
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Sun, 15 Nov 2026 11:00:00 +0000",
-      "timestamp": 1794740400.0
     }
   ]
 }
