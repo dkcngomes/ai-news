@@ -1,24 +1,285 @@
 {
-  "scraped_at": "2026-11-18T21:24:59.595163+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-19T03:22:39.875190+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Haru-4B: A voice AI that can listen and speak at the same time",
-      "link": "https://blog.higurashi.ai/melte/haru4b/",
-      "summary": "",
+      "title": "Show HN: Disposable – Share small AI-made tools so others can rebuild them",
+      "link": "https://disposable.xify.kr/en/",
+      "summary": "I made a site for sharing small tools made with AI. With agents, it is now quick to build a tool that fits your own task. But those tools usually get thrown away after use, and the next person who may needs something similar start again from zero. So I thought maybe if result or process could shared by text or code and this can lead to kind of token sharing economy. Its name is Disposable and compared to \"Open source\", I named its philosophy to \"Open Disposable\". So the principle is \"Like open source, without the upkeep. Keep the know-how, rebuild the tool your way\". You can share anything you",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 21:19:43 +0000",
-      "timestamp": 1795036783.0
+      "published": "Thu, 19 Nov 2026 03:02:34 +0000",
+      "timestamp": 1795057354.0
     },
     {
-      "title": "China seeks advanced Nvidia chips for AI weapons despite US curbs, report says",
-      "link": "https://www.msn.com/en-us/technology/tech-companies/china-seeks-advanced-nvidia-chips-for-ai-weapons-despite-us-curbs-report-says/ar-AA2hHxP8",
+      "title": "Itsfree.ai – Every model you can use for free",
+      "link": "https://itsfree.ai/models/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 21:19:25 +0000",
-      "timestamp": 1795036765.0
+      "published": "Thu, 19 Nov 2026 02:58:29 +0000",
+      "timestamp": 1795057109.0
+    },
+    {
+      "title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
+      "link": "https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 02:32:01 +0000",
+      "timestamp": 1795055521.0
+    },
+    {
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 02:06:29 +0000",
+      "timestamp": 1795053989.0
+    },
+    {
+      "title": "AI will not make you rich (2025)",
+      "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 01:51:28 +0000",
+      "timestamp": 1795053088.0
+    },
+    {
+      "title": "AI in the Courtroom",
+      "link": "https://www.theexpertrecord.com/ai-in-court/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 01:22:24 +0000",
+      "timestamp": 1795051344.0
+    },
+    {
+      "title": "Becerra faces a $2B budget deficit as potential AI bust looms",
+      "link": "https://calmatters.org/politics/2026/11/california-budget-economic-outlook/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 01:14:30 +0000",
+      "timestamp": 1795050870.0
+    },
+    {
+      "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
+      "link": "https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 01:14:02 +0000",
+      "timestamp": 1795050842.0
+    },
+    {
+      "title": "AI-generated victim impact statements condemned by the Court of Appeal",
+      "link": "https://www.ukpolicelawblog.com/ai-generated-statements-condemned-by-the-court-of-appeal/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 01:03:00 +0000",
+      "timestamp": 1795050180.0
+    },
+    {
+      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 00:57:20 +0000",
+      "timestamp": 1795049840.0
+    },
+    {
+      "title": "AI cannot read between the lines",
+      "link": "https://ajaychavda.com/blog/ai-cannot-read-between-the-lines",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 00:52:21 +0000",
+      "timestamp": 1795049541.0
+    },
+    {
+      "title": "I Cloned Adobe with AI – Brandon Thomas, ArtCraft [video]",
+      "link": "https://www.youtube.com/watch?v=UCL4K36SHp0",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 00:51:20 +0000",
+      "timestamp": 1795049480.0
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Thu, 19 Nov 2026 00:42:56 +0000",
+      "timestamp": 1795048976.0
+    },
+    {
+      "title": "Show HN: I built a harness that turns floor plans into 360° tours using AI",
+      "link": "https://walkthisplan.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 00:32:32 +0000",
+      "timestamp": 1795048352.0
+    },
+    {
+      "title": "Running distributed ML and AI workloads with wasmCloud (2025)",
+      "link": "https://wasmcloud.com/blog/2025-01-15-running-distributed-ml-and-ai-workloads-with-wasmcloud/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 19 Nov 2026 00:22:34 +0000",
+      "timestamp": 1795047754.0
+    },
+    {
+      "title": "New Study Shows How Young People Feel About AI Companions",
+      "link": "https://www.404media.co/gallup-study-friendship-ai-companions/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 23:58:57 +0000",
+      "timestamp": 1795046337.0
+    },
+    {
+      "title": "Show HN: Frontier Observatory – A visual timeline of what the AI labs ship",
+      "link": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
+      "summary": "Frontier labs ship a lot. This gives me a handle on things. Also nice view of what the labs are prioritising (if release/research output is any indication).. Made with GPT-6.2 Astra High. Initial prompt was a bit rambly, some refinement over time. It suggested 'scry' which I thought was a bad name so now its called Frontier Observatory, which is a tad less terrible. Prompt: You know what I'd like to build.. a visuliastion studio where I can monitor the pace of output across various groups/sub-groups etc from the two predominant frontier labs racing to AGI.. I think it would make for a fascinat",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 23:45:01 +0000",
+      "timestamp": 1795045501.0
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 23:45:00 +0000",
+      "timestamp": 1795045500.0
+    },
+    {
+      "title": "The public database of AI agent incidents",
+      "link": "https://www.experimentempire.com/agent-incident-register",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 23:42:00 +0000",
+      "timestamp": 1795045320.0
+    },
+    {
+      "title": "Btrfs to Deal with AI and Newbies Without Common Senses More Harm Than Good",
+      "link": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 23:34:44 +0000",
+      "timestamp": 1795044884.0
+    },
+    {
+      "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
+      "link": "https://news.ycombinator.com/item?id=50553802",
+      "summary": "Back in April, I built auto-arch-tournament (https://github.com/FeSens/auto-arch-tournament) to explore a question I’m still curious about: how well can different AI models improve a RISC-V CPU? I’ve been tracking the results on HWEBench(https://hwebench.com/v2). It’s fun to see OpenAI exploring a similar question in today’s chip design post(https://openai.com/index/advancing-chip-design-with-our-models/). If you’d like to try an experiment yourself, you can run the research loop from the repo.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 18 Nov 2026 23:26:30 +0000",
+      "timestamp": 1795044390.0
+    },
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 23:25:17 +0000",
+      "timestamp": 1795044317.0
+    },
+    {
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-18T18:18:35-05:00",
+      "timestamp": 1795043915.0
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 23:17:28 +0000",
+      "timestamp": 1795043848.0
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 22:58:11 +0000",
+      "timestamp": 1795042691.0
+    },
+    {
+      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+      "link": "https://www.wired.com/story/guys-really-we-got-this/",
+      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 18 Nov 2026 22:16:23 +0000",
+      "timestamp": 1795040183.0
+    },
+    {
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+      "timestamp": 1795039875.0
+    },
+    {
+      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+      "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Wed, 18 Nov 2026 22:00:00 +0000",
+      "timestamp": 1795039200.0
+    },
+    {
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 21:57:40 +0000",
+      "timestamp": 1795039060.0
+    },
+    {
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 21:34:13 +0000",
+      "timestamp": 1795037653.0
+    },
+    {
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Wed, 18 Nov 2026 21:31:21 +0000",
+      "timestamp": 1795037481.0
     },
     {
       "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
@@ -28,60 +289,6 @@
       "source": "Wired AI",
       "published": "Wed, 18 Nov 2026 21:15:00 +0000",
       "timestamp": 1795036500.0
-    },
-    {
-      "title": "Ben Evans AI Questions",
-      "link": "https://www.ben-evans.com/presentations",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 21:14:09 +0000",
-      "timestamp": 1795036449.0
-    },
-    {
-      "title": "Struggling to understand why AI would harm humans? This explains it perfectly",
-      "link": "https://the-case-for-ai-safety.vercel.app",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 21:13:38 +0000",
-      "timestamp": 1795036418.0
-    },
-    {
-      "title": "AI use is up 330×. The bill is up 115×",
-      "link": "https://www.modelcompare.ai/blog/ai-tokens-vs-spending",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 21:13:01 +0000",
-      "timestamp": 1795036381.0
-    },
-    {
-      "title": "Daily Mail, New Scientist Daily Mail join publishers taking on AI news scrapers",
-      "link": "https://pressgazette.co.uk/news/daily-mail-joins-coalition-of-publishers-taking-on-ai-news-scrapers/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 20:53:18 +0000",
-      "timestamp": 1795035198.0
-    },
-    {
-      "title": "Managing frontier AI risk: From training to deployment",
-      "link": "https://openai.com/index/managing-frontier-ai-risk/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 20:27:10 +0000",
-      "timestamp": 1795033630.0
-    },
-    {
-      "title": "Bugmageddon? Patchpocalypse? Naming the AI Vulnerability Flood",
-      "link": "https://www.techpolicy.press/bugmageddon-patchpocalypse-naming-the-ai-vulnerability-flood/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 20:07:23 +0000",
-      "timestamp": 1795032443.0
     },
     {
       "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
@@ -111,49 +318,13 @@
       "timestamp": 1795030836.0
     },
     {
-      "title": "I don't use an AI assistant for writing",
-      "link": "https://www.suramya.com/blog/2026/11/why-i-dont-use-ai-assistant-for-writing/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 19:34:39 +0000",
-      "timestamp": 1795030479.0
-    },
-    {
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "title": "Nvidia’s rise, visualized",
       "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
       "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of [&#8230;]",
       "image": null,
       "source": "The Verge AI",
       "published": "2026-11-18T14:30:00-05:00",
       "timestamp": 1795030200.0
-    },
-    {
-      "title": "Show HN: Intrusive.ai – open-source AI attack simulation",
-      "link": "https://intrusive.ai/",
-      "summary": "I created the INTRUSIVE.AI platform to give agent builders the ability to evaluate their agents against OWASP's Top 10 for Agentic Applications (and more generally, just to allow for comprehensive testing in a non-production environment). Through my own experience with evaluating agents, I found indirect prompt injection testing to be especially difficult due to the architectural nature of it. To overcome that challenge, I created Interceptor Sandbox - a sandbox that runs agents in a simulated environment where all of the services an agent might rely on (HTTP, MCP, Postgres/pgvector to name a ",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 19:29:25 +0000",
-      "timestamp": 1795030165.0
-    },
-    {
-      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
-      "link": "https://www.kradle.ai?1",
-      "summary": "Hi HN - This is James and Kemal. In past lives we led Firebase and Tensorflow/JAX respectively. HN has been a particularly big part of my (James’) career and the trajectory I’ve taken would be meaningfully different without it. Thank you! Our team shipped a benchmark: KradleBench. We test AI in Minecraft Worlds. 1. The worlds are multi-agent. Humans and other AIs are in there too, often pursuing their own goals. Collaboration and conflict skills fall out of this property. 2. The world are dynamic. They constantly change, which means that agents need to react. “Capture the Flag” has a single wi",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 19:14:28 +0000",
-      "timestamp": 1795029268.0
-    },
-    {
-      "title": "The AI Repo Man: Exploiting Agentic AI Debt Collection Platforms",
-      "link": "https://eaton-works.com/2026/11/18/credit-nirvana-hack/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 19:13:47 +0000",
-      "timestamp": 1795029227.0
     },
     {
       "title": "Tech lawsuits defined 2026 — and lawmakers want more",
@@ -165,42 +336,6 @@
       "timestamp": 1795028849.0
     },
     {
-      "title": "LeBron James sues makers of AI sports-betting app, saying they used his likeness",
-      "link": "https://abcnews.com/Technology/wireStory/lebron-james-sues-makers-ai-sports-betting-app-138229791",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 18:57:08 +0000",
-      "timestamp": 1795028228.0
-    },
-    {
-      "title": "Show HN: SourcePost – a hand-reviewed directory for AI agents (API and MCP)",
-      "link": "https://sourcepost.dev",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 18:54:42 +0000",
-      "timestamp": 1795028082.0
-    },
-    {
-      "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-      "link": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 18:53:17 +0000",
-      "timestamp": 1795027997.0
-    },
-    {
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 18:49:41 +0000",
-      "timestamp": 1795027781.0
-    },
-    {
       "title": "What is Nvidia without AI’s sugar daddy in charge?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
       "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang (the former CEO [&#8230;]",
@@ -208,42 +343,6 @@
       "source": "The Verge AI",
       "published": "2026-11-18T13:34:15-05:00",
       "timestamp": 1795026855.0
-    },
-    {
-      "title": "Our new book on AI agents is out, and it hit #1",
-      "link": "https://newsletter.languagemodels.co/p/our-new-book-on-ai-agents-is-out",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 18:22:22 +0000",
-      "timestamp": 1795026142.0
-    },
-    {
-      "title": "AI chatbots and agents, ranked for your country (sovereignty first)",
-      "link": "https://botshub.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 18:16:10 +0000",
-      "timestamp": 1795025770.0
-    },
-    {
-      "title": "CEO discovers AI costs more than humans [video]",
-      "link": "https://www.youtube.com/shorts/vj-XbrZGT2M",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 18:14:31 +0000",
-      "timestamp": 1795025671.0
-    },
-    {
-      "title": "A free interactive course on AI agent governance",
-      "link": "https://studio.sinapsdata.com.br",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 18:13:47 +0000",
-      "timestamp": 1795025627.0
     },
     {
       "title": "Google’s AI feature in Search gets its own incognito mode",
@@ -417,51 +516,6 @@
       "timestamp": 1794961010.0
     },
     {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-17T18:41:18-05:00",
-      "timestamp": 1794958878.0
-    },
-    {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 23:37:48 +0000",
-      "timestamp": 1794958668.0
-    },
-    {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 23:04:35 +0000",
-      "timestamp": 1794956675.0
-    },
-    {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 22:42:27 +0000",
-      "timestamp": 1794955347.0
-    },
-    {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 22:29:05 +0000",
-      "timestamp": 1794954545.0
-    },
-    {
       "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
       "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
       "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
@@ -471,51 +525,6 @@
       "timestamp": 1794953959.0
     },
     {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 21:48:07 +0000",
-      "timestamp": 1794952087.0
-    },
-    {
-      "title": "Google joins the tech outage trend by announcing it’s not having one",
-      "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 21:34:50 +0000",
-      "timestamp": 1794951290.0
-    },
-    {
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 19:32:11 +0000",
-      "timestamp": 1794943931.0
-    },
-    {
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 19:02:20 +0000",
-      "timestamp": 1794942140.0
-    },
-    {
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Tue, 17 Nov 2026 18:48:23 +0000",
-      "timestamp": 1794941303.0
-    },
-    {
       "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
       "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
       "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
@@ -523,24 +532,6 @@
       "source": "Wired AI",
       "published": "Tue, 17 Nov 2026 11:00:00 +0000",
       "timestamp": 1794913200.0
-    },
-    {
-      "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
-      "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
-      "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "timestamp": 1794913200.0
-    },
-    {
-      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-      "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-      "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 17 Nov 2026 10:47:45 +0000",
-      "timestamp": 1794912465.0
     }
   ]
 }
