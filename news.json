@@ -1,114 +1,24 @@
 {
-  "scraped_at": "2026-11-19T03:22:39.875190+00:00",
-  "count": 59,
+  "scraped_at": "2026-11-19T12:59:29.552044+00:00",
+  "count": 40,
   "items": [
     {
-      "title": "Show HN: Disposable – Share small AI-made tools so others can rebuild them",
-      "link": "https://disposable.xify.kr/en/",
-      "summary": "I made a site for sharing small tools made with AI. With agents, it is now quick to build a tool that fits your own task. But those tools usually get thrown away after use, and the next person who may needs something similar start again from zero. So I thought maybe if result or process could shared by text or code and this can lead to kind of token sharing economy. Its name is Disposable and compared to \"Open source\", I named its philosophy to \"Open Disposable\". So the principle is \"Like open source, without the upkeep. Keep the know-how, rebuild the tool your way\". You can share anything you",
+      "title": "Canva adds an AI ‘off’ button",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered [&#8230;]",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 03:02:34 +0000",
-      "timestamp": 1795057354.0
+      "source": "The Verge AI",
+      "published": "2026-11-19T07:30:00-05:00",
+      "timestamp": 1795091400.0
     },
     {
-      "title": "Itsfree.ai – Every model you can use for free",
-      "link": "https://itsfree.ai/models/",
-      "summary": "",
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 02:58:29 +0000",
-      "timestamp": 1795057109.0
-    },
-    {
-      "title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
-      "link": "https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 02:32:01 +0000",
-      "timestamp": 1795055521.0
-    },
-    {
-      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 02:06:29 +0000",
-      "timestamp": 1795053989.0
-    },
-    {
-      "title": "AI will not make you rich (2025)",
-      "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 01:51:28 +0000",
-      "timestamp": 1795053088.0
-    },
-    {
-      "title": "AI in the Courtroom",
-      "link": "https://www.theexpertrecord.com/ai-in-court/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 01:22:24 +0000",
-      "timestamp": 1795051344.0
-    },
-    {
-      "title": "Becerra faces a $2B budget deficit as potential AI bust looms",
-      "link": "https://calmatters.org/politics/2026/11/california-budget-economic-outlook/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 01:14:30 +0000",
-      "timestamp": 1795050870.0
-    },
-    {
-      "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
-      "link": "https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 01:14:02 +0000",
-      "timestamp": 1795050842.0
-    },
-    {
-      "title": "AI-generated victim impact statements condemned by the Court of Appeal",
-      "link": "https://www.ukpolicelawblog.com/ai-generated-statements-condemned-by-the-court-of-appeal/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 01:03:00 +0000",
-      "timestamp": 1795050180.0
-    },
-    {
-      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 00:57:20 +0000",
-      "timestamp": 1795049840.0
-    },
-    {
-      "title": "AI cannot read between the lines",
-      "link": "https://ajaychavda.com/blog/ai-cannot-read-between-the-lines",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 00:52:21 +0000",
-      "timestamp": 1795049541.0
-    },
-    {
-      "title": "I Cloned Adobe with AI – Brandon Thomas, ArtCraft [video]",
-      "link": "https://www.youtube.com/watch?v=UCL4K36SHp0",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 00:51:20 +0000",
-      "timestamp": 1795049480.0
+      "source": "Wired AI",
+      "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "timestamp": 1795089600.0
     },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -120,42 +30,6 @@
       "timestamp": 1795048976.0
     },
     {
-      "title": "Show HN: I built a harness that turns floor plans into 360° tours using AI",
-      "link": "https://walkthisplan.com/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 00:32:32 +0000",
-      "timestamp": 1795048352.0
-    },
-    {
-      "title": "Running distributed ML and AI workloads with wasmCloud (2025)",
-      "link": "https://wasmcloud.com/blog/2025-01-15-running-distributed-ml-and-ai-workloads-with-wasmcloud/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 00:22:34 +0000",
-      "timestamp": 1795047754.0
-    },
-    {
-      "title": "New Study Shows How Young People Feel About AI Companions",
-      "link": "https://www.404media.co/gallup-study-friendship-ai-companions/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 23:58:57 +0000",
-      "timestamp": 1795046337.0
-    },
-    {
-      "title": "Show HN: Frontier Observatory – A visual timeline of what the AI labs ship",
-      "link": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
-      "summary": "Frontier labs ship a lot. This gives me a handle on things. Also nice view of what the labs are prioritising (if release/research output is any indication).. Made with GPT-6.2 Astra High. Initial prompt was a bit rambly, some refinement over time. It suggested 'scry' which I thought was a bad name so now its called Frontier Observatory, which is a tad less terrible. Prompt: You know what I'd like to build.. a visuliastion studio where I can monitor the pace of output across various groups/sub-groups etc from the two predominant frontier labs racing to AGI.. I think it would make for a fascinat",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 23:45:01 +0000",
-      "timestamp": 1795045501.0
-    },
-    {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
       "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
       "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
@@ -163,33 +37,6 @@
       "source": "TechCrunch AI",
       "published": "Wed, 18 Nov 2026 23:45:00 +0000",
       "timestamp": 1795045500.0
-    },
-    {
-      "title": "The public database of AI agent incidents",
-      "link": "https://www.experimentempire.com/agent-incident-register",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 23:42:00 +0000",
-      "timestamp": 1795045320.0
-    },
-    {
-      "title": "Btrfs to Deal with AI and Newbies Without Common Senses More Harm Than Good",
-      "link": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 23:34:44 +0000",
-      "timestamp": 1795044884.0
-    },
-    {
-      "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
-      "link": "https://news.ycombinator.com/item?id=50553802",
-      "summary": "Back in April, I built auto-arch-tournament (https://github.com/FeSens/auto-arch-tournament) to explore a question I’m still curious about: how well can different AI models improve a RISC-V CPU? I’ve been tracking the results on HWEBench(https://hwebench.com/v2). It’s fun to see OpenAI exploring a similar question in today’s chip design post(https://openai.com/index/advancing-chip-design-with-our-models/). If you’d like to try an experiment yourself, you can run the research loop from the repo.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 18 Nov 2026 23:26:30 +0000",
-      "timestamp": 1795044390.0
     },
     {
       "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
@@ -237,7 +84,7 @@
       "timestamp": 1795040183.0
     },
     {
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
       "image": null,
@@ -471,15 +318,6 @@
       "timestamp": 1795001400.0
     },
     {
-      "title": "Suno now lets you make AI videos for your AI music",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-18T06:16:53-05:00",
-      "timestamp": 1795000613.0
-    },
-    {
       "title": "Lovable Wants You to Vibe Code Your Dream Job",
       "link": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
       "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
@@ -523,15 +361,6 @@
       "source": "Wired AI",
       "published": "Tue, 17 Nov 2026 22:19:19 +0000",
       "timestamp": 1794953959.0
-    },
-    {
-      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-      "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "timestamp": 1794913200.0
     }
   ]
 }
