@@ -1,42 +1,204 @@
 {
-  "scraped_at": "2026-11-20T03:09:51.222295+00:00",
+  "scraped_at": "2026-11-20T11:31:47.387312+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Nobody is talking seriously about AI demand",
-      "link": "https://twitter.com/giovannicatt3/status/2094815425972539565",
+      "title": "How to tell if a Reddit post is AI: which signs got more common",
+      "link": "https://kissmypost.com/research/how-to-tell-if-a-reddit-post-is-ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 02:36:40 +0000",
-      "timestamp": 1795142200.0
+      "published": "Fri, 20 Nov 2026 11:03:05 +0000",
+      "timestamp": 1795172585.0
     },
     {
-      "title": "Dutch watchdog tells people not to buy AI smart glasses",
-      "link": "https://www.bbc.com/news/articles/ckq6eyrzrzy5o",
-      "summary": "",
+      "title": "Regular Tech Bros Are Worried About Honeypots",
+      "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+      "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
       "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 02:34:39 +0000",
-      "timestamp": 1795142079.0
+      "source": "Wired AI",
+      "published": "Fri, 20 Nov 2026 11:00:00 +0000",
+      "timestamp": 1795172400.0
     },
     {
-      "title": "Hyperscale. Play as a Frontier AI Lab and try cash out before society collapses",
-      "link": "https://hyperscale.serinstudios.com/",
+      "title": "The Use of AI-Based Tools to Find Bugs in Open Source Software",
+      "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 01:21:39 +0000",
-      "timestamp": 1795137699.0
+      "published": "Fri, 20 Nov 2026 10:59:27 +0000",
+      "timestamp": 1795172367.0
     },
     {
-      "title": "'Anthropic was supposed to save the AI trade. What went wrong?' – CNBC",
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+      "title": "Show HN: Interviewer assistant – AI open source",
+      "link": "https://github.com/blackarck/intaiassist",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 01:11:25 +0000",
-      "timestamp": 1795137085.0
+      "published": "Fri, 20 Nov 2026 10:51:21 +0000",
+      "timestamp": 1795171881.0
+    },
+    {
+      "title": "Thoughts from Before and After AI",
+      "link": "https://chevyclutchfoot.substack.com/p/thought-process-before-and-after",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 10:16:55 +0000",
+      "timestamp": 1795169815.0
+    },
+    {
+      "title": "Greece's PM Mitsotakis and Greek AI Founders [video]",
+      "link": "https://www.youtube.com/watch?v=Gis_2Y_pLOo",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 10:15:52 +0000",
+      "timestamp": 1795169752.0
+    },
+    {
+      "title": "AI Is Making China's Jobs Slump Worse",
+      "link": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 10:15:28 +0000",
+      "timestamp": 1795169728.0
+    },
+    {
+      "title": "Cool Flex AI Bro",
+      "link": "https://interconnected.org/home/2026/11/20/flex",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 10:10:39 +0000",
+      "timestamp": 1795169439.0
+    },
+    {
+      "title": "Google DeepMind AI predicts Hurricane Melissa path and strength",
+      "link": "https://hyper.ai/cn/stories/cd12451364b2d99638b382e350c3d12a",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 10:08:01 +0000",
+      "timestamp": 1795169281.0
+    },
+    {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "link": "https://architectlabs.com/blog/frostbite",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 10:01:41 +0000",
+      "timestamp": 1795168901.0
+    },
+    {
+      "title": "Show HN: NostrPulse – Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
+      "link": "https://github.com/PHONGUIT22/nostrpulse-full",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 10:01:27 +0000",
+      "timestamp": 1795168887.0
+    },
+    {
+      "title": "Anatomy of an AI-driven attack: What ARTEX looks like in action",
+      "link": "https://bitrise.io/artex-incident-report",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 09:51:05 +0000",
+      "timestamp": 1795168265.0
+    },
+    {
+      "title": "AI incidents of 2026: Rogue agents, stolen keys, and other familiar stories",
+      "link": "https://www.aikido.dev/blog/ai-incidents-root-causes-patterns",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 09:42:13 +0000",
+      "timestamp": 1795167733.0
+    },
+    {
+      "title": "Energy Wins Driving Optical Computing AI",
+      "link": "https://spectrum.ieee.org/optical-computing-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 09:41:46 +0000",
+      "timestamp": 1795167706.0
+    },
+    {
+      "title": "Maintainers don't need more AI bug reports. They need fixes",
+      "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 09:36:27 +0000",
+      "timestamp": 1795167387.0
+    },
+    {
+      "title": "Britain must not rely on foreign AI, says former military intelligence chief",
+      "link": "https://uk.news.yahoo.com/britain-must-not-rely-foreign-180000606.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 09:34:40 +0000",
+      "timestamp": 1795167280.0
+    },
+    {
+      "title": "Being a designer in an AI-forward team",
+      "link": "https://langfuse.com/blog/2026-11-19-comfortable-with-being-uncomfortable",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 09:17:02 +0000",
+      "timestamp": 1795166222.0
+    },
+    {
+      "title": "AI Can Draw Any Frame. Animation Is Not Its Strong Suit",
+      "link": "https://sbsgames.dev/blog/ai-sprite-animation",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 09:16:30 +0000",
+      "timestamp": 1795166190.0
+    },
+    {
+      "title": "Enemy AI: chasing a player without Navigation2D or A* pathfinding (2020)",
+      "link": "https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 08:31:12 +0000",
+      "timestamp": 1795163472.0
+    },
+    {
+      "title": "Show HN: Prove what your AI agent did – sign actions, verify in the browser",
+      "link": "https://agentproofchain.com/try/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 08:20:57 +0000",
+      "timestamp": 1795162857.0
+    },
+    {
+      "title": "What Shaped Anthropic CEO Dario Amodei's Thinking on AI",
+      "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 07:46:39 +0000",
+      "timestamp": 1795160799.0
+    },
+    {
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 20 Nov 2026 07:00:00 +0000",
+      "timestamp": 1795158000.0
     },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -48,15 +210,6 @@
       "timestamp": 1795136161.0
     },
     {
-      "title": "Show HN: Zeus – Claude Code for AI voice agents",
-      "link": "https://thunderphone.com/blog/introducing-zeus",
-      "summary": "Hi everyone, Alex here - I’m one of the founders of ThunderPhone. We’re excited to announce the launch of Zeus, a platform that makes AI phone calls actually work without extensive hand-tuning! You can see a head-to-head I made of the last version of ThunderPhone vs this one here: https://www.youtube.com/watch?v=YlkIc3L29lo A (somewhat long) summary: When we started building business phone agents in 2024, we kept running into technical problems that ruined calls, caused by the limits of existing architectures. The two biggest issues were that phone agents misheard callers, and disobeyed script",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 00:51:52 +0000",
-      "timestamp": 1795135912.0
-    },
-    {
       "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
       "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
       "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
@@ -66,114 +219,6 @@
       "timestamp": 1795135430.0
     },
     {
-      "title": "The Part About Machines (On AI Literary Scandals)",
-      "link": "https://thepointmag.com/examined-life/the-part-about-the-machines/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 00:22:46 +0000",
-      "timestamp": 1795134166.0
-    },
-    {
-      "title": "AI can be tricked to target civilians as military targets by preteding it's game",
-      "link": "https://www.vals.ai/blogs/autonomous-warfare",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 00:14:24 +0000",
-      "timestamp": 1795133664.0
-    },
-    {
-      "title": "EU targeted by cyber attack using AI: 'No one is immune'",
-      "link": "https://www.independent.co.uk/news/world/europe/eu-cyber-attack-artificial-intelligence-b3087999.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 23:41:30 +0000",
-      "timestamp": 1795131690.0
-    },
-    {
-      "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
-      "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 23:34:03 +0000",
-      "timestamp": 1795131243.0
-    },
-    {
-      "title": "Hakeem Jeffries Staffer Built an AI Program for Surveillance and Advice",
-      "link": "https://www.washingtonsun.com/congress/hakeem-jeffries-ai-caucus-pulse-office-policy",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 23:16:47 +0000",
-      "timestamp": 1795130207.0
-    },
-    {
-      "title": "Google Search homepage gets AI-heavy redesign with Gemini",
-      "link": "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 23:00:38 +0000",
-      "timestamp": 1795129238.0
-    },
-    {
-      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 22:56:59 +0000",
-      "timestamp": 1795129019.0
-    },
-    {
-      "title": "AI Agentic harness with explicit risk analysis",
-      "link": "https://github.com/AppliedIngenuity-ai/project-chaperone",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 22:55:05 +0000",
-      "timestamp": 1795128905.0
-    },
-    {
-      "title": "Show HN: Wellness Tracker for AI Usage",
-      "link": "https://chromewebstore.google.com/detail/prethink-ai/ekolohicgedlnehalkchpnbhpfmgnglk",
-      "summary": "Hello There, I built a small chrome extension to track my chat-based AI usage. I'm interested in understanding how I use AI conversationally, and how that affects my brain. AI as a means to efficiency is key in the modern world, but I don't believe that our brains are geared to process this level of information and authoritative posture over inconsistent technology, and so I just want to experiment. I would love some users or harsh feedback. Right now, we are not focusing on desktop tools, and it only works via browser -- No data tracked, no auth. Just a simple tracker. Let me know your though",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 22:54:59 +0000",
-      "timestamp": 1795128899.0
-    },
-    {
-      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies",
-      "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 22:52:56 +0000",
-      "timestamp": 1795128776.0
-    },
-    {
-      "title": "Wolf at the Door: Apple Rethinking Mac Permissions in the Age of AI",
-      "link": "https://macanorak.com/a-wolf-at-the-door-apple-is-rethinking-mac-permissions-for-the-age-of-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 22:51:10 +0000",
-      "timestamp": 1795128670.0
-    },
-    {
-      "title": "A New Era of Deterministic AI Begins: OLMapp Emerges from Stealth",
-      "link": "https://olmapp.ai/index.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 22:41:05 +0000",
-      "timestamp": 1795128065.0
-    },
-    {
       "title": "Apple is hiring engineers to build its own AI agent",
       "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
       "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
@@ -181,33 +226,6 @@
       "source": "The Verge AI",
       "published": "2026-11-19T17:31:41-05:00",
       "timestamp": 1795127501.0
-    },
-    {
-      "title": "C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Proof",
-      "link": "https://arxiv.org/abs/2611.18036",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 22:23:02 +0000",
-      "timestamp": 1795126982.0
-    },
-    {
-      "title": "A Novel AI-Native GPU Kernel Programming Language for Autonomous Kernel Tuning",
-      "link": "https://al.radbox.org/doi/10.1145/3828523.3857041",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 22:21:35 +0000",
-      "timestamp": 1795126895.0
-    },
-    {
-      "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 19 Nov 2026 22:08:22 +0000",
-      "timestamp": 1795126102.0
     },
     {
       "title": "A brief history of Nvidia’s recent stock fluctuations",
@@ -523,24 +541,6 @@
       "source": "Wired AI",
       "published": "Wed, 18 Nov 2026 17:33:07 +0000",
       "timestamp": 1795023187.0
-    },
-    {
-      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-      "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
-      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 18 Nov 2026 16:35:24 +0000",
-      "timestamp": 1795019724.0
-    },
-    {
-      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-      "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 18 Nov 2026 15:02:40 +0000",
-      "timestamp": 1795014160.0
     }
   ]
 }
