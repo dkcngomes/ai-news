@@ -1,24 +1,195 @@
 {
-  "scraped_at": "2026-11-20T20:11:44.382964+00:00",
+  "scraped_at": "2026-11-21T01:29:33.252872+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Show HN: ArkViz – AI generated software architecture diagrams",
-      "link": "https://arkviz.io",
-      "summary": "Hi HN, I’m Bryant, founder of ArkViz ( https://arkviz.io ). ArkViz is a product to automatically generate architecture diagrams from your codebase using AI. The vision behind ArkViz is to supercharge both AI agents and humans by providing AI agents deeper relational context using structured model diagram formats, and by providing humans with a rich visual representation you can interact with, with features like zooming, panning, search, and show composing files. In this new age of AI, you can generate a structured model diagram from your codebase in seconds, quicker and better than a human. No",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 19:58:11 +0000",
-      "timestamp": 1795204691.0
-    },
-    {
-      "title": "Global private investment in AI by geographic area, 2013-2025",
-      "link": "https://www.researchgate.net/figure/Global-private-investment-in-AI-by-geographic-area-2013-2025-Stanford-University_fig4_417017170",
+      "title": "AI R&D-relevant model capabilities are improving rapidly",
+      "link": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 19:56:03 +0000",
-      "timestamp": 1795204563.0
+      "published": "Sat, 21 Nov 2026 01:23:46 +0000",
+      "timestamp": 1795224226.0
+    },
+    {
+      "title": "Things I learned coding with AI for a year",
+      "link": "https://twnstr.com/blogs/software-development-post-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 01:18:18 +0000",
+      "timestamp": 1795223898.0
+    },
+    {
+      "title": "Detecting AI Agents in Next.js with Vouched KYA",
+      "link": "https://www.vouched.id/learn/blog/detecting-ai-agents-in-next.js-with-vouched-kya",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 01:10:10 +0000",
+      "timestamp": 1795223410.0
+    },
+    {
+      "title": "House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models",
+      "link": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 01:03:45 +0000",
+      "timestamp": 1795223025.0
+    },
+    {
+      "title": "A push for a treaty to not allow AI total control over nukes",
+      "link": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 00:31:13 +0000",
+      "timestamp": 1795221073.0
+    },
+    {
+      "title": "If AI found better drugs for every disease, what would it cost to prove it?",
+      "link": "https://cvigoe.github.io/website/ai-cures/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 00:29:57 +0000",
+      "timestamp": 1795220997.0
+    },
+    {
+      "title": "Is Ssense Pivoting to AI Slop?",
+      "link": "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 00:06:18 +0000",
+      "timestamp": 1795219578.0
+    },
+    {
+      "title": "AI models change their answers when they are monitored",
+      "link": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 23:33:44 +0000",
+      "timestamp": 1795217624.0
+    },
+    {
+      "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
+      "link": "https://saturnsql.com/context-layer",
+      "summary": "I've seen a rising demand for context when AI queries data from different places, so I built a way to provide it. You basically describe the tables, write free-form markdown notes and set definitions (e.g. the SQL for how to calculate an active user, so everyone in the company calculates it the same way). It support Apache Ossie and the context can live in your codebase or my service or both.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 23:31:55 +0000",
+      "timestamp": 1795217515.0
+    },
+    {
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+      "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Fri, 20 Nov 2026 23:24:02 +0000",
+      "timestamp": 1795217042.0
+    },
+    {
+      "title": "Tor Books Removes Book Cover Generated with AI",
+      "link": "https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 23:14:11 +0000",
+      "timestamp": 1795216451.0
+    },
+    {
+      "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
+      "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 22:55:03 +0000",
+      "timestamp": 1795215303.0
+    },
+    {
+      "title": "AI may have solved the most important problem in mathematics",
+      "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 22:46:59 +0000",
+      "timestamp": 1795214819.0
+    },
+    {
+      "title": "Libreboot Abandons Anti-AI Policy After One Month",
+      "link": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 22:42:14 +0000",
+      "timestamp": 1795214534.0
+    },
+    {
+      "title": "Written Agent Authorizations: 25 Instruments, Dissected for AI-Agent Design",
+      "link": "https://github.com/dazzaji/agent4whom/blob/main/25-legal-instruments.md",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 22:41:37 +0000",
+      "timestamp": 1795214497.0
+    },
+    {
+      "title": "Antseed – brings people's computers together to serve AI",
+      "link": "https://antseed.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 22:39:24 +0000",
+      "timestamp": 1795214364.0
+    },
+    {
+      "title": "Jsonbit – Reduce token usage when AI reads logs",
+      "link": "https://github.com/prathikmurugan/jsonbit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 22:08:26 +0000",
+      "timestamp": 1795212506.0
+    },
+    {
+      "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 21:53:39 +0000",
+      "timestamp": 1795211619.0
+    },
+    {
+      "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+      "link": "https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 21:50:43 +0000",
+      "timestamp": 1795211443.0
+    },
+    {
+      "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 21:49:42 +0000",
+      "timestamp": 1795211382.0
+    },
+    {
+      "title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
+      "link": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 20 Nov 2026 21:23:16 +0000",
+      "timestamp": 1795209796.0
     },
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -39,94 +210,13 @@
       "timestamp": 1795204341.0
     },
     {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 19:47:58 +0000",
-      "timestamp": 1795204078.0
-    },
-    {
-      "title": "Concepts to Know for Coding with AI Agents",
-      "link": "https://www.davidayo.com/blog/5-concepts-to-know-for-coding-with-ai-agents/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 19:47:00 +0000",
-      "timestamp": 1795204020.0
-    },
-    {
-      "title": "China Is Mass-Producing One-Person AI Companies",
-      "link": "https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 19:45:43 +0000",
-      "timestamp": 1795203943.0
-    },
-    {
-      "title": "The use of AI based tools to find bugs in Open Source software",
-      "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 19:39:15 +0000",
-      "timestamp": 1795203555.0
-    },
-    {
-      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Fri, 20 Nov 2026 19:32:08 +0000",
       "timestamp": 1795203128.0
-    },
-    {
-      "title": "Dutch data watchdog highlights safety issues with AI glasses",
-      "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 19:26:01 +0000",
-      "timestamp": 1795202761.0
-    },
-    {
-      "title": "Ask HN: How do you use AI for exploring new codebases",
-      "link": "https://news.ycombinator.com/item?id=50580331",
-      "summary": "Joined a new team recently. Big monolithic monorepo. A huge and complex system with lots of inputs, outputs, knobs and extensions. Looking for a good way to tame the chaos and the overwhelming amount of information as I still build and ship tasks on the various projects. What are your favourite prompts and skills that you use with the AI (which models btw?) to explore a new codebase? What artifacts or deliverables do you ask it to build for you to learn effectively?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 19:18:42 +0000",
-      "timestamp": 1795202322.0
-    },
-    {
-      "title": "Q4 2026 AI Patterns",
-      "link": "https://www.tbray.org/ongoing/When/202x/2026/11/18/AI-Patterns",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 19:13:12 +0000",
-      "timestamp": 1795201992.0
-    },
-    {
-      "title": "Isolated Linux workstations for autonomous AI agents",
-      "link": "https://github.com/Sanne/incus-spawn",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 19:04:23 +0000",
-      "timestamp": 1795201463.0
-    },
-    {
-      "title": "'Just Ridiculous': A Famed Philosopher Takes on AI Consciousness",
-      "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 18:58:52 +0000",
-      "timestamp": 1795201132.0
     },
     {
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -136,87 +226,6 @@
       "source": "The Verge AI",
       "published": "2026-11-20T13:50:19-05:00",
       "timestamp": 1795200619.0
-    },
-    {
-      "title": "Aura v0.2.0: Turning AI Anti-Fraud into a Deterministic Engine",
-      "link": "https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d?postPublishedType=repub",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 18:35:22 +0000",
-      "timestamp": 1795199722.0
-    },
-    {
-      "title": "Why software engineers will survive the AI era",
-      "link": "https://coryalthoff.com/essays/software-engineers-will-survive-the-ai-era",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 18:27:13 +0000",
-      "timestamp": 1795199233.0
-    },
-    {
-      "title": "Hockeysticky – For solo founders and small teams who can ship with AI",
-      "link": "https://hockeysticky.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 18:19:53 +0000",
-      "timestamp": 1795198793.0
-    },
-    {
-      "title": "Keeping AI Coding Agent Memory Relevant as Code Changes",
-      "link": "https://enola.tech/blog/agent-memory-needs-a-code-reference",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 18:18:13 +0000",
-      "timestamp": 1795198693.0
-    },
-    {
-      "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
-      "link": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 18:11:11 +0000",
-      "timestamp": 1795198271.0
-    },
-    {
-      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
-      "link": "https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 18:07:52 +0000",
-      "timestamp": 1795198072.0
-    },
-    {
-      "title": "Ask HN: Did you buy hardware for Local AI?",
-      "link": "https://news.ycombinator.com/item?id=50578897",
-      "summary": "With the release of some new platforms having 128GB or more of unified memories, I am wondering if I should spend some money on those. I am looking for feedback and stories of people who bought hardware for local-first AI. - Did you identify a sweet spot in model size, and therefore hardware sizing? - Did you continue to use cloud / frontier models?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 17:50:07 +0000",
-      "timestamp": 1795197007.0
-    },
-    {
-      "title": "Get rid of Siri AI's aggressive writing controls in Mail",
-      "link": "https://sixcolors.com/post/2026/11/get-rid-of-siri-ais-aggressive-writing-controls-in-mail/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 17:44:33 +0000",
-      "timestamp": 1795196673.0
-    },
-    {
-      "title": "Chinese attackers used AI agents to find and exploit a university zero-day",
-      "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 20 Nov 2026 17:42:55 +0000",
-      "timestamp": 1795196575.0
     },
     {
       "title": "Chips can survive the space environment — can their financing?",
@@ -532,15 +541,6 @@
       "source": "Wired AI",
       "published": "Wed, 18 Nov 2026 22:16:23 +0000",
       "timestamp": 1795040183.0
-    },
-    {
-      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-      "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 18 Nov 2026 22:00:00 +0000",
-      "timestamp": 1795039200.0
     }
   ]
 }
