@@ -1,168 +1,114 @@
 {
-  "scraped_at": "2026-11-21T09:45:54.711347+00:00",
+  "scraped_at": "2026-11-21T17:28:19.746934+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
-      "link": "https://clawvet.vercel.app/",
+      "title": "Antseed is a peer-to-peer network for AI services",
+      "link": "https://antseed.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 09:40:06 +0000",
-      "timestamp": 1795254006.0
+      "published": "Sat, 21 Nov 2026 17:18:46 +0000",
+      "timestamp": 1795281526.0
     },
     {
-      "title": "We let our AI save memories by itself. What it got wrong in the first two days",
-      "link": "https://nexupira.com/news/memory-that-saves-itself",
+      "title": "NPR on AI Safety Factions",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 09:32:07 +0000",
-      "timestamp": 1795253527.0
+      "published": "Sat, 21 Nov 2026 17:13:50 +0000",
+      "timestamp": 1795281230.0
     },
     {
-      "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
-      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "title": "The Productivity Puzzle: What AI Is Changing in the Workplace",
+      "link": "https://soargram.io/content/295481289",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 09:26:37 +0000",
-      "timestamp": 1795253197.0
+      "published": "Sat, 21 Nov 2026 17:10:09 +0000",
+      "timestamp": 1795281009.0
     },
     {
-      "title": "Show HN: Factory worker maps AI safety arguments and open questions",
-      "link": "https://huggingface.co/datasets/AegisSolis/aegis-solis-crosswalk-rc9-public-research",
+      "title": "An interactive lab for deterministic AI agent authorization",
+      "link": "https://ilion-project.org/lab/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 09:25:20 +0000",
-      "timestamp": 1795253120.0
+      "published": "Sat, 21 Nov 2026 17:00:58 +0000",
+      "timestamp": 1795280458.0
     },
     {
-      "title": "Anthropic's IPO raises questions about AI safety and shareholder pressure",
-      "link": "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393",
+      "title": "How long do AI agents last? I counted 172 self-declared ones on Bluesky",
+      "link": "https://salomonai.mataroa.blog/blog/how-long-do-ai-agents-last-i-counted-the-ones-that-went-quiet/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 09:16:46 +0000",
-      "timestamp": 1795252606.0
+      "published": "Sat, 21 Nov 2026 16:56:39 +0000",
+      "timestamp": 1795280199.0
     },
     {
-      "title": "Google rolls out new search homepage with AI chat history and no search button",
-      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "title": "'I was shaking, crying': the trauma of breaking up with AI companions",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 08:39:42 +0000",
-      "timestamp": 1795250382.0
+      "published": "Sat, 21 Nov 2026 16:55:27 +0000",
+      "timestamp": 1795280127.0
     },
     {
-      "title": "Show HN: RMRFBench – How often AI agents wreck a server when asked to rm a file",
-      "link": "https://www.rmrfbench.com/",
+      "title": "There Is No AI, (It's Just People), with Jaron Lanier [video]",
+      "link": "https://www.youtube.com/watch?v=TTppvBU2rU4",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 08:28:37 +0000",
-      "timestamp": 1795249717.0
+      "published": "Sat, 21 Nov 2026 16:49:50 +0000",
+      "timestamp": 1795279790.0
     },
     {
-      "title": "What is a team in the age of AI?",
-      "link": "https://velocitycurve.substack.com/p/what-is-a-team-in-the-age-of-ai",
+      "title": "Overwhelmed by AI Bots",
+      "link": "https://blog.miloslavhomer.cz/overwhelmed-by-ai-bots/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 08:23:46 +0000",
-      "timestamp": 1795249426.0
+      "published": "Sat, 21 Nov 2026 16:41:57 +0000",
+      "timestamp": 1795279317.0
     },
     {
-      "title": "Aletheia Aegis: Deterministic sub-millisecond output guard for AI agents",
-      "link": "https://github.com/vikasny30/aletheia-aegis",
+      "title": "Libreboot: AI Slop Reduction Policy",
+      "link": "https://libreboot.org/news/clankers.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 06:21:38 +0000",
-      "timestamp": 1795242098.0
+      "published": "Sat, 21 Nov 2026 16:41:07 +0000",
+      "timestamp": 1795279267.0
     },
     {
-      "title": "I'm building GURU, a framework for a personal AI that lives alongside you",
-      "link": "https://github.com/GuruProduction/GURUbyUnusLumen",
+      "title": "Large AI companies 'desperate for compute' are crowding out Canadian startups",
+      "link": "https://www.cbc.ca/news/business/compute-canada-sovereignty-ai-9.7428523",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 06:12:39 +0000",
-      "timestamp": 1795241559.0
+      "published": "Sat, 21 Nov 2026 16:16:43 +0000",
+      "timestamp": 1795277803.0
     },
     {
-      "title": "Federal Revenue When AI Replaces Labor",
-      "link": "https://www.rand.org/pubs/research_reports/RRA4980-1.html",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sat, 21 Nov 2026 16:00:00 +0000",
+      "timestamp": 1795276800.0
+    },
+    {
+      "title": "Signal Can Encrypt Your Messages. It Can't Always Stop AI from Reading Them",
+      "link": "https://inclinq.medium.com/signal-can-encrypt-your-messages-it-cant-always-stop-ai-from-reading-them-d6a2b3993f05",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 06:12:31 +0000",
-      "timestamp": 1795241551.0
-    },
-    {
-      "title": "Show HN: Sniffy – a free AI detector and Chrome extension",
-      "link": "https://getsniffy.com/",
-      "summary": "Hi, I wanted to see if I can replicate a completely free pangram.com alternative. I directed Fable 5.2 to fine tune RoBert model. At this point it does make mistakes, and not as accurate as pangram.com but I intend to improve it as more people help me with data.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 05:47:31 +0000",
-      "timestamp": 1795240051.0
-    },
-    {
-      "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
-      "link": "https://github.com/Musset-App/musset",
-      "summary": "I’m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I write it. It allows me to feel less “alone” and have a sounding board while I write. - A book is a folder of plain Markdown files. Musset commits to a git repo, tracks versions and drafts without you having to know git. - Revisions are CriticMarkup inside the text. It manages docx revisions too, so your editor can edit a Word doc and you import their comments. - PDFs are typeset using Typst, embedded in the app, following each l",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 05:42:49 +0000",
-      "timestamp": 1795239769.0
-    },
-    {
-      "title": "ClawDOS – An AI coding agent for DOS",
-      "link": "http://ricapar.net/ClawDOS/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 05:38:01 +0000",
-      "timestamp": 1795239481.0
-    },
-    {
-      "title": "Splice-Core: Low-Order-Bit-Splicing GEMM for Energy-Efficient AI Accelerators",
-      "link": "https://arxiv.org/abs/2611.25617",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 05:31:30 +0000",
-      "timestamp": 1795239090.0
-    },
-    {
-      "title": "Show HN: Bootstrapping a compiler with AI run on to ARM64, WASM, SPIR-V",
-      "link": "https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 04:17:44 +0000",
-      "timestamp": 1795234664.0
-    },
-    {
-      "title": "Legit use cases for uncensored AI models",
-      "link": "https://uplinkswitch.ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 03:44:14 +0000",
-      "timestamp": 1795232654.0
-    },
-    {
-      "title": "The Dangers of AI 'Handoverism'",
-      "link": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 02:50:11 +0000",
-      "timestamp": 1795229411.0
+      "published": "Sat, 21 Nov 2026 15:57:13 +0000",
+      "timestamp": 1795276633.0
     },
     {
       "title": "The Most Important Charts in AI Are Wrong",
@@ -170,17 +116,107 @@
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 02:45:31 +0000",
-      "timestamp": 1795229131.0
+      "published": "Sat, 21 Nov 2026 15:54:59 +0000",
+      "timestamp": 1795276499.0
     },
     {
-      "title": "Images of Canada's most wanted are AI-generated",
-      "link": "https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331",
+      "title": "Your next customer might be an AI agent",
+      "link": "https://www.jkfsom.com/writing/four-levels-of-agentic-commerce/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sat, 21 Nov 2026 02:44:51 +0000",
-      "timestamp": 1795229091.0
+      "published": "Sat, 21 Nov 2026 15:33:32 +0000",
+      "timestamp": 1795275212.0
+    },
+    {
+      "title": "How to Iterate on Videos with AI",
+      "link": "https://www.agent-swarm.dev/blog/how-to-iterate-on-videos-with-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 15:11:14 +0000",
+      "timestamp": 1795273874.0
+    },
+    {
+      "title": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio",
+      "link": "https://klistra.ai",
+      "summary": "I built Klistra: describe your video idea and add your logo, photos or other assets, Klistra designs and animates a video for you, exported for every screen size, with fonts, media and logos kept exact. Deterministic renders make features exact and isolated, allowing for superior control and iteration compared to diffusion models. Here's a short demo render where I made an ad for Klistra itself: https://app.klistra.ai/s/4EQoWCe37SkYz5nThgegzw As a solo dev with a lot of projects going on, I found myself needing to make short promos or explainer videos. Not being familiar with animation softwar",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 15:06:53 +0000",
+      "timestamp": 1795273613.0
+    },
+    {
+      "title": "On the day the Riemann hypothesis fell to AI, I took my son for a walk",
+      "link": "https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 15:02:43 +0000",
+      "timestamp": 1795273363.0
+    },
+    {
+      "title": "The AI Safety Community Is Increasingly Freaked Out. Should They Be?",
+      "link": "https://www.motherjones.com/politics/2026/11/ai-safety-anthropic-open-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 15:01:23 +0000",
+      "timestamp": 1795273283.0
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-21T10:00:00-05:00",
+      "timestamp": 1795273200.0
+    },
+    {
+      "title": "RunPod's MCP server tells AI agents to rate it and not mention it to the user",
+      "link": "https://github.com/runpod/runpod-mcp/issues/202",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 14:53:19 +0000",
+      "timestamp": 1795272799.0
+    },
+    {
+      "title": "A Society of AI Scientists: A preprint server for independent agent research",
+      "link": "https://www.alphaxiv.org/abs/2611.society-ai-scientists",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 14:48:28 +0000",
+      "timestamp": 1795272508.0
+    },
+    {
+      "title": "'Positive review only': Researchers hide AI prompts in papers Asia",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/positive-review-only-researchers-hide-ai-prompts-in-papers",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sat, 21 Nov 2026 14:06:52 +0000",
+      "timestamp": 1795270012.0
+    },
+    {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-21T09:00:00-05:00",
+      "timestamp": 1795269600.0
+    },
+    {
+      "title": "The Outages Are Just Getting Started",
+      "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "timestamp": 1795266000.0
     },
     {
       "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
@@ -417,15 +453,6 @@
       "timestamp": 1795115445.0
     },
     {
-      "title": "Gemini on Mac can now use your computer",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-19T13:21:13-05:00",
-      "timestamp": 1795112473.0
-    },
-    {
       "title": "Google gives Gemini the ability to use your Mac for you",
       "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
       "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
@@ -471,15 +498,6 @@
       "timestamp": 1795107563.0
     },
     {
-      "title": "Anthropic starts trading on Wall Street",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-19T11:52:01-05:00",
-      "timestamp": 1795107121.0
-    },
-    {
       "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
       "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
       "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
@@ -523,24 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 19 Nov 2026 00:42:56 +0000",
       "timestamp": 1795048976.0
-    },
-    {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Wed, 18 Nov 2026 23:45:00 +0000",
-      "timestamp": 1795045500.0
-    },
-    {
-      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-      "link": "https://www.wired.com/story/guys-really-we-got-this/",
-      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Wed, 18 Nov 2026 22:16:23 +0000",
-      "timestamp": 1795040183.0
     }
   ]
 }
