@@ -1,15 +1,213 @@
 {
-  "scraped_at": "2026-11-22T11:16:59.763530+00:00",
+  "scraped_at": "2026-11-22T18:32:44.513422+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Zero Trust for AI Agents",
-      "link": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
+      "title": "Why Building Trust Through Real People Stands the Test of Time in SEO/AI Search",
+      "link": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 11:12:52 +0000",
-      "timestamp": 1795345972.0
+      "published": "Sun, 22 Nov 2026 18:12:45 +0000",
+      "timestamp": 1795371165.0
+    },
+    {
+      "title": "A pay-once alternative to subscription AI photo trend apps",
+      "link": "https://flowood.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 18:09:38 +0000",
+      "timestamp": 1795370978.0
+    },
+    {
+      "title": "26 AI agents rewrote a backend from Django to Rust with no human merges",
+      "link": "https://airepublic.com/blog/pi-dash-self-evolution-experiment/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 18:09:02 +0000",
+      "timestamp": 1795370942.0
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Sun, 22 Nov 2026 18:08:43 +0000",
+      "timestamp": 1795370923.0
+    },
+    {
+      "title": "Harvard CS 2881R AI Safety",
+      "link": "https://boazbk.github.io/mltheoryseminar/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 18:01:54 +0000",
+      "timestamp": 1795370514.0
+    },
+    {
+      "title": "Solving a legendary math problem with AI be a candidate for a Fields Medal?",
+      "link": "https://news.ycombinator.com/item?id=50602128",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 17:59:16 +0000",
+      "timestamp": 1795370356.0
+    },
+    {
+      "title": "Domesticity and Danger: Harvard Law's \"Canine Framework\" for AI Liability",
+      "link": "https://news.harvard.edu/gazette/story/2026/07/is-that-bot-a-pomeranian-or-a-wolf-and-who-to-sue-when-it-bites/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 17:54:39 +0000",
+      "timestamp": 1795370079.0
+    },
+    {
+      "title": "AI Is Testing What Economists Know About Bubbles",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-20/is-ai-a-bubble-what-economists-know-about-market-bubbles",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 17:50:25 +0000",
+      "timestamp": 1795369825.0
+    },
+    {
+      "title": "WSJ, Streetwise: Has the AI Bubble Already Burst?",
+      "link": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 17:43:40 +0000",
+      "timestamp": 1795369420.0
+    },
+    {
+      "title": "Nyno 10 open-source release: Derisk AI. Separate Code from Configuration",
+      "link": "https://github.com/flowagi-eu/nyno",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 17:32:04 +0000",
+      "timestamp": 1795368724.0
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-22T12:25:20-05:00",
+      "timestamp": 1795368320.0
+    },
+    {
+      "title": "Ask HN: Could AI's RH proof have used human work found in its training data?",
+      "link": "https://news.ycombinator.com/item?id=50601701",
+      "summary": "When reading of third-party validations of AI's RH proof [0] that: > While still possible, the proof exploiting a bug is vanishingly small now. it makes me think we're realising in real-time that we're living through the most important time in human history. Moreso than during the invention of computers, the internet, or the wheel. Problem: many people worked on RH, and some would have stored their attempts at proofs in places like GitHub or google docs - places that may have been ended up in training datasets. Therefore, is it possible that Claude knew some significant parts of the proof (pot",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 17:20:18 +0000",
+      "timestamp": 1795368018.0
+    },
+    {
+      "title": "Inside an AI prophet's secretive visions for humanity's future",
+      "link": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 17:17:15 +0000",
+      "timestamp": 1795367835.0
+    },
+    {
+      "title": "Amazon nearing $7.5B deal to buy AI startup Decart: FT",
+      "link": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 16:59:28 +0000",
+      "timestamp": 1795366768.0
+    },
+    {
+      "title": "AI as a Cognitive Interface",
+      "link": "https://medium.com/@smoking2man/ai-as-a-cognitive-interface-f31ff100eb8f",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 16:54:29 +0000",
+      "timestamp": 1795366469.0
+    },
+    {
+      "title": "The EU Commission has been the victim of a cyberattack carried out using AI",
+      "link": "https://www.eunews.it/en/2026/11/19/the-eu-commission-has-been-the-victim-of-a-cyberattack-carried-out-using-ai/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 15:36:36 +0000",
+      "timestamp": 1795361796.0
+    },
+    {
+      "title": "AI's Hidden Weakness Is Surprisingly Easy to Exploit [video]",
+      "link": "https://www.youtube.com/watch?v=jp09C8ZI3o4",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 15:35:37 +0000",
+      "timestamp": 1795361737.0
+    },
+    {
+      "title": "Lead the AI Shift in Your Organization",
+      "link": "https://age-of-product.com/ai4agile-online-course-v4/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 15:23:27 +0000",
+      "timestamp": 1795361007.0
+    },
+    {
+      "title": "Bypassing ADB: 0.32ms Android UI trees and A* routing for AI agents (Rust/Kotlin",
+      "link": "https://github.com/V0val0x/DroidPath/blob/main/docs/benchmarks.md",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 15:19:19 +0000",
+      "timestamp": 1795360759.0
+    },
+    {
+      "title": "How do you check that an AI agent finished a task?",
+      "link": "https://medium.com/@csdn/two-days-at-the-top-soduwork-hits-no-1-1f32a3f89d85",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 15:14:42 +0000",
+      "timestamp": 1795360482.0
+    },
+    {
+      "title": "Local AI agents investigate an unknown machine attached to a serial port",
+      "link": "https://github.com/podstawek/explorer-of-serial",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 15:05:54 +0000",
+      "timestamp": 1795359954.0
+    },
+    {
+      "title": "AI as a Lifestyle Choice",
+      "link": "https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Sun, 22 Nov 2026 14:54:16 +0000",
+      "timestamp": 1795359256.0
+    },
+    {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-22T08:00:00-05:00",
+      "timestamp": 1795352400.0
     },
     {
       "title": "Banks Have Had It Up to Here With Your AI Agent",
@@ -19,177 +217,6 @@
       "source": "Wired AI",
       "published": "Sun, 22 Nov 2026 11:00:00 +0000",
       "timestamp": 1795345200.0
-    },
-    {
-      "title": "Confident predictions and verdicts about AI, and what happened next [video]",
-      "link": "https://www.youtube.com/watch?v=_Zzv15cwG1A",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 10:54:00 +0000",
-      "timestamp": 1795344840.0
-    },
-    {
-      "title": "AI People Are Extremely Rich",
-      "link": "https://www.noahpinion.blog/p/ai-people-are-very-very-very-very",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 10:35:49 +0000",
-      "timestamp": 1795343749.0
-    },
-    {
-      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "link": "https://simonwillison.net/2026/Nov/21/muru/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 09:57:01 +0000",
-      "timestamp": 1795341421.0
-    },
-    {
-      "title": "AI Slop as a Service: Why Microsoft Won But the Soviets Lost",
-      "link": "https://www.flyingpenguin.com/ai-slop-as-a-service-why-microsoft-won-but-the-soviets-lost/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 09:38:44 +0000",
-      "timestamp": 1795340324.0
-    },
-    {
-      "title": "TI Embedded AI",
-      "link": "https://www.ti.com/en-us/technologies/edge-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 09:09:15 +0000",
-      "timestamp": 1795338555.0
-    },
-    {
-      "title": "Is AI plagiarizing human research?",
-      "link": "https://twitter.com/Robert_E_Grant_/status/2124338413662847228",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 08:57:25 +0000",
-      "timestamp": 1795337845.0
-    },
-    {
-      "title": "The day the Riemann hypothesis fell to AI, I took my son for a walk",
-      "link": "https://www.theintrinsicperspective.com/p/on-the-day-the-riemann-hypothesis",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 08:50:56 +0000",
-      "timestamp": 1795337456.0
-    },
-    {
-      "title": "AI Riemann hypothesis proof is true, independent mathematicians confirm",
-      "link": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 08:22:17 +0000",
-      "timestamp": 1795335737.0
-    },
-    {
-      "title": "Show HN: Prompt Upgrader – a no-signup tool that scores and rewrites AI prompts",
-      "link": "https://madgpt1.github.io/prompt-upgrader/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 06:41:12 +0000",
-      "timestamp": 1795329672.0
-    },
-    {
-      "title": "AI resolved all null pointer dereferences in C",
-      "link": "https://kapteko.com/ai-resolved-all-null-pointer-dereferences/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 06:36:36 +0000",
-      "timestamp": 1795329396.0
-    },
-    {
-      "title": "AWS local emulator created by AI agents",
-      "link": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 05:57:03 +0000",
-      "timestamp": 1795327023.0
-    },
-    {
-      "title": "AI as a Lifestyle Choice",
-      "link": "https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 05:28:59 +0000",
-      "timestamp": 1795325339.0
-    },
-    {
-      "title": "Ask HN: What made you pivot your interest to the field of AI?",
-      "link": "https://news.ycombinator.com/item?id=50596564",
-      "summary": "If you work in the field of AI, machine learning what made you do so? What sparked your interest and which skills and resources helped you along the way?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 05:20:06 +0000",
-      "timestamp": 1795324806.0
-    },
-    {
-      "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 05:11:43 +0000",
-      "timestamp": 1795324303.0
-    },
-    {
-      "title": "AiDotNet – Comprehensive AI/ML Framework for .NET",
-      "link": "https://github.com/ooples/AiDotNet",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 05:07:05 +0000",
-      "timestamp": 1795324025.0
-    },
-    {
-      "title": "Show HN: Vouch – See what AI assistants say about your brand mid-conversation",
-      "link": "https://vouchgeo.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 04:24:22 +0000",
-      "timestamp": 1795321462.0
-    },
-    {
-      "title": "Ask HN: Are you prepared to rent intelligence from AI providers?",
-      "link": "https://news.ycombinator.com/item?id=50596041",
-      "summary": "Say the year 2035 arrives, and for the last ten years you have relied on an AI machine to do your thinking for you because you convinced yourself it made you more productive. As a consequence, your native intelligence has atrophied, and you now depend on this synthetic pseudo-brain the way a diabetic depends on insulin after the pancreas has failed. Then AI providers put a tollbooth on thinking. What happens if you can't afford to rent your thinking? You are left with the intelligence of a farm animal, because your natural brain has become useless.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 03:48:46 +0000",
-      "timestamp": 1795319326.0
-    },
-    {
-      "title": "Ask HN: Printing documents in the age of AI cyberattacks",
-      "link": "https://news.ycombinator.com/item?id=50596012",
-      "summary": "Do you make hard copies of important documents like investment account statements?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 03:41:48 +0000",
-      "timestamp": 1795318908.0
-    },
-    {
-      "title": "Can AI Make Its Own Manufacturing Decisions?",
-      "link": "https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 03:29:53 +0000",
-      "timestamp": 1795318193.0
     },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -417,15 +444,6 @@
       "timestamp": 1795127501.0
     },
     {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-19T16:59:35-05:00",
-      "timestamp": 1795125575.0
-    },
-    {
       "title": "Meta’s new Muse Charm device may cost $300",
       "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
       "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
@@ -460,15 +478,6 @@
       "source": "Wired AI",
       "published": "Thu, 19 Nov 2026 20:34:17 +0000",
       "timestamp": 1795120457.0
-    },
-    {
-      "title": "Meta’s Muse Charm might cost $300",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-19T15:22:17-05:00",
-      "timestamp": 1795119737.0
     },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -532,15 +541,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 19 Nov 2026 16:59:23 +0000",
       "timestamp": 1795107563.0
-    },
-    {
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 19 Nov 2026 16:19:41 +0000",
-      "timestamp": 1795105181.0
     }
   ]
 }
