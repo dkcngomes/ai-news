@@ -1,60 +1,186 @@
 {
-  "scraped_at": "2026-11-23T00:17:06.094232+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-23T07:46:38.626153+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
-      "link": "https://github.com/salespeak-ai/inbox-envoy",
-      "summary": "",
+      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+      "link": "https://www.kradle.ai?1",
+      "summary": "Hi HN - This is James and Kemal. In past lives we led Firebase and Tensorflow/JAX respectively. HN has been a particularly big part of my (James’) career and the trajectory I’ve taken would be meaningfully different without it. Thank you! Our team shipped a benchmark: KradleBench. We test AI in Minecraft Worlds. 1. The worlds are multi-agent. Humans and other AIs are in there too, often pursuing their own goals. Collaboration and conflict skills fall out of this property. 2. The world are dynamic. They constantly change, which means that agents need to react. “Capture the Flag” has a single wi",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Mon, 23 Nov 2026 00:00:35 +0000",
-      "timestamp": 1795392035.0
+      "published": "Mon, 23 Nov 2026 07:39:04 +0000",
+      "timestamp": 1795419544.0
     },
     {
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "link": "https://0rwx.com/",
+      "title": "Building Data Products with AI",
+      "link": "https://www.dataproduct.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 23:53:00 +0000",
-      "timestamp": 1795391580.0
+      "published": "Mon, 23 Nov 2026 07:35:16 +0000",
+      "timestamp": 1795419316.0
     },
     {
-      "title": "How to Implement AI with .NET",
-      "link": "https://belitsoft.com/net-development-services/pdf-to-video-ai-converter",
+      "title": "Surviving the AI Squeeze",
+      "link": "https://justin.searls.co/links/2026-11-20-surviving-the-ai-squeeze/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 23:39:10 +0000",
-      "timestamp": 1795390750.0
+      "published": "Mon, 23 Nov 2026 07:11:48 +0000",
+      "timestamp": 1795417908.0
     },
     {
-      "title": "The deadliest poison known to AI",
-      "link": "https://iocaine.madhouse-project.org/",
+      "title": "HAproxy lead: On the use of AI-based tools to find bugs in open source software",
+      "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 23:22:17 +0000",
-      "timestamp": 1795389737.0
+      "published": "Mon, 23 Nov 2026 07:10:09 +0000",
+      "timestamp": 1795417809.0
     },
     {
-      "title": "Snippai – AI snipping tool: screenshots to LaTeX, Markdown, answers",
-      "link": "https://github.com/xyTom/snippai",
+      "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
+      "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 23:06:12 +0000",
-      "timestamp": 1795388772.0
+      "published": "Mon, 23 Nov 2026 07:06:30 +0000",
+      "timestamp": 1795417590.0
     },
     {
-      "title": "Etsy sellers are closing their stores because of its the new AI training policy",
-      "link": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
+      "title": "Ask HN: How much did an 8 TB SSD hard cost before the AI race?",
+      "link": "https://news.ycombinator.com/item?id=50608154",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 23:04:42 +0000",
-      "timestamp": 1795388682.0
+      "published": "Mon, 23 Nov 2026 06:24:42 +0000",
+      "timestamp": 1795415082.0
+    },
+    {
+      "title": "Show HN: AI code review in VS Code with your own API key or Ollama, no account",
+      "link": "https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 06:24:04 +0000",
+      "timestamp": 1795415044.0
+    },
+    {
+      "title": "How the Y2Y2R AI music video was made, shot by shot, with the prompts",
+      "link": "https://directthemachine.com/Y2Y2R/index.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 06:20:31 +0000",
+      "timestamp": 1795414831.0
+    },
+    {
+      "title": "Show HN: Open-source MCP server to check AI search crawler readiness",
+      "link": "https://github.com/alicexixi85/geo-seo-mcp-pro",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 06:19:04 +0000",
+      "timestamp": 1795414744.0
+    },
+    {
+      "title": "AI with Human Guidance May Have Cracked Quantum Gravity",
+      "link": "https://atuf-explorer.toughlute16.chatgpt.site/lean.html",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 06:05:45 +0000",
+      "timestamp": 1795413945.0
+    },
+    {
+      "title": "Show HN: Kavach AI – Sub-16ms AST security gate with 0% false positives",
+      "link": "https://github.com/rajrajak99/kavach-ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 05:23:53 +0000",
+      "timestamp": 1795411433.0
+    },
+    {
+      "title": "Blocked for AI Reply",
+      "link": "https://blockedforaireply.levels.io",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 05:06:30 +0000",
+      "timestamp": 1795410390.0
+    },
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.com/news/articles/cqe9k09j9jv4o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 05:06:12 +0000",
+      "timestamp": 1795410372.0
+    },
+    {
+      "title": "Two missing pieces in the AI safety discussion",
+      "link": "https://www.noahpinion.blog/p/two-missing-pieces-in-the-ai-safety",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 04:40:15 +0000",
+      "timestamp": 1795408815.0
+    },
+    {
+      "title": "Motion Brew, 100 free animated React components your AI agent can install",
+      "link": "https://motion-brew.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 03:51:04 +0000",
+      "timestamp": 1795405864.0
+    },
+    {
+      "title": "CRS; Taxing AI: Alternative Approaches [pdf]",
+      "link": "https://www.everycrsreport.com/files/2026-11-18_R49520_89f5bd00177f068d1c0bfa42cffcb1cfe4d0f36c.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 03:33:52 +0000",
+      "timestamp": 1795404832.0
+    },
+    {
+      "title": "VistaPrint applies generative AI edits to prints without consent or warning",
+      "link": "https://bsky.app/profile/mostlybree.kitrocha.com/post/3n2vxgsvrhs2q",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 02:30:24 +0000",
+      "timestamp": 1795401024.0
+    },
+    {
+      "title": "It Will Never: confident predictions and verdicts about AI [video]",
+      "link": "https://www.youtube.com/watch?v=_Zzv15cwG1A",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 02:19:24 +0000",
+      "timestamp": 1795400364.0
+    },
+    {
+      "title": "Dario Amodei suggests video games could pacify the masses after AI takes jobs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Mon, 23 Nov 2026 01:45:50 +0000",
+      "timestamp": 1795398350.0
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "image": null,
+      "source": "TechCrunch AI",
+      "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+      "timestamp": 1795397153.0
     },
     {
       "title": "We haven’t seen the last of the major tech outages",
@@ -66,60 +192,6 @@
       "timestamp": 1795387682.0
     },
     {
-      "title": "Art, AI and the Problem That Never Was",
-      "link": "https://escandescenze.github.io/2026/11/22/proof-of-human-art.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 22:42:29 +0000",
-      "timestamp": 1795387349.0
-    },
-    {
-      "title": "Tactical Team Changes from AI",
-      "link": "https://staysaasy.com/tactical-team-changes-from-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 22:08:07 +0000",
-      "timestamp": 1795385287.0
-    },
-    {
-      "title": "GTA 6's fictional porn studio \"Booty Bang\" now has a real AI parody site",
-      "link": "https://bootybang.ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 22:06:58 +0000",
-      "timestamp": 1795385218.0
-    },
-    {
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme",
-      "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 21:45:01 +0000",
-      "timestamp": 1795383901.0
-    },
-    {
-      "title": "Free AI app that improves framerate of videos",
-      "link": "https://flowframes.app/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 21:19:32 +0000",
-      "timestamp": 1795382372.0
-    },
-    {
-      "title": "The MIT Processor Database brings decades of chip history into the AI era",
-      "link": "https://cap.csail.mit.edu/mit-processor-database-brings-decades-chip-history-ai-era",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 21:14:27 +0000",
-      "timestamp": 1795382067.0
-    },
-    {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
       "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
       "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
@@ -127,78 +199,6 @@
       "source": "TechCrunch AI",
       "published": "Sun, 22 Nov 2026 21:14:07 +0000",
       "timestamp": 1795382047.0
-    },
-    {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 21:01:16 +0000",
-      "timestamp": 1795381276.0
-    },
-    {
-      "title": "Many Etsy Sellers Close Up Shop over Site's New AI Policy",
-      "link": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 20:50:05 +0000",
-      "timestamp": 1795380605.0
-    },
-    {
-      "title": "A new tool from Pieter Levels lets anyone block 3,728 X accounts post AI replies",
-      "link": "https://www.indiehackers.com/post/launches/a-new-tool-from-pieter-levels-lets-anyone-block-3-728-x-accounts-he-says-post-ai-replies-8sgOq6YhwgahokzyznK6",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 20:46:37 +0000",
-      "timestamp": 1795380397.0
-    },
-    {
-      "title": "The Crazy AI People Are Directionally Correct",
-      "link": "https://www.conspicuouscognition.com/p/the-crazy-ai-people-are-directionally",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 20:40:19 +0000",
-      "timestamp": 1795380019.0
-    },
-    {
-      "title": "Free FLEY AI-Voice AI Assistant",
-      "link": "https://news.ycombinator.com/item?id=50603477",
-      "summary": "It talks with you and controls your computer and phone: opens sites and apps, creates files, presentations and code, works with the printer, shuts down and boots the PC. One phrase and it is done. Site Download https://fleyai.base44.app/ Github(Windows) https://github.com/AnonimusShamshiAlex/FLEYAI Github(Linux) https://github.com/AnonimusShamshiAlex/FLEYAILinux Github(Android) https://github.com/AnonimusShamshiAlex/FLEYAI-ANDROID FLEY Glasses 1.0 is a smart glasses project featuring an integrated AI assistant powered by an ESP32-S3 microcontroller (in the style of E.D.I.T.H.). The device reco",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 20:17:01 +0000",
-      "timestamp": 1795378621.0
-    },
-    {
-      "title": "AI Rebounding: Why Companies Are Rehiring the Workers They Cut",
-      "link": "https://smarterarticles.co.uk/ai-rebounding-why-companies-are-rehiring-the-workers-they-cut",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 19:50:44 +0000",
-      "timestamp": 1795377044.0
-    },
-    {
-      "title": "What Happened in Fall 2026: AI and P vs. NP",
-      "link": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 19:50:36 +0000",
-      "timestamp": 1795377036.0
-    },
-    {
-      "title": "AI Privacy Cloak",
-      "link": "https://github.com/miloshke/ai-privacy-cloak",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Sun, 22 Nov 2026 19:50:15 +0000",
-      "timestamp": 1795377015.0
     },
     {
       "title": "Why data centers are at the center of the Big Tech backlash",
@@ -523,15 +523,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 19 Nov 2026 17:38:40 +0000",
       "timestamp": 1795109920.0
-    },
-    {
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "image": null,
-      "source": "TechCrunch AI",
-      "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "timestamp": 1795107600.0
     },
     {
       "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
