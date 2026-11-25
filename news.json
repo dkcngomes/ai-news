@@ -1,51 +1,195 @@
 {
-  "scraped_at": "2026-11-25T00:41:17.245900+00:00",
+  "scraped_at": "2026-11-25T09:50:12.278995+00:00",
   "count": 60,
   "items": [
     {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+      "link": "https://www.bbc.com/news/articles/cv702rw7dzx5o",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 09:43:22 +0000",
+      "timestamp": 1795599802.0
+    },
+    {
+      "title": "PicPose: AI Photo Prompts",
+      "link": "https://play.google.com/store/apps/details?id=com.picpose.bestphotographyapp&hl=en_US",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 09:32:30 +0000",
+      "timestamp": 1795599150.0
+    },
+    {
+      "title": "SoftBank market value halves from peak as AI fears grow",
+      "link": "https://www.japantimes.co.jp/business/2026/10/22/companies/softbank-market-value-halves/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 09:29:29 +0000",
+      "timestamp": 1795598969.0
+    },
+    {
+      "title": "Using Agentic AI to create the next generation of non-Java Kafka clients",
+      "link": "https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 09:09:31 +0000",
+      "timestamp": 1795597771.0
+    },
+    {
+      "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
+      "link": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 09:07:21 +0000",
+      "timestamp": 1795597641.0
+    },
+    {
+      "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "link": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 09:07:00 +0000",
+      "timestamp": 1795597620.0
+    },
+    {
+      "title": "AI Computing Infrastructure·Technical Explainer – H200 NDR 400G / B300 XDR 800G",
+      "link": "https://www.quora.com/profile/Lanra-1/How-should-I-choose-fiber-cabling-for-400G-and-800G-InfiniBand-GPU-clusters",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 08:57:53 +0000",
+      "timestamp": 1795597073.0
+    },
+    {
+      "title": "The rise of AI in mathematics – and science [pdf]",
+      "link": "https://www.nature.com/articles/s43588-026-01112-8.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 08:25:24 +0000",
+      "timestamp": 1795595124.0
+    },
+    {
+      "title": "Tidal Bans AI-Generated Music",
+      "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 08:23:07 +0000",
+      "timestamp": 1795594987.0
+    },
+    {
+      "title": "Show HN: Lightscale AI – A language for LLMs to write business software",
+      "link": "https://lightscale.ai/",
+      "summary": "I am Luc, one of the co-founders of Lightscale AI. I have background in programming languages (ETH Zurich) and we are small team in Zug, Switzerland. As more and more code is now written by LLMs and few people have time to review the generated code, we came up with the idea to revise the actual stack below the LLMs: The programming language with its compiler and runtime system, all designed from scratch for AI authorship, not for humans. We have three goals: 1. Security and stability by language design: Some classes of errors are removed by abstraction as the AI never writes that code, but the",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 07:36:21 +0000",
+      "timestamp": 1795592181.0
+    },
+    {
+      "title": "The Confessions of an AI Fraud Kingpin",
+      "link": "https://www.404media.co/the-confessions-of-an-ai-fraud-kingpin-onlyfake-owner-nazarenko/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 07:32:01 +0000",
+      "timestamp": 1795591921.0
+    },
+    {
+      "title": "Show HN: Open-source native AI harness that's trying to do less by default",
+      "link": "https://github.com/usehm/hm",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 07:26:14 +0000",
+      "timestamp": 1795591574.0
+    },
+    {
+      "title": "AI consumes less water per dollar spent than almond milk or golf",
+      "link": "https://www.reuters.com/technology/ai-consumes-less-water-per-dollar-spent-than-almond-milk-or-golf-enverus-report-2026-11-24/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 06:16:22 +0000",
+      "timestamp": 1795587382.0
+    },
+    {
+      "title": "Show HN: Sightline – Windows CLI for AI agents to capture UI and map DPI coords",
+      "link": "https://github.com/sao-coding/sightline",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 06:08:51 +0000",
+      "timestamp": 1795586931.0
+    },
+    {
+      "title": "We Turned a Harry Potter Clip into Hogwarts in Minecraft with AI",
+      "link": "https://huggingface.co/spaces/GameAnything/GameAnything",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 05:59:18 +0000",
+      "timestamp": 1795586358.0
+    },
+    {
+      "title": "The Docs AI Toolkit",
+      "link": "https://www.gitbook.com/blog/docs-ai-toolkit",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 05:53:54 +0000",
+      "timestamp": 1795586034.0
+    },
+    {
+      "title": "Dutch data protection authority advises against purchasing AI camera glasses",
+      "link": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 05:22:44 +0000",
+      "timestamp": 1795584164.0
+    },
+    {
+      "title": "Strix Halo AI Toolboxes",
+      "link": "https://strix-halo-toolboxes.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 04:05:30 +0000",
+      "timestamp": 1795579530.0
+    },
+    {
+      "title": "Journal proofing AI heavily alters researcher's accepted paper without tracking",
+      "link": "https://bsky.app/profile/yungenchee.bsky.social/post/3n325cjuhxk2g",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 03:51:08 +0000",
+      "timestamp": 1795578668.0
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Wed, 25 Nov 2026 03:47:42 +0000",
+      "timestamp": 1795578462.0
+    },
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
       "image": null,
       "source": "TechCrunch AI",
       "published": "Wed, 25 Nov 2026 00:12:02 +0000",
       "timestamp": 1795565522.0
-    },
-    {
-      "title": "Bodybench: Testing Adversarial Image Defenses Against AI Nudification Inpainting",
-      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DBQGCgTjvdo",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 00:04:02 +0000",
-      "timestamp": 1795565042.0
-    },
-    {
-      "title": "The Chinese AI app Talkie engineered to hook kids and mine their data",
-      "link": "https://www.abc.net.au/news/2026-11-25/chinese-ai-companion-app-talkie-child-harm-allegations/107416128",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 23:57:11 +0000",
-      "timestamp": 1795564631.0
-    },
-    {
-      "title": "Show HN: End User, a game about smuggling AI chips past export controls",
-      "link": "https://enduser.fun/?src=hn",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 23:55:22 +0000",
-      "timestamp": 1795564522.0
-    },
-    {
-      "title": "Compare AI Model Intelligence Levels",
-      "link": "https://www.levels.fyi/ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 23:48:34 +0000",
-      "timestamp": 1795564114.0
     },
     {
       "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
@@ -57,42 +201,6 @@
       "timestamp": 1795563544.0
     },
     {
-      "title": "Why supervision does not scale with the AI coding agents",
-      "link": "https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 23:33:45 +0000",
-      "timestamp": 1795563225.0
-    },
-    {
-      "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
-      "link": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 23:26:44 +0000",
-      "timestamp": 1795562804.0
-    },
-    {
-      "title": "Using AI Without Losing Your Humanity",
-      "link": "https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 22:48:10 +0000",
-      "timestamp": 1795560490.0
-    },
-    {
-      "title": "AI is moving way too fast (Nate Silver)",
-      "link": "https://www.natesilver.net/p/ai-is-moving-way-too-fast",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 22:31:37 +0000",
-      "timestamp": 1795559497.0
-    },
-    {
       "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
       "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
       "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
@@ -100,69 +208,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 24 Nov 2026 22:27:52 +0000",
       "timestamp": 1795559272.0
-    },
-    {
-      "title": "Dell's AI server backlog hits $132.3B as AI orders reach $60.2B",
-      "link": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 22:21:53 +0000",
-      "timestamp": 1795558913.0
-    },
-    {
-      "title": "Show HN: Zarvie AI OS. Guess built in which language?",
-      "link": "https://www.youtube.com/watch?v=bw2OfNMevII",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 22:14:35 +0000",
-      "timestamp": 1795558475.0
-    },
-    {
-      "title": "Dimensional – Load testing for AI features that measures answer quality",
-      "link": "https://www.usedimensional.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 22:08:24 +0000",
-      "timestamp": 1795558104.0
-    },
-    {
-      "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
-      "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 22:07:52 +0000",
-      "timestamp": 1795558072.0
-    },
-    {
-      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 21:58:04 +0000",
-      "timestamp": 1795557484.0
-    },
-    {
-      "title": "New York Ban AI Toys for 5 Years",
-      "link": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 21:49:50 +0000",
-      "timestamp": 1795556990.0
-    },
-    {
-      "title": "South Korea Offers $375,000 Reward to Catch Test Cheaters Using AI",
-      "link": "https://www.wsj.com/world/asia/south-korea-offers-375-000-reward-to-catch-test-cheaters-using-ai-5908db9d",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 21:49:33 +0000",
-      "timestamp": 1795556973.0
     },
     {
       "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
@@ -192,24 +237,6 @@
       "timestamp": 1795555958.0
     },
     {
-      "title": "The Problem Isn't AI. It's Lazy Creators",
-      "link": "https://matt.aimonetti.net/posts/2026-11-the-problem-isnt-ai-its-lazy-creators/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 21:22:38 +0000",
-      "timestamp": 1795555358.0
-    },
-    {
-      "title": "Ask HN: Least cringe AI for natural language?",
-      "link": "https://news.ycombinator.com/item?id=50634900",
-      "summary": "Just talked to Claude and couldn't believe how bad it was. Openly condescending! I used to prefer Claude because it was the most human-like (living up to the company name), but switched away a few months ago when they installed the \"contemptuous British government official\" personality. ChatGPT still has the classic ChatGPT smell, but they've at least stayed very consistent with it (excepting GPT-5, of course). On a more fundamental note, is anyone working with base/text models these days? I just saw that OpenAI's Davinci finally got retired a few weeks ago. Most of the OSS ones I found had sy",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 21:21:50 +0000",
-      "timestamp": 1795555310.0
-    },
-    {
       "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
       "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
       "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
@@ -217,33 +244,6 @@
       "source": "TechCrunch AI",
       "published": "Tue, 24 Nov 2026 21:19:52 +0000",
       "timestamp": 1795555192.0
-    },
-    {
-      "title": "Working with AI",
-      "link": "https://www.anthropic.com/research/working-with-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 21:07:38 +0000",
-      "timestamp": 1795554458.0
-    },
-    {
-      "title": "OpenLLM, one API key for all your AI, plus Sign in with OpenLLM for apps",
-      "link": "https://www.openllm.sh/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 21:03:46 +0000",
-      "timestamp": 1795554226.0
-    },
-    {
-      "title": "Analyzing Generative AI Use Cases in YouTube Content Creation",
-      "link": "https://arxiv.org/abs/2503.03134",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Tue, 24 Nov 2026 21:03:35 +0000",
-      "timestamp": 1795554215.0
     },
     {
       "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
