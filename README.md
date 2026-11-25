@@ -73,3 +73,6 @@ is no longer used for hosting; it's kept for local API-style previews.
 - Hourly schedule = ~1,440 Actions minutes/month, well inside the free
   tier (2,000 min/month private / unlimited public repos).
 - Feed data is public news — fine for public hosting.
+
+
+LIVE URL - https://dkcngomes.github.io/ai-news/
