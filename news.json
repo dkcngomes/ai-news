@@ -1,123 +1,195 @@
 {
-  "scraped_at": "2026-11-26T02:49:50.030211+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-26T12:25:53.626037+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "HeyOrbo – AI Powered Notch on Desktop",
-      "link": "https://heyorbo.com",
+      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development",
+      "link": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 02:28:45 +0000",
-      "timestamp": 1795660125.0
+      "published": "Thu, 26 Nov 2026 12:09:29 +0000",
+      "timestamp": 1795694969.0
     },
     {
-      "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
-      "link": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
+      "title": "Dr. Israel Alguindigue joins olmapp.ai advisory board",
+      "link": "https://olmapp.ai/team.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 02:28:06 +0000",
-      "timestamp": 1795660086.0
+      "published": "Thu, 26 Nov 2026 11:53:22 +0000",
+      "timestamp": 1795694002.0
     },
     {
-      "title": "Exhibit A with AI: Don't Skip or Write \"None.\"",
-      "link": "https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write",
+      "title": "Show HN: Workbench for making CAD parts with Claude/AI coding agent",
+      "link": "https://github.com/luisg0nc/torno",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 02:25:23 +0000",
-      "timestamp": 1795659923.0
+      "published": "Thu, 26 Nov 2026 11:10:12 +0000",
+      "timestamp": 1795691412.0
     },
     {
-      "title": "The State of Agentic AI: Shit with Good Formatting",
-      "link": "https://github.com/kbr-/shit-with-good-formatting",
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+      "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+      "image": null,
+      "source": "Wired AI",
+      "published": "Thu, 26 Nov 2026 10:51:27 +0000",
+      "timestamp": 1795690287.0
+    },
+    {
+      "title": "Show HN: Memora – self-hosted, file-first personal AI assistant",
+      "link": "https://github.com/lian84/memora",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 01:44:39 +0000",
-      "timestamp": 1795657479.0
+      "published": "Thu, 26 Nov 2026 10:31:06 +0000",
+      "timestamp": 1795689066.0
     },
     {
-      "title": "Show HN: A daily word puzzle where an AI gives the clue and you guess",
-      "link": "https://wordspies.com/daily",
-      "summary": "Each day, an AI writes one clue for several words on a 5x5 board, and you pick which ones it meant. Afterwards, you see how Claude Haiku and GPT Luna would've done on the same board. Free, no sign-up to play.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 01:42:07 +0000",
-      "timestamp": 1795657327.0
-    },
-    {
-      "title": "M Science – AI-Ready Market Intelligence",
-      "link": "https://mscience.com/",
+      "title": "AI Has Changed VulnCheck's Exploit Delivery",
+      "link": "https://www.vulncheck.com/blog/ai-has-changed-vulncheck",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 01:22:28 +0000",
-      "timestamp": 1795656148.0
+      "published": "Thu, 26 Nov 2026 10:02:51 +0000",
+      "timestamp": 1795687371.0
     },
     {
-      "title": "Can AI break public key cryptography before Quantum Computers?",
-      "link": "https://www.youtube.com/watch?v=ENhHv_VCDL0",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - [&#8230;]",
+      "image": null,
+      "source": "The Verge AI",
+      "published": "2026-11-26T04:54:40-05:00",
+      "timestamp": 1795686880.0
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 01:12:13 +0000",
-      "timestamp": 1795655533.0
+      "published": "Thu, 26 Nov 2026 09:44:23 +0000",
+      "timestamp": 1795686263.0
     },
     {
-      "title": "New research suggests AI bubble bursting and to expect major market collapse",
-      "link": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "title": "On trusting AI decisions without understanding them",
+      "link": "https://michelenasti.com/2026/confusion-and-rejection-about-ai/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 00:38:30 +0000",
-      "timestamp": 1795653510.0
+      "published": "Thu, 26 Nov 2026 08:41:38 +0000",
+      "timestamp": 1795682498.0
     },
     {
-      "title": "Ask HN: Did Aaron Swartz make modern AI possible?",
-      "link": "https://news.ycombinator.com/item?id=50649707",
-      "summary": "Did the backlash against Aaron Swartz's prosecution following his death reduce the appetite for criminal prosecution in cases involving unauthorized copying of digital information? If so, did this make AI companies more willing to take the legal risk of acquiring copyrighted material without permission for training purposes?",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 00:27:30 +0000",
-      "timestamp": 1795652850.0
-    },
-    {
-      "title": "The AI Layoff Alibi: Capex Cannibalism and the White-Collar Exodus",
-      "link": "https://2tinteractive.com/watch/episodes/5717/",
+      "title": "I built an Android app to run GGUF AI models offline on your phone",
+      "link": "https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&hl=en_US",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 23:44:08 +0000",
-      "timestamp": 1795650248.0
+      "published": "Thu, 26 Nov 2026 08:05:39 +0000",
+      "timestamp": 1795680339.0
     },
     {
-      "title": "Ask HN: Are you polite to AI? Why or why not?",
-      "link": "https://news.ycombinator.com/item?id=50649186",
-      "summary": "I'm often polite to AI, I find myself saying \"please\" and so on. I don't know if that affects its results significantly, but that's not why I do it. I think it's more that it's ingrained in me to be polite in conversation, especially when my interlocutor is as unhesitatingly polite as AI tends to be.",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 23:28:26 +0000",
-      "timestamp": 1795649306.0
-    },
-    {
-      "title": "Cloudflare AI Search for Agents",
-      "link": "https://blog.cloudflare.com/search-for-agents/",
+      "title": "W much of your job AI does – 800 careers, Anthropic data",
+      "link": "https://futuremajor.com/en/ai-map",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 23:25:46 +0000",
-      "timestamp": 1795649146.0
+      "published": "Thu, 26 Nov 2026 07:59:30 +0000",
+      "timestamp": 1795679970.0
     },
     {
-      "title": "RL Infrastructure at Microsoft AI",
-      "link": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
+      "title": "Phison shows SSD design with NPU and 64GB of memory that runs AI on its data",
+      "link": "https://www.techspot.com/news/114653-phison-shows-ssd-design-npu-64gb-memory-runs.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 23:14:36 +0000",
-      "timestamp": 1795648476.0
+      "published": "Thu, 26 Nov 2026 07:58:49 +0000",
+      "timestamp": 1795679929.0
+    },
+    {
+      "title": "AI-Assisted Programming and Labor Demand",
+      "link": "https://arxiv.org/abs/2611.31083",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 07:21:35 +0000",
+      "timestamp": 1795677695.0
+    },
+    {
+      "title": "When AI makes your advantage abundant, where does the next edge lie?",
+      "link": "https://enterpriseai.economictimes.indiatimes.com/news/industry/when-ai-makes-your-advantage-abundant-where-does-the-next-edge-lie/136159092",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 07:20:38 +0000",
+      "timestamp": 1795677638.0
+    },
+    {
+      "title": "AI Keeps Asking If It's Conscious [video]",
+      "link": "https://www.youtube.com/watch?v=ghxoAM5io18",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 06:49:31 +0000",
+      "timestamp": 1795675771.0
+    },
+    {
+      "title": "Audi integrates new app with AI assistant with Cerence AI and Microsoft",
+      "link": "https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 06:34:31 +0000",
+      "timestamp": 1795674871.0
+    },
+    {
+      "title": "AI Is Supercharging Your Top Students and Probably Harming the Rest",
+      "link": "https://www.edutopia.org/article/does-ai-help-students-learn/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 05:58:37 +0000",
+      "timestamp": 1795672717.0
+    },
+    {
+      "title": "How can people make money as AI replaces intellectual jobs?",
+      "link": "https://news.ycombinator.com/item?id=50651911",
+      "summary": "As AI automates more knowledge work, what practical ways are there to earn a living through this transition?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 05:46:33 +0000",
+      "timestamp": 1795671993.0
+    },
+    {
+      "title": "Precisely.ai Catalog – AI Studio Catalog of App, Agent, Skill and Server",
+      "link": "https://precisely.ai/explore",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 05:09:51 +0000",
+      "timestamp": 1795669791.0
+    },
+    {
+      "title": "I Learned to Stop Worrying and Love the AI",
+      "link": "https://news.ycombinator.com/item?id=50651635",
+      "summary": "A few years ago talking heads and AM radio personalities went cookoo over AI. The warnings were replete with assertations of total destruction. I blew them off as doomsdayesque viewer/listener headline/listener bastards that saw dollar signs in words. Assuredly, they completely misunderstood the technology and the intricacies of how AI functions and what it was capable of. They read enough science fiction to regurgitate what sounded like knowledge of the future. Interestingly, they were largely right in the end. The tech has evolved fantastically quick. The wildest scenarios preposed from prev",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 05:01:25 +0000",
+      "timestamp": 1795669285.0
+    },
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 04:46:50 +0000",
+      "timestamp": 1795668410.0
     },
     {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -129,60 +201,6 @@
       "timestamp": 1795646672.0
     },
     {
-      "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
-      "link": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 22:41:09 +0000",
-      "timestamp": 1795646469.0
-    },
-    {
-      "title": "Etsy clarifies AI terms after seller backlash",
-      "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 22:33:06 +0000",
-      "timestamp": 1795645986.0
-    },
-    {
-      "title": "Anna Groza and Bruce Dang – 0-Click Remote Exploits in an AI World [video]",
-      "link": "https://www.youtube.com/watch?v=11EoBiBh5QY",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 22:16:36 +0000",
-      "timestamp": 1795644996.0
-    },
-    {
-      "title": "Load balancing across AI subscriptions",
-      "link": "https://news.ycombinator.com/item?id=50648330",
-      "summary": "Manually swapping among agents is a headache so I built this project to connect claude/antigravity/codex/grok agents together. Hope it helps! https://github.com/kevin1chun/schmear",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 22:12:37 +0000",
-      "timestamp": 1795644757.0
-    },
-    {
-      "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI",
-      "link": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 22:10:53 +0000",
-      "timestamp": 1795644653.0
-    },
-    {
-      "title": "Show HN: Anvil has won pricing among AI web builders plan starting at $5",
-      "link": "https://www.tryanvil.dev/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 21:57:47 +0000",
-      "timestamp": 1795643867.0
-    },
-    {
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
       "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
       "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#8230;]",
@@ -190,15 +208,6 @@
       "source": "The Verge AI",
       "published": "2026-11-25T16:51:26-05:00",
       "timestamp": 1795643486.0
-    },
-    {
-      "title": "SimpleLLMChat – An AI Agent/Chat Harness for Windows XP",
-      "link": "https://github.com/randomNinja64/SimpleLLMChat",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Wed, 25 Nov 2026 21:18:47 +0000",
-      "timestamp": 1795641527.0
     },
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -471,15 +480,6 @@
       "timestamp": 1795536600.0
     },
     {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh [&#8230;]",
-      "image": null,
-      "source": "The Verge AI",
-      "published": "2026-11-24T11:09:23-05:00",
-      "timestamp": 1795536563.0
-    },
-    {
       "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
       "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
       "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
@@ -532,15 +532,6 @@
       "source": "Wired AI",
       "published": "Mon, 23 Nov 2026 13:11:00 +0000",
       "timestamp": 1795439460.0
-    },
-    {
-      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-      "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-      "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
-      "image": null,
-      "source": "Wired AI",
-      "published": "Mon, 23 Nov 2026 12:00:00 +0000",
-      "timestamp": 1795435200.0
     }
   ]
 }
