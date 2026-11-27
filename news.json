@@ -1,7 +1,178 @@
 {
-  "scraped_at": "2026-11-26T22:19:18.513400+00:00",
+  "scraped_at": "2026-11-27T05:00:58.339808+00:00",
   "count": 60,
   "items": [
+    {
+      "title": "Show HN: AshuTeacher – Free AI tutor, voice blackboard and thesis studio",
+      "link": "https://ashuteacher.vercel.app",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 04:10:12 +0000",
+      "timestamp": 1795752612.0
+    },
+    {
+      "title": "Doctors, beware: AI threatens to weaken your relationships with patients",
+      "link": "https://www.aamc.org/news/doctors-beware-ai-threatens-weaken-your-relationships-patients",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 03:59:38 +0000",
+      "timestamp": 1795751978.0
+    },
+    {
+      "title": "Beating Stockfish 18 in Zero- Dependency Rust with AI [pdf]",
+      "link": "https://github.com/deedy/chess-chatarunga/blob/main/docs/paper.pdf",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 03:54:49 +0000",
+      "timestamp": 1795751689.0
+    },
+    {
+      "title": "Ask HN: Why can AI prove Riemann but not solve cust svc problems?",
+      "link": "https://news.ycombinator.com/item?id=50662399",
+      "summary": "I’m genuinely curious on perspectives here. My hunch is some of the answers might imply the existential risk to humanity is not quite what it seems. My hypothesis is that you need both verifiability and a domain-native semantic model/self-contained symbolic universe. Those conditions don’t hold for a lot of human activity. I think the corollary to this hypothesis is whether semantic model construction itself is verifiable, in which many more domains will start to look like coding and math.",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 03:24:06 +0000",
+      "timestamp": 1795749846.0
+    },
+    {
+      "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
+      "link": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 02:46:19 +0000",
+      "timestamp": 1795747579.0
+    },
+    {
+      "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+      "link": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 02:44:12 +0000",
+      "timestamp": 1795747452.0
+    },
+    {
+      "title": "Ask HN: What do you think of AI powered universal mind control?",
+      "link": "https://news.ycombinator.com/item?id=50662093",
+      "summary": "It's common to consult an AI via your cell phone for just about everything. Every little question. A little authority that lives in your pocket and answers all your questions and tells you what's right and wrong and what's true and false. That makes an excellent form of mind control. And when everybody is doing it then the whole population is mind controlled. This is happening right now. What do you think about that?",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 02:33:02 +0000",
+      "timestamp": 1795746782.0
+    },
+    {
+      "title": "Omarchy 4.6 Released with More Local AI Integration, Its Own File Manager",
+      "link": "https://www.phoronix.com/news/Omarchy-4.6-Released",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 01:37:30 +0000",
+      "timestamp": 1795743450.0
+    },
+    {
+      "title": "Musk pledges two SpaceX shares for every US child in $18B AI charm offensive",
+      "link": "https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 00:59:08 +0000",
+      "timestamp": 1795741148.0
+    },
+    {
+      "title": "Show HN: Scolast – AI tutor for autodidacts inspired by Bloom's 2 sigma problem",
+      "link": "https://scolast.com",
+      "summary": "I was using Claude to learn physics and I was getting a bit frustrated with the interface (I kept interrupting the conversation to get a quick explainer on something, and there was no good interface for Claude to ask me questions) so I built Scolast! It's an AI tutor that follows Bloom's findings ( https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem ) that 1 to 1 tutoring, using mastery learning (basically only moving ahead when the student has demonstrated they learned something, but also moving ahead as quickly as possible) can have pretty incredible results, around two standard deviatio",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 00:43:12 +0000",
+      "timestamp": 1795740192.0
+    },
+    {
+      "title": "Left to Solve: 57,410 open math problems, attacked by AI agents",
+      "link": "https://lefttosolve.com/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 00:07:25 +0000",
+      "timestamp": 1795738045.0
+    },
+    {
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 00:03:18 +0000",
+      "timestamp": 1795737798.0
+    },
+    {
+      "title": "The transformer, the one in the electric grid – is it holding up AI?",
+      "link": "https://neutrinodetect.one/app-carbon/p/9329f86fe52c",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Fri, 27 Nov 2026 00:01:50 +0000",
+      "timestamp": 1795737710.0
+    },
+    {
+      "title": "Has AI come for quantum gravity?",
+      "link": "https://superposer.substack.com/p/has-ai-come-for-quantum-gravity",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 23:46:45 +0000",
+      "timestamp": 1795736805.0
+    },
+    {
+      "title": "Show HN: Linux of AI, score and prove how locked-in your AI stack is",
+      "link": "https://github.com/sekacorn/Linux-of-Ai",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 23:40:29 +0000",
+      "timestamp": 1795736429.0
+    },
+    {
+      "title": "Show HN: Dailydev – do you still know the code you ship now that AI writes it?",
+      "link": "https://dailydev.gg",
+      "summary": "AI writes all the things now. So I thought it would be fun to have a quiz to see how much we actually remember. Check it out and let me know your thoughts!",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 23:35:46 +0000",
+      "timestamp": 1795736146.0
+    },
+    {
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia's Hands",
+      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 23:21:15 +0000",
+      "timestamp": 1795735275.0
+    },
+    {
+      "title": "The Local AI Opportunity",
+      "link": "https://thesis.truffle.net/introduction",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 23:21:14 +0000",
+      "timestamp": 1795735274.0
+    },
+    {
+      "title": "US chip curbs, distillation crackdown threaten Chinese AI model development",
+      "link": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
+      "summary": "",
+      "image": null,
+      "source": "Hacker News (AI)",
+      "published": "Thu, 26 Nov 2026 23:13:50 +0000",
+      "timestamp": 1795734830.0
+    },
     {
       "title": "You are mad at AI for the wrong reasons",
       "link": "https://benedictide.com/posts/ai/",
@@ -12,69 +183,6 @@
       "timestamp": 1795730548.0
     },
     {
-      "title": "AI made self-hosting fun again",
-      "link": "https://janlukas.blog/posts/ai-self-hosting",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 21:47:45 +0000",
-      "timestamp": 1795729665.0
-    },
-    {
-      "title": "The US Government Is Under AI Cyberattack",
-      "link": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 21:26:33 +0000",
-      "timestamp": 1795728393.0
-    },
-    {
-      "title": "AI slop is a tax you make other people pay",
-      "link": "https://www.youtube.com/watch?v=aZwQ8NW596Q",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 21:17:22 +0000",
-      "timestamp": 1795727842.0
-    },
-    {
-      "title": "Banks look to dump AI debt",
-      "link": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 20:49:01 +0000",
-      "timestamp": 1795726141.0
-    },
-    {
-      "title": "Signs of AI Writing, Backed by Data",
-      "link": "https://www.pangram.com/fr/signs-of-ai-writing",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 20:27:12 +0000",
-      "timestamp": 1795724832.0
-    },
-    {
-      "title": "AI #196: The Return",
-      "link": "https://thezvi.substack.com/p/ai-196-the-return",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 20:24:22 +0000",
-      "timestamp": 1795724662.0
-    },
-    {
-      "title": "ShareMyTokens – Share AI API access on a token budget, without exposing your key",
-      "link": "https://sharemytokens.com",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 20:10:57 +0000",
-      "timestamp": 1795723857.0
-    },
-    {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
       "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
@@ -82,114 +190,6 @@
       "source": "TechCrunch AI",
       "published": "Thu, 26 Nov 2026 20:03:54 +0000",
       "timestamp": 1795723434.0
-    },
-    {
-      "title": "A Warning About AI to My Loved Ones",
-      "link": "https://twitter.com/nikolaj2030/status/2125996744718565514",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 19:54:56 +0000",
-      "timestamp": 1795722896.0
-    },
-    {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 19:44:31 +0000",
-      "timestamp": 1795722271.0
-    },
-    {
-      "title": "Xmas gift ideas for kids – Hands-on and AI toys",
-      "link": "https://saras3d.ai/wonderlabs",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 19:38:35 +0000",
-      "timestamp": 1795721915.0
-    },
-    {
-      "title": "TrustedRouter Gives Companies Greater Privacy with AI",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 19:15:22 +0000",
-      "timestamp": 1795720522.0
-    },
-    {
-      "title": "AI Killed Agile [video]",
-      "link": "https://www.youtube.com/watch?v=t94DyXLh_u8",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 18:58:09 +0000",
-      "timestamp": 1795719489.0
-    },
-    {
-      "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
-      "link": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 18:46:18 +0000",
-      "timestamp": 1795718778.0
-    },
-    {
-      "title": "Beating AI detectors: It's harder than you'd think but I tried anyways",
-      "link": "https://unslop.run/blog/beating-ai-detectors",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 18:11:11 +0000",
-      "timestamp": 1795716671.0
-    },
-    {
-      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
-      "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 18:10:56 +0000",
-      "timestamp": 1795716656.0
-    },
-    {
-      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 18:02:46 +0000",
-      "timestamp": 1795716166.0
-    },
-    {
-      "title": "Tool-calling AI agents (not chatbots) predict slower firm hiring growth",
-      "link": "https://arxiv.org/abs/2611.27210",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 17:55:26 +0000",
-      "timestamp": 1795715726.0
-    },
-    {
-      "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
-      "link": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 17:55:10 +0000",
-      "timestamp": 1795715710.0
-    },
-    {
-      "title": "Physicist Uses AI to Tackle Quantum Gravity",
-      "link": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
-      "summary": "",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Thu, 26 Nov 2026 17:50:06 +0000",
-      "timestamp": 1795715406.0
     },
     {
       "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
