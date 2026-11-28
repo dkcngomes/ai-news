@@ -1,186 +1,177 @@
 {
-  "scraped_at": "2026-11-27T23:26:20.017480+00:00",
-  "count": 60,
+  "scraped_at": "2026-11-28T07:43:47.077182+00:00",
+  "count": 59,
   "items": [
     {
-      "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
-      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-pushes-back-axios-184139218.html",
+      "title": "Zero-egress ~0.04ms 6-layer deterministic firewall for AI agent payouts",
+      "link": "https://news.ycombinator.com/item?id=50675433",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 23:07:02 +0000",
-      "timestamp": 1795820822.0
+      "published": "Sat, 28 Nov 2026 07:08:42 +0000",
+      "timestamp": 1795849722.0
     },
     {
-      "title": "Which AI Would You Trust to Build a Bridge? [video]",
-      "link": "https://www.youtube.com/watch?v=AL9_42YQZzE",
+      "title": "To Think or Not to Think: AI tools and the loss of engineering fundamentals",
+      "link": "https://ristonthomas.com/essays/to_think_or_not_to_think/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 22:49:41 +0000",
-      "timestamp": 1795819781.0
+      "published": "Sat, 28 Nov 2026 07:03:08 +0000",
+      "timestamp": 1795849388.0
     },
     {
-      "title": "Show HN: A CLI that measures whether AI answers cite your site",
-      "link": "https://github.com/routeflags/ai-citation-monitor",
+      "title": "Cory Doctorow: Taylorism and AI's shared sales-pitch",
+      "link": "https://pluralistic.net/2026/11/27/taylor-made/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 22:29:07 +0000",
-      "timestamp": 1795818547.0
+      "published": "Sat, 28 Nov 2026 06:57:51 +0000",
+      "timestamp": 1795849071.0
     },
     {
-      "title": "First time AI employee presents PPTX on call [video]",
-      "link": "https://www.youtube.com/watch?v=Ch5qycwmjUE",
+      "title": "'The taste layer of the internet ': Reddit's COO on why AI needs humans",
+      "link": "https://www.euronews.com/2026/11/26/the-taste-layer-of-the-internet-reddits-coo-on-why-ai-needs-humans",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 22:21:58 +0000",
-      "timestamp": 1795818118.0
+      "published": "Sat, 28 Nov 2026 06:46:34 +0000",
+      "timestamp": 1795848394.0
     },
     {
-      "title": "Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
-      "link": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "title": "AI labs sitting on 'bombshell' revelations, experts warn",
+      "link": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 21:42:15 +0000",
-      "timestamp": 1795815735.0
+      "published": "Sat, 28 Nov 2026 06:43:19 +0000",
+      "timestamp": 1795848199.0
     },
     {
-      "title": "AI Security Engineers",
-      "link": "https://github.com/mimoo/awesome-ai-security-engineer",
+      "title": "Why AI is solving maths' hardest problems. Here's why you should care",
+      "link": "https://news.sky.com/video/why-ai-is-solving-maths-hardest-problems-heres-why-you-should-care-13617298",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 21:12:18 +0000",
-      "timestamp": 1795813938.0
+      "published": "Sat, 28 Nov 2026 06:28:03 +0000",
+      "timestamp": 1795847283.0
     },
     {
-      "title": "Meta defends AI glasses in court as Dutch groups demand ban",
-      "link": "https://nltimes.nl/2026/11/26/meta-defends-ai-glasses-court-dutch-groups-demand-ban",
+      "title": "Nvidia and Kioxia 1.1PB SSD Memory Experiment Could Transform AI Infrastructure",
+      "link": "https://www.gizmoweek.com/gpu-memory-nvme-ssds/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 21:09:54 +0000",
-      "timestamp": 1795813794.0
+      "published": "Sat, 28 Nov 2026 06:24:04 +0000",
+      "timestamp": 1795847044.0
     },
     {
-      "title": "AI Trader Agent show up and trade live publicly everyday, win 8/9 past sessions",
-      "link": "https://henryzhang.substack.com/p/8-green-sessions-out-of-9-all-traded",
+      "title": "Building a better Dependabot with AI agents",
+      "link": "https://cdm.dev/blog/better-dependabot/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 20:59:40 +0000",
-      "timestamp": 1795813180.0
+      "published": "Sat, 28 Nov 2026 06:21:30 +0000",
+      "timestamp": 1795846890.0
     },
     {
-      "title": "Banks look to dump AI debt",
-      "link": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+      "title": "Show HN: A web scraper for your AI agents",
+      "link": "https://atlas-compiler.com/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 20:56:17 +0000",
-      "timestamp": 1795812977.0
+      "published": "Sat, 28 Nov 2026 06:03:11 +0000",
+      "timestamp": 1795845791.0
     },
     {
-      "title": "A Man and His Muse AI Agent Sue Meta",
-      "link": "https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/",
+      "title": "OpenAI claims to have solved a 57-year-old math problem at the heart of AI",
+      "link": "https://thenewstack.io/openai-matrix-multiplication-exponent/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 20:56:11 +0000",
-      "timestamp": 1795812971.0
+      "published": "Sat, 28 Nov 2026 06:01:54 +0000",
+      "timestamp": 1795845714.0
     },
     {
-      "title": "Is Lisp Still Relevant in the New Age of AI? [video]",
-      "link": "https://www.youtube.com/watch?v=9CNr8xsDUng",
+      "title": "Google adding official Google AI plan support to Pi coding agent",
+      "link": "https://github.com/earendil-works/pi/pull/12614",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 20:47:23 +0000",
-      "timestamp": 1795812443.0
+      "published": "Sat, 28 Nov 2026 05:42:49 +0000",
+      "timestamp": 1795844569.0
     },
     {
-      "title": "SAP Weighs Cutting at Least 10k Roles in AI Restructure",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+      "title": "What It Takes to Let AI Agents Work While You Walk Away",
+      "link": "https://ivankahl.com/blog/what-it-takes-to-let-ai-agents-work-while-you-walk-away/",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 20:43:03 +0000",
-      "timestamp": 1795812183.0
+      "published": "Sat, 28 Nov 2026 04:32:38 +0000",
+      "timestamp": 1795840358.0
     },
     {
-      "title": "AMD and Intel's AI Compute Extensions Integrated into GCC",
-      "link": "https://cryptobriefing.com/amd-intel-ai-compute-extensions-gcc/",
+      "title": "What Happens When AI Aligns Itself?",
+      "link": "https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 20:33:34 +0000",
-      "timestamp": 1795811614.0
+      "published": "Sat, 28 Nov 2026 04:29:03 +0000",
+      "timestamp": 1795840143.0
     },
     {
-      "title": "German sofware giant SAP weighs at least 10k job cuts amid AI shift",
-      "link": "https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say",
+      "title": "Quick Take: AMD's Helios as a Plug-and-Play AI Appliance Standard",
+      "link": "https://www.microprocessorreport.com/p/quick-take-amds-helios-appliance",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 20:26:15 +0000",
-      "timestamp": 1795811175.0
+      "published": "Sat, 28 Nov 2026 04:26:35 +0000",
+      "timestamp": 1795839995.0
     },
     {
-      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-      "link": "https://github.com/skeeto/prospero",
+      "title": "AI micro dramas turn China's entertainment industry on its head",
+      "link": "https://www.abc.net.au/news/2026-11-28/ai-microdramas-disrupt-china-entertainment-industry/107421952",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 20:23:14 +0000",
-      "timestamp": 1795810994.0
+      "published": "Sat, 28 Nov 2026 04:01:59 +0000",
+      "timestamp": 1795838519.0
     },
     {
-      "title": "The Physics Wall Facing Orbital AI Data Centers",
-      "link": "https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers",
+      "title": "Trending Open-Source Software · Opensourcesoftware.ai",
+      "link": "https://opensourcesoftware.ai",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 20:22:23 +0000",
-      "timestamp": 1795810943.0
+      "published": "Sat, 28 Nov 2026 03:44:22 +0000",
+      "timestamp": 1795837462.0
     },
     {
-      "title": "Pan Cooke ( pancooke): \"A comic I wrote about AI art and what we risk to lose.\"",
-      "link": "https://substack.com/@pancooke/note/c-395539528",
+      "title": "Frontier models need only one text to unmask its human or AI author",
+      "link": "https://arxiv.org/abs/2611.26216",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 20:01:33 +0000",
-      "timestamp": 1795809693.0
+      "published": "Sat, 28 Nov 2026 03:32:57 +0000",
+      "timestamp": 1795836777.0
     },
     {
-      "title": "Show HN: I gave my AI Agents Production backed Memory",
-      "link": "https://usecodela.com/",
-      "summary": "Hi HN, I’m building Codela to help coding agents learn from what happens after their code ships. I realized that my AI agent writes a change, the tests pass, and it gets deployed. Then in production a problem happens, I fix it, but what it did wrong and why never reaches the agent, so futures session usually make the same mistake. So I built Codela which checks every deploy against how my app actually behaves in production (via my monitoring tool signoz) , learns from the ones that broke it, and teaches my agents so they don’t repeat the mistake. Would love any feedback on this, thanks!",
-      "image": null,
-      "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 19:58:45 +0000",
-      "timestamp": 1795809525.0
-    },
-    {
-      "title": "Show HN: Machine-load – see which AI coding session is slowing your Mac",
-      "link": "https://github.com/Stak-Technologies/machine-load",
+      "title": "Quanta AI – Manage Virtual Machines in VirtualProg with AI Chat",
+      "link": "https://makeprog.com/Products/VirtualProg/help/quanta.html",
       "summary": "",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 19:24:30 +0000",
-      "timestamp": 1795807470.0
+      "published": "Sat, 28 Nov 2026 02:38:40 +0000",
+      "timestamp": 1795833520.0
     },
     {
-      "title": "AI Guardrail Demo No Successes Yet",
-      "link": "https://guardrail-api-core-production.up.railway.app/",
-      "summary": "",
+      "title": "Show HN: AI Face Shape Detection and Custom Beard Design",
+      "link": "https://beardstylesformen.org/beard-design/",
+      "summary": "You can get your best beard styles which suits your face shape",
       "image": null,
       "source": "Hacker News (AI)",
-      "published": "Fri, 27 Nov 2026 19:18:59 +0000",
-      "timestamp": 1795807139.0
+      "published": "Sat, 28 Nov 2026 02:29:55 +0000",
+      "timestamp": 1795832995.0
     },
     {
       "title": "Android’s DIY widgets are a bit of vibe-coding fun",
